@@ -1,0 +1,14 @@
+{
+  "commit": "533f7dabfee7b41e240d86efe2ff5023a1e1e7a9",
+  "repo_url": "https://github.com/kiwitcms/enterprise",
+  "date": "2023-04-23T11:05:56",
+  "languages": {
+    "Python": 10060,
+    "RobotFramework": 3330,
+    "Makefile": 2838,
+    "Shell": 2707,
+    "Dockerfile": 1510,
+    "HTML": 660
+  },
+  "size": 21105
+}

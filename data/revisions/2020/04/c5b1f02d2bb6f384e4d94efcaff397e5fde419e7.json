@@ -1,0 +1,18 @@
+{
+  "commit": "c5b1f02d2bb6f384e4d94efcaff397e5fde419e7",
+  "repo_url": "https://github.com/combodo/itop",
+  "date": "2020-04-21T06:52:42",
+  "languages": {
+    "PHP": 15925746,
+    "JavaScript": 1584137,
+    "CSS": 222771,
+    "Twig": 193929,
+    "SCSS": 137910,
+    "Yacc": 60389,
+    "HTML": 20752,
+    "Smarty": 13798,
+    "Shell": 5243,
+    "Batchfile": 1249
+  },
+  "size": 18165924
+}

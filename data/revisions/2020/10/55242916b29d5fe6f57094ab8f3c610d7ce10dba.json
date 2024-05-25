@@ -1,0 +1,18 @@
+{
+  "commit": "55242916b29d5fe6f57094ab8f3c610d7ce10dba",
+  "repo_url": "https://github.com/apache/dolphinscheduler",
+  "date": "2020-10-29T09:49:18",
+  "languages": {
+    "Java": 4021570,
+    "Vue": 1048765,
+    "Shell": 52205,
+    "SCSS": 34020,
+    "Python": 28707,
+    "Smarty": 22259,
+    "PLpgSQL": 11777,
+    "Jinja": 6999,
+    "Dockerfile": 3323,
+    "Batchfile": 3211
+  },
+  "size": 5232836
+}

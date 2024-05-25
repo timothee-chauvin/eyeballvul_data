@@ -1,0 +1,13 @@
+{
+  "commit": "158e1ad7805d1f2daeab2e96b7397c275ff1ac8e",
+  "repo_url": "https://github.com/bedita/bedita",
+  "date": "2017-09-07T09:04:00",
+  "languages": {
+    "PHP": 1883542,
+    "Shell": 3536,
+    "Dockerfile": 1516,
+    "Batchfile": 834,
+    "Procfile": 67
+  },
+  "size": 1889495
+}

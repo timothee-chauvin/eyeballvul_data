@@ -1,0 +1,33 @@
+{
+  "commit": "98981657948fc0a85a0d72556c8a6d447ca143d4",
+  "repo_url": "https://github.com/chef/automate",
+  "date": "2023-09-25T11:43:25",
+  "languages": {
+    "Go": 13743552,
+    "TypeScript": 4050223,
+    "Erlang": 3322034,
+    "Ruby": 1611951,
+    "PLpgSQL": 1059252,
+    "HTML": 979553,
+    "JavaScript": 905705,
+    "Shell": 841493,
+    "SCSS": 808538,
+    "HCL": 298623,
+    "Elixir": 233317,
+    "Makefile": 133115,
+    "Less": 78481,
+    "Open Policy Agent": 30065,
+    "Lua": 28187,
+    "Smarty": 14315,
+    "CSS": 9725,
+    "Dockerfile": 9039,
+    "jq": 2686,
+    "Awk": 2099,
+    "Python": 2074,
+    "RAML": 1402,
+    "Assembly": 971,
+    "PureBasic": 623,
+    "AppleScript": 261
+  },
+  "size": 28167284
+}

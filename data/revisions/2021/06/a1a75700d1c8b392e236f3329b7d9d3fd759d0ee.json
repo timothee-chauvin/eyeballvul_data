@@ -1,0 +1,22 @@
+{
+  "commit": "a1a75700d1c8b392e236f3329b7d9d3fd759d0ee",
+  "repo_url": "https://github.com/jenkinsci/jenkins",
+  "date": "2021-06-22T12:18:32",
+  "languages": {
+    "Java": 11361500,
+    "HTML": 973515,
+    "JavaScript": 397344,
+    "CSS": 232959,
+    "Less": 133141,
+    "Groovy": 81463,
+    "Ruby": 19375,
+    "Handlebars": 14878,
+    "Perl": 14718,
+    "Shell": 11458,
+    "GAP": 6438,
+    "C": 2091,
+    "Dockerfile": 1147,
+    "Batchfile": 1023
+  },
+  "size": 13251050
+}

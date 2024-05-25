@@ -1,0 +1,18 @@
+{
+  "commit": "507d5e38decc80f66164a305f1f8f08b28840f9f",
+  "repo_url": "https://github.com/edx/edx-platform",
+  "date": "2018-07-16T16:55:45",
+  "languages": {
+    "Python": 22485953,
+    "JavaScript": 8887938,
+    "HTML": 6710686,
+    "SCSS": 1369486,
+    "CSS": 179181,
+    "Gherkin": 44880,
+    "Shell": 38210,
+    "ActionScript": 3539,
+    "Makefile": 3492,
+    "Mustache": 15
+  },
+  "size": 39723380
+}

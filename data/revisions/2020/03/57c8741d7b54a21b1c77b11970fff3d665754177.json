@@ -1,0 +1,11 @@
+{
+  "commit": "57c8741d7b54a21b1c77b11970fff3d665754177",
+  "repo_url": "https://github.com/snyk/broker",
+  "date": "2020-03-17T15:44:53",
+  "languages": {
+    "JavaScript": 103102,
+    "Dockerfile": 6371,
+    "Shell": 225
+  },
+  "size": 109698
+}

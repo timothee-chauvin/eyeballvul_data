@@ -1,6 +1,6 @@
 {
   "commit": "584c5ddcbdd46342e2aa0f869071a4e5dc6c71dd",
-  "repo_url": "https://github.com/facebook/osquery",
+  "repo_url": "https://github.com/osquery/osquery",
   "date": "2018-05-22T17:28:56",
   "languages": {
     "C++": 3060291,

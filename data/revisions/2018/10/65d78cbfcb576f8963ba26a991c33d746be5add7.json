@@ -1,0 +1,15 @@
+{
+  "commit": "65d78cbfcb576f8963ba26a991c33d746be5add7",
+  "repo_url": "https://github.com/mycolorway/simditor",
+  "date": "2018-10-17T03:09:48",
+  "languages": {
+    "JavaScript": 402194,
+    "CoffeeScript": 152776,
+    "CSS": 75770,
+    "SCSS": 36798,
+    "HTML": 7169,
+    "Handlebars": 770,
+    "Ruby": 67
+  },
+  "size": 675544
+}

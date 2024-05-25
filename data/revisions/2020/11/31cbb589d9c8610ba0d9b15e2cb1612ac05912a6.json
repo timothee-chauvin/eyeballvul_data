@@ -1,0 +1,21 @@
+{
+  "commit": "31cbb589d9c8610ba0d9b15e2cb1612ac05912a6",
+  "repo_url": "https://github.com/ipfire/ipfire-2.x",
+  "date": "2020-11-14T08:05:34",
+  "languages": {
+    "Perl": 2783489,
+    "Raku": 1386920,
+    "Shell": 1229692,
+    "C": 280345,
+    "Makefile": 39341,
+    "M4": 36690,
+    "Python": 29483,
+    "CSS": 28543,
+    "JavaScript": 22139,
+    "HTML": 3917,
+    "Batchfile": 2843,
+    "Vim Script": 1288,
+    "Dockerfile": 385
+  },
+  "size": 5845075
+}

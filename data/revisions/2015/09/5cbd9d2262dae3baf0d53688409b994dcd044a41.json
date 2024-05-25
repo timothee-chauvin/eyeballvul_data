@@ -1,0 +1,14 @@
+{
+  "commit": "5cbd9d2262dae3baf0d53688409b994dcd044a41",
+  "repo_url": "https://github.com/apache/guacamole-server",
+  "date": "2015-09-07T04:45:55",
+  "languages": {
+    "C": 1401740,
+    "M4": 31767,
+    "Makefile": 30347,
+    "Perl": 8893,
+    "Roff": 7110,
+    "Shell": 7010
+  },
+  "size": 1486867
+}

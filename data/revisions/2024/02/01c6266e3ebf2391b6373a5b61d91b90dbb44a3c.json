@@ -1,0 +1,22 @@
+{
+  "commit": "01c6266e3ebf2391b6373a5b61d91b90dbb44a3c",
+  "repo_url": "https://github.com/coder/coder",
+  "date": "2024-02-15T17:20:43",
+  "languages": {
+    "Go": 7888511,
+    "TypeScript": 2402256,
+    "Shell": 177751,
+    "HCL": 85579,
+    "Makefile": 29026,
+    "Dockerfile": 22167,
+    "Smarty": 13460,
+    "HTML": 10196,
+    "NSIS": 9366,
+    "PLpgSQL": 9321,
+    "Open Policy Agent": 7399,
+    "Nix": 4350,
+    "JavaScript": 3620,
+    "PowerShell": 1276
+  },
+  "size": 10664278
+}

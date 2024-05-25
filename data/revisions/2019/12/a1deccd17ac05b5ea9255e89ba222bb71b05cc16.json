@@ -1,0 +1,15 @@
+{
+  "commit": "a1deccd17ac05b5ea9255e89ba222bb71b05cc16",
+  "repo_url": "https://github.com/karsonzhang/fastadmin",
+  "date": "2019-12-13T04:16:29",
+  "languages": {
+    "JavaScript": 1415636,
+    "PHP": 644286,
+    "HTML": 517349,
+    "Less": 450939,
+    "CSS": 146828,
+    "PLpgSQL": 41431,
+    "Smarty": 9618
+  },
+  "size": 3226087
+}

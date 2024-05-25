@@ -1,0 +1,16 @@
+{
+  "commit": "52462e8bac7b2ce5364f85044b26be9bfed8c2ab",
+  "repo_url": "https://github.com/berriai/litellm",
+  "date": "2024-04-11T01:06:31",
+  "languages": {
+    "Python": 3578438,
+    "TypeScript": 207550,
+    "HTML": 77691,
+    "JavaScript": 6089,
+    "Shell": 4736,
+    "Dockerfile": 4327,
+    "Smarty": 2462,
+    "CSS": 612
+  },
+  "size": 3881905
+}

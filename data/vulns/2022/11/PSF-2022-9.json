@@ -7,9 +7,8 @@
   "repo_url": "https://github.com/python/cpython",
   "cwes": [],
   "commits": [
+    "1f2e3088f3c097b5bde69bbd63dfcd0852d31984",
     "3a833f748fc629d25a5af3faeef91447f4709804",
-    "88db37442238079a2eff4d142e8e94cfddb58e22",
-    "a58ebcc701dd6c43630df941481475ff0f615a81",
     "c1004b85464579771db3b50f5b150449275bbbd0"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "commit": "fe7b748eb668136dd0558b7c8279bfcd7ab4d759",
+  "repo_url": "https://github.com/hyprwm/hyprland",
+  "date": "2024-04-16T16:01:03",
+  "languages": {
+    "C++": 1738899,
+    "Shell": 49619,
+    "Nix": 11453,
+    "CMake": 10151,
+    "Meson": 8352,
+    "Makefile": 6496,
+    "GLSL": 239
+  },
+  "size": 1825209
+}

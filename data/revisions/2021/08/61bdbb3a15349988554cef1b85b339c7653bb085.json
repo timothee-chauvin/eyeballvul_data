@@ -1,6 +1,6 @@
 {
   "commit": "61bdbb3a15349988554cef1b85b339c7653bb085",
-  "repo_url": "https://github.com/paritytech/frontier",
+  "repo_url": "https://github.com/polkadot-evm/frontier",
   "date": "2021-08-08T13:18:38",
   "languages": {
     "Rust": 398778,

@@ -1,0 +1,23 @@
+{
+  "commit": "6451a2bd14fc527393cefe40d5365cbc62dcf811",
+  "repo_url": "https://github.com/isc-projects/bind9",
+  "date": "2012-05-09T22:45:15",
+  "languages": {
+    "C": 12148736,
+    "Shell": 1723607,
+    "Makefile": 1030250,
+    "C++": 785705,
+    "Roff": 481539,
+    "HTML": 474595,
+    "Perl": 259166,
+    "M4": 78654,
+    "Tcl": 31797,
+    "XSLT": 29668,
+    "Batchfile": 12422,
+    "Awk": 11329,
+    "SWIG": 6599,
+    "CSS": 3545,
+    "Python": 3206
+  },
+  "size": 17080818
+}

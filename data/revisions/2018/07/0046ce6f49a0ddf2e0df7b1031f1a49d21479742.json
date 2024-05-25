@@ -1,0 +1,18 @@
+{
+  "commit": "0046ce6f49a0ddf2e0df7b1031f1a49d21479742",
+  "repo_url": "https://github.com/frostwire/frostwire",
+  "date": "2018-07-24T06:01:26",
+  "languages": {
+    "Java": 9527507,
+    "C++": 61859,
+    "HTML": 22470,
+    "C": 6813,
+    "Objective-C": 4397,
+    "JavaScript": 2553,
+    "Shell": 1773,
+    "AIDL": 1191,
+    "CMake": 457,
+    "Batchfile": 423
+  },
+  "size": 9629443
+}

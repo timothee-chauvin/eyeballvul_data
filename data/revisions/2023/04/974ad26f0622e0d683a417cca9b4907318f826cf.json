@@ -1,0 +1,18 @@
+{
+  "commit": "974ad26f0622e0d683a417cca9b4907318f826cf",
+  "repo_url": "https://github.com/wekan/wekan",
+  "date": "2023-04-11T12:43:26",
+  "languages": {
+    "JavaScript": 1559110,
+    "HTML": 982299,
+    "Pug": 263433,
+    "CSS": 224497,
+    "Shell": 177115,
+    "Python": 77662,
+    "Batchfile": 22531,
+    "Dockerfile": 18882,
+    "Perl": 11519,
+    "Cap'n Proto": 9397
+  },
+  "size": 3346445
+}

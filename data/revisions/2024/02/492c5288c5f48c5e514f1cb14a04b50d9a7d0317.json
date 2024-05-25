@@ -1,0 +1,13 @@
+{
+  "commit": "492c5288c5f48c5e514f1cb14a04b50d9a7d0317",
+  "repo_url": "https://github.com/danielparks/puppet-golang",
+  "date": "2024-02-16T05:01:12",
+  "languages": {
+    "Ruby": 38400,
+    "Puppet": 13234,
+    "Shell": 3699,
+    "Dockerfile": 234,
+    "Pascal": 174
+  },
+  "size": 55741
+}

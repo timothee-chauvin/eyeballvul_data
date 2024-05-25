@@ -1,0 +1,16 @@
+{
+  "commit": "ab99379aff5bce602c9086e9b47a4d7f39b82a8a",
+  "repo_url": "https://github.com/viewcomponent/view_component",
+  "date": "2023-11-27T21:11:10",
+  "languages": {
+    "Ruby": 314428,
+    "HTML": 16640,
+    "Shell": 5202,
+    "CSS": 998,
+    "Dockerfile": 732,
+    "Haml": 592,
+    "Slim": 431,
+    "JavaScript": 73
+  },
+  "size": 339096
+}

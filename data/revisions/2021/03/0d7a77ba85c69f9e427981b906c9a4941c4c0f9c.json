@@ -1,0 +1,19 @@
+{
+  "commit": "0d7a77ba85c69f9e427981b906c9a4941c4c0f9c",
+  "repo_url": "https://github.com/syncthing/syncthing",
+  "date": "2021-03-23T09:38:40",
+  "languages": {
+    "Go": 2681737,
+    "HTML": 337331,
+    "JavaScript": 258925,
+    "TypeScript": 94500,
+    "CSS": 20597,
+    "SCSS": 8041,
+    "Shell": 3600,
+    "Dockerfile": 718,
+    "Ruby": 284,
+    "PowerShell": 264,
+    "Batchfile": 124
+  },
+  "size": 3406121
+}

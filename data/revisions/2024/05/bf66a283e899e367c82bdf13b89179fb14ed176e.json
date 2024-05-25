@@ -1,0 +1,13 @@
+{
+  "commit": "bf66a283e899e367c82bdf13b89179fb14ed176e",
+  "repo_url": "https://github.com/abetlen/llama-cpp-python",
+  "date": "2024-05-09T07:02:52",
+  "languages": {
+    "Python": 564286,
+    "Dockerfile": 3597,
+    "CMake": 3528,
+    "Shell": 3129,
+    "Makefile": 1891
+  },
+  "size": 576431
+}

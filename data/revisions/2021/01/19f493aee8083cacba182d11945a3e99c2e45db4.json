@@ -1,0 +1,21 @@
+{
+  "commit": "19f493aee8083cacba182d11945a3e99c2e45db4",
+  "repo_url": "https://github.com/quarkusio/quarkus",
+  "date": "2021-01-13T07:55:53",
+  "languages": {
+    "Java": 21824029,
+    "Kotlin": 407806,
+    "HTML": 182806,
+    "FreeMarker": 39286,
+    "ANTLR": 23342,
+    "Shell": 20314,
+    "Batchfile": 11782,
+    "Groovy": 8520,
+    "Mustache": 7345,
+    "Scala": 3570,
+    "CSS": 463,
+    "JavaScript": 187,
+    "Dockerfile": 181
+  },
+  "size": 22529631
+}

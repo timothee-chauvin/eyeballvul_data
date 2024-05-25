@@ -1,0 +1,13 @@
+{
+  "commit": "be693d3f2656627a71925724801c602ec98c4815",
+  "repo_url": "https://github.com/kubernetes-sigs/secrets-store-csi-driver",
+  "date": "2023-03-20T23:43:07",
+  "languages": {
+    "Go": 400212,
+    "Shell": 88439,
+    "Makefile": 27966,
+    "Dockerfile": 5277,
+    "Mustache": 3372
+  },
+  "size": 525266
+}

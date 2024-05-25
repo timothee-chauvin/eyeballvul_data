@@ -1,0 +1,12 @@
+{
+  "commit": "acb6d101a2ab605bff1c449fee18aace06ec0b64",
+  "repo_url": "https://github.com/mdadams/jasper",
+  "date": "2016-10-19T08:13:22",
+  "languages": {
+    "C": 1300443,
+    "Makefile": 53398,
+    "M4": 17708,
+    "Roff": 2120
+  },
+  "size": 1373669
+}

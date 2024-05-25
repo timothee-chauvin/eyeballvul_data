@@ -1,0 +1,15 @@
+{
+  "commit": "02883208a1b6fab503bd367c1acae43133c5ff42",
+  "repo_url": "https://github.com/pts/sam2p",
+  "date": "2017-09-27T15:53:54",
+  "languages": {
+    "C++": 723234,
+    "C": 443887,
+    "Shell": 305922,
+    "Tcl": 51542,
+    "Perl": 34561,
+    "Makefile": 7667,
+    "PostScript": 946
+  },
+  "size": 1567759
+}

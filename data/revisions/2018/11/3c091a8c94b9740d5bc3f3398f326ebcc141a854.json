@@ -1,0 +1,12 @@
+{
+  "commit": "3c091a8c94b9740d5bc3f3398f326ebcc141a854",
+  "repo_url": "https://github.com/prestashop/ps_linklist",
+  "date": "2018-11-19T17:51:51",
+  "languages": {
+    "PHP": 141760,
+    "Twig": 9606,
+    "JavaScript": 7475,
+    "Smarty": 1427
+  },
+  "size": 160268
+}

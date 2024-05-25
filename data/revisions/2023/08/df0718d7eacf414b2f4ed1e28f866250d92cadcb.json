@@ -1,0 +1,15 @@
+{
+  "commit": "df0718d7eacf414b2f4ed1e28f866250d92cadcb",
+  "repo_url": "https://github.com/apache/mynewt-nimble",
+  "date": "2023-08-10T12:49:50",
+  "languages": {
+    "C": 7148809,
+    "Python": 105770,
+    "Ruby": 25717,
+    "Makefile": 11139,
+    "C++": 8323,
+    "Shell": 8043,
+    "Batchfile": 1870
+  },
+  "size": 7309671
+}

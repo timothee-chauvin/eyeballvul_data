@@ -1,0 +1,13 @@
+{
+  "commit": "89d77410ada438212c8c5b800a82cb04349f1382",
+  "repo_url": "https://github.com/babelouest/rhonabwy",
+  "date": "2023-11-14T16:38:17",
+  "languages": {
+    "C": 1903295,
+    "CMake": 34679,
+    "Makefile": 16479,
+    "Shell": 4192,
+    "Roff": 3729
+  },
+  "size": 1962374
+}

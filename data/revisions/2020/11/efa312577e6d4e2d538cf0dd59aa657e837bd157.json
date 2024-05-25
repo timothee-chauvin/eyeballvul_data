@@ -1,0 +1,13 @@
+{
+  "commit": "efa312577e6d4e2d538cf0dd59aa657e837bd157",
+  "repo_url": "https://github.com/tinymce/tinymce",
+  "date": "2020-11-18T03:25:19",
+  "languages": {
+    "TypeScript": 11238767,
+    "Less": 207595,
+    "HTML": 197170,
+    "JavaScript": 127042,
+    "CSS": 12589
+  },
+  "size": 11783163
+}

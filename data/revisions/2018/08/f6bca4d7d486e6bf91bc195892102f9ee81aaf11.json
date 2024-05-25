@@ -1,0 +1,12 @@
+{
+  "commit": "f6bca4d7d486e6bf91bc195892102f9ee81aaf11",
+  "repo_url": "https://github.com/diffplug/spotless",
+  "date": "2018-08-08T15:44:01",
+  "languages": {
+    "Java": 790256,
+    "Mustache": 7407,
+    "HTML": 5490,
+    "Shell": 488
+  },
+  "size": 803641
+}

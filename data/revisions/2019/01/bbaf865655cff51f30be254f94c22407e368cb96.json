@@ -1,0 +1,19 @@
+{
+  "commit": "bbaf865655cff51f30be254f94c22407e368cb96",
+  "repo_url": "https://github.com/nixos/nix",
+  "date": "2019-01-10T20:02:09",
+  "languages": {
+    "C++": 2105198,
+    "Shell": 141425,
+    "Nix": 82536,
+    "Makefile": 27594,
+    "Perl": 23899,
+    "Yacc": 20327,
+    "M4": 11437,
+    "XS": 10290,
+    "Lex": 6513,
+    "Emacs Lisp": 526,
+    "Ruby": 175
+  },
+  "size": 2429920
+}

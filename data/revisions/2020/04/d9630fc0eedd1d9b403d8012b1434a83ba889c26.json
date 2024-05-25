@@ -1,0 +1,14 @@
+{
+  "commit": "d9630fc0eedd1d9b403d8012b1434a83ba889c26",
+  "repo_url": "https://github.com/sylius/sylius",
+  "date": "2020-04-21T08:29:03",
+  "languages": {
+    "PHP": 5421872,
+    "Gherkin": 925965,
+    "Twig": 351366,
+    "JavaScript": 82507,
+    "Shell": 29208,
+    "SCSS": 13876
+  },
+  "size": 6824794
+}

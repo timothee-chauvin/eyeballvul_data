@@ -1,0 +1,18 @@
+{
+  "commit": "214bb641537717c5034b59e5c1c7137d043643e2",
+  "repo_url": "https://gitlab.com/gitlab-org/gitlab",
+  "date": "2018-10-26T07:29:00",
+  "languages": {
+    "Ruby": 21786541,
+    "JavaScript": 4881734,
+    "Haml": 1488298,
+    "Vue": 1273466,
+    "SCSS": 700316,
+    "HTML": 53968,
+    "Shell": 37733,
+    "Dockerfile": 1676,
+    "Procfile": 291,
+    "Clojure": 79
+  },
+  "size": 30224102
+}

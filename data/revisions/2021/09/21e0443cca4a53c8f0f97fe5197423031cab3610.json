@@ -1,0 +1,16 @@
+{
+  "commit": "21e0443cca4a53c8f0f97fe5197423031cab3610",
+  "repo_url": "https://github.com/puma/puma",
+  "date": "2021-09-19T20:08:06",
+  "languages": {
+    "Ruby": 482019,
+    "C": 53108,
+    "Java": 38316,
+    "Ragel": 9182,
+    "Shell": 3906,
+    "PowerShell": 3326,
+    "Dockerfile": 342,
+    "Lua": 127
+  },
+  "size": 590326
+}

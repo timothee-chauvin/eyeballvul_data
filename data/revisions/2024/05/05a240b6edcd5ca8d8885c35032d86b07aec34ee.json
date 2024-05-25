@@ -1,0 +1,16 @@
+{
+  "commit": "05a240b6edcd5ca8d8885c35032d86b07aec34ee",
+  "repo_url": "https://github.com/paperless-ngx/paperless-ngx",
+  "date": "2024-05-15T05:11:43",
+  "languages": {
+    "Python": 1848661,
+    "TypeScript": 1378107,
+    "HTML": 337109,
+    "SCSS": 75472,
+    "Shell": 22959,
+    "CSS": 12784,
+    "Dockerfile": 10602,
+    "JavaScript": 582
+  },
+  "size": 3686276
+}

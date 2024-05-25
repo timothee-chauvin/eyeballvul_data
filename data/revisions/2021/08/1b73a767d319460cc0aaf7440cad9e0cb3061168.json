@@ -1,0 +1,22 @@
+{
+  "commit": "1b73a767d319460cc0aaf7440cad9e0cb3061168",
+  "repo_url": "https://github.com/concourse/concourse",
+  "date": "2021-08-30T15:27:28",
+  "languages": {
+    "Go": 6438079,
+    "Elm": 1922430,
+    "PLpgSQL": 112781,
+    "Ruby": 73078,
+    "JavaScript": 72930,
+    "Less": 34315,
+    "Shell": 8566,
+    "HTML": 8237,
+    "CSS": 3752,
+    "Dockerfile": 1511,
+    "C": 992,
+    "Open Policy Agent": 534,
+    "HCL": 256,
+    "Makefile": 133
+  },
+  "size": 8677594
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "2c0c7942a73e95a6f8ec38ae5b1db10e1e2a53e6",
+  "repo_url": "https://github.com/surveyjs/survey-library",
+  "date": "2024-05-07T14:02:08",
+  "languages": {
+    "TypeScript": 8079729,
+    "HTML": 541038,
+    "JavaScript": 441519,
+    "Vue": 340266,
+    "SCSS": 334049,
+    "PEG.js": 4399,
+    "Pug": 572,
+    "Shell": 65
+  },
+  "size": 9741637
+}

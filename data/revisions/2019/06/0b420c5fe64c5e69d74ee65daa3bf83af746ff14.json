@@ -1,0 +1,21 @@
+{
+  "commit": "0b420c5fe64c5e69d74ee65daa3bf83af746ff14",
+  "repo_url": "https://github.com/nextcloud/desktop",
+  "date": "2019-06-12T09:33:25",
+  "languages": {
+    "C++": 2698436,
+    "CMake": 215429,
+    "NSIS": 124660,
+    "Perl": 82250,
+    "C": 78275,
+    "Python": 43631,
+    "Shell": 22350,
+    "Objective-C": 16621,
+    "Objective-C++": 12507,
+    "Ruby": 9026,
+    "Dockerfile": 2377,
+    "QMake": 454,
+    "Makefile": 418
+  },
+  "size": 3306434
+}

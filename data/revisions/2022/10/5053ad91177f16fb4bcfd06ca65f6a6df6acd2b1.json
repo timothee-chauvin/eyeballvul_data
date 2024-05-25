@@ -1,0 +1,11 @@
+{
+  "commit": "5053ad91177f16fb4bcfd06ca65f6a6df6acd2b1",
+  "repo_url": "https://github.com/fastify/fastify",
+  "date": "2022-10-10T07:07:15",
+  "languages": {
+    "JavaScript": 1191896,
+    "TypeScript": 87448,
+    "Shell": 911
+  },
+  "size": 1280255
+}

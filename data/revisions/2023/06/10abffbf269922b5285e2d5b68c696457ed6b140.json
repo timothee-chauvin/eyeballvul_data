@@ -1,0 +1,14 @@
+{
+  "commit": "10abffbf269922b5285e2d5b68c696457ed6b140",
+  "repo_url": "https://github.com/azukaar/cosmos-server",
+  "date": "2023-06-18T10:15:58",
+  "languages": {
+    "JavaScript": 595755,
+    "Go": 260489,
+    "TypeScript": 38442,
+    "Shell": 2308,
+    "CSS": 1872,
+    "HTML": 518
+  },
+  "size": 899384
+}

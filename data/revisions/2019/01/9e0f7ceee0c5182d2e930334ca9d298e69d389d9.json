@@ -1,0 +1,15 @@
+{
+  "commit": "9e0f7ceee0c5182d2e930334ca9d298e69d389d9",
+  "repo_url": "https://github.com/k-takata/onigmo",
+  "date": "2019-01-30T10:49:50",
+  "languages": {
+    "C": 2284224,
+    "Python": 106182,
+    "Ruby": 76629,
+    "Makefile": 18155,
+    "Shell": 3091,
+    "M4": 1908,
+    "Batchfile": 67
+  },
+  "size": 2490256
+}

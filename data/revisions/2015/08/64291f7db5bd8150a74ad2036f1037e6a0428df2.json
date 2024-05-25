@@ -1,0 +1,28 @@
+{
+  "commit": "64291f7db5bd8150a74ad2036f1037e6a0428df2",
+  "repo_url": "https://github.com/torvalds/linux",
+  "date": "2015-08-30T18:34:09",
+  "languages": {
+    "C": 528322374,
+    "Assembly": 10160041,
+    "Makefile": 1546603,
+    "Perl": 720739,
+    "Shell": 309181,
+    "Python": 266659,
+    "C++": 183041,
+    "Yacc": 114376,
+    "SmPL": 83183,
+    "Lex": 54826,
+    "Roff": 47000,
+    "Scilab": 21433,
+    "Awk": 19627,
+    "GDB": 18113,
+    "UnrealScript": 11588,
+    "Gherkin": 4615,
+    "Raku": 3783,
+    "M4": 3325,
+    "XS": 1239,
+    "Clojure": 864
+  },
+  "size": 541892610
+}

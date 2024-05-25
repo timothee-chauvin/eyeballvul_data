@@ -1,0 +1,16 @@
+{
+  "commit": "d9a1ef60dbca89d96079dd439355b3e6067a1faf",
+  "repo_url": "https://github.com/puppetlabs/puppet-agent",
+  "date": "2021-10-06T09:30:36",
+  "languages": {
+    "Ruby": 205891,
+    "HTML": 82252,
+    "Shell": 31841,
+    "Dockerfile": 10176,
+    "Vim Script": 9507,
+    "Makefile": 3090,
+    "Batchfile": 1809,
+    "C": 105
+  },
+  "size": 344671
+}

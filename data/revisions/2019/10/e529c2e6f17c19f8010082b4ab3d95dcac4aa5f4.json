@@ -1,6 +1,6 @@
 {
   "commit": "e529c2e6f17c19f8010082b4ab3d95dcac4aa5f4",
-  "repo_url": "https://github.com/microsoft/openenclave",
+  "repo_url": "https://github.com/openenclave/openenclave",
   "date": "2019-10-26T01:32:19",
   "languages": {
     "C": 2278258,

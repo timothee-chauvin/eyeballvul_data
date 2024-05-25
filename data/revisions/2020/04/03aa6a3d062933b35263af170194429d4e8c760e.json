@@ -1,0 +1,21 @@
+{
+  "commit": "03aa6a3d062933b35263af170194429d4e8c760e",
+  "repo_url": "https://github.com/rundeck/rundeck",
+  "date": "2020-04-10T00:53:57",
+  "languages": {
+    "Groovy": 9461137,
+    "Java": 4567297,
+    "JavaScript": 2136539,
+    "Shell": 614715,
+    "SCSS": 515530,
+    "Vue": 210554,
+    "TypeScript": 76498,
+    "Less": 38211,
+    "CSS": 34654,
+    "Dockerfile": 14886,
+    "Batchfile": 9171,
+    "HTML": 4683,
+    "Makefile": 3348
+  },
+  "size": 17687223
+}

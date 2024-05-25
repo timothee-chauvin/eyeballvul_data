@@ -1,0 +1,15 @@
+{
+  "commit": "d978ff604bd6ff896a65af40b1cbd7a91c1fb665",
+  "repo_url": "https://github.com/hyperledger/indy-node",
+  "date": "2020-05-26T19:39:43",
+  "languages": {
+    "Python": 2282599,
+    "Shell": 131415,
+    "Groovy": 20760,
+    "Dockerfile": 7710,
+    "Batchfile": 3329,
+    "Jinja": 2632,
+    "Makefile": 2073
+  },
+  "size": 2450518
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "974c5585dac0428f2863459b215a3dc2951421a6",
+  "repo_url": "https://github.com/cyclonedx/cyclonedx-javascript-library",
+  "date": "2024-05-07T13:30:18",
+  "languages": {
+    "TypeScript": 246882,
+    "JavaScript": 194078,
+    "Shell": 745
+  },
+  "size": 441705
+}

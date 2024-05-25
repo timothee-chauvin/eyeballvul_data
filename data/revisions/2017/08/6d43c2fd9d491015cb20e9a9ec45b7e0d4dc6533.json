@@ -1,0 +1,18 @@
+{
+  "commit": "6d43c2fd9d491015cb20e9a9ec45b7e0d4dc6533",
+  "repo_url": "https://github.com/tine20/tine-2.0-open-source-groupware-and-crm",
+  "date": "2017-08-14T12:38:11",
+  "languages": {
+    "HTML": 54950432,
+    "JavaScript": 20140886,
+    "PHP": 14309957,
+    "CSS": 1462074,
+    "Python": 183771,
+    "Shell": 23798,
+    "C": 7006,
+    "Hack": 3516,
+    "Twig": 1086,
+    "Smarty": 787
+  },
+  "size": 91083313
+}

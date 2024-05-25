@@ -1,0 +1,13 @@
+{
+  "commit": "0ca02a22bd04ff0378ec7bf6b7dcff70d85df821",
+  "repo_url": "https://github.com/modxcms/fred",
+  "date": "2019-02-07T17:09:09",
+  "languages": {
+    "PHP": 1318298,
+    "JavaScript": 561397,
+    "SCSS": 170176,
+    "HTML": 23650,
+    "Smarty": 2098
+  },
+  "size": 2075619
+}

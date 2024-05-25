@@ -1,0 +1,14 @@
+{
+  "commit": "00d8ab3abd2558501592dc73fecfbe46bb56522f",
+  "repo_url": "https://github.com/joomla/joomla-cms",
+  "date": "2012-03-14T21:49:44",
+  "languages": {
+    "PHP": 8550085,
+    "JavaScript": 1156773,
+    "CSS": 701542,
+    "HTML": 192418,
+    "Shell": 345,
+    "Hack": 38
+  },
+  "size": 10601201
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "8d8d102b951f8f8077aad9d730c52fe9042b8af0",
+  "repo_url": "https://github.com/nodebb/nodebb",
+  "date": "2023-05-12T13:55:30",
+  "languages": {
+    "JavaScript": 3386372,
+    "Smarty": 356826,
+    "SCSS": 41766,
+    "HTML": 8868,
+    "Dockerfile": 758,
+    "Shell": 151,
+    "CSS": 55,
+    "Batchfile": 42
+  },
+  "size": 3794838
+}

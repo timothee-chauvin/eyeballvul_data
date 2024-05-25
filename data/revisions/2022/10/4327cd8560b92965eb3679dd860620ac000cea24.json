@@ -1,6 +1,6 @@
 {
   "commit": "4327cd8560b92965eb3679dd860620ac000cea24",
-  "repo_url": "https://github.com/academysoftwarefoundation/openimageio",
+  "repo_url": "https://github.com/openimageio/oiio",
   "date": "2022-10-03T03:02:14",
   "languages": {
     "C++": 6581845,

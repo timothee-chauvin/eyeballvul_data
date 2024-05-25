@@ -1,0 +1,17 @@
+{
+  "commit": "618864dbc056790c8f138b0da79a6a3041adbed3",
+  "repo_url": "https://github.com/screenly/screenly-ose",
+  "date": "2019-04-27T06:50:18",
+  "languages": {
+    "Python": 285990,
+    "JavaScript": 105917,
+    "HTML": 50979,
+    "CoffeeScript": 29022,
+    "CSS": 25670,
+    "Shell": 11545,
+    "SCSS": 6163,
+    "Dockerfile": 1001,
+    "Procfile": 97
+  },
+  "size": 516384
+}

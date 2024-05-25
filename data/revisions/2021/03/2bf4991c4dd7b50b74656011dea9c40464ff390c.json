@@ -1,0 +1,19 @@
+{
+  "commit": "2bf4991c4dd7b50b74656011dea9c40464ff390c",
+  "repo_url": "https://github.com/wbx-github/uclibc-ng",
+  "date": "2021-03-27T14:56:52",
+  "languages": {
+    "C": 10718655,
+    "Assembly": 1341663,
+    "C++": 225626,
+    "Makefile": 221487,
+    "Shell": 22707,
+    "Perl": 19287,
+    "Yacc": 15609,
+    "M4": 7113,
+    "Lex": 6709,
+    "Awk": 1406,
+    "Arc": 714
+  },
+  "size": 12580976
+}

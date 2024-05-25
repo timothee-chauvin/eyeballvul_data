@@ -1,0 +1,13 @@
+{
+  "commit": "f9713838c340ef55d6d95e5c53bef80f81b8f7b5",
+  "repo_url": "https://github.com/datageartech/datagear",
+  "date": "2023-02-16T08:57:01",
+  "languages": {
+    "Java": 3468339,
+    "JavaScript": 1658209,
+    "FreeMarker": 835039,
+    "CSS": 410012,
+    "HTML": 31063
+  },
+  "size": 6402662
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "024cfaec96e3ecef3c60b40349747c285cbb7528",
+  "repo_url": "https://github.com/nilsteampassnet/teampass",
+  "date": "2016-07-29T10:04:25",
+  "languages": {
+    "PHP": 6209763,
+    "JavaScript": 944726,
+    "CSS": 176921,
+    "HTML": 147885,
+    "SCSS": 72669,
+    "Dockerfile": 728,
+    "Shell": 632
+  },
+  "size": 7553324
+}

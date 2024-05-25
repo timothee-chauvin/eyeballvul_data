@@ -1,0 +1,17 @@
+{
+  "commit": "6de1f3377f6f165a3f7722df142f61cafeede634",
+  "repo_url": "https://github.com/exiv2/exiv2",
+  "date": "2018-11-16T19:30:52",
+  "languages": {
+    "C++": 4674567,
+    "Python": 369174,
+    "Shell": 116166,
+    "C": 80647,
+    "CMake": 48192,
+    "Roff": 23890,
+    "Makefile": 9662,
+    "Batchfile": 914,
+    "sed": 370
+  },
+  "size": 5323582
+}

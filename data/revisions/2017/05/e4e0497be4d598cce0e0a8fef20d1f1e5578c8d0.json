@@ -1,6 +1,6 @@
 {
   "commit": "e4e0497be4d598cce0e0a8fef20d1f1e5578c8d0",
-  "repo_url": "https://github.com/coreruleset/coreruleset",
+  "repo_url": "https://github.com/spiderlabs/owasp-modsecurity-crs",
   "date": "2017-05-12T17:11:20",
   "languages": {
     "Perl": 26713,

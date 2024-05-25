@@ -1,0 +1,11 @@
+{
+  "commit": "1254c66be4701239234cfe6abdf96e9a45cbcf9a",
+  "repo_url": "https://github.com/phoenixframework/phoenix",
+  "date": "2015-09-06T23:29:02",
+  "languages": {
+    "Elixir": 576644,
+    "JavaScript": 61456,
+    "HTML": 4501
+  },
+  "size": 642601
+}

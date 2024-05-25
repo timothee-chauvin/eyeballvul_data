@@ -1,0 +1,15 @@
+{
+  "commit": "201aeb0da7adba04c6585f29d414686ff52a8109",
+  "repo_url": "https://github.com/ubccr/xdmod",
+  "date": "2018-03-01T19:14:06",
+  "languages": {
+    "PHP": 3577044,
+    "JavaScript": 2026339,
+    "HTML": 60499,
+    "CSS": 49043,
+    "Shell": 25642,
+    "Java": 24221,
+    "Tcl": 4707
+  },
+  "size": 5767495
+}

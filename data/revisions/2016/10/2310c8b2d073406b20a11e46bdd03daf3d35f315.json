@@ -1,0 +1,13 @@
+{
+  "commit": "2310c8b2d073406b20a11e46bdd03daf3d35f315",
+  "repo_url": "https://github.com/nicmx/jool",
+  "date": "2016-10-08T01:14:31",
+  "languages": {
+    "C": 972544,
+    "Shell": 46371,
+    "Makefile": 35349,
+    "Roff": 18351,
+    "M4": 1406
+  },
+  "size": 1074021
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "9973a7ba1325d5ec0fddf39d7e081ca3e7fc4dea",
+  "repo_url": "https://github.com/beekeeper-studio/beekeeper-studio",
+  "date": "2023-04-12T01:47:55",
+  "languages": {
+    "Vue": 469697,
+    "TypeScript": 362766,
+    "JavaScript": 194893,
+    "SCSS": 164415,
+    "Stylus": 10429,
+    "Shell": 4961,
+    "HTML": 3963
+  },
+  "size": 1211124
+}

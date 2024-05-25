@@ -1,0 +1,21 @@
+{
+  "commit": "0fea17436854acf9048b0e11fbf988333ea02956",
+  "repo_url": "https://github.com/dspace/dspace",
+  "date": "2016-10-24T12:40:21",
+  "languages": {
+    "Java": 14441135,
+    "XSLT": 1677471,
+    "JavaScript": 663101,
+    "CSS": 262322,
+    "HTML": 132701,
+    "PLSQL": 62834,
+    "SCSS": 38051,
+    "Perl": 19864,
+    "Shell": 6825,
+    "Handlebars": 5854,
+    "Batchfile": 5080,
+    "FreeMarker": 2997,
+    "Ruby": 2620
+  },
+  "size": 17320855
+}

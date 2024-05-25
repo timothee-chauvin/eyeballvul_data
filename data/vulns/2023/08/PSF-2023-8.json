@@ -7,12 +7,10 @@
   "repo_url": "https://github.com/python/cpython",
   "cwes": [],
   "commits": [
+    "1f2e3088f3c097b5bde69bbd63dfcd0852d31984",
     "3a833f748fc629d25a5af3faeef91447f4709804",
-    "88db37442238079a2eff4d142e8e94cfddb58e22",
-    "a58ebcc701dd6c43630df941481475ff0f615a81",
     "c1004b85464579771db3b50f5b150449275bbbd0",
-    "d2340ef25721b6a72d45d4508c672c4be38c67d3",
-    "dfa645a65ec0788d98851130a217e029d1cc4e9b",
+    "db455296be5f792b8c12b7cd7f3962b52e4f44ee",
     "f992a60014b7ca83de038fc64572a63f4eb39c74"
   ]
 }

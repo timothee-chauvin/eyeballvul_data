@@ -1,0 +1,17 @@
+{
+  "commit": "d6c022169271fa3c73abf94002a557c4e6f8327f",
+  "repo_url": "https://github.com/greyclab/cimg",
+  "date": "2023-11-09T13:56:27",
+  "languages": {
+    "C++": 3597930,
+    "C": 1949067,
+    "JavaScript": 355011,
+    "HTML": 73505,
+    "CSS": 36009,
+    "Shell": 6964,
+    "Python": 4403,
+    "Batchfile": 1915,
+    "Makefile": 1637
+  },
+  "size": 6026441
+}

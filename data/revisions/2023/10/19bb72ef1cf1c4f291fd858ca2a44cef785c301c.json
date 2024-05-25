@@ -1,0 +1,14 @@
+{
+  "commit": "19bb72ef1cf1c4f291fd858ca2a44cef785c301c",
+  "repo_url": "https://github.com/parisneo/lollms",
+  "date": "2023-10-22T11:48:17",
+  "languages": {
+    "Python": 313110,
+    "HTML": 6711,
+    "C++": 3433,
+    "JavaScript": 2546,
+    "Dockerfile": 956,
+    "Makefile": 294
+  },
+  "size": 327050
+}

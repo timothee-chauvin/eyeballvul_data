@@ -1,0 +1,13 @@
+{
+  "commit": "604b4c89515830271910c0981cb5a7c008d35b70",
+  "repo_url": "https://github.com/yarnpkg/yarn",
+  "date": "2019-12-01T16:10:27",
+  "languages": {
+    "JavaScript": 1601238,
+    "Shell": 16650,
+    "PowerShell": 2603,
+    "Groovy": 1985,
+    "Batchfile": 177
+  },
+  "size": 1622653
+}

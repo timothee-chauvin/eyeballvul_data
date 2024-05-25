@@ -1,0 +1,19 @@
+{
+  "commit": "0e460307d875d2475352b21e2fc97623e193965d",
+  "repo_url": "https://github.com/yaklang/yaklang",
+  "date": "2023-05-11T09:04:00",
+  "languages": {
+    "Go": 12580736,
+    "JavaScript": 513253,
+    "ANTLR": 32066,
+    "Perl": 30589,
+    "HTML": 3578,
+    "Shell": 3097,
+    "Makefile": 1776,
+    "CSS": 850,
+    "CodeQL": 660,
+    "Dockerfile": 151,
+    "PowerShell": 80
+  },
+  "size": 13166836
+}

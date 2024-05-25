@@ -1,0 +1,11 @@
+{
+  "commit": "da953f20cca0f7b03fa56eaa65aba8d9a45afbe9",
+  "repo_url": "https://github.com/saleor/auth-sdk",
+  "date": "2023-11-17T09:55:56",
+  "languages": {
+    "TypeScript": 36130,
+    "JavaScript": 518,
+    "Just": 246
+  },
+  "size": 36894
+}

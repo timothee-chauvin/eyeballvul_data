@@ -1,0 +1,15 @@
+{
+  "commit": "ad17cd9666f8c907d6b1554a273cd4792b19135b",
+  "repo_url": "https://github.com/locutusjs/locutus",
+  "date": "2020-10-02T09:12:10",
+  "languages": {
+    "JavaScript": 1083170,
+    "HTML": 980311,
+    "Stylus": 116999,
+    "EJS": 47848,
+    "Go": 4275,
+    "Shell": 2724,
+    "Makefile": 1356
+  },
+  "size": 2236683
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "c3ca18810bef5a91b231481c2e2ea994b5e3896b",
+  "repo_url": "https://github.com/vufind-org/vufind",
+  "date": "2023-10-30T12:14:05",
+  "languages": {
+    "PHP": 12270303,
+    "HTML": 1041549,
+    "XSLT": 267760,
+    "JavaScript": 218910,
+    "mIRC Script": 209165,
+    "Java": 185505,
+    "Less": 126524,
+    "SCSS": 124451,
+    "Batchfile": 29363,
+    "Shell": 25700,
+    "CSS": 6047
+  },
+  "size": 14505277
+}
