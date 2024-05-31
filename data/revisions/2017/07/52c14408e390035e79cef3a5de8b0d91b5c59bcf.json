@@ -1,0 +1,16 @@
+{
+  "commit": "52c14408e390035e79cef3a5de8b0d91b5c59bcf",
+  "repo_url": "https://github.com/vaadin/framework",
+  "date": "2017-07-13T11:38:47",
+  "languages": {
+    "Java": 23109930,
+    "SCSS": 699930,
+    "JavaScript": 127929,
+    "HTML": 114952,
+    "Python": 35360,
+    "CSS": 34108,
+    "Shell": 14720,
+    "Smarty": 175
+  },
+  "size": 24137104
+}

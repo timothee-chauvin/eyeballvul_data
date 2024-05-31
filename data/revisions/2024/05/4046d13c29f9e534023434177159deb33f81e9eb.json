@@ -1,0 +1,15 @@
+{
+  "commit": "4046d13c29f9e534023434177159deb33f81e9eb",
+  "repo_url": "https://github.com/umbraco/umbraco-cms",
+  "date": "2024-05-28T13:00:45",
+  "languages": {
+    "C#": 17698160,
+    "TypeScript": 380041,
+    "HTML": 57782,
+    "JavaScript": 17196,
+    "CSS": 12932,
+    "Dockerfile": 1204,
+    "Smalltalk": 1
+  },
+  "size": 18167316
+}

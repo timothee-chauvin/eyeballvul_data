@@ -1,0 +1,13 @@
+{
+  "commit": "b9edb6bf942c8c0c1dd5e5f3d0705b96d252dd1f",
+  "repo_url": "https://github.com/apache/olingo-odata4",
+  "date": "2023-12-17T19:56:12",
+  "languages": {
+    "Java": 10490273,
+    "Groovy": 5831,
+    "XSLT": 1824,
+    "CSS": 1731,
+    "HTML": 1289
+  },
+  "size": 10500948
+}

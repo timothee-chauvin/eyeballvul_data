@@ -1,0 +1,16 @@
+{
+  "commit": "400bec5b70599a9a2e1d5d7cbfa66ca1716754d3",
+  "repo_url": "https://github.com/plone/volto",
+  "date": "2021-12-31T17:26:29",
+  "languages": {
+    "JavaScript": 2575934,
+    "Less": 83837,
+    "Makefile": 15463,
+    "Smarty": 5412,
+    "MDX": 4381,
+    "Shell": 3806,
+    "Slim": 730,
+    "Dockerfile": 699
+  },
+  "size": 2690262
+}

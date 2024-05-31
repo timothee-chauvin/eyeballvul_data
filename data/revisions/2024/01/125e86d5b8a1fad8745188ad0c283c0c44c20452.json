@@ -1,0 +1,14 @@
+{
+  "commit": "125e86d5b8a1fad8745188ad0c283c0c44c20452",
+  "repo_url": "https://github.com/oroinc/orocalendarbundle",
+  "date": "2024-01-19T12:45:18",
+  "languages": {
+    "PHP": 2088574,
+    "JavaScript": 214501,
+    "Twig": 142916,
+    "SCSS": 50545,
+    "Gherkin": 31833,
+    "HTML": 20223
+  },
+  "size": 2548592
+}

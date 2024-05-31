@@ -1,0 +1,18 @@
+{
+  "commit": "f8c196c1d17abca4e8c2ce17e936cb9fe4ebd316",
+  "repo_url": "https://github.com/owncloud/core",
+  "date": "2024-02-23T16:42:55",
+  "languages": {
+    "PHP": 14151233,
+    "JavaScript": 8429140,
+    "Gherkin": 3891052,
+    "CSS": 160969,
+    "Starlark": 112535,
+    "Shell": 91007,
+    "Makefile": 14704,
+    "Perl": 5623,
+    "HTML": 2455,
+    "Hack": 1949
+  },
+  "size": 26860667
+}

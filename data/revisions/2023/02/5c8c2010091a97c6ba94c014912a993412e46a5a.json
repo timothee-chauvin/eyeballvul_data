@@ -1,0 +1,18 @@
+{
+  "commit": "5c8c2010091a97c6ba94c014912a993412e46a5a",
+  "repo_url": "https://github.com/cloudwise-opensource/flyfish",
+  "date": "2023-02-15T09:32:17",
+  "languages": {
+    "JavaScript": 1292173,
+    "CSS": 1237127,
+    "Java": 780587,
+    "Less": 96281,
+    "HTML": 76269,
+    "Python": 73080,
+    "Shell": 30476,
+    "TypeScript": 2380,
+    "SCSS": 1663,
+    "Dockerfile": 1409
+  },
+  "size": 3591445
+}

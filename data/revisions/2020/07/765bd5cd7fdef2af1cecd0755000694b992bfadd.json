@@ -1,0 +1,13 @@
+{
+  "commit": "765bd5cd7fdef2af1cecd0755000694b992bfadd",
+  "repo_url": "https://github.com/apache/parquet-mr",
+  "date": "2020-07-29T07:44:43",
+  "languages": {
+    "Java": 5056309,
+    "Shell": 25850,
+    "Thrift": 19113,
+    "Python": 14771,
+    "Scala": 8436
+  },
+  "size": 5124479
+}

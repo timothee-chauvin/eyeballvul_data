@@ -1,0 +1,19 @@
+{
+  "commit": "94a68eb27af6f69b8ea0e849fb8fc7d2554646da",
+  "repo_url": "https://github.com/h2o/h2o",
+  "date": "2016-06-24T00:17:34",
+  "languages": {
+    "C": 1519863,
+    "Perl": 271482,
+    "Mathematica": 115885,
+    "Shell": 54059,
+    "CMake": 20329,
+    "PHP": 10130,
+    "HTML": 6006,
+    "C++": 5342,
+    "Ruby": 4637,
+    "Makefile": 1473,
+    "JavaScript": 16
+  },
+  "size": 2009222
+}

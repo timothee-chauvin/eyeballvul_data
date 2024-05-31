@@ -1,0 +1,12 @@
+{
+  "commit": "7e6abd117f138d5de77fca6b3e5eb2b1bacdd8be",
+  "repo_url": "https://github.com/in2code-de/lux",
+  "date": "2022-03-07T20:33:47",
+  "languages": {
+    "PHP": 759189,
+    "HTML": 350488,
+    "JavaScript": 66882,
+    "SCSS": 18309
+  },
+  "size": 1194868
+}

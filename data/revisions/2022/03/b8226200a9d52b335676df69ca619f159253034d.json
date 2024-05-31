@@ -1,0 +1,20 @@
+{
+  "commit": "b8226200a9d52b335676df69ca619f159253034d",
+  "repo_url": "https://github.com/apache/tapestry-5",
+  "date": "2022-03-28T13:06:24",
+  "languages": {
+    "Java": 8742062,
+    "JavaScript": 6504597,
+    "Roff": 861144,
+    "Groovy": 610805,
+    "Less": 203243,
+    "CoffeeScript": 149548,
+    "HTML": 28932,
+    "CSS": 22899,
+    "GAP": 5782,
+    "Shell": 818,
+    "TypeScript": 412,
+    "Clojure": 98
+  },
+  "size": 17130340
+}

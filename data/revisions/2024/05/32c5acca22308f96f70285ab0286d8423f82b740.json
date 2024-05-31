@@ -1,0 +1,29 @@
+{
+  "commit": "32c5acca22308f96f70285ab0286d8423f82b740",
+  "repo_url": "https://github.com/wolfssl/wolfssl",
+  "date": "2024-05-21T21:42:49",
+  "languages": {
+    "C": 57000629,
+    "Assembly": 10164741,
+    "SWIG": 481144,
+    "M4": 452423,
+    "Shell": 437188,
+    "CMake": 331057,
+    "Makefile": 155609,
+    "C#": 150657,
+    "C++": 133159,
+    "Ada": 100465,
+    "Cuda": 44875,
+    "Perl": 19610,
+    "FreeMarker": 18613,
+    "Batchfile": 16006,
+    "Tcl": 13135,
+    "Objective-C": 8372,
+    "Euphoria": 8268,
+    "Dockerfile": 6839,
+    "Swift": 2317,
+    "BitBake": 1232,
+    "XS": 195
+  },
+  "size": 69546534
+}

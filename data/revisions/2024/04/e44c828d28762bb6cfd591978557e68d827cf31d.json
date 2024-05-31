@@ -1,0 +1,17 @@
+{
+  "commit": "e44c828d28762bb6cfd591978557e68d827cf31d",
+  "repo_url": "https://github.com/ec-cube/ec-cube",
+  "date": "2024-04-15T04:15:13",
+  "languages": {
+    "PHP": 5023887,
+    "Twig": 1448063,
+    "SCSS": 822512,
+    "CSS": 550178,
+    "TypeScript": 66978,
+    "JavaScript": 61592,
+    "HTML": 11861,
+    "Shell": 3118,
+    "Dockerfile": 2549
+  },
+  "size": 7990738
+}

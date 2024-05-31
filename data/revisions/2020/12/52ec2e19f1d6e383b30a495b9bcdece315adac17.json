@@ -1,0 +1,23 @@
+{
+  "commit": "52ec2e19f1d6e383b30a495b9bcdece315adac17",
+  "repo_url": "https://github.com/hashicorp/nomad",
+  "date": "2020-12-16T21:43:49",
+  "languages": {
+    "Go": 10974081,
+    "JavaScript": 1668705,
+    "MDX": 1501651,
+    "Handlebars": 242229,
+    "HCL": 213022,
+    "SCSS": 89988,
+    "Shell": 70871,
+    "CSS": 29740,
+    "Makefile": 23079,
+    "PowerShell": 22992,
+    "C": 4802,
+    "Dockerfile": 4180,
+    "HTML": 2004,
+    "Java": 417,
+    "Python": 353
+  },
+  "size": 14848114
+}

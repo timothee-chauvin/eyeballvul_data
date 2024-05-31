@@ -1,0 +1,26 @@
+{
+  "commit": "10bcf264100911987463c5e1cf42998ed257c231",
+  "repo_url": "https://github.com/apache/trafficserver",
+  "date": "2024-04-03T15:45:00",
+  "languages": {
+    "C++": 12717816,
+    "C": 1628271,
+    "Python": 529698,
+    "M4": 293357,
+    "Makefile": 194230,
+    "Shell": 115917,
+    "Perl": 94926,
+    "CMake": 58723,
+    "Lua": 43091,
+    "SWIG": 25985,
+    "Roff": 18177,
+    "Java": 9881,
+    "Lex": 4029,
+    "Yacc": 3255,
+    "Dockerfile": 3166,
+    "JavaScript": 1609,
+    "Vim Script": 192,
+    "sed": 131
+  },
+  "size": 15742454
+}

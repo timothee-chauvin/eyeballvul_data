@@ -1,0 +1,10 @@
+{
+  "commit": "1e1b9b145774c98ceb18949abd5000d8389ccd23",
+  "repo_url": "https://github.com/folio-org/mod-data-export-spring",
+  "date": "2021-11-10T14:59:44",
+  "languages": {
+    "Java": 120279,
+    "Dockerfile": 301
+  },
+  "size": 120580
+}

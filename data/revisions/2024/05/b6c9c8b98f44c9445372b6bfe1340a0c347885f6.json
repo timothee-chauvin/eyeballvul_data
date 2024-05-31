@@ -1,0 +1,22 @@
+{
+  "commit": "b6c9c8b98f44c9445372b6bfe1340a0c347885f6",
+  "repo_url": "https://github.com/pydio/cells",
+  "date": "2024-05-14T16:12:59",
+  "languages": {
+    "Go": 5866530,
+    "JavaScript": 5425113,
+    "CSS": 1034976,
+    "HTML": 393438,
+    "Less": 156180,
+    "Mustache": 9955,
+    "PHP": 9910,
+    "Smarty": 9561,
+    "Shell": 5870,
+    "Makefile": 5674,
+    "Python": 5392,
+    "Rich Text Format": 3470,
+    "Procfile": 2009,
+    "Dockerfile": 343
+  },
+  "size": 12928421
+}

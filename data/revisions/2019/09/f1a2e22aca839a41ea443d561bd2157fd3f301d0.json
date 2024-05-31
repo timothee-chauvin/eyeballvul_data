@@ -1,0 +1,19 @@
+{
+  "commit": "f1a2e22aca839a41ea443d561bd2157fd3f301d0",
+  "repo_url": "https://github.com/open-mpi/hwloc",
+  "date": "2019-09-25T09:13:16",
+  "languages": {
+    "C": 2353282,
+    "Shell": 134949,
+    "M4": 119528,
+    "Roff": 98594,
+    "JavaScript": 62398,
+    "Makefile": 57193,
+    "Perl": 26800,
+    "HTML": 10254,
+    "Groovy": 9330,
+    "CSS": 3925,
+    "Batchfile": 1166
+  },
+  "size": 2877419
+}

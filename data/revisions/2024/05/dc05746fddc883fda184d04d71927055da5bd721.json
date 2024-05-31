@@ -1,0 +1,19 @@
+{
+  "commit": "dc05746fddc883fda184d04d71927055da5bd721",
+  "repo_url": "https://github.com/internetarchive/openlibrary",
+  "date": "2024-05-23T13:33:56",
+  "languages": {
+    "Python": 2289023,
+    "HTML": 680267,
+    "JavaScript": 573485,
+    "Less": 277474,
+    "Vue": 161719,
+    "Shell": 29324,
+    "PLpgSQL": 15916,
+    "CSS": 4730,
+    "Makefile": 3256,
+    "Dockerfile": 1606,
+    "MDX": 900
+  },
+  "size": 4037700
+}

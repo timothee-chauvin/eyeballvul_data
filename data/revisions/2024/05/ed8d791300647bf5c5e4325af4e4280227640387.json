@@ -1,0 +1,12 @@
+{
+  "commit": "ed8d791300647bf5c5e4325af4e4280227640387",
+  "repo_url": "https://github.com/deislabs/oras",
+  "date": "2024-05-14T13:42:27",
+  "languages": {
+    "Go": 677921,
+    "Shell": 6319,
+    "Makefile": 6163,
+    "Dockerfile": 1038
+  },
+  "size": 691441
+}

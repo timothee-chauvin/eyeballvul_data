@@ -1,0 +1,25 @@
+{
+  "commit": "7e8f34ec57ca854709672f7f3e4a341ff2f0b550",
+  "repo_url": "https://github.com/freeradius/freeradius-server",
+  "date": "2024-05-29T16:18:18",
+  "languages": {
+    "C": 5236815,
+    "M4": 269602,
+    "Perl": 166447,
+    "Makefile": 145122,
+    "Shell": 110526,
+    "Dockerfile": 51354,
+    "Python": 40228,
+    "PLpgSQL": 35798,
+    "TSQL": 23441,
+    "PLSQL": 9289,
+    "SaltStack": 5888,
+    "Lua": 5224,
+    "Roff": 2928,
+    "sed": 1908,
+    "Ruby": 683,
+    "GDB": 612,
+    "DIGITAL Command Language": 248
+  },
+  "size": 6106113
+}

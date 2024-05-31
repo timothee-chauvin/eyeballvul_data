@@ -1,0 +1,21 @@
+{
+  "commit": "b8558506957dbf44b8ceb29c8b7382bfd8180e05",
+  "repo_url": "https://github.com/apache/impala",
+  "date": "2017-06-02T00:52:18",
+  "languages": {
+    "C++": 9912769,
+    "Java": 4586222,
+    "Python": 2623548,
+    "JavaScript": 759212,
+    "C": 468764,
+    "Thrift": 248618,
+    "CMake": 167528,
+    "CSS": 148115,
+    "Shell": 124284,
+    "Lex": 23803,
+    "PLpgSQL": 3459,
+    "Roff": 1633,
+    "HTML": 56
+  },
+  "size": 19068011
+}

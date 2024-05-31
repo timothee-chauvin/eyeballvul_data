@@ -1,0 +1,21 @@
+{
+  "commit": "a54c87975f78ec9688add377707eec5c774f5e22",
+  "repo_url": "https://github.com/cfengine/core",
+  "date": "2016-03-22T16:05:11",
+  "languages": {
+    "C": 5068312,
+    "M4": 91293,
+    "Shell": 78188,
+    "Emacs Lisp": 64237,
+    "Yacc": 61943,
+    "Makefile": 56083,
+    "Perl": 14040,
+    "C++": 13268,
+    "Lex": 10539,
+    "Python": 7704,
+    "Mustache": 1242,
+    "sed": 1168,
+    "Batchfile": 531
+  },
+  "size": 5468548
+}

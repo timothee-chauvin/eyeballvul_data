@@ -1,0 +1,15 @@
+{
+  "commit": "40e08b219de94f3850f8f39291d89a5713e32f06",
+  "repo_url": "https://github.com/corosync/corosync",
+  "date": "2023-11-06T15:48:08",
+  "languages": {
+    "C": 1787362,
+    "Rust": 112731,
+    "Makefile": 43192,
+    "M4": 27206,
+    "Shell": 17275,
+    "Augeas": 8071,
+    "XSLT": 3546
+  },
+  "size": 1999383
+}

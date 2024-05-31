@@ -1,0 +1,12 @@
+{
+  "commit": "173c9db7da36633463b258e96e5330535023f598",
+  "repo_url": "https://github.com/zhaojh329/rttys",
+  "date": "2023-05-29T13:54:45",
+  "languages": {
+    "Go": 59051,
+    "Vue": 30628,
+    "Shell": 1646,
+    "Dockerfile": 521
+  },
+  "size": 91846
+}

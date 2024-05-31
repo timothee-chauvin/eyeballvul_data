@@ -1,0 +1,14 @@
+{
+  "commit": "bd4b5777948e66b78693e6d3d73cac68e20ee0a6",
+  "repo_url": "https://github.com/badgeteam/hackerhotel-2024-firmware-esp32c6",
+  "date": "2024-02-11T02:50:03",
+  "languages": {
+    "C": 702290,
+    "CMake": 12576,
+    "Makefile": 3669,
+    "Python": 3336,
+    "Shell": 232,
+    "Assembly": 38
+  },
+  "size": 722141
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "62809bebc6fe9e57fc8c2bef5ad36bd0c27f8429",
+  "repo_url": "https://github.com/nextcloud/richdocuments",
+  "date": "2024-05-17T08:08:09",
+  "languages": {
+    "JavaScript": 410019,
+    "PHP": 307437,
+    "Vue": 53892,
+    "Gherkin": 37652,
+    "SCSS": 15217,
+    "Shell": 6097,
+    "TypeScript": 5309,
+    "Makefile": 1190,
+    "CSS": 227,
+    "HTML": 210
+  },
+  "size": 837250
+}

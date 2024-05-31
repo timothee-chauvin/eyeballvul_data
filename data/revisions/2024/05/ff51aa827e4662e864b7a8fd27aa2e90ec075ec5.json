@@ -1,0 +1,16 @@
+{
+  "commit": "ff51aa827e4662e864b7a8fd27aa2e90ec075ec5",
+  "repo_url": "https://github.com/weseek/growi",
+  "date": "2024-05-27T09:05:55",
+  "languages": {
+    "TypeScript": 3607061,
+    "JavaScript": 1649618,
+    "SCSS": 159632,
+    "EJS": 29709,
+    "Dockerfile": 7339,
+    "HCL": 2058,
+    "HTML": 501,
+    "Shell": 451
+  },
+  "size": 5456369
+}

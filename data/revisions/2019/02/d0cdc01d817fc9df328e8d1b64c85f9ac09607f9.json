@@ -1,0 +1,25 @@
+{
+  "commit": "d0cdc01d817fc9df328e8d1b64c85f9ac09607f9",
+  "repo_url": "https://github.com/openemr/openemr",
+  "date": "2019-02-15T04:08:35",
+  "languages": {
+    "PHP": 26279931,
+    "JavaScript": 13139893,
+    "CSS": 2713015,
+    "HTML": 1998502,
+    "XSLT": 1183810,
+    "Less": 382683,
+    "Java": 135105,
+    "Perl": 115779,
+    "SCSS": 112232,
+    "Shell": 101034,
+    "Smarty": 61877,
+    "Dockerfile": 17286,
+    "Makefile": 2200,
+    "Roff": 1971,
+    "Python": 840,
+    "Hack": 312,
+    "Batchfile": 185
+  },
+  "size": 46246655
+}

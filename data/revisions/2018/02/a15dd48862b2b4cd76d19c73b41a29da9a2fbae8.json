@@ -1,0 +1,13 @@
+{
+  "commit": "a15dd48862b2b4cd76d19c73b41a29da9a2fbae8",
+  "repo_url": "https://github.com/netty/netty",
+  "date": "2018-02-05T14:31:39",
+  "languages": {
+    "Java": 8765697,
+    "C": 100009,
+    "Shell": 7879,
+    "HTML": 1466,
+    "CSS": 49
+  },
+  "size": 8875100
+}

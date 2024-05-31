@@ -1,0 +1,15 @@
+{
+  "commit": "9e3efe833f09e6cd2dcabea454a7a7ded8cb0194",
+  "repo_url": "https://github.com/gnome/gupnp",
+  "date": "2020-08-09T19:18:32",
+  "languages": {
+    "C": 799009,
+    "M4": 54410,
+    "Python": 20734,
+    "Makefile": 8156,
+    "Meson": 7365,
+    "Vala": 3307,
+    "Shell": 963
+  },
+  "size": 893944
+}

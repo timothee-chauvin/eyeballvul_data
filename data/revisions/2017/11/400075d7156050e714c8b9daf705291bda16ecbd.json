@@ -1,0 +1,19 @@
+{
+  "commit": "400075d7156050e714c8b9daf705291bda16ecbd",
+  "repo_url": "https://github.com/elastic/logstash",
+  "date": "2017-11-30T17:02:11",
+  "languages": {
+    "Ruby": 1486113,
+    "Java": 767924,
+    "HTML": 46435,
+    "Shell": 35262,
+    "JavaScript": 23554,
+    "CSS": 14421,
+    "PowerShell": 9805,
+    "Batchfile": 6108,
+    "C": 3338,
+    "Dockerfile": 1174,
+    "Makefile": 105
+  },
+  "size": 2394239
+}

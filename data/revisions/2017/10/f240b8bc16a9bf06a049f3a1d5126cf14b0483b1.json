@@ -1,0 +1,31 @@
+{
+  "commit": "f240b8bc16a9bf06a049f3a1d5126cf14b0483b1",
+  "repo_url": "https://github.com/arangodb/arangodb",
+  "date": "2017-10-03T08:31:18",
+  "languages": {
+    "JavaScript": 29218691,
+    "C++": 13301761,
+    "Ruby": 1038067,
+    "C": 401859,
+    "CMake": 332655,
+    "CSS": 284270,
+    "SCSS": 247545,
+    "HTML": 185044,
+    "EJS": 165746,
+    "Shell": 155563,
+    "Python": 142353,
+    "Pascal": 75391,
+    "Yacc": 53063,
+    "Groovy": 48389,
+    "NSIS": 42998,
+    "Assembly": 31682,
+    "LLVM": 24019,
+    "PowerShell": 20434,
+    "Perl": 9811,
+    "SourcePawn": 9030,
+    "Makefile": 8072,
+    "Batchfile": 3455,
+    "BitBake": 3088
+  },
+  "size": 45802986
+}

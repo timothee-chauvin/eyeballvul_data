@@ -1,0 +1,14 @@
+{
+  "commit": "622e8e8af33e1f784f66ae00ab3c8fce50ec655d",
+  "repo_url": "https://github.com/nonebot/nonebot2",
+  "date": "2024-05-20T14:19:50",
+  "languages": {
+    "Python": 524737,
+    "MDX": 168029,
+    "TypeScript": 94775,
+    "JavaScript": 15966,
+    "CSS": 8641,
+    "Shell": 1161
+  },
+  "size": 813309
+}

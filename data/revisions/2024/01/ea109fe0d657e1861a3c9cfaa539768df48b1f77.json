@@ -1,0 +1,13 @@
+{
+  "commit": "ea109fe0d657e1861a3c9cfaa539768df48b1f77",
+  "repo_url": "https://github.com/microchip-mplab-harmony/core",
+  "date": "2024-01-25T12:51:43",
+  "languages": {
+    "FreeMarker": 3365312,
+    "C": 3183766,
+    "Python": 803285,
+    "Assembly": 29112,
+    "Fluent": 5760
+  },
+  "size": 7387235
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "65e26e66dadbb02b96c0033835ee822b4569c651",
+  "repo_url": "https://github.com/elastic/elasticsearch",
+  "date": "2017-05-19T18:23:05",
+  "languages": {
+    "Java": 41490712,
+    "Groovy": 311082,
+    "Shell": 119220,
+    "Python": 55163,
+    "Batchfile": 18064,
+    "ANTLR": 11081,
+    "Perl": 7271,
+    "HTML": 4920,
+    "Emacs Lisp": 3341,
+    "Mustache": 599,
+    "FreeMarker": 45
+  },
+  "size": 42021498
+}

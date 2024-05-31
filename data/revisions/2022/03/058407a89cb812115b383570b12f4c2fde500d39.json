@@ -1,0 +1,16 @@
+{
+  "commit": "058407a89cb812115b383570b12f4c2fde500d39",
+  "repo_url": "https://github.com/openvpn/openvpn",
+  "date": "2022-03-16T10:08:57",
+  "languages": {
+    "C": 3168046,
+    "M4": 52448,
+    "Shell": 41884,
+    "C++": 39943,
+    "Makefile": 18775,
+    "JavaScript": 3315,
+    "Batchfile": 2909,
+    "BitBake": 645
+  },
+  "size": 3327965
+}

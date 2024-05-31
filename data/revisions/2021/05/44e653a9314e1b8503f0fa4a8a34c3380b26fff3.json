@@ -1,0 +1,18 @@
+{
+  "commit": "44e653a9314e1b8503f0fa4a8a34c3380b26fff3",
+  "repo_url": "https://github.com/nim-lang/nim",
+  "date": "2021-05-24T14:47:31",
+  "languages": {
+    "Nim": 11785744,
+    "C": 163944,
+    "HTML": 115484,
+    "Python": 22543,
+    "C++": 22064,
+    "NSIS": 10651,
+    "Shell": 6067,
+    "Assembly": 4495,
+    "Batchfile": 3419,
+    "CSS": 1726
+  },
+  "size": 12136137
+}

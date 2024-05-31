@@ -1,0 +1,15 @@
+{
+  "commit": "5156172ed17cb2aa07fdb35e57c9fdbd124d6f85",
+  "repo_url": "https://github.com/glpi-project/glpi",
+  "date": "2007-12-21T20:07:22",
+  "languages": {
+    "PHP": 5136150,
+    "HTML": 221614,
+    "JavaScript": 168282,
+    "CSS": 41964,
+    "Vim Script": 36819,
+    "Perl": 8927,
+    "Shell": 2531
+  },
+  "size": 5616287
+}

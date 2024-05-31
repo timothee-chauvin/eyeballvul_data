@@ -1,0 +1,13 @@
+{
+  "commit": "9507c7097d4e1dc8ea2712ee916c898d077f4294",
+  "repo_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator",
+  "date": "2024-04-26T20:58:57",
+  "languages": {
+    "Go": 312051,
+    "Shell": 53409,
+    "Makefile": 5158,
+    "Python": 3721,
+    "Dockerfile": 1463
+  },
+  "size": 375802
+}

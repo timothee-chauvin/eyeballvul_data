@@ -1,0 +1,28 @@
+{
+  "commit": "70be13359da5c36189f16bd84b57db44f4315edf",
+  "repo_url": "https://github.com/apache/camel",
+  "date": "2020-04-12T14:12:29",
+  "languages": {
+    "Java": 76038194,
+    "HTML": 901656,
+    "Scala": 323961,
+    "XSLT": 288715,
+    "JavaScript": 88293,
+    "Groovy": 47521,
+    "CSS": 19032,
+    "Shell": 17162,
+    "Elm": 10852,
+    "FreeMarker": 9248,
+    "Thrift": 6979,
+    "Apex": 6519,
+    "Tcl": 4974,
+    "Ruby": 4802,
+    "Fluent": 2162,
+    "Batchfile": 1518,
+    "XQuery": 546,
+    "Mustache": 525,
+    "Makefile": 513,
+    "Python": 36
+  },
+  "size": 77773208
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "071a587e34bb34330eb24f6220b4650464bffbc3",
+  "repo_url": "https://github.com/percona/pmm-managed",
+  "date": "2022-04-28T14:11:41",
+  "languages": {
+    "Go": 2806611,
+    "HTML": 10374,
+    "Python": 3019,
+    "Makefile": 1623,
+    "Dockerfile": 352
+  },
+  "size": 2821979
+}

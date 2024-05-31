@@ -1,0 +1,13 @@
+{
+  "commit": "4cd61d913c0a939140c7bd2b5c0984f7571abf83",
+  "repo_url": "https://github.com/spip/spip",
+  "date": "2024-01-12T10:17:40",
+  "languages": {
+    "PHP": 8609869,
+    "HTML": 493284,
+    "JavaScript": 263692,
+    "CSS": 40081,
+    "Hack": 24
+  },
+  "size": 9406950
+}

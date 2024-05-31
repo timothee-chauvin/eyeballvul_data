@@ -1,0 +1,19 @@
+{
+  "commit": "090d877ad4951ecf764e0874e291ab9a4fed10c4",
+  "repo_url": "https://github.com/dhis2/dhis2-core",
+  "date": "2022-04-14T10:25:41",
+  "languages": {
+    "Java": 28411728,
+    "JavaScript": 985132,
+    "CSS": 187479,
+    "HTML": 69119,
+    "PLpgSQL": 55610,
+    "Shell": 22296,
+    "XSLT": 8451,
+    "SCSS": 4229,
+    "Dockerfile": 3177,
+    "ANTLR": 2006,
+    "Ruby": 1011
+  },
+  "size": 29750238
+}

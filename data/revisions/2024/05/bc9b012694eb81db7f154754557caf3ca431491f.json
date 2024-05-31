@@ -1,0 +1,16 @@
+{
+  "commit": "bc9b012694eb81db7f154754557caf3ca431491f",
+  "repo_url": "https://github.com/linuxmint/cinnamon",
+  "date": "2024-05-31T14:17:49",
+  "languages": {
+    "JavaScript": 2463388,
+    "C": 2366836,
+    "Python": 1078419,
+    "CSS": 55776,
+    "Meson": 22172,
+    "Shell": 3490,
+    "GLSL": 2558,
+    "Perl": 1095
+  },
+  "size": 5993734
+}

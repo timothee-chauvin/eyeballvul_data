@@ -1,0 +1,13 @@
+{
+  "commit": "2561ea765b41f9fc828cd16f2473647e92600dc4",
+  "repo_url": "https://gitlab.com/iucode-tool/iucode-tool",
+  "date": "2018-02-12T19:32:43",
+  "languages": {
+    "C": 126581,
+    "M4": 28576,
+    "Roff": 20675,
+    "Makefile": 213,
+    "Shell": 101
+  },
+  "size": 176146
+}

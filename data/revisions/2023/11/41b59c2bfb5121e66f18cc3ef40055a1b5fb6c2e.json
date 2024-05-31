@@ -1,0 +1,21 @@
+{
+  "commit": "41b59c2bfb5121e66f18cc3ef40055a1b5fb6c2e",
+  "repo_url": "https://github.com/mongodb/mongo",
+  "date": "2023-11-29T22:56:27",
+  "languages": {
+    "C++": 45124786,
+    "JavaScript": 13051087,
+    "Python": 2672217,
+    "Go": 1414949,
+    "C": 81211,
+    "Shell": 65628,
+    "Java": 54337,
+    "Rich Text Format": 31575,
+    "Perl": 18637,
+    "PowerShell": 1558,
+    "HTML": 392,
+    "GDB": 308,
+    "Batchfile": 8
+  },
+  "size": 62516693
+}

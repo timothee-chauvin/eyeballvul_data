@@ -1,0 +1,13 @@
+{
+  "commit": "d4fb3a89f9d0a39c7ee6f2601d33ffbf30085322",
+  "repo_url": "https://github.com/openzeppelin/openzeppelin-contracts",
+  "date": "2022-04-26T16:49:53",
+  "languages": {
+    "JavaScript": 695733,
+    "Solidity": 626877,
+    "Ruby": 28533,
+    "Shell": 8093,
+    "Makefile": 696
+  },
+  "size": 1359932
+}

@@ -1,0 +1,26 @@
+{
+  "commit": "192b4cdb1e8245c1b202287eadd55d9241ea21d2",
+  "repo_url": "https://github.com/jeremylong/dependencycheck",
+  "date": "2024-05-15T09:29:25",
+  "languages": {
+    "Java": 3407481,
+    "JavaScript": 1157281,
+    "CMake": 439335,
+    "M4": 66845,
+    "Groovy": 26317,
+    "Ruby": 22009,
+    "Shell": 20253,
+    "PLSQL": 19115,
+    "PLpgSQL": 13695,
+    "TSQL": 13344,
+    "Python": 7490,
+    "C": 3939,
+    "Dockerfile": 3638,
+    "C++": 2713,
+    "Swift": 1221,
+    "Elixir": 1169,
+    "Cuda": 384,
+    "Batchfile": 287
+  },
+  "size": 5206516
+}

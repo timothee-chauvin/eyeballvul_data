@@ -1,0 +1,14 @@
+{
+  "commit": "0f1e59428c50d0fbe303ed84ed1bc2e623779138",
+  "repo_url": "https://github.com/buildkite/elastic-ci-stack-for-aws",
+  "date": "2024-05-27T05:48:26",
+  "languages": {
+    "Shell": 71426,
+    "PowerShell": 23518,
+    "Go": 13650,
+    "Makefile": 8220,
+    "HCL": 5627,
+    "Dockerfile": 469
+  },
+  "size": 122910
+}

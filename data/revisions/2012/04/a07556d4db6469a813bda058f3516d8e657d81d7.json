@@ -1,0 +1,12 @@
+{
+  "commit": "a07556d4db6469a813bda058f3516d8e657d81d7",
+  "repo_url": "https://github.com/cloudfoundry-attic/cf-release",
+  "date": "2012-04-16T19:30:41",
+  "languages": {
+    "HTML": 135638,
+    "Shell": 99978,
+    "Lua": 6295,
+    "Ruby": 5579
+  },
+  "size": 247490
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "126fcdfbc07b53780743bc9d341adfad89cd7644",
+  "repo_url": "https://github.com/sonatype/nexus-public",
+  "date": "2018-10-15T15:15:49",
+  "languages": {
+    "Java": 8602999,
+    "JavaScript": 6219083,
+    "Groovy": 1391696,
+    "CSS": 1132171,
+    "SCSS": 49516,
+    "HTML": 17410,
+    "Batchfile": 13968,
+    "Shell": 13665,
+    "XSLT": 364,
+    "Ruby": 245
+  },
+  "size": 17441117
+}

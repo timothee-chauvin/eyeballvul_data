@@ -1,0 +1,18 @@
+{
+  "commit": "8501f01b257b226b9ad34190628e23838babadff",
+  "repo_url": "https://gitlab.com/gpsd/gpsd",
+  "date": "2023-01-10T22:38:58",
+  "languages": {
+    "C": 3337974,
+    "Python": 882289,
+    "HTML": 154128,
+    "C++": 43709,
+    "Shell": 34959,
+    "PHP": 9187,
+    "Perl": 3370,
+    "CSS": 2226,
+    "JavaScript": 1044,
+    "Vim Script": 97
+  },
+  "size": 4468983
+}

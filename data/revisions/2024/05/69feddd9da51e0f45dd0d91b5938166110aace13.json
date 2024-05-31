@@ -1,0 +1,20 @@
+{
+  "commit": "69feddd9da51e0f45dd0d91b5938166110aace13",
+  "repo_url": "https://github.com/bridgecrewio/checkov",
+  "date": "2024-05-29T15:04:02",
+  "languages": {
+    "Python": 9422705,
+    "HCL": 2726775,
+    "TypeScript": 172520,
+    "Bicep": 65253,
+    "Shell": 44866,
+    "Dockerfile": 29310,
+    "Jinja": 4953,
+    "Perl": 4726,
+    "Smarty": 2119,
+    "Java": 1499,
+    "Batchfile": 957,
+    "JavaScript": 948
+  },
+  "size": 12476631
+}

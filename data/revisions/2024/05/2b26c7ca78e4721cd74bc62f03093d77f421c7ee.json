@@ -1,0 +1,11 @@
+{
+  "commit": "2b26c7ca78e4721cd74bc62f03093d77f421c7ee",
+  "repo_url": "https://github.com/getsentry/self-hosted",
+  "date": "2024-05-16T18:51:31",
+  "languages": {
+    "Shell": 51182,
+    "Python": 31043,
+    "Dockerfile": 4431
+  },
+  "size": 86656
+}

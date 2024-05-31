@@ -1,0 +1,13 @@
+{
+  "commit": "1bfe848e4f224bb043178aafaa3451e2d32f0c97",
+  "repo_url": "https://github.com/apache/myfaces",
+  "date": "2018-04-30T19:22:18",
+  "languages": {
+    "Java": 12277751,
+    "HTML": 716700,
+    "JavaScript": 476098,
+    "Shell": 3813,
+    "CSS": 1452
+  },
+  "size": 13475814
+}

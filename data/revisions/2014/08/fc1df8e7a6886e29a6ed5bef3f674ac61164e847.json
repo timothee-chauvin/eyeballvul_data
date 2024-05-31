@@ -1,0 +1,26 @@
+{
+  "commit": "fc1df8e7a6886e29a6ed5bef3f674ac61164e847",
+  "repo_url": "https://github.com/php/php-src",
+  "date": "2014-08-27T13:31:35",
+  "languages": {
+    "C": 51322087,
+    "PHP": 25633372,
+    "M4": 477090,
+    "Shell": 319495,
+    "C++": 310737,
+    "JavaScript": 192896,
+    "Makefile": 82073,
+    "Yacc": 77619,
+    "Lex": 75982,
+    "Roff": 53959,
+    "HTML": 17656,
+    "Awk": 15007,
+    "GDB": 13722,
+    "Perl": 10643,
+    "XSLT": 7946,
+    "DTrace": 4528,
+    "Batchfile": 2568,
+    "GAP": 4
+  },
+  "size": 78617384
+}

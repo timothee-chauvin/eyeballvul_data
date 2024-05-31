@@ -1,0 +1,11 @@
+{
+  "commit": "8783deb74c03bb3165777a3910c701b443b3a9be",
+  "repo_url": "https://github.com/kde/partitionmanager",
+  "date": "2024-05-17T03:07:22",
+  "languages": {
+    "C++": 352822,
+    "CMake": 6246,
+    "Shell": 387
+  },
+  "size": 359455
+}

@@ -1,0 +1,29 @@
+{
+  "commit": "d39e42b6729775da711aa9e3516e4ddc77c5db63",
+  "repo_url": "https://github.com/wesnoth/wesnoth",
+  "date": "2024-05-26T20:13:59",
+  "languages": {
+    "C++": 10252876,
+    "Lua": 1589589,
+    "Python": 1231407,
+    "Emacs Lisp": 296327,
+    "CMake": 132742,
+    "Shell": 100343,
+    "Perl": 54498,
+    "C": 47494,
+    "Vim Script": 28840,
+    "TypeScript": 25044,
+    "Objective-C++": 11512,
+    "NSIS": 8549,
+    "PHP": 7658,
+    "Makefile": 6342,
+    "JavaScript": 5807,
+    "sed": 4033,
+    "HTML": 3619,
+    "CSS": 3294,
+    "Dockerfile": 1968,
+    "Objective-C": 856,
+    "Batchfile": 148
+  },
+  "size": 13812946
+}

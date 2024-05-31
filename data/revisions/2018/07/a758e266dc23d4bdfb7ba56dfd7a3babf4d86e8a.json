@@ -1,0 +1,21 @@
+{
+  "commit": "a758e266dc23d4bdfb7ba56dfd7a3babf4d86e8a",
+  "repo_url": "https://github.com/kubernetes/kubernetes",
+  "date": "2018-07-11T17:51:15",
+  "languages": {
+    "Go": 37253324,
+    "HTML": 2898728,
+    "Starlark": 2220460,
+    "Shell": 1669148,
+    "Python": 144810,
+    "Makefile": 76164,
+    "Dockerfile": 54519,
+    "SaltStack": 52715,
+    "PowerShell": 4261,
+    "C": 2525,
+    "Ruby": 1591,
+    "sed": 596,
+    "Jinja": 91
+  },
+  "size": 44378932
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "39d9986f41b93dbe9060c38b05ccf74e8e349ff6",
+  "repo_url": "https://github.com/apache/streampipes",
+  "date": "2023-11-20T15:54:59",
+  "languages": {
+    "Java": 6005529,
+    "TypeScript": 2326750,
+    "HTML": 956048,
+    "SCSS": 275219,
+    "Jupyter Notebook": 264146,
+    "Python": 250833,
+    "Shell": 63742,
+    "CSS": 62701,
+    "JavaScript": 23301,
+    "Dockerfile": 16460,
+    "Makefile": 1745
+  },
+  "size": 10246474
+}

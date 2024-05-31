@@ -1,0 +1,16 @@
+{
+  "commit": "a35ae0a24a61a53dbe90cd724cf9f17441f93acf",
+  "repo_url": "https://github.com/puppetlabs/puppetdb",
+  "date": "2024-04-18T20:56:39",
+  "languages": {
+    "Clojure": 2799072,
+    "Ruby": 266958,
+    "Shell": 119030,
+    "Python": 32771,
+    "Makefile": 6239,
+    "JavaScript": 5944,
+    "HTML": 4074,
+    "Emacs Lisp": 57
+  },
+  "size": 3234145
+}

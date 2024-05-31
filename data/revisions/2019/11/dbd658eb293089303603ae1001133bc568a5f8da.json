@@ -1,0 +1,15 @@
+{
+  "commit": "dbd658eb293089303603ae1001133bc568a5f8da",
+  "repo_url": "https://github.com/vaadin/flow",
+  "date": "2019-11-25T14:09:25",
+  "languages": {
+    "Java": 10524426,
+    "JavaScript": 294343,
+    "HTML": 149432,
+    "Shell": 6177,
+    "CSS": 5005,
+    "Scala": 2828,
+    "SCSS": 124
+  },
+  "size": 10982335
+}

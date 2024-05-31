@@ -1,0 +1,14 @@
+{
+  "commit": "16ad49d8148114c84ff395c1dd5c0002fce9dd75",
+  "repo_url": "https://github.com/apache/santuario-xml-security-java",
+  "date": "2023-08-15T11:03:21",
+  "languages": {
+    "Java": 4856836,
+    "HTML": 4723653,
+    "Shell": 8665,
+    "XSLT": 1628,
+    "Batchfile": 201,
+    "Makefile": 154
+  },
+  "size": 9591137
+}

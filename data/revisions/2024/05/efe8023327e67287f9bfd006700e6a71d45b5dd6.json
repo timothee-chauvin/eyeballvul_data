@@ -1,0 +1,16 @@
+{
+  "commit": "efe8023327e67287f9bfd006700e6a71d45b5dd6",
+  "repo_url": "https://github.com/eclipse/jetty.project",
+  "date": "2024-05-03T13:02:37",
+  "languages": {
+    "Java": 35063803,
+    "JavaScript": 171452,
+    "HTML": 140909,
+    "AMPL": 123508,
+    "Groovy": 48831,
+    "Shell": 30750,
+    "CSS": 24929,
+    "XSLT": 2658
+  },
+  "size": 35606840
+}

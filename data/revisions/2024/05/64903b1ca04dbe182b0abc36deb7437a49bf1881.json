@@ -1,0 +1,24 @@
+{
+  "commit": "64903b1ca04dbe182b0abc36deb7437a49bf1881",
+  "repo_url": "https://github.com/nodejs/node",
+  "date": "2024-05-16T22:36:39",
+  "languages": {
+    "JavaScript": 13332047,
+    "C++": 4362046,
+    "Python": 2381073,
+    "C": 624483,
+    "HTML": 163390,
+    "Shell": 93490,
+    "Makefile": 54311,
+    "Batchfile": 43568,
+    "DTrace": 37212,
+    "Emacs Lisp": 14363,
+    "Perl": 11715,
+    "Roff": 10445,
+    "R": 8037,
+    "TypeScript": 702,
+    "Assembly": 157,
+    "Dockerfile": 33
+  },
+  "size": 21137072
+}

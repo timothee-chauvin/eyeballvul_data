@@ -1,0 +1,15 @@
+{
+  "commit": "a7a17cdec9eaa6c57cc634da6a7c766d98d4160e",
+  "repo_url": "https://github.com/apache/kafka",
+  "date": "2016-08-04T12:05:59",
+  "languages": {
+    "Java": 4929864,
+    "Scala": 3081217,
+    "Python": 418471,
+    "Shell": 53766,
+    "Batchfile": 21104,
+    "XSLT": 7116,
+    "HTML": 5443
+  },
+  "size": 8516981
+}

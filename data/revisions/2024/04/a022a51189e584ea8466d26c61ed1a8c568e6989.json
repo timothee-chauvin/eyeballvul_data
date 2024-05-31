@@ -1,0 +1,16 @@
+{
+  "commit": "a022a51189e584ea8466d26c61ed1a8c568e6989",
+  "repo_url": "https://github.com/apache/fineract",
+  "date": "2024-04-25T12:08:04",
+  "languages": {
+    "Java": 30707572,
+    "Gherkin": 2766457,
+    "HTML": 1685450,
+    "Groovy": 68098,
+    "FreeMarker": 25990,
+    "Mustache": 16429,
+    "CSS": 14574,
+    "Shell": 8596
+  },
+  "size": 35293166
+}

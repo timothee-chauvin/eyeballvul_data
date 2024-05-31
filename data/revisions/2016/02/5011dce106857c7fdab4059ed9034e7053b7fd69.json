@@ -1,0 +1,15 @@
+{
+  "commit": "5011dce106857c7fdab4059ed9034e7053b7fd69",
+  "repo_url": "https://github.com/eclipse-rap/org.eclipse.rap",
+  "date": "2016-02-09T06:00:00",
+  "languages": {
+    "Java": 29797415,
+    "JavaScript": 4485312,
+    "HTML": 1055873,
+    "CSS": 299095,
+    "Shell": 13398,
+    "XSLT": 3350,
+    "Batchfile": 964
+  },
+  "size": 35655407
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "0cca642bc56b887dfd59d263883b04a581896c03",
+  "repo_url": "https://github.com/hyperledger/besu",
+  "date": "2024-05-20T06:56:51",
+  "languages": {
+    "Java": 20339270,
+    "Shell": 52543,
+    "Solidity": 27162,
+    "JavaScript": 10498,
+    "Dockerfile": 4026,
+    "Smarty": 1667,
+    "Batchfile": 43
+  },
+  "size": 20435209
+}

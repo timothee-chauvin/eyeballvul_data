@@ -1,0 +1,27 @@
+{
+  "commit": "3b9cb2ac65cc42f3395b43d2d0ae6e7e6cfbac94",
+  "repo_url": "https://github.com/cyrusimap/cyrus-imapd",
+  "date": "2021-03-09T03:18:39",
+  "languages": {
+    "C": 6210576,
+    "Raku": 932665,
+    "Perl": 931832,
+    "M4": 232121,
+    "Roff": 94346,
+    "Shell": 83849,
+    "TeX": 65751,
+    "Yacc": 58994,
+    "Makefile": 54249,
+    "Python": 43140,
+    "HTML": 39082,
+    "XS": 27897,
+    "Assembly": 13281,
+    "Lex": 10216,
+    "JavaScript": 8560,
+    "Awk": 7479,
+    "Batchfile": 6748,
+    "CSS": 3640,
+    "Smalltalk": 2673
+  },
+  "size": 8827099
+}

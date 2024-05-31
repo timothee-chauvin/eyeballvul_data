@@ -1,0 +1,26 @@
+{
+  "commit": "9854143cba679834bc4ef932858cd5303f015a0e",
+  "repo_url": "https://github.com/rust-lang/rust",
+  "date": "2015-04-02T12:47:19",
+  "languages": {
+    "Rust": 19304206,
+    "C": 719015,
+    "Shell": 283737,
+    "Makefile": 265156,
+    "Python": 145090,
+    "Yacc": 78848,
+    "C++": 54063,
+    "JavaScript": 35979,
+    "CSS": 22489,
+    "Assembly": 20064,
+    "Pascal": 16300,
+    "M4": 12343,
+    "Lex": 9238,
+    "ANTLR": 4990,
+    "LLVM": 1587,
+    "HTML": 817,
+    "Awk": 159,
+    "TeX": 57
+  },
+  "size": 20974138
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "bb2e16aa064f446907390a674fa0eb556b5b75a1",
+  "repo_url": "https://github.com/strapi/strapi",
+  "date": "2024-05-29T14:52:07",
+  "languages": {
+    "TypeScript": 7330596,
+    "JavaScript": 2423936,
+    "MDX": 75823,
+    "Handlebars": 9558,
+    "HTML": 6218,
+    "Shell": 1917
+  },
+  "size": 9848048
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "c33a5af4928dfc07ef593fff4a36d651b4f7d16e",
+  "repo_url": "https://github.com/geonetwork/core-geonetwork",
+  "date": "2024-04-16T16:20:24",
+  "languages": {
+    "Java": 11377723,
+    "JavaScript": 5143358,
+    "XSLT": 4500228,
+    "HTML": 1266459,
+    "Less": 309167,
+    "CSS": 166141,
+    "Visual Basic 6.0": 144640,
+    "Shell": 32150,
+    "Gherkin": 23656,
+    "PowerShell": 5008,
+    "Dockerfile": 2618,
+    "Groovy": 2439,
+    "Batchfile": 976
+  },
+  "size": 22974563
+}

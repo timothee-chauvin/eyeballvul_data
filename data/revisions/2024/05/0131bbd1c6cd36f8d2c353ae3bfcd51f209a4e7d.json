@@ -1,0 +1,15 @@
+{
+  "commit": "0131bbd1c6cd36f8d2c353ae3bfcd51f209a4e7d",
+  "repo_url": "https://github.com/kdab/hotspot",
+  "date": "2024-05-31T10:03:21",
+  "languages": {
+    "C++": 815437,
+    "CMake": 30065,
+    "Python": 12270,
+    "Shell": 11905,
+    "Dockerfile": 10284,
+    "C": 6152,
+    "Ruby": 205
+  },
+  "size": 886318
+}

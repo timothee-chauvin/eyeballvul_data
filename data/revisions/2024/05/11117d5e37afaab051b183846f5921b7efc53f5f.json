@@ -1,0 +1,13 @@
+{
+  "commit": "11117d5e37afaab051b183846f5921b7efc53f5f",
+  "repo_url": "https://github.com/marmelab/react-admin",
+  "date": "2024-05-27T11:22:06",
+  "languages": {
+    "TypeScript": 4395740,
+    "JavaScript": 87219,
+    "Makefile": 5248,
+    "HTML": 4886,
+    "Shell": 67
+  },
+  "size": 4493160
+}

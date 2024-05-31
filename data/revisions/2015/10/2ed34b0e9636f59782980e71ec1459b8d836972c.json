@@ -1,0 +1,14 @@
+{
+  "commit": "2ed34b0e9636f59782980e71ec1459b8d836972c",
+  "repo_url": "https://github.com/scylladb/scylladb",
+  "date": "2015-10-12T13:12:35",
+  "languages": {
+    "C++": 4391951,
+    "GAP": 63504,
+    "Python": 62468,
+    "Thrift": 40410,
+    "Hack": 12454,
+    "Shell": 1896
+  },
+  "size": 4572683
+}

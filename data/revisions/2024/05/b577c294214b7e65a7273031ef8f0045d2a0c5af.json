@@ -1,0 +1,17 @@
+{
+  "commit": "b577c294214b7e65a7273031ef8f0045d2a0c5af",
+  "repo_url": "https://github.com/cacti/cacti",
+  "date": "2024-05-12T00:42:53",
+  "languages": {
+    "PHP": 6262245,
+    "JavaScript": 2351139,
+    "CSS": 852357,
+    "SCSS": 231023,
+    "Less": 210194,
+    "Shell": 33707,
+    "Perl": 7328,
+    "HTML": 5181,
+    "Ruby": 2138
+  },
+  "size": 9955312
+}

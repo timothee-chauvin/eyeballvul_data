@@ -1,0 +1,13 @@
+{
+  "commit": "c28b77d13c99232d64a4941bba16ac7f04c8d92e",
+  "repo_url": "https://github.com/edgexfoundry/edgex-go",
+  "date": "2019-07-25T14:05:35",
+  "languages": {
+    "Go": 1142478,
+    "RAML": 318450,
+    "Shell": 24403,
+    "Dockerfile": 16575,
+    "Makefile": 4571
+  },
+  "size": 1506477
+}

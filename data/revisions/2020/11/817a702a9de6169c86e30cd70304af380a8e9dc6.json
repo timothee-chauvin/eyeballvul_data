@@ -1,0 +1,24 @@
+{
+  "commit": "817a702a9de6169c86e30cd70304af380a8e9dc6",
+  "repo_url": "https://github.com/apache/trafficcontrol",
+  "date": "2020-11-18T15:01:21",
+  "languages": {
+    "Go": 5408234,
+    "Perl": 3580166,
+    "JavaScript": 1558656,
+    "Java": 1156489,
+    "HTML": 960880,
+    "Shell": 302673,
+    "Python": 298282,
+    "TypeScript": 160609,
+    "SCSS": 132886,
+    "Dockerfile": 92051,
+    "PLpgSQL": 88198,
+    "C": 22477,
+    "CSS": 13677,
+    "Makefile": 6310,
+    "Roff": 4011,
+    "PowerShell": 3112
+  },
+  "size": 13788711
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "534a12ac6fa226cc3c63698067d6708e5f2a2770",
+  "repo_url": "https://github.com/hashicorp/vault",
+  "date": "2021-05-19T19:58:43",
+  "languages": {
+    "Go": 8481173,
+    "MDX": 2932556,
+    "JavaScript": 1520567,
+    "Handlebars": 533876,
+    "SCSS": 100147,
+    "Shell": 36631,
+    "CSS": 22736,
+    "HCL": 18998,
+    "Makefile": 15081,
+    "Batchfile": 5475,
+    "HTML": 1920,
+    "Dockerfile": 1490
+  },
+  "size": 13670650
+}

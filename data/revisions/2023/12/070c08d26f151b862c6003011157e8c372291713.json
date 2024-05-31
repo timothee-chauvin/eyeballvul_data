@@ -1,0 +1,18 @@
+{
+  "commit": "070c08d26f151b862c6003011157e8c372291713",
+  "repo_url": "https://github.com/apereo/cas",
+  "date": "2023-12-29T07:18:40",
+  "languages": {
+    "Java": 20338657,
+    "JavaScript": 588826,
+    "HTML": 396044,
+    "Shell": 178210,
+    "Groovy": 63246,
+    "PHP": 35048,
+    "Python": 20769,
+    "CSS": 16679,
+    "Ruby": 2516,
+    "Dockerfile": 1209
+  },
+  "size": 21641204
+}

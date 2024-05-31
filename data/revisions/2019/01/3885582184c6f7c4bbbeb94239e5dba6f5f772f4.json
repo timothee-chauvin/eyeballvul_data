@@ -1,0 +1,24 @@
+{
+  "commit": "3885582184c6f7c4bbbeb94239e5dba6f5f772f4",
+  "repo_url": "https://github.com/gocd/gocd",
+  "date": "2019-01-29T06:37:56",
+  "languages": {
+    "Java": 20057886,
+    "JavaScript": 3137666,
+    "Ruby": 2990675,
+    "Groovy": 1064363,
+    "TypeScript": 925382,
+    "SCSS": 736779,
+    "HTML": 636728,
+    "Shell": 212901,
+    "XSLT": 202972,
+    "NSIS": 17037,
+    "Sass": 15858,
+    "Batchfile": 9039,
+    "EJS": 1626,
+    "CSS": 1578,
+    "PowerShell": 1511,
+    "FreeMarker": 182
+  },
+  "size": 30012183
+}

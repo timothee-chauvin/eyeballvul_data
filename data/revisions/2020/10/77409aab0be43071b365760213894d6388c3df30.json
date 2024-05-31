@@ -1,0 +1,26 @@
+{
+  "commit": "77409aab0be43071b365760213894d6388c3df30",
+  "repo_url": "https://github.com/powerdns/pdns",
+  "date": "2020-10-12T08:08:08",
+  "languages": {
+    "C++": 4549214,
+    "JavaScript": 702021,
+    "Python": 680747,
+    "DIGITAL Command Language": 592666,
+    "Shell": 281540,
+    "M4": 150576,
+    "Makefile": 65042,
+    "Ruby": 44281,
+    "Lua": 31225,
+    "CSS": 16773,
+    "Perl": 13466,
+    "C": 12709,
+    "HTML": 9756,
+    "Ragel": 5352,
+    "Yacc": 4610,
+    "Lex": 3683,
+    "Isabelle": 515,
+    "Assembly": 18
+  },
+  "size": 7164194
+}

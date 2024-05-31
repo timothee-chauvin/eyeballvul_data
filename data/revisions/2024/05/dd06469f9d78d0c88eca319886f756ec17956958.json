@@ -1,0 +1,19 @@
+{
+  "commit": "dd06469f9d78d0c88eca319886f756ec17956958",
+  "repo_url": "https://gitlab.com/bramw/baserow",
+  "date": "2024-05-29T09:15:17",
+  "languages": {
+    "Python": 12357392,
+    "JavaScript": 2375564,
+    "Vue": 2350920,
+    "HTML": 360337,
+    "SCSS": 342204,
+    "Shell": 113842,
+    "MDX": 54699,
+    "TypeScript": 45285,
+    "Dockerfile": 23134,
+    "Makefile": 13954,
+    "ANTLR": 9231
+  },
+  "size": 18046562
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "c83d6333affd53ffc718cb9a2be4bdcf5c2e91c5",
+  "repo_url": "https://github.com/servo/rust-smallvec",
+  "date": "2024-05-10T05:41:06",
+  "languages": {
+    "Rust": 114245,
+    "Shell": 1226
+  },
+  "size": 115471
+}

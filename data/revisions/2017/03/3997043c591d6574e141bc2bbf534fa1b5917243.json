@@ -1,0 +1,13 @@
+{
+  "commit": "3997043c591d6574e141bc2bbf534fa1b5917243",
+  "repo_url": "https://github.com/f5networks/k8s-bigip-ctlr",
+  "date": "2017-03-07T02:32:21",
+  "languages": {
+    "Go": 195381,
+    "Python": 58313,
+    "Shell": 7189,
+    "Makefile": 2619,
+    "Ruby": 1028
+  },
+  "size": 264530
+}

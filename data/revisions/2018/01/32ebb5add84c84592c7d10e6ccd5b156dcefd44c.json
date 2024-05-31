@@ -1,0 +1,20 @@
+{
+  "commit": "32ebb5add84c84592c7d10e6ccd5b156dcefd44c",
+  "repo_url": "https://github.com/opennetworkinglab/onos",
+  "date": "2018-01-09T01:54:28",
+  "languages": {
+    "Java": 38779706,
+    "JavaScript": 3950651,
+    "Python": 400337,
+    "Shell": 263518,
+    "CSS": 234708,
+    "Starlark": 226564,
+    "HTML": 122559,
+    "P4": 86060,
+    "Dockerfile": 1822,
+    "Makefile": 1730,
+    "Groovy": 912,
+    "Jinja": 724
+  },
+  "size": 44069291
+}

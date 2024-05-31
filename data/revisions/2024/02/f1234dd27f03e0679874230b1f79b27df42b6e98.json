@@ -1,0 +1,11 @@
+{
+  "commit": "f1234dd27f03e0679874230b1f79b27df42b6e98",
+  "repo_url": "https://github.com/nlnetlabs/routinator",
+  "date": "2024-02-26T13:15:23",
+  "languages": {
+    "Rust": 768373,
+    "Dockerfile": 7017,
+    "Shell": 3271
+  },
+  "size": 778661
+}

@@ -1,0 +1,28 @@
+{
+  "commit": "b5c56f63710e09f37b8557ddd8b99ae3fc583169",
+  "repo_url": "https://github.com/grafana/grafana",
+  "date": "2022-06-13T12:06:48",
+  "languages": {
+    "TypeScript": 15305055,
+    "Go": 9533002,
+    "HTML": 366136,
+    "Rich Text Format": 352348,
+    "JavaScript": 352243,
+    "SCSS": 236780,
+    "Shell": 143757,
+    "Starlark": 77044,
+    "MDX": 75614,
+    "CUE": 52683,
+    "Jsonnet": 38289,
+    "Dockerfile": 34917,
+    "Python": 23487,
+    "CSS": 19432,
+    "Makefile": 11535,
+    "Jinja": 5914,
+    "Smarty": 2116,
+    "Mustache": 1794,
+    "PHP": 574,
+    "Assembly": 168
+  },
+  "size": 26632888
+}

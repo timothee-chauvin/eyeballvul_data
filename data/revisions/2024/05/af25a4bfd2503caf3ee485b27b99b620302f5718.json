@@ -1,0 +1,23 @@
+{
+  "commit": "af25a4bfd2503caf3ee485b27b99b620302f5718",
+  "repo_url": "https://github.com/ffmpeg/ffmpeg",
+  "date": "2024-05-25T20:08:34",
+  "languages": {
+    "C": 63760172,
+    "Assembly": 5299881,
+    "Makefile": 915708,
+    "C++": 139820,
+    "Objective-C": 107571,
+    "Cuda": 84917,
+    "Shell": 57767,
+    "Perl": 28904,
+    "Metal": 7961,
+    "Python": 5992,
+    "Awk": 1912,
+    "HTML": 1631,
+    "Ruby": 1462,
+    "Verilog": 729,
+    "Roff": 132
+  },
+  "size": 70414559
+}

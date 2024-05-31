@@ -1,0 +1,16 @@
+{
+  "commit": "df84c42e7e8a1675769fa9065b2781a6abc8ab1b",
+  "repo_url": "https://github.com/drakkan/sftpgo",
+  "date": "2022-09-01T10:28:13",
+  "languages": {
+    "Go": 4311780,
+    "HTML": 480768,
+    "Shell": 10934,
+    "Dockerfile": 8905,
+    "Inno Setup": 5268,
+    "CSS": 1711,
+    "JavaScript": 511,
+    "Makefile": 157
+  },
+  "size": 4820034
+}

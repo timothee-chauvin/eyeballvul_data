@@ -1,0 +1,23 @@
+{
+  "commit": "e18850def8bd123f45958d329df09155286d8567",
+  "repo_url": "https://github.com/concourse/concourse",
+  "date": "2019-05-15T15:31:08",
+  "languages": {
+    "Go": 4739702,
+    "Elm": 1352670,
+    "PLpgSQL": 87134,
+    "Ruby": 73078,
+    "JavaScript": 59175,
+    "Shell": 36010,
+    "Less": 35960,
+    "HTML": 14377,
+    "Jsonnet": 12059,
+    "Dockerfile": 8321,
+    "HCL": 4870,
+    "PowerShell": 4001,
+    "CSS": 3752,
+    "Smarty": 576,
+    "Makefile": 289
+  },
+  "size": 6431974
+}

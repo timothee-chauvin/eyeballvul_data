@@ -1,0 +1,17 @@
+{
+  "commit": "c4b9fa0fcbac77e032b5c6aae275c11b5e66effa",
+  "repo_url": "https://github.com/sourcegraph/cody",
+  "date": "2024-05-23T13:38:45",
+  "languages": {
+    "TypeScript": 4033104,
+    "Kotlin": 88926,
+    "CSS": 53179,
+    "Python": 16645,
+    "JavaScript": 13907,
+    "Go": 13536,
+    "Scheme": 4532,
+    "Shell": 4092,
+    "HTML": 715
+  },
+  "size": 4228636
+}

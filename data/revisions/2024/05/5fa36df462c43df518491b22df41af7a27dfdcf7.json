@@ -1,0 +1,13 @@
+{
+  "commit": "5fa36df462c43df518491b22df41af7a27dfdcf7",
+  "repo_url": "https://github.com/thm-health/pilos",
+  "date": "2024-05-02T08:09:24",
+  "languages": {
+    "PHP": 2178448,
+    "Vue": 469018,
+    "Shell": 17523,
+    "Dockerfile": 3506,
+    "Blade": 596
+  },
+  "size": 2669091
+}

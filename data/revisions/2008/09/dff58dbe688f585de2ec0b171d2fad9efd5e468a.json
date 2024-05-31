@@ -1,0 +1,16 @@
+{
+  "commit": "dff58dbe688f585de2ec0b171d2fad9efd5e468a",
+  "repo_url": "https://github.com/apache/xerces-c",
+  "date": "2008-09-29T18:17:25",
+  "languages": {
+    "C++": 10861100,
+    "Makefile": 677175,
+    "C": 188465,
+    "M4": 54202,
+    "Perl": 16046,
+    "Raku": 3900,
+    "Shell": 1929,
+    "Batchfile": 1283
+  },
+  "size": 11804100
+}

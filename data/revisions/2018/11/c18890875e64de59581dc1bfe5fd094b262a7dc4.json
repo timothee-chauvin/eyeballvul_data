@@ -1,0 +1,19 @@
+{
+  "commit": "c18890875e64de59581dc1bfe5fd094b262a7dc4",
+  "repo_url": "https://github.com/espressif/esp-idf",
+  "date": "2018-11-01T04:16:30",
+  "languages": {
+    "C": 23929347,
+    "C++": 867963,
+    "Python": 760040,
+    "CMake": 152605,
+    "Assembly": 142861,
+    "Makefile": 125503,
+    "Shell": 70616,
+    "Yacc": 15875,
+    "Perl": 15204,
+    "Inno Setup": 10241,
+    "Lex": 7270
+  },
+  "size": 26097525
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "c6cc6af0637c7e8f8be850fe4af66576934f8a53",
+  "repo_url": "https://github.com/xwiki/xwiki-commons",
+  "date": "2024-02-12T10:58:20",
+  "languages": {
+    "Java": 6932215,
+    "AspectJ": 6773,
+    "AMPL": 4949,
+    "Groovy": 2475,
+    "JavaScript": 911,
+    "CSS": 21
+  },
+  "size": 6947344
+}

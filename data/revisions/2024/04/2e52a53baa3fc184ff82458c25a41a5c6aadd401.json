@@ -1,0 +1,13 @@
+{
+  "commit": "2e52a53baa3fc184ff82458c25a41a5c6aadd401",
+  "repo_url": "https://github.com/cloudfoundry/cf-networking-release",
+  "date": "2024-04-16T16:20:48",
+  "languages": {
+    "Go": 1329584,
+    "Ruby": 45496,
+    "HTML": 22471,
+    "Shell": 18977,
+    "Procfile": 22
+  },
+  "size": 1416550
+}

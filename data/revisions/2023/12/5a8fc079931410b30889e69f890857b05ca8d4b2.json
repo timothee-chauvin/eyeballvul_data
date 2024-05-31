@@ -1,0 +1,30 @@
+{
+  "commit": "5a8fc079931410b30889e69f890857b05ca8d4b2",
+  "repo_url": "https://github.com/exim/exim",
+  "date": "2023-12-25T18:42:52",
+  "languages": {
+    "C": 5821475,
+    "Perl": 288137,
+    "Shell": 116281,
+    "Elixir": 22323,
+    "Makefile": 17491,
+    "Euphoria": 13237,
+    "Brainfuck": 9395,
+    "Forth": 5315,
+    "Filebench WML": 3948,
+    "Roff": 2818,
+    "DIGITAL Command Language": 2564,
+    "M4": 2381,
+    "Yacc": 2002,
+    "Logos": 1586,
+    "Eiffel": 1308,
+    "D2": 881,
+    "Awk": 872,
+    "Sieve": 245,
+    "Modula-3": 155,
+    "Fortran": 86,
+    "LiveScript": 50,
+    "Macaulay2": 29
+  },
+  "size": 6312579
+}

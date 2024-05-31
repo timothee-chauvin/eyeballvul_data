@@ -1,0 +1,20 @@
+{
+  "commit": "098865edd9174ab5bb17bf5c7caa54128fdf04d2",
+  "repo_url": "https://github.com/apache/ranger",
+  "date": "2017-06-01T14:18:32",
+  "languages": {
+    "Java": 7533507,
+    "JavaScript": 1917872,
+    "Python": 805216,
+    "TSQL": 526084,
+    "Shell": 364696,
+    "HTML": 169462,
+    "Jinja": 87022,
+    "CSS": 74088,
+    "PLSQL": 46785,
+    "PLpgSQL": 30031,
+    "C": 4973,
+    "Less": 2022
+  },
+  "size": 11561758
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "16c07d87f4f4cf46ab092c6c76b0ec7526934773",
+  "repo_url": "https://github.com/streamlit/streamlit",
+  "date": "2021-04-13T23:09:48",
+  "languages": {
+    "Python": 1453561,
+    "TypeScript": 1336576,
+    "JavaScript": 153560,
+    "CSS": 20637,
+    "Makefile": 10912,
+    "SCSS": 9213,
+    "Shell": 5592,
+    "Dockerfile": 2472,
+    "HTML": 1152,
+    "Batchfile": 33
+  },
+  "size": 2993708
+}

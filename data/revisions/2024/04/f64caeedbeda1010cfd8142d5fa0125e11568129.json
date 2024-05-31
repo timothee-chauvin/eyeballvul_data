@@ -1,0 +1,14 @@
+{
+  "commit": "f64caeedbeda1010cfd8142d5fa0125e11568129",
+  "repo_url": "https://github.com/glpi-project/glpi",
+  "date": "2024-04-24T07:38:34",
+  "languages": {
+    "PHP": 20528959,
+    "Twig": 761145,
+    "JavaScript": 716858,
+    "SCSS": 320849,
+    "Shell": 29493,
+    "HTML": 254
+  },
+  "size": 22357558
+}

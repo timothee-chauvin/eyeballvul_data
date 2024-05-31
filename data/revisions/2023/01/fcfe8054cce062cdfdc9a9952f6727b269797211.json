@@ -1,0 +1,16 @@
+{
+  "commit": "fcfe8054cce062cdfdc9a9952f6727b269797211",
+  "repo_url": "https://github.com/gitlabhq/gitlab-runner",
+  "date": "2023-01-24T14:21:53",
+  "languages": {
+    "Go": 2557022,
+    "Shell": 65779,
+    "Makefile": 32380,
+    "PowerShell": 13712,
+    "Dockerfile": 7143,
+    "Ruby": 2566,
+    "Batchfile": 208,
+    "Procfile": 64
+  },
+  "size": 2678874
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "909d2dd967b1dfc4e692763e3418a904e46e84cb",
+  "repo_url": "https://github.com/motor-admin/motor-admin",
+  "date": "2022-01-12T10:10:33",
+  "languages": {
+    "Ruby": 87269,
+    "Vue": 37531,
+    "HTML": 17170,
+    "JavaScript": 8165,
+    "SCSS": 1455,
+    "Dockerfile": 431,
+    "Shell": 270,
+    "Procfile": 51
+  },
+  "size": 152342
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "c263a0ce50d6f19a572795c95f4e4ea63e3a9c51",
+  "repo_url": "https://github.com/sjwall/mdx-mermaid",
+  "date": "2022-05-24T08:18:25",
+  "languages": {
+    "Shell": 25493,
+    "TypeScript": 24925,
+    "Dockerfile": 2247,
+    "HTML": 1721,
+    "CSS": 930,
+    "JavaScript": 772
+  },
+  "size": 56088
+}

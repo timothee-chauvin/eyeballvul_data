@@ -1,0 +1,20 @@
+{
+  "commit": "2e9e78cd72cea8c97460bc7db2cb584e5deb3c8f",
+  "repo_url": "https://github.com/apache/nifi-minifi-cpp",
+  "date": "2024-05-10T13:51:20",
+  "languages": {
+    "C++": 8128589,
+    "Python": 544743,
+    "CMake": 502220,
+    "Gherkin": 230037,
+    "C": 190551,
+    "Shell": 91020,
+    "Java": 86800,
+    "Dockerfile": 21545,
+    "Batchfile": 13836,
+    "Yacc": 7064,
+    "Lua": 3132,
+    "LLVM": 2594
+  },
+  "size": 9822131
+}
