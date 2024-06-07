@@ -1,0 +1,15 @@
+{
+  "commit": "96de4d9edaa15432e1f67b2d62dab8da9bfb96a1",
+  "repo_url": "https://github.com/apache/dubbo",
+  "date": "2020-05-12T02:56:01",
+  "languages": {
+    "Java": 9495234,
+    "Mustache": 29337,
+    "Shell": 15505,
+    "Lex": 2076,
+    "Batchfile": 2002,
+    "Thrift": 1283,
+    "JavaScript": 873
+  },
+  "size": 9546310
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "4e52b66f342a803d3b8099b79607e3158d3a241c",
+  "repo_url": "https://github.com/libjpeg-turbo/libjpeg-turbo",
+  "date": "2020-11-25T03:56:19",
+  "languages": {
+    "C": 3017339,
+    "Assembly": 1707170,
+    "HTML": 453507,
+    "Java": 226102,
+    "CMake": 118736,
+    "Shell": 51707,
+    "Roff": 42195,
+    "CSS": 11165,
+    "JavaScript": 827
+  },
+  "size": 5628748
+}

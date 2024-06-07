@@ -1,0 +1,12 @@
+{
+  "commit": "c9c72004a07523da1244eac1096d5b845110839d",
+  "repo_url": "https://github.com/spiffe/spire",
+  "date": "2020-03-05T19:23:21",
+  "languages": {
+    "Go": 2561519,
+    "Shell": 33676,
+    "Makefile": 22872,
+    "Dockerfile": 2232
+  },
+  "size": 2620299
+}

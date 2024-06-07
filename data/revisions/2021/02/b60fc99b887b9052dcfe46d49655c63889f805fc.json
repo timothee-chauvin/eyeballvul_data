@@ -1,0 +1,17 @@
+{
+  "commit": "b60fc99b887b9052dcfe46d49655c63889f805fc",
+  "repo_url": "https://github.com/reportportal/service-api",
+  "date": "2021-02-04T12:18:59",
+  "languages": {
+    "Java": 3097110,
+    "FreeMarker": 61459,
+    "Groovy": 23193,
+    "JavaScript": 2146,
+    "Dockerfile": 605,
+    "CSS": 362,
+    "PHP": 321,
+    "HTML": 274,
+    "Batchfile": 142
+  },
+  "size": 3185612
+}

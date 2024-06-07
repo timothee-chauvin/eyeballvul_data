@@ -1,0 +1,14 @@
+{
+  "commit": "8f50fda0be5c98b545d9c04ddef1131d37732add",
+  "repo_url": "https://github.com/openrazer/openrazer",
+  "date": "2022-11-20T14:01:37",
+  "languages": {
+    "Python": 744733,
+    "C": 682899,
+    "Shell": 27258,
+    "Makefile": 10953,
+    "Roff": 5697,
+    "Lua": 4814
+  },
+  "size": 1476354
+}

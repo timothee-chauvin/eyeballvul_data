@@ -1,0 +1,17 @@
+{
+  "commit": "912dc60cf369c559e090ee33433f84fd5f7a7b6c",
+  "repo_url": "https://github.com/silverstripe/silverstripe-framework",
+  "date": "2018-05-28T03:50:54",
+  "languages": {
+    "PHP": 4866864,
+    "JavaScript": 747886,
+    "SCSS": 201133,
+    "HTML": 51439,
+    "Scheme": 50219,
+    "Gherkin": 9889,
+    "CSS": 7358,
+    "Shell": 4199,
+    "Ruby": 1926
+  },
+  "size": 5940913
+}

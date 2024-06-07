@@ -1,0 +1,15 @@
+{
+  "commit": "5f81e09e76e5ff0ddbcf442c73340f6417c121c2",
+  "repo_url": "https://github.com/sysstat/sysstat",
+  "date": "2019-05-31T07:00:08",
+  "languages": {
+    "C": 1708360,
+    "Roff": 149916,
+    "Tcl": 47212,
+    "Shell": 33560,
+    "Makefile": 20979,
+    "Perl": 11803,
+    "Python": 9655
+  },
+  "size": 1981485
+}

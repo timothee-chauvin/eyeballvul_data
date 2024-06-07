@@ -1,0 +1,15 @@
+{
+  "commit": "a42aebf13db33afd575da6e63f55163d371f776d",
+  "repo_url": "https://github.com/martinh/libconfuse",
+  "date": "2020-06-25T05:21:59",
+  "languages": {
+    "C": 200987,
+    "Lex": 9685,
+    "Makefile": 6144,
+    "M4": 1928,
+    "Shell": 1648,
+    "Batchfile": 667,
+    "PowerShell": 634
+  },
+  "size": 221693
+}

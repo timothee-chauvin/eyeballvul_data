@@ -1,0 +1,22 @@
+{
+  "commit": "a76a438f92f62fd007fdb1d23d086e989f300dea",
+  "repo_url": "https://github.com/kovidgoyal/calibre",
+  "date": "2018-02-23T03:11:19",
+  "languages": {
+    "Python": 19378150,
+    "JavaScript": 1716169,
+    "C++": 1384387,
+    "C": 913251,
+    "HTML": 97393,
+    "CoffeeScript": 96666,
+    "XSLT": 43959,
+    "Objective-C++": 37344,
+    "Makefile": 25729,
+    "CSS": 24804,
+    "Shell": 15280,
+    "Batchfile": 7842,
+    "SWIG": 6021,
+    "Vim Script": 1604
+  },
+  "size": 23748599
+}

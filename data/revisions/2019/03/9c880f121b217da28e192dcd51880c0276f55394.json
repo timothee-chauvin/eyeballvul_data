@@ -1,0 +1,13 @@
+{
+  "commit": "9c880f121b217da28e192dcd51880c0276f55394",
+  "repo_url": "https://github.com/silverstripe/silverstripe-cms",
+  "date": "2019-03-19T01:36:49",
+  "languages": {
+    "PHP": 685800,
+    "JavaScript": 197162,
+    "Gherkin": 23794,
+    "Scheme": 22049,
+    "SCSS": 5844
+  },
+  "size": 934649
+}

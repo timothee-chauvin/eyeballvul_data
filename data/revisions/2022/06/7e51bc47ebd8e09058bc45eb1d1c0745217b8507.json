@@ -1,0 +1,11 @@
+{
+  "commit": "7e51bc47ebd8e09058bc45eb1d1c0745217b8507",
+  "repo_url": "https://github.com/nextcloud/password_policy",
+  "date": "2022-06-12T03:13:42",
+  "languages": {
+    "PHP": 20671924,
+    "JavaScript": 127438,
+    "Vue": 6606
+  },
+  "size": 20805968
+}

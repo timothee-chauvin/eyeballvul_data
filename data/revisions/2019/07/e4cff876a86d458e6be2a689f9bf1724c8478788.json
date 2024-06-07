@@ -1,0 +1,14 @@
+{
+  "commit": "e4cff876a86d458e6be2a689f9bf1724c8478788",
+  "repo_url": "https://github.com/libvips/libvips",
+  "date": "2019-07-07T10:20:28",
+  "languages": {
+    "C": 6229842,
+    "C++": 429769,
+    "Python": 155374,
+    "M4": 84800,
+    "Shell": 23996,
+    "Makefile": 18088
+  },
+  "size": 6941869
+}

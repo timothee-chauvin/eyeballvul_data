@@ -1,0 +1,27 @@
+{
+  "commit": "e3201094af2af2a9958333bd1cb212253941d644",
+  "repo_url": "https://github.com/python/cpython",
+  "date": "2020-12-07T14:13:36",
+  "languages": {
+    "Python": 29515724,
+    "C": 15638929,
+    "C++": 335100,
+    "HTML": 181996,
+    "M4": 174881,
+    "Batchfile": 72175,
+    "Shell": 54226,
+    "Assembly": 49123,
+    "Roff": 39501,
+    "Makefile": 27884,
+    "Objective-C": 26873,
+    "Common Lisp": 24481,
+    "PLSQL": 22886,
+    "PowerShell": 20063,
+    "Rich Text Format": 6991,
+    "DTrace": 2196,
+    "XSLT": 153,
+    "CSS": 96,
+    "VBScript": 70
+  },
+  "size": 46193348
+}

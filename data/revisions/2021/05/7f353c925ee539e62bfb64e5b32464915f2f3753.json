@@ -1,0 +1,12 @@
+{
+  "commit": "7f353c925ee539e62bfb64e5b32464915f2f3753",
+  "repo_url": "https://github.com/xfce-mirror/thunar",
+  "date": "2021-05-07T08:31:46",
+  "languages": {
+    "C": 3559503,
+    "Makefile": 28627,
+    "M4": 7568,
+    "Shell": 2744
+  },
+  "size": 3598442
+}

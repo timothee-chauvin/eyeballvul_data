@@ -1,0 +1,17 @@
+{
+  "commit": "f9e12bd88618682f7cdba342fbaea1212073533f",
+  "repo_url": "https://github.com/twisted/twisted",
+  "date": "2019-04-07T08:46:03",
+  "languages": {
+    "Python": 12263437,
+    "Cython": 18925,
+    "C": 18711,
+    "GAP": 18122,
+    "Roff": 14832,
+    "HTML": 8886,
+    "Shell": 5506,
+    "Batchfile": 3472,
+    "Gherkin": 45
+  },
+  "size": 12351936
+}

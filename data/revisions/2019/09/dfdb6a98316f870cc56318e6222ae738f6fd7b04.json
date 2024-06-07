@@ -1,0 +1,20 @@
+{
+  "commit": "dfdb6a98316f870cc56318e6222ae738f6fd7b04",
+  "repo_url": "https://github.com/imagemagick/imagemagick",
+  "date": "2019-09-29T12:33:46",
+  "languages": {
+    "C": 17728111,
+    "HTML": 4885016,
+    "Makefile": 1315606,
+    "C++": 798812,
+    "XS": 492645,
+    "Shell": 450978,
+    "Roff": 253525,
+    "M4": 241273,
+    "Perl": 214506,
+    "CSS": 31106,
+    "Tcl": 20736,
+    "DIGITAL Command Language": 17751
+  },
+  "size": 26450065
+}
