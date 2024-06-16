@@ -1,0 +1,14 @@
+{
+  "id": "PSF-2024-3",
+  "published": "2024-05-07T21:02:55.284000",
+  "modified": "2024-06-14T20:15:58.748283",
+  "details": "On Windows a directory returned by tempfile.mkdtemp() would not always have permissions set to restrict reading and writing to the temporary directory by other users, instead usually inheriting the correct permissions from the default location. Alternate configurations or users without a profile directory may not have the intended permissions.\n\nIf you\u2019re not using Windows or haven\u2019t changed the temporary directory location then you aren\u2019t affected by this vulnerability. On other platforms the returned directory is consistently readable and writable only by the current user.\n\nThis issue was caused by Python not supporting Unix permissions on Windows. The fix adds support for Unix \u201c700\u201d for the mkdir function on Windows which is used by mkdtemp() to ensure the newly created directory has the proper permissions.\n",
+  "repo_url": "https://github.com/python/cpython",
+  "cwes": [],
+  "commits": [
+    "1f2e3088f3c097b5bde69bbd63dfcd0852d31984",
+    "3a833f748fc629d25a5af3faeef91447f4709804",
+    "e3201094af2af2a9958333bd1cb212253941d644",
+    "f992a60014b7ca83de038fc64572a63f4eb39c74"
+  ]
+}

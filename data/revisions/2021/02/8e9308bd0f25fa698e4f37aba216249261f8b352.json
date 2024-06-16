@@ -1,0 +1,14 @@
+{
+  "commit": "8e9308bd0f25fa698e4f37aba216249261f8b352",
+  "repo_url": "https://github.com/pq-crystals/kyber",
+  "date": "2021-02-09T10:47:28",
+  "languages": {
+    "C": 323404,
+    "Makefile": 19194,
+    "Assembly": 17675,
+    "CMake": 6569,
+    "Shell": 1099,
+    "C++": 633
+  },
+  "size": 368574
+}

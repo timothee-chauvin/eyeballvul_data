@@ -1,0 +1,21 @@
+{
+  "commit": "4c01447bc146d2818da11d570890fe6f298dbf0f",
+  "repo_url": "https://github.com/grafana/oncall",
+  "date": "2024-05-22T17:36:48",
+  "languages": {
+    "Python": 5505988,
+    "TypeScript": 1747263,
+    "CSS": 33629,
+    "Smarty": 29029,
+    "SCSS": 19059,
+    "JavaScript": 13978,
+    "Makefile": 10402,
+    "HTML": 6420,
+    "Starlark": 6074,
+    "HCL": 5816,
+    "Handlebars": 4425,
+    "Dockerfile": 3578,
+    "Shell": 2569
+  },
+  "size": 7388230
+}
