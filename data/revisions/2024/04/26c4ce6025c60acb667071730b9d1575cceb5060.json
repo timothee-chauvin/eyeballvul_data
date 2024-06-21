@@ -1,0 +1,16 @@
+{
+  "commit": "26c4ce6025c60acb667071730b9d1575cceb5060",
+  "repo_url": "https://github.com/dzikoysk/reposilite",
+  "date": "2024-04-27T19:30:00",
+  "languages": {
+    "Kotlin": 741634,
+    "Vue": 113381,
+    "JavaScript": 100766,
+    "CSS": 9405,
+    "Java": 6529,
+    "HTML": 4488,
+    "Shell": 2556,
+    "Dockerfile": 1654
+  },
+  "size": 980413
+}

@@ -1,0 +1,26 @@
+{
+  "commit": "b7dedc44671a505db61c408ab64719438a5936d2",
+  "repo_url": "https://gitlab.com/gnachman/iterm2",
+  "date": "2024-06-11T21:22:10",
+  "languages": {
+    "Objective-C": 14827160,
+    "Python": 1587981,
+    "Swift": 1520177,
+    "Objective-C++": 233144,
+    "Shell": 185926,
+    "C": 175332,
+    "HTML": 140759,
+    "Metal": 78712,
+    "Makefile": 10342,
+    "Perl": 7929,
+    "JavaScript": 4568,
+    "C++": 3796,
+    "BASIC": 2884,
+    "AppleScript": 1859,
+    "CSS": 1524,
+    "Rich Text Format": 436,
+    "Roff": 244,
+    "Standard ML": 89
+  },
+  "size": 18782862
+}
