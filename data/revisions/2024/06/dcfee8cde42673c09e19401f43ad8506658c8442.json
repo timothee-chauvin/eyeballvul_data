@@ -1,0 +1,17 @@
+{
+  "commit": "dcfee8cde42673c09e19401f43ad8506658c8442",
+  "repo_url": "https://github.com/mermaid-js/zenuml-core",
+  "date": "2024-06-17T12:44:10",
+  "languages": {
+    "JavaScript": 281255,
+    "TypeScript": 199803,
+    "HTML": 126789,
+    "Vue": 124581,
+    "ANTLR": 25240,
+    "CSS": 14414,
+    "SCSS": 7758,
+    "Less": 88,
+    "Shell": 75
+  },
+  "size": 780003
+}

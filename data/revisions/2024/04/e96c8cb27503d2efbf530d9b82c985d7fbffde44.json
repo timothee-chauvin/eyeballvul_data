@@ -1,0 +1,10 @@
+{
+  "commit": "e96c8cb27503d2efbf530d9b82c985d7fbffde44",
+  "repo_url": "https://github.com/canonical/ubuntu-advantage-desktop-daemon",
+  "date": "2024-04-03T09:21:56",
+  "languages": {
+    "C": 67590,
+    "Meson": 5039
+  },
+  "size": 72629
+}

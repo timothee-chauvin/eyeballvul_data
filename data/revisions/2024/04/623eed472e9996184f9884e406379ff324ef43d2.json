@@ -1,0 +1,17 @@
+{
+  "commit": "623eed472e9996184f9884e406379ff324ef43d2",
+  "repo_url": "https://github.com/ramonsilva20/mapos",
+  "date": "2024-04-11T02:03:43",
+  "languages": {
+    "PHP": 1730706,
+    "JavaScript": 871078,
+    "CSS": 228961,
+    "HTML": 39371,
+    "SCSS": 29641,
+    "Batchfile": 12862,
+    "Shell": 9675,
+    "Hack": 3272,
+    "Dockerfile": 2389
+  },
+  "size": 2927955
+}

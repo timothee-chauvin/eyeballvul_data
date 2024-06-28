@@ -1,0 +1,22 @@
+{
+  "commit": "9378c341f70fca50687cd4f515a3d80bef190a8e",
+  "repo_url": "https://github.com/softethervpn/softethervpn",
+  "date": "2024-05-04T18:47:48",
+  "languages": {
+    "C": 8871026,
+    "C#": 1106732,
+    "TypeScript": 734685,
+    "HTML": 640110,
+    "C++": 84712,
+    "CMake": 28705,
+    "Perl": 17771,
+    "Shell": 4645,
+    "Makefile": 1977,
+    "JavaScript": 795,
+    "Python": 760,
+    "Batchfile": 756,
+    "PowerShell": 549,
+    "CSS": 285
+  },
+  "size": 11493508
+}
