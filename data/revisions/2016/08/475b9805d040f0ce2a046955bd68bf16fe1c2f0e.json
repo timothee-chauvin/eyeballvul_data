@@ -1,0 +1,24 @@
+{
+  "commit": "475b9805d040f0ce2a046955bd68bf16fe1c2f0e",
+  "repo_url": "https://github.com/brianchandotcom/liferay-portal",
+  "date": "2016-08-05T04:15:59",
+  "languages": {
+    "Java": 164971697,
+    "JavaScript": 3931239,
+    "FreeMarker": 684111,
+    "CSS": 661396,
+    "SCSS": 432544,
+    "HTML": 414667,
+    "Closure Templates": 71351,
+    "GAP": 50698,
+    "Groovy": 47231,
+    "Shell": 41771,
+    "XSLT": 15571,
+    "Smarty": 6845,
+    "Ruby": 2161,
+    "Python": 966,
+    "Batchfile": 756,
+    "Roff": 270
+  },
+  "size": 171333274
+}

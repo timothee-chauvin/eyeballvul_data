@@ -1,0 +1,19 @@
+{
+  "commit": "52dcb521ffed0c6d59b5c16a0a8b96eaacf13c68",
+  "repo_url": "https://github.com/bc-security/empire",
+  "date": "2024-01-31T07:25:34",
+  "languages": {
+    "PowerShell": 42017587,
+    "Python": 2656542,
+    "C#": 259062,
+    "Shell": 13214,
+    "HTML": 3466,
+    "Objective-C": 2664,
+    "Dockerfile": 2461,
+    "PHP": 2198,
+    "C": 1966,
+    "Nim": 813,
+    "Java": 496
+  },
+  "size": 44960469
+}
