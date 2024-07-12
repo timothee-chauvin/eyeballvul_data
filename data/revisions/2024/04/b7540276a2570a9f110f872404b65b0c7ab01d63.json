@@ -1,0 +1,13 @@
+{
+  "commit": "b7540276a2570a9f110f872404b65b0c7ab01d63",
+  "repo_url": "https://github.com/elabit/robotmk",
+  "date": "2024-04-19T09:52:19",
+  "languages": {
+    "Rust": 140184,
+    "RobotFramework": 12219,
+    "Shell": 2257,
+    "Python": 1491,
+    "PowerShell": 140
+  },
+  "size": 156291
+}

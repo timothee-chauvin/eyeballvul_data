@@ -1,0 +1,13 @@
+{
+  "commit": "a4b6892a9c276de41e4858e89774c07032410993",
+  "repo_url": "https://github.com/project-zot/zot",
+  "date": "2024-06-04T18:39:18",
+  "languages": {
+    "Go": 3885920,
+    "Shell": 201385,
+    "Makefile": 25222,
+    "Dockerfile": 1180,
+    "Java": 109
+  },
+  "size": 4113816
+}

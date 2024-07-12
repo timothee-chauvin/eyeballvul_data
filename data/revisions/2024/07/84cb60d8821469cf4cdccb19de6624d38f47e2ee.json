@@ -1,0 +1,15 @@
+{
+  "commit": "84cb60d8821469cf4cdccb19de6624d38f47e2ee",
+  "repo_url": "https://github.com/vnotex/vnote",
+  "date": "2024-07-01T14:51:24",
+  "languages": {
+    "C++": 2288142,
+    "JavaScript": 1424580,
+    "CSS": 205346,
+    "CMake": 29341,
+    "HTML": 27928,
+    "Rich Text Format": 18666,
+    "Python": 1322
+  },
+  "size": 3995325
+}

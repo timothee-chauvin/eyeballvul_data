@@ -1,0 +1,19 @@
+{
+  "commit": "2ced27a209584cf4fd67bfcc8043ca00cc2c557e",
+  "repo_url": "https://github.com/netatalk/netatalk",
+  "date": "2015-12-29T02:13:49",
+  "languages": {
+    "C": 5434107,
+    "M4": 126427,
+    "Python": 56005,
+    "Makefile": 44830,
+    "Roff": 29268,
+    "Shell": 19815,
+    "Perl": 17703,
+    "Yacc": 10579,
+    "Lua": 3398,
+    "Lex": 1440,
+    "DTrace": 294
+  },
+  "size": 5743866
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "9f60defaceb60d1383788ec6cccff9b3ab31e5e2",
+  "repo_url": "https://github.com/nationalsecurityagency/skills-service",
+  "date": "2024-06-20T11:13:07",
+  "languages": {
+    "Groovy": 7766127,
+    "JavaScript": 3584105,
+    "Vue": 2059848,
+    "Java": 78688,
+    "HTML": 18318,
+    "SCSS": 8883,
+    "Shell": 8371,
+    "Dockerfile": 2716,
+    "CSS": 1215
+  },
+  "size": 13528271
+}
