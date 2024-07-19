@@ -1,7 +1,7 @@
 {
   "id": "PSF-2017-4",
   "published": "2017-05-23T03:56:00",
-  "modified": "2024-07-04T22:14:35.901101",
+  "modified": "2024-07-15T22:12:25.713187",
   "details": "The inflateMark function in inflate.c in zlib 1.2.8 might allow context-dependent attackers to have unspecified impact via vectors involving left shifts of negative integers.",
   "summary": "Zlib 1.2.11",
   "repo_url": "https://github.com/python/cpython",

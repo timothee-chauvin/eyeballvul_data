@@ -1,7 +1,7 @@
 {
   "id": "PSF-2017-5",
   "published": "2017-05-23T03:56:00",
-  "modified": "2024-07-04T22:14:35.670733",
+  "modified": "2024-07-15T22:12:25.796607",
   "details": "The crc32_big function in crc32.c in zlib 1.2.8 might allow context-dependent attackers to have unspecified impact via vectors involving big-endian CRC calculation.",
   "summary": "Zlib 1.2.11",
   "repo_url": "https://github.com/python/cpython",

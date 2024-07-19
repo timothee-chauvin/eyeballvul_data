@@ -1,0 +1,11 @@
+{
+  "commit": "fafd3c0e8cf6fb8aae0bf4defaf6c8bcfae7af9e",
+  "repo_url": "https://github.com/silverstripe/silverstripe-reports",
+  "date": "2024-06-17T00:44:42",
+  "languages": {
+    "PHP": 42886,
+    "Scheme": 1306,
+    "JavaScript": 1245
+  },
+  "size": 45437
+}

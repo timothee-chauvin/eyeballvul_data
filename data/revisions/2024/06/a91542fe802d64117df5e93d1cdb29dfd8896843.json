@@ -1,0 +1,20 @@
+{
+  "commit": "a91542fe802d64117df5e93d1cdb29dfd8896843",
+  "repo_url": "https://github.com/linkerd/linkerd2",
+  "date": "2024-06-07T18:03:22",
+  "languages": {
+    "Go": 2840112,
+    "Rust": 786199,
+    "JavaScript": 429416,
+    "Shell": 77802,
+    "Smarty": 21174,
+    "Makefile": 18904,
+    "Dockerfile": 11379,
+    "CSS": 6471,
+    "HTML": 1224,
+    "PowerShell": 804,
+    "Mustache": 436,
+    "Batchfile": 417
+  },
+  "size": 4194338
+}

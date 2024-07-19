@@ -1,7 +1,7 @@
 {
   "id": "PSF-2017-2",
   "published": "2017-05-23T03:56:00",
-  "modified": "2024-07-04T22:14:29.138731",
+  "modified": "2024-07-15T22:12:25.577754",
   "details": "inftrees.c in zlib 1.2.8 might allow context-dependent attackers to have unspecified impact by leveraging improper pointer arithmetic.",
   "summary": "Zlib 1.2.11",
   "repo_url": "https://github.com/python/cpython",
