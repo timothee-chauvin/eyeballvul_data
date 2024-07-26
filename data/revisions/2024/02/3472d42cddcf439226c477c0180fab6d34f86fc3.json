@@ -1,0 +1,12 @@
+{
+  "commit": "3472d42cddcf439226c477c0180fab6d34f86fc3",
+  "repo_url": "https://github.com/gotenberg/gotenberg",
+  "date": "2024-02-07T09:44:30",
+  "languages": {
+    "Go": 600752,
+    "Dockerfile": 10087,
+    "Makefile": 6609,
+    "Shell": 4924
+  },
+  "size": 622372
+}

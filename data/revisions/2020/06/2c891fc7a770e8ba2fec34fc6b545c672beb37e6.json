@@ -1,0 +1,14 @@
+{
+  "commit": "2c891fc7a770e8ba2fec34fc6b545c672beb37e6",
+  "repo_url": "https://github.com/yaml/libyaml",
+  "date": "2020-06-01T21:19:50",
+  "languages": {
+    "C": 524482,
+    "CMake": 4755,
+    "Makefile": 3958,
+    "M4": 2292,
+    "Dockerfile": 1983,
+    "Shell": 346
+  },
+  "size": 537816
+}

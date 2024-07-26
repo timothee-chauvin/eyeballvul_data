@@ -1,0 +1,17 @@
+{
+  "commit": "cce89bc3f5c32441adc632d43595aac511e7942c",
+  "repo_url": "https://github.com/canonical/ubuntu-desktop-provision",
+  "date": "2024-04-24T08:57:43",
+  "languages": {
+    "Dart": 6379625,
+    "HTML": 831853,
+    "Go": 262444,
+    "CMake": 23461,
+    "Python": 21210,
+    "C++": 14823,
+    "Shell": 11575,
+    "Makefile": 1864,
+    "C": 1829
+  },
+  "size": 7548684
+}

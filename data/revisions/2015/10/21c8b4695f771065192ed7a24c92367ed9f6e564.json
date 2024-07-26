@@ -1,0 +1,21 @@
+{
+  "commit": "21c8b4695f771065192ed7a24c92367ed9f6e564",
+  "repo_url": "https://github.com/apache/activemq",
+  "date": "2015-10-12T17:20:52",
+  "languages": {
+    "Java": 22597055,
+    "JavaScript": 438641,
+    "Scala": 301176,
+    "HTML": 160008,
+    "Shell": 89515,
+    "CSS": 34997,
+    "C#": 27536,
+    "Batchfile": 17708,
+    "C++": 17404,
+    "Python": 14470,
+    "Ruby": 6594,
+    "Perl": 4128,
+    "PHP": 3665
+  },
+  "size": 23712897
+}
