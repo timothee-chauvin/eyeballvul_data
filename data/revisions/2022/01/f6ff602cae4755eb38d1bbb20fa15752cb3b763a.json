@@ -1,0 +1,18 @@
+{
+  "commit": "f6ff602cae4755eb38d1bbb20fa15752cb3b763a",
+  "repo_url": "https://github.com/canonical/snapd",
+  "date": "2022-01-06T23:38:25",
+  "languages": {
+    "Go": 18250974,
+    "C": 724293,
+    "Shell": 423139,
+    "Python": 186583,
+    "Makefile": 93784,
+    "M4": 10443,
+    "Tcl": 1264,
+    "HTML": 980,
+    "Meson": 295,
+    "Roff": 12
+  },
+  "size": 19691767
+}

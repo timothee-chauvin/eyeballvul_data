@@ -1,0 +1,15 @@
+{
+  "commit": "247caf6e98a6a2ac7bb5696f1a21764e7171ae7f",
+  "repo_url": "https://github.com/tracksapp/tracks",
+  "date": "2024-06-17T10:30:46",
+  "languages": {
+    "Ruby": 655677,
+    "HTML": 154933,
+    "JavaScript": 115031,
+    "SCSS": 36681,
+    "Shell": 5090,
+    "Roff": 1476,
+    "Dockerfile": 1057
+  },
+  "size": 969945
+}

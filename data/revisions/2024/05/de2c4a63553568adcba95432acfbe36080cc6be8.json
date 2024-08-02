@@ -1,0 +1,16 @@
+{
+  "commit": "de2c4a63553568adcba95432acfbe36080cc6be8",
+  "repo_url": "https://github.com/starship/starship",
+  "date": "2024-05-15T17:06:13",
+  "languages": {
+    "Rust": 1347850,
+    "Shell": 40636,
+    "PowerShell": 15578,
+    "Lua": 2062,
+    "Xonsh": 1370,
+    "HTML": 1243,
+    "Nu": 1161,
+    "Elvish": 1073
+  },
+  "size": 1410973
+}

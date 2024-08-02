@@ -1,0 +1,13 @@
+{
+  "commit": "cb95d1cb8927292fc096834a62c3aa46af46e4ee",
+  "repo_url": "https://github.com/tiangolo/fastapi",
+  "date": "2024-01-11T15:32:00",
+  "languages": {
+    "Python": 3756338,
+    "Shell": 1133,
+    "JavaScript": 875,
+    "HTML": 187,
+    "CSS": 25
+  },
+  "size": 3758558
+}

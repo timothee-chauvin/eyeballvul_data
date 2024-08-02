@@ -1,0 +1,20 @@
+{
+  "commit": "069083cccd73d1d68da68116c8d050bb62cdfe0e",
+  "repo_url": "https://github.com/freetype/freetype",
+  "date": "2016-12-30T20:16:46",
+  "languages": {
+    "C": 7051278,
+    "Python": 184119,
+    "Makefile": 159870,
+    "C++": 79279,
+    "DIGITAL Command Language": 35811,
+    "CMake": 24779,
+    "M4": 14519,
+    "Perl": 13044,
+    "Shell": 12511,
+    "HTML": 10366,
+    "Awk": 3962,
+    "sed": 236
+  },
+  "size": 7589774
+}

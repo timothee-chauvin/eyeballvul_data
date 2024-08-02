@@ -1,0 +1,13 @@
+{
+  "commit": "24be4a26f0706e456fca1b61b8c79f7486a9e86d",
+  "repo_url": "https://github.com/hyprwm/xdg-desktop-portal-hyprland",
+  "date": "2024-06-13T09:48:34",
+  "languages": {
+    "C++": 150098,
+    "CMake": 6474,
+    "Meson": 4619,
+    "Nix": 3617,
+    "Makefile": 179
+  },
+  "size": 164987
+}

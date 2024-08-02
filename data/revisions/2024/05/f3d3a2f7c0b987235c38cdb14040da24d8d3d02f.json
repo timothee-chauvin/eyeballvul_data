@@ -1,0 +1,17 @@
+{
+  "commit": "f3d3a2f7c0b987235c38cdb14040da24d8d3d02f",
+  "repo_url": "https://github.com/enchant97/note-mark",
+  "date": "2024-05-11T16:58:38",
+  "languages": {
+    "TypeScript": 140294,
+    "Go": 62597,
+    "Dockerfile": 1132,
+    "HTML": 884,
+    "CSS": 391,
+    "Rust": 276,
+    "JavaScript": 218,
+    "Makefile": 76,
+    "SCSS": 57
+  },
+  "size": 205925
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "54bea636b41f7953c01a7da5f488f08c1b42ffd1",
+  "repo_url": "https://github.com/homebrew/brew",
+  "date": "2024-04-21T21:50:58",
+  "languages": {
+    "Ruby": 4411993,
+    "Shell": 295115,
+    "Roff": 115789,
+    "HTML": 30986,
+    "Rich Text Format": 5305,
+    "Swift": 5211,
+    "Dockerfile": 2984,
+    "PostScript": 485
+  },
+  "size": 4867868
+}
