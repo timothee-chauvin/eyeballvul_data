@@ -1,0 +1,17 @@
+{
+  "commit": "1838816bff756453290d558ba913ef907cd3dae6",
+  "repo_url": "https://github.com/monkeytypegame/monkeytype",
+  "date": "2024-07-16T11:45:04",
+  "languages": {
+    "TypeScript": 1947057,
+    "HTML": 265459,
+    "SCSS": 199365,
+    "CSS": 104442,
+    "JavaScript": 54773,
+    "Lua": 3425,
+    "Shell": 2985,
+    "Dockerfile": 1721,
+    "Batchfile": 77
+  },
+  "size": 2579304
+}
