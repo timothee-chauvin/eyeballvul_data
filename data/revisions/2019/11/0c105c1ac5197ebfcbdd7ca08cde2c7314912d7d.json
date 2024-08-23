@@ -1,0 +1,18 @@
+{
+  "commit": "0c105c1ac5197ebfcbdd7ca08cde2c7314912d7d",
+  "repo_url": "https://github.com/mickael-kerjean/filestash",
+  "date": "2019-11-19T06:34:33",
+  "languages": {
+    "Go": 684871,
+    "JavaScript": 414351,
+    "SCSS": 96006,
+    "Emacs Lisp": 92850,
+    "HTML": 11619,
+    "Shell": 6396,
+    "C": 4580,
+    "Dockerfile": 4442,
+    "Makefile": 668,
+    "CSS": 344
+  },
+  "size": 1316127
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "d23881c6489916113921dcedf85077441b44aaf3",
+  "repo_url": "https://github.com/apache/airflow",
+  "date": "2024-08-03T14:36:03",
+  "languages": {
+    "Python": 36140392,
+    "TypeScript": 876729,
+    "Shell": 187301,
+    "HTML": 156019,
+    "JavaScript": 107811,
+    "Dockerfile": 91557,
+    "Jinja": 50004,
+    "CSS": 23453,
+    "Go": 9491,
+    "Jupyter Notebook": 5482,
+    "HCL": 3786,
+    "Mako": 1339
+  },
+  "size": 37653364
+}

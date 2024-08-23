@@ -1,0 +1,18 @@
+{
+  "commit": "ed31e2d6bfda32ced8dd2c472fabe10fad37c200",
+  "repo_url": "https://github.com/netatalk/netatalk",
+  "date": "2024-06-22T11:00:04",
+  "languages": {
+    "C": 13737024,
+    "M4": 96396,
+    "Meson": 91740,
+    "C++": 67881,
+    "Shell": 45986,
+    "Makefile": 32527,
+    "Perl": 17715,
+    "Lua": 3398,
+    "Dockerfile": 1200,
+    "PostScript": 122
+  },
+  "size": 14093989
+}

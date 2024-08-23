@@ -1,0 +1,12 @@
+{
+  "commit": "72e5e375a00e8f5fa60e89ae7d9d5a582aeefc3f",
+  "repo_url": "https://github.com/rust-bitcoin/rust-miniscript",
+  "date": "2024-07-10T18:45:59",
+  "languages": {
+    "Rust": 4356884,
+    "Shell": 9099,
+    "Just": 1020,
+    "RPC": 99
+  },
+  "size": 4367102
+}

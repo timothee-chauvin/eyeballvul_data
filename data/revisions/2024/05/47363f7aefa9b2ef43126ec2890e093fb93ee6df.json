@@ -1,0 +1,16 @@
+{
+  "commit": "47363f7aefa9b2ef43126ec2890e093fb93ee6df",
+  "repo_url": "https://github.com/microcks/microcks",
+  "date": "2024-05-30T11:35:36",
+  "languages": {
+    "Java": 2228129,
+    "TypeScript": 288823,
+    "HTML": 181102,
+    "CSS": 31272,
+    "Shell": 19853,
+    "JavaScript": 11808,
+    "Dockerfile": 3932,
+    "Smarty": 2001
+  },
+  "size": 2766920
+}

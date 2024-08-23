@@ -1,0 +1,22 @@
+{
+  "commit": "adb7f8edb7f4829d9c81e4c404162d265162a535",
+  "repo_url": "https://github.com/apache/incubator-linkis",
+  "date": "2023-12-19T08:42:56",
+  "languages": {
+    "Java": 7676809,
+    "Scala": 4628906,
+    "Ruby": 1682380,
+    "Vue": 1159948,
+    "JavaScript": 560703,
+    "TypeScript": 419240,
+    "Shell": 218142,
+    "SCSS": 141369,
+    "Less": 27818,
+    "Python": 16993,
+    "Smarty": 12369,
+    "Dockerfile": 9649,
+    "CSS": 4643,
+    "HTML": 2622
+  },
+  "size": 16561591
+}

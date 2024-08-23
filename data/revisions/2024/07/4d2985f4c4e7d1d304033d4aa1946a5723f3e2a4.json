@@ -1,0 +1,14 @@
+{
+  "commit": "4d2985f4c4e7d1d304033d4aa1946a5723f3e2a4",
+  "repo_url": "https://github.com/wurmlab/sequenceserver",
+  "date": "2024-07-02T12:05:16",
+  "languages": {
+    "JavaScript": 950021,
+    "Ruby": 461201,
+    "HTML": 82806,
+    "CSS": 34984,
+    "Dockerfile": 3554,
+    "Shell": 685
+  },
+  "size": 1533251
+}
