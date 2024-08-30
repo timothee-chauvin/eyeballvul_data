@@ -1,0 +1,20 @@
+{
+  "commit": "bc84faf99c5f08b4b6b310fadf9a40eaadbdb771",
+  "repo_url": "https://github.com/windscribe/desktop-app",
+  "date": "2024-02-20T18:09:37",
+  "languages": {
+    "C++": 4597182,
+    "C": 2372433,
+    "Python": 185108,
+    "Objective-C": 120210,
+    "Objective-C++": 105883,
+    "CMake": 92921,
+    "Shell": 45484,
+    "Batchfile": 16881,
+    "Makefile": 10672,
+    "QMake": 1386,
+    "Dockerfile": 799,
+    "PowerShell": 194
+  },
+  "size": 7549153
+}

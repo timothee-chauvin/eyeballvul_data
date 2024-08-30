@@ -1,0 +1,14 @@
+{
+  "commit": "7837b4ed9c7a51507bae5c075b32ffd490720d93",
+  "repo_url": "https://github.com/hwameistor/hwameistor",
+  "date": "2024-06-24T06:44:16",
+  "languages": {
+    "Go": 2719383,
+    "Makefile": 21656,
+    "Shell": 17194,
+    "Smarty": 2897,
+    "Python": 2043,
+    "Dockerfile": 1961
+  },
+  "size": 2765134
+}

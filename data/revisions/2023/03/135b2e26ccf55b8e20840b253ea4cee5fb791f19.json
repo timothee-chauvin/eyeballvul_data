@@ -1,0 +1,16 @@
+{
+  "commit": "135b2e26ccf55b8e20840b253ea4cee5fb791f19",
+  "repo_url": "https://github.com/philiphazel/xfpt",
+  "date": "2023-03-08T17:35:23",
+  "languages": {
+    "C": 76965,
+    "Shell": 6417,
+    "Perl": 5384,
+    "Makefile": 2943,
+    "BitBake": 1195,
+    "M4": 888,
+    "C++": 27,
+    "Assembly": 11
+  },
+  "size": 93830
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "3869f8d5f5e560b5e0eff2bd7086ce8bf27022ca",
+  "repo_url": "https://github.com/chartist-js/chartist",
+  "date": "2022-11-03T11:44:56",
+  "languages": {
+    "TypeScript": 347661,
+    "MDX": 27802,
+    "JavaScript": 17800,
+    "SCSS": 9085,
+    "HTML": 5184,
+    "CSS": 955
+  },
+  "size": 408487
+}
