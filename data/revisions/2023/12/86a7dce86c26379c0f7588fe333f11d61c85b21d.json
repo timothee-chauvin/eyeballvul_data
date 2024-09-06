@@ -1,0 +1,16 @@
+{
+  "commit": "86a7dce86c26379c0f7588fe333f11d61c85b21d",
+  "repo_url": "https://github.com/easysoft/zentaopms",
+  "date": "2023-12-28T02:09:14",
+  "languages": {
+    "PHP": 30298367,
+    "JavaScript": 14437381,
+    "CSS": 582372,
+    "Shell": 24782,
+    "Makefile": 21665,
+    "HTML": 16598,
+    "Hack": 6771,
+    "Batchfile": 6739
+  },
+  "size": 45394675
+}

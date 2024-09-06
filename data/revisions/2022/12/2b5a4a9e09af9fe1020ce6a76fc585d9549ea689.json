@@ -1,0 +1,16 @@
+{
+  "commit": "2b5a4a9e09af9fe1020ce6a76fc585d9549ea689",
+  "repo_url": "https://github.com/linuxossk/shakal-ng",
+  "date": "2022-12-04T06:21:15",
+  "languages": {
+    "Python": 559624,
+    "HTML": 440201,
+    "SCSS": 150228,
+    "JavaScript": 115141,
+    "CSS": 74462,
+    "PHP": 62079,
+    "Shell": 10343,
+    "Dockerfile": 678
+  },
+  "size": 1412756
+}

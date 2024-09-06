@@ -1,0 +1,15 @@
+{
+  "commit": "b178a54ee3c664f2d76735c408ceea2d7b62f5b3",
+  "repo_url": "https://github.com/openimageio/oiio",
+  "date": "2023-01-04T03:05:13",
+  "languages": {
+    "C++": 6623896,
+    "POV-Ray SDL": 5056106,
+    "Python": 270999,
+    "CMake": 219439,
+    "C": 131728,
+    "Shell": 56843,
+    "Makefile": 18697
+  },
+  "size": 12377708
+}

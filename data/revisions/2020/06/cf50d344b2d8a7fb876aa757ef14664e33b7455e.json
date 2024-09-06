@@ -1,0 +1,16 @@
+{
+  "commit": "cf50d344b2d8a7fb876aa757ef14664e33b7455e",
+  "repo_url": "https://github.com/play-with-docker/play-with-docker",
+  "date": "2020-06-22T01:26:09",
+  "languages": {
+    "JavaScript": 473034,
+    "Go": 275331,
+    "HTML": 66950,
+    "Shell": 17766,
+    "CSS": 7654,
+    "Dockerfile": 6453,
+    "PowerShell": 3225,
+    "Vim Script": 170
+  },
+  "size": 850583
+}

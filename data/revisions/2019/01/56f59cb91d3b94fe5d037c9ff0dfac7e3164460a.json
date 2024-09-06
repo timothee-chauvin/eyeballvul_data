@@ -1,0 +1,14 @@
+{
+  "commit": "56f59cb91d3b94fe5d037c9ff0dfac7e3164460a",
+  "repo_url": "https://github.com/hmcts/probate-back-office",
+  "date": "2019-01-22T08:24:17",
+  "languages": {
+    "HTML": 3142336,
+    "Java": 786795,
+    "HCL": 13963,
+    "Groovy": 7705,
+    "Shell": 7149,
+    "Dockerfile": 708
+  },
+  "size": 3958656
+}

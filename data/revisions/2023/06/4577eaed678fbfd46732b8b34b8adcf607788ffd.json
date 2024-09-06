@@ -1,0 +1,16 @@
+{
+  "commit": "4577eaed678fbfd46732b8b34b8adcf607788ffd",
+  "repo_url": "https://github.com/ging/fiware-idm",
+  "date": "2023-06-09T13:19:25",
+  "languages": {
+    "JavaScript": 1388935,
+    "EJS": 434606,
+    "SCSS": 149385,
+    "API Blueprint": 98829,
+    "Dockerfile": 11933,
+    "CSS": 5048,
+    "HTML": 1526,
+    "Shell": 985
+  },
+  "size": 2091247
+}

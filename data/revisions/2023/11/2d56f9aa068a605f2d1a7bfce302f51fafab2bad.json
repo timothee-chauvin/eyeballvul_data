@@ -1,0 +1,13 @@
+{
+  "commit": "2d56f9aa068a605f2d1a7bfce302f51fafab2bad",
+  "repo_url": "https://github.com/sse-secure-systems/connaisseur",
+  "date": "2023-11-21T10:36:03",
+  "languages": {
+    "Python": 260528,
+    "Shell": 21788,
+    "Mustache": 6788,
+    "Dockerfile": 2555,
+    "Makefile": 1339
+  },
+  "size": 292998
+}

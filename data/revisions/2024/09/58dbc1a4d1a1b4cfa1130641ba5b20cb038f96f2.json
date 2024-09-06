@@ -1,0 +1,20 @@
+{
+  "commit": "58dbc1a4d1a1b4cfa1130641ba5b20cb038f96f2",
+  "repo_url": "https://github.com/windmill-labs/windmill",
+  "date": "2024-09-02T23:06:08",
+  "languages": {
+    "HTML": 9298871,
+    "Svelte": 3691267,
+    "Rust": 2166122,
+    "TypeScript": 1129650,
+    "JavaScript": 546057,
+    "CSS": 538040,
+    "Python": 93976,
+    "PowerShell": 23445,
+    "Shell": 19047,
+    "Dockerfile": 12031,
+    "Go": 5995,
+    "PLpgSQL": 3082
+  },
+  "size": 17527583
+}

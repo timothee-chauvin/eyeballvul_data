@@ -1,0 +1,13 @@
+{
+  "commit": "220a92054d383e48fe54531d7c2eec9547801691",
+  "repo_url": "https://github.com/pimcore/customer-data-framework",
+  "date": "2023-03-28T13:51:08",
+  "languages": {
+    "PHP": 1285714,
+    "JavaScript": 1016735,
+    "CSS": 452453,
+    "Twig": 53817,
+    "SCSS": 5216
+  },
+  "size": 2813935
+}
