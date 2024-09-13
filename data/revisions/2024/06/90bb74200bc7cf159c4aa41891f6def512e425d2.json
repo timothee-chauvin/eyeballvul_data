@@ -1,0 +1,15 @@
+{
+  "commit": "90bb74200bc7cf159c4aa41891f6def512e425d2",
+  "repo_url": "https://github.com/flute-cms/cms",
+  "date": "2024-06-27T18:32:51",
+  "languages": {
+    "PHP": 1833144,
+    "JavaScript": 432500,
+    "SCSS": 399277,
+    "Blade": 396597,
+    "CSS": 49859,
+    "Shell": 4363,
+    "Dockerfile": 1065
+  },
+  "size": 3116805
+}

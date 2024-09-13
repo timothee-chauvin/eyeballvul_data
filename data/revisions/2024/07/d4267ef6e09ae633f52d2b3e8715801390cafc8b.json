@@ -1,0 +1,11 @@
+{
+  "commit": "d4267ef6e09ae633f52d2b3e8715801390cafc8b",
+  "repo_url": "https://github.com/yeti-platform/yeti",
+  "date": "2024-07-18T09:16:22",
+  "languages": {
+    "Python": 768496,
+    "Shell": 1116,
+    "Dockerfile": 1018
+  },
+  "size": 770630
+}

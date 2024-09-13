@@ -1,0 +1,15 @@
+{
+  "commit": "d49cc02792949ccbaab568e81e398cf9cda69a7b",
+  "repo_url": "https://github.com/thinkgem/jeesite",
+  "date": "2023-03-05T14:08:58",
+  "languages": {
+    "Vue": 926415,
+    "TypeScript": 726697,
+    "Less": 48679,
+    "JavaScript": 41928,
+    "CSS": 27237,
+    "HTML": 1670,
+    "Batchfile": 11
+  },
+  "size": 1772637
+}
