@@ -1,0 +1,16 @@
+{
+  "commit": "9416aa9452c37b3ac252e709c39b46705916b97e",
+  "repo_url": "https://github.com/davea42/libdwarf-code",
+  "date": "2022-06-17T02:54:27",
+  "languages": {
+    "C": 4825236,
+    "C++": 209579,
+    "CMake": 43192,
+    "Shell": 36374,
+    "Python": 35471,
+    "Makefile": 29803,
+    "Meson": 18999,
+    "M4": 18993
+  },
+  "size": 5217647
+}

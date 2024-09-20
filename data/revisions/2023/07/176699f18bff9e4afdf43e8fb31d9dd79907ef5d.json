@@ -1,0 +1,12 @@
+{
+  "commit": "176699f18bff9e4afdf43e8fb31d9dd79907ef5d",
+  "repo_url": "https://github.com/chaosblade-io/chaosblade",
+  "date": "2023-07-25T03:31:58",
+  "languages": {
+    "Go": 227169,
+    "Makefile": 12960,
+    "Dockerfile": 4883,
+    "C": 3378
+  },
+  "size": 248390
+}

@@ -1,0 +1,24 @@
+{
+  "commit": "e1959605bd490e1eb9ea5e2277f4a332208097de",
+  "repo_url": "https://github.com/heimdal/heimdal",
+  "date": "2019-06-06T02:56:55",
+  "languages": {
+    "C": 17086490,
+    "Roff": 540633,
+    "TeX": 434983,
+    "Shell": 355761,
+    "Makefile": 128667,
+    "M4": 110944,
+    "Perl": 71728,
+    "Python": 48346,
+    "Yacc": 47734,
+    "Lex": 18219,
+    "Awk": 11905,
+    "Java": 7666,
+    "Clarion": 735,
+    "Assembly": 475,
+    "HTML": 467,
+    "Rich Text Format": 283
+  },
+  "size": 18865036
+}

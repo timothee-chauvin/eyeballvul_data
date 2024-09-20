@@ -1,0 +1,17 @@
+{
+  "commit": "01678e871e4bb30dd4bde7bf8b2a63c5cddb6a11",
+  "repo_url": "https://github.com/opensc/opensc",
+  "date": "2019-10-18T12:31:09",
+  "languages": {
+    "C": 6351525,
+    "M4": 61352,
+    "Makefile": 54390,
+    "Shell": 51473,
+    "C++": 24173,
+    "Objective-C": 17753,
+    "Roff": 13853,
+    "Lex": 2039,
+    "AppleScript": 530
+  },
+  "size": 6577088
+}

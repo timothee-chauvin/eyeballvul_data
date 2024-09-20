@@ -1,0 +1,20 @@
+{
+  "commit": "744eccc51eb0705ae657dcd88ce4f15bd1a332f3",
+  "repo_url": "https://github.com/telegramdesktop/tdesktop",
+  "date": "2020-10-07T15:18:58",
+  "languages": {
+    "C++": 10025086,
+    "Objective-C++": 171436,
+    "CMake": 117046,
+    "Shell": 34012,
+    "Python": 29613,
+    "Objective-C": 18892,
+    "Batchfile": 16157,
+    "CSS": 10717,
+    "C": 6675,
+    "Inno Setup": 5551,
+    "JavaScript": 5375,
+    "VBScript": 752
+  },
+  "size": 10441312
+}

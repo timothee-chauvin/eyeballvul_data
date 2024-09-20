@@ -1,0 +1,17 @@
+{
+  "commit": "1ad946d013bfb661340c7a9720b2dc90aa9a0d7f",
+  "repo_url": "https://github.com/the-djmaze/snappymail",
+  "date": "2024-08-27T14:47:44",
+  "languages": {
+    "PHP": 4227538,
+    "JavaScript": 1046171,
+    "HTML": 194482,
+    "CSS": 131592,
+    "Less": 68231,
+    "Shell": 19311,
+    "Perl": 12649,
+    "Dockerfile": 9282,
+    "Makefile": 1701
+  },
+  "size": 5710957
+}

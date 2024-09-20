@@ -1,0 +1,16 @@
+{
+  "commit": "311ab3a3af4cb33865be70be39663a402bfc23f4",
+  "repo_url": "https://github.com/defectdojo/django-defectdojo",
+  "date": "2018-09-25T13:14:37",
+  "languages": {
+    "Python": 1175137,
+    "HTML": 1083771,
+    "Shell": 39373,
+    "CSS": 26050,
+    "JavaScript": 6717,
+    "XSLT": 6624,
+    "Smarty": 3486,
+    "Dockerfile": 1996
+  },
+  "size": 2343154
+}

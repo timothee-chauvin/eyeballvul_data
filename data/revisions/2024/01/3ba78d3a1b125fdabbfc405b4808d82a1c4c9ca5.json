@@ -1,0 +1,21 @@
+{
+  "commit": "3ba78d3a1b125fdabbfc405b4808d82a1c4c9ca5",
+  "repo_url": "https://github.com/roundcube/roundcubemail",
+  "date": "2024-01-20T09:42:45",
+  "languages": {
+    "PHP": 11547327,
+    "JavaScript": 774147,
+    "Less": 203275,
+    "HTML": 108347,
+    "TSQL": 33351,
+    "CSS": 15056,
+    "PLSQL": 10484,
+    "Makefile": 4559,
+    "Shell": 4301,
+    "Perl": 2649,
+    "Rich Text Format": 1958,
+    "C": 1603,
+    "Python": 749
+  },
+  "size": 12707806
+}

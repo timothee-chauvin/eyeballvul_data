@@ -1,0 +1,16 @@
+{
+  "commit": "ec1fda53b71bcb1ba94414febd0e5e377d95bbe2",
+  "repo_url": "https://github.com/gnome/librsvg",
+  "date": "2017-09-01T19:25:14",
+  "languages": {
+    "C": 622400,
+    "Rust": 287833,
+    "Makefile": 32621,
+    "M4": 26556,
+    "Shell": 21728,
+    "Python": 10399,
+    "Roff": 2117,
+    "Vala": 1452
+  },
+  "size": 1005106
+}

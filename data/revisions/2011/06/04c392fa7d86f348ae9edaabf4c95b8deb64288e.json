@@ -1,0 +1,17 @@
+{
+  "commit": "04c392fa7d86f348ae9edaabf4c95b8deb64288e",
+  "repo_url": "https://github.com/gstreamer/gstreamer",
+  "date": "2011-06-15T18:29:48",
+  "languages": {
+    "C": 7974719,
+    "Makefile": 151314,
+    "M4": 60100,
+    "Csound": 15546,
+    "C++": 13065,
+    "Perl": 11861,
+    "Shell": 5056,
+    "Roff": 2533,
+    "MATLAB": 1725
+  },
+  "size": 8235919
+}

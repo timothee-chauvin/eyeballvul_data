@@ -1,0 +1,15 @@
+{
+  "commit": "ccab5ff2f5974024e3fcd237f1b8f84f71965107",
+  "repo_url": "https://github.com/simplesamlphp/simplesamlphp",
+  "date": "2017-09-22T14:05:10",
+  "languages": {
+    "PHP": 2296720,
+    "CSS": 14053,
+    "JavaScript": 10763,
+    "Twig": 10132,
+    "Perl": 2266,
+    "Shell": 2140,
+    "Hack": 16
+  },
+  "size": 2336090
+}

@@ -1,0 +1,33 @@
+{
+  "commit": "c8bdb95d21427284bd209179e03b191aff895bcb",
+  "repo_url": "https://github.com/wireshark/wireshark",
+  "date": "2015-09-02T18:29:10",
+  "languages": {
+    "C": 151981774,
+    "C++": 3315972,
+    "Python": 1655291,
+    "Perl": 952702,
+    "SourcePawn": 546072,
+    "CMake": 519273,
+    "Lua": 364783,
+    "Shell": 335281,
+    "Makefile": 295376,
+    "M4": 208823,
+    "Lex": 153067,
+    "NSIS": 83062,
+    "HTML": 39044,
+    "QMake": 25531,
+    "Yacc": 19315,
+    "PowerShell": 16641,
+    "XSLT": 15914,
+    "Rich Text Format": 12663,
+    "PostScript": 6954,
+    "NASL": 5928,
+    "CSS": 4852,
+    "Assembly": 3661,
+    "Batchfile": 2165,
+    "Awk": 1823,
+    "BitBake": 965
+  },
+  "size": 160566932
+}

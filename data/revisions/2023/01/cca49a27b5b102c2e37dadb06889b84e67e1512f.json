@@ -1,0 +1,13 @@
+{
+  "commit": "cca49a27b5b102c2e37dadb06889b84e67e1512f",
+  "repo_url": "https://github.com/ipython/ipython",
+  "date": "2023-01-27T11:56:59",
+  "languages": {
+    "Python": 2400638,
+    "Jupyter Notebook": 958133,
+    "Shell": 12356,
+    "Makefile": 4675,
+    "Batchfile": 425
+  },
+  "size": 3376227
+}

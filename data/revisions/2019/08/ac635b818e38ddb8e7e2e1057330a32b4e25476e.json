@@ -1,0 +1,19 @@
+{
+  "commit": "ac635b818e38ddb8e7e2e1057330a32b4e25476e",
+  "repo_url": "https://github.com/fontforge/fontforge",
+  "date": "2019-08-01T08:28:36",
+  "languages": {
+    "C": 28430855,
+    "Python": 206483,
+    "M4": 107273,
+    "Makefile": 81663,
+    "Shell": 31459,
+    "Roff": 19351,
+    "Perl": 13290,
+    "C++": 10205,
+    "Tcl": 6705,
+    "Objective-C": 3719,
+    "Emacs Lisp": 339
+  },
+  "size": 28911342
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "41f8c466f3d558b7188470991dc61134f5ebd30d",
+  "repo_url": "https://github.com/bluez/bluez",
+  "date": "2022-03-16T15:04:29",
+  "languages": {
+    "C": 12169844,
+    "Python": 220851,
+    "Makefile": 47335,
+    "Roff": 27429,
+    "M4": 20458,
+    "Shell": 2699,
+    "Perl": 1645
+  },
+  "size": 12490261
+}
