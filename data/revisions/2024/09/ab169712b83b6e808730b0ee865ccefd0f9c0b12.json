@@ -1,0 +1,13 @@
+{
+  "commit": "ab169712b83b6e808730b0ee865ccefd0f9c0b12",
+  "repo_url": "https://github.com/strawberry-graphql/strawberry",
+  "date": "2024-09-19T19:46:11",
+  "languages": {
+    "Python": 2291602,
+    "HTML": 6900,
+    "TypeScript": 6378,
+    "Dockerfile": 523,
+    "Shell": 50
+  },
+  "size": 2305453
+}

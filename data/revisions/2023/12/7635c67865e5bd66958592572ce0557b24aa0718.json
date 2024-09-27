@@ -1,0 +1,12 @@
+{
+  "commit": "7635c67865e5bd66958592572ce0557b24aa0718",
+  "repo_url": "https://github.com/apache/incubator-hugegraph",
+  "date": "2023-12-19T07:22:35",
+  "languages": {
+    "Java": 6107169,
+    "Shell": 98480,
+    "Groovy": 7433,
+    "Dockerfile": 2425
+  },
+  "size": 6215507
+}

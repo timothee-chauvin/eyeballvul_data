@@ -1,0 +1,16 @@
+{
+  "commit": "06d7fab820dc1e486fe59371aeb359c965767ded",
+  "repo_url": "https://github.com/traefik/traefik",
+  "date": "2024-09-16T13:26:12",
+  "languages": {
+    "Go": 3844988,
+    "Vue": 201938,
+    "JavaScript": 86815,
+    "Shell": 9952,
+    "SCSS": 7832,
+    "Makefile": 6379,
+    "Dockerfile": 1335,
+    "HTML": 1266
+  },
+  "size": 4160505
+}

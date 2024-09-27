@@ -1,0 +1,21 @@
+{
+  "commit": "c055d529cdf35ed5b9cbbab12380b27b11b55499",
+  "repo_url": "https://github.com/kubeflow/kubeflow",
+  "date": "2022-01-27T14:16:10",
+  "languages": {
+    "Jsonnet": 7366280,
+    "TypeScript": 423600,
+    "Python": 311013,
+    "Go": 236247,
+    "JavaScript": 194112,
+    "HTML": 55990,
+    "CSS": 44370,
+    "Dockerfile": 32179,
+    "Makefile": 26698,
+    "SCSS": 19009,
+    "Pug": 15503,
+    "PowerShell": 7883,
+    "Shell": 5405
+  },
+  "size": 8738289
+}

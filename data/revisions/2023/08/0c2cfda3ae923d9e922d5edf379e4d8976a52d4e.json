@@ -1,0 +1,13 @@
+{
+  "commit": "0c2cfda3ae923d9e922d5edf379e4d8976a52d4e",
+  "repo_url": "https://gitlab.com/famedly/conduit",
+  "date": "2023-08-10T17:01:56",
+  "languages": {
+    "Rust": 1125397,
+    "Dockerfile": 10521,
+    "Python": 9475,
+    "Shell": 5787,
+    "Nix": 2440
+  },
+  "size": 1153620
+}

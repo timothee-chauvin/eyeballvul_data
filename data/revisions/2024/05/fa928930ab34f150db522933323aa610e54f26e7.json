@@ -1,0 +1,19 @@
+{
+  "commit": "fa928930ab34f150db522933323aa610e54f26e7",
+  "repo_url": "https://github.com/vesoft-inc/nebula",
+  "date": "2024-05-17T10:31:24",
+  "languages": {
+    "C++": 10211830,
+    "Gherkin": 4325226,
+    "Python": 425890,
+    "CMake": 217124,
+    "Yacc": 144086,
+    "Thrift": 41490,
+    "Lex": 37234,
+    "Shell": 27564,
+    "Makefile": 5605,
+    "C": 3552,
+    "Dockerfile": 2099
+  },
+  "size": 15441700
+}

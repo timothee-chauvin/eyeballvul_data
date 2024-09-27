@@ -1,0 +1,17 @@
+{
+  "commit": "996cbf8ac24e8d4e1ec929f979be8f044c2a7de7",
+  "repo_url": "https://github.com/rapidscada/scada",
+  "date": "2020-12-14T07:47:54",
+  "languages": {
+    "C#": 5487529,
+    "HTML": 1001784,
+    "JavaScript": 464896,
+    "ASP.NET": 64521,
+    "CSS": 56234,
+    "Less": 48897,
+    "TSQL": 7527,
+    "Shell": 7120,
+    "Batchfile": 899
+  },
+  "size": 7139407
+}

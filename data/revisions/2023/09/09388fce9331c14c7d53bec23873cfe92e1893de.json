@@ -1,0 +1,14 @@
+{
+  "commit": "09388fce9331c14c7d53bec23873cfe92e1893de",
+  "repo_url": "https://github.com/iredmail/iredadmin",
+  "date": "2023-09-20T01:56:44",
+  "languages": {
+    "Python": 766786,
+    "HTML": 186128,
+    "CSS": 64771,
+    "Shell": 43528,
+    "PLpgSQL": 5579,
+    "JavaScript": 1246
+  },
+  "size": 1068038
+}
