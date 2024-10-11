@@ -1,0 +1,14 @@
+{
+  "commit": "7ee3571fad7a067e0d1beaeb5e5a0a16b6da55fa",
+  "repo_url": "https://github.com/freepbx-contributedmodules/endpointman",
+  "date": "2019-04-26T23:47:26",
+  "languages": {
+    "PHP": 1002041,
+    "JavaScript": 952657,
+    "CSS": 77947,
+    "HTML": 66132,
+    "Shell": 387,
+    "Hack": 179
+  },
+  "size": 2099343
+}

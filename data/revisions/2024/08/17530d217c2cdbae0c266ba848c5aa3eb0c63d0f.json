@@ -1,0 +1,12 @@
+{
+  "commit": "17530d217c2cdbae0c266ba848c5aa3eb0c63d0f",
+  "repo_url": "https://github.com/ubuntu/authd",
+  "date": "2024-08-23T10:53:17",
+  "languages": {
+    "Go": 888567,
+    "C": 49246,
+    "Rust": 18776,
+    "Shell": 4150
+  },
+  "size": 960739
+}

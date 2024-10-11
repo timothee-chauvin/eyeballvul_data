@@ -1,0 +1,11 @@
+{
+  "commit": "82a856fea851cc20641572d61d51408ab37693b6",
+  "repo_url": "https://github.com/hyperium/tonic",
+  "date": "2024-08-26T12:37:29",
+  "languages": {
+    "Rust": 998507,
+    "Shell": 4922,
+    "HCL": 1530
+  },
+  "size": 1004959
+}

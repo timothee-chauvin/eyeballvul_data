@@ -1,0 +1,31 @@
+{
+  "commit": "0159b68b362c7f4be78d1fa75aeaf2ec0b997f1d",
+  "repo_url": "https://github.com/eclipse-ee4j/glassfish",
+  "date": "2022-02-12T17:19:48",
+  "languages": {
+    "Java": 70222608,
+    "HTML": 3509733,
+    "Roff": 1166764,
+    "Shell": 363304,
+    "GAP": 342234,
+    "CSS": 273909,
+    "JavaScript": 136711,
+    "C++": 99812,
+    "PHP": 93782,
+    "NASL": 90017,
+    "TSQL": 25038,
+    "XSLT": 24084,
+    "Batchfile": 23866,
+    "SourcePawn": 21349,
+    "Makefile": 12167,
+    "Python": 11314,
+    "PLSQL": 10924,
+    "Ruby": 7188,
+    "SQLPL": 5198,
+    "Groovy": 4788,
+    "Dockerfile": 2312,
+    "Emacs Lisp": 1057,
+    "Brainfuck": 964
+  },
+  "size": 76449123
+}

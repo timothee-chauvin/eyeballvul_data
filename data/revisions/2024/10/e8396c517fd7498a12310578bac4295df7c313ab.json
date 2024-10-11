@@ -1,0 +1,17 @@
+{
+  "commit": "e8396c517fd7498a12310578bac4295df7c313ab",
+  "repo_url": "https://github.com/saltcorn/saltcorn",
+  "date": "2024-10-03T19:42:31",
+  "languages": {
+    "JavaScript": 3477971,
+    "TypeScript": 1440795,
+    "Python": 40847,
+    "CSS": 39039,
+    "HTML": 28808,
+    "Svelte": 24685,
+    "Shell": 9056,
+    "Dockerfile": 2072,
+    "Batchfile": 36
+  },
+  "size": 5063309
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "f5213e7e133c2468223297d5b0c850582fbe25fe",
+  "repo_url": "https://github.com/automattic/sensei",
+  "date": "2022-05-31T11:59:32",
+  "languages": {
+    "PHP": 3673163,
+    "JavaScript": 841950,
+    "SCSS": 213713,
+    "Shell": 9345,
+    "CSS": 6466,
+    "HTML": 6121
+  },
+  "size": 4750758
+}

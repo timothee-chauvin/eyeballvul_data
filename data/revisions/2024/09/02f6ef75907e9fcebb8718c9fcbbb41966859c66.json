@@ -1,0 +1,14 @@
+{
+  "commit": "02f6ef75907e9fcebb8718c9fcbbb41966859c66",
+  "repo_url": "https://github.com/badges/shields",
+  "date": "2024-09-02T14:18:20",
+  "languages": {
+    "JavaScript": 2568707,
+    "CSS": 1830,
+    "Dockerfile": 894,
+    "HTML": 866,
+    "TypeScript": 635,
+    "Procfile": 31
+  },
+  "size": 2572963
+}
