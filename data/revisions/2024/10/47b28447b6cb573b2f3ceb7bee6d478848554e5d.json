@@ -1,0 +1,20 @@
+{
+  "commit": "47b28447b6cb573b2f3ceb7bee6d478848554e5d",
+  "repo_url": "https://github.com/astroxnetwork/agent_dart",
+  "date": "2024-10-15T02:19:09",
+  "languages": {
+    "Dart": 778687,
+    "Rust": 661863,
+    "CMake": 24740,
+    "C++": 20968,
+    "Ruby": 6527,
+    "Shell": 4462,
+    "Batchfile": 2441,
+    "C": 1559,
+    "Swift": 1158,
+    "PowerShell": 695,
+    "Kotlin": 153,
+    "Objective-C": 38
+  },
+  "size": 1503291
+}

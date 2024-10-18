@@ -1,0 +1,16 @@
+{
+  "commit": "c874ec994c280ac35bde7989ee6f166c3b1caa2b",
+  "repo_url": "https://github.com/magicbug/cloudlog",
+  "date": "2024-06-26T14:36:41",
+  "languages": {
+    "PHP": 7486212,
+    "JavaScript": 2644111,
+    "CSS": 135459,
+    "HTML": 9643,
+    "Shell": 5305,
+    "XSLT": 3033,
+    "Hack": 2743,
+    "Dockerfile": 724
+  },
+  "size": 10287230
+}

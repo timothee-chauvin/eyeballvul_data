@@ -1,0 +1,13 @@
+{
+  "commit": "3b21ecbcfa9b36066417f8f05696fa21784e23a7",
+  "repo_url": "https://github.com/thinkst/opencanary",
+  "date": "2024-03-18T09:51:50",
+  "languages": {
+    "Python": 211842,
+    "CSS": 38493,
+    "HTML": 15327,
+    "Shell": 7528,
+    "JavaScript": 1055
+  },
+  "size": 274245
+}

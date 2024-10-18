@@ -1,0 +1,19 @@
+{
+  "commit": "b22d5c61eef93475413724f49fd6a32980d2c746",
+  "repo_url": "https://github.com/containers/podman",
+  "date": "2024-08-01T17:32:02",
+  "languages": {
+    "Go": 7958478,
+    "Shell": 1307792,
+    "Perl": 211014,
+    "Python": 109661,
+    "C": 54393,
+    "Makefile": 46956,
+    "PowerShell": 38657,
+    "Dockerfile": 4348,
+    "Ruby": 3511,
+    "Awk": 570,
+    "HTML": 404
+  },
+  "size": 9735784
+}

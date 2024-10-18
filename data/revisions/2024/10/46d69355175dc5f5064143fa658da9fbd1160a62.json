@@ -1,0 +1,16 @@
+{
+  "commit": "46d69355175dc5f5064143fa658da9fbd1160a62",
+  "repo_url": "https://github.com/element-hq/element-web",
+  "date": "2024-10-08T12:34:40",
+  "languages": {
+    "TypeScript": 210378,
+    "HTML": 183541,
+    "JavaScript": 136026,
+    "Shell": 11214,
+    "Perl": 8613,
+    "Python": 8547,
+    "CSS": 3659,
+    "Dockerfile": 1143
+  },
+  "size": 563121
+}
