@@ -1,0 +1,12 @@
+{
+  "commit": "6d3474b81d073cc9c8cc8cfadb580c84f8df5248",
+  "repo_url": "https://github.com/cryptocoinjs/secp256k1-node",
+  "date": "2022-12-30T23:59:02",
+  "languages": {
+    "JavaScript": 90992,
+    "C++": 18211,
+    "Python": 2704,
+    "Makefile": 2387
+  },
+  "size": 114294
+}

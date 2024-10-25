@@ -1,15 +1,15 @@
 {
-  "commit": "6c48e2d56573282ae9835829a774e691f5c1c663",
+  "commit": "6b610f4fc36098662dd0742ecc16687b8b535bb3",
   "repo_url": "https://github.com/aptos-labs/aptos-core",
-  "date": "2023-05-11T21:30:51",
+  "date": "2023-04-14T15:13:01",
   "languages": {
-    "Rust": 13418198,
-    "Move": 5472898,
-    "TypeScript": 820889,
-    "Python": 454597,
-    "HCL": 220794,
-    "Shell": 93706,
-    "JavaScript": 72662,
+    "Rust": 13239086,
+    "Move": 5524497,
+    "TypeScript": 820690,
+    "Python": 450656,
+    "HCL": 220380,
+    "Shell": 93362,
+    "JavaScript": 71527,
     "CSS": 31383,
     "Dockerfile": 27331,
     "Mustache": 21042,
@@ -22,5 +22,5 @@
     "Smarty": 1224,
     "Ruby": 1082
   },
-  "size": 20670951
+  "size": 20537405
 }

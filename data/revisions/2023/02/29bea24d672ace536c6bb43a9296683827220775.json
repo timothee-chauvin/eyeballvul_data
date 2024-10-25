@@ -1,0 +1,13 @@
+{
+  "commit": "29bea24d672ace536c6bb43a9296683827220775",
+  "repo_url": "https://github.com/moneymanagerex/web-money-manager-ex",
+  "date": "2023-02-12T19:21:13",
+  "languages": {
+    "PHP": 101474,
+    "JavaScript": 14155,
+    "CSS": 12035,
+    "Hack": 253,
+    "Dockerfile": 67
+  },
+  "size": 127984
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "9bcd4ce5c0a01af68c0d2aa44554a68bb741c61b",
+  "repo_url": "https://github.com/open-webui/open-webui",
+  "date": "2024-07-09T21:25:16",
+  "languages": {
+    "Svelte": 998636,
+    "Python": 578834,
+    "TypeScript": 186731,
+    "Shell": 11180,
+    "CSS": 10330,
+    "Dockerfile": 5941,
+    "JavaScript": 5191,
+    "HTML": 4991,
+    "Batchfile": 1203,
+    "Mako": 665,
+    "Makefile": 643
+  },
+  "size": 1804345
+}
