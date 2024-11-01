@@ -1,0 +1,17 @@
+{
+  "commit": "4b66aa1eb586c60dc19719f4e178cff89cc1e5d9",
+  "repo_url": "https://github.com/kubernetes/dashboard",
+  "date": "2024-10-22T14:44:52",
+  "languages": {
+    "Go": 1160637,
+    "TypeScript": 823093,
+    "HTML": 455977,
+    "SCSS": 69500,
+    "Makefile": 34608,
+    "Dockerfile": 20660,
+    "Shell": 15130,
+    "Smarty": 4323,
+    "JavaScript": 2045
+  },
+  "size": 2585973
+}

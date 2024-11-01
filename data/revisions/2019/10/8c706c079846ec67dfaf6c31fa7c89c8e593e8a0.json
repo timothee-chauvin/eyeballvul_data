@@ -1,0 +1,17 @@
+{
+  "commit": "8c706c079846ec67dfaf6c31fa7c89c8e593e8a0",
+  "repo_url": "https://github.com/usmannasir/cyberpanel",
+  "date": "2019-10-15T17:59:42",
+  "languages": {
+    "JavaScript": 36464390,
+    "CSS": 3151828,
+    "Python": 2145236,
+    "HTML": 1201040,
+    "SCSS": 158978,
+    "Less": 156962,
+    "Shell": 124939,
+    "PHP": 64916,
+    "Perl": 3342
+  },
+  "size": 43471631
+}
