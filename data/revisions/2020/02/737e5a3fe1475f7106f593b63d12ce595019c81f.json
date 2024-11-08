@@ -1,0 +1,21 @@
+{
+  "commit": "737e5a3fe1475f7106f593b63d12ce595019c81f",
+  "repo_url": "https://github.com/openimaj/openimaj",
+  "date": "2020-02-09T11:41:26",
+  "languages": {
+    "Java": 12467372,
+    "Propeller Spin": 448691,
+    "C++": 99373,
+    "C": 82991,
+    "Groovy": 35519,
+    "Shell": 29612,
+    "JavaScript": 28968,
+    "HTML": 21249,
+    "Objective-C": 17955,
+    "Objective-C++": 14030,
+    "Roff": 3131,
+    "Python": 2540,
+    "CSS": 1915
+  },
+  "size": 13253346
+}

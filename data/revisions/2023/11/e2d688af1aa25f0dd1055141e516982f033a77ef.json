@@ -1,0 +1,15 @@
+{
+  "commit": "e2d688af1aa25f0dd1055141e516982f033a77ef",
+  "repo_url": "https://github.com/zusam/zusam",
+  "date": "2023-11-23T13:08:42",
+  "languages": {
+    "PHP": 385363,
+    "JavaScript": 156210,
+    "SCSS": 32674,
+    "Twig": 4684,
+    "Shell": 2871,
+    "HTML": 1953,
+    "Makefile": 390
+  },
+  "size": 584145
+}

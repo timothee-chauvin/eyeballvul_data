@@ -1,0 +1,11 @@
+{
+  "commit": "3896fe568b25ac0b4c5afbf822ff8344c3d1712a",
+  "repo_url": "https://github.com/oakserver/oak",
+  "date": "2024-10-24T20:52:59",
+  "languages": {
+    "TypeScript": 350803,
+    "Dockerfile": 490,
+    "HTML": 67
+  },
+  "size": 351360
+}

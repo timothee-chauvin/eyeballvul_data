@@ -1,0 +1,17 @@
+{
+  "commit": "b07edb2582ee29dc9d6109e4ae00f369200444e1",
+  "repo_url": "https://github.com/likeshop-github/likeshop",
+  "date": "2022-03-21T08:40:30",
+  "languages": {
+    "PHP": 3426828,
+    "HTML": 1814607,
+    "Vue": 1354596,
+    "PLpgSQL": 746302,
+    "JavaScript": 600695,
+    "CSS": 131779,
+    "Smarty": 31230,
+    "SCSS": 19894,
+    "Shell": 467
+  },
+  "size": 8126398
+}
