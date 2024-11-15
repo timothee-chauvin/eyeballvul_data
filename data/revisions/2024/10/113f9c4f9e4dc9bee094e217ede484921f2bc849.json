@@ -1,0 +1,14 @@
+{
+  "commit": "113f9c4f9e4dc9bee094e217ede484921f2bc849",
+  "repo_url": "https://github.com/plentico/plenti",
+  "date": "2024-10-08T21:47:19",
+  "languages": {
+    "JavaScript": 1592848,
+    "Go": 149219,
+    "Svelte": 121856,
+    "TypeScript": 1487,
+    "CSS": 984,
+    "Dockerfile": 184
+  },
+  "size": 1866578
+}

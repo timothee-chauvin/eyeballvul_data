@@ -1,0 +1,11 @@
+{
+  "commit": "8940b51dde7b204420513aed458fd7f3cffdda84",
+  "repo_url": "https://github.com/laravel-backpack/filemanager",
+  "date": "2024-05-24T14:16:46",
+  "languages": {
+    "PHP": 32363,
+    "Blade": 24532,
+    "CSS": 4207
+  },
+  "size": 61102
+}

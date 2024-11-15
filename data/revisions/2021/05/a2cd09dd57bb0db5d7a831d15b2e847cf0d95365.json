@@ -1,0 +1,12 @@
+{
+  "commit": "a2cd09dd57bb0db5d7a831d15b2e847cf0d95365",
+  "repo_url": "https://github.com/alexstack/laravel-cms",
+  "date": "2021-05-24T22:07:01",
+  "languages": {
+    "PHP": 369980,
+    "Blade": 106074,
+    "JavaScript": 45492,
+    "CSS": 3090
+  },
+  "size": 524636
+}

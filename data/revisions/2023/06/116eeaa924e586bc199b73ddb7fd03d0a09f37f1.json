@@ -1,0 +1,14 @@
+{
+  "commit": "116eeaa924e586bc199b73ddb7fd03d0a09f37f1",
+  "repo_url": "https://github.com/gotomain/libosdp",
+  "date": "2023-06-27T10:32:43",
+  "languages": {
+    "C": 320082,
+    "Python": 32800,
+    "CMake": 17444,
+    "Shell": 8922,
+    "C++": 2376,
+    "Makefile": 2027
+  },
+  "size": 383651
+}

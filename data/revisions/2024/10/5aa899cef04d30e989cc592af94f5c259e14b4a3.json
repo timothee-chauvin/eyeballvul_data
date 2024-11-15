@@ -1,0 +1,20 @@
+{
+  "commit": "5aa899cef04d30e989cc592af94f5c259e14b4a3",
+  "repo_url": "https://github.com/mediacms-io/mediacms",
+  "date": "2024-10-04T10:39:28",
+  "languages": {
+    "JavaScript": 6682137,
+    "Python": 417459,
+    "SCSS": 332748,
+    "CSS": 111777,
+    "HTML": 88576,
+    "TypeScript": 50762,
+    "Shell": 22829,
+    "EJS": 13861,
+    "Io": 2836,
+    "Handlebars": 2413,
+    "Dockerfile": 2268,
+    "Makefile": 417
+  },
+  "size": 7728083
+}
