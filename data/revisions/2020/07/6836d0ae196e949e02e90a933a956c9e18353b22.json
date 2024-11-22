@@ -1,0 +1,23 @@
+{
+  "commit": "6836d0ae196e949e02e90a933a956c9e18353b22",
+  "repo_url": "https://github.com/jetbrains/kotlin",
+  "date": "2020-07-24T09:29:19",
+  "languages": {
+    "Kotlin": 50667652,
+    "Java": 7691070,
+    "JavaScript": 185101,
+    "HTML": 78049,
+    "Lex": 23805,
+    "TypeScript": 21756,
+    "Groovy": 11196,
+    "Swift": 10768,
+    "CSS": 9270,
+    "Shell": 7220,
+    "Batchfile": 5727,
+    "Ruby": 2655,
+    "Objective-C": 444,
+    "C": 182,
+    "Scala": 80
+  },
+  "size": 58714975
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "0dc78d335a98ef680b579851026438473147750e",
+  "repo_url": "https://github.com/eslint/rewrite",
+  "date": "2024-10-28T17:22:22",
+  "languages": {
+    "JavaScript": 300802,
+    "TypeScript": 24688,
+    "Shell": 488
+  },
+  "size": 325978
+}

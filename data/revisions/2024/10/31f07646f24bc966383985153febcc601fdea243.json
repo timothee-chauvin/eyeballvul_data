@@ -1,0 +1,14 @@
+{
+  "commit": "31f07646f24bc966383985153febcc601fdea243",
+  "repo_url": "https://github.com/opensuse/mirrorcache",
+  "date": "2024-10-23T14:39:58",
+  "languages": {
+    "Perl": 497284,
+    "Shell": 314467,
+    "JavaScript": 52197,
+    "SCSS": 15873,
+    "M4": 6580,
+    "Makefile": 2209
+  },
+  "size": 888610
+}

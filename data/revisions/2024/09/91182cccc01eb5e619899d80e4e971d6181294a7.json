@@ -1,0 +1,10 @@
+{
+  "commit": "91182cccc01eb5e619899d80e4e971d6181294a7",
+  "repo_url": "https://github.com/step-security/harden-runner",
+  "date": "2024-09-11T05:42:27",
+  "languages": {
+    "TypeScript": 31101,
+    "JavaScript": 672
+  },
+  "size": 31773
+}
