@@ -1,0 +1,11 @@
+{
+  "commit": "7a43255c913fa5a2462a3b2504b63fb1526cec9a",
+  "repo_url": "https://github.com/wikimedia/mediawiki-extensions-checkuser",
+  "date": "2017-09-17T20:19:56",
+  "languages": {
+    "PHP": 113598,
+    "JavaScript": 8859,
+    "PLpgSQL": 2249
+  },
+  "size": 124706
+}

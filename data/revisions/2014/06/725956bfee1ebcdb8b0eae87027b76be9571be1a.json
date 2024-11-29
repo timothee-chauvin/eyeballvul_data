@@ -1,0 +1,15 @@
+{
+  "commit": "725956bfee1ebcdb8b0eae87027b76be9571be1a",
+  "repo_url": "https://github.com/shopex/ecshop",
+  "date": "2014-06-09T11:33:15",
+  "languages": {
+    "PHP": 6217797,
+    "HTML": 1339100,
+    "JavaScript": 499904,
+    "CSS": 163668,
+    "ColdFusion": 14368,
+    "Perl": 4927,
+    "Hack": 141
+  },
+  "size": 8239905
+}

@@ -1,0 +1,24 @@
+{
+  "commit": "74be7bf334c5407e43d3eddccfd61581487acd65",
+  "repo_url": "https://github.com/dolibarr/dolibarr",
+  "date": "2015-11-03T10:40:06",
+  "languages": {
+    "PHP": 36766692,
+    "JavaScript": 6308740,
+    "CSS": 479908,
+    "HTML": 384084,
+    "Perl": 99408,
+    "Inno Setup": 64904,
+    "Shell": 52397,
+    "Promela": 25028,
+    "C": 22113,
+    "PLpgSQL": 15949,
+    "Makefile": 8208,
+    "C++": 7952,
+    "Hack": 2491,
+    "SCSS": 2187,
+    "Batchfile": 1183,
+    "Dockerfile": 349
+  },
+  "size": 44241593
+}
