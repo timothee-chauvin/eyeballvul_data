@@ -1,0 +1,16 @@
+{
+  "commit": "3f4527b83e66c29a0dfbf4aa8ee12d8f1b379e9e",
+  "repo_url": "https://github.com/vektor-inc/vk-all-in-one-expansion-unit",
+  "date": "2022-12-24T18:37:50",
+  "languages": {
+    "PHP": 750838,
+    "JavaScript": 51200,
+    "SCSS": 45128,
+    "Shell": 6621,
+    "HTML": 5788,
+    "CSS": 1119,
+    "Dockerfile": 390,
+    "Ruby": 210
+  },
+  "size": 861294
+}
