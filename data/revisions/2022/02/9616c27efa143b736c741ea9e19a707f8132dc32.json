@@ -1,0 +1,13 @@
+{
+  "commit": "9616c27efa143b736c741ea9e19a707f8132dc32",
+  "repo_url": "https://github.com/lilishop/lilishop",
+  "date": "2022-02-16T09:54:46",
+  "languages": {
+    "Java": 3323818,
+    "PLpgSQL": 47591,
+    "Lua": 1832,
+    "Shell": 530,
+    "Dockerfile": 377
+  },
+  "size": 3374148
+}
