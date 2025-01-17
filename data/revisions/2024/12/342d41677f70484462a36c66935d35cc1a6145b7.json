@@ -1,0 +1,15 @@
+{
+  "commit": "342d41677f70484462a36c66935d35cc1a6145b7",
+  "repo_url": "https://github.com/u5cms/u5cms",
+  "date": "2024-12-21T12:20:42",
+  "languages": {
+    "PHP": 1710420,
+    "JavaScript": 202646,
+    "ActionScript": 178881,
+    "HTML": 137232,
+    "CSS": 94192,
+    "Smarty": 24317,
+    "Hack": 9785
+  },
+  "size": 2357473
+}

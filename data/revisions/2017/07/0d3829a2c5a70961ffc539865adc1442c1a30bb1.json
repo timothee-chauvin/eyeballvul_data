@@ -1,0 +1,28 @@
+{
+  "commit": "0d3829a2c5a70961ffc539865adc1442c1a30bb1",
+  "repo_url": "https://github.com/openjdk/jdk",
+  "date": "2017-07-05T15:59:00",
+  "languages": {
+    "Java": 167806446,
+    "C++": 31957691,
+    "C": 20942372,
+    "Roff": 3004777,
+    "HTML": 1713360,
+    "Makefile": 1584762,
+    "Shell": 1492905,
+    "JavaScript": 226305,
+    "DTrace": 158560,
+    "XSLT": 150020,
+    "Python": 138170,
+    "Assembly": 120266,
+    "Batchfile": 65123,
+    "Monkey C": 64813,
+    "Awk": 27628,
+    "CSS": 16293,
+    "Objective-C": 13373,
+    "C#": 7619,
+    "sed": 2018,
+    "SourcePawn": 78
+  },
+  "size": 229492579
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "fdd9ad94c11d44259ef26bf4b2dc9a8bd139f607",
+  "repo_url": "https://github.com/provectus/kafka-ui",
+  "date": "2023-05-11T13:23:14",
+  "languages": {
+    "Java": 1262387,
+    "TypeScript": 1018193,
+    "ANTLR": 17012,
+    "Mustache": 2421,
+    "HTML": 1766,
+    "JavaScript": 1442,
+    "CSS": 714,
+    "Dockerfile": 662,
+    "SCSS": 27
+  },
+  "size": 2304624
+}

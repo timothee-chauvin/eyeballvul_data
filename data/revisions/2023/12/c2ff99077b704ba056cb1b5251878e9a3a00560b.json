@@ -1,0 +1,15 @@
+{
+  "commit": "c2ff99077b704ba056cb1b5251878e9a3a00560b",
+  "repo_url": "https://github.com/webasyst/webasyst-framework",
+  "date": "2023-12-27T12:47:55",
+  "languages": {
+    "PHP": 7687923,
+    "HTML": 4652419,
+    "JavaScript": 3777396,
+    "CSS": 1655166,
+    "Stylus": 216535,
+    "Vue": 69382,
+    "XSLT": 6469
+  },
+  "size": 18065290
+}

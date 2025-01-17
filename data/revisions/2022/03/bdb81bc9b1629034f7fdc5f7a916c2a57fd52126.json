@@ -1,0 +1,21 @@
+{
+  "commit": "bdb81bc9b1629034f7fdc5f7a916c2a57fd52126",
+  "repo_url": "https://github.com/microsoft/azuredatastudio",
+  "date": "2022-03-17T18:15:28",
+  "languages": {
+    "TypeScript": 48030201,
+    "JavaScript": 1418586,
+    "Jupyter Notebook": 964891,
+    "CSS": 921976,
+    "HTML": 131603,
+    "Inno Setup": 97153,
+    "Shell": 50353,
+    "TSQL": 25484,
+    "Batchfile": 21067,
+    "PowerShell": 12174,
+    "Dockerfile": 3363,
+    "Python": 2642,
+    "Less": 15
+  },
+  "size": 51679508
+}

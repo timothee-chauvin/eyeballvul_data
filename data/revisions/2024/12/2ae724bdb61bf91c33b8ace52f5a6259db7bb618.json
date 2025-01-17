@@ -1,0 +1,18 @@
+{
+  "commit": "2ae724bdb61bf91c33b8ace52f5a6259db7bb618",
+  "repo_url": "https://github.com/http4k/http4k",
+  "date": "2024-12-11T10:16:16",
+  "languages": {
+    "Kotlin": 4561106,
+    "Java": 41187,
+    "HTML": 14895,
+    "CSS": 5682,
+    "Shell": 4438,
+    "JavaScript": 2853,
+    "Python": 1826,
+    "Pug": 944,
+    "Handlebars": 926,
+    "Dockerfile": 269
+  },
+  "size": 4634126
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "c78499350c3bdf5c52f89a81a1862c05abdf62b5",
+  "repo_url": "https://github.com/nexryai/altair",
+  "date": "2024-07-30T11:51:26",
+  "languages": {
+    "TypeScript": 2043513,
+    "Vue": 1331219,
+    "JavaScript": 309197,
+    "Pug": 11485,
+    "SCSS": 8416,
+    "CSS": 1940,
+    "Smarty": 1782,
+    "Dockerfile": 1451,
+    "Procfile": 35
+  },
+  "size": 3709038
+}

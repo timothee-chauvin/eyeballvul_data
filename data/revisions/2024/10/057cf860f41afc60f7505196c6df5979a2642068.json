@@ -1,0 +1,14 @@
+{
+  "commit": "057cf860f41afc60f7505196c6df5979a2642068",
+  "repo_url": "https://github.com/karmada-io/karmada",
+  "date": "2024-10-31T10:33:39",
+  "languages": {
+    "Go": 7619524,
+    "Shell": 216672,
+    "Smarty": 25616,
+    "Mustache": 19603,
+    "Makefile": 4956,
+    "Dockerfile": 1629
+  },
+  "size": 7888000
+}

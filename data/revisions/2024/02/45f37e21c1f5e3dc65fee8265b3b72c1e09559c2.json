@@ -1,0 +1,13 @@
+{
+  "commit": "45f37e21c1f5e3dc65fee8265b3b72c1e09559c2",
+  "repo_url": "https://github.com/openwrt/asu",
+  "date": "2024-02-05T09:19:58",
+  "languages": {
+    "Python": 77069,
+    "CSS": 6771,
+    "HTML": 2622,
+    "Makefile": 415,
+    "Dockerfile": 323
+  },
+  "size": 87200
+}

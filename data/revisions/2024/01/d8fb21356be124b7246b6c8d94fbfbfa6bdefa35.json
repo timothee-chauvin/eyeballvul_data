@@ -1,0 +1,16 @@
+{
+  "commit": "d8fb21356be124b7246b6c8d94fbfbfa6bdefa35",
+  "repo_url": "https://github.com/vemonet/libre-chat",
+  "date": "2024-01-08T08:51:55",
+  "languages": {
+    "Python": 67726,
+    "HTML": 30651,
+    "TypeScript": 18567,
+    "Jupyter Notebook": 10328,
+    "Shell": 2954,
+    "JavaScript": 2065,
+    "CSS": 1659,
+    "Dockerfile": 1115
+  },
+  "size": 135065
+}

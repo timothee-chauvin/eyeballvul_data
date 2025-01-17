@@ -1,0 +1,16 @@
+{
+  "commit": "ef3e8169a649226116ec08b71e9f2a81dc669afb",
+  "repo_url": "https://github.com/gristlabs/grist-core",
+  "date": "2024-11-27T17:21:27",
+  "languages": {
+    "TypeScript": 9600665,
+    "Python": 1741433,
+    "JavaScript": 1064068,
+    "CSS": 146584,
+    "Shell": 17305,
+    "HTML": 9284,
+    "Dockerfile": 8209,
+    "Makefile": 1019
+  },
+  "size": 12588567
+}

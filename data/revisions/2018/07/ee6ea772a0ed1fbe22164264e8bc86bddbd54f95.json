@@ -1,0 +1,13 @@
+{
+  "commit": "ee6ea772a0ed1fbe22164264e8bc86bddbd54f95",
+  "repo_url": "https://github.com/bu-ist/bu-slideshow",
+  "date": "2018-07-18T16:11:33",
+  "languages": {
+    "PHP": 68263,
+    "JavaScript": 27361,
+    "CSS": 20901,
+    "Less": 11460,
+    "Shell": 3171
+  },
+  "size": 131156
+}

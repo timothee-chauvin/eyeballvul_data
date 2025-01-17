@@ -1,0 +1,18 @@
+{
+  "commit": "0b9785585e41003d29a3971758286b5a9d0df688",
+  "repo_url": "https://github.com/nodemcu/nodemcu-firmware",
+  "date": "2021-12-28T18:33:45",
+  "languages": {
+    "C": 11334383,
+    "Lua": 671101,
+    "Makefile": 84817,
+    "C++": 29289,
+    "Python": 17073,
+    "Shell": 14671,
+    "Tcl": 10995,
+    "Assembly": 8901,
+    "HTML": 8441,
+    "GDB": 853
+  },
+  "size": 12180524
+}

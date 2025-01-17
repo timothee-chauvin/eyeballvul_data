@@ -1,0 +1,13 @@
+{
+  "commit": "c4227b17e525ae5e949212e13bb8741e9650a099",
+  "repo_url": "https://github.com/ltdrdata/comfyui-manager",
+  "date": "2024-08-18T03:36:02",
+  "languages": {
+    "JavaScript": 233605,
+    "Python": 207083,
+    "Jupyter Notebook": 19846,
+    "Shell": 2339,
+    "Batchfile": 1951
+  },
+  "size": 464824
+}

@@ -1,0 +1,32 @@
+{
+  "commit": "689cc1998cab4e6318012d511c2a49801e06a632",
+  "repo_url": "https://github.com/abcd-devcom/abcd2",
+  "date": "2020-11-05T09:37:07",
+  "languages": {
+    "HTML": 655688714,
+    "PHP": 23084144,
+    "JavaScript": 19809432,
+    "Java": 7473461,
+    "CSS": 2058457,
+    "Roff": 1481201,
+    "XSLT": 641682,
+    "Hack": 507829,
+    "Batchfile": 184523,
+    "M4": 146194,
+    "ColdFusion": 145191,
+    "F*": 78192,
+    "Perl": 52431,
+    "Python": 43548,
+    "Classic ASP": 43003,
+    "Shell": 39490,
+    "Lasso": 22009,
+    "Less": 15783,
+    "ASP.NET": 7591,
+    "Groovy": 7113,
+    "Smarty": 5056,
+    "ReScript": 4578,
+    "mIRC Script": 2462,
+    "PLSQL": 961
+  },
+  "size": 711543045
+}

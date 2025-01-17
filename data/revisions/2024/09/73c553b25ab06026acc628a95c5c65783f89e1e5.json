@@ -1,0 +1,24 @@
+{
+  "commit": "73c553b25ab06026acc628a95c5c65783f89e1e5",
+  "repo_url": "https://github.com/oven-sh/bun",
+  "date": "2024-09-20T07:07:26",
+  "languages": {
+    "Zig": 17142870,
+    "C++": 6299766,
+    "TypeScript": 2675004,
+    "C": 844036,
+    "JavaScript": 258914,
+    "CMake": 107066,
+    "Makefile": 89798,
+    "Shell": 75968,
+    "Objective-C": 40800,
+    "Perl": 30364,
+    "PowerShell": 17076,
+    "CSS": 16720,
+    "Ruby": 14292,
+    "Dockerfile": 13367,
+    "HTML": 2534,
+    "AMPL": 112
+  },
+  "size": 27628687
+}

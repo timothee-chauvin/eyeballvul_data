@@ -1,0 +1,15 @@
+{
+  "commit": "b3bbff28f51aa527fcc1e63a76e2456f3e2328b1",
+  "repo_url": "https://github.com/arthmoor/qsf-portal",
+  "date": "2014-11-16T06:32:07",
+  "languages": {
+    "PHP": 1433941,
+    "CSS": 31397,
+    "JavaScript": 20681,
+    "Hack": 6805,
+    "HTML": 1465,
+    "Shell": 1378,
+    "Perl": 340
+  },
+  "size": 1496007
+}

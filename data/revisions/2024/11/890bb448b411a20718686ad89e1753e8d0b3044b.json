@@ -1,0 +1,14 @@
+{
+  "commit": "890bb448b411a20718686ad89e1753e8d0b3044b",
+  "repo_url": "https://github.com/aptrs/aptrs",
+  "date": "2024-11-24T10:09:12",
+  "languages": {
+    "TypeScript": 353246,
+    "Python": 214358,
+    "CSS": 157193,
+    "JavaScript": 41965,
+    "HTML": 15588,
+    "Shell": 1544
+  },
+  "size": 783894
+}

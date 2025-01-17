@@ -1,0 +1,14 @@
+{
+  "commit": "1969932b7f88dd5f434411381058d07c2261c202",
+  "repo_url": "https://github.com/kalcaddle/kodbox",
+  "date": "2021-12-27T10:52:58",
+  "languages": {
+    "PHP": 10451982,
+    "JavaScript": 3397804,
+    "CSS": 874928,
+    "Less": 116139,
+    "HTML": 100928,
+    "Batchfile": 645
+  },
+  "size": 14942426
+}

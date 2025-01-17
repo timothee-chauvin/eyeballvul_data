@@ -1,0 +1,18 @@
+{
+  "commit": "c5b6495e48e82c08e49039104ce4f33675c09aaf",
+  "repo_url": "https://github.com/mendableai/firecrawl",
+  "date": "2024-12-27T17:41:04",
+  "languages": {
+    "TypeScript": 919149,
+    "Python": 69305,
+    "Rust": 33378,
+    "Shell": 9425,
+    "JavaScript": 9035,
+    "Dockerfile": 3037,
+    "CSS": 1835,
+    "Go": 496,
+    "HTML": 354,
+    "Procfile": 132
+  },
+  "size": 1046146
+}

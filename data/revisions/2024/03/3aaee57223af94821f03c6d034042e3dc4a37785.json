@@ -1,0 +1,30 @@
+{
+  "commit": "3aaee57223af94821f03c6d034042e3dc4a37785",
+  "repo_url": "https://github.com/zoo-project/zoo-project",
+  "date": "2024-03-02T15:25:07",
+  "languages": {
+    "C": 1940037,
+    "JavaScript": 260697,
+    "Python": 136464,
+    "HTML": 133312,
+    "Dockerfile": 68393,
+    "C++": 50627,
+    "M4": 44077,
+    "Yacc": 32199,
+    "Makefile": 23995,
+    "Shell": 23606,
+    "PLpgSQL": 22731,
+    "XSLT": 14211,
+    "Mustache": 7419,
+    "C#": 6333,
+    "Lex": 5535,
+    "R": 4760,
+    "Java": 3749,
+    "Fortran": 1431,
+    "PHP": 1430,
+    "Perl": 1302,
+    "CSS": 1144,
+    "CMake": 399
+  },
+  "size": 2783851
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "bd85a57ec8b030b75ae4d2aa9c60dfa3640234d3",
+  "repo_url": "https://github.com/intlify/vue-i18n",
+  "date": "2024-10-06T07:41:55",
+  "languages": {
+    "TypeScript": 972937,
+    "JavaScript": 67943,
+    "Vue": 15798,
+    "HTML": 1250,
+    "Shell": 1225
+  },
+  "size": 1059153
+}

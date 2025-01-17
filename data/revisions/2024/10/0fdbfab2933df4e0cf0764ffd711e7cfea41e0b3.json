@@ -1,0 +1,12 @@
+{
+  "commit": "0fdbfab2933df4e0cf0764ffd711e7cfea41e0b3",
+  "repo_url": "https://github.com/zhmcclient/python-zhmcclient",
+  "date": "2024-10-08T21:17:24",
+  "languages": {
+    "Python": 2951013,
+    "Makefile": 31891,
+    "Shell": 12155,
+    "Jinja": 2909
+  },
+  "size": 2997968
+}

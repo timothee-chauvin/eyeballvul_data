@@ -1,0 +1,17 @@
+{
+  "commit": "e87f059de3e36e556bb0714a205cd508ec9160ef",
+  "repo_url": "https://github.com/mozilla-mobile/focus-ios",
+  "date": "2020-11-09T19:55:03",
+  "languages": {
+    "Swift": 686999,
+    "HTML": 62784,
+    "JavaScript": 13140,
+    "Shell": 12159,
+    "Python": 9014,
+    "Objective-C": 6152,
+    "Go": 4046,
+    "Ruby": 2591,
+    "CSS": 212
+  },
+  "size": 797097
+}

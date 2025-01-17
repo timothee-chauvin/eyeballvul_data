@@ -1,0 +1,14 @@
+{
+  "commit": "50cb6f5ed6e5d9fecb9733ef3f7852b8500005e9",
+  "repo_url": "https://github.com/melmass/comfy_mtb",
+  "date": "2024-12-08T18:34:26",
+  "languages": {
+    "Python": 357467,
+    "JavaScript": 172420,
+    "Nushell": 4306,
+    "CSS": 3572,
+    "Lua": 345,
+    "Nu": 80
+  },
+  "size": 538190
+}

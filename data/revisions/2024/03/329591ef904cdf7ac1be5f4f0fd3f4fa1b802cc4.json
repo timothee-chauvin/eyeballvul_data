@@ -1,0 +1,16 @@
+{
+  "commit": "329591ef904cdf7ac1be5f4f0fd3f4fa1b802cc4",
+  "repo_url": "https://github.com/macwarrior/clipbucket-v5",
+  "date": "2024-03-01T11:11:03",
+  "languages": {
+    "JavaScript": 7870614,
+    "PHP": 1984138,
+    "HTML": 984187,
+    "CSS": 298936,
+    "Less": 24139,
+    "Shell": 22580,
+    "Hack": 307,
+    "Roff": 2
+  },
+  "size": 11184903
+}

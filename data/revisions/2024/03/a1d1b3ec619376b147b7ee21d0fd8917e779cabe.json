@@ -1,0 +1,16 @@
+{
+  "commit": "a1d1b3ec619376b147b7ee21d0fd8917e779cabe",
+  "repo_url": "https://github.com/sickchill/sickchill",
+  "date": "2024-03-01T06:25:11",
+  "languages": {
+    "Python": 2596849,
+    "Mako": 1016042,
+    "JavaScript": 330905,
+    "CSS": 121305,
+    "Shell": 20444,
+    "Dockerfile": 4055,
+    "HCL": 715,
+    "HTML": 714
+  },
+  "size": 4091029
+}

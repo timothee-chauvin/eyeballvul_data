@@ -1,0 +1,18 @@
+{
+  "commit": "dec0d8ae26aa24cd77942631e07e407915df9ca0",
+  "repo_url": "https://github.com/pacovk/tapir",
+  "date": "2024-11-09T19:29:22",
+  "languages": {
+    "Java": 220661,
+    "TypeScript": 73519,
+    "Roff": 2756,
+    "Dockerfile": 1078,
+    "Makefile": 724,
+    "HTML": 635,
+    "HCL": 339,
+    "CSS": 303,
+    "Ruby": 74,
+    "Shell": 65
+  },
+  "size": 300154
+}

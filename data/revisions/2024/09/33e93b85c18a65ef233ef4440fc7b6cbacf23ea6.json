@@ -1,0 +1,13 @@
+{
+  "commit": "33e93b85c18a65ef233ef4440fc7b6cbacf23ea6",
+  "repo_url": "https://github.com/truewinter/simofa",
+  "date": "2024-09-10T19:06:19",
+  "languages": {
+    "Java": 244704,
+    "TypeScript": 91078,
+    "JavaScript": 3592,
+    "Dockerfile": 1554,
+    "Shell": 202
+  },
+  "size": 341130
+}

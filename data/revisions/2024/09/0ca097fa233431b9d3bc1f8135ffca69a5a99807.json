@@ -1,0 +1,19 @@
+{
+  "commit": "0ca097fa233431b9d3bc1f8135ffca69a5a99807",
+  "repo_url": "https://github.com/eugeny/tabby",
+  "date": "2024-09-26T08:04:31",
+  "languages": {
+    "TypeScript": 867270,
+    "Pug": 139853,
+    "SCSS": 61004,
+    "JavaScript": 31908,
+    "C++": 23214,
+    "Batchfile": 1499,
+    "C": 1272,
+    "CSS": 487,
+    "Lua": 247,
+    "Shell": 156,
+    "NSIS": 93
+  },
+  "size": 1127003
+}
