@@ -1,0 +1,11 @@
+{
+  "commit": "4437793934d46e3d30f8b51ea6df1af3ef03dd75",
+  "repo_url": "https://github.com/prestashop/ps_contactinfo",
+  "date": "2023-03-09T21:06:14",
+  "languages": {
+    "PHP": 16587,
+    "Smarty": 6558,
+    "Shell": 1062
+  },
+  "size": 24207
+}

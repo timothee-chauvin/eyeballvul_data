@@ -1,0 +1,11 @@
+{
+  "commit": "4580874bf0ec9c192ee65bf1b959b63c034bb8af",
+  "repo_url": "https://github.com/jenkinsci/mq-notifier-plugin",
+  "date": "2023-11-22T11:22:01",
+  "languages": {
+    "Java": 105101,
+    "Groovy": 3793,
+    "HTML": 1593
+  },
+  "size": 110487
+}

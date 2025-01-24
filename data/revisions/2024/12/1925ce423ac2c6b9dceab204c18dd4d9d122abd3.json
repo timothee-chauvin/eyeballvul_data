@@ -1,0 +1,15 @@
+{
+  "commit": "1925ce423ac2c6b9dceab204c18dd4d9d122abd3",
+  "repo_url": "https://github.com/exelban/stats",
+  "date": "2024-12-08T17:04:28",
+  "languages": {
+    "Swift": 1197885,
+    "C++": 60769,
+    "Python": 24166,
+    "C": 15262,
+    "Objective-C": 6465,
+    "Makefile": 4056,
+    "Shell": 1271
+  },
+  "size": 1309874
+}

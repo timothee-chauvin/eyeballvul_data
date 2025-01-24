@@ -1,0 +1,22 @@
+{
+  "commit": "6000b85b1a4ec574d93fbc7545f5bf48f3d5aaa7",
+  "repo_url": "https://github.com/lizardbyte/sunshine",
+  "date": "2022-08-09T23:42:10",
+  "languages": {
+    "C++": 757115,
+    "HTML": 56507,
+    "CMake": 35528,
+    "Shell": 15767,
+    "Objective-C": 13209,
+    "Cuda": 10111,
+    "Objective-C++": 8894,
+    "Python": 5006,
+    "Tcl": 3585,
+    "HLSL": 2763,
+    "GLSL": 2402,
+    "Batchfile": 686,
+    "JavaScript": 187,
+    "Rust": 65
+  },
+  "size": 911825
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "c237114bfa189c4df0b113ba1aa172526f2525e2",
+  "repo_url": "https://github.com/jupyter/nbgrader",
+  "date": "2024-11-18T12:32:16",
+  "languages": {
+    "Python": 1253418,
+    "Jupyter Notebook": 1051506,
+    "HTML": 553462,
+    "JavaScript": 226234,
+    "TypeScript": 203539,
+    "Smarty": 21749,
+    "CSS": 18654,
+    "Jinja": 16541,
+    "Batchfile": 7272,
+    "Makefile": 7065,
+    "TeX": 4226,
+    "Shell": 605,
+    "Mako": 494
+  },
+  "size": 3364765
+}
