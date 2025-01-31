@@ -1,0 +1,18 @@
+{
+  "commit": "94479af03e70afab861fac714dfc3ef5c5dcb4f3",
+  "repo_url": "https://github.com/snowflakedb/pdo_snowflake",
+  "date": "2024-10-30T12:41:28",
+  "languages": {
+    "C": 146754,
+    "PHP": 82372,
+    "C++": 48929,
+    "Shell": 19913,
+    "Batchfile": 9722,
+    "M4": 6297,
+    "CMake": 2012,
+    "Python": 1911,
+    "JavaScript": 1392,
+    "Dockerfile": 1216
+  },
+  "size": 320518
+}

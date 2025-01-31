@@ -1,0 +1,13 @@
+{
+  "commit": "72547ccb14ee06de0316958eed48898b995dfed9",
+  "repo_url": "https://github.com/kubewarden/kubewarden-controller",
+  "date": "2025-01-21T14:09:32",
+  "languages": {
+    "Go": 468364,
+    "Makefile": 11257,
+    "Shell": 5062,
+    "Python": 4524,
+    "Dockerfile": 1018
+  },
+  "size": 490225
+}

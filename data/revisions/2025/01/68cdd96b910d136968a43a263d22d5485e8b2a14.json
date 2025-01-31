@@ -1,0 +1,12 @@
+{
+  "commit": "68cdd96b910d136968a43a263d22d5485e8b2a14",
+  "repo_url": "https://github.com/updatecli/updatecli",
+  "date": "2025-01-11T19:55:49",
+  "languages": {
+    "Go": 2375224,
+    "Dockerfile": 4618,
+    "Makefile": 2676,
+    "Shell": 1701
+  },
+  "size": 2384219
+}

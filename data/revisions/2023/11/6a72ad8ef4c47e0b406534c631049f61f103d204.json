@@ -1,0 +1,14 @@
+{
+  "commit": "6a72ad8ef4c47e0b406534c631049f61f103d204",
+  "repo_url": "https://github.com/yooooomi/your_spotify",
+  "date": "2023-11-21T18:30:07",
+  "languages": {
+    "TypeScript": 488198,
+    "CSS": 25018,
+    "JavaScript": 5655,
+    "Shell": 1921,
+    "HTML": 1491,
+    "Dockerfile": 1121
+  },
+  "size": 523404
+}

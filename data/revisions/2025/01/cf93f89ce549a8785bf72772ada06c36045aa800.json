@@ -1,0 +1,11 @@
+{
+  "commit": "cf93f89ce549a8785bf72772ada06c36045aa800",
+  "repo_url": "https://github.com/hl7/fhir-ig-publisher",
+  "date": "2025-01-17T05:48:48",
+  "languages": {
+    "Java": 2550896,
+    "XSLT": 7810,
+    "Python": 4922
+  },
+  "size": 2563628
+}
