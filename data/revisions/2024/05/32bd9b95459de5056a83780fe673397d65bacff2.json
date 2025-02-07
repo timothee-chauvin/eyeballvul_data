@@ -1,0 +1,13 @@
+{
+  "commit": "32bd9b95459de5056a83780fe673397d65bacff2",
+  "repo_url": "https://github.com/pmd/pmd-designer",
+  "date": "2024-05-31T09:06:58",
+  "languages": {
+    "Java": 712250,
+    "Less": 24372,
+    "Lex": 14963,
+    "Kotlin": 6381,
+    "Shell": 3255
+  },
+  "size": 761221
+}

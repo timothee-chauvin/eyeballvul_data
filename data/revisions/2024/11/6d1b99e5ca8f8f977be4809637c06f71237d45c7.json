@@ -1,0 +1,12 @@
+{
+  "commit": "6d1b99e5ca8f8f977be4809637c06f71237d45c7",
+  "repo_url": "https://github.com/0xpolygonzero/plonky2",
+  "date": "2024-11-25T17:58:04",
+  "languages": {
+    "Rust": 1638937,
+    "Python": 9329,
+    "HTML": 1563,
+    "Shell": 1002
+  },
+  "size": 1650831
+}
