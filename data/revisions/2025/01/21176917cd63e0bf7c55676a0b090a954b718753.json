@@ -1,0 +1,15 @@
+{
+  "commit": "21176917cd63e0bf7c55676a0b090a954b718753",
+  "repo_url": "https://github.com/nilsonlazarin/wegia",
+  "date": "2025-01-07T20:08:16",
+  "languages": {
+    "PHP": 3137297,
+    "HTML": 1596217,
+    "CSS": 1249569,
+    "JavaScript": 860487,
+    "Less": 625377,
+    "SCSS": 625102,
+    "Hack": 55339
+  },
+  "size": 8149388
+}

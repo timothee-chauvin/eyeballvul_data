@@ -1,0 +1,13 @@
+{
+  "commit": "ba75d09cbf729e62ffd8054d7e40727045bd7ac1",
+  "repo_url": "https://github.com/ctrlpanel-gg/panel",
+  "date": "2023-03-18T20:45:57",
+  "languages": {
+    "PHP": 895732,
+    "Blade": 631497,
+    "JavaScript": 6079,
+    "Dockerfile": 846,
+    "Shell": 313
+  },
+  "size": 1534467
+}

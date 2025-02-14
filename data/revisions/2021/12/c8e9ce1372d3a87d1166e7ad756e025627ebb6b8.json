@@ -1,0 +1,13 @@
+{
+  "commit": "c8e9ce1372d3a87d1166e7ad756e025627ebb6b8",
+  "repo_url": "https://github.com/apache/maven-archetype",
+  "date": "2021-12-27T19:49:21",
+  "languages": {
+    "Java": 911187,
+    "Groovy": 38187,
+    "HTML": 3393,
+    "Shell": 1824,
+    "C": 1027
+  },
+  "size": 955618
+}

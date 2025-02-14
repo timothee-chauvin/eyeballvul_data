@@ -1,0 +1,17 @@
+{
+  "commit": "40638199e3f856a19d5f281514e397daea24cb27",
+  "repo_url": "https://github.com/freedomofpress/securedrop-client",
+  "date": "2024-11-20T14:53:30",
+  "languages": {
+    "Python": 1497534,
+    "Rich Text Format": 72635,
+    "CSS": 21857,
+    "Makefile": 13397,
+    "Shell": 12030,
+    "Rust": 9728,
+    "Dockerfile": 1539,
+    "Jinja": 541,
+    "Mako": 494
+  },
+  "size": 1629755
+}
