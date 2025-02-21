@@ -1,0 +1,11 @@
+{
+  "commit": "022a407dab1e813d23b283d145dfff9a870541ee",
+  "repo_url": "https://github.com/feathersjs/feathers",
+  "date": "2023-07-17T21:12:56",
+  "languages": {
+    "TypeScript": 293206,
+    "JavaScript": 254387,
+    "HTML": 33782
+  },
+  "size": 581375
+}

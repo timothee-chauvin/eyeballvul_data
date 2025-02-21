@@ -1,0 +1,17 @@
+{
+  "commit": "2180ebf3c5b14bed30f37aad65bda65471b6640f",
+  "repo_url": "https://github.com/apache/lucenenet",
+  "date": "2021-03-25T12:58:55",
+  "languages": {
+    "C#": 40357417,
+    "PowerShell": 92673,
+    "HTML": 79746,
+    "JavaScript": 57876,
+    "XSLT": 21773,
+    "CSS": 12344,
+    "Liquid": 5637,
+    "Batchfile": 5212,
+    "Gnuplot": 2444
+  },
+  "size": 40635122
+}

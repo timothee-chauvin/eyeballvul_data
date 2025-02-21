@@ -1,0 +1,15 @@
+{
+  "commit": "110927ed9799ad85d398759553dec1afcfd40383",
+  "repo_url": "https://github.com/kubevela/kubevela",
+  "date": "2022-08-10T02:00:39",
+  "languages": {
+    "Go": 6238864,
+    "CUE": 180181,
+    "Makefile": 16140,
+    "Shell": 12670,
+    "Mustache": 6523,
+    "Dockerfile": 3198,
+    "HCL": 1188
+  },
+  "size": 6458764
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "e902ac17fdf0a84b7bdcb27c05ddc235884d63ff",
+  "repo_url": "https://github.com/kubernetes-sigs/image-builder",
+  "date": "2024-10-12T11:24:20",
+  "languages": {
+    "Shell": 120839,
+    "Makefile": 74611,
+    "Python": 32391,
+    "PowerShell": 20322,
+    "Dockerfile": 1831,
+    "HCL": 1550,
+    "Jinja": 1483,
+    "Batchfile": 304
+  },
+  "size": 253331
+}

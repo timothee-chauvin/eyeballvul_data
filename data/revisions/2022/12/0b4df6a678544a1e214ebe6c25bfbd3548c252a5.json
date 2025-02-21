@@ -1,0 +1,12 @@
+{
+  "commit": "0b4df6a678544a1e214ebe6c25bfbd3548c252a5",
+  "repo_url": "https://github.com/temporalio/temporal",
+  "date": "2022-12-16T04:23:09",
+  "languages": {
+    "Go": 11457360,
+    "Makefile": 21471,
+    "Shell": 18335,
+    "Dockerfile": 56
+  },
+  "size": 11497222
+}

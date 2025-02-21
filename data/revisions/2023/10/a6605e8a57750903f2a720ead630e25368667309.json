@@ -1,0 +1,17 @@
+{
+  "commit": "a6605e8a57750903f2a720ead630e25368667309",
+  "repo_url": "https://github.com/chanzhaoyu/chatgpt-web",
+  "date": "2023-10-11T08:17:19",
+  "languages": {
+    "Vue": 128408,
+    "TypeScript": 69402,
+    "Less": 31318,
+    "HTML": 1627,
+    "Dockerfile": 794,
+    "JavaScript": 610,
+    "Shell": 335,
+    "Batchfile": 163,
+    "CSS": 59
+  },
+  "size": 232716
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "f2d73b1151ccf1ce4186fadd0121fbc34b9b7f4c",
+  "repo_url": "https://github.com/redpanda-data/redpanda",
+  "date": "2022-08-10T18:31:53",
+  "languages": {
+    "C++": 8493244,
+    "Go": 1789422,
+    "Python": 1661211,
+    "TypeScript": 299899,
+    "Java": 164567,
+    "CMake": 104637,
+    "Shell": 16975,
+    "Dockerfile": 8478,
+    "Makefile": 7862,
+    "C": 5309,
+    "JavaScript": 5003,
+    "Smarty": 2044,
+    "Jinja": 1809,
+    "Emacs Lisp": 829
+  },
+  "size": 12561289
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "f90b4be949f4d4a0c552c3f5d75aa8cedcc518a0",
+  "repo_url": "https://github.com/rabbitmq/rabbitmq-server",
+  "date": "2021-04-29T12:23:59",
+  "languages": {
+    "Shell": 123236,
+    "Makefile": 49627,
+    "Starlark": 24292,
+    "Dockerfile": 12140
+  },
+  "size": 209295
+}

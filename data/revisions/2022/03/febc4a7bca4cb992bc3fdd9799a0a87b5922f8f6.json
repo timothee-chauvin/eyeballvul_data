@@ -1,0 +1,15 @@
+{
+  "commit": "febc4a7bca4cb992bc3fdd9799a0a87b5922f8f6",
+  "repo_url": "https://github.com/dapr/dashboard",
+  "date": "2022-03-28T20:05:51",
+  "languages": {
+    "TypeScript": 56777,
+    "Go": 54751,
+    "HTML": 23769,
+    "Makefile": 12020,
+    "SCSS": 9875,
+    "JavaScript": 5025,
+    "Dockerfile": 160
+  },
+  "size": 162377
+}

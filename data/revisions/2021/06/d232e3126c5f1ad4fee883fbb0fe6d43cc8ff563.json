@@ -1,0 +1,12 @@
+{
+  "commit": "d232e3126c5f1ad4fee883fbb0fe6d43cc8ff563",
+  "repo_url": "https://github.com/activitywatch/activitywatch",
+  "date": "2021-06-15T13:24:24",
+  "languages": {
+    "Python": 19822,
+    "Inno Setup": 2527,
+    "Shell": 1454,
+    "Batchfile": 203
+  },
+  "size": 24006
+}

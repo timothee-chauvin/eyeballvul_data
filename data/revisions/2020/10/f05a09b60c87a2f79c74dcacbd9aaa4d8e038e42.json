@@ -1,0 +1,13 @@
+{
+  "commit": "f05a09b60c87a2f79c74dcacbd9aaa4d8e038e42",
+  "repo_url": "https://github.com/firebaseextended/firepad",
+  "date": "2020-10-20T11:05:20",
+  "languages": {
+    "JavaScript": 283446,
+    "CSS": 21241,
+    "CoffeeScript": 6562,
+    "Shell": 4536,
+    "HTML": 1365
+  },
+  "size": 317150
+}

@@ -1,0 +1,25 @@
+{
+  "commit": "7d8eab2641023c78a72ccd6efc99fc35fd030a46",
+  "repo_url": "https://github.com/dashpay/dash",
+  "date": "2019-08-14T02:51:13",
+  "languages": {
+    "C++": 7197119,
+    "C": 1477357,
+    "Python": 1143250,
+    "CSS": 257834,
+    "M4": 191632,
+    "Makefile": 118300,
+    "HTML": 50622,
+    "Shell": 49765,
+    "Java": 30290,
+    "Sage": 30192,
+    "Assembly": 28456,
+    "Objective-C++": 9115,
+    "CMake": 2406,
+    "Ruby": 2151,
+    "QMake": 825,
+    "GDB": 450,
+    "Dockerfile": 237
+  },
+  "size": 10590001
+}

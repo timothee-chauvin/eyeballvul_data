@@ -1,0 +1,15 @@
+{
+  "commit": "2c7b11b998e0ad577753ffd6d046267ba3c1c5f6",
+  "repo_url": "https://github.com/jsbroks/coco-annotator",
+  "date": "2020-05-22T23:15:11",
+  "languages": {
+    "Vue": 289797,
+    "Python": 140670,
+    "JavaScript": 65354,
+    "CSS": 4100,
+    "Dockerfile": 2457,
+    "HTML": 839,
+    "Shell": 465
+  },
+  "size": 503682
+}

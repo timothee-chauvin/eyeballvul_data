@@ -1,0 +1,16 @@
+{
+  "commit": "628f9de730628669604c1767c870acf4d40f0a1c",
+  "repo_url": "https://github.com/kubernetes/minikube",
+  "date": "2018-09-27T22:28:15",
+  "languages": {
+    "Go": 572453,
+    "Shell": 53584,
+    "Makefile": 32029,
+    "Python": 8600,
+    "NSIS": 7851,
+    "PowerShell": 3514,
+    "Dockerfile": 1916,
+    "Batchfile": 801
+  },
+  "size": 680748
+}

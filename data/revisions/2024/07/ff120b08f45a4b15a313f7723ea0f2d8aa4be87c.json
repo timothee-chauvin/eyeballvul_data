@@ -1,0 +1,14 @@
+{
+  "commit": "ff120b08f45a4b15a313f7723ea0f2d8aa4be87c",
+  "repo_url": "https://github.com/mindsdb/mindsdb",
+  "date": "2024-07-23T12:17:38",
+  "languages": {
+    "Python": 4957384,
+    "Dockerfile": 4845,
+    "HCL": 2942,
+    "Makefile": 772,
+    "HTML": 595,
+    "Mako": 540
+  },
+  "size": 4967078
+}

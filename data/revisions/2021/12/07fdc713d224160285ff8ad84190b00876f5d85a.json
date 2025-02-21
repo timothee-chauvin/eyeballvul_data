@@ -1,0 +1,22 @@
+{
+  "commit": "07fdc713d224160285ff8ad84190b00876f5d85a",
+  "repo_url": "https://github.com/metabase/metabase",
+  "date": "2021-12-10T21:29:29",
+  "languages": {
+    "Clojure": 7925437,
+    "JavaScript": 6051642,
+    "HTML": 514612,
+    "CSS": 166820,
+    "Objective-C": 37287,
+    "Shell": 30523,
+    "Mustache": 11911,
+    "Dockerfile": 4698,
+    "Emacs Lisp": 3466,
+    "Java": 2685,
+    "AppleScript": 793,
+    "Rich Text Format": 436,
+    "Ruby": 220,
+    "Procfile": 29
+  },
+  "size": 14750559
+}

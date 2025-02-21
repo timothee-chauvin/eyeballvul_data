@@ -1,0 +1,14 @@
+{
+  "commit": "c1a435e209154128645d820f68f16bfb08514837",
+  "repo_url": "https://github.com/bill-ahmed/qbit-matui",
+  "date": "2022-09-08T21:23:37",
+  "languages": {
+    "TypeScript": 208663,
+    "HTML": 69068,
+    "SCSS": 28081,
+    "JavaScript": 20861,
+    "Shell": 2201,
+    "CSS": 1537
+  },
+  "size": 330411
+}

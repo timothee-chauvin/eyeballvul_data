@@ -1,0 +1,15 @@
+{
+  "commit": "2d4da099c7d211f9a0faccc139876f9f9bb41a53",
+  "repo_url": "https://github.com/sissbruecker/linkding",
+  "date": "2023-11-24T08:33:36",
+  "languages": {
+    "Python": 597142,
+    "HTML": 62776,
+    "JavaScript": 19544,
+    "SCSS": 17308,
+    "Svelte": 10654,
+    "Dockerfile": 6637,
+    "Shell": 5169
+  },
+  "size": 719230
+}

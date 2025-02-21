@@ -1,0 +1,12 @@
+{
+  "commit": "12230bd9e735d942f89cade30a4ca21cc36e578f",
+  "repo_url": "https://github.com/ajnart/homarr",
+  "date": "2023-09-08T19:45:11",
+  "languages": {
+    "TypeScript": 655745,
+    "SCSS": 3109,
+    "JavaScript": 1067,
+    "Dockerfile": 447
+  },
+  "size": 660368
+}

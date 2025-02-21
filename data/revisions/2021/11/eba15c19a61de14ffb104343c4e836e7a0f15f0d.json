@@ -1,0 +1,20 @@
+{
+  "commit": "eba15c19a61de14ffb104343c4e836e7a0f15f0d",
+  "repo_url": "https://github.com/elastic/apm-agent-java",
+  "date": "2021-11-15T15:49:54",
+  "languages": {
+    "Java": 5894321,
+    "Shell": 30409,
+    "Gherkin": 9447,
+    "Scala": 8204,
+    "FreeMarker": 6960,
+    "HTML": 1422,
+    "Groovy": 792,
+    "Python": 747,
+    "Dockerfile": 304,
+    "Smarty": 266,
+    "Pug": 46,
+    "JavaScript": 42
+  },
+  "size": 5952960
+}

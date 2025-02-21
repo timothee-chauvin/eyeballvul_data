@@ -1,0 +1,16 @@
+{
+  "commit": "13b700fd3ed763cedcba7dbd17b859077a01aa9c",
+  "repo_url": "https://github.com/eclipse-threadx/threadx",
+  "date": "2023-10-23T07:31:03",
+  "languages": {
+    "C": 36908039,
+    "Assembly": 28759888,
+    "Batchfile": 1771330,
+    "C++": 300051,
+    "Makefile": 73049,
+    "CMake": 67924,
+    "PowerShell": 24350,
+    "Shell": 14013
+  },
+  "size": 67918644
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "bf5d9d6439c25ab7ee9526663b6ec4bbf8916123",
+  "repo_url": "https://github.com/ckolivas/cgminer",
+  "date": "2017-01-23T11:13:19",
+  "languages": {
+    "C": 2628388,
+    "M4": 117931,
+    "PHP": 77157,
+    "CMake": 68116,
+    "C++": 50569,
+    "Makefile": 21220,
+    "Shell": 14452,
+    "Python": 13162,
+    "Java": 9382,
+    "Ruby": 846
+  },
+  "size": 3001223
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "c350f6216b442c037869e0481d120a401a2424fa",
+  "repo_url": "https://github.com/binux/pyspider",
+  "date": "2018-04-18T03:47:33",
+  "languages": {
+    "Python": 565939,
+    "JavaScript": 50198,
+    "Jinja": 15312,
+    "Less": 11931,
+    "HTML": 9708,
+    "Lua": 6394,
+    "Dockerfile": 873
+  },
+  "size": 660355
+}

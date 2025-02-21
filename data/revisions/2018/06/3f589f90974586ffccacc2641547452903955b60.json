@@ -1,0 +1,15 @@
+{
+  "commit": "3f589f90974586ffccacc2641547452903955b60",
+  "repo_url": "https://github.com/matrix-org/synapse",
+  "date": "2018-06-06T10:39:42",
+  "languages": {
+    "Python": 3590544,
+    "JavaScript": 176441,
+    "Perl": 34052,
+    "HTML": 20680,
+    "Shell": 8548,
+    "CSS": 4376,
+    "Dockerfile": 629
+  },
+  "size": 3835270
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "55b4cae80fc1479ac802b91b4b8955da444016ae",
+  "repo_url": "https://github.com/microsoft/deepspeed",
+  "date": "2024-08-22T22:46:10",
+  "languages": {
+    "Python": 4825114,
+    "C++": 1416505,
+    "Cuda": 687113,
+    "Shell": 25970,
+    "C": 25858,
+    "Dockerfile": 7839,
+    "Batchfile": 330
+  },
+  "size": 6988729
+}

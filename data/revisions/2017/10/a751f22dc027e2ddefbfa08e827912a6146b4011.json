@@ -1,0 +1,12 @@
+{
+  "commit": "a751f22dc027e2ddefbfa08e827912a6146b4011",
+  "repo_url": "https://github.com/jenkinsci/cucumber-living-documentation-plugin",
+  "date": "2017-10-19T10:42:37",
+  "languages": {
+    "Java": 27065,
+    "HTML": 1935,
+    "Shell": 205,
+    "Dockerfile": 183
+  },
+  "size": 29388
+}

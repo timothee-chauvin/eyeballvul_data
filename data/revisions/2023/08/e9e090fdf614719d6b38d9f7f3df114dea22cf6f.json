@@ -1,0 +1,14 @@
+{
+  "commit": "e9e090fdf614719d6b38d9f7f3df114dea22cf6f",
+  "repo_url": "https://github.com/kuaifan/dootask",
+  "date": "2023-08-13T00:26:47",
+  "languages": {
+    "PHP": 2411584,
+    "Vue": 1390539,
+    "HTML": 703675,
+    "Less": 64428,
+    "Blade": 24917,
+    "Shell": 16648
+  },
+  "size": 4611791
+}

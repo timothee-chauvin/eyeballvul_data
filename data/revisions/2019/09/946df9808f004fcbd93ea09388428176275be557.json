@@ -1,0 +1,16 @@
+{
+  "commit": "946df9808f004fcbd93ea09388428176275be557",
+  "repo_url": "https://github.com/wukongopensource/wukongcrm-9.0-java",
+  "date": "2019-09-30T07:56:11",
+  "languages": {
+    "Java": 3207231,
+    "JavaScript": 221689,
+    "SCSS": 89658,
+    "CSS": 27532,
+    "HTML": 14820,
+    "Batchfile": 1188,
+    "Shell": 1130,
+    "Dockerfile": 159
+  },
+  "size": 3563407
+}

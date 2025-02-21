@@ -1,0 +1,12 @@
+{
+  "commit": "1bb6fc647ba456e0111110b66fadb09db96552d7",
+  "repo_url": "https://github.com/spectolabs/hoverfly",
+  "date": "2024-07-20T22:39:55",
+  "languages": {
+    "Go": 2112196,
+    "Makefile": 2479,
+    "Shell": 2071,
+    "Dockerfile": 435
+  },
+  "size": 2117181
+}

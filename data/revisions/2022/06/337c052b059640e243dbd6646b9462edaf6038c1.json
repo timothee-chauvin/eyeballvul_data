@@ -1,0 +1,14 @@
+{
+  "commit": "337c052b059640e243dbd6646b9462edaf6038c1",
+  "repo_url": "https://github.com/adobe/xmp-toolkit-sdk",
+  "date": "2022-06-07T12:55:52",
+  "languages": {
+    "C++": 4970269,
+    "C": 139329,
+    "CMake": 123504,
+    "Shell": 12476,
+    "Batchfile": 9982,
+    "Makefile": 5329
+  },
+  "size": 5260889
+}

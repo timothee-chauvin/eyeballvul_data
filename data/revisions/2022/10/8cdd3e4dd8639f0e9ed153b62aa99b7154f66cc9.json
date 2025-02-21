@@ -1,0 +1,14 @@
+{
+  "commit": "8cdd3e4dd8639f0e9ed153b62aa99b7154f66cc9",
+  "repo_url": "https://github.com/sidequestvr/sidequest",
+  "date": "2022-10-19T15:20:52",
+  "languages": {
+    "TypeScript": 299889,
+    "Java": 165217,
+    "HTML": 82292,
+    "SCSS": 34540,
+    "JavaScript": 2489,
+    "NSIS": 341
+  },
+  "size": 584768
+}

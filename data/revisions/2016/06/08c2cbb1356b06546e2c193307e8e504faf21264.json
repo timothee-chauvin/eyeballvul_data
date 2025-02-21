@@ -1,0 +1,13 @@
+{
+  "commit": "08c2cbb1356b06546e2c193307e8e504faf21264",
+  "repo_url": "https://github.com/popupmaker/popup-maker",
+  "date": "2016-06-15T04:17:15",
+  "languages": {
+    "PHP": 1319725,
+    "JavaScript": 690352,
+    "SCSS": 68922,
+    "CSS": 11915,
+    "Hack": 3913
+  },
+  "size": 2094827
+}

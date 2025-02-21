@@ -1,0 +1,12 @@
+{
+  "commit": "465bdd9c8b8e4449a63b20dea82cbd4728b2fb2c",
+  "repo_url": "https://github.com/openshift/telemeter",
+  "date": "2018-08-23T21:09:54",
+  "languages": {
+    "Go": 123823,
+    "Shell": 3771,
+    "Dockerfile": 519,
+    "Makefile": 360
+  },
+  "size": 128473
+}

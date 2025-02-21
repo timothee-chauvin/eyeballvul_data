@@ -1,0 +1,12 @@
+{
+  "commit": "2d4890db77c682058a7513765b2cdd4add4131e6",
+  "repo_url": "https://github.com/automattic/newspack-ads",
+  "date": "2024-04-08T17:36:48",
+  "languages": {
+    "PHP": 316410,
+    "JavaScript": 41026,
+    "Shell": 5513,
+    "SCSS": 3006
+  },
+  "size": 365955
+}

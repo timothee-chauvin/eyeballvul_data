@@ -1,0 +1,13 @@
+{
+  "commit": "edea19acdc2b37cb456f0db2161bbed57f59b550",
+  "repo_url": "https://gitlab.com/lucaapp/web",
+  "date": "2021-05-27T20:13:32",
+  "languages": {
+    "JavaScript": 1157499,
+    "CSS": 21959,
+    "HTML": 10742,
+    "Dockerfile": 5904,
+    "Shell": 1054
+  },
+  "size": 1197158
+}

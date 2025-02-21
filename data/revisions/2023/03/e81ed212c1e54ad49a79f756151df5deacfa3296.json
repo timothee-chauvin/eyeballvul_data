@@ -1,0 +1,12 @@
+{
+  "commit": "e81ed212c1e54ad49a79f756151df5deacfa3296",
+  "repo_url": "https://github.com/vanderschaarlab/autoprognosis",
+  "date": "2023-03-15T10:58:41",
+  "languages": {
+    "Python": 1071661,
+    "Jupyter Notebook": 132948,
+    "R": 12957,
+    "Shell": 953
+  },
+  "size": 1218519
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "9c652e21b0815de732214f10854160de9e8b4eb8",
+  "repo_url": "https://github.com/mldbai/mldb",
+  "date": "2017-04-13T18:00:55",
+  "languages": {
+    "C++": 12170039,
+    "C": 7691849,
+    "Jupyter Notebook": 4155336,
+    "JavaScript": 2196481,
+    "Python": 1306138,
+    "HTML": 310704,
+    "Makefile": 226131,
+    "Shell": 29060,
+    "CSS": 17037,
+    "Fortran": 16349,
+    "Perl": 3890,
+    "CMake": 2737,
+    "Dockerfile": 1591,
+    "Awk": 242
+  },
+  "size": 28127584
+}

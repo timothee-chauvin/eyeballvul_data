@@ -1,0 +1,10 @@
+{
+  "commit": "44277ce4b7b38c8778ae035fbf4cb501ccca0063",
+  "repo_url": "https://github.com/temporalio/api-go",
+  "date": "2025-02-07T02:30:50",
+  "languages": {
+    "Go": 1185858,
+    "Makefile": 4955
+  },
+  "size": 1190813
+}

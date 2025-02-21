@@ -1,0 +1,14 @@
+{
+  "commit": "b3703ed1ed9a7a7efedfa1f999f69fa1144992b4",
+  "repo_url": "https://github.com/activeadmin/activeadmin",
+  "date": "2022-04-12T09:07:49",
+  "languages": {
+    "Ruby": 762664,
+    "Gherkin": 158103,
+    "SCSS": 54138,
+    "JavaScript": 39222,
+    "HTML": 29186,
+    "CoffeeScript": 2856
+  },
+  "size": 1046169
+}

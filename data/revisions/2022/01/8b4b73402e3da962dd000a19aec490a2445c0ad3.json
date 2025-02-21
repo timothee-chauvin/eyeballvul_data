@@ -1,0 +1,16 @@
+{
+  "commit": "8b4b73402e3da962dd000a19aec490a2445c0ad3",
+  "repo_url": "https://github.com/opensupports/opensupports",
+  "date": "2022-01-04T16:24:06",
+  "languages": {
+    "JavaScript": 1350248,
+    "PHP": 715640,
+    "Ruby": 295716,
+    "HTML": 269466,
+    "SCSS": 151791,
+    "Makefile": 5449,
+    "Shell": 1334,
+    "Dockerfile": 846
+  },
+  "size": 2790490
+}

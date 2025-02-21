@@ -1,0 +1,12 @@
+{
+  "commit": "a89bfe051c6274e0f84460f93eda76ed80cd4bf9",
+  "repo_url": "https://github.com/automattic/newspack-popups",
+  "date": "2024-04-08T17:35:18",
+  "languages": {
+    "PHP": 370551,
+    "JavaScript": 105978,
+    "SCSS": 16345,
+    "Shell": 5513
+  },
+  "size": 498387
+}

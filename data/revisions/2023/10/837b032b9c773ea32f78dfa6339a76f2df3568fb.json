@@ -1,0 +1,11 @@
+{
+  "commit": "837b032b9c773ea32f78dfa6339a76f2df3568fb",
+  "repo_url": "https://github.com/eclipse-threadx/netxduo",
+  "date": "2023-10-23T05:28:48",
+  "languages": {
+    "C": 26715237,
+    "CMake": 113656,
+    "C++": 5916
+  },
+  "size": 26834809
+}

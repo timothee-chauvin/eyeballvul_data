@@ -1,0 +1,10 @@
+{
+  "commit": "c06aa64a08d8c3f2b2e37e45a0774dcb6b26c1e7",
+  "repo_url": "https://github.com/sap/cloud-security-client-go",
+  "date": "2023-10-16T08:17:31",
+  "languages": {
+    "Go": 103101,
+    "Makefile": 1479
+  },
+  "size": 104580
+}

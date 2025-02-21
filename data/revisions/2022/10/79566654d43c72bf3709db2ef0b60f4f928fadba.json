@@ -1,0 +1,15 @@
+{
+  "commit": "79566654d43c72bf3709db2ef0b60f4f928fadba",
+  "repo_url": "https://github.com/nginxinc/kubernetes-ingress",
+  "date": "2022-10-04T09:47:56",
+  "languages": {
+    "Go": 1994048,
+    "Python": 1016870,
+    "Dockerfile": 17979,
+    "JavaScript": 12899,
+    "Makefile": 11558,
+    "Shell": 11062,
+    "Mustache": 2979
+  },
+  "size": 3067395
+}

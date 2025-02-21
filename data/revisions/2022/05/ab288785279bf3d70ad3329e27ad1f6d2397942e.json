@@ -1,0 +1,21 @@
+{
+  "commit": "ab288785279bf3d70ad3329e27ad1f6d2397942e",
+  "repo_url": "https://github.com/aws/aws-cdk",
+  "date": "2022-05-27T15:33:28",
+  "languages": {
+    "TypeScript": 18206849,
+    "Python": 392315,
+    "JavaScript": 374509,
+    "Shell": 86376,
+    "Go": 12568,
+    "Dockerfile": 11393,
+    "Java": 10572,
+    "C#": 6881,
+    "Alloy": 6348,
+    "Velocity Template Language": 2956,
+    "F#": 2120,
+    "Batchfile": 1875,
+    "HTML": 478
+  },
+  "size": 19115240
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "98bdd6b04a6af2a7d2d8198f21dd28cbb951dbb2",
+  "repo_url": "https://github.com/greenpau/caddy-security",
+  "date": "2023-09-04T19:48:41",
+  "languages": {
+    "Go": 157300,
+    "Makefile": 5176,
+    "Shell": 1734
+  },
+  "size": 164210
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "f3bcd53cd6150ded5680e2abfb6759d359097529",
+  "repo_url": "https://github.com/craftercms/studio",
+  "date": "2019-09-23T14:30:01",
+  "languages": {
+    "Java": 2127658,
+    "Groovy": 519084,
+    "CSS": 73853,
+    "FreeMarker": 60844,
+    "JavaScript": 49505,
+    "SCSS": 2700
+  },
+  "size": 2833644
+}

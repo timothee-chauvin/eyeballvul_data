@@ -1,0 +1,13 @@
+{
+  "commit": "c36cdc54b82ced1bffe792293d896ca5681a2e61",
+  "repo_url": "https://github.com/run-llama/llama-hub",
+  "date": "2023-12-26T02:52:46",
+  "languages": {
+    "Jupyter Notebook": 6097771,
+    "Python": 1359750,
+    "JavaScript": 83319,
+    "Shell": 119,
+    "Makefile": 94
+  },
+  "size": 7541053
+}

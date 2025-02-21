@@ -1,6 +1,6 @@
 {
   "commit": "940362224d20e35f13aa5fd34a0d937ae57bdf7d",
-  "repo_url": "https://github.com/ggerganov/llama.cpp",
+  "repo_url": "https://github.com/ggml-org/llama.cpp",
   "date": "2024-07-20T13:43:51",
   "languages": {
     "C++": 4846837,

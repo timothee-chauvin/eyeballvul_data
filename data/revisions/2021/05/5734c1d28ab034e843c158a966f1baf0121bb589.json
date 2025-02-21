@@ -1,0 +1,13 @@
+{
+  "commit": "5734c1d28ab034e843c158a966f1baf0121bb589",
+  "repo_url": "https://github.com/awslabs/aws-c-io",
+  "date": "2021-05-06T17:35:56",
+  "languages": {
+    "C": 1725221,
+    "CMake": 15948,
+    "Makefile": 1460,
+    "Dockerfile": 1261,
+    "Shell": 499
+  },
+  "size": 1744389
+}

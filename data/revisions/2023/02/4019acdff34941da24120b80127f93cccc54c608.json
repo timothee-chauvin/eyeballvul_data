@@ -1,0 +1,12 @@
+{
+  "commit": "4019acdff34941da24120b80127f93cccc54c608",
+  "repo_url": "https://github.com/mutagen-io/mutagen",
+  "date": "2023-02-15T01:43:52",
+  "languages": {
+    "Go": 1873753,
+    "Shell": 16385,
+    "Assembly": 6654,
+    "Dockerfile": 2157
+  },
+  "size": 1898949
+}

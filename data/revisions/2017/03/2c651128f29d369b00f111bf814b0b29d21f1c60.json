@@ -1,0 +1,16 @@
+{
+  "commit": "2c651128f29d369b00f111bf814b0b29d21f1c60",
+  "repo_url": "https://github.com/yuan1994/tpadmin",
+  "date": "2017-03-08T07:13:53",
+  "languages": {
+    "PHP": 7840875,
+    "Smarty": 35854,
+    "Less": 24729,
+    "HTML": 19681,
+    "Go": 8967,
+    "Python": 7577,
+    "PLpgSQL": 3807,
+    "Dockerfile": 996
+  },
+  "size": 7942486
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "3b85b3bbad9a3104ac37b75f16ac210a6cd1a265",
+  "repo_url": "https://github.com/sanic-org/sanic",
+  "date": "2022-02-16T16:03:05",
+  "languages": {
+    "Python": 635822,
+    "Makefile": 2251,
+    "HTML": 1173,
+    "Dockerfile": 529,
+    "Go": 482,
+    "Shell": 462
+  },
+  "size": 640719
+}

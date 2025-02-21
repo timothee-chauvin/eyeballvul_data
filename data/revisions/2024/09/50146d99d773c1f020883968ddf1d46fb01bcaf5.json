@@ -1,0 +1,16 @@
+{
+  "commit": "50146d99d773c1f020883968ddf1d46fb01bcaf5",
+  "repo_url": "https://github.com/bassmaster187/teslalogger",
+  "date": "2024-09-03T20:43:31",
+  "languages": {
+    "C#": 1778776,
+    "PHP": 222240,
+    "CSS": 96647,
+    "JavaScript": 8073,
+    "Shell": 4630,
+    "Smalltalk": 2125,
+    "Dockerfile": 993,
+    "Batchfile": 114
+  },
+  "size": 2113598
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "d736f91fd52234fa300199f3bebbf0a8dd7efa78",
+  "repo_url": "https://github.com/ellite/wallos",
+  "date": "2024-03-09T22:21:54",
+  "languages": {
+    "PHP": 560978,
+    "JavaScript": 81704,
+    "CSS": 36317,
+    "Dockerfile": 2082,
+    "Hack": 1977,
+    "Shell": 1025
+  },
+  "size": 684083
+}

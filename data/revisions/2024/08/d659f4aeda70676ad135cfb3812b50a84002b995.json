@@ -1,0 +1,18 @@
+{
+  "commit": "d659f4aeda70676ad135cfb3812b50a84002b995",
+  "repo_url": "https://github.com/flagsmith/flagsmith",
+  "date": "2024-08-06T09:37:03",
+  "languages": {
+    "Python": 3565168,
+    "JavaScript": 1045667,
+    "TypeScript": 1039515,
+    "SCSS": 92637,
+    "HTML": 33721,
+    "Dockerfile": 6660,
+    "Handlebars": 5303,
+    "Makefile": 4379,
+    "Shell": 2655,
+    "Procfile": 137
+  },
+  "size": 5795842
+}

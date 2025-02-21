@@ -1,0 +1,15 @@
+{
+  "commit": "20a24fd4548af4bcb083ca530a1c18646e05fa23",
+  "repo_url": "https://github.com/coderberg/residencecms",
+  "date": "2024-05-03T09:48:01",
+  "languages": {
+    "PHP": 434163,
+    "Twig": 179886,
+    "JavaScript": 21778,
+    "SCSS": 13473,
+    "Dockerfile": 3079,
+    "Shell": 2019,
+    "CSS": 173
+  },
+  "size": 654571
+}

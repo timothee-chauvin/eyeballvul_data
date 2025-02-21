@@ -1,0 +1,17 @@
+{
+  "commit": "f9278da616045ea72ae9b4d6370e44f4a7435cb1",
+  "repo_url": "https://github.com/quivrhq/quivr",
+  "date": "2024-02-15T07:54:52",
+  "languages": {
+    "TypeScript": 573804,
+    "Python": 422956,
+    "PLpgSQL": 79895,
+    "SCSS": 36648,
+    "JavaScript": 22023,
+    "Dockerfile": 4768,
+    "CSS": 3156,
+    "Shell": 1390,
+    "Makefile": 770
+  },
+  "size": 1145410
+}

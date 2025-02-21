@@ -1,0 +1,19 @@
+{
+  "commit": "ca2254b4f3391dabfa9a7e47bfb71befcdff1e1c",
+  "repo_url": "https://github.com/nzedb/nzedb",
+  "date": "2015-04-06T17:23:08",
+  "languages": {
+    "PHP": 5727385,
+    "Smarty": 871647,
+    "CSS": 172358,
+    "Python": 154297,
+    "JavaScript": 113914,
+    "Shell": 103040,
+    "C": 6410,
+    "HTML": 2559,
+    "AppleScript": 2357,
+    "Batchfile": 1825,
+    "Makefile": 428
+  },
+  "size": 7156220
+}

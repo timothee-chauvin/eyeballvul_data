@@ -1,0 +1,13 @@
+{
+  "commit": "8738ecce7dae5f0c3fa2308c1bbc8a2643fa7f05",
+  "repo_url": "https://github.com/kalcaddle/kodexplorer",
+  "date": "2021-04-07T15:19:09",
+  "languages": {
+    "PHP": 2280610,
+    "HTML": 588614,
+    "JavaScript": 522935,
+    "CSS": 272283,
+    "Hack": 487
+  },
+  "size": 3664929
+}

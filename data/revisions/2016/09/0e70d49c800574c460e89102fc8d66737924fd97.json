@@ -1,0 +1,13 @@
+{
+  "commit": "0e70d49c800574c460e89102fc8d66737924fd97",
+  "repo_url": "https://github.com/inveniosoftware/invenio-previewer",
+  "date": "2016-09-23T06:20:02",
+  "languages": {
+    "JavaScript": 296832,
+    "Python": 80240,
+    "CSS": 40896,
+    "HTML": 38368,
+    "Shell": 1205
+  },
+  "size": 457541
+}

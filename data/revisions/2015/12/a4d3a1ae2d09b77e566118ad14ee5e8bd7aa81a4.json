@@ -1,0 +1,11 @@
+{
+  "commit": "a4d3a1ae2d09b77e566118ad14ee5e8bd7aa81a4",
+  "repo_url": "https://github.com/nette/application",
+  "date": "2015-12-03T12:15:14",
+  "languages": {
+    "PHP": 245610,
+    "HTML": 14802,
+    "Latte": 1424
+  },
+  "size": 261836
+}

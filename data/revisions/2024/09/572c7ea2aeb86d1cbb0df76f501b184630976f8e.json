@@ -1,0 +1,14 @@
+{
+  "commit": "572c7ea2aeb86d1cbb0df76f501b184630976f8e",
+  "repo_url": "https://github.com/usebruno/bruno",
+  "date": "2024-09-17T12:13:52",
+  "languages": {
+    "JavaScript": 1436528,
+    "HTML": 63480,
+    "TypeScript": 51121,
+    "CSS": 8251,
+    "Shell": 1229,
+    "SCSS": 19
+  },
+  "size": 1560628
+}
