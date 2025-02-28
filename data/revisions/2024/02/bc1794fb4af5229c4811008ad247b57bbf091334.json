@@ -1,0 +1,14 @@
+{
+  "commit": "bc1794fb4af5229c4811008ad247b57bbf091334",
+  "repo_url": "https://github.com/chatgptnextweb/chatgpt-next-web",
+  "date": "2024-02-26T10:15:00",
+  "languages": {
+    "TypeScript": 533111,
+    "SCSS": 71716,
+    "JavaScript": 5184,
+    "Shell": 3882,
+    "Dockerfile": 1518,
+    "Rust": 382
+  },
+  "size": 615793
+}

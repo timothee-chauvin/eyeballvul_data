@@ -1,0 +1,13 @@
+{
+  "commit": "d06ef2568b3fcc267edc1af875ab3f0f282af36c",
+  "repo_url": "https://github.com/jenkinsci/build-monitor-plugin",
+  "date": "2024-02-27T19:18:21",
+  "languages": {
+    "Java": 358606,
+    "JavaScript": 77859,
+    "Less": 27048,
+    "CSS": 15290,
+    "HTML": 2042
+  },
+  "size": 480845
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "216eb5e2ee0f3fc48b9d75ea5de9477c244dd520",
+  "repo_url": "https://github.com/localsend/localsend",
+  "date": "2024-11-04T23:25:53",
+  "languages": {
+    "Dart": 3299778,
+    "C++": 28343,
+    "Swift": 26834,
+    "CMake": 19467,
+    "Kotlin": 17516,
+    "PowerShell": 6731,
+    "Shell": 4541,
+    "HTML": 4477,
+    "JavaScript": 4358,
+    "Inno Setup": 3905,
+    "Ruby": 3065,
+    "C": 1425,
+    "Objective-C": 38
+  },
+  "size": 3420478
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "e92279ac0e3ad23bc93f7cdfe5afe420d3dc2f41",
+  "repo_url": "https://github.com/b1gmail-oss/b1gmail",
+  "date": "2025-01-03T20:50:47",
+  "languages": {
+    "PHP": 2942028,
+    "Smarty": 1138233,
+    "JavaScript": 612210,
+    "CSS": 356975,
+    "HTML": 195860,
+    "Shell": 618,
+    "Dockerfile": 460
+  },
+  "size": 5246384
+}

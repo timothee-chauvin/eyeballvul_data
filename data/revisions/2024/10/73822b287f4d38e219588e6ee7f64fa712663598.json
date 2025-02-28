@@ -1,0 +1,11 @@
+{
+  "commit": "73822b287f4d38e219588e6ee7f64fa712663598",
+  "repo_url": "https://github.com/solidjs/solid",
+  "date": "2024-10-22T23:26:37",
+  "languages": {
+    "TypeScript": 435894,
+    "JavaScript": 171057,
+    "CSS": 1302
+  },
+  "size": 608253
+}

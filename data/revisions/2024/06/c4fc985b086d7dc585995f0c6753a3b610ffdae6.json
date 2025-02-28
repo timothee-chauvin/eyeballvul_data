@@ -1,0 +1,16 @@
+{
+  "commit": "c4fc985b086d7dc585995f0c6753a3b610ffdae6",
+  "repo_url": "https://github.com/appleboy/gorush",
+  "date": "2024-06-19T00:41:24",
+  "languages": {
+    "Go": 199854,
+    "JavaScript": 51311,
+    "Makefile": 5293,
+    "Shell": 1819,
+    "Smarty": 1772,
+    "Dockerfile": 584,
+    "Lua": 428,
+    "Procfile": 26
+  },
+  "size": 261087
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "724e593c5afc0cd50fc530b5072b5d9bb189f895",
+  "repo_url": "https://github.com/opensolon/solon",
+  "date": "2025-02-13T13:05:01",
+  "languages": {
+    "Java": 6910919,
+    "HTML": 25131,
+    "FreeMarker": 2743,
+    "Kotlin": 1151,
+    "JavaScript": 89,
+    "Ruby": 83
+  },
+  "size": 6940116
+}
