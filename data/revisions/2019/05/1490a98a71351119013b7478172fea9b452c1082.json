@@ -1,0 +1,22 @@
+{
+  "commit": "1490a98a71351119013b7478172fea9b452c1082",
+  "repo_url": "https://github.com/ray-project/ray",
+  "date": "2019-05-16T05:55:21",
+  "languages": {
+    "Python": 2943238,
+    "C++": 968364,
+    "Java": 509737,
+    "Shell": 75488,
+    "Starlark": 51739,
+    "Cython": 50331,
+    "HTML": 32704,
+    "C": 31612,
+    "CSS": 9262,
+    "JavaScript": 8178,
+    "Dockerfile": 3411,
+    "Jupyter Notebook": 1610,
+    "Ruby": 956,
+    "Smarty": 955
+  },
+  "size": 4687585
+}

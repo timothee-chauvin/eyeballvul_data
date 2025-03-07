@@ -1,0 +1,18 @@
+{
+  "commit": "f9f8a8763956beefbf42fefdc9e022ce30fac0e9",
+  "repo_url": "https://github.com/elabftw/elabftw",
+  "date": "2024-08-27T18:06:32",
+  "languages": {
+    "PHP": 1521325,
+    "HTML": 526840,
+    "TypeScript": 403794,
+    "JavaScript": 331971,
+    "SCSS": 40498,
+    "Shell": 8977,
+    "PEG.js": 4625,
+    "Dockerfile": 2718,
+    "TeX": 667,
+    "Twig": 250
+  },
+  "size": 2841665
+}

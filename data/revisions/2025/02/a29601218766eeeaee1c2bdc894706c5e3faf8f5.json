@@ -1,0 +1,19 @@
+{
+  "commit": "a29601218766eeeaee1c2bdc894706c5e3faf8f5",
+  "repo_url": "https://github.com/openidentityplatform/opendj",
+  "date": "2025-02-04T16:06:13",
+  "languages": {
+    "Java": 34471584,
+    "XSLT": 284969,
+    "Shell": 148751,
+    "C": 104762,
+    "Batchfile": 70876,
+    "Ruby": 18136,
+    "FreeMarker": 15810,
+    "CSS": 5790,
+    "HTML": 3640,
+    "Makefile": 3155,
+    "Dockerfile": 1900
+  },
+  "size": 35129373
+}

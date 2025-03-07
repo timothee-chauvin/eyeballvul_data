@@ -1,0 +1,18 @@
+{
+  "commit": "05ce0eb6a1aaa278a503b2fbaaf45f252e54846c",
+  "repo_url": "https://github.com/skot/esp-miner",
+  "date": "2025-01-07T15:28:20",
+  "languages": {
+    "C": 428525,
+    "SCSS": 252218,
+    "TypeScript": 98054,
+    "HTML": 33702,
+    "Python": 8480,
+    "Shell": 6683,
+    "CMake": 4721,
+    "Dockerfile": 968,
+    "JavaScript": 953,
+    "Makefile": 255
+  },
+  "size": 834559
+}

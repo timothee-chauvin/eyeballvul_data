@@ -1,0 +1,13 @@
+{
+  "commit": "021f5bf74e853fc80fc6eb198dfbd996fc658aa0",
+  "repo_url": "https://github.com/plutolang/pluto",
+  "date": "2024-07-03T00:17:42",
+  "languages": {
+    "C++": 1165027,
+    "Lua": 477932,
+    "C": 104218,
+    "Makefile": 11328,
+    "PHP": 9826
+  },
+  "size": 1768331
+}

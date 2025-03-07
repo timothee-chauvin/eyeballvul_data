@@ -1,0 +1,15 @@
+{
+  "commit": "2b879646d6c8928a42df3f2ae4ad2d0bb28b3b68",
+  "repo_url": "https://github.com/labredescefetrj/wegia",
+  "date": "2024-07-06T22:04:03",
+  "languages": {
+    "PHP": 2834418,
+    "HTML": 1595641,
+    "CSS": 1249218,
+    "JavaScript": 852360,
+    "Less": 625377,
+    "SCSS": 625102,
+    "Hack": 47219
+  },
+  "size": 7829335
+}

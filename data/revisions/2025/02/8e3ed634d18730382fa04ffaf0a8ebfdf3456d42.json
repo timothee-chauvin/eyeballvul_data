@@ -1,0 +1,17 @@
+{
+  "commit": "8e3ed634d18730382fa04ffaf0a8ebfdf3456d42",
+  "repo_url": "https://github.com/embedchain/embedchain",
+  "date": "2025-02-26T08:05:25",
+  "languages": {
+    "Python": 1188656,
+    "MDX": 262357,
+    "Jupyter Notebook": 159824,
+    "TypeScript": 59793,
+    "JavaScript": 28462,
+    "Dockerfile": 2448,
+    "Makefile": 2366,
+    "Mako": 635,
+    "CSS": 59
+  },
+  "size": 1704600
+}

@@ -1,0 +1,26 @@
+{
+  "commit": "6bfb20f781c2cf71ad1b55b2774b58a40bb959ff",
+  "repo_url": "https://github.com/eclipse-omr/omr",
+  "date": "2025-01-17T00:33:08",
+  "languages": {
+    "C++": 37319385,
+    "C": 4790260,
+    "Assembly": 535672,
+    "Makefile": 527952,
+    "TeX": 508615,
+    "CMake": 400855,
+    "Python": 130805,
+    "M4": 31383,
+    "Perl": 28185,
+    "Groovy": 24382,
+    "Objective-C": 22534,
+    "Shell": 21560,
+    "HTML": 19500,
+    "Dockerfile": 5733,
+    "Awk": 4555,
+    "Ruby": 3704,
+    "Monkey C": 3279,
+    "sed": 2290
+  },
+  "size": 44380649
+}
