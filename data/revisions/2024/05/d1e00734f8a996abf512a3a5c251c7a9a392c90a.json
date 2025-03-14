@@ -1,0 +1,12 @@
+{
+  "commit": "d1e00734f8a996abf512a3a5c251c7a9a392c90a",
+  "repo_url": "https://github.com/danielgatis/rembg",
+  "date": "2024-05-24T00:24:00",
+  "languages": {
+    "Python": 181071,
+    "Inno Setup": 8011,
+    "PowerShell": 286,
+    "Dockerfile": 176
+  },
+  "size": 189544
+}
