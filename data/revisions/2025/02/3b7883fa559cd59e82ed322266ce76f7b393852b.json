@@ -1,0 +1,19 @@
+{
+  "commit": "3b7883fa559cd59e82ed322266ce76f7b393852b",
+  "repo_url": "https://github.com/obiba/opal",
+  "date": "2025-02-03T08:49:10",
+  "languages": {
+    "Java": 3104901,
+    "Vue": 897066,
+    "TypeScript": 184908,
+    "JavaScript": 164986,
+    "ANTLR": 21422,
+    "Shell": 15493,
+    "Makefile": 9039,
+    "R": 5735,
+    "SCSS": 2722,
+    "HTML": 1149,
+    "Batchfile": 67
+  },
+  "size": 4407488
+}

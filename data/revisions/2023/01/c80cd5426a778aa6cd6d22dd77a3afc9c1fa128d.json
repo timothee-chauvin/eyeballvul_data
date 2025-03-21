@@ -1,0 +1,14 @@
+{
+  "commit": "c80cd5426a778aa6cd6d22dd77a3afc9c1fa128d",
+  "repo_url": "https://github.com/vercel/hyper",
+  "date": "2023-01-07T20:46:57",
+  "languages": {
+    "TypeScript": 288656,
+    "JavaScript": 7014,
+    "Shell": 2976,
+    "NSIS": 1226,
+    "HTML": 836,
+    "Batchfile": 119
+  },
+  "size": 300827
+}

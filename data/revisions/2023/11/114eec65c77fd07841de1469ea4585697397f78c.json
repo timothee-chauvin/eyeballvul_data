@@ -1,0 +1,14 @@
+{
+  "commit": "114eec65c77fd07841de1469ea4585697397f78c",
+  "repo_url": "https://github.com/numbas/editor",
+  "date": "2023-11-10T09:11:46",
+  "languages": {
+    "JavaScript": 2279098,
+    "HTML": 574052,
+    "Python": 571954,
+    "Less": 205670,
+    "CSS": 50891,
+    "Makefile": 10020
+  },
+  "size": 3691685
+}

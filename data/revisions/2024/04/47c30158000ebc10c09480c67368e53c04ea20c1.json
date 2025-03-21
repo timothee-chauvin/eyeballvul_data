@@ -1,0 +1,13 @@
+{
+  "commit": "47c30158000ebc10c09480c67368e53c04ea20c1",
+  "repo_url": "https://github.com/facebookincubator/below",
+  "date": "2024-04-05T17:56:35",
+  "languages": {
+    "Rust": 1786453,
+    "Python": 6794,
+    "C": 5667,
+    "Dockerfile": 1730,
+    "Shell": 1113
+  },
+  "size": 1801757
+}

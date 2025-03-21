@@ -1,0 +1,14 @@
+{
+  "commit": "2f33ec7ad07db037482ef5cfa58df1b3dd0727a5",
+  "repo_url": "https://github.com/infiniflow/ragflow",
+  "date": "2024-09-14T10:39:13",
+  "languages": {
+    "Python": 1503640,
+    "TypeScript": 949120,
+    "Less": 43555,
+    "Shell": 5036,
+    "JavaScript": 1126,
+    "Dockerfile": 433
+  },
+  "size": 2502910
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "1f4c805897fa28a413495c7a127cebce8febdd51",
+  "repo_url": "https://github.com/pecanproject/pecan",
+  "date": "2024-07-13T02:46:00",
+  "languages": {
+    "R": 6552668,
+    "Fortran": 2067655,
+    "Shell": 507614,
+    "PHP": 239068,
+    "Python": 212274,
+    "C++": 62143,
+    "HTML": 58333,
+    "CSS": 48132,
+    "Dockerfile": 22063,
+    "Makefile": 10574,
+    "TeX": 8807,
+    "C": 3153,
+    "JavaScript": 1969,
+    "MATLAB": 542,
+    "AMPL": 474
+  },
+  "size": 9795469
+}
