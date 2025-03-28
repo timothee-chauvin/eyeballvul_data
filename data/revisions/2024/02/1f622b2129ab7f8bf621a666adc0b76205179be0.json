@@ -1,0 +1,15 @@
+{
+  "commit": "1f622b2129ab7f8bf621a666adc0b76205179be0",
+  "repo_url": "https://github.com/rebelcode/wp-rss-aggregator",
+  "date": "2024-02-28T13:21:08",
+  "languages": {
+    "PHP": 1692720,
+    "JavaScript": 185789,
+    "CSS": 84555,
+    "Twig": 45330,
+    "Vue": 35518,
+    "SCSS": 34712,
+    "Makefile": 1478
+  },
+  "size": 2080102
+}

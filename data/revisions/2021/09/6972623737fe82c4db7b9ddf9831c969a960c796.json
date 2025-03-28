@@ -1,0 +1,13 @@
+{
+  "commit": "6972623737fe82c4db7b9ddf9831c969a960c796",
+  "repo_url": "https://github.com/canvg/canvg",
+  "date": "2021-09-14T05:04:13",
+  "languages": {
+    "TypeScript": 200917,
+    "JavaScript": 154156,
+    "HTML": 17155,
+    "CSS": 753,
+    "Shell": 303
+  },
+  "size": 373284
+}

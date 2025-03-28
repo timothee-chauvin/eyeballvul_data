@@ -1,0 +1,15 @@
+{
+  "commit": "32dfba0d5ce255af3e75921442315cae11f57a50",
+  "repo_url": "https://github.com/openslides/openslides",
+  "date": "2019-12-13T08:39:11",
+  "languages": {
+    "TypeScript": 2323189,
+    "Python": 1176157,
+    "HTML": 417578,
+    "JavaScript": 159617,
+    "SCSS": 113819,
+    "Smarty": 7188,
+    "Dockerfile": 853
+  },
+  "size": 4198401
+}

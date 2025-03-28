@@ -1,0 +1,15 @@
+{
+  "commit": "887496e7464bfd9bbab71a274340ea9c0b51a060",
+  "repo_url": "https://github.com/kubesphere/kubesphere",
+  "date": "2025-03-21T03:33:00",
+  "languages": {
+    "Go": 2380302,
+    "Shell": 113299,
+    "Mustache": 38762,
+    "Makefile": 6391,
+    "Smarty": 3186,
+    "Dockerfile": 2659,
+    "Open Policy Agent": 1535
+  },
+  "size": 2546134
+}

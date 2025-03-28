@@ -1,0 +1,10 @@
+{
+  "commit": "280b24f7a8ffbe231b98833290e735fe58534104",
+  "repo_url": "https://github.com/oddlama/kanidm-provision",
+  "date": "2024-08-23T18:14:26",
+  "languages": {
+    "Nix": 61129,
+    "Rust": 35269
+  },
+  "size": 96398
+}
