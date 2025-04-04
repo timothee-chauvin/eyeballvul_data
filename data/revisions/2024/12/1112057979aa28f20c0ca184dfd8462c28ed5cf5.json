@@ -1,0 +1,13 @@
+{
+  "commit": "1112057979aa28f20c0ca184dfd8462c28ed5cf5",
+  "repo_url": "https://github.com/arduino/arduino-ide",
+  "date": "2024-12-02T15:02:58",
+  "languages": {
+    "TypeScript": 1862429,
+    "JavaScript": 1661061,
+    "CSS": 59240,
+    "HTML": 7840,
+    "Shell": 308
+  },
+  "size": 3590878
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "dd885b0b65cf9147127daaf72bee3179e4c5d33e",
+  "repo_url": "https://github.com/unraid/webgui",
+  "date": "2025-02-19T06:21:01",
+  "languages": {
+    "PHP": 1718364,
+    "JavaScript": 943166,
+    "Shell": 323125,
+    "CSS": 313317,
+    "HTML": 84221,
+    "Makefile": 4128
+  },
+  "size": 3386321
+}

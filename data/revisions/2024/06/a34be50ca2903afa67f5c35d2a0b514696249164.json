@@ -1,0 +1,14 @@
+{
+  "commit": "a34be50ca2903afa67f5c35d2a0b514696249164",
+  "repo_url": "https://github.com/arnog/mathlive",
+  "date": "2024-06-12T21:29:20",
+  "languages": {
+    "TypeScript": 1726592,
+    "HTML": 115369,
+    "JavaScript": 96717,
+    "Less": 82752,
+    "Shell": 13073,
+    "CSS": 8303
+  },
+  "size": 2042806
+}

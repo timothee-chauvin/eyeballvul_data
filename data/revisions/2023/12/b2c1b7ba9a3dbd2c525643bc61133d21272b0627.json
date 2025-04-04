@@ -1,0 +1,18 @@
+{
+  "commit": "b2c1b7ba9a3dbd2c525643bc61133d21272b0627",
+  "repo_url": "https://github.com/matomo-org/matomo",
+  "date": "2023-12-06T04:22:39",
+  "languages": {
+    "PHP": 15001905,
+    "JavaScript": 1553131,
+    "Vue": 946022,
+    "HTML": 530373,
+    "Twig": 460164,
+    "TypeScript": 255939,
+    "Less": 254839,
+    "CSS": 35337,
+    "Shell": 1863,
+    "Smarty": 1404
+  },
+  "size": 19040977
+}

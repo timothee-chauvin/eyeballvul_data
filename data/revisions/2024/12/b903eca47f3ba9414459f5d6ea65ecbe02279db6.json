@@ -1,0 +1,12 @@
+{
+  "commit": "b903eca47f3ba9414459f5d6ea65ecbe02279db6",
+  "repo_url": "https://github.com/netty/netty-incubator-codec-quic",
+  "date": "2024-12-23T09:41:21",
+  "languages": {
+    "Java": 897150,
+    "C": 131321,
+    "Shell": 1433,
+    "Ruby": 137
+  },
+  "size": 1030041
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "d483eab0327ef7294c91901973eb1dfa9211ea23",
+  "repo_url": "https://github.com/groundhoggwp/groundhogg",
+  "date": "2025-02-12T19:58:47",
+  "languages": {
+    "JavaScript": 9342017,
+    "PHP": 3374765,
+    "SCSS": 192094,
+    "HTML": 91196,
+    "CSS": 20794,
+    "Shell": 5272,
+    "Makefile": 285
+  },
+  "size": 13026423
+}

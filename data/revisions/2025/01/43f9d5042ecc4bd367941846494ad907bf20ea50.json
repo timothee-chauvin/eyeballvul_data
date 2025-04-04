@@ -1,0 +1,23 @@
+{
+  "commit": "43f9d5042ecc4bd367941846494ad907bf20ea50",
+  "repo_url": "https://github.com/ta-lib/ta-lib",
+  "date": "2025-01-11T04:49:26",
+  "languages": {
+    "C": 6037861,
+    "Makefile": 5650941,
+    "Java": 2248181,
+    "C++": 794747,
+    "Python": 122884,
+    "Perl": 120324,
+    "CMake": 33709,
+    "Prolog": 31725,
+    "Shell": 6010,
+    "QMake": 5414,
+    "Raku": 4101,
+    "RenderScript": 3249,
+    "Rust": 1816,
+    "M4": 1723,
+    "Batchfile": 299
+  },
+  "size": 15062984
+}

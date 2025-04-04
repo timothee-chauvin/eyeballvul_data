@@ -1,0 +1,16 @@
+{
+  "commit": "e5fe1cfa774ccca97482ae8b5ef0b122a19fbf87",
+  "repo_url": "https://github.com/pipe-cd/pipecd",
+  "date": "2024-11-07T07:19:18",
+  "languages": {
+    "Go": 3406317,
+    "TypeScript": 630468,
+    "Shell": 16788,
+    "JavaScript": 14710,
+    "Mustache": 9941,
+    "Makefile": 9139,
+    "Dockerfile": 7295,
+    "HTML": 487
+  },
+  "size": 4095145
+}
