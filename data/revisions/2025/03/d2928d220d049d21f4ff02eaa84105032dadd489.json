@@ -1,0 +1,15 @@
+{
+  "commit": "d2928d220d049d21f4ff02eaa84105032dadd489",
+  "repo_url": "https://github.com/vulnerability-lookup/vulnerability-lookup",
+  "date": "2025-03-27T06:38:34",
+  "languages": {
+    "HTML": 637837,
+    "Python": 558628,
+    "JavaScript": 60860,
+    "Lua": 5627,
+    "CSS": 3955,
+    "Shell": 715,
+    "Mako": 494
+  },
+  "size": 1268116
+}

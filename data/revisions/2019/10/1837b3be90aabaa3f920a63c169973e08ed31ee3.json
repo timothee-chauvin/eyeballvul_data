@@ -1,0 +1,25 @@
+{
+  "commit": "1837b3be90aabaa3f920a63c169973e08ed31ee3",
+  "repo_url": "https://github.com/magma/magma",
+  "date": "2019-10-24T12:16:08",
+  "languages": {
+    "C": 6090597,
+    "Go": 4303088,
+    "Python": 2493744,
+    "C++": 1181938,
+    "JavaScript": 959195,
+    "Shell": 111253,
+    "CMake": 85081,
+    "Dockerfile": 36203,
+    "Makefile": 29639,
+    "Smarty": 16178,
+    "HTML": 8718,
+    "HCL": 7120,
+    "Jinja": 5611,
+    "Ruby": 5547,
+    "M4": 1488,
+    "Mustache": 1415,
+    "Pug": 1400
+  },
+  "size": 15338215
+}

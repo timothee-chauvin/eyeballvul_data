@@ -1,0 +1,13 @@
+{
+  "commit": "a7e336ff8682c2e5678371eef99fd387a559ae49",
+  "repo_url": "https://github.com/silverstripe/silverstripe-elemental",
+  "date": "2025-04-07T22:20:41",
+  "languages": {
+    "PHP": 280945,
+    "JavaScript": 172664,
+    "Gherkin": 70816,
+    "SCSS": 12411,
+    "Scheme": 2324
+  },
+  "size": 539160
+}

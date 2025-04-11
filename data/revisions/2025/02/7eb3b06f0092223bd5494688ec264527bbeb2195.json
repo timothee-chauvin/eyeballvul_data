@@ -1,0 +1,14 @@
+{
+  "commit": "7eb3b06f0092223bd5494688ec264527bbeb2195",
+  "repo_url": "https://github.com/jupyterlab/jupyterlab-git",
+  "date": "2025-02-10T22:17:05",
+  "languages": {
+    "TypeScript": 682170,
+    "Python": 304186,
+    "Jupyter Notebook": 12291,
+    "CSS": 6660,
+    "JavaScript": 3857,
+    "Shell": 39
+  },
+  "size": 1009203
+}
