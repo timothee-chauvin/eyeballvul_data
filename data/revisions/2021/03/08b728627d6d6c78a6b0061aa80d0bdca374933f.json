@@ -1,0 +1,14 @@
+{
+  "commit": "08b728627d6d6c78a6b0061aa80d0bdca374933f",
+  "repo_url": "https://github.com/handylulu/ritecms",
+  "date": "2021-03-06T04:51:31",
+  "languages": {
+    "PHP": 722166,
+    "JavaScript": 282249,
+    "Smarty": 187135,
+    "CSS": 41218,
+    "PLpgSQL": 38121,
+    "HTML": 7175
+  },
+  "size": 1278064
+}

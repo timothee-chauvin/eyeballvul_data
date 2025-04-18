@@ -1,0 +1,10 @@
+{
+  "commit": "5e47261cfc92971234d56e76138c59a27f6a0af6",
+  "repo_url": "https://github.com/snowplow/stream-collector",
+  "date": "2024-11-25T14:38:21",
+  "languages": {
+    "Scala": 321755,
+    "Nix": 1956
+  },
+  "size": 323711
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "2538b201cf1f29512b94f5565df27c4291577754",
+  "repo_url": "https://github.com/conda-forge/conda-forge-webservices",
+  "date": "2025-04-13T21:11:16",
+  "languages": {
+    "Python": 372736,
+    "Dockerfile": 3964,
+    "Shell": 2315
+  },
+  "size": 379015
+}

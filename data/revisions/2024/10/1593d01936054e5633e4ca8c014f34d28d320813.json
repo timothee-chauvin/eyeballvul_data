@@ -1,0 +1,13 @@
+{
+  "commit": "1593d01936054e5633e4ca8c014f34d28d320813",
+  "repo_url": "https://github.com/redocly/redoc",
+  "date": "2024-10-16T10:29:44",
+  "languages": {
+    "TypeScript": 536328,
+    "JavaScript": 5788,
+    "Shell": 2516,
+    "HTML": 1974,
+    "Dockerfile": 1731
+  },
+  "size": 548337
+}

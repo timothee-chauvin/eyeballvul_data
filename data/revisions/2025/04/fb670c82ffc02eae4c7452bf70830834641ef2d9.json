@@ -1,0 +1,14 @@
+{
+  "commit": "fb670c82ffc02eae4c7452bf70830834641ef2d9",
+  "repo_url": "https://github.com/codelitdev/courselit",
+  "date": "2025-04-04T17:19:03",
+  "languages": {
+    "TypeScript": 2618235,
+    "JavaScript": 28525,
+    "Astro": 26753,
+    "CSS": 22150,
+    "Shell": 4180,
+    "Dockerfile": 3763
+  },
+  "size": 2703606
+}
