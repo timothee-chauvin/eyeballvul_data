@@ -1,0 +1,14 @@
+{
+  "commit": "85f448435b19ecddd27fa38ba38f022ddcd91eda",
+  "repo_url": "https://github.com/mediaelement/mediaelement",
+  "date": "2018-01-16T21:12:41",
+  "languages": {
+    "JavaScript": 941287,
+    "ActionScript": 262730,
+    "CSS": 58562,
+    "C": 12354,
+    "Shell": 3127,
+    "HTML": 2966
+  },
+  "size": 1281026
+}

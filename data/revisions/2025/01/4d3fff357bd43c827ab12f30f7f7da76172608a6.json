@@ -1,0 +1,11 @@
+{
+  "commit": "4d3fff357bd43c827ab12f30f7f7da76172608a6",
+  "repo_url": "https://github.com/snowplow/enrich",
+  "date": "2025-01-23T15:24:45",
+  "languages": {
+    "Scala": 2009424,
+    "Python": 6472,
+    "HTML": 26
+  },
+  "size": 2015922
+}

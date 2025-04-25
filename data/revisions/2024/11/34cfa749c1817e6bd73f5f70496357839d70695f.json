@@ -1,0 +1,19 @@
+{
+  "commit": "34cfa749c1817e6bd73f5f70496357839d70695f",
+  "repo_url": "https://github.com/tencentmusic/supersonic",
+  "date": "2024-11-01T14:40:22",
+  "languages": {
+    "Java": 3052715,
+    "TypeScript": 1393360,
+    "Less": 136328,
+    "Python": 93392,
+    "JavaScript": 77637,
+    "Batchfile": 7899,
+    "Shell": 7813,
+    "CSS": 4647,
+    "HTML": 1750,
+    "Dockerfile": 1505,
+    "EJS": 640
+  },
+  "size": 4777686
+}

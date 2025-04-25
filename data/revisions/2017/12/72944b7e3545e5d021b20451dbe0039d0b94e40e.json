@@ -1,0 +1,15 @@
+{
+  "commit": "72944b7e3545e5d021b20451dbe0039d0b94e40e",
+  "repo_url": "https://github.com/litepubl/cms",
+  "date": "2017-12-09T20:40:35",
+  "languages": {
+    "PHP": 3600407,
+    "CSS": 2880484,
+    "JavaScript": 887077,
+    "Less": 762623,
+    "HTML": 31811,
+    "Batchfile": 17699,
+    "Shell": 457
+  },
+  "size": 8180558
+}

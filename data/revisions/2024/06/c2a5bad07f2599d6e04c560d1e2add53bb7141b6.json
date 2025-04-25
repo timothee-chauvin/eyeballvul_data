@@ -1,0 +1,15 @@
+{
+  "commit": "c2a5bad07f2599d6e04c560d1e2add53bb7141b6",
+  "repo_url": "https://github.com/xi-yuer/go-cms",
+  "date": "2024-06-22T04:12:47",
+  "languages": {
+    "Go": 254017,
+    "TypeScript": 203948,
+    "PLpgSQL": 95565,
+    "CSS": 2165,
+    "Dockerfile": 816,
+    "HTML": 263,
+    "JavaScript": 80
+  },
+  "size": 556854
+}
