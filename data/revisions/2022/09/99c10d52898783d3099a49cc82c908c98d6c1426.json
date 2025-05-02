@@ -1,0 +1,19 @@
+{
+  "commit": "99c10d52898783d3099a49cc82c908c98d6c1426",
+  "repo_url": "https://github.com/leokhoa/laragon",
+  "date": "2022-09-15T16:20:56",
+  "languages": {
+    "PHP": 867733,
+    "Vim Script": 126122,
+    "JavaScript": 88326,
+    "CSS": 83900,
+    "Shell": 22107,
+    "Makefile": 21127,
+    "HTML": 14136,
+    "Smarty": 7626,
+    "Batchfile": 4964,
+    "Perl": 2304,
+    "Procfile": 825
+  },
+  "size": 1239170
+}

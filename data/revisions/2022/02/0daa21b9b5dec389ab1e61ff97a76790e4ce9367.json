@@ -1,0 +1,15 @@
+{
+  "commit": "0daa21b9b5dec389ab1e61ff97a76790e4ce9367",
+  "repo_url": "https://github.com/hornetq/hornetq",
+  "date": "2022-02-11T08:22:00",
+  "languages": {
+    "Java": 14641021,
+    "C++": 34103,
+    "XSLT": 5044,
+    "Shell": 4036,
+    "HTML": 1825,
+    "Batchfile": 1754,
+    "C": 1056
+  },
+  "size": 14688839
+}

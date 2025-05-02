@@ -1,0 +1,16 @@
+{
+  "commit": "808e448f329d298f46e87658820d858327dbbaba",
+  "repo_url": "https://github.com/ermig1979/simd",
+  "date": "2024-02-01T07:00:31",
+  "languages": {
+    "C++": 16352378,
+    "Python": 109415,
+    "CMake": 14318,
+    "C": 11601,
+    "Batchfile": 6915,
+    "Shell": 2534,
+    "Dockerfile": 591,
+    "Makefile": 275
+  },
+  "size": 16498027
+}

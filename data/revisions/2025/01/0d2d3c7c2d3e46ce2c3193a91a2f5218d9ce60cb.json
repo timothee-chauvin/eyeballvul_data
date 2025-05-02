@@ -1,0 +1,26 @@
+{
+  "commit": "0d2d3c7c2d3e46ce2c3193a91a2f5218d9ce60cb",
+  "repo_url": "https://github.com/scipopt/scip",
+  "date": "2025-01-28T11:11:36",
+  "languages": {
+    "C": 37086022,
+    "C++": 4505354,
+    "JetBrains MPS": 845530,
+    "Awk": 371114,
+    "Shell": 285010,
+    "CMake": 186465,
+    "Makefile": 137780,
+    "Python": 87474,
+    "TeX": 33207,
+    "Perl": 21018,
+    "Arc": 16156,
+    "R": 12179,
+    "HTML": 6599,
+    "Dockerfile": 4927,
+    "Zimpl": 3053,
+    "AMPL": 2748,
+    "Gnuplot": 1848,
+    "Batchfile": 1671
+  },
+  "size": 43608155
+}
