@@ -1,0 +1,15 @@
+{
+  "commit": "f64af68384a359a7c008deb2ef2ab8940f15ba84",
+  "repo_url": "https://github.com/nextcloud/nextcloudpi",
+  "date": "2023-11-15T17:35:43",
+  "languages": {
+    "Shell": 346684,
+    "PHP": 163031,
+    "CSS": 61950,
+    "JavaScript": 59737,
+    "Python": 40775,
+    "Dockerfile": 6637,
+    "Makefile": 6205
+  },
+  "size": 685019
+}

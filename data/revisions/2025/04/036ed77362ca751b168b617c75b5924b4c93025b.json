@@ -1,0 +1,10 @@
+{
+  "commit": "036ed77362ca751b168b617c75b5924b4c93025b",
+  "repo_url": "https://github.com/donetick/donetick",
+  "date": "2025-04-24T23:54:01",
+  "languages": {
+    "Go": 279991,
+    "Dockerfile": 1113
+  },
+  "size": 281104
+}

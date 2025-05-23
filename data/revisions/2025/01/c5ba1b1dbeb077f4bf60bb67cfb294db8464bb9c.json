@@ -1,0 +1,13 @@
+{
+  "commit": "c5ba1b1dbeb077f4bf60bb67cfb294db8464bb9c",
+  "repo_url": "https://github.com/bluewave-labs/checkmate",
+  "date": "2025-01-23T15:12:35",
+  "languages": {
+    "JavaScript": 1147196,
+    "CSS": 14016,
+    "Shell": 6701,
+    "Dockerfile": 2329,
+    "HTML": 355
+  },
+  "size": 1170597
+}

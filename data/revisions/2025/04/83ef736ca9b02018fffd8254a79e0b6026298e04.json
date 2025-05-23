@@ -1,0 +1,10 @@
+{
+  "commit": "83ef736ca9b02018fffd8254a79e0b6026298e04",
+  "repo_url": "https://github.com/nrkno/terraform-provider-windns",
+  "date": "2025-04-23T10:17:52",
+  "languages": {
+    "Go": 39723,
+    "Makefile": 255
+  },
+  "size": 39978
+}

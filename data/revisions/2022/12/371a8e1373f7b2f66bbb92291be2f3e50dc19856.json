@@ -1,0 +1,18 @@
+{
+  "commit": "371a8e1373f7b2f66bbb92291be2f3e50dc19856",
+  "repo_url": "https://github.com/pointcloudlibrary/pcl",
+  "date": "2022-12-10T13:49:33",
+  "languages": {
+    "C++": 19790629,
+    "Cuda": 916863,
+    "CMake": 460777,
+    "C": 207064,
+    "Python": 25404,
+    "Dockerfile": 9401,
+    "Shell": 7394,
+    "MATLAB": 3407,
+    "GLSL": 2653,
+    "Objective-C++": 2084
+  },
+  "size": 21425676
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "359d902255a0a97a4ff05b02cff014f76914aae6",
+  "repo_url": "https://github.com/continew-org/continew-admin",
+  "date": "2024-08-05T12:41:58",
+  "languages": {
+    "Java": 694221,
+    "FreeMarker": 25375,
+    "Dockerfile": 660
+  },
+  "size": 720256
+}

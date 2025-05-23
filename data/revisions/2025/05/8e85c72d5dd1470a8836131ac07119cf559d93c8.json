@@ -1,0 +1,14 @@
+{
+  "commit": "8e85c72d5dd1470a8836131ac07119cf559d93c8",
+  "repo_url": "https://github.com/patrickhener/goshs",
+  "date": "2025-05-02T14:15:51",
+  "languages": {
+    "Go": 103442,
+    "HTML": 18651,
+    "JavaScript": 7238,
+    "SCSS": 7024,
+    "Makefile": 2987,
+    "Dockerfile": 745
+  },
+  "size": 140087
+}

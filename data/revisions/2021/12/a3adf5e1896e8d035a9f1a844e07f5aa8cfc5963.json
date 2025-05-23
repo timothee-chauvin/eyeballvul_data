@@ -1,0 +1,14 @@
+{
+  "commit": "a3adf5e1896e8d035a9f1a844e07f5aa8cfc5963",
+  "repo_url": "https://github.com/mindstellar/osclass",
+  "date": "2021-12-04T10:27:03",
+  "languages": {
+    "PHP": 3064617,
+    "CSS": 312067,
+    "JavaScript": 189023,
+    "HTML": 165403,
+    "SCSS": 37902,
+    "Shell": 1524
+  },
+  "size": 3770536
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "2e9a5fccbb0095e87b2769e9249ea1f821918ecd",
+  "repo_url": "https://github.com/espeak-ng/espeak-ng",
+  "date": "2022-04-02T19:24:41",
+  "languages": {
+    "C": 1959447,
+    "Java": 239573,
+    "Shell": 103630,
+    "C++": 82766,
+    "Makefile": 46364,
+    "Python": 45448,
+    "JavaScript": 24245,
+    "M4": 20383,
+    "Vim Script": 5733,
+    "HTML": 5658,
+    "PHP": 324
+  },
+  "size": 2533571
+}

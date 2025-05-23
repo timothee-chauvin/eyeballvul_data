@@ -1,0 +1,16 @@
+{
+  "commit": "65ce9e1eef0793f550ec81e24fc0f06fed33c33a",
+  "repo_url": "https://github.com/snowflakedb/libsnowflakeclient",
+  "date": "2025-04-01T11:49:05",
+  "languages": {
+    "C++": 940283,
+    "C": 935118,
+    "Shell": 75436,
+    "Batchfile": 54754,
+    "CMake": 46373,
+    "Python": 10523,
+    "Makefile": 4403,
+    "Dockerfile": 1538
+  },
+  "size": 2068428
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "2fecb7ab255b42d9dbcb879c88ad9a3cc8c2445f",
+  "repo_url": "https://github.com/langroid/langroid",
+  "date": "2025-05-02T17:33:50",
+  "languages": {
+    "Python": 1982957,
+    "Shell": 3530,
+    "Makefile": 2968,
+    "Dockerfile": 1872
+  },
+  "size": 1991327
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "7aa3697c2b5d87c379c297651b996995091ead5c",
+  "repo_url": "https://github.com/jenkinsci/htmlpublisher-plugin",
+  "date": "2023-08-04T00:13:25",
+  "languages": {
+    "Java": 76467,
+    "HTML": 10036,
+    "Groovy": 3639
+  },
+  "size": 90142
+}

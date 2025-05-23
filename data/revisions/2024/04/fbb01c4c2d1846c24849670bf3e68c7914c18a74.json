@@ -1,0 +1,24 @@
+{
+  "commit": "fbb01c4c2d1846c24849670bf3e68c7914c18a74",
+  "repo_url": "https://github.com/mihula/prodotnetzip",
+  "date": "2024-04-10T08:41:44",
+  "languages": {
+    "C#": 3458054,
+    "Rich Text Format": 931654,
+    "HTML": 157226,
+    "ASP.NET": 45182,
+    "Visual Basic .NET": 41897,
+    "Smalltalk": 30250,
+    "JavaScript": 26385,
+    "Ruby": 19527,
+    "Batchfile": 19363,
+    "VBScript": 18955,
+    "PowerShell": 8933,
+    "Classic ASP": 5862,
+    "C++": 4624,
+    "Makefile": 1125,
+    "PHP": 974,
+    "Perl": 523
+  },
+  "size": 4770534
+}

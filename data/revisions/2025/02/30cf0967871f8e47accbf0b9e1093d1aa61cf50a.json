@@ -1,0 +1,12 @@
+{
+  "commit": "30cf0967871f8e47accbf0b9e1093d1aa61cf50a",
+  "repo_url": "https://github.com/shopify/ejson2env",
+  "date": "2025-02-03T16:18:00",
+  "languages": {
+    "Go": 13337,
+    "Ruby": 1157,
+    "Shell": 780,
+    "Dockerfile": 280
+  },
+  "size": 15554
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "adb859c6992ceb5a8664d578ca28799925ab0067",
+  "repo_url": "https://github.com/nanbingxyz/5ire",
+  "date": "2025-05-13T13:03:23",
+  "languages": {
+    "TypeScript": 836554,
+    "SCSS": 19452,
+    "JavaScript": 10908,
+    "EJS": 1151,
+    "NSIS": 614
+  },
+  "size": 868679
+}
