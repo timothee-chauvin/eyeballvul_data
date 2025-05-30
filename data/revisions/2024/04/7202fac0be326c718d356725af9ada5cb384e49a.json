@@ -1,0 +1,17 @@
+{
+  "commit": "7202fac0be326c718d356725af9ada5cb384e49a",
+  "repo_url": "https://github.com/syslifters/sysreptor",
+  "date": "2024-04-17T07:01:34",
+  "languages": {
+    "Python": 1202854,
+    "Vue": 543512,
+    "TypeScript": 358661,
+    "JavaScript": 100810,
+    "Shell": 44705,
+    "CSS": 13350,
+    "SCSS": 7044,
+    "Dockerfile": 6708,
+    "HTML": 4249
+  },
+  "size": 2281893
+}

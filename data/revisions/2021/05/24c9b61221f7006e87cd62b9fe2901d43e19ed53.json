@@ -1,0 +1,19 @@
+{
+  "commit": "24c9b61221f7006e87cd62b9fe2901d43e19ed53",
+  "repo_url": "https://github.com/prometheus/prometheus",
+  "date": "2021-05-12T17:32:12",
+  "languages": {
+    "Go": 3406724,
+    "TypeScript": 246772,
+    "JavaScript": 64942,
+    "HTML": 54735,
+    "Yacc": 25850,
+    "SCSS": 13275,
+    "CSS": 9247,
+    "Shell": 8786,
+    "Lex": 5940,
+    "Makefile": 3997,
+    "Dockerfile": 1297
+  },
+  "size": 3841565
+}

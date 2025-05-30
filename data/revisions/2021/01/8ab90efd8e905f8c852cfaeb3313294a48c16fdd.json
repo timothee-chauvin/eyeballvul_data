@@ -1,0 +1,13 @@
+{
+  "commit": "8ab90efd8e905f8c852cfaeb3313294a48c16fdd",
+  "repo_url": "https://github.com/datadog/datadog-api-client-java",
+  "date": "2021-01-14T14:04:09",
+  "languages": {
+    "Java": 5642352,
+    "Gherkin": 164050,
+    "Shell": 3160,
+    "Awk": 1384,
+    "Python": 569
+  },
+  "size": 5811515
+}

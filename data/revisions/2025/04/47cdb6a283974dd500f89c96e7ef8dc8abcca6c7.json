@@ -1,0 +1,19 @@
+{
+  "commit": "47cdb6a283974dd500f89c96e7ef8dc8abcca6c7",
+  "repo_url": "https://github.com/apache/nuttx",
+  "date": "2025-04-07T02:46:44",
+  "languages": {
+    "C": 198444895,
+    "Assembly": 2298667,
+    "CMake": 1287424,
+    "Makefile": 1024504,
+    "Python": 875773,
+    "Shell": 341509,
+    "LSL": 248369,
+    "C++": 111057,
+    "Dockerfile": 23399,
+    "Batchfile": 21402,
+    "Perl": 4076
+  },
+  "size": 204681075
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "a6c6a3c3e050eb7cf59b2c9660667272c967e641",
+  "repo_url": "https://github.com/cosmwasm/cosmwasm",
+  "date": "2024-10-12T04:11:30",
+  "languages": {
+    "Rust": 2686489,
+    "Go": 30270,
+    "Shell": 7011,
+    "Python": 2533
+  },
+  "size": 2726303
+}

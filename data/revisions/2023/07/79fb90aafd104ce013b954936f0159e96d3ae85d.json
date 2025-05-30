@@ -1,0 +1,15 @@
+{
+  "commit": "79fb90aafd104ce013b954936f0159e96d3ae85d",
+  "repo_url": "https://github.com/hwchase17/langchain",
+  "date": "2023-07-05T14:41:26",
+  "languages": {
+    "Python": 4577821,
+    "Jupyter Notebook": 25972,
+    "Dockerfile": 2949,
+    "TeX": 2242,
+    "Makefile": 2177,
+    "HTML": 2108,
+    "JavaScript": 157
+  },
+  "size": 4613426
+}

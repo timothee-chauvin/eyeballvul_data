@@ -1,0 +1,14 @@
+{
+  "commit": "6844fc19ca285d460e0bb84f33784742aa594bd3",
+  "repo_url": "https://github.com/o-ran-sc/ric-plt-e2mgr",
+  "date": "2023-12-13T09:00:45",
+  "languages": {
+    "Go": 1548515,
+    "RobotFramework": 176485,
+    "Python": 21989,
+    "Shell": 9401,
+    "Dockerfile": 6715,
+    "Mustache": 2120
+  },
+  "size": 1765225
+}

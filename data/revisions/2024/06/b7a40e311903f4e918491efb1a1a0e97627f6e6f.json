@@ -1,0 +1,18 @@
+{
+  "commit": "b7a40e311903f4e918491efb1a1a0e97627f6e6f",
+  "repo_url": "https://github.com/bazelbuild/intellij",
+  "date": "2024-06-05T06:16:48",
+  "languages": {
+    "Java": 10909040,
+    "Starlark": 427395,
+    "Python": 21577,
+    "Shell": 6506,
+    "HTML": 970,
+    "Kotlin": 695,
+    "C": 558,
+    "Scala": 481,
+    "C++": 230,
+    "Go": 154
+  },
+  "size": 11367606
+}

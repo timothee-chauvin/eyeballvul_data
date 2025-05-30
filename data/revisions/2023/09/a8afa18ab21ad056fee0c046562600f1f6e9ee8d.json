@@ -1,0 +1,15 @@
+{
+  "commit": "a8afa18ab21ad056fee0c046562600f1f6e9ee8d",
+  "repo_url": "https://github.com/writefreely/writefreely",
+  "date": "2023-09-22T17:12:47",
+  "languages": {
+    "Go": 578692,
+    "Less": 64807,
+    "JavaScript": 38772,
+    "Makefile": 5343,
+    "Shell": 4860,
+    "Dockerfile": 1277,
+    "HTML": 769
+  },
+  "size": 694520
+}

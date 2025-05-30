@@ -1,0 +1,12 @@
+{
+  "commit": "6d6d498910f0dc9fe227a921de16f4441a6dbf36",
+  "repo_url": "https://github.com/elrondnetwork/elrond-go",
+  "date": "2022-11-20T21:33:47",
+  "languages": {
+    "Go": 16513604,
+    "Shell": 47390,
+    "Makefile": 2889,
+    "Dockerfile": 2517
+  },
+  "size": 16566400
+}

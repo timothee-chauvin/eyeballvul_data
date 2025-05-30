@@ -1,0 +1,17 @@
+{
+  "commit": "8be363d0cf39f846e7484ebb7cef8ae7db6284f1",
+  "repo_url": "https://github.com/nimiq/core-rs-albatross",
+  "date": "2025-03-31T22:01:10",
+  "languages": {
+    "Rust": 5724600,
+    "TypeScript": 135349,
+    "Python": 82635,
+    "Shell": 12632,
+    "JavaScript": 9300,
+    "Jinja": 8445,
+    "Dockerfile": 4312,
+    "HTML": 1705,
+    "Makefile": 1214
+  },
+  "size": 5980192
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "937b61ee1a3b6117dd447a4922441872ee2d9b9d",
+  "repo_url": "https://github.com/atheme/atheme",
+  "date": "2022-01-30T21:23:47",
+  "languages": {
+    "C": 2661680,
+    "PHP": 221002,
+    "Perl": 193829,
+    "M4": 131811,
+    "Shell": 36542,
+    "Makefile": 31963,
+    "XS": 16790,
+    "Ruby": 671,
+    "sed": 370,
+    "Python": 232
+  },
+  "size": 3294890
+}

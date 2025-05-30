@@ -1,0 +1,11 @@
+{
+  "commit": "43b8a095dbea5a847efbced6f75a031a8489f27e",
+  "repo_url": "https://github.com/onosproject/rimedo-ts",
+  "date": "2022-05-10T15:15:05",
+  "languages": {
+    "Go": 98709,
+    "Makefile": 1605,
+    "Dockerfile": 1001
+  },
+  "size": 101315
+}

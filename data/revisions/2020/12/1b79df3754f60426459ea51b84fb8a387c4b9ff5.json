@@ -1,0 +1,20 @@
+{
+  "commit": "1b79df3754f60426459ea51b84fb8a387c4b9ff5",
+  "repo_url": "https://github.com/grafana/loki",
+  "date": "2020-12-23T21:57:03",
+  "languages": {
+    "Go": 2122801,
+    "Jsonnet": 92777,
+    "Ruby": 48909,
+    "Makefile": 22192,
+    "Shell": 17953,
+    "Yacc": 16696,
+    "Python": 13107,
+    "Dockerfile": 9605,
+    "HTML": 9250,
+    "Mustache": 8017,
+    "JavaScript": 2076,
+    "CSS": 1068
+  },
+  "size": 2364451
+}

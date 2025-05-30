@@ -1,0 +1,14 @@
+{
+  "commit": "b2bed6101823a62643e9e5974e7ee9a98dd04151",
+  "repo_url": "https://github.com/dingdangdog/cashbook",
+  "date": "2025-02-06T09:43:43",
+  "languages": {
+    "Vue": 172850,
+    "TypeScript": 83217,
+    "Dockerfile": 1509,
+    "CSS": 599,
+    "Shell": 523,
+    "JavaScript": 335
+  },
+  "size": 259033
+}

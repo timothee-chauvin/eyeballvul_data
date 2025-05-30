@@ -1,0 +1,18 @@
+{
+  "commit": "77da801c4870ab5d073b4d3dff6c5d251edf6eb2",
+  "repo_url": "https://github.com/loomio/loomio",
+  "date": "2017-06-03T22:59:33",
+  "languages": {
+    "Ruby": 1217533,
+    "CoffeeScript": 399603,
+    "Haml": 291436,
+    "SCSS": 174910,
+    "HTML": 9011,
+    "Gherkin": 6640,
+    "CSS": 5939,
+    "Dockerfile": 1341,
+    "JavaScript": 778,
+    "Procfile": 80
+  },
+  "size": 2107271
+}

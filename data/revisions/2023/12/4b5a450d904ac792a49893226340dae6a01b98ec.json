@@ -1,0 +1,11 @@
+{
+  "commit": "4b5a450d904ac792a49893226340dae6a01b98ec",
+  "repo_url": "https://github.com/typelevel/grackle",
+  "date": "2023-12-15T09:43:43",
+  "languages": {
+    "Scala": 1340208,
+    "PLpgSQL": 199612,
+    "Shell": 188
+  },
+  "size": 1540008
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "8bfc4fb63d8f2004368a089bdb9900bb03902ce2",
+  "repo_url": "https://github.com/nitrokey/nitrokey-3-firmware",
+  "date": "2024-12-06T12:59:00",
+  "languages": {
+    "Rust": 358912,
+    "C": 179674,
+    "Python": 33059,
+    "Makefile": 26769,
+    "Shell": 6271,
+    "Dockerfile": 3009,
+    "Nix": 1914,
+    "GDB": 283
+  },
+  "size": 609891
+}

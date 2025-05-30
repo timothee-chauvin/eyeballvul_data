@@ -1,0 +1,12 @@
+{
+  "commit": "e7ef9091150cce44ef63dd0e2a0a784ecb9a4497",
+  "repo_url": "https://github.com/coinremitter/opencart",
+  "date": "2023-12-05T05:01:00",
+  "languages": {
+    "PHP": 179909,
+    "Twig": 29963,
+    "CSS": 12688,
+    "JavaScript": 6660
+  },
+  "size": 229220
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "136c0b78a393c332f0600ed0a0e82f80459c0d26",
+  "repo_url": "https://github.com/jmix-framework/jmix",
+  "date": "2024-10-10T11:45:20",
+  "languages": {
+    "Java": 22624070,
+    "Groovy": 1974985,
+    "JavaScript": 710411,
+    "CSS": 93060,
+    "Kotlin": 45246,
+    "TypeScript": 40498,
+    "GAP": 20466,
+    "HTML": 6078,
+    "Shell": 3900,
+    "Dockerfile": 107,
+    "FreeMarker": 96
+  },
+  "size": 25518917
+}

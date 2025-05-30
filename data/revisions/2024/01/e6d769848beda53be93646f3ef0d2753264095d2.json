@@ -1,0 +1,12 @@
+{
+  "commit": "e6d769848beda53be93646f3ef0d2753264095d2",
+  "repo_url": "https://github.com/rmqtt/rmqtt",
+  "date": "2024-01-26T13:36:38",
+  "languages": {
+    "Rust": 887290,
+    "Shell": 6417,
+    "Dockerfile": 697,
+    "Makefile": 610
+  },
+  "size": 895014
+}

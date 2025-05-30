@@ -1,0 +1,17 @@
+{
+  "commit": "6a2f27c8a4f580f761522eb8d91098864591a8a7",
+  "repo_url": "https://github.com/emissary-ingress/emissary",
+  "date": "2021-06-24T02:20:49",
+  "languages": {
+    "Python": 1875829,
+    "Go": 1333672,
+    "Makefile": 149359,
+    "Shell": 137346,
+    "JavaScript": 33008,
+    "HTML": 27232,
+    "Dockerfile": 15384,
+    "Mustache": 2724,
+    "Smarty": 290
+  },
+  "size": 3574844
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "8d3439d484db529a2fe2536641ec9f32c8898f4b",
+  "repo_url": "https://github.com/obiba/agate",
+  "date": "2024-12-12T19:37:32",
+  "languages": {
+    "Java": 867391,
+    "FreeMarker": 202531,
+    "JavaScript": 182696,
+    "HTML": 103803,
+    "Less": 41674,
+    "CSS": 24681,
+    "Shell": 13242,
+    "Makefile": 3325,
+    "Batchfile": 1038
+  },
+  "size": 1440381
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "e1f9ca05b749a5e22ed3ed47c5499a4d13f36665",
+  "repo_url": "https://github.com/jokob-sk/netalertx",
+  "date": "2025-03-31T21:20:00",
+  "languages": {
+    "JavaScript": 1359506,
+    "Python": 665989,
+    "PHP": 510897,
+    "CSS": 395460,
+    "Shell": 18569,
+    "Hack": 10699,
+    "HTML": 2868,
+    "Dockerfile": 2582
+  },
+  "size": 2966570
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "fed5b30047378b03e21353effbb72bcfbb4b610a",
+  "repo_url": "https://github.com/runcodes-icmc/server",
+  "date": "2024-04-22T18:19:17",
+  "languages": {
+    "PHP": 976355,
+    "CSS": 227893,
+    "JavaScript": 190073,
+    "Dockerfile": 1858,
+    "Shell": 1383,
+    "Batchfile": 987,
+    "Makefile": 226
+  },
+  "size": 1398775
+}

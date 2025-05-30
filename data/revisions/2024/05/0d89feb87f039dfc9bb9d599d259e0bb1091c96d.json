@@ -1,0 +1,14 @@
+{
+  "commit": "0d89feb87f039dfc9bb9d599d259e0bb1091c96d",
+  "repo_url": "https://github.com/datadog/dd-trace-cpp",
+  "date": "2024-05-28T15:27:13",
+  "languages": {
+    "C++": 2275726,
+    "CMake": 18546,
+    "Shell": 12215,
+    "Starlark": 6400,
+    "Dockerfile": 1619,
+    "Makefile": 91
+  },
+  "size": 2314597
+}

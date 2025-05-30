@@ -1,0 +1,24 @@
+{
+  "commit": "c788f68f5cfbdb693658a3ac6f699807d737ed81",
+  "repo_url": "https://github.com/treeverse/lakefs",
+  "date": "2024-08-27T15:38:51",
+  "languages": {
+    "Go": 3915964,
+    "JavaScript": 367323,
+    "Java": 246537,
+    "Scala": 204319,
+    "Python": 186269,
+    "TypeScript": 95548,
+    "Thrift": 66950,
+    "Lua": 31121,
+    "Makefile": 19907,
+    "CSS": 18528,
+    "Shell": 12339,
+    "C++": 8023,
+    "Dockerfile": 5342,
+    "Batchfile": 800,
+    "HTML": 389,
+    "Ruby": 73
+  },
+  "size": 5179432
+}

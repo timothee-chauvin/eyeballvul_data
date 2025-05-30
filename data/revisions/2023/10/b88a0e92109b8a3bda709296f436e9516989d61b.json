@@ -1,0 +1,12 @@
+{
+  "commit": "b88a0e92109b8a3bda709296f436e9516989d61b",
+  "repo_url": "https://github.com/open-cluster-management-io/ocm",
+  "date": "2023-10-08T07:36:12",
+  "languages": {
+    "Go": 2926700,
+    "Makefile": 14267,
+    "Shell": 7590,
+    "Python": 4097
+  },
+  "size": 2952654
+}

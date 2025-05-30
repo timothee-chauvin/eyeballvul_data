@@ -1,0 +1,13 @@
+{
+  "commit": "5e24d4c5daff7f3db12a90594b9ad56e136fc374",
+  "repo_url": "https://github.com/opendcim/opendcim",
+  "date": "2023-10-15T12:25:10",
+  "languages": {
+    "PHP": 2764943,
+    "JavaScript": 472287,
+    "CSS": 26389,
+    "HTML": 4482,
+    "Hack": 215
+  },
+  "size": 3268316
+}

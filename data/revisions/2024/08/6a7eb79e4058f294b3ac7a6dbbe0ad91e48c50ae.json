@@ -1,0 +1,12 @@
+{
+  "commit": "6a7eb79e4058f294b3ac7a6dbbe0ad91e48c50ae",
+  "repo_url": "https://github.com/microsoft/terraform-provider-power-platform",
+  "date": "2024-08-01T16:25:46",
+  "languages": {
+    "Go": 1278122,
+    "Shell": 1193,
+    "Makefile": 700,
+    "HCL": 257
+  },
+  "size": 1280272
+}

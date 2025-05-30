@@ -1,0 +1,15 @@
+{
+  "commit": "e182799ca94e623f0914ec2d4786b06977b373d4",
+  "repo_url": "https://github.com/sbondco/watcharr",
+  "date": "2024-08-25T22:33:16",
+  "languages": {
+    "Svelte": 428284,
+    "Go": 339774,
+    "TypeScript": 61575,
+    "SCSS": 9367,
+    "JavaScript": 1160,
+    "Dockerfile": 873,
+    "HTML": 446
+  },
+  "size": 841479
+}
