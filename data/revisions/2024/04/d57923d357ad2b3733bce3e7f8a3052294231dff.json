@@ -1,0 +1,15 @@
+{
+  "commit": "d57923d357ad2b3733bce3e7f8a3052294231dff",
+  "repo_url": "https://github.com/tink-crypto/tink-cc",
+  "date": "2024-04-05T09:01:54",
+  "languages": {
+    "C++": 6211942,
+    "Starlark": 417666,
+    "CMake": 306235,
+    "Shell": 65544,
+    "C": 17279,
+    "Python": 5256,
+    "Batchfile": 2554
+  },
+  "size": 7026476
+}

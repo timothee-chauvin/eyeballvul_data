@@ -1,0 +1,15 @@
+{
+  "commit": "1ef9d7d7ae6cf93a528b6ca79c2ce150f4395250",
+  "repo_url": "https://github.com/fabiolb/fabio",
+  "date": "2025-02-28T03:18:45",
+  "languages": {
+    "Go": 578945,
+    "Makefile": 6736,
+    "Shell": 5345,
+    "Dockerfile": 1057,
+    "CSS": 970,
+    "Vim Script": 156,
+    "Perl": 123
+  },
+  "size": 593332
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "5f2773eda42083a4572d77069ed2c95e020aee95",
+  "repo_url": "https://github.com/openbmb/xagent",
+  "date": "2023-11-22T16:36:26",
+  "languages": {
+    "Python": 685807,
+    "Vue": 189815,
+    "TypeScript": 56890,
+    "CSS": 7856,
+    "Dockerfile": 4587,
+    "Shell": 2276,
+    "JavaScript": 1967,
+    "HTML": 1536
+  },
+  "size": 950734
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "ba54607e92dcd9441335b69d2fd3de16b4c9a556",
+  "repo_url": "https://github.com/forceu/gokapi",
+  "date": "2025-05-19T18:49:11",
+  "languages": {
+    "Go": 694342,
+    "JavaScript": 160167,
+    "CSS": 20860,
+    "HTML": 10594,
+    "Makefile": 3373,
+    "Shell": 2146,
+    "Dockerfile": 1542
+  },
+  "size": 893024
+}

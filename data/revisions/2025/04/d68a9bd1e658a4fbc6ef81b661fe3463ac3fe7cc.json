@@ -1,0 +1,15 @@
+{
+  "commit": "d68a9bd1e658a4fbc6ef81b661fe3463ac3fe7cc",
+  "repo_url": "https://github.com/defog-ai/introspect",
+  "date": "2025-04-24T03:33:58",
+  "languages": {
+    "Python": 789733,
+    "HTML": 487670,
+    "JavaScript": 101527,
+    "TypeScript": 69518,
+    "CSS": 7361,
+    "Shell": 4299,
+    "Dockerfile": 335
+  },
+  "size": 1460443
+}
