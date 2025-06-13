@@ -1,0 +1,17 @@
+{
+  "commit": "a231390264b1e39094a90764bd4e8af977a29d6c",
+  "repo_url": "https://github.com/wasp-lang/wasp",
+  "date": "2025-05-31T12:44:05",
+  "languages": {
+    "TypeScript": 541901,
+    "JavaScript": 280281,
+    "CSS": 48735,
+    "TeX": 16942,
+    "Shell": 10891,
+    "Dockerfile": 5492,
+    "Lex": 3861,
+    "HTML": 975,
+    "PowerShell": 81
+  },
+  "size": 909159
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "cd0cc085de0d37d234aa8cde5c912d50605e1fd5",
+  "repo_url": "https://github.com/tencentblueking/bk-cmdb",
+  "date": "2024-04-11T12:40:00",
+  "languages": {
+    "Go": 7931883,
+    "Vue": 2405076,
+    "JavaScript": 551609,
+    "Python": 37991,
+    "SCSS": 22701,
+    "Mustache": 19620,
+    "CSS": 11547,
+    "Shell": 9904,
+    "Makefile": 7324,
+    "HTML": 3039,
+    "Dockerfile": 1804
+  },
+  "size": 11002498
+}

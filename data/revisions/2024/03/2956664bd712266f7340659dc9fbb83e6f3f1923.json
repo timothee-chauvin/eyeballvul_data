@@ -1,0 +1,16 @@
+{
+  "commit": "2956664bd712266f7340659dc9fbb83e6f3f1923",
+  "repo_url": "https://github.com/kafbat/kafka-ui",
+  "date": "2024-03-20T14:36:37",
+  "languages": {
+    "Java": 1472572,
+    "TypeScript": 1066814,
+    "ANTLR": 17012,
+    "HTML": 1677,
+    "JavaScript": 1442,
+    "CSS": 714,
+    "Dockerfile": 677,
+    "SCSS": 27
+  },
+  "size": 2560935
+}

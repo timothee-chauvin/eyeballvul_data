@@ -1,0 +1,11 @@
+{
+  "commit": "707c7c10acd52cb94e959e76ae233d9b76af0854",
+  "repo_url": "https://github.com/coredns/coredns",
+  "date": "2025-03-31T19:52:36",
+  "languages": {
+    "Go": 1712577,
+    "Makefile": 1623,
+    "Dockerfile": 742
+  },
+  "size": 1714942
+}

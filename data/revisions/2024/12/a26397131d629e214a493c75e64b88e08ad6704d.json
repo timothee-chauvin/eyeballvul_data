@@ -1,0 +1,17 @@
+{
+  "commit": "a26397131d629e214a493c75e64b88e08ad6704d",
+  "repo_url": "https://github.com/mayswind/ezbookkeeping",
+  "date": "2024-12-21T15:15:14",
+  "languages": {
+    "Go": 1813099,
+    "Vue": 1615859,
+    "JavaScript": 708042,
+    "SCSS": 131214,
+    "CSS": 43905,
+    "HTML": 35652,
+    "Batchfile": 7849,
+    "Shell": 7010,
+    "Dockerfile": 1673
+  },
+  "size": 4364303
+}

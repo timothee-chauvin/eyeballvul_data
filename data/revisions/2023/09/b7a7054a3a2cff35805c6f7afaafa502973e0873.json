@@ -1,0 +1,11 @@
+{
+  "commit": "b7a7054a3a2cff35805c6f7afaafa502973e0873",
+  "repo_url": "https://github.com/jrohy/trojan",
+  "date": "2023-09-24T15:03:27",
+  "languages": {
+    "Go": 91304,
+    "Shell": 13314,
+    "Dockerfile": 1097
+  },
+  "size": 105715
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "f2016fdf6740a0f8b918dd13ba661d5778a18d2b",
+  "repo_url": "https://github.com/naver/billboard.js",
+  "date": "2025-03-20T02:24:16",
+  "languages": {
+    "TypeScript": 1804976,
+    "SCSS": 38975,
+    "JavaScript": 36179,
+    "Shell": 2920,
+    "CSS": 1103,
+    "HTML": 432
+  },
+  "size": 1884585
+}
