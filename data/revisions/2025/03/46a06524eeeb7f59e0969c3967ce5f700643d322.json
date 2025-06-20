@@ -1,0 +1,13 @@
+{
+  "commit": "46a06524eeeb7f59e0969c3967ce5f700643d322",
+  "repo_url": "https://github.com/conda-forge/conda-smithy",
+  "date": "2025-03-10T13:08:41",
+  "languages": {
+    "Python": 761862,
+    "Shell": 28824,
+    "Jinja": 2586,
+    "Xonsh": 705,
+    "Batchfile": 30
+  },
+  "size": 794007
+}

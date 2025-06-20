@@ -1,0 +1,17 @@
+{
+  "commit": "f76fcd14da759d29a484cb6200a12ccebfd162fc",
+  "repo_url": "https://github.com/passbolt/passbolt_api",
+  "date": "2017-08-31T12:29:33",
+  "languages": {
+    "PHP": 10629644,
+    "JavaScript": 6341897,
+    "HTML": 768391,
+    "CSS": 63109,
+    "EJS": 58831,
+    "Shell": 6296,
+    "Batchfile": 2785,
+    "Ruby": 886,
+    "Mustache": 637
+  },
+  "size": 17872476
+}

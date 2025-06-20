@@ -1,0 +1,13 @@
+{
+  "commit": "908ff8ecac3c96fc82787a780eb347a6b4e9d0fd",
+  "repo_url": "https://github.com/unisharp/laravel-filemanager",
+  "date": "2022-05-14T14:25:25",
+  "languages": {
+    "PHP": 209196,
+    "Blade": 31295,
+    "JavaScript": 24536,
+    "CSS": 6210,
+    "Makefile": 157
+  },
+  "size": 271394
+}

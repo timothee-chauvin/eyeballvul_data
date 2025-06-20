@@ -1,0 +1,15 @@
+{
+  "commit": "76aa97b0366dfd1b554d1882074b38248eef6912",
+  "repo_url": "https://github.com/steel-dev/steel-browser",
+  "date": "2025-02-20T19:18:01",
+  "languages": {
+    "TypeScript": 217794,
+    "CSS": 13668,
+    "EJS": 11391,
+    "JavaScript": 10845,
+    "Dockerfile": 4491,
+    "Shell": 1262,
+    "HTML": 957
+  },
+  "size": 260408
+}

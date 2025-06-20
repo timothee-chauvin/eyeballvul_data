@@ -1,0 +1,14 @@
+{
+  "commit": "5fdca32eb18c3f5c4648e3e63034377c04ba470d",
+  "repo_url": "https://github.com/benjaminjonard/koillection",
+  "date": "2025-02-25T08:50:41",
+  "languages": {
+    "PHP": 1502916,
+    "Twig": 353982,
+    "JavaScript": 88397,
+    "CSS": 65683,
+    "Shell": 11970,
+    "Dockerfile": 3363
+  },
+  "size": 2026311
+}

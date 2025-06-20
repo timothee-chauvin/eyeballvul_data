@@ -1,0 +1,13 @@
+{
+  "commit": "7752723e0acca88a5f8524e659722da5bb1ca74a",
+  "repo_url": "https://github.com/tiagorlampert/chaos",
+  "date": "2021-10-27T04:19:23",
+  "languages": {
+    "Go": 64784,
+    "HTML": 27496,
+    "JavaScript": 19453,
+    "Dockerfile": 661,
+    "Procfile": 14
+  },
+  "size": 112408
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "b3277667200d6c065b71de78b1666acbd406703a",
+  "repo_url": "https://github.com/weibocom/rill-flow",
+  "date": "2024-12-16T03:12:22",
+  "languages": {
+    "Java": 1227999,
+    "TypeScript": 840280,
+    "Vue": 641795,
+    "Groovy": 493196,
+    "Less": 45286,
+    "JavaScript": 40248,
+    "CSS": 12312,
+    "Python": 7875,
+    "Lua": 7253,
+    "HTML": 4246,
+    "Dockerfile": 3969,
+    "SCSS": 3804,
+    "Shell": 873
+  },
+  "size": 3329136
+}

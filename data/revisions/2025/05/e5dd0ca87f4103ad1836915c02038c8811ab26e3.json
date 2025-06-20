@@ -1,0 +1,14 @@
+{
+  "commit": "e5dd0ca87f4103ad1836915c02038c8811ab26e3",
+  "repo_url": "https://github.com/frdel/agent-zero",
+  "date": "2025-05-15T18:29:49",
+  "languages": {
+    "Python": 435895,
+    "JavaScript": 226112,
+    "HTML": 127732,
+    "CSS": 100024,
+    "Shell": 7394,
+    "Dockerfile": 1443
+  },
+  "size": 898600
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "89546d7683acbd79a660d390480b8eb0bec2d006",
+  "repo_url": "https://github.com/openlistteam/openlist-frontend",
+  "date": "2025-06-16T15:33:42",
+  "languages": {
+    "TypeScript": 501896,
+    "JavaScript": 225055,
+    "CSS": 25423,
+    "HTML": 18576,
+    "Shell": 5152
+  },
+  "size": 776102
+}

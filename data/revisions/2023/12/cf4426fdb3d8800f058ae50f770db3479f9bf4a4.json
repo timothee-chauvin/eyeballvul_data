@@ -1,0 +1,14 @@
+{
+  "commit": "cf4426fdb3d8800f058ae50f770db3479f9bf4a4",
+  "repo_url": "https://github.com/data61/mp-spdz",
+  "date": "2023-12-14T01:17:54",
+  "languages": {
+    "C++": 2317863,
+    "Python": 1176629,
+    "C": 50178,
+    "Shell": 18851,
+    "Makefile": 12157,
+    "Dockerfile": 7873
+  },
+  "size": 3583551
+}

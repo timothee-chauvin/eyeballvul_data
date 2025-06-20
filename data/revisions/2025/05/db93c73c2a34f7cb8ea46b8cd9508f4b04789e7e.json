@@ -1,0 +1,15 @@
+{
+  "commit": "db93c73c2a34f7cb8ea46b8cd9508f4b04789e7e",
+  "repo_url": "https://github.com/themanojdesai/python-a2a",
+  "date": "2025-05-11T09:29:58",
+  "languages": {
+    "Python": 1124057,
+    "JavaScript": 350819,
+    "HTML": 106976,
+    "CSS": 84011,
+    "Jupyter Notebook": 73685,
+    "Shell": 20624,
+    "Makefile": 2905
+  },
+  "size": 1763077
+}

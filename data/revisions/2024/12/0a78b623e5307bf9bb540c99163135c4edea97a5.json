@@ -1,0 +1,17 @@
+{
+  "commit": "0a78b623e5307bf9bb540c99163135c4edea97a5",
+  "repo_url": "https://github.com/iop-apl-uw/basestation3",
+  "date": "2024-12-12T15:35:54",
+  "languages": {
+    "Python": 3332475,
+    "HTML": 423632,
+    "JavaScript": 112304,
+    "C": 68614,
+    "CSS": 55540,
+    "Shell": 19373,
+    "MATLAB": 16682,
+    "Makefile": 4698,
+    "Dockerfile": 3874
+  },
+  "size": 4037192
+}

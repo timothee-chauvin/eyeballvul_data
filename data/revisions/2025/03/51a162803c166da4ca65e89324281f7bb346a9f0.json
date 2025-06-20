@@ -1,0 +1,15 @@
+{
+  "commit": "51a162803c166da4ca65e89324281f7bb346a9f0",
+  "repo_url": "https://github.com/conda/constructor",
+  "date": "2025-03-07T17:53:09",
+  "languages": {
+    "Python": 274151,
+    "Shell": 40935,
+    "NSIS": 26338,
+    "Rich Text Format": 2654,
+    "Xonsh": 1781,
+    "PowerShell": 495,
+    "Makefile": 62
+  },
+  "size": 346416
+}

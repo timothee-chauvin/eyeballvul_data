@@ -1,0 +1,17 @@
+{
+  "commit": "0b4a1ad3d1c2bcf198f9e21cab6fabbee3f35b10",
+  "repo_url": "https://github.com/surveyjs/survey-creator",
+  "date": "2024-02-28T06:52:44",
+  "languages": {
+    "TypeScript": 11060901,
+    "HTML": 264139,
+    "SCSS": 200368,
+    "JavaScript": 153981,
+    "Vue": 97069,
+    "Batchfile": 2339,
+    "Pug": 1144,
+    "Shell": 157,
+    "CSS": 93
+  },
+  "size": 11780191
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "17f253a767f6b5b7813ae33f12bc79c479576cdc",
+  "repo_url": "https://github.com/stefanberger/libtpms",
+  "date": "2024-11-14T12:51:51",
+  "languages": {
+    "C": 7824759,
+    "C++": 30354,
+    "Makefile": 21760,
+    "M4": 17593,
+    "Shell": 9996
+  },
+  "size": 7904462
+}
