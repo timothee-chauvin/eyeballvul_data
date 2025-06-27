@@ -1,0 +1,13 @@
+{
+  "commit": "ad8fe9c20cb963d4046f5a5df6ac1bd693cd5f5b",
+  "repo_url": "https://github.com/powsybl/powsybl-core",
+  "date": "2025-05-05T15:37:12",
+  "languages": {
+    "Java": 15898199,
+    "Groovy": 134129,
+    "Shell": 12708,
+    "Batchfile": 1699,
+    "JavaScript": 360
+  },
+  "size": 16047095
+}

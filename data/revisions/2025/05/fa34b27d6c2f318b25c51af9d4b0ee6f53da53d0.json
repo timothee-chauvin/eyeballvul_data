@@ -1,0 +1,12 @@
+{
+  "commit": "fa34b27d6c2f318b25c51af9d4b0ee6f53da53d0",
+  "repo_url": "https://github.com/xataio/agent",
+  "date": "2025-05-20T07:21:43",
+  "languages": {
+    "TypeScript": 694342,
+    "JavaScript": 14057,
+    "Dockerfile": 2058,
+    "CSS": 251
+  },
+  "size": 710708
+}
