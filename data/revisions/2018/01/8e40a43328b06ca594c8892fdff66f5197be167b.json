@@ -1,0 +1,12 @@
+{
+  "commit": "8e40a43328b06ca594c8892fdff66f5197be167b",
+  "repo_url": "https://github.com/apache/seatunnel",
+  "date": "2018-01-06T08:54:29",
+  "languages": {
+    "Scala": 110046,
+    "Java": 30494,
+    "ANTLR": 6710,
+    "Shell": 3352
+  },
+  "size": 150602
+}

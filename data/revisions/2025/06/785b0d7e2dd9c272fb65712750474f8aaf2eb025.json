@@ -1,0 +1,11 @@
+{
+  "commit": "785b0d7e2dd9c272fb65712750474f8aaf2eb025",
+  "repo_url": "https://github.com/restdb/codehooks-mcp-server",
+  "date": "2025-06-16T12:21:34",
+  "languages": {
+    "JavaScript": 64363,
+    "Dockerfile": 834,
+    "Shell": 472
+  },
+  "size": 65669
+}

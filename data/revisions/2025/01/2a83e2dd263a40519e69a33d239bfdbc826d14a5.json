@@ -1,0 +1,16 @@
+{
+  "commit": "2a83e2dd263a40519e69a33d239bfdbc826d14a5",
+  "repo_url": "https://github.com/mikopbx/core",
+  "date": "2025-01-06T04:05:03",
+  "languages": {
+    "PHP": 5626209,
+    "JavaScript": 687815,
+    "Roff": 171759,
+    "Volt": 167456,
+    "Lua": 130267,
+    "Shell": 127937,
+    "CSS": 17596,
+    "Python": 1957
+  },
+  "size": 6930996
+}

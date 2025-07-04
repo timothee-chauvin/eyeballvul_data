@@ -1,0 +1,16 @@
+{
+  "commit": "3acdeeb8710b7bb9f682d6553b4e32e0ad0a72b4",
+  "repo_url": "https://github.com/hkuds/lightrag",
+  "date": "2025-06-24T03:33:20",
+  "languages": {
+    "Python": 1183538,
+    "TypeScript": 400735,
+    "Shell": 21740,
+    "JavaScript": 9491,
+    "CSS": 4997,
+    "Dockerfile": 1582,
+    "Smarty": 958,
+    "HTML": 539
+  },
+  "size": 1623580
+}

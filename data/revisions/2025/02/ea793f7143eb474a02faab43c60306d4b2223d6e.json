@@ -1,0 +1,13 @@
+{
+  "commit": "ea793f7143eb474a02faab43c60306d4b2223d6e",
+  "repo_url": "https://github.com/erupts/erupt",
+  "date": "2025-02-22T07:41:16",
+  "languages": {
+    "Java": 2827672,
+    "HTML": 120453,
+    "FreeMarker": 6967,
+    "Shell": 1991,
+    "Dockerfile": 572
+  },
+  "size": 2957655
+}

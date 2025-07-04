@@ -1,0 +1,10 @@
+{
+  "commit": "0124d4a09ab3dabdd9cec02accb43336ecf8d9e5",
+  "repo_url": "https://github.com/juliacomputing/htmlsanitizer.jl",
+  "date": "2020-04-30T18:20:27",
+  "languages": {
+    "Julia": 16899,
+    "HTML": 6353
+  },
+  "size": 23252
+}

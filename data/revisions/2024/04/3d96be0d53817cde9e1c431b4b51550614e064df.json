@@ -1,0 +1,16 @@
+{
+  "commit": "3d96be0d53817cde9e1c431b4b51550614e064df",
+  "repo_url": "https://github.com/external-secrets/external-secrets",
+  "date": "2024-04-18T08:12:15",
+  "languages": {
+    "Go": 2707025,
+    "HCL": 28331,
+    "Makefile": 18750,
+    "Shell": 12672,
+    "Smarty": 8690,
+    "Dockerfile": 3759,
+    "Python": 3286,
+    "HTML": 195
+  },
+  "size": 2782708
+}

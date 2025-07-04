@@ -1,0 +1,11 @@
+{
+  "commit": "f30169ec3a2520990e5467c19ef42ea7d6d9270e",
+  "repo_url": "https://github.com/cyanheads/git-mcp-server",
+  "date": "2025-06-21T00:33:24",
+  "languages": {
+    "TypeScript": 529515,
+    "JavaScript": 26570,
+    "Dockerfile": 1473
+  },
+  "size": 557558
+}

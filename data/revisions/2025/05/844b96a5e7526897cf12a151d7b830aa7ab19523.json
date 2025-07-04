@@ -1,0 +1,14 @@
+{
+  "commit": "844b96a5e7526897cf12a151d7b830aa7ab19523",
+  "repo_url": "https://github.com/convoypanel/panel",
+  "date": "2025-05-03T22:26:10",
+  "languages": {
+    "PHP": 607132,
+    "TypeScript": 573439,
+    "CSS": 10720,
+    "Dockerfile": 4383,
+    "JavaScript": 2365,
+    "Blade": 1445
+  },
+  "size": 1199484
+}

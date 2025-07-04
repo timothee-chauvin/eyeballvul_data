@@ -1,0 +1,15 @@
+{
+  "commit": "5c2e8adc3ee2f4f7e130e22c22352fec82529529",
+  "repo_url": "https://github.com/t-oster/visicut",
+  "date": "2024-05-01T08:21:51",
+  "languages": {
+    "Java": 1159246,
+    "Shell": 55730,
+    "NSIS": 29146,
+    "Python": 15975,
+    "LiveScript": 7017,
+    "Makefile": 2568,
+    "Dockerfile": 1001
+  },
+  "size": 1270683
+}

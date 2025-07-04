@@ -1,0 +1,12 @@
+{
+  "commit": "88fe891407e467902b3a4220c5e314c3154df1e6",
+  "repo_url": "https://github.com/pluginsglpi/escalade",
+  "date": "2024-11-27T07:47:17",
+  "languages": {
+    "PHP": 169321,
+    "Twig": 4964,
+    "CSS": 2335,
+    "JavaScript": 1549
+  },
+  "size": 178169
+}

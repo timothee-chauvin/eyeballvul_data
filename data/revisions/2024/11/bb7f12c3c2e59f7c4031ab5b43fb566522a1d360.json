@@ -1,0 +1,17 @@
+{
+  "commit": "bb7f12c3c2e59f7c4031ab5b43fb566522a1d360",
+  "repo_url": "https://github.com/gooaclok819/sublinkx",
+  "date": "2024-11-01T17:03:05",
+  "languages": {
+    "Vue": 144320,
+    "TypeScript": 131375,
+    "Go": 88232,
+    "JavaScript": 10722,
+    "Shell": 7493,
+    "SCSS": 2950,
+    "HTML": 2545,
+    "CSS": 520,
+    "Dockerfile": 303
+  },
+  "size": 388460
+}

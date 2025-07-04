@@ -1,0 +1,12 @@
+{
+  "commit": "1a805393001f472aa026b2be1960702a0c27c7e2",
+  "repo_url": "https://github.com/xiaoyunjie/openvpn-cms-flask",
+  "date": "2024-09-10T07:54:10",
+  "languages": {
+    "Python": 86181,
+    "Shell": 12249,
+    "Dockerfile": 1575,
+    "Makefile": 452
+  },
+  "size": 100457
+}

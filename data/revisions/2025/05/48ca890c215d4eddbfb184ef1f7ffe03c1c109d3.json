@@ -1,0 +1,14 @@
+{
+  "commit": "48ca890c215d4eddbfb184ef1f7ffe03c1c109d3",
+  "repo_url": "https://github.com/roocodeinc/roo-code",
+  "date": "2025-05-22T20:02:04",
+  "languages": {
+    "TypeScript": 3932086,
+    "CSS": 57900,
+    "JavaScript": 49618,
+    "Shell": 10884,
+    "HTML": 282,
+    "MDX": 176
+  },
+  "size": 4050946
+}

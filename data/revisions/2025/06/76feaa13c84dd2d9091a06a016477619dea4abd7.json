@@ -1,0 +1,16 @@
+{
+  "commit": "76feaa13c84dd2d9091a06a016477619dea4abd7",
+  "repo_url": "https://github.com/gotson/komga",
+  "date": "2025-06-23T03:02:42",
+  "languages": {
+    "Kotlin": 2178685,
+    "Vue": 885470,
+    "TypeScript": 208315,
+    "HTML": 3511,
+    "Smarty": 2592,
+    "JavaScript": 2232,
+    "CSS": 415,
+    "Sass": 309
+  },
+  "size": 3281529
+}

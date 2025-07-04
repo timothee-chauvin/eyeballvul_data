@@ -1,0 +1,29 @@
+{
+  "commit": "b8cfc6555bc5f3ce93e523c706635d19c57d8523",
+  "repo_url": "https://github.com/janssenproject/jans",
+  "date": "2025-05-20T10:46:13",
+  "languages": {
+    "Java": 18238404,
+    "Python": 2390689,
+    "HTML": 1420632,
+    "Rust": 802626,
+    "Go": 775977,
+    "JavaScript": 592691,
+    "Gherkin": 153698,
+    "Dockerfile": 118205,
+    "Shell": 116690,
+    "CSS": 104421,
+    "Mustache": 62718,
+    "Swift": 25611,
+    "Kotlin": 20617,
+    "Makefile": 13933,
+    "HCL": 13683,
+    "FreeMarker": 11056,
+    "ANTLR": 5959,
+    "Groovy": 265,
+    "Roff": 220,
+    "Ruby": 96,
+    "Batchfile": 78
+  },
+  "size": 24868269
+}

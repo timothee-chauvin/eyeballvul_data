@@ -1,0 +1,16 @@
+{
+  "commit": "4ba20a1f92b68a420b9aa646b09da5516883ee01",
+  "repo_url": "https://github.com/asrashley/dash-live",
+  "date": "2022-03-01T11:33:33",
+  "languages": {
+    "Python": 556600,
+    "JavaScript": 73438,
+    "Less": 50303,
+    "CSS": 30294,
+    "HTML": 23372,
+    "Shell": 5906,
+    "Batchfile": 569,
+    "Makefile": 70
+  },
+  "size": 740552
+}

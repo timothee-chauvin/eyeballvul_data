@@ -1,0 +1,15 @@
+{
+  "commit": "49bfff9fa5a6acb50c8f51710a3e4005daf0ca32",
+  "repo_url": "https://github.com/mhsanaei/3x-ui",
+  "date": "2025-02-04T10:38:57",
+  "languages": {
+    "JavaScript": 2780306,
+    "HTML": 481681,
+    "Go": 318957,
+    "Shell": 78475,
+    "CSS": 3458,
+    "Dockerfile": 1392,
+    "Less": 183
+  },
+  "size": 3664452
+}

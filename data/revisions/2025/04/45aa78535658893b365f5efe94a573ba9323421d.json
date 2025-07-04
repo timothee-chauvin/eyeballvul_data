@@ -1,0 +1,15 @@
+{
+  "commit": "45aa78535658893b365f5efe94a573ba9323421d",
+  "repo_url": "https://github.com/allure-framework/allure2",
+  "date": "2025-04-22T16:19:57",
+  "languages": {
+    "Java": 783516,
+    "JavaScript": 136706,
+    "SCSS": 33778,
+    "Handlebars": 30788,
+    "HTML": 10269,
+    "FreeMarker": 2396,
+    "CSS": 27
+  },
+  "size": 997480
+}

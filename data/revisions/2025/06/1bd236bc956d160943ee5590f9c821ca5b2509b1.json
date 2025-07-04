@@ -1,0 +1,11 @@
+{
+  "commit": "1bd236bc956d160943ee5590f9c821ca5b2509b1",
+  "repo_url": "https://github.com/mbuesch/letmein",
+  "date": "2025-06-14T18:08:33",
+  "languages": {
+    "Rust": 216247,
+    "Shell": 12793,
+    "Batchfile": 650
+  },
+  "size": 229690
+}

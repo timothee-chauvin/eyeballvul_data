@@ -1,0 +1,10 @@
+{
+  "commit": "c29fc28e7927f11614d6f7e0fbf108a5c75750bb",
+  "repo_url": "https://github.com/go-viper/mapstructure",
+  "date": "2024-09-22T22:42:12",
+  "languages": {
+    "Go": 201109,
+    "Nix": 973
+  },
+  "size": 202082
+}

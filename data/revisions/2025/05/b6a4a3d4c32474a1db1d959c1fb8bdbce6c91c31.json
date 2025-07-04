@@ -1,0 +1,19 @@
+{
+  "commit": "b6a4a3d4c32474a1db1d959c1fb8bdbce6c91c31",
+  "repo_url": "https://github.com/visionatrix/visionatrix",
+  "date": "2025-05-30T06:15:26",
+  "languages": {
+    "Python": 562167,
+    "Vue": 229982,
+    "TypeScript": 72714,
+    "HTML": 15897,
+    "Makefile": 4347,
+    "Dockerfile": 1809,
+    "JavaScript": 1582,
+    "Shell": 736,
+    "Mako": 621,
+    "CSS": 311,
+    "Batchfile": 149
+  },
+  "size": 890315
+}
