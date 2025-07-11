@@ -1,0 +1,17 @@
+{
+  "commit": "7609cd32e4a76845fc1ab2bc78fd4b6fc151ddda",
+  "repo_url": "https://github.com/dudanogueira/n8n",
+  "date": "2022-01-22T17:59:07",
+  "languages": {
+    "TypeScript": 11050763,
+    "Vue": 605313,
+    "SCSS": 281835,
+    "JavaScript": 109751,
+    "HTML": 43987,
+    "MDX": 5744,
+    "Dockerfile": 3564,
+    "Shell": 1516,
+    "Batchfile": 71
+  },
+  "size": 12102544
+}

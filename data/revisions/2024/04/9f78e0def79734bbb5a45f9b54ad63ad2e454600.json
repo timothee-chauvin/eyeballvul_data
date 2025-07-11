@@ -1,0 +1,12 @@
+{
+  "commit": "9f78e0def79734bbb5a45f9b54ad63ad2e454600",
+  "repo_url": "https://github.com/uptrace/bun",
+  "date": "2024-04-02T14:42:39",
+  "languages": {
+    "Go": 657807,
+    "Shell": 3256,
+    "Makefile": 758,
+    "JavaScript": 66
+  },
+  "size": 661887
+}

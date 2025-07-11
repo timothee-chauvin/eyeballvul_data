@@ -1,0 +1,15 @@
+{
+  "commit": "bf3d272df3916a0c34575ac8286cb0fe672fd0d4",
+  "repo_url": "https://github.com/samsung/rlottie",
+  "date": "2020-08-19T02:57:21",
+  "languages": {
+    "C++": 1436291,
+    "C": 438729,
+    "Assembly": 19930,
+    "Meson": 12541,
+    "CMake": 11428,
+    "HTML": 1131,
+    "Shell": 942
+  },
+  "size": 1920992
+}

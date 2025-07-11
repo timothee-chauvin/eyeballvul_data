@@ -1,0 +1,15 @@
+{
+  "commit": "b7e22588e8d978939f2c8c7da5bb13d1467facbd",
+  "repo_url": "https://github.com/openzipkin/zipkin",
+  "date": "2025-04-27T20:01:20",
+  "languages": {
+    "Java": 1967585,
+    "TypeScript": 228494,
+    "JavaScript": 226696,
+    "Shell": 61058,
+    "Dockerfile": 33946,
+    "HTML": 779,
+    "CSS": 126
+  },
+  "size": 2518684
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "7fd7fb88be2cb2a03702915d05d03bdf6bc8ac80",
+  "repo_url": "https://github.com/alfonsograziano/node-code-sandbox-mcp",
+  "date": "2025-06-07T14:22:05",
+  "languages": {
+    "TypeScript": 155118,
+    "JavaScript": 12178,
+    "Dockerfile": 2702,
+    "HTML": 378,
+    "CSS": 59
+  },
+  "size": 170435
+}

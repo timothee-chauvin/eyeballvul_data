@@ -1,0 +1,18 @@
+{
+  "commit": "253a3da010022452761cc6bc3795415162adbeb0",
+  "repo_url": "https://github.com/idokd/wp-simple-payment",
+  "date": "2024-11-11T19:20:14",
+  "languages": {
+    "PHP": 928260,
+    "API Blueprint": 44158,
+    "JavaScript": 29017,
+    "HTML": 26080,
+    "CSS": 23067,
+    "Shell": 6053,
+    "Hack": 2165,
+    "Smarty": 1929,
+    "SCSS": 616,
+    "Python": 163
+  },
+  "size": 1061508
+}
