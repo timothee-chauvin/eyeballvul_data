@@ -1,0 +1,12 @@
+{
+  "commit": "b755eac3a84f465cdd6c7e0a517977ad7711f1ee",
+  "repo_url": "https://github.com/onosproject/onos-kpimon",
+  "date": "2023-07-18T00:18:22",
+  "languages": {
+    "Go": 81034,
+    "Shell": 4272,
+    "Makefile": 3044,
+    "Dockerfile": 949
+  },
+  "size": 89299
+}

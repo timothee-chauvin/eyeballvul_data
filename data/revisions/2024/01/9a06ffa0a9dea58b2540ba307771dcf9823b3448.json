@@ -1,0 +1,11 @@
+{
+  "commit": "9a06ffa0a9dea58b2540ba307771dcf9823b3448",
+  "repo_url": "https://github.com/livehelperchat/lhc-php-resque",
+  "date": "2024-01-02T11:47:32",
+  "languages": {
+    "PHP": 33113,
+    "Shell": 1120,
+    "Hack": 109
+  },
+  "size": 34342
+}

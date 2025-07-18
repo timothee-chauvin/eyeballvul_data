@@ -1,0 +1,14 @@
+{
+  "commit": "a5bd62b9ee2c9e15dee97a5cb7026736c8467269",
+  "repo_url": "https://github.com/saleem-hadad/larecipe",
+  "date": "2025-03-20T00:39:07",
+  "languages": {
+    "PHP": 74304,
+    "JavaScript": 43603,
+    "Blade": 19558,
+    "Vue": 11398,
+    "SCSS": 11019,
+    "CSS": 478
+  },
+  "size": 160360
+}

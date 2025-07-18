@@ -1,0 +1,14 @@
+{
+  "commit": "631cb8bbe5d37c5b9413dd1bfad10e2a3981ac74",
+  "repo_url": "https://github.com/gitroomhq/postiz-app",
+  "date": "2025-07-11T07:15:41",
+  "languages": {
+    "TypeScript": 2109077,
+    "JavaScript": 533805,
+    "CSS": 400130,
+    "SCSS": 14128,
+    "Shell": 657,
+    "HTML": 629
+  },
+  "size": 3058426
+}

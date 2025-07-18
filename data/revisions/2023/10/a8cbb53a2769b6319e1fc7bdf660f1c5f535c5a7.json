@@ -1,0 +1,11 @@
+{
+  "commit": "a8cbb53a2769b6319e1fc7bdf660f1c5f535c5a7",
+  "repo_url": "https://github.com/onosproject/onos-lib-go",
+  "date": "2023-10-12T15:44:40",
+  "languages": {
+    "Go": 467371,
+    "Makefile": 1949,
+    "Shell": 1186
+  },
+  "size": 470506
+}

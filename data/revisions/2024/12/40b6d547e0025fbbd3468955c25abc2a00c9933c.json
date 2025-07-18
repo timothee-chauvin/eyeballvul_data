@@ -1,0 +1,11 @@
+{
+  "commit": "40b6d547e0025fbbd3468955c25abc2a00c9933c",
+  "repo_url": "https://github.com/ctfer-io/chall-manager",
+  "date": "2024-12-29T15:07:09",
+  "languages": {
+    "Go": 203400,
+    "Shell": 3166,
+    "Makefile": 256
+  },
+  "size": 206822
+}

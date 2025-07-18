@@ -1,0 +1,14 @@
+{
+  "commit": "2f9913e297cfe5b82277f32052f420de306d3e42",
+  "repo_url": "https://github.com/bitnami/charts",
+  "date": "2023-04-21T16:17:33",
+  "languages": {
+    "Mustache": 571813,
+    "Smarty": 284035,
+    "JavaScript": 161300,
+    "Go": 81398,
+    "Jupyter Notebook": 1004,
+    "Shell": 448
+  },
+  "size": 1099998
+}

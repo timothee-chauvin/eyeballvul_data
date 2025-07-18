@@ -1,0 +1,20 @@
+{
+  "commit": "9931301afbe814f6efe0ecb4ee3c196fa62aa8c5",
+  "repo_url": "https://github.com/pytorch/executorch",
+  "date": "2024-04-16T21:21:28",
+  "languages": {
+    "C++": 4417680,
+    "Python": 3457794,
+    "Objective-C++": 440002,
+    "Starlark": 304997,
+    "CMake": 105226,
+    "Shell": 86730,
+    "Objective-C": 79890,
+    "GLSL": 71681,
+    "C": 41806,
+    "Java": 39861,
+    "Swift": 3387,
+    "Dockerfile": 2826
+  },
+  "size": 9051880
+}

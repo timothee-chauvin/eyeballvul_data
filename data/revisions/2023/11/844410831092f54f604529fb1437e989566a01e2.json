@@ -1,0 +1,16 @@
+{
+  "commit": "844410831092f54f604529fb1437e989566a01e2",
+  "repo_url": "https://github.com/technitiumsoftware/dnsserver",
+  "date": "2023-11-06T19:34:57",
+  "languages": {
+    "C#": 2472112,
+    "JavaScript": 526192,
+    "HTML": 462638,
+    "Inno Setup": 28253,
+    "CSS": 7032,
+    "Shell": 4091,
+    "Dockerfile": 923,
+    "Batchfile": 23
+  },
+  "size": 3501264
+}

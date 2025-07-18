@@ -1,0 +1,14 @@
+{
+  "commit": "254abd505ce59c7ac6c6b0b78a71472af4c7c281",
+  "repo_url": "https://github.com/dradis/dradis-ce",
+  "date": "2023-09-12T20:46:21",
+  "languages": {
+    "Ruby": 817694,
+    "HTML": 272460,
+    "JavaScript": 91017,
+    "SCSS": 81652,
+    "CoffeeScript": 55233,
+    "Shell": 2610
+  },
+  "size": 1320666
+}

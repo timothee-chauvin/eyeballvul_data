@@ -1,0 +1,18 @@
+{
+  "commit": "05abc6d5897388636bb532b166e49f66dbb3c94e",
+  "repo_url": "https://github.com/kubernetes-sigs/headlamp",
+  "date": "2025-05-30T13:06:38",
+  "languages": {
+    "TypeScript": 2753822,
+    "Go": 495015,
+    "JavaScript": 198292,
+    "Shell": 14580,
+    "Makefile": 7373,
+    "Dockerfile": 6033,
+    "CSS": 3018,
+    "HTML": 1939,
+    "Smarty": 1792,
+    "PowerShell": 788
+  },
+  "size": 3482652
+}

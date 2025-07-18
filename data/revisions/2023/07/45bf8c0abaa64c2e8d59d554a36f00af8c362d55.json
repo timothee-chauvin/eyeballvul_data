@@ -1,0 +1,10 @@
+{
+  "commit": "45bf8c0abaa64c2e8d59d554a36f00af8c362d55",
+  "repo_url": "https://github.com/onosproject/onos-ric-sdk-go",
+  "date": "2023-07-17T23:45:52",
+  "languages": {
+    "Go": 107839,
+    "Makefile": 1433
+  },
+  "size": 109272
+}

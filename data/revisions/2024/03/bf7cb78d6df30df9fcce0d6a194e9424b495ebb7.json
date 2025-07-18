@@ -1,0 +1,18 @@
+{
+  "commit": "bf7cb78d6df30df9fcce0d6a194e9424b495ebb7",
+  "repo_url": "https://github.com/stashapp/stash",
+  "date": "2024-03-13T03:14:45",
+  "languages": {
+    "Go": 3146111,
+    "TypeScript": 2091104,
+    "SCSS": 116189,
+    "Makefile": 12398,
+    "Dockerfile": 7866,
+    "Python": 6081,
+    "JavaScript": 5203,
+    "CSS": 3034,
+    "HTML": 2025,
+    "Shell": 2010
+  },
+  "size": 5392021
+}
