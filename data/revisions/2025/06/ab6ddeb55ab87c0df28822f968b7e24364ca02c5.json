@@ -1,0 +1,12 @@
+{
+  "commit": "ab6ddeb55ab87c0df28822f968b7e24364ca02c5",
+  "repo_url": "https://github.com/translated/lara-mcp",
+  "date": "2025-06-20T14:07:49",
+  "languages": {
+    "TypeScript": 34773,
+    "JavaScript": 9298,
+    "Shell": 2083,
+    "Dockerfile": 557
+  },
+  "size": 46711
+}

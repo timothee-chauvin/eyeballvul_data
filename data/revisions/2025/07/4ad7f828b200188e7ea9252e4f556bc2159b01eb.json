@@ -1,0 +1,11 @@
+{
+  "commit": "4ad7f828b200188e7ea9252e4f556bc2159b01eb",
+  "repo_url": "https://github.com/diracgrid/diracx-web",
+  "date": "2025-07-16T07:02:50",
+  "languages": {
+    "TypeScript": 310305,
+    "JavaScript": 12910,
+    "Dockerfile": 2106
+  },
+  "size": 325321
+}

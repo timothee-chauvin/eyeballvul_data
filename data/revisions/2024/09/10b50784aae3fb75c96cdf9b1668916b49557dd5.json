@@ -1,0 +1,12 @@
+{
+  "commit": "10b50784aae3fb75c96cdf9b1668916b49557dd5",
+  "repo_url": "https://github.com/iputils/iputils",
+  "date": "2024-09-05T10:26:47",
+  "languages": {
+    "C": 204376,
+    "Shell": 15061,
+    "Meson": 13018,
+    "Makefile": 214
+  },
+  "size": 232669
+}
