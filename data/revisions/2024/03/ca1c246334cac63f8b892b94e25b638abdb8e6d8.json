@@ -1,0 +1,15 @@
+{
+  "commit": "ca1c246334cac63f8b892b94e25b638abdb8e6d8",
+  "repo_url": "https://github.com/lf-edge/ekuiper",
+  "date": "2024-03-15T09:42:04",
+  "languages": {
+    "Go": 3948680,
+    "C": 51097,
+    "Shell": 38383,
+    "Python": 32456,
+    "Makefile": 14961,
+    "Mustache": 2129,
+    "Dockerfile": 1782
+  },
+  "size": 4089488
+}

@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-159",
+  "published": "2022-03-02T04:15:00",
+  "modified": "2023-11-08T04:07:36.279757",
+  "details": "Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository scrapy/scrapy prior to 2.6.1.",
+  "repo_url": "https://github.com/scrapy/scrapy",
+  "cwes": [],
+  "commits": [
+    "e63188cbf753d560e43d8489c821bd6eb9fe54e9"
+  ]
+}

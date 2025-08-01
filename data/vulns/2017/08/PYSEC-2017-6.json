@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-6",
+  "published": "2017-08-18T16:29:00",
+  "modified": "2024-05-01T11:26:51.158710",
+  "details": "attic before 0.15 does not confirm unencrypted backups with the user, which allows remote attackers with read and write privileges for the encrypted repository to obtain potentially sensitive information by changing the manifest type byte of the repository to \"unencrypted / without key file\".",
+  "repo_url": "https://github.com/jborg/attic",
+  "cwes": [],
+  "commits": [
+    "f342621dff8065b29aeda238ccce5ac92d04f5b6"
+  ]
+}

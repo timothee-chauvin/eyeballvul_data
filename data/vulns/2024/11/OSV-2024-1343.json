@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1343",
+  "published": "2024-11-27T00:13:21.103465",
+  "modified": "2025-06-26T14:48:22.929274",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=380569852\n\n```\nCrash type: Container-overflow READ 8\nCrash state:\nglslang::HlslParseContext::decomposeIntrinsic\nglslang::HlslParseContext::handleFunctionCall\nglslang::HlslGrammar::acceptFunctionCall\n```\n",
+  "summary": "Container-overflow in glslang::HlslParseContext::decomposeIntrinsic",
+  "repo_url": "https://github.com/google/shaderc",
+  "cwes": [],
+  "commits": [
+    "8c2e602ce440b7739c95ff3d69cecb1adf6becda"
+  ]
+}

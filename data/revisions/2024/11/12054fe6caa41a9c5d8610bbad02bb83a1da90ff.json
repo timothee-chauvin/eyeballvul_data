@@ -1,0 +1,12 @@
+{
+  "commit": "12054fe6caa41a9c5d8610bbad02bb83a1da90ff",
+  "repo_url": "https://github.com/xml-security/signxml",
+  "date": "2024-11-24T03:05:39",
+  "languages": {
+    "Python": 161342,
+    "Makefile": 2808,
+    "JavaScript": 2319,
+    "XSLT": 819
+  },
+  "size": 167288
+}

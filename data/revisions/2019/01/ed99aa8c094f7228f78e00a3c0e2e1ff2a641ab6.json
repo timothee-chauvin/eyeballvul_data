@@ -1,0 +1,13 @@
+{
+  "commit": "ed99aa8c094f7228f78e00a3c0e2e1ff2a641ab6",
+  "repo_url": "https://github.com/libidn/libidn2",
+  "date": "2019-01-04T18:34:32",
+  "languages": {
+    "C": 248462,
+    "Shell": 43388,
+    "M4": 20935,
+    "Makefile": 18914,
+    "Perl": 6237
+  },
+  "size": 337936
+}

@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-113",
+  "published": "2023-07-03T17:15:00",
+  "modified": "2023-11-08T04:12:59.003331",
+  "details": "Products.CMFCore are the key framework services for the Zope Content Management Framework (CMF). The use of Python's marshal module to handle unchecked input in a public method on `PortalFolder` objects can lead to an unauthenticated denial of service and crash situation. The code in question is exposed by all portal software built on top of `Products.CMFCore`, such as Plone. All deployments are vulnerable. The code has been fixed in `Products.CMFCore` version 3.2.",
+  "repo_url": "https://github.com/zopefoundation/products.cmfcore",
+  "cwes": [],
+  "commits": [
+    "0a63f92ce34c9c0b4663e2658ff3748c57697c19"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2024-74",
+  "published": "2024-09-05T17:15:00",
+  "modified": "2024-09-06T15:42:13.120456",
+  "details": "MindsDB is a platform for building artificial intelligence from enterprise data. Prior to version 23.12.4.2, a threat actor can bypass the server-side request forgery protection on the whole website with DNS Rebinding. The vulnerability can also lead to denial of service. Version 23.12.4.2 contains a patch.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/mindsdb/mindsdb",
+  "cwes": [],
+  "commits": [
+    "e5ee5f3d7336e71cd570d3a0204e318d0ea8f72c"
+  ]
+}

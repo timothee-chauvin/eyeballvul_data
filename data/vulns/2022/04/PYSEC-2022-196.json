@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-196",
+  "published": "2022-04-04T18:15:00",
+  "modified": "2023-11-08T04:08:36.471326",
+  "details": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine. In version 0.3.1 and prior, bytestrings can have dirty bytes in them, resulting in the word-for-word comparisons giving incorrect results. Even without dirty nonzero bytes, two bytestrings can compare to equal if one ends with `\"\\x00\"` because there is no comparison of the length. A patch is available and expected to be part of the 0.3.2 release. There are currently no known workarounds.",
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "cwes": [],
+  "commits": [
+    "cac3d7d99f64c995a3dd7e9584fdabd617819ba2"
+  ]
+}

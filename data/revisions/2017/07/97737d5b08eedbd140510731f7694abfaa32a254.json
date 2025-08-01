@@ -1,0 +1,13 @@
+{
+  "commit": "97737d5b08eedbd140510731f7694abfaa32a254",
+  "repo_url": "https://github.com/manugarg/pacparser",
+  "date": "2017-07-12T19:34:18",
+  "languages": {
+    "C": 47888,
+    "Python": 9729,
+    "Makefile": 6355,
+    "Shell": 5597,
+    "JavaScript": 1121
+  },
+  "size": 70690
+}

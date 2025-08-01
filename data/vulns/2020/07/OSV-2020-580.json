@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2020-580",
+  "published": "2020-07-01T00:00:18.191041",
+  "modified": "2022-04-13T03:04:32.769242",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=12840\n\n```\nCrash type: Heap-buffer-overflow READ 2\nCrash state:\nots::OpenTypeSTAT::Serialize\nProcessGeneric\nProcessTTF\n```\n",
+  "summary": "Heap-buffer-overflow in ots::OpenTypeSTAT::Serialize",
+  "repo_url": "https://github.com/khaledhosny/ots.git",
+  "cwes": [],
+  "commits": [
+    "f3a02c62c8c614d00048716f87ddcbb76d151cf3"
+  ]
+}

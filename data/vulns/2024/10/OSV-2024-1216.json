@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1216",
+  "published": "2024-10-13T00:11:43.323181",
+  "modified": "2025-03-18T00:32:42.736858",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=372764172\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nPoco::Net::NTLMCredentials::parseChallengeMessage\nPoco::Net::HTTPNTLMCredentials::createNTLMMessage\nPoco::Net::HTTPNTLMCredentials::authenticate\n```\n",
+  "summary": "Use-of-uninitialized-value in Poco::Net::NTLMCredentials::parseChallengeMessage",
+  "repo_url": "https://github.com/pocoproject/poco",
+  "cwes": [],
+  "commits": [
+    "02c86d4cddb14de293eabdb795e4a7c61745eb2b"
+  ]
+}

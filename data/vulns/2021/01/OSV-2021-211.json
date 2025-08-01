@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2021-211",
+  "published": "2021-01-19T00:00:01.795893",
+  "modified": "2022-04-13T03:30:02.769609",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=29698\n\n```\nCrash type: Heap-use-after-free READ 2\nCrash state:\n__libcpp_strpbrk\nstrpbrk\ntesseract::Tesseract::one_ell_conflict\n```\n",
+  "summary": "Heap-use-after-free in __libcpp_strpbrk",
+  "repo_url": "https://github.com/tesseract-ocr/tesseract",
+  "cwes": [],
+  "commits": [
+    "ca114ace387f86821ce061713dc9aa3cc33a3cad"
+  ]
+}

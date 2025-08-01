@@ -1,0 +1,17 @@
+{
+  "commit": "b997238f428a0fd2276da8014e9e8c7ee66d711c",
+  "repo_url": "https://github.com/rosenpass/rosenpass",
+  "date": "2023-09-05T17:33:50",
+  "languages": {
+    "Rust": 171844,
+    "TeX": 28152,
+    "Shell": 13452,
+    "Nix": 13016,
+    "Nushell": 5354,
+    "Python": 4126,
+    "Awk": 2368,
+    "Vim Script": 410,
+    "Perl": 89
+  },
+  "size": 238811
+}

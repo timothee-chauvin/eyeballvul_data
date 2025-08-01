@@ -1,0 +1,15 @@
+{
+  "commit": "ee1a77c9f9dc02c42bda9901038c500c5efe4cfa",
+  "repo_url": "https://github.com/cisco/libsrtp",
+  "date": "2025-03-11T22:03:18",
+  "languages": {
+    "C": 1040712,
+    "Shell": 26100,
+    "CMake": 23583,
+    "C++": 23136,
+    "Makefile": 15328,
+    "Meson": 14887,
+    "M4": 14647
+  },
+  "size": 1158393
+}

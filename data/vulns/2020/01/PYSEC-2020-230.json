@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-230",
+  "published": "2020-01-24T20:15:00",
+  "modified": "2023-11-08T04:03:51.799573",
+  "details": "In Django User Sessions (django-user-sessions) before 1.7.1, the views provided allow users to terminate specific sessions. The session key is used to identify sessions, and thus included in the rendered HTML. In itself this is not a problem. However if the website has an XSS vulnerability, the session key could be extracted by the attacker and a session takeover could happen.",
+  "repo_url": "https://github.com/jazzband/django-user-sessions",
+  "cwes": [],
+  "commits": [
+    "671b38ced9c72eb7c140acd4dcd6f1c5013b2f58"
+  ]
+}

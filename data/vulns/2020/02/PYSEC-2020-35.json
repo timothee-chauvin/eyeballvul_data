@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-35",
+  "published": "2020-02-03T12:15:00",
+  "modified": "2023-12-06T01:00:38.606116",
+  "details": "Django 1.11 before 1.11.28, 2.2 before 2.2.10, and 3.0 before 3.0.3 allows SQL Injection if untrusted data is used as a StringAgg delimiter (e.g., in Django applications that offer downloads of data as a series of rows with a user-specified column delimiter). By passing a suitably crafted delimiter to a contrib.postgres.aggregates.StringAgg instance, it was possible to break escaping and inject malicious SQL.",
+  "repo_url": "https://github.com/django/django",
+  "cwes": [],
+  "commits": [
+    "c494d90c195a739a7298b073eaa6ed987c2fd0bc"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2021-958",
+  "published": "2021-07-11T00:01:21.634442",
+  "modified": "2022-04-13T03:31:25.487524",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=35972\n\n```\nCrash type: Dynamic-stack-buffer-overflow WRITE 16\nCrash state:\nmdb_numeric_to_string\nmdb_xfer_bound_data\n_mdb_attempt_bind\n```\n",
+  "summary": "Dynamic-stack-buffer-overflow in mdb_numeric_to_string",
+  "repo_url": "https://github.com/mdbtools/mdbtools",
+  "cwes": [],
+  "commits": [
+    "e52c47d561a2582aa9a6c6c9a59cf7503b7040fd"
+  ]
+}

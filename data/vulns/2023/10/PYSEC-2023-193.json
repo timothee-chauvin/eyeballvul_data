@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-193",
+  "published": "2023-10-04T21:15:00",
+  "modified": "2023-11-08T04:13:34.876541",
+  "details": "Zope is an open-source web application server. The title property, available on most Zope objects, can be used to store script code that is executed while viewing the affected object in the Zope Management Interface (ZMI). All versions of Zope 4 and Zope 5 are affected. Patches will be released with Zope versions 4.8.11 and 5.8.6",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/zopefoundation/zope",
+  "cwes": [],
+  "commits": [
+    "4634bbdb7f0295ca429f47162874aa9fbde41553"
+  ]
+}

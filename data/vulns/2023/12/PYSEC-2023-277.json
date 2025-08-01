@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-277",
+  "published": "2023-12-11T19:15:00",
+  "modified": "2024-11-21T14:57:10.890012",
+  "details": "MindsDB connects artificial intelligence models to real time data. Versions prior to 23.11.4.1 contain a server-side request forgery vulnerability in `file.py`. This can lead to limited information disclosure. Users should use MindsDB's `staging` branch or v23.11.4.1, which contain a fix for the issue.\n",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/mindsdb/mindsdb",
+  "cwes": [],
+  "commits": [
+    "e5ee5f3d7336e71cd570d3a0204e318d0ea8f72c"
+  ]
+}

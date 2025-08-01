@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2024-205",
+  "published": "2024-02-26T20:19:05",
+  "modified": "2025-01-19T19:56:51.784572",
+  "details": "Vyper is a pythonic Smart Contract Language for the ethereum virtual machine. When using the built-in `extract32(b, start)`, if the `start` index provided has for side effect to update `b`, the byte array to extract `32` bytes from, it could be that some dirty memory is read and returned by `extract32`. This vulnerability is fixed in 0.4.0.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "cwes": [],
+  "commits": [
+    "cac3d7d99f64c995a3dd7e9584fdabd617819ba2"
+  ]
+}

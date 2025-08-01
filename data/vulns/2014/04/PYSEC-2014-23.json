@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2014-23",
+  "published": "2014-04-17T14:55:00",
+  "modified": "2023-11-08T03:57:35.856922",
+  "details": "The (1) JpegImagePlugin.py and (2) EpsImagePlugin.py scripts in Python Image Library (PIL) 1.1.7 and earlier and Pillow before 2.3.1 uses the names of temporary files on the command line, which makes it easier for local users to conduct symlink attacks by listing the processes.",
+  "repo_url": "https://github.com/python-imaging/pillow",
+  "cwes": [],
+  "commits": [
+    "b1b88cf4d255c4b9faf1dae05faaa78091268cb1"
+  ]
+}

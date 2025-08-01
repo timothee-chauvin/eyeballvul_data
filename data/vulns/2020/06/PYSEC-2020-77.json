@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-77",
+  "published": "2020-06-25T19:15:00",
+  "modified": "2025-06-06T15:13:14.202950",
+  "details": "In libImaging/PcxDecode.c in Pillow before 7.1.0, an out-of-bounds read can occur when reading PCX files where state->shuffle is instructed to read beyond state->buffer.",
+  "repo_url": "https://github.com/python-pillow/pillow",
+  "cwes": [],
+  "commits": [
+    "80d6137c860b9322572ee1390514df1975acb2e7"
+  ]
+}

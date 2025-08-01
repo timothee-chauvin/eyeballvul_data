@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-71",
+  "published": "2020-08-14T17:15:00",
+  "modified": "2023-11-08T04:02:31.004919",
+  "details": "In openapi-python-client before version 0.5.3, clients generated with a maliciously crafted OpenAPI Document can generate arbitrary Python code. Subsequent execution of this malicious client is arbitrary code execution.",
+  "repo_url": "https://github.com/triaxtec/openapi-python-client",
+  "cwes": [],
+  "commits": [
+    "fc37c39d9b13716f16f1f00994405c997dceb608"
+  ]
+}

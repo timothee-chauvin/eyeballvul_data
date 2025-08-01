@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-48",
+  "published": "2023-04-21T16:15:00",
+  "modified": "2024-10-28T15:41:59.716521",
+  "details": "There MultipartParser usage in Encode's Starlette python framework before versions 0.25.0 allows an unauthenticated and remote attacker to specify any number of form fields or files which can cause excessive memory usage resulting in denial of service of the HTTP service.",
+  "repo_url": "https://github.com/encode/starlette",
+  "cwes": [],
+  "commits": [
+    "218a6b4f98a2ff5fe3f6076b401d5c24c3021943"
+  ]
+}

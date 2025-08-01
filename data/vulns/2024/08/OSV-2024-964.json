@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-964",
+  "published": "2024-08-16T00:14:15.405443",
+  "modified": "2024-08-16T00:14:15.405835",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=69767\n\n```\nCrash type: Security exception\nCrash state:\ncom.alibaba.fastjson2.JSONPathSegment$CycleNameSegment$MapLoop.accept\njava.base/java.util.ArrayList.forEach\njava.base/java.nio.charset.CharsetEncoder.<init>\n```\n",
+  "summary": "Security exception in com.alibaba.fastjson2.JSONPathSegment$CycleNameSegment$MapLoop.accept",
+  "repo_url": "https://github.com/alibaba/fastjson2",
+  "cwes": [],
+  "commits": [
+    "8bb6e3a2ab33a4238da34face01b5ec839c805b0"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1090",
+  "published": "2024-09-19T00:00:17.390184",
+  "modified": "2025-01-10T05:12:48.974830",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=42538517\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nggml_free\nllama_model::~llama_model\nllama_load_model_from_file\n```\n",
+  "summary": "UNKNOWN READ in ggml_free",
+  "repo_url": "https://github.com/ggerganov/llama.cpp",
+  "cwes": [],
+  "commits": [
+    "8f275a7c4593aa34147595a90282cf950a853690"
+  ]
+}

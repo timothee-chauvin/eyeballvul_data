@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1388",
+  "published": "2024-12-18T00:02:54.357847",
+  "modified": "2024-12-18T00:02:54.358393",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=384541935\n\n```\nCrash type: Security exception\nCrash state:\ncom.google.gson.internal.bind.TypeAdapters$28.write\ncom.google.gson.JsonElement.isJsonPrimitive\ncom.google.gson.JsonElement.getAsJsonPrimitive\n```\n",
+  "summary": "Security exception in com.google.gson.internal.bind.TypeAdapters$28.write",
+  "repo_url": "https://github.com/sigstore/sigstore-java",
+  "cwes": [],
+  "commits": [
+    "2e5955957297502730de0c21f1ae7d51057361d1"
+  ]
+}

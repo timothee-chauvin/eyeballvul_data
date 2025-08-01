@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2024-194",
+  "published": "2024-06-06T19:15:54",
+  "modified": "2025-01-19T13:56:51.372446",
+  "details": "A clickjacking vulnerability exists in zenml-io/zenml versions up to and including 0.55.5 due to the application's failure to set appropriate X-Frame-Options or Content-Security-Policy HTTP headers. This vulnerability allows an attacker to embed the application UI within an iframe on a malicious page, potentially leading to unauthorized actions by tricking users into interacting with the interface under the attacker's control. The issue was addressed in version 0.56.3.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/zenml-io/zenml",
+  "cwes": [],
+  "commits": [
+    "2213b182b5d1a12b9a0a41a519dade829171edf9"
+  ]
+}

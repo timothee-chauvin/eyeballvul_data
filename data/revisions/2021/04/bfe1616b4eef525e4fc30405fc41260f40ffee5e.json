@@ -1,0 +1,17 @@
+{
+  "commit": "bfe1616b4eef525e4fc30405fc41260f40ffee5e",
+  "repo_url": "https://github.com/tesseract-ocr/tesseract",
+  "date": "2021-04-01T19:41:15",
+  "languages": {
+    "C++": 7630475,
+    "Shell": 86975,
+    "C": 82390,
+    "CMake": 80247,
+    "Java": 74134,
+    "Makefile": 68476,
+    "M4": 3378,
+    "Python": 606,
+    "Dockerfile": 582
+  },
+  "size": 8027263
+}

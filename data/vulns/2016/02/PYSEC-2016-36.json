@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2016-36",
+  "published": "2016-02-03T18:59:00",
+  "modified": "2024-04-29T16:56:45.494907",
+  "details": "The multifilesystem storage backend in Radicale before 1.1 allows remote attackers to read or write to arbitrary files via a crafted component name.",
+  "repo_url": "https://github.com/unrud/radicale",
+  "cwes": [],
+  "commits": [
+    "6babebd315a676e90da61c02c9161ea97894e302"
+  ]
+}

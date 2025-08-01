@@ -1,0 +1,22 @@
+{
+  "commit": "e6932b77a183661e19136993094c3cc268900562",
+  "repo_url": "https://github.com/flutter/packages",
+  "date": "2024-11-26T21:28:07",
+  "languages": {
+    "Dart": 20306450,
+    "Java": 3401484,
+    "C++": 3327794,
+    "Objective-C": 2715078,
+    "Swift": 1632635,
+    "Kotlin": 1026892,
+    "C": 557519,
+    "CMake": 399725,
+    "Ruby": 118073,
+    "HTML": 32476,
+    "Shell": 17665,
+    "JavaScript": 3949,
+    "Batchfile": 693,
+    "CSS": 69
+  },
+  "size": 33540502
+}

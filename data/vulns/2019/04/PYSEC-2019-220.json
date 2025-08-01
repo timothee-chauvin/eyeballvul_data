@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2019-220",
+  "published": "2019-04-08T13:29:00",
+  "modified": "2023-11-08T03:58:21.453618",
+  "details": "In Pallets Jinja before 2.8.1, str.format allows a sandbox escape.",
+  "repo_url": "https://github.com/pallets/jinja",
+  "cwes": [],
+  "commits": [
+    "966e1a409f02de57b75a0463fc953d54dad2a205"
+  ]
+}

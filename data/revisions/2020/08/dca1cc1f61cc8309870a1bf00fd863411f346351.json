@@ -1,0 +1,14 @@
+{
+  "commit": "dca1cc1f61cc8309870a1bf00fd863411f346351",
+  "repo_url": "https://github.com/archivy/archivy",
+  "date": "2020-08-21T14:46:19",
+  "languages": {
+    "Python": 20567,
+    "HTML": 9819,
+    "JavaScript": 1968,
+    "Shell": 1368,
+    "CSS": 1031,
+    "SCSS": 767
+  },
+  "size": 35520
+}

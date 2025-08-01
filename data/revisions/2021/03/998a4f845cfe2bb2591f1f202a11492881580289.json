@@ -1,0 +1,15 @@
+{
+  "commit": "998a4f845cfe2bb2591f1f202a11492881580289",
+  "repo_url": "https://github.com/materialsproject/pymatgen",
+  "date": "2021-03-09T18:03:47",
+  "languages": {
+    "Python": 8724208,
+    "HTML": 3471803,
+    "Roff": 967689,
+    "Cython": 38032,
+    "Shell": 11420,
+    "CSS": 7572,
+    "C++": 87
+  },
+  "size": 13220811
+}

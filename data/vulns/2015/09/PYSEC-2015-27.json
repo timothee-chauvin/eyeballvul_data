@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2015-27",
+  "published": "2015-09-29T19:59:00",
+  "modified": "2023-11-08T03:57:59.998735",
+  "details": "The editor in IPython Notebook before 3.2.2 and Jupyter Notebook 4.0.x before 4.0.5 allows remote attackers to execute arbitrary JavaScript code via a crafted file, which triggers a redirect to files/, related to MIME types.",
+  "repo_url": "https://github.com/jupyter/notebook",
+  "cwes": [],
+  "commits": [
+    "1c839f686bf34d59ddaf3b6a2706599f8499e982"
+  ]
+}

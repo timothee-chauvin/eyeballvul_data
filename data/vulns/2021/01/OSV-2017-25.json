@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-25",
+  "published": "2021-01-13T00:01:28.724375",
+  "modified": "2022-04-13T03:04:35.256245",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4512\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nToPercent\nArchive::ReadHeader15\nArchive::ReadHeader\n```\n",
+  "summary": "Use-of-uninitialized-value in ToPercent",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

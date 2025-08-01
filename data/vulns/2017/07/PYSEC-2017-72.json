@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-72",
+  "published": "2017-07-25T18:29:00",
+  "modified": "2024-04-29T15:11:35.255201",
+  "details": "sosreport 3.2 uses weak permissions for generated sosreport archives, which allows local users with access to /var/tmp/ to obtain sensitive information by reading the contents of the archive.",
+  "repo_url": "https://github.com/sosreport/sos",
+  "cwes": [],
+  "commits": [
+    "7c5e32dbab2aef1d1755955d0fa12bb61ffa0d6f"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "b2133edaa326a7b14a49a0506d2f76d1424efe8f",
+  "repo_url": "https://github.com/benbusby/whoogle-search",
+  "date": "2020-06-11T19:38:51",
+  "languages": {
+    "Python": 50300,
+    "HTML": 11283,
+    "JavaScript": 7455,
+    "CSS": 4459,
+    "Shell": 548,
+    "Dockerfile": 535
+  },
+  "size": 74580
+}

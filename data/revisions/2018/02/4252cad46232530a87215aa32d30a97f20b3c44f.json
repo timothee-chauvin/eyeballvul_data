@@ -1,0 +1,11 @@
+{
+  "commit": "4252cad46232530a87215aa32d30a97f20b3c44f",
+  "repo_url": "https://github.com/markedjs/marked",
+  "date": "2018-02-26T22:33:04",
+  "languages": {
+    "HTML": 75513,
+    "JavaScript": 38023,
+    "Makefile": 288
+  },
+  "size": 113824
+}

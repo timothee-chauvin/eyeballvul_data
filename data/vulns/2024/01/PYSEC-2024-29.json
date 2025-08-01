@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2024-29",
+  "published": "2024-01-31T18:15:00",
+  "modified": "2024-02-08T07:58:10.657018",
+  "details": "OctoPrint is a web interface for 3D printer.s OctoPrint versions up until and including 1.9.3 contain a vulnerability that allows malicious admins to change the password of other admin accounts, including their own, without having to repeat their password. An attacker who managed to hijack an admin account might use this to lock out actual admins from their OctoPrint instance. The vulnerability will be patched in version 1.10.0.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/octoprint/octoprint",
+  "cwes": [],
+  "commits": [
+    "7054a726bb3dc363a98ec6944b24e07879bb389b"
+  ]
+}

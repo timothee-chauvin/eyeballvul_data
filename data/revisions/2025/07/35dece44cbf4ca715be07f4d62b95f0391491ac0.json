@@ -1,0 +1,15 @@
+{
+  "commit": "35dece44cbf4ca715be07f4d62b95f0391491ac0",
+  "repo_url": "https://github.com/gelbphoenix/autocaliweb",
+  "date": "2025-07-16T11:36:05",
+  "languages": {
+    "Python": 1576250,
+    "Fluent": 1486513,
+    "JavaScript": 1230055,
+    "HTML": 406243,
+    "Shell": 47460,
+    "CSS": 36316,
+    "Dockerfile": 4244
+  },
+  "size": 4787081
+}

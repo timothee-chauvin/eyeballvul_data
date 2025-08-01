@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1351",
+  "published": "2024-12-10T00:05:42.992615",
+  "modified": "2024-12-10T00:05:42.992960",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=382526743\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nArchive::UnexpEndArcMsg\nArchive::ReadHeader50\nArchive::ReadHeader\n```\n",
+  "summary": "Use-of-uninitialized-value in Archive::UnexpEndArcMsg",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "7f22bab6a957363b2002d0d6c964bfd49afe5f45"
+  ]
+}

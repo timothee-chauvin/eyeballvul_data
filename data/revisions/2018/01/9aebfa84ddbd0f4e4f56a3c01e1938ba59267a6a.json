@@ -1,0 +1,16 @@
+{
+  "commit": "9aebfa84ddbd0f4e4f56a3c01e1938ba59267a6a",
+  "repo_url": "https://github.com/gerapy/gerapy",
+  "date": "2018-01-24T18:47:29",
+  "languages": {
+    "JavaScript": 3129604,
+    "CSS": 1245894,
+    "Vue": 109242,
+    "Python": 61621,
+    "SCSS": 8511,
+    "HTML": 1199,
+    "Dockerfile": 269,
+    "Shell": 87
+  },
+  "size": 4556427
+}

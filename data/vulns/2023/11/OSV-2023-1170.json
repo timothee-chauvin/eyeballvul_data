@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-1170",
+  "published": "2023-11-16T13:02:54.951826",
+  "modified": "2025-01-10T05:15:17.036441",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=42530193\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nloader_log\nloader_scanned_icd_add\nloader_icd_scan\n```\n",
+  "summary": "UNKNOWN READ in loader_log",
+  "repo_url": "https://github.com/khronosgroup/vulkan-loader",
+  "cwes": [],
+  "commits": [
+    "7aeb5e4324957b6f60dac5c8cedb955df4fecbfb"
+  ]
+}

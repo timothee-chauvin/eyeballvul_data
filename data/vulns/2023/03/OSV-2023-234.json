@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-234",
+  "published": "2023-03-26T13:00:12.135289",
+  "modified": "2024-08-14T14:12:45.626750",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=57397\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nihevce_enc_frm_proc_slave_thrd\nosal_func\nposix_memalign\n```\n",
+  "summary": "Use-of-uninitialized-value in ihevce_enc_frm_proc_slave_thrd",
+  "repo_url": "https://github.com/ittiam-systems/libhevc.git",
+  "cwes": [],
+  "commits": [
+    "8dd2b3392a24b2eed124e50531e79fee9ab48fd6"
+  ]
+}

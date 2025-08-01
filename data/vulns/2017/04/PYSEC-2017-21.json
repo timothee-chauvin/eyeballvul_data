@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-21",
+  "published": "2017-04-12T22:59:00",
+  "modified": "2024-04-29T14:56:48.394548",
+  "details": "OpenStack Nova-LXD before 13.1.1 uses the wrong name for the veth pairs when applying Neutron security group rules for instances, which allows remote attackers to bypass intended security restrictions.",
+  "repo_url": "https://github.com/openstack/nova-lxd",
+  "cwes": [],
+  "commits": [
+    "0355e1c22bc93d05f4351b7a77cb70f563e1f8b0"
+  ]
+}

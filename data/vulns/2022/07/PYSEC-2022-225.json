@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-225",
+  "published": "2022-07-11T01:15:00",
+  "modified": "2023-11-08T04:09:30.981496",
+  "details": "The ganga-devs/ganga repository before 8.5.10 on GitHub allows absolute path traversal because the Flask send_file function is used unsafely.",
+  "repo_url": "https://github.com/ganga-devs/ganga",
+  "cwes": [],
+  "commits": [
+    "05a2799501ef88d7e5a327970064f384f691b23b"
+  ]
+}

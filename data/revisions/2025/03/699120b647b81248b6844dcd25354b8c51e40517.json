@@ -1,0 +1,11 @@
+{
+  "commit": "699120b647b81248b6844dcd25354b8c51e40517",
+  "repo_url": "https://github.com/spytrap-org/spytrap-adb",
+  "date": "2025-03-12T11:17:16",
+  "languages": {
+    "Rust": 128696,
+    "Dockerfile": 268,
+    "Makefile": 143
+  },
+  "size": 129107
+}

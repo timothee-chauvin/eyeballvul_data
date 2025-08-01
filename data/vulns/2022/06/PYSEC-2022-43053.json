@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2022-43053",
+  "published": "2022-06-09T09:15:00",
+  "modified": "2023-11-08T04:09:12.537261",
+  "details": "Vyper is a Pythonic Smart Contract Language for the ethereum virtual machine. In versions prior to 0.3.4 when a calling an external contract with no return value, the contract address (including side effects) could be evaluated twice. This may result in incorrect outcomes for contracts. This issue has been addressed in v0.3.4.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "cwes": [],
+  "commits": [
+    "cac3d7d99f64c995a3dd7e9584fdabd617819ba2"
+  ]
+}

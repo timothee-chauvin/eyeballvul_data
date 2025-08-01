@@ -1,0 +1,12 @@
+{
+  "commit": "e249b61e900df4d36779a690971e5cab691a4954",
+  "repo_url": "https://github.com/distribution/distribution",
+  "date": "2016-11-11T20:03:20",
+  "languages": {
+    "Go": 1365547,
+    "Shell": 18294,
+    "Makefile": 3239,
+    "Dockerfile": 2272
+  },
+  "size": 1389352
+}

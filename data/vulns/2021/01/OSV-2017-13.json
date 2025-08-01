@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-13",
+  "published": "2021-01-13T00:00:25.896164",
+  "modified": "2022-04-13T03:04:35.317926",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4293\n\n```\nCrash type: Heap-buffer-overflow READ {*}\nCrash state:\nFile::Write\nComprDataIO::UnpWrite\nCmdExtract::UnstoreFile\n```\n",
+  "summary": "Heap-buffer-overflow in File::Write",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

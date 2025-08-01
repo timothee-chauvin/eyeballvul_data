@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1322",
+  "published": "2024-11-18T00:00:16.618504",
+  "modified": "2025-03-18T00:24:17.881614",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=379180973\n\n```\nCrash type: Security exception\nCrash state:\ncom.alibaba.fastjson2.JSONReader.readObject\njava.base/java.nio.charset.CharsetEncoder.replaceWith\njava.base/java.nio.charset.CharsetEncoder.<init>\n```\n",
+  "summary": "Security exception in com.alibaba.fastjson2.JSONReader.readObject",
+  "repo_url": "https://github.com/alibaba/fastjson2",
+  "cwes": [],
+  "commits": [
+    "8bb6e3a2ab33a4238da34face01b5ec839c805b0"
+  ]
+}

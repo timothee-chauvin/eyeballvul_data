@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2022-715",
+  "published": "2022-08-15T00:00:50.156496",
+  "modified": "2022-10-30T22:16:00",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=50217\nhttps://pillow.readthedocs.io/en/stable/releasenotes/9.3.0.html#decode-jpeg-compressed-blp1-data-in-original-mode\n\n```\nCrash type: Segv on unknown address\nCrash state:\njpeg_read_scanlines\nImagingJpegDecode\n_decode\n```\n",
+  "summary": "Segv on unknown address in jpeg_read_scanlines",
+  "repo_url": "https://github.com/python-pillow/pillow",
+  "cwes": [],
+  "commits": [
+    "58acec3312fb8671c9d84829197e1c8150085589"
+  ]
+}

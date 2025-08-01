@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-76",
+  "published": "2021-01-13T21:57:34.703673",
+  "modified": "2023-02-24T01:32:04.735184",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4279\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nArchive::ConvertFileHeader\nArchive::ReadHeader15\nArchive::ReadHeader\n```\n",
+  "summary": "Use-of-uninitialized-value in Archive::ConvertFileHeader",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

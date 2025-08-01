@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-351",
+  "published": "2021-09-28T16:15:00",
+  "modified": "2023-11-08T04:06:51.299405",
+  "details": "ESPHome is a system to control the ESP8266/ESP32. Anyone with web_server enabled and HTTP basic auth configured on version 2021.9.1 or older is vulnerable to an issue in which `web_server` allows over-the-air (OTA) updates without checking user defined basic auth username & password. This issue is patched in version 2021.9.2. As a workaround, one may disable or remove `web_server`.",
+  "repo_url": "https://github.com/esphome/esphome",
+  "cwes": [],
+  "commits": [
+    "d26c2b1a44f44ca2c38ce405ddfeff4e7f7519fe"
+  ]
+}

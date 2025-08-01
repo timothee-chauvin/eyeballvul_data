@@ -1,0 +1,11 @@
+{
+  "commit": "7a86b031f2ae23463dccaaf2ca10a4b74a044e71",
+  "repo_url": "https://github.com/freeopcua/opcua-asyncio",
+  "date": "2021-03-09T07:40:36",
+  "languages": {
+    "Python": 9819682,
+    "Shell": 360,
+    "Dockerfile": 55
+  },
+  "size": 9820097
+}

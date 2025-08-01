@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-355",
+  "published": "2021-09-29T14:15:00",
+  "modified": "2023-11-08T04:05:18.943712",
+  "details": "\u201cShuup\u201d application in versions 0.4.2 to 2.10.8 is affected by the \u201cFormula Injection\u201d vulnerability. A customer can inject payloads in the name input field in the billing address while buying a product. When a store administrator accesses the reports page to export the data as an Excel file and opens it, the payload gets executed.",
+  "repo_url": "https://github.com/shuup/shuup",
+  "cwes": [],
+  "commits": [
+    "de67204af7dc7f56712519e66dd59a00d3afd276"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "commit": "51649721713f0769356dfe60d5386302334742f2",
+  "repo_url": "https://github.com/taosdata/tdengine",
+  "date": "2023-09-25T02:53:28",
+  "languages": {
+    "C": 7720550,
+    "Java": 1392152,
+    "Shell": 659266,
+    "C++": 192893,
+    "Go": 159701,
+    "C#": 111439,
+    "JavaScript": 95765,
+    "CMake": 46987,
+    "Yacc": 44378,
+    "BitBake": 16342,
+    "Batchfile": 13959,
+    "Lex": 11127,
+    "Dockerfile": 6297,
+    "HTML": 5805,
+    "GDB": 2950,
+    "Lua": 2324,
+    "Makefile": 2251,
+    "Gnuplot": 1893,
+    "Rust": 1373,
+    "CSS": 63
+  },
+  "size": 10487515
+}

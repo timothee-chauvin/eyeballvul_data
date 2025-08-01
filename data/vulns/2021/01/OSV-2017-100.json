@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-100",
+  "published": "2021-01-13T21:57:41.100876",
+  "modified": "2022-04-13T03:04:35.262116",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4272\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nArchive::ConvertAttributes\nCmdExtract::ExtractCurrentFile\nCmdExtract::ExtractArchive\n```\n",
+  "summary": "Use-of-uninitialized-value in Archive::ConvertAttributes",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

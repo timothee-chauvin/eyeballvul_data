@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2014-22",
+  "published": "2014-04-17T14:55:00",
+  "modified": "2023-11-08T03:57:35.793172",
+  "details": "The (1) load_djpeg function in JpegImagePlugin.py, (2) Ghostscript function in EpsImagePlugin.py, (3) load function in IptcImagePlugin.py, and (4) _copy function in Image.py in Python Image Library (PIL) 1.1.7 and earlier and Pillow before 2.3.1 do not properly create temporary files, which allow local users to overwrite arbitrary files and obtain sensitive information via a symlink attack on the temporary file.",
+  "repo_url": "https://github.com/python-imaging/pillow",
+  "cwes": [],
+  "commits": [
+    "b1b88cf4d255c4b9faf1dae05faaa78091268cb1"
+  ]
+}

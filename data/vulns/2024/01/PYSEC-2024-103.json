@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2024-103",
+  "published": "2024-01-18T19:15:00",
+  "modified": "2024-10-09T23:44:14.237516",
+  "details": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine. The `concat` built-in can write over the bounds of the memory buffer that was allocated for it and thus overwrite existing valid data. The root cause is that the `build_IR` for `concat` doesn't properly adhere to the API of copy functions (for `>=0.3.2` the `copy_bytes` function). A contract search was performed and no vulnerable contracts were found in production. The buffer overflow can result in the change of semantics of the contract. The overflow is length-dependent and thus it might go unnoticed during contract testing. However, certainly not all usages of concat will result in overwritten valid data as we require it to be in an internal function and close to the return statement where other memory allocations don't occur. This issue has been addressed in 0.4.0.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "cwes": [],
+  "commits": [
+    "cac3d7d99f64c995a3dd7e9584fdabd617819ba2"
+  ]
+}

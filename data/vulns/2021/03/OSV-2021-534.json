@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2021-534",
+  "published": "2021-03-19T00:00:04.481954",
+  "modified": "2022-04-13T03:04:31.477640",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=32142\n\n```\nCrash type: Container-overflow WRITE {*}\nCrash state:\ntesseract::ExtractResults16\ntesseract::PartialMatrixDotVector16\ntesseract::matrixDotVector\n```\n",
+  "summary": "Container-overflow in tesseract::ExtractResults16",
+  "repo_url": "https://github.com/tesseract-ocr/tesseract",
+  "cwes": [],
+  "commits": [
+    "bfe1616b4eef525e4fc30405fc41260f40ffee5e"
+  ]
+}

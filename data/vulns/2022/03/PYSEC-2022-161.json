@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-161",
+  "published": "2022-03-06T23:15:00",
+  "modified": "2023-11-08T04:07:38.502486",
+  "details": "Open Redirect in GitHub repository archivy/archivy prior to 1.7.0.",
+  "repo_url": "https://github.com/archivy/archivy",
+  "cwes": [],
+  "commits": [
+    "dca1cc1f61cc8309870a1bf00fd863411f346351"
+  ]
+}

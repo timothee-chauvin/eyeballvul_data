@@ -1,0 +1,17 @@
+{
+  "commit": "5700512da5d01f89e9a96ce2b61d90eb99caf080",
+  "repo_url": "https://github.com/techarohq/anubis",
+  "date": "2025-07-24T14:47:32",
+  "languages": {
+    "Go": 348849,
+    "JavaScript": 24150,
+    "Shell": 11438,
+    "CSS": 2814,
+    "Makefile": 790,
+    "Dockerfile": 771,
+    "HTML": 463,
+    "HCL": 412,
+    "Ruby": 101
+  },
+  "size": 389788
+}

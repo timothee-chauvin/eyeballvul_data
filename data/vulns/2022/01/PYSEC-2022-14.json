@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-14",
+  "published": "2022-01-25T09:15:00",
+  "modified": "2023-11-08T04:07:32.367270",
+  "details": "Improper Privilege Management in Conda loguru prior to 0.5.3.",
+  "repo_url": "https://github.com/delgan/loguru",
+  "cwes": [],
+  "commits": [
+    "e48f3e49228ada2f6495dd7eedc4ecd03530a1f6"
+  ]
+}

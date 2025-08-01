@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-97",
+  "published": "2021-06-10T11:15:00",
+  "modified": "2023-11-08T04:06:07.691196",
+  "details": "The thefuck (aka The Fuck) package before 3.31 for Python allows Path Traversal that leads to arbitrary file deletion via the \"undo archive operation\" feature.",
+  "repo_url": "https://github.com/nvbn/thefuck",
+  "cwes": [],
+  "commits": [
+    "d3a05426deb53b46b63ea3a996dce7b4e472fadb"
+  ]
+}

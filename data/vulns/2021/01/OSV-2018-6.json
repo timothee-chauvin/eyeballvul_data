@@ -1,0 +1,13 @@
+{
+  "id": "OSV-2018-6",
+  "published": "2021-01-13T00:00:02.571744",
+  "modified": "2025-07-02T14:28:17.234140",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=9307\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nDosSlashToUnix\nExtractUnixLink50\nExtractSymlink\n```\n",
+  "summary": "Use-of-uninitialized-value in DosSlashToUnix",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf",
+    "7f22bab6a957363b2002d0d6c964bfd49afe5f45"
+  ]
+}

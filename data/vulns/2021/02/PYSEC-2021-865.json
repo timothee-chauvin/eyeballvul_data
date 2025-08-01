@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-865",
+  "published": "2021-02-02T17:58:00",
+  "modified": "2023-11-08T04:05:14.166540",
+  "details": "In Mozilla Bleach before 3.3.0, a mutation XSS affects users calling bleach.clean with math or svg; p or br; and style, title, noscript, script, textarea, noframes, iframe, or xmp tags with strip_comments=False.",
+  "repo_url": "https://github.com/mozilla/bleach",
+  "cwes": [],
+  "commits": [
+    "8d524712203cd74d3afec437daaadcfdad943d49"
+  ]
+}

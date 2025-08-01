@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-359",
+  "published": "2021-09-08T18:15:00",
+  "modified": "2023-11-08T04:06:00.588656",
+  "details": "Flask-AppBuilder is an application development framework, built on top of Flask. In affected versions if using Flask-AppBuilder OAuth, an attacker can share a carefully crafted URL with a trusted domain for an application built with Flask-AppBuilder, this URL can redirect a user to a malicious site. This is an open redirect vulnerability. To resolve this issue upgrade to Flask-AppBuilder 3.2.2 or above. If upgrading is infeasible users may filter HTTP traffic containing `?next={next-site}` where the `next-site` domain is different from the application you are protecting as a workaround.",
+  "repo_url": "https://github.com/dpgaspar/flask-appbuilder",
+  "cwes": [],
+  "commits": [
+    "65ec836dc5aede0a042d60881709ba38895ba17a"
+  ]
+}

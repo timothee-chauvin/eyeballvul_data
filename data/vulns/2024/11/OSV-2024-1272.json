@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1272",
+  "published": "2024-11-05T00:03:30.787980",
+  "modified": "2025-04-17T14:38:30.981292",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=371292576\n\n```\nCrash type: Segv on unknown address\nCrash state:\nstd::__1::ios_base::~ios_base\nPoco::Net::MultipartReader::nextPart\nPoco::Net::MailMessage::readMultipart\n```\n",
+  "summary": "Segv on unknown address in std::__1::ios_base::~ios_base",
+  "repo_url": "https://github.com/pocoproject/poco",
+  "cwes": [],
+  "commits": [
+    "02c86d4cddb14de293eabdb795e4a7c61745eb2b"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "c53bd44ea9d3a3f6cc4f774e7009b14e5301ed8a",
+  "repo_url": "https://github.com/simdutf/simdutf",
+  "date": "2023-03-31T00:31:03",
+  "languages": {
+    "C++": 2963002,
+    "C": 317144,
+    "CWeb": 94219,
+    "Python": 86017,
+    "CMake": 29244,
+    "Makefile": 4038,
+    "Batchfile": 3914,
+    "Shell": 2768
+  },
+  "size": 3500346
+}

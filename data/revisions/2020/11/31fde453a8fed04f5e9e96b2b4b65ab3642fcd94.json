@@ -1,0 +1,16 @@
+{
+  "commit": "31fde453a8fed04f5e9e96b2b4b65ab3642fcd94",
+  "repo_url": "https://github.com/netflix/lemur",
+  "date": "2020-11-14T02:27:34",
+  "languages": {
+    "Python": 1247709,
+    "HTML": 238432,
+    "JavaScript": 15037,
+    "Makefile": 3749,
+    "CSS": 2728,
+    "Dockerfile": 2396,
+    "Shell": 2323,
+    "Mako": 412
+  },
+  "size": 1512786
+}

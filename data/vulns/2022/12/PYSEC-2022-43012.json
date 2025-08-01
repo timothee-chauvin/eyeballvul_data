@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-43012",
+  "published": "2022-12-23T00:15:00",
+  "modified": "2023-12-06T01:02:35.662444",
+  "details": "Python Packaging Authority (PyPA) setuptools before 65.5.1 allows remote attackers to cause a denial of service via HTML in a crafted package or custom PackageIndex page. There is a Regular Expression Denial of Service (ReDoS) in package_index.py.",
+  "repo_url": "https://github.com/pypa/setuptools",
+  "cwes": [],
+  "commits": [
+    "1ad2c11ca1d8535c61215b184d18bf713ef813c9"
+  ]
+}

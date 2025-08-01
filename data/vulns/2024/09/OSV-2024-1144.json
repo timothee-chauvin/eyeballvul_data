@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1144",
+  "published": "2024-09-24T00:15:39.106189",
+  "modified": "2024-09-24T00:15:39.106491",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=368729570\n\n```\nCrash type: Security exception\nCrash state:\ngraphql.schema.GraphQLTypeUtil.simplePrint\ngraphql.schema.GraphQLTypeUtil.simplePrint\ngraphql.schema.GraphQLTypeUtil.simplePrint\n```\n",
+  "summary": "Security exception in graphql.schema.GraphQLTypeUtil.simplePrint",
+  "repo_url": "https://github.com/graphql-java/graphql-java",
+  "cwes": [],
+  "commits": [
+    "9cc3538f3b13db50282d13bbbc8120814f6fe0f1"
+  ]
+}

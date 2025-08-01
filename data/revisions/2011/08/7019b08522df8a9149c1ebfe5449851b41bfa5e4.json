@@ -1,0 +1,16 @@
+{
+  "commit": "7019b08522df8a9149c1ebfe5449851b41bfa5e4",
+  "repo_url": "https://github.com/pediapress/pyfribidi",
+  "date": "2011-08-11T10:27:47",
+  "languages": {
+    "Assembly": 446089,
+    "C": 342112,
+    "Shell": 293112,
+    "Makefile": 140530,
+    "Roff": 65003,
+    "Python": 12944,
+    "SWIG": 9458,
+    "M4": 6185
+  },
+  "size": 1315433
+}

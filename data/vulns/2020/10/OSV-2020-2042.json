@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2020-2042",
+  "published": "2020-10-13T00:00:28.349821",
+  "modified": "2022-04-13T03:28:13.014472",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=22329\n\n```\nCrash type: UNKNOWN WRITE\nCrash state:\npb_release_single_field\npb_release\npb_decode\n```\n",
+  "summary": "UNKNOWN WRITE in pb_release_single_field",
+  "repo_url": "https://github.com/firebase/firebase-ios-sdk.git",
+  "cwes": [],
+  "commits": [
+    "6f680dd0c8892a315f354bb861b03c5c38829e56"
+  ]
+}

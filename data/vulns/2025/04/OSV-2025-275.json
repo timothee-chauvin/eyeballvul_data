@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2025-275",
+  "published": "2025-04-14T00:02:37.519708",
+  "modified": "2025-04-17T14:43:50.559313",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=410115359\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nvoid std::__1::vector<unsigned char, std::__1::allocator<unsigned char>>::__cons\nPoco::Net::NTLMCredentials::parseChallengeMessage\nPoco::Net::HTTPNTLMCredentials::createNTLMMessage\n```\n",
+  "summary": "UNKNOWN READ in void std::__1::vector<unsigned char, std::__1::allocator<unsigned char>>::__cons",
+  "repo_url": "https://github.com/pocoproject/poco",
+  "cwes": [],
+  "commits": [
+    "02c86d4cddb14de293eabdb795e4a7c61745eb2b"
+  ]
+}

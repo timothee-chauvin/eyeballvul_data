@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1348",
+  "published": "2024-12-10T00:00:50.788000",
+  "modified": "2025-06-26T14:48:27.852165",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=382721848\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nglslang::HlslGrammar::acceptDeclaration\nglslang::HlslGrammar::acceptCompilationUnit\nglslang::HlslParseContext::parseShaderStrings\n```\n",
+  "summary": "Heap-buffer-overflow in glslang::HlslGrammar::acceptDeclaration",
+  "repo_url": "https://github.com/google/shaderc",
+  "cwes": [],
+  "commits": [
+    "8c2e602ce440b7739c95ff3d69cecb1adf6becda"
+  ]
+}

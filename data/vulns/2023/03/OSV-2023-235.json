@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-235",
+  "published": "2023-03-26T13:00:16.681780",
+  "modified": "2024-08-14T14:12:47.949612",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=57398\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\ncomplexity_RC_reset_marking\nihevce_pre_enc_process_frame_thrd\nosal_func\n```\n",
+  "summary": "Use-of-uninitialized-value in complexity_RC_reset_marking",
+  "repo_url": "https://github.com/ittiam-systems/libhevc.git",
+  "cwes": [],
+  "commits": [
+    "8dd2b3392a24b2eed124e50531e79fee9ab48fd6"
+  ]
+}

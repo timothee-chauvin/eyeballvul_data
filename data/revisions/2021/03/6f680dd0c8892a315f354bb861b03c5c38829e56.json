@@ -1,0 +1,20 @@
+{
+  "commit": "6f680dd0c8892a315f354bb861b03c5c38829e56",
+  "repo_url": "https://github.com/firebase/firebase-ios-sdk.git",
+  "date": "2021-03-24T15:23:28",
+  "languages": {
+    "Objective-C": 10197275,
+    "C++": 7242844,
+    "Swift": 985405,
+    "Objective-C++": 724983,
+    "C": 295102,
+    "Python": 144951,
+    "Ruby": 143219,
+    "Shell": 118013,
+    "CMake": 80903,
+    "JavaScript": 3448,
+    "sed": 2015,
+    "Starlark": 272
+  },
+  "size": 19938430
+}

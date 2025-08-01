@@ -1,0 +1,15 @@
+{
+  "commit": "48af15fc05c00f941811a8e4c3a636134b0969c5",
+  "repo_url": "https://github.com/man-group/dtale",
+  "date": "2023-04-10T16:36:30",
+  "languages": {
+    "TypeScript": 1690098,
+    "Python": 1426559,
+    "CSS": 252098,
+    "JavaScript": 39158,
+    "HTML": 21585,
+    "SCSS": 6702,
+    "Dockerfile": 6687
+  },
+  "size": 3442887
+}

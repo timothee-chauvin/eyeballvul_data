@@ -1,0 +1,15 @@
+{
+  "commit": "88c0b490bcbba1191e8878aa421c3d32002cea0e",
+  "repo_url": "https://github.com/divio/django-cms",
+  "date": "2015-04-15T16:14:25",
+  "languages": {
+    "Python": 3172452,
+    "JavaScript": 220706,
+    "HTML": 88164,
+    "SCSS": 47125,
+    "CSS": 6963,
+    "XSLT": 5122,
+    "Ruby": 990
+  },
+  "size": 3541522
+}

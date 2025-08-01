@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-98",
+  "published": "2024-02-11T00:14:29.715614",
+  "modified": "2024-04-29T11:31:53.382431",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66287\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nPackLinuxElf32::adjABS\nPackLinuxElf32::un_asl_dynsym\nPackLinuxElf32::un_shlib_1\n```\n",
+  "summary": "UNKNOWN READ in PackLinuxElf32::adjABS",
+  "repo_url": "https://github.com/upx/upx.git",
+  "cwes": [],
+  "commits": [
+    "099c3d829e80488af7395a4242b318877e980da4"
+  ]
+}

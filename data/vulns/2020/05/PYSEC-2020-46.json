@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-46",
+  "published": "2020-05-20T16:15:00",
+  "modified": "2023-11-08T04:02:05.060564",
+  "details": "In httplib2 before version 0.18.0, an attacker controlling unescaped part of uri for `httplib2.Http.request()` could change request headers and body, send additional hidden requests to same server. This vulnerability impacts software that uses httplib2 with uri constructed by string concatenation, as opposed to proper urllib building with escaping. This has been fixed in 0.18.0.",
+  "repo_url": "https://github.com/httplib2/httplib2",
+  "cwes": [],
+  "commits": [
+    "cf631a73e2f3f43897b65206127ced82382d35f5"
+  ]
+}

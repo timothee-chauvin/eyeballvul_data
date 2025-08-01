@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2013-30",
+  "published": "2013-08-15T17:55:00",
+  "modified": "2023-11-08T03:57:17.791634",
+  "details": "bson/_cbsonmodule.c in the mongo-python-driver (aka. pymongo) before 2.5.2, as used in MongoDB, allows context-dependent attackers to cause a denial of service (NULL pointer dereference and crash) via vectors related to decoding of an \"invalid DBRef.\"",
+  "repo_url": "https://github.com/mongodb/mongo-python-driver",
+  "cwes": [],
+  "commits": [
+    "a9d14571b85b19c6d69cc46349216cab477fa695"
+  ]
+}

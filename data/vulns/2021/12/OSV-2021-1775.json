@@ -1,0 +1,13 @@
+{
+  "id": "OSV-2021-1775",
+  "published": "2021-12-29T00:00:18.595646",
+  "modified": "2022-04-13T03:04:36.442282",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=43040\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nhfs_dir_open_meta_cb\nhfs_cat_traverse\nhfs_dir_open_meta\n```\n",
+  "summary": "Heap-buffer-overflow in hfs_dir_open_meta_cb",
+  "repo_url": "https://github.com/sleuthkit/sleuthkit",
+  "cwes": [],
+  "commits": [
+    "16f14f39bc1c22da823e1fa53ca451da808244f5",
+    "a397493d8fd5198b40d6c0ce1e4135c1f86d9ea9"
+  ]
+}

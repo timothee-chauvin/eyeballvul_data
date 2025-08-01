@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-44",
+  "published": "2020-07-29T13:15:00",
+  "modified": "2023-11-08T04:04:05.500610",
+  "details": "This affects the package Gerapy from 0 and before 0.9.3. The input being passed to Popen, via the project_configure endpoint, isn\u2019t being sanitized.",
+  "repo_url": "https://github.com/gerapy/gerapy",
+  "cwes": [],
+  "commits": [
+    "9aebfa84ddbd0f4e4f56a3c01e1938ba59267a6a"
+  ]
+}

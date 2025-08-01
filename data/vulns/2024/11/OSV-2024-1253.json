@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1253",
+  "published": "2024-11-01T00:03:18.217276",
+  "modified": "2024-11-01T00:03:18.217677",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=376331508\n\n```\nCrash type: Segv on unknown address\nCrash state:\nllama_output_reserve\nllama_decode\nfuzz_tokenizer.cpp\n```\n",
+  "summary": "Segv on unknown address in llama_output_reserve",
+  "repo_url": "https://github.com/ggerganov/llama.cpp",
+  "cwes": [],
+  "commits": [
+    "8f275a7c4593aa34147595a90282cf950a853690"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "26ddc81aa86d006509b569e9d331631be8568bec",
+  "repo_url": "https://github.com/chatopera/cosin",
+  "date": "2019-11-01T11:05:59",
+  "languages": {
+    "Java": 3721167,
+    "JavaScript": 3181704,
+    "HTML": 1865376,
+    "CSS": 242057,
+    "Shell": 16286,
+    "Dockerfile": 1774
+  },
+  "size": 9028364
+}

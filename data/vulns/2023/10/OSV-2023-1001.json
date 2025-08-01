@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-1001",
+  "published": "2023-10-11T13:02:38.205441",
+  "modified": "2023-10-14T14:20:59.452689",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=63154\n\n```\nCrash type: Security exception\nCrash state:\njava.base/java.lang.String.repeat\norg.springframework.expression.spel.ast.OpMultiply.getValueInternal\norg.springframework.expression.spel.ast.MethodReference.getArguments\n```\n",
+  "summary": "Security exception in java.base/java.lang.String.repeat",
+  "repo_url": "https://github.com/spring-projects/spring-data-keyvalue.git",
+  "cwes": [],
+  "commits": [
+    "5cbcd731f438210d19d2cb6e7c352a6d272a8046"
+  ]
+}

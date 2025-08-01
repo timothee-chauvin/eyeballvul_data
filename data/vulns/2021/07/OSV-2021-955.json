@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2021-955",
+  "published": "2021-07-11T00:01:05.153778",
+  "modified": "2022-05-19T00:45:08.957102",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=36009\n\n```\nCrash type: Stack-buffer-overflow WRITE 1\nCrash state:\nBuffer_AppendIndentUnchecked\nencode\nencode\n```\n",
+  "summary": "Stack-buffer-overflow in Buffer_AppendIndentUnchecked",
+  "repo_url": "https://github.com/ultrajson/ultrajson.git",
+  "cwes": [],
+  "commits": [
+    "682c6601569980e9a8a05378d3c1478db30384bc"
+  ]
+}

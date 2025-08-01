@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2018-417",
+  "published": "2021-01-15T00:01:14.949558",
+  "modified": "2022-04-13T03:04:40.905295",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=9539\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nboost::sub_match<std::__1::__wrap_iter<char const*> >::sub_match\n_ZNSt3__16vectorIN5boost9sub_matchINS_11__wrap_iterIPKcEEEENS_9allocatorIS7_EEE1\nboost::match_results<std::__1::__wrap_iter<char const*>, std::__1::allocator<boo\n```\n",
+  "summary": "UNKNOWN READ in boost::sub_match<std::__1::__wrap_iter<char const*> >::sub_match",
+  "repo_url": "https://github.com/boostorg/boost.git",
+  "cwes": [],
+  "commits": [
+    "7e1702ecf7ee2b3a18062d9e2bf1d9be1e7b66e5"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "4956b73fd191281c61daa2c4ebbacf7c1d76792b",
+  "repo_url": "https://github.com/finos/git-proxy",
+  "date": "2025-07-11T13:02:47",
+  "languages": {
+    "JavaScript": 392263,
+    "TypeScript": 332958,
+    "MDX": 74806,
+    "CSS": 21005,
+    "HTML": 3180,
+    "Shell": 2004
+  },
+  "size": 826216
+}

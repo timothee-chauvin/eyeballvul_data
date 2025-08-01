@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-3",
+  "published": "2021-01-13T00:00:02.349159",
+  "modified": "2022-04-13T03:04:35.226025",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4610\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nArchive::GetComment\nArchive::ViewComment\nCmdExtract::ExtractArchive\n```\n",
+  "summary": "Use-of-uninitialized-value in Archive::GetComment",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

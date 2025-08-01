@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1066",
+  "published": "2024-09-13T00:14:35.159638",
+  "modified": "2025-01-10T05:47:49.595046",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=71496\n\n```\nCrash type: Heap-buffer-overflow READ 2\nCrash state:\nStrLen\nMangleFileName\nToolChainHarnessLib.c\n```\n",
+  "summary": "Heap-buffer-overflow in StrLen",
+  "repo_url": "https://github.com/tianocore/edk2.git",
+  "cwes": [],
+  "commits": [
+    "4dfdca63a93497203f197ec98ba20e2327e4afe4"
+  ]
+}

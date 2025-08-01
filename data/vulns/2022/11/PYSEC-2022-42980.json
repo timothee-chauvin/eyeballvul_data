@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-42980",
+  "published": "2022-11-14T07:15:00",
+  "modified": "2023-12-06T01:02:42.645414",
+  "details": "Pillow before 9.3.0 allows denial of service via SAMPLESPERPIXEL.",
+  "repo_url": "https://github.com/python-pillow/pillow",
+  "cwes": [],
+  "commits": [
+    "58acec3312fb8671c9d84829197e1c8150085589"
+  ]
+}

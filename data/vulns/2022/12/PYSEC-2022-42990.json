@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-42990",
+  "published": "2022-12-15T21:15:00",
+  "modified": "2023-11-08T04:10:51.245532",
+  "details": "A vulnerability was found in collective.task up to 3.0.9. It has been classified as problematic. This affects the function renderCell/AssignedGroupColumn of the file src/collective/task/browser/table.py. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 3.0.10 is able to address this issue. The name of the patch is 1aac7f83fa2c2b41d59ba02748912953461f3fac. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-215907.",
+  "repo_url": "https://github.com/collective/collective.task",
+  "cwes": [],
+  "commits": [
+    "e900f90e744626770faad4bbf9dacafe16ae555c"
+  ]
+}

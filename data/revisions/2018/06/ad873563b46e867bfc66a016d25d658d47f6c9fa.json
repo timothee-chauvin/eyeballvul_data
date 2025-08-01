@@ -1,0 +1,14 @@
+{
+  "commit": "ad873563b46e867bfc66a016d25d658d47f6c9fa",
+  "repo_url": "https://github.com/dcit/perl-cryptx",
+  "date": "2018-06-07T05:21:02",
+  "languages": {
+    "Perl": 2965451,
+    "C": 2729956,
+    "C++": 354845,
+    "XS": 22281,
+    "Makefile": 16055,
+    "Shell": 3244
+  },
+  "size": 6091832
+}

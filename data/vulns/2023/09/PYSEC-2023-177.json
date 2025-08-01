@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-177",
+  "published": "2023-09-25T12:15:00",
+  "modified": "2023-11-08T04:13:26.094496",
+  "details": "An issue in Gevent before version 23.9.0 allows a remote attacker to escalate privileges via a crafted script to the WSGIServer component.",
+  "repo_url": "https://github.com/gevent/gevent",
+  "cwes": [],
+  "commits": [
+    "229a1b3747e88f823700538a74a685b75303fc53"
+  ]
+}

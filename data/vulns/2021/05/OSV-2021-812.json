@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2021-812",
+  "published": "2021-05-29T00:01:09.011604",
+  "modified": "2022-04-13T03:04:36.375090",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=34733\n\n```\nCrash type: Uncaught exception\nCrash state:\ncom.esotericsoftware.kryo.serializers.FieldSerializer.read\ncom.esotericsoftware.kryo.Kryo.readObject\nDeserializeStringFuzzer.fuzzerTestOneInput\n```\n",
+  "summary": "Uncaught exception in com.esotericsoftware.kryo.serializers.FieldSerializer.read",
+  "repo_url": "https://github.com/esotericsoftware/kryo",
+  "cwes": [],
+  "commits": [
+    "13064873d4b84242f4c308cd400ace4536f51f65"
+  ]
+}

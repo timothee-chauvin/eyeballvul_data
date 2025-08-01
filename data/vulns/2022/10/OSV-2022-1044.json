@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2022-1044",
+  "published": "2022-10-13T00:00:07.663671",
+  "modified": "2023-02-24T01:50:40.817007",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=52326\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nparse_via\nget_hdr_field\nparse_headers\n```\n",
+  "summary": "Heap-buffer-overflow in parse_via",
+  "repo_url": "https://github.com/opensips/opensips",
+  "cwes": [],
+  "commits": [
+    "c51486e3a7d2efdd8ebd3536ad24009fdb47fcc8"
+  ]
+}

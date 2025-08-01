@@ -1,0 +1,16 @@
+{
+  "commit": "0079e56d8b6640c354457be42090617431f5c6bc",
+  "repo_url": "https://github.com/fastcgi-archives/fcgi2",
+  "date": "2025-01-07T14:21:27",
+  "languages": {
+    "C": 237410,
+    "Java": 47962,
+    "M4": 17791,
+    "Perl": 17642,
+    "Makefile": 16976,
+    "XS": 11082,
+    "C++": 7863,
+    "Shell": 136
+  },
+  "size": 356862
+}

@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-201",
+  "published": "2022-05-18T14:15:00",
+  "modified": "2023-11-08T04:07:48.746344",
+  "details": "Cross-site Scripting (XSS) - Generic in GitHub repository octoprint/octoprint prior to 1.8.0.",
+  "repo_url": "https://github.com/octoprint/octoprint",
+  "cwes": [],
+  "commits": [
+    "7054a726bb3dc363a98ec6944b24e07879bb389b"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1218",
+  "published": "2024-10-14T00:08:40.382545",
+  "modified": "2025-04-10T14:48:52.198172",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=372765426\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nPoco::UTF16Encoding::queryConvert\nPoco::TextConverter::convert\nPoco::Net::NTLMCredentials::parseChallengeMessage\n```\n",
+  "summary": "UNKNOWN READ in Poco::UTF16Encoding::queryConvert",
+  "repo_url": "https://github.com/pocoproject/poco",
+  "cwes": [],
+  "commits": [
+    "02c86d4cddb14de293eabdb795e4a7c61745eb2b"
+  ]
+}

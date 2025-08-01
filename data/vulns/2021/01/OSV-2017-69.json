@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-69",
+  "published": "2021-01-13T21:56:34.401253",
+  "modified": "2023-02-24T01:45:08.860692",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4409\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nIsRelativeSymlinkSafe\nExtractUnixLink30\nExtractSymlink\n```\n",
+  "summary": "Use-of-uninitialized-value in IsRelativeSymlinkSafe",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

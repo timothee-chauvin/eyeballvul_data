@@ -1,0 +1,15 @@
+{
+  "commit": "b993ce902243a6d7b607c3895b4f67789d69e245",
+  "repo_url": "https://github.com/hercules-team/augeas",
+  "date": "2023-07-08T07:53:17",
+  "languages": {
+    "Augeas": 1686413,
+    "C": 1100362,
+    "Shell": 58526,
+    "Yacc": 19623,
+    "Makefile": 14778,
+    "M4": 9272,
+    "Dockerfile": 682
+  },
+  "size": 2889656
+}

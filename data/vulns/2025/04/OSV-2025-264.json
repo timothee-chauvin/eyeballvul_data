@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2025-264",
+  "published": "2025-04-08T00:00:08.174777",
+  "modified": "2025-04-08T00:00:08.175341",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=408254044\n\n```\nCrash type: Security exception\nCrash state:\norg.joni.Parser.parseCharClass\norg.joni.Lexer.fetchTokenInCC\norg.joni.Parser.parseCharClass\n```\n",
+  "summary": "Security exception in org.joni.Parser.parseCharClass",
+  "repo_url": "https://github.com/jruby/joni",
+  "cwes": [],
+  "commits": [
+    "c607318fef3b7d709c75201f309f6c938c24a16a"
+  ]
+}

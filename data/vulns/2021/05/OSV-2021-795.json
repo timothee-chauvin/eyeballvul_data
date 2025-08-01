@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2021-795",
+  "published": "2021-05-25T23:50:45.528753",
+  "modified": "2023-02-24T01:59:56.280376",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=34646\n\n```\nCrash type: Uncaught exception\nCrash state:\nNULL```\n",
+  "summary": "Uncaught exception",
+  "repo_url": "https://github.com/esotericsoftware/kryo",
+  "cwes": [],
+  "commits": [
+    "13064873d4b84242f4c308cd400ace4536f51f65"
+  ]
+}

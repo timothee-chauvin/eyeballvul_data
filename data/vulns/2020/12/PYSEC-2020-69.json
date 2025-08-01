@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-69",
+  "published": "2020-12-02T20:15:00",
+  "modified": "2023-11-08T04:03:15.948349",
+  "details": "Python oic is a Python OpenID Connect implementation. In Python oic before version 1.2.1, there are several related cryptographic issues affecting client implementations that use the library. The issues are: 1) The IdToken signature algorithm was not checked automatically, but only if the expected algorithm was passed in as a kwarg. 2) JWA `none` algorithm was allowed in all flows. 3) oic.consumer.Consumer.parse_authz returns an unverified IdToken. The verification of the token was left to the discretion of the implementator. 4) iat claim was not checked for sanity (i.e. it could be in the future). These issues are patched in version 1.2.1.",
+  "repo_url": "https://github.com/openidc/pyoidc",
+  "cwes": [],
+  "commits": [
+    "766dd870cedb6ef7c214e897718002396ae4b5f4"
+  ]
+}

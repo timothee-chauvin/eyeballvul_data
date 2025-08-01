@@ -1,0 +1,17 @@
+{
+  "commit": "46630681c702d575951518babeef0ae58e393ba8",
+  "repo_url": "https://github.com/munin-monitoring/munin",
+  "date": "2017-01-18T20:25:20",
+  "languages": {
+    "Perl": 1682308,
+    "Shell": 365558,
+    "Java": 76363,
+    "Makefile": 39695,
+    "Python": 39333,
+    "JavaScript": 18579,
+    "HTML": 17300,
+    "CSS": 13019,
+    "Roff": 4818
+  },
+  "size": 2256973
+}

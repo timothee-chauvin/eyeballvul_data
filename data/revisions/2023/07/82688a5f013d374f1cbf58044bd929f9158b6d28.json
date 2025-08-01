@@ -1,0 +1,13 @@
+{
+  "commit": "82688a5f013d374f1cbf58044bd929f9158b6d28",
+  "repo_url": "https://github.com/jerryjliu/llama_index",
+  "date": "2023-07-26T14:39:27",
+  "languages": {
+    "Python": 1992522,
+    "HTML": 730874,
+    "Jupyter Notebook": 24799,
+    "Shell": 1470,
+    "Makefile": 531
+  },
+  "size": 2750196
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2025-45",
+  "published": "2025-05-26T07:15:26",
+  "modified": "2025-06-03T17:58:50.990302",
+  "details": "A vulnerability was found in erdogant pypickle up to 1.1.5 and classified as problematic. Affected by this issue is the function load of the file pypickle/pypickle.py. The manipulation leads to deserialization. Local access is required to approach this attack. The exploit has been disclosed to the public and may be used. Upgrading to version 2.0.0 is able to address this issue. The patch is identified as 14b4cae704a0bb4eb6723e238f25382d847a1917. It is recommended to upgrade the affected component.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/erdogant/pypickle",
+  "cwes": [],
+  "commits": [
+    "90ba7b52f66846f2c968b326a0291c15a6a5f19e"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "01e5131569d3a3c592a32e7aee22913566015e28",
+  "repo_url": "https://github.com/gdraheim/zziplib",
+  "date": "2009-08-03T18:32:00",
+  "languages": {
+    "C": 407545,
+    "Shell": 289385,
+    "Makefile": 180664,
+    "M4": 135514,
+    "sed": 1911,
+    "Batchfile": 1344
+  },
+  "size": 1016363
+}

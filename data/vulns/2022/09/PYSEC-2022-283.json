@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-283",
+  "published": "2022-09-21T12:15:00",
+  "modified": "2023-11-08T04:09:19.722681",
+  "details": "Improper Privilege Management in GitHub repository octoprint/octoprint prior to 1.8.3.",
+  "repo_url": "https://github.com/octoprint/octoprint",
+  "cwes": [],
+  "commits": [
+    "7054a726bb3dc363a98ec6944b24e07879bb389b"
+  ]
+}

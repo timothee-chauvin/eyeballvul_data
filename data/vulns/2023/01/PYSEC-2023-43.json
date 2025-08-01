@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-43",
+  "published": "2023-01-28T23:15:00",
+  "modified": "2023-11-08T04:07:09.050507",
+  "details": "A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the public and may be used. Upgrading to version 3.2.1 is able to address this issue. The name of the patch is 47787e15cecd66f2aa87687bf852ae0194a4335f. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-219676.",
+  "repo_url": "https://github.com/nyuccl/psiturk",
+  "cwes": [],
+  "commits": [
+    "7ed600acf532676f0c16366a679ac6e1d105b0c5"
+  ]
+}

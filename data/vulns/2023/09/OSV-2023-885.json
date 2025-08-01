@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-885",
+  "published": "2023-09-20T14:02:30.557328",
+  "modified": "2023-09-20T14:02:30.557630",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=62508\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nbytes1_char_at\nascii_at_line_end\ntry_match\n```\n",
+  "summary": "UNKNOWN READ in bytes1_char_at",
+  "repo_url": "https://github.com/mrabarnett/mrab-regex",
+  "cwes": [],
+  "commits": [
+    "34333d5009b119949112546b1f82a1edfb590398"
+  ]
+}

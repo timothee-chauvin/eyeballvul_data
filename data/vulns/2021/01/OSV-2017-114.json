@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-114",
+  "published": "2021-01-13T21:57:49.330781",
+  "modified": "2023-02-24T02:00:57.467780",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4310\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\n__gxx_personality_v0\n_Unwind_RaiseException\nErrorHandler::Throw\n```\n",
+  "summary": "Use-of-uninitialized-value in __gxx_personality_v0",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

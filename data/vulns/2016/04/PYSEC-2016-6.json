@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2016-6",
+  "published": "2016-04-13T16:59:00",
+  "modified": "2023-11-08T03:58:06.553217",
+  "details": "Buffer overflow in the ImagingFliDecode function in libImaging/FliDecode.c in Pillow before 3.1.1 allows remote attackers to cause a denial of service (crash) via a crafted FLI file.",
+  "repo_url": "https://github.com/python-pillow/pillow",
+  "cwes": [],
+  "commits": [
+    "80d6137c860b9322572ee1390514df1975acb2e7"
+  ]
+}

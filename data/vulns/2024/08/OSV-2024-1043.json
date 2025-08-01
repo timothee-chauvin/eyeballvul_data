@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1043",
+  "published": "2024-08-21T00:14:12.263763",
+  "modified": "2024-08-21T14:20:12.835561",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=71307\n\n```\nCrash type: Heap-buffer-overflow WRITE {*}\nCrash state:\nsimdutf::haswell::implementation::convert_utf8_to_latin1\nConversion<\nConversion<\n```\n",
+  "summary": "Heap-buffer-overflow in simdutf::haswell::implementation::convert_utf8_to_latin1",
+  "repo_url": "https://github.com/simdutf/simdutf",
+  "cwes": [],
+  "commits": [
+    "550fcd7ac55fcca629087f0b84c477807e9f6f18"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-52",
+  "published": "2020-12-09T17:15:00",
+  "modified": "2023-11-08T04:03:16.807176",
+  "details": "jupyterhub-systemdspawner enables JupyterHub to spawn single-user notebook servers using systemd. In jupyterhub-systemdspawner before version 0.15 user API tokens issued to single-user servers are specified in the environment of systemd units. These tokens are incorrectly accessible to all users. In particular, the-littlest-jupyterhub is affected, which uses systemdspawner by default. This is patched in jupyterhub-systemdspawner v0.15",
+  "repo_url": "https://github.com/jupyterhub/systemdspawner",
+  "cwes": [],
+  "commits": [
+    "aac7ef826e6903b9c094af90d423d1b33f46d1bc"
+  ]
+}

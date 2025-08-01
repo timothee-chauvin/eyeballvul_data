@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-9",
+  "published": "2021-01-13T00:00:14.156767",
+  "modified": "2022-04-13T03:04:35.237839",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4507\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nQuickOpen::Read\nArchive::Read\nRawRead::Read\n```\n",
+  "summary": "Use-of-uninitialized-value in QuickOpen::Read",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

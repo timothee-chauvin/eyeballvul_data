@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-76",
+  "published": "2023-05-08T17:15:00",
+  "modified": "2023-11-08T04:12:26.960645",
+  "details": "Vyper is a pythonic smart contract language for the EVM. The storage allocator does not guard against allocation overflows in versions prior to 0.3.8. An attacker can overwrite the owner variable. This issue was fixed in version 0.3.8.\n",
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "cwes": [],
+  "commits": [
+    "cac3d7d99f64c995a3dd7e9584fdabd617819ba2"
+  ]
+}

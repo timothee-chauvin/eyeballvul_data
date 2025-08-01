@@ -1,0 +1,12 @@
+{
+  "commit": "b1b88cf4d255c4b9faf1dae05faaa78091268cb1",
+  "repo_url": "https://github.com/python-imaging/pillow",
+  "date": "2014-01-01T21:10:13",
+  "languages": {
+    "Python": 804068,
+    "C": 794756,
+    "Gnuplot": 1125,
+    "Makefile": 118
+  },
+  "size": 1600067
+}

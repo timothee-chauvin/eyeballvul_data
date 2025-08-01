@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-229",
+  "published": "2020-03-18T15:15:00",
+  "modified": "2023-11-08T04:00:54.165036",
+  "details": "django-nopassword before 5.0.0 stores cleartext secrets in the database.",
+  "repo_url": "https://github.com/relekang/django-nopassword",
+  "cwes": [],
+  "commits": [
+    "e4a8476e8b7dc3816f255002a6f5b39492a0e994"
+  ]
+}

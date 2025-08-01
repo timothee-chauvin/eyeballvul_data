@@ -1,0 +1,16 @@
+{
+  "commit": "6e2e248bdf537a142eba8a5ef5f5af48d0f11742",
+  "repo_url": "https://github.com/docker/docker",
+  "date": "2019-03-20T18:01:06",
+  "languages": {
+    "Go": 7329451,
+    "Shell": 126201,
+    "PowerShell": 78181,
+    "Dockerfile": 12528,
+    "Makefile": 10256,
+    "C": 4815,
+    "Vim Script": 1369,
+    "Assembly": 81
+  },
+  "size": 7562882
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "5cfc8364d0ab19bc39e62095c075ca6b36d09dd0",
+  "repo_url": "https://github.com/typetools/checker-framework",
+  "date": "2024-12-02T17:46:49",
+  "languages": {
+    "Java": 11146905,
+    "TeX": 544826,
+    "Shell": 94209,
+    "Makefile": 9236,
+    "Batchfile": 52
+  },
+  "size": 11795228
+}

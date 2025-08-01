@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-206",
+  "published": "2023-10-15T23:15:00",
+  "modified": "2023-11-08T04:13:47.690171",
+  "details": "NULL Pointer Dereference in GitHub repository seleniumhq/selenium prior to 4.14.0.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/seleniumhq/selenium",
+  "cwes": [],
+  "commits": [
+    "11cd0ef93615408e0b6b3bfa28defe125906461a"
+  ]
+}

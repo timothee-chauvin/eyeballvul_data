@@ -1,0 +1,19 @@
+{
+  "commit": "418f02710809512d5c2ffa3053731e902c760944",
+  "repo_url": "https://github.com/plone/products.cmfplone",
+  "date": "2015-09-08T19:04:21",
+  "languages": {
+    "JavaScript": 19147315,
+    "Python": 1472311,
+    "HTML": 1107023,
+    "CSS": 456802,
+    "Less": 371581,
+    "RobotFramework": 98210,
+    "CoffeeScript": 73296,
+    "COBOL": 11124,
+    "Makefile": 3709,
+    "Shell": 3351,
+    "Roff": 2029
+  },
+  "size": 22746751
+}

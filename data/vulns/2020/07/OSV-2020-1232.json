@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2020-1232",
+  "published": "2020-07-22T21:49:58.709915",
+  "modified": "2022-04-13T03:04:31.076042",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=16844\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nTIFFYCbCrtoRGB\nputcontig8bitYCbCr22tile\ngtTileContig\n```\n",
+  "summary": "Use-of-uninitialized-value in TIFFYCbCrtoRGB",
+  "repo_url": "https://gitlab.com/libtiff/libtiff",
+  "cwes": [],
+  "commits": [
+    "b8eac98dd0849c3f888518ce5cecc020f8b2991c"
+  ]
+}

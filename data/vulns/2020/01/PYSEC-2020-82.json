@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-82",
+  "published": "2020-01-03T01:15:00",
+  "modified": "2023-12-06T01:00:36.248901",
+  "details": "libImaging/SgiRleDecode.c in Pillow before 6.2.2 has an SGI buffer overflow.",
+  "repo_url": "https://github.com/python-pillow/pillow",
+  "cwes": [],
+  "commits": [
+    "80d6137c860b9322572ee1390514df1975acb2e7"
+  ]
+}

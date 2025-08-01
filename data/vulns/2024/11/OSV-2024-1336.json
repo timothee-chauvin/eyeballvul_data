@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1336",
+  "published": "2024-11-26T00:01:25.736998",
+  "modified": "2024-11-26T00:01:25.737632",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=380409697\n\n```\nCrash type: Security exception\nCrash state:\norg.checkerframework.checker.formatter.util.FormatUtil.formatParameterCategories\nUtilCheckerFuzzer.fuzzChecker\nUtilCheckerFuzzer.fuzzerTestOneInput\n```\n",
+  "summary": "Security exception in org.checkerframework.checker.formatter.util.FormatUtil.formatParameterCategories",
+  "repo_url": "https://github.com/typetools/checker-framework",
+  "cwes": [],
+  "commits": [
+    "5cfc8364d0ab19bc39e62095c075ca6b36d09dd0"
+  ]
+}

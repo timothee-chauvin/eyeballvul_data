@@ -1,0 +1,17 @@
+{
+  "commit": "9e9d5158735d7401296ecd28515e9dbef831e4e1",
+  "repo_url": "https://github.com/orc/discount",
+  "date": "2018-03-02T22:52:05",
+  "languages": {
+    "C": 158365,
+    "Roff": 78687,
+    "BitBake": 39070,
+    "Perl": 25558,
+    "Raku": 23521,
+    "Makefile": 8155,
+    "Shell": 6996,
+    "CMake": 6227,
+    "Turing": 541
+  },
+  "size": 347120
+}

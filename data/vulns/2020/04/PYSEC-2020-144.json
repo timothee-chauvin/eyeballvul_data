@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-144",
+  "published": "2020-04-20T22:15:00",
+  "modified": "2023-11-08T04:02:03.112341",
+  "details": "In Tortoise ORM before versions 0.15.23 and 0.16.6, various forms of SQL injection have been found for MySQL and when filtering or doing mass-updates on char/text fields. SQLite & PostgreSQL are only affected when filtering with contains, starts_with, or ends_with filters (and their case-insensitive counterparts).",
+  "repo_url": "https://github.com/tortoise/tortoise-orm",
+  "cwes": [],
+  "commits": [
+    "5d03e2f019ccf72f13974f39518a3e5fe439ac76"
+  ]
+}

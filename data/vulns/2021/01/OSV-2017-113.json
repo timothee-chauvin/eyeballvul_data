@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-113",
+  "published": "2021-01-13T21:57:48.978734",
+  "modified": "2023-02-24T02:04:48.395211",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4411\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nCommandData::IsProcessFile\nCmdExtract::ExtractCurrentFile\nCmdExtract::ExtractArchive\n```\n",
+  "summary": "Use-of-uninitialized-value in CommandData::IsProcessFile",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

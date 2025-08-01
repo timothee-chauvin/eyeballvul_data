@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2018-389",
+  "published": "2021-01-15T00:01:08.730847",
+  "modified": "2022-04-13T03:04:40.912286",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=6708\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nboost::re_detail_NUMBER::basic_regex_creator<char, boost::regex_traits<char, boo\nboost::re_detail_NUMBER::basic_regex_creator<char, boost::regex_traits<char, boo\nboost::re_detail_NUMBER::basic_regex_parser<char, boost::regex_traits<char, boos\n```\n",
+  "summary": "UNKNOWN READ in boost::re_detail_NUMBER::basic_regex_creator<char, boost::regex_traits<char, boo",
+  "repo_url": "https://github.com/boostorg/boost.git",
+  "cwes": [],
+  "commits": [
+    "7e1702ecf7ee2b3a18062d9e2bf1d9be1e7b66e5"
+  ]
+}

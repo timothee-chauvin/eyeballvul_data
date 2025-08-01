@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-427",
+  "published": "2021-06-21T20:15:00",
+  "modified": "2023-11-08T04:05:32.795110",
+  "details": "A Regular Expression Denial of Service (ReDOS) vulnerability was discovered in Mpmath v1.0.0 when the mpmathify function is called.",
+  "repo_url": "https://github.com/fredrik-johansson/mpmath",
+  "cwes": [],
+  "commits": [
+    "c6a35f9ee7c294bcf4e0517bc76b268843db9499"
+  ]
+}

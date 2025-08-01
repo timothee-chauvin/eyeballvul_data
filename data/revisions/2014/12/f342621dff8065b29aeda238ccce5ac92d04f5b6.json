@@ -1,0 +1,11 @@
+{
+  "commit": "f342621dff8065b29aeda238ccce5ac92d04f5b6",
+  "repo_url": "https://github.com/jborg/attic",
+  "date": "2014-12-17T22:19:22",
+  "languages": {
+    "Python": 266720,
+    "Cython": 21692,
+    "C": 18436
+  },
+  "size": 306848
+}

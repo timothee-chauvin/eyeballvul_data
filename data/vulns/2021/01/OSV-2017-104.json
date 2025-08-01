@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2017-104",
+  "published": "2021-01-13T21:57:43.088460",
+  "modified": "2022-04-13T03:04:35.305586",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=4373\n\n```\nCrash type: Heap-buffer-overflow WRITE 1\nCrash state:\nUnpack::CopyString\nUnpack::Unpack5\nCmdExtract::ExtractCurrentFile\n```\n",
+  "summary": "Heap-buffer-overflow in Unpack::CopyString",
+  "repo_url": "https://github.com/aawc/unrar.git",
+  "cwes": [],
+  "commits": [
+    "6c573e7f33380e60b583294e9ec5d68ae351c3cf"
+  ]
+}

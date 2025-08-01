@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-16",
+  "published": "2021-02-08T20:15:00",
+  "modified": "2023-11-08T04:04:39.189613",
+  "details": "httplib2 is a comprehensive HTTP client library for Python. In httplib2 before version 0.19.0, a malicious server which responds with long series of \"\\xa0\" characters in the \"www-authenticate\" header may cause Denial of Service (CPU burn while parsing header) of the httplib2 client accessing said server. This is fixed in version 0.19.0 which contains a new implementation of auth headers parsing using the pyparsing library.",
+  "repo_url": "https://github.com/httplib2/httplib2",
+  "cwes": [],
+  "commits": [
+    "cf631a73e2f3f43897b65206127ced82382d35f5"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1355",
+  "published": "2024-12-10T00:08:00.540533",
+  "modified": "2025-06-27T14:21:32.395794",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=382922237\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nglslang::TInfoSinkBase::location\nglslang::TParseContextBase::outputMessage\nglslang::TParseContextBase::error\n```\n",
+  "summary": "UNKNOWN READ in glslang::TInfoSinkBase::location",
+  "repo_url": "https://github.com/google/shaderc",
+  "cwes": [],
+  "commits": [
+    "8c2e602ce440b7739c95ff3d69cecb1adf6becda"
+  ]
+}

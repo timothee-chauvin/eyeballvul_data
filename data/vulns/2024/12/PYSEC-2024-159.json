@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2024-159",
+  "published": "2024-12-10T05:15:07",
+  "modified": "2025-01-14T05:57:07.876378",
+  "details": "Versions of the package luigi before 3.6.0 are vulnerable to Arbitrary File Write via Archive Extraction (Zip Slip) due to improper destination file path validation in the _extract_packages_archive function.",
+  "repo_url": "https://github.com/spotify/luigi",
+  "cwes": [],
+  "commits": [
+    "68dfdfca0a294ddf7505f17b95fca0c0c51901bd"
+  ]
+}

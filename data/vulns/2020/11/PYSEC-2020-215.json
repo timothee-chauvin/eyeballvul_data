@@ -1,0 +1,12 @@
+{
+  "id": "PYSEC-2020-215",
+  "published": "2020-11-18T22:15:00",
+  "modified": "2023-12-06T01:00:27.330085",
+  "details": "Jupyter Notebook before version 6.1.5 has an Open redirect vulnerability. A maliciously crafted link to a notebook server could redirect the browser to a different website. All notebook servers are technically affected, however, these maliciously crafted links can only be reasonably made for known notebook server hosts. A link to your notebook server may appear safe, but ultimately redirect to a spoofed server on the public internet. The issue is patched in version 6.1.5.",
+  "repo_url": "https://github.com/jupyter/notebook",
+  "cwes": [],
+  "commits": [
+    "1c839f686bf34d59ddaf3b6a2706599f8499e982",
+    "7aa0b1b571b331cde5a6b479ac377f1e9c75309a"
+  ]
+}

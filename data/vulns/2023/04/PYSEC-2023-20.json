@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-20",
+  "published": "2023-04-19T20:15:00",
+  "modified": "2023-11-08T04:12:26.777742",
+  "details": "\n\nNetflix Lemur before version 1.3.2 used insufficiently random values when generating default credentials. The insufficiently random values may allow an attacker to guess the credentials and gain access to resources managed by Lemur.\n\n\n",
+  "repo_url": "https://github.com/netflix/lemur",
+  "cwes": [],
+  "commits": [
+    "31fde453a8fed04f5e9e96b2b4b65ab3642fcd94"
+  ]
+}

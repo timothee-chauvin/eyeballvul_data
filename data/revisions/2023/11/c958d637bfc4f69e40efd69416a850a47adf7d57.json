@@ -1,0 +1,18 @@
+{
+  "commit": "c958d637bfc4f69e40efd69416a850a47adf7d57",
+  "repo_url": "https://github.com/linuxmint/pix",
+  "date": "2023-11-28T10:38:16",
+  "languages": {
+    "C": 5755083,
+    "C++": 123780,
+    "Meson": 74109,
+    "CSS": 25733,
+    "Python": 15605,
+    "Yacc": 9299,
+    "Lex": 4596,
+    "Shell": 3948,
+    "Roff": 1378,
+    "Ruby": 1249
+  },
+  "size": 6014780
+}

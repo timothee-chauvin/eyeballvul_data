@@ -1,0 +1,21 @@
+{
+  "commit": "2f2c5e2061cfebfad6b9aca4950d960caec073d8",
+  "repo_url": "https://github.com/sqlite/sqlite",
+  "date": "2022-11-16T12:10:08",
+  "languages": {
+    "C": 13119878,
+    "Tcl": 966519,
+    "JavaScript": 570294,
+    "Shell": 288537,
+    "M4": 174338,
+    "Makefile": 169866,
+    "Yacc": 74904,
+    "HTML": 74465,
+    "Batchfile": 37908,
+    "C#": 23719,
+    "C++": 14127,
+    "Roff": 9422,
+    "CSS": 2929
+  },
+  "size": 15526906
+}

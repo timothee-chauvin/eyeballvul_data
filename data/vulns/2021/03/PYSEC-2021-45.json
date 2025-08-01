@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-45",
+  "published": "2021-03-08T21:15:00",
+  "modified": "2023-11-08T04:04:41.823807",
+  "details": "Products.PluggableAuthService is a pluggable Zope authentication and authorization framework. In Products.PluggableAuthService before version 2.6.0 there is an open redirect vulnerability. A maliciously crafted link to the login form and login functionality could redirect the browser to a different website. The problem has been fixed in version 2.6.1. Depending on how you have installed Products.PluggableAuthService, you should change the buildout version pin to `2.6.1` and re-run the buildout, or if you used `pip` simply do `pip install \"Products.PluggableAuthService>=2.6.1\".",
+  "repo_url": "https://github.com/zopefoundation/products.pluggableauthservice",
+  "cwes": [],
+  "commits": [
+    "9df5b80c43a24647493d03e5ce3bf8ea2ba89124"
+  ]
+}

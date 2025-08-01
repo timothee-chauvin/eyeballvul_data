@@ -1,0 +1,15 @@
+{
+  "commit": "81670053da263b0fe814d58de66213a43f439b98",
+  "repo_url": "https://github.com/prismjs/prism",
+  "date": "2020-04-04T01:04:41",
+  "languages": {
+    "JavaScript": 649559,
+    "HTML": 179453,
+    "CSS": 40246,
+    "C": 543,
+    "Terra": 422,
+    "C++": 306,
+    "Shell": 244
+  },
+  "size": 870773
+}

@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2018-18",
+  "published": "2018-11-18T17:29:00",
+  "modified": "2023-11-08T04:00:07.695509",
+  "details": "Jupyter Notebook before 5.7.2 allows XSS via a crafted directory name because notebook/static/tree/js/notebooklist.js handles certain URLs unsafely.",
+  "repo_url": "https://github.com/jupyter/notebook",
+  "cwes": [],
+  "commits": [
+    "1c839f686bf34d59ddaf3b6a2706599f8499e982"
+  ]
+}

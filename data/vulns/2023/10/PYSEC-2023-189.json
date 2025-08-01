@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-189",
+  "published": "2023-10-03T05:15:00",
+  "modified": "2023-11-08T04:12:00.173445",
+  "details": "Versions of the package asyncua before 0.9.96 are vulnerable to Improper Authentication such that it is possible to access Address Space without encryption and authentication.\r\r**Note:**\r\rThis issue is a result of missing checks for services that require an active session.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/freeopcua/opcua-asyncio",
+  "cwes": [],
+  "commits": [
+    "7a86b031f2ae23463dccaaf2ca10a4b74a044e71"
+  ]
+}

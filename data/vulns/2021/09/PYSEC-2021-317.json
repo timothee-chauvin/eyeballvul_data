@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-317",
+  "published": "2021-09-03T16:15:00",
+  "modified": "2023-12-06T01:00:56.992827",
+  "details": "The package pillow from 0 and before 8.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via the getrgb function.",
+  "repo_url": "https://github.com/python-pillow/pillow",
+  "cwes": [],
+  "commits": [
+    "80d6137c860b9322572ee1390514df1975acb2e7"
+  ]
+}

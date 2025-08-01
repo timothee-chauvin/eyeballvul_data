@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2024-158",
+  "published": "2024-12-13T05:15:07",
+  "modified": "2025-01-14T05:57:00.712038",
+  "details": "Versions of the package djoser before 2.3.0 are vulnerable to Authentication Bypass when the authenticate() function fails. This is because the system falls back to querying the database directly, granting access to users with valid credentials, and eventually bypassing custom authentication checks such as two-factor authentication, LDAP validations, or requirements from configured AUTHENTICATION_BACKENDS.",
+  "repo_url": "https://github.com/sunscrapers/djoser",
+  "cwes": [],
+  "commits": [
+    "507a1fc43087ba1aa1da5044d0349b583c54fdce"
+  ]
+}

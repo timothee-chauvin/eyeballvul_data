@@ -1,0 +1,12 @@
+{
+  "commit": "dd9d647a0ddbe9ee886ce773b701c937da432b14",
+  "repo_url": "https://github.com/arkmq-org/activemq-artemis-operator",
+  "date": "2025-03-26T12:49:12",
+  "languages": {
+    "Go": 1843165,
+    "Shell": 21363,
+    "Makefile": 18624,
+    "Dockerfile": 3917
+  },
+  "size": 1887069
+}

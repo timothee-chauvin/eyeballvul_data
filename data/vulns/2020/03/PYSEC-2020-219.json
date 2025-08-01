@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-219",
+  "published": "2020-03-13T22:15:00",
+  "modified": "2023-11-08T04:03:52.662840",
+  "details": "In wagtail-2fa before 1.4.1, any user with access to the CMS can view and delete other users 2FA devices by going to the correct path. The user does not require special permissions in order to do so. By deleting the other users device they can disable the target users 2FA devices and potentially compromise the account if they figure out their password. The problem has been patched in version 1.4.1.",
+  "repo_url": "https://github.com/labd/wagtail-2fa",
+  "cwes": [],
+  "commits": [
+    "76ebe5965fc39a1789fea677a3c0e093cd94c934"
+  ]
+}

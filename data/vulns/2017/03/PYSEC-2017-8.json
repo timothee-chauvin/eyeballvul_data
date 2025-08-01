@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-8",
+  "published": "2017-03-27T17:59:00",
+  "modified": "2023-11-08T03:58:38.234221",
+  "details": "HKDF in cryptography before 1.5.2 returns an empty byte-string if used with a length less than algorithm.digest_size.",
+  "repo_url": "https://github.com/pyca/cryptography",
+  "cwes": [],
+  "commits": [
+    "c0ee738a8460dc3551758400772978ed62a84d46"
+  ]
+}

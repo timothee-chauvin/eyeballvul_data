@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-869",
+  "published": "2021-12-25T12:15:00",
+  "modified": "2023-11-08T04:07:00.523409",
+  "details": "archivy is vulnerable to Cross-Site Request Forgery (CSRF)",
+  "repo_url": "https://github.com/archivy/archivy",
+  "cwes": [],
+  "commits": [
+    "dca1cc1f61cc8309870a1bf00fd863411f346351"
+  ]
+}

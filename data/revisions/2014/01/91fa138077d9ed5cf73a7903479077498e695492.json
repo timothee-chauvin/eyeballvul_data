@@ -1,0 +1,13 @@
+{
+  "commit": "91fa138077d9ed5cf73a7903479077498e695492",
+  "repo_url": "https://github.com/mitsuhiko/jinja2",
+  "date": "2014-01-10T10:42:33",
+  "languages": {
+    "Python": 946789,
+    "Vim Script": 5585,
+    "Emacs Lisp": 4733,
+    "HTML": 1729,
+    "Makefile": 554
+  },
+  "size": 959390
+}

@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-181",
+  "published": "2022-03-05T22:15:00",
+  "modified": "2023-11-08T04:07:41.151412",
+  "details": "Code Injection in GitHub repository pytorchlightning/pytorch-lightning prior to 1.6.0.",
+  "repo_url": "https://github.com/pytorchlightning/pytorch-lightning",
+  "cwes": [],
+  "commits": [
+    "92a2a6e9515b1dd3ffd81d56f753ba3345f9ad9c"
+  ]
+}

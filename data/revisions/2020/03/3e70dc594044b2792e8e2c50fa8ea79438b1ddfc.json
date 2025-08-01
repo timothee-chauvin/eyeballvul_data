@@ -1,0 +1,12 @@
+{
+  "commit": "3e70dc594044b2792e8e2c50fa8ea79438b1ddfc",
+  "repo_url": "https://github.com/gnome/file-roller",
+  "date": "2020-03-28T18:51:37",
+  "languages": {
+    "C": 1272679,
+    "Meson": 11076,
+    "Python": 2708,
+    "Shell": 565
+  },
+  "size": 1287028
+}

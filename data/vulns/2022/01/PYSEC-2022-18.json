@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-18",
+  "published": "2022-01-28T22:15:00",
+  "modified": "2023-11-08T04:07:32.735977",
+  "details": "Cross-site Scripting (XSS) - Reflected in Pypi calibreweb prior to 0.6.16.",
+  "repo_url": "https://github.com/janeczku/calibre-web",
+  "cwes": [],
+  "commits": [
+    "b564a97cdfc22c0e31e0ae18c6ed2b4320b40e50"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-522",
+  "published": "2023-06-29T14:01:00.082855",
+  "modified": "2023-06-29T14:01:00.083088",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=60156\n\n```\nCrash type: Security exception\nCrash state:\ncom.code_intelligence.jazzer.sanitizers.ServerSideRequestForgery.checkSsrf\ncom.code_intelligence.jazzer.sanitizers.ServerSideRequestForgery.checkSsrfSocket\njava.base/java.net.Socket.connect\n```\n",
+  "summary": "Security exception in com.code_intelligence.jazzer.sanitizers.ServerSideRequestForgery.checkSsrf",
+  "repo_url": "https://github.com/hunterhacker/jdom.git",
+  "cwes": [],
+  "commits": [
+    "c6065f684bdff5cebf5f23b2859c5e4c89fd89db"
+  ]
+}

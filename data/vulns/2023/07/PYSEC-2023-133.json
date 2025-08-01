@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-133",
+  "published": "2023-07-25T21:15:00",
+  "modified": "2023-11-08T04:13:03.946034",
+  "details": "Vyper is a Pythonic programming language that targets the Ethereum Virtual Machine (EVM). Prior to version 0.3.10, the ecrecover precompile does not fill the output buffer if the signature does not verify. However, the ecrecover builtin will still return whatever is at memory location 0. This means that the if the compiler has been convinced to write to the 0 memory location with specially crafted data (generally, this can happen with a hashmap access or immutable read) just before the ecrecover, a signature check might pass on an invalid signature. Version 0.3.10 contains a patch for this issue.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "cwes": [],
+  "commits": [
+    "cac3d7d99f64c995a3dd7e9584fdabd617819ba2"
+  ]
+}

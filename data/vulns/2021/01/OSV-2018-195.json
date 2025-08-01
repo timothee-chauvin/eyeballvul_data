@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2018-195",
+  "published": "2021-01-13T00:01:21.218732",
+  "modified": "2022-04-13T03:04:34.061437",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=10671\n\n```\nCrash type: Heap-buffer-overflow WRITE 1\nCrash state:\ngmp_emsa_pkcs1_signature_data\nverify_emsa_pkcs1_signature\nverify\n```\n",
+  "summary": "Heap-buffer-overflow in gmp_emsa_pkcs1_signature_data",
+  "repo_url": "https://github.com/strongswan/strongswan.git",
+  "cwes": [],
+  "commits": [
+    "2a327d438ce526b078fb1e93402c7394a78c408c"
+  ]
+}

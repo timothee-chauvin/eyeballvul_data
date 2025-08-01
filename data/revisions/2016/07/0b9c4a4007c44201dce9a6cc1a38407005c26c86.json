@@ -1,0 +1,14 @@
+{
+  "commit": "0b9c4a4007c44201dce9a6cc1a38407005c26c86",
+  "repo_url": "https://github.com/twbs/bootstrap",
+  "date": "2016-07-25T15:51:55",
+  "languages": {
+    "JavaScript": 332822,
+    "Less": 203040,
+    "HTML": 147184,
+    "CSS": 146010,
+    "PowerShell": 471,
+    "Ruby": 127
+  },
+  "size": 829654
+}

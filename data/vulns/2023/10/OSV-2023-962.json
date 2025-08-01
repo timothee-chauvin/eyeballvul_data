@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-962",
+  "published": "2023-10-05T13:00:30.156971",
+  "modified": "2023-10-05T13:00:30.157534",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=62976\n\n```\nCrash type: Security exception\nCrash state:\njava.base/java.util.regex.Pattern$GroupHead.match\njava.base/java.util.regex.Pattern$Loop.match\njava.base/java.util.regex.Pattern$GroupTail.match\n```\n",
+  "summary": "Security exception in java.base/java.util.regex.Pattern$GroupHead.match",
+  "repo_url": "https://github.com/apache/commons-io.git",
+  "cwes": [],
+  "commits": [
+    "82250a879112e9b58c58d289e166d66942d77341"
+  ]
+}

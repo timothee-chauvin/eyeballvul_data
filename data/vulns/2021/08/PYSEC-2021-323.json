@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-323",
+  "published": "2021-08-02T19:15:00",
+  "modified": "2023-11-08T04:06:00.649534",
+  "details": "Products.isurlinportal is a replacement for isURLInPortal method in Plone. Versions of Products.isurlinportal prior to 1.2.0 have an Open Redirect vulnerability. Various parts of Plone use the 'is url in portal' check for security, mostly to see if it is safe to redirect to a url. A url like `https://example.org` is not in the portal. The url `https:example.org` without slashes is considered to be in the portal. When redirecting, some browsers go to `https://example.org`, others give an error. Attackers may use this to redirect victims to their site, especially as part of a phishing attack. The problem has been patched in Products.isurlinportal 1.2.0.",
+  "repo_url": "https://github.com/plone/products.isurlinportal",
+  "cwes": [],
+  "commits": [
+    "667f8d35a30d17931dbb7e11ce6551431d9fd1bb"
+  ]
+}

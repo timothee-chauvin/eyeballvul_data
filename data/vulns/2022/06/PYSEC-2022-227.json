@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-227",
+  "published": "2022-06-02T14:15:00",
+  "modified": "2023-11-08T04:09:33.129718",
+  "details": "Bottle before 0.12.20 mishandles errors during early request binding.",
+  "repo_url": "https://github.com/bottlepy/bottle",
+  "cwes": [],
+  "commits": [
+    "a33e8bf369215218f3cbbff069f6c29860bd2dfa"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-39",
+  "published": "2024-01-25T00:05:37.689031",
+  "modified": "2024-04-29T11:31:05.900312",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66063\n\n```\nCrash type: Heap-buffer-overflow WRITE 16\nCrash state:\nsimdutf::westmere::implementation::convert_utf8_to_utf32\nroundtrip.cc\n```\n",
+  "summary": "Heap-buffer-overflow in simdutf::westmere::implementation::convert_utf8_to_utf32",
+  "repo_url": "https://github.com/simdutf/simdutf",
+  "cwes": [],
+  "commits": [
+    "3cfd23c994a87ccd4e890d3e101c7df3a2b05cd2"
+  ]
+}

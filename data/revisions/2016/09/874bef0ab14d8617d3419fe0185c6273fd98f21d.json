@@ -1,0 +1,15 @@
+{
+  "commit": "874bef0ab14d8617d3419fe0185c6273fd98f21d",
+  "repo_url": "https://github.com/webrecorder/pywb",
+  "date": "2016-09-15T21:18:44",
+  "languages": {
+    "Python": 695261,
+    "JavaScript": 129931,
+    "HTML": 8218,
+    "CSS": 3302,
+    "Arc": 2139,
+    "Shell": 466,
+    "Makefile": 83
+  },
+  "size": 839400
+}

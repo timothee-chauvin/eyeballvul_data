@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-197",
+  "published": "2022-04-13T19:15:00",
+  "modified": "2023-11-08T04:08:36.532748",
+  "details": "Vyper is a pythonic Smart Contract Language for the ethereum virtual machine. Versions of vyper prior to 0.3.2 suffer from a potential buffer overrun. Importing a function from a JSON interface which returns `bytes` generates bytecode which does not clamp bytes length, potentially resulting in a buffer overrun. Users are advised to upgrade. There are no known workarounds for this issue.",
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "cwes": [],
+  "commits": [
+    "cac3d7d99f64c995a3dd7e9584fdabd617819ba2"
+  ]
+}

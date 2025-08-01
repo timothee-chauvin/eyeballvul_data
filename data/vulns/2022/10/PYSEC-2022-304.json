@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-304",
+  "published": "2022-10-16T06:15:00",
+  "modified": "2023-12-06T01:02:36.260330",
+  "details": "In Django 3.2 before 3.2.16, 4.0 before 4.0.8, and 4.1 before 4.1.2, internationalized URLs were subject to a potential denial of service attack via the locale parameter, which is treated as a regular expression.",
+  "repo_url": "https://github.com/django/django",
+  "cwes": [],
+  "commits": [
+    "653a7bd7b7c2f7c3ffe6b22be53da1472c491474"
+  ]
+}
