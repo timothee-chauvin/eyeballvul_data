@@ -1,0 +1,22 @@
+{
+  "commit": "deb33692b89a9ec08aea8b4d07a17084f0562e13",
+  "repo_url": "https://github.com/opennebula/one",
+  "date": "2025-06-21T18:22:15",
+  "languages": {
+    "JavaScript": 6325788,
+    "C++": 5364060,
+    "Ruby": 3573223,
+    "C": 1799654,
+    "Shell": 970467,
+    "Python": 740522,
+    "Go": 574477,
+    "Java": 553134,
+    "Yacc": 36006,
+    "Lex": 10999,
+    "Augeas": 5815,
+    "Roff": 2086,
+    "Makefile": 1706,
+    "HTML": 1239
+  },
+  "size": 19959176
+}

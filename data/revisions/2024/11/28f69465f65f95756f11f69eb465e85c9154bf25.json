@@ -1,0 +1,12 @@
+{
+  "commit": "28f69465f65f95756f11f69eb465e85c9154bf25",
+  "repo_url": "https://github.com/cloudflare/pingora",
+  "date": "2024-11-01T17:32:08",
+  "languages": {
+    "Rust": 1779699,
+    "Dockerfile": 941,
+    "Shell": 137,
+    "HTML": 13
+  },
+  "size": 1780790
+}

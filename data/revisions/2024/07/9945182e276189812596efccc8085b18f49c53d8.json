@@ -1,0 +1,19 @@
+{
+  "commit": "9945182e276189812596efccc8085b18f49c53d8",
+  "repo_url": "https://github.com/sandboxie-plus/sandboxie",
+  "date": "2024-07-23T17:30:33",
+  "languages": {
+    "C": 5827943,
+    "C++": 5185184,
+    "Assembly": 1008920,
+    "Inno Setup": 169993,
+    "HTML": 167277,
+    "NSIS": 67239,
+    "Batchfile": 35764,
+    "JavaScript": 21873,
+    "QMake": 18564,
+    "CSS": 3883,
+    "Makefile": 3248
+  },
+  "size": 12509888
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "7bf44c78b8049b73b1c9feec39215e78321c0657",
+  "repo_url": "https://github.com/halfgaar/flashmq",
+  "date": "2024-06-03T11:34:01",
+  "languages": {
+    "C++": 1048128,
+    "Shell": 5901,
+    "CMake": 4727,
+    "C": 2623,
+    "Dockerfile": 1923,
+    "QMake": 195
+  },
+  "size": 1063497
+}

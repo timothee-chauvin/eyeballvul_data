@@ -1,0 +1,11 @@
+{
+  "commit": "ec551c08afefbb246182012c1432a5c000c5335a",
+  "repo_url": "https://github.com/leakingmemory/vtun-ng",
+  "date": "2025-08-02T07:11:32",
+  "languages": {
+    "Rust": 275329,
+    "Roff": 14480,
+    "Shell": 9305
+  },
+  "size": 299114
+}

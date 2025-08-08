@@ -1,0 +1,14 @@
+{
+  "commit": "4083c2edb2c705e8937aba81d92577984e028d5b",
+  "repo_url": "https://github.com/haxtheweb/haxcms-php",
+  "date": "2024-12-20T19:33:04",
+  "languages": {
+    "PHP": 390407,
+    "HTML": 72002,
+    "JavaScript": 46845,
+    "Shell": 21205,
+    "Dockerfile": 2225,
+    "CSS": 1433
+  },
+  "size": 534117
+}

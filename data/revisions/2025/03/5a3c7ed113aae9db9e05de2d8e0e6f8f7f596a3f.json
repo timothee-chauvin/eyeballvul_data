@@ -1,0 +1,12 @@
+{
+  "commit": "5a3c7ed113aae9db9e05de2d8e0e6f8f7f596a3f",
+  "repo_url": "https://gitlab.com/jirafeau/jirafeau",
+  "date": "2025-03-04T14:34:07",
+  "languages": {
+    "PHP": 200029,
+    "CSS": 9801,
+    "Shell": 1112,
+    "Dockerfile": 784
+  },
+  "size": 211726
+}

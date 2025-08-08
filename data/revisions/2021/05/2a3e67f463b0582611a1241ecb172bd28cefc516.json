@@ -1,0 +1,15 @@
+{
+  "commit": "2a3e67f463b0582611a1241ecb172bd28cefc516",
+  "repo_url": "https://github.com/atjiu/pybbs",
+  "date": "2021-05-13T08:37:03",
+  "languages": {
+    "Java": 487776,
+    "FreeMarker": 270228,
+    "SCSS": 4899,
+    "CSS": 3959,
+    "JavaScript": 1558,
+    "Shell": 164,
+    "Dockerfile": 40
+  },
+  "size": 768624
+}

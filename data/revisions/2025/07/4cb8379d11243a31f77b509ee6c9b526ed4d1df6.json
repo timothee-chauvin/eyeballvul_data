@@ -1,0 +1,14 @@
+{
+  "commit": "4cb8379d11243a31f77b509ee6c9b526ed4d1df6",
+  "repo_url": "https://github.com/grafana/grafana-infinity-datasource",
+  "date": "2025-07-28T10:46:36",
+  "languages": {
+    "TypeScript": 418424,
+    "Go": 317126,
+    "JavaScript": 39823,
+    "Dockerfile": 2467,
+    "Shell": 388,
+    "CSS": 195
+  },
+  "size": 778423
+}

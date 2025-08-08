@@ -1,0 +1,16 @@
+{
+  "commit": "79b2de8893c8300cd219883c1ab56ef34df40dab",
+  "repo_url": "https://github.com/1panel-dev/maxkb",
+  "date": "2025-04-29T11:08:17",
+  "languages": {
+    "Python": 2156357,
+    "Vue": 1359023,
+    "TypeScript": 500719,
+    "SCSS": 25164,
+    "JavaScript": 13737,
+    "HTML": 12510,
+    "Dockerfile": 3066,
+    "Shell": 379
+  },
+  "size": 4070955
+}

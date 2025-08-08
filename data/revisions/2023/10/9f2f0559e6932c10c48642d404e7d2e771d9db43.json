@@ -1,0 +1,13 @@
+{
+  "commit": "9f2f0559e6932c10c48642d404e7d2e771d9db43",
+  "repo_url": "https://github.com/rvc-project/retrieval-based-voice-conversion-webui",
+  "date": "2023-10-06T13:35:22",
+  "languages": {
+    "Python": 647051,
+    "Jupyter Notebook": 34814,
+    "Shell": 21139,
+    "Batchfile": 15994,
+    "Dockerfile": 2597
+  },
+  "size": 721595
+}

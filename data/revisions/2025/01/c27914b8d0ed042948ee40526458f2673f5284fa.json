@@ -1,0 +1,21 @@
+{
+  "commit": "c27914b8d0ed042948ee40526458f2673f5284fa",
+  "repo_url": "https://github.com/academysoftwarefoundation/materialx",
+  "date": "2025-01-20T22:26:10",
+  "languages": {
+    "C++": 2708514,
+    "JavaScript": 172648,
+    "Objective-C++": 172010,
+    "Python": 167209,
+    "GLSL": 117622,
+    "CMake": 80079,
+    "CSS": 60037,
+    "C": 58817,
+    "Objective-C": 34542,
+    "Metal": 9630,
+    "Shell": 4155,
+    "EJS": 1713,
+    "Batchfile": 1573
+  },
+  "size": 3588549
+}

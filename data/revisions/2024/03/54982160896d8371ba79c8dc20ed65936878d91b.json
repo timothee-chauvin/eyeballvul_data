@@ -1,0 +1,15 @@
+{
+  "commit": "54982160896d8371ba79c8dc20ed65936878d91b",
+  "repo_url": "https://github.com/devaslanphp/project-management",
+  "date": "2024-03-18T10:18:19",
+  "languages": {
+    "PHP": 1644531,
+    "JavaScript": 226218,
+    "Blade": 39865,
+    "CSS": 20154,
+    "SCSS": 5245,
+    "Dockerfile": 918,
+    "Shell": 210
+  },
+  "size": 1937141
+}
