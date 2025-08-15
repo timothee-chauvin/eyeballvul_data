@@ -1,0 +1,16 @@
+{
+  "commit": "53cf22f09adee68ab74b7ba5c4c14ead53e59122",
+  "repo_url": "https://github.com/migoxlab/lmeterx",
+  "date": "2025-07-22T03:44:04",
+  "languages": {
+    "Python": 320189,
+    "TypeScript": 249547,
+    "CSS": 13626,
+    "Makefile": 6845,
+    "JavaScript": 5281,
+    "HTML": 3675,
+    "Dockerfile": 2661,
+    "Shell": 2238
+  },
+  "size": 604062
+}

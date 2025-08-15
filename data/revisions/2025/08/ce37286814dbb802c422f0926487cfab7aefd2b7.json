@@ -1,0 +1,18 @@
+{
+  "commit": "ce37286814dbb802c422f0926487cfab7aefd2b7",
+  "repo_url": "https://github.com/astral-sh/uv",
+  "date": "2025-08-05T20:21:00",
+  "languages": {
+    "Rust": 14582008,
+    "Python": 242497,
+    "Shell": 12615,
+    "Mustache": 7464,
+    "Batchfile": 5504,
+    "Nushell": 3904,
+    "PowerShell": 2826,
+    "Dockerfile": 2405,
+    "Jupyter Notebook": 2140,
+    "C": 320
+  },
+  "size": 14861683
+}
