@@ -1,0 +1,15 @@
+{
+  "commit": "e228c708029b3bd44c4a7c50db5e684174f9441d",
+  "repo_url": "https://github.com/cym1102/nginxwebui",
+  "date": "2024-07-19T01:40:40",
+  "languages": {
+    "HTML": 1139536,
+    "JavaScript": 739057,
+    "Java": 464493,
+    "CSS": 79674,
+    "Less": 20352,
+    "Shell": 1694,
+    "Dockerfile": 915
+  },
+  "size": 2445721
+}

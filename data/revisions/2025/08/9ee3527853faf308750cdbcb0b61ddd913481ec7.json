@@ -1,0 +1,15 @@
+{
+  "commit": "9ee3527853faf308750cdbcb0b61ddd913481ec7",
+  "repo_url": "https://github.com/stuffanthings/qbit_manage",
+  "date": "2025-08-09T00:57:06",
+  "languages": {
+    "Python": 428788,
+    "JavaScript": 364468,
+    "CSS": 113872,
+    "HTML": 14001,
+    "Makefile": 2273,
+    "Shell": 1968,
+    "Dockerfile": 1196
+  },
+  "size": 926566
+}

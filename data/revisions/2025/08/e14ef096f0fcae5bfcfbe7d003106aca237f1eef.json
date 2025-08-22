@@ -1,0 +1,15 @@
+{
+  "commit": "e14ef096f0fcae5bfcfbe7d003106aca237f1eef",
+  "repo_url": "https://github.com/7ritn/vaultls",
+  "date": "2025-08-14T07:00:01",
+  "languages": {
+    "Rust": 133749,
+    "Vue": 49999,
+    "TypeScript": 27366,
+    "Python": 4384,
+    "Dockerfile": 1751,
+    "CSS": 956,
+    "HTML": 328
+  },
+  "size": 218533
+}

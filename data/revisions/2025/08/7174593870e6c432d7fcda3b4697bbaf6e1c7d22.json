@@ -1,0 +1,14 @@
+{
+  "commit": "7174593870e6c432d7fcda3b4697bbaf6e1c7d22",
+  "repo_url": "https://github.com/thinkinaixyz/deepchat",
+  "date": "2025-08-13T12:46:47",
+  "languages": {
+    "TypeScript": 2124866,
+    "Vue": 987496,
+    "JavaScript": 534158,
+    "CSS": 4359,
+    "HTML": 2110,
+    "Shell": 1020
+  },
+  "size": 3654009
+}

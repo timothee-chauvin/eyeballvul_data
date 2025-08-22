@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2025-215",
+  "published": "2025-03-18T00:09:36.655072",
+  "modified": "2025-03-18T00:09:36.655425",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=403877661\n\n```\nCrash type: Security exception\nCrash state:\ngraphql.parser.GraphqlAntlrToLanguage.createType\ngraphql.parser.GraphqlAntlrToLanguage.createListType\ngraphql.parser.GraphqlAntlrToLanguage.createNonNullType\n```\n",
+  "summary": "Security exception in graphql.parser.GraphqlAntlrToLanguage.createType",
+  "repo_url": "https://github.com/graphql-java/graphql-java",
+  "cwes": [],
+  "commits": [
+    "9cc3538f3b13db50282d13bbbc8120814f6fe0f1"
+  ]
+}

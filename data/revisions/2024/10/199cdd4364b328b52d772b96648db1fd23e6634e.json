@@ -1,0 +1,13 @@
+{
+  "commit": "199cdd4364b328b52d772b96648db1fd23e6634e",
+  "repo_url": "https://github.com/getgrav/grav",
+  "date": "2024-10-28T11:30:18",
+  "languages": {
+    "PHP": 2924827,
+    "CSS": 8627,
+    "Twig": 1772,
+    "JavaScript": 1393,
+    "Logos": 908
+  },
+  "size": 2937527
+}

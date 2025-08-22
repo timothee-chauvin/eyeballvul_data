@@ -1,0 +1,12 @@
+{
+  "commit": "7f60a29f14d48251d7005344c7ec1bf87d5a6bce",
+  "repo_url": "https://github.com/copier-org/copier",
+  "date": "2025-08-01T17:35:56",
+  "languages": {
+    "Python": 558294,
+    "Dockerfile": 530,
+    "Shell": 268,
+    "Jinja": 73
+  },
+  "size": 559165
+}

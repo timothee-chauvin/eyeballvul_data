@@ -1,0 +1,11 @@
+{
+  "commit": "e639238f0e56ac0ad886e5bbe920e1903969422b",
+  "repo_url": "https://github.com/komari-monitor/komari",
+  "date": "2025-08-09T05:54:31",
+  "languages": {
+    "Go": 302089,
+    "Shell": 10613,
+    "Dockerfile": 510
+  },
+  "size": 313212
+}
