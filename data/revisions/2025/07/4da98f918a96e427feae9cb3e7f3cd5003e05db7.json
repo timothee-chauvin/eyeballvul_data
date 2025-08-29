@@ -1,0 +1,12 @@
+{
+  "commit": "4da98f918a96e427feae9cb3e7f3cd5003e05db7",
+  "repo_url": "https://github.com/traptitech/traq",
+  "date": "2025-07-21T02:52:12",
+  "languages": {
+    "Go": 1875495,
+    "Makefile": 2751,
+    "Shell": 831,
+    "Dockerfile": 796
+  },
+  "size": 1879873
+}

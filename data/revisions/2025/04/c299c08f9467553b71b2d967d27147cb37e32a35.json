@@ -1,0 +1,23 @@
+{
+  "commit": "c299c08f9467553b71b2d967d27147cb37e32a35",
+  "repo_url": "https://github.com/apache/ofbiz-framework",
+  "date": "2025-04-02T06:59:09",
+  "languages": {
+    "Java": 15544735,
+    "FreeMarker": 3544624,
+    "Groovy": 2590252,
+    "JavaScript": 755524,
+    "CSS": 470858,
+    "Less": 91478,
+    "Shell": 26813,
+    "Makefile": 17830,
+    "HTML": 14126,
+    "Dockerfile": 5172,
+    "Batchfile": 4230,
+    "XSLT": 3054,
+    "Ruby": 2533,
+    "PowerShell": 2086,
+    "Clojure": 1965
+  },
+  "size": 23075280
+}

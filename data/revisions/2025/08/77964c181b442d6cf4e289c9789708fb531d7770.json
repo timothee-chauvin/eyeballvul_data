@@ -1,0 +1,14 @@
+{
+  "commit": "77964c181b442d6cf4e289c9789708fb531d7770",
+  "repo_url": "https://github.com/paymenter/paymenter",
+  "date": "2025-08-16T11:40:21",
+  "languages": {
+    "PHP": 1464014,
+    "Blade": 193894,
+    "Shell": 3588,
+    "JavaScript": 2759,
+    "Dockerfile": 1837,
+    "CSS": 1785
+  },
+  "size": 1667877
+}

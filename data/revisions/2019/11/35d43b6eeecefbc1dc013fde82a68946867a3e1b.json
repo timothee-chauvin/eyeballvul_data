@@ -1,0 +1,15 @@
+{
+  "commit": "35d43b6eeecefbc1dc013fde82a68946867a3e1b",
+  "repo_url": "https://github.com/dojo/dojo",
+  "date": "2019-11-29T16:09:01",
+  "languages": {
+    "JavaScript": 4063587,
+    "HTML": 356310,
+    "PHP": 34498,
+    "CSS": 6999,
+    "Shell": 703,
+    "Batchfile": 573,
+    "Roff": 228
+  },
+  "size": 4462898
+}

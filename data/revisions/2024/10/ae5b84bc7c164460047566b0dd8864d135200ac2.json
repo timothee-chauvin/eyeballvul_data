@@ -1,0 +1,20 @@
+{
+  "commit": "ae5b84bc7c164460047566b0dd8864d135200ac2",
+  "repo_url": "https://github.com/apache/incubator-streampark",
+  "date": "2024-10-09T15:01:04",
+  "languages": {
+    "Java": 1235695,
+    "Scala": 1222894,
+    "TypeScript": 1002878,
+    "Vue": 823870,
+    "FreeMarker": 76479,
+    "Less": 73540,
+    "Shell": 55815,
+    "PLpgSQL": 36365,
+    "JavaScript": 16288,
+    "HTML": 4498,
+    "Dockerfile": 3158,
+    "Smarty": 2262
+  },
+  "size": 4553742
+}

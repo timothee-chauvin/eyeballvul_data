@@ -1,0 +1,14 @@
+{
+  "commit": "a956e4844986287af366d1552e8dcc4e098c9392",
+  "repo_url": "https://github.com/moonshine-software/moonshine",
+  "date": "2025-05-14T15:02:10",
+  "languages": {
+    "PHP": 1476400,
+    "Blade": 727324,
+    "JavaScript": 142274,
+    "CSS": 84137,
+    "Shell": 589,
+    "Makefile": 107
+  },
+  "size": 2430831
+}

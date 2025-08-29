@@ -1,0 +1,14 @@
+{
+  "commit": "761d134ceabd306f57acfb0ca51f59b03751a5b0",
+  "repo_url": "https://github.com/canonical/lxd",
+  "date": "2024-03-13T20:17:40",
+  "languages": {
+    "Go": 9650625,
+    "Shell": 897963,
+    "C": 224966,
+    "Python": 13894,
+    "Makefile": 10566,
+    "Emacs Lisp": 256
+  },
+  "size": 10798270
+}
