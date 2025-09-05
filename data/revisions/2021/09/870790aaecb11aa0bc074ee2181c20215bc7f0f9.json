@@ -1,0 +1,16 @@
+{
+  "commit": "870790aaecb11aa0bc074ee2181c20215bc7f0f9",
+  "repo_url": "https://github.com/openviglet/shio",
+  "date": "2021-09-15T21:10:08",
+  "languages": {
+    "Java": 1144412,
+    "CSS": 410877,
+    "HTML": 225393,
+    "JavaScript": 190462,
+    "Dockerfile": 1360,
+    "Procfile": 41,
+    "Shell": 35,
+    "Batchfile": 20
+  },
+  "size": 1972600
+}

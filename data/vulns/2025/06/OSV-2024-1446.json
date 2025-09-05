@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-1446",
+  "published": "2025-06-06T00:12:59.981959",
+  "modified": "2025-06-06T00:12:59.982286",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=422517700\n\n```\nCrash type: Segv on unknown address\nCrash state:\nglslang::TIntermediate::addSymbol\nglslang::HlslParseContext::handleFunctionCall\nglslang::HlslParseContext::transformEntryPoint\n```\n",
+  "summary": "Segv on unknown address in glslang::TIntermediate::addSymbol",
+  "repo_url": "https://github.com/google/shaderc",
+  "cwes": [],
+  "commits": [
+    "8c2e602ce440b7739c95ff3d69cecb1adf6becda"
+  ]
+}
