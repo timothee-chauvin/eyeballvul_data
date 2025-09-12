@@ -1,0 +1,16 @@
+{
+  "commit": "2bad2992bd40367aed65b9f5fb0e2ed229fea926",
+  "repo_url": "https://github.com/formcms/formcms",
+  "date": "2025-07-09T00:22:54",
+  "languages": {
+    "C#": 872548,
+    "JavaScript": 265429,
+    "HTML": 158133,
+    "CSS": 12361,
+    "PLpgSQL": 10618,
+    "HCL": 6319,
+    "Shell": 2244,
+    "Dockerfile": 696
+  },
+  "size": 1328348
+}

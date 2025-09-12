@@ -1,0 +1,18 @@
+{
+  "commit": "16b1ac6e655af8ec630835c6dae63c50de082862",
+  "repo_url": "https://github.com/freediameter/freediameter",
+  "date": "2019-06-02T14:41:21",
+  "languages": {
+    "C": 3769013,
+    "Yacc": 150383,
+    "C++": 121969,
+    "Lex": 93935,
+    "SWIG": 88671,
+    "CMake": 75547,
+    "PHP": 33171,
+    "Makefile": 26051,
+    "Shell": 10507,
+    "Perl": 3033
+  },
+  "size": 4372280
+}

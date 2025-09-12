@@ -1,0 +1,17 @@
+{
+  "commit": "d75d685c05b14c66ac6ca61c60b42a19efc7324e",
+  "repo_url": "https://github.com/openagentplatform/dive",
+  "date": "2025-08-20T07:15:30",
+  "languages": {
+    "TypeScript": 648650,
+    "SCSS": 165074,
+    "Rust": 111533,
+    "JavaScript": 15993,
+    "Shell": 5184,
+    "Dockerfile": 2019,
+    "CSS": 1041,
+    "HTML": 356,
+    "NSIS": 121
+  },
+  "size": 949971
+}

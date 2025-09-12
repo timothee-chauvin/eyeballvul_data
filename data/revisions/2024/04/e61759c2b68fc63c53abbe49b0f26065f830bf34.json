@@ -1,0 +1,25 @@
+{
+  "commit": "e61759c2b68fc63c53abbe49b0f26065f830bf34",
+  "repo_url": "https://github.com/markusproject/markus",
+  "date": "2024-04-03T17:51:06",
+  "languages": {
+    "Ruby": 3040505,
+    "JavaScript": 764304,
+    "HTML": 294066,
+    "Python": 122413,
+    "PLpgSQL": 117769,
+    "SCSS": 72131,
+    "Shell": 21040,
+    "Jupyter Notebook": 6185,
+    "Racket": 5709,
+    "Dockerfile": 5115,
+    "Haskell": 3680,
+    "Java": 3420,
+    "TeX": 1626,
+    "Jinja": 1279,
+    "C": 1212,
+    "R": 813,
+    "CSS": 585
+  },
+  "size": 4461852
+}

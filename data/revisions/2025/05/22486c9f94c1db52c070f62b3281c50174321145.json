@@ -1,0 +1,15 @@
+{
+  "commit": "22486c9f94c1db52c070f62b3281c50174321145",
+  "repo_url": "https://github.com/ameba-aiot/ameba-arduino-d",
+  "date": "2025-05-06T09:23:46",
+  "languages": {
+    "C": 28960480,
+    "C++": 1827195,
+    "Objective-C": 5394,
+    "CMake": 3337,
+    "Shell": 572,
+    "Batchfile": 304,
+    "HTML": 262
+  },
+  "size": 30797544
+}

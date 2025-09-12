@@ -1,6 +1,6 @@
 {
   "commit": "a85ea609db33ce5da282a02873021a3fdfb6562f",
-  "repo_url": "https://github.com/cri-o/cri-o",
+  "repo_url": "https://github.com/kubernetes-incubator/cri-o",
   "date": "2017-12-07T22:44:38",
   "languages": {
     "Go": 359282,

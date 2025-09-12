@@ -1,0 +1,15 @@
+{
+  "commit": "cb966831fb65347ced9f687ca87d924f99585ca1",
+  "repo_url": "https://github.com/mockoon/mockoon",
+  "date": "2024-12-05T13:00:07",
+  "languages": {
+    "TypeScript": 1919778,
+    "HTML": 221109,
+    "JavaScript": 22247,
+    "SCSS": 18046,
+    "Dockerfile": 1304,
+    "Shell": 718,
+    "Batchfile": 85
+  },
+  "size": 2183287
+}

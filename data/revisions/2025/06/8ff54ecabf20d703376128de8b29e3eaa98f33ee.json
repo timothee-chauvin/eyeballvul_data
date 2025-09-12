@@ -1,0 +1,13 @@
+{
+  "commit": "8ff54ecabf20d703376128de8b29e3eaa98f33ee",
+  "repo_url": "https://github.com/brufdev/many-notes",
+  "date": "2025-06-27T22:08:22",
+  "languages": {
+    "PHP": 274308,
+    "Blade": 140534,
+    "JavaScript": 19592,
+    "CSS": 5269,
+    "Shell": 50
+  },
+  "size": 439753
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "858c598798edf27f60bd01a409fa03500094a2ce",
+  "repo_url": "https://github.com/mlooft/multi-step-form",
+  "date": "2025-01-17T10:01:04",
+  "languages": {
+    "PHP": 153717,
+    "TypeScript": 99694,
+    "Less": 45938,
+    "JavaScript": 12227,
+    "Shell": 4330,
+    "Dockerfile": 549,
+    "CSS": 376
+  },
+  "size": 316831
+}

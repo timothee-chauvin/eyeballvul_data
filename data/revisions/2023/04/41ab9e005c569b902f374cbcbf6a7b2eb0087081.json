@@ -1,0 +1,13 @@
+{
+  "commit": "41ab9e005c569b902f374cbcbf6a7b2eb0087081",
+  "repo_url": "https://github.com/pjuhasz/json-simd",
+  "date": "2023-04-27T16:18:41",
+  "languages": {
+    "C++": 1995375,
+    "Perl": 153807,
+    "XS": 70755,
+    "Raku": 10326,
+    "C": 1460
+  },
+  "size": 2231723
+}

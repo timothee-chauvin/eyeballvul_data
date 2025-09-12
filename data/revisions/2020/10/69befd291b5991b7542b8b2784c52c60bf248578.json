@@ -1,0 +1,10 @@
+{
+  "commit": "69befd291b5991b7542b8b2784c52c60bf248578",
+  "repo_url": "https://github.com/meh/rust-ffmpeg",
+  "date": "2020-10-04T16:55:39",
+  "languages": {
+    "Rust": 380004,
+    "Nix": 415
+  },
+  "size": 380419
+}

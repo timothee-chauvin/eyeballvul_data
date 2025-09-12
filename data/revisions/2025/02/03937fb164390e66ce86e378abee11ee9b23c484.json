@@ -1,0 +1,12 @@
+{
+  "commit": "03937fb164390e66ce86e378abee11ee9b23c484",
+  "repo_url": "https://github.com/prest/prest",
+  "date": "2025-02-18T02:18:34",
+  "languages": {
+    "Go": 436739,
+    "Shell": 4892,
+    "Dockerfile": 1721,
+    "Makefile": 702
+  },
+  "size": 444054
+}

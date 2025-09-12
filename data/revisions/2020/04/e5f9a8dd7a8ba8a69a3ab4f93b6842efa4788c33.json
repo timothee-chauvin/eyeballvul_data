@@ -1,0 +1,18 @@
+{
+  "commit": "e5f9a8dd7a8ba8a69a3ab4f93b6842efa4788c33",
+  "repo_url": "https://github.com/osquery/osquery",
+  "date": "2020-04-14T14:53:39",
+  "languages": {
+    "C++": 4413733,
+    "C": 1463819,
+    "CMake": 662684,
+    "Python": 178847,
+    "Objective-C++": 124745,
+    "PowerShell": 47196,
+    "Shell": 17958,
+    "Roff": 4267,
+    "Thrift": 3074,
+    "Dockerfile": 1189
+  },
+  "size": 6917512
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "d213bdde73412e2e86342640c7ece040d51e896f",
+  "repo_url": "https://github.com/inseefrlab/onyxia",
+  "date": "2023-10-09T00:03:39",
+  "languages": {
+    "TypeScript": 1259178,
+    "HTML": 9738,
+    "JavaScript": 4545,
+    "Mustache": 3672,
+    "CSS": 3183,
+    "Dockerfile": 1648,
+    "Shell": 1167,
+    "FreeMarker": 313,
+    "MDX": 266
+  },
+  "size": 1283710
+}

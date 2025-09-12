@@ -1,0 +1,14 @@
+{
+  "commit": "3788da09e4b665fd8fba76d2854ada1a13a79b17",
+  "repo_url": "https://github.com/freepbx/api",
+  "date": "2025-09-01T08:57:12",
+  "languages": {
+    "PHP": 141465,
+    "CSS": 40221,
+    "JavaScript": 22526,
+    "Smarty": 6612,
+    "Less": 989,
+    "Shell": 216
+  },
+  "size": 212029
+}
