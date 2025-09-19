@@ -1,0 +1,20 @@
+{
+  "commit": "8177b40e276fbb9105d4787e11d31ab4a48d2ff9",
+  "repo_url": "https://github.com/zlt2000/microservices-platform",
+  "date": "2023-12-17T12:52:02",
+  "languages": {
+    "Java": 672618,
+    "JavaScript": 212331,
+    "TypeScript": 176406,
+    "HTML": 137386,
+    "CSS": 99025,
+    "EJS": 6289,
+    "Batchfile": 5990,
+    "Less": 5882,
+    "Shell": 5874,
+    "Smarty": 2485,
+    "Dockerfile": 932,
+    "Lua": 434
+  },
+  "size": 1325652
+}

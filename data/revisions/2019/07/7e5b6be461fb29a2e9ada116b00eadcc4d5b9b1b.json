@@ -1,0 +1,12 @@
+{
+  "commit": "7e5b6be461fb29a2e9ada116b00eadcc4d5b9b1b",
+  "repo_url": "https://github.com/neurobin/shc",
+  "date": "2019-07-01T16:37:08",
+  "languages": {
+    "C": 35922,
+    "Shell": 2500,
+    "M4": 588,
+    "Makefile": 272
+  },
+  "size": 39282
+}

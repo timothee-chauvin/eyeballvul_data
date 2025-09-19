@@ -1,0 +1,16 @@
+{
+  "commit": "6ffb13da8ed5ddcfbcb2ce103be86ecf07fbacd2",
+  "repo_url": "https://github.com/moeru-ai/airi",
+  "date": "2025-08-24T19:56:39",
+  "languages": {
+    "Vue": 1287026,
+    "TypeScript": 882963,
+    "Rust": 107860,
+    "C++": 39836,
+    "HTML": 7937,
+    "CSS": 7079,
+    "Nix": 5034,
+    "Dockerfile": 796
+  },
+  "size": 2338531
+}

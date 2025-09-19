@@ -1,0 +1,15 @@
+{
+  "commit": "a6a9193b5002061719f0eee62c6310bd5b1b7f63",
+  "repo_url": "https://github.com/chatchat-space/langchain-chatchat",
+  "date": "2024-07-12T14:29:12",
+  "languages": {
+    "TypeScript": 1736753,
+    "Python": 580007,
+    "MDX": 213780,
+    "Shell": 7494,
+    "JavaScript": 6330,
+    "Makefile": 2855,
+    "Dockerfile": 2850
+  },
+  "size": 2550069
+}

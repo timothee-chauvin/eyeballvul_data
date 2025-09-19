@@ -1,0 +1,22 @@
+{
+  "commit": "51b8a447e23a551aa64da05532e06f62aeac5d86",
+  "repo_url": "https://github.com/dstack-tee/dstack",
+  "date": "2025-07-29T10:48:47",
+  "languages": {
+    "Rust": 662821,
+    "TypeScript": 385259,
+    "HTML": 127576,
+    "Shell": 67814,
+    "C": 62941,
+    "Python": 58784,
+    "JavaScript": 47861,
+    "Go": 39920,
+    "C++": 33653,
+    "Solidity": 18701,
+    "Dockerfile": 4888,
+    "Assembly": 4460,
+    "Smarty": 3172,
+    "Makefile": 679
+  },
+  "size": 1518529
+}

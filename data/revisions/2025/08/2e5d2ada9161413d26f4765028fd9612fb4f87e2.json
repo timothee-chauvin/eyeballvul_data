@@ -1,0 +1,13 @@
+{
+  "commit": "2e5d2ada9161413d26f4765028fd9612fb4f87e2",
+  "repo_url": "https://github.com/plait-board/drawnix",
+  "date": "2025-08-06T13:17:37",
+  "languages": {
+    "TypeScript": 330506,
+    "SCSS": 32745,
+    "HTML": 4845,
+    "JavaScript": 1387,
+    "Dockerfile": 305
+  },
+  "size": 369788
+}

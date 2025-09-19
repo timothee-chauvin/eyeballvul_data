@@ -1,0 +1,18 @@
+{
+  "commit": "69cf61ef163666f53a48374d3e8df7225913194d",
+  "repo_url": "https://github.com/xiph/theora",
+  "date": "2025-03-15T06:24:41",
+  "languages": {
+    "C": 1459514,
+    "Assembly": 122327,
+    "M4": 38995,
+    "Makefile": 24967,
+    "C++": 10220,
+    "Perl": 8199,
+    "Python": 7218,
+    "Batchfile": 1028,
+    "Awk": 688,
+    "Shell": 382
+  },
+  "size": 1673538
+}

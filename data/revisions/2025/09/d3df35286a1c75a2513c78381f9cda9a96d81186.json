@@ -1,0 +1,16 @@
+{
+  "commit": "d3df35286a1c75a2513c78381f9cda9a96d81186",
+  "repo_url": "https://github.com/lumen-oss/luanox",
+  "date": "2025-09-16T09:31:02",
+  "languages": {
+    "Elixir": 275440,
+    "HTML": 42354,
+    "CSS": 8247,
+    "Dockerfile": 5576,
+    "JavaScript": 3676,
+    "Nix": 2536,
+    "Shell": 279,
+    "Batchfile": 158
+  },
+  "size": 338266
+}
