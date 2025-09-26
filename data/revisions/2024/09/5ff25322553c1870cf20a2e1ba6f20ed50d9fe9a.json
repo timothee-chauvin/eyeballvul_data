@@ -1,0 +1,25 @@
+{
+  "commit": "5ff25322553c1870cf20a2e1ba6f20ed50d9fe9a",
+  "repo_url": "https://github.com/wxwidgets/wxwidgets",
+  "date": "2024-09-03T11:43:24",
+  "languages": {
+    "C++": 37506090,
+    "Objective-C": 5804011,
+    "C": 3908664,
+    "Makefile": 2256970,
+    "Objective-C++": 979700,
+    "M4": 736109,
+    "CMake": 515089,
+    "Python": 176777,
+    "Module Management System": 143790,
+    "Shell": 112557,
+    "Roff": 94416,
+    "Perl": 69967,
+    "POV-Ray SDL": 37275,
+    "XSLT": 31211,
+    "Batchfile": 29029,
+    "HTML": 22798,
+    "Inno Setup": 2154
+  },
+  "size": 52426607
+}

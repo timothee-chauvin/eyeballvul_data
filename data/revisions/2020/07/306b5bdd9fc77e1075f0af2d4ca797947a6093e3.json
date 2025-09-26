@@ -1,0 +1,15 @@
+{
+  "commit": "306b5bdd9fc77e1075f0af2d4ca797947a6093e3",
+  "repo_url": "https://github.com/ripe-ncc/rpki-validator-3",
+  "date": "2020-07-06T12:05:33",
+  "languages": {
+    "Java": 1453832,
+    "TypeScript": 110430,
+    "HTML": 28304,
+    "Shell": 10066,
+    "JavaScript": 6361,
+    "SCSS": 4476,
+    "Dockerfile": 3013
+  },
+  "size": 1616482
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "f355b3d58f7067eee1706ff3c801c2361011f3d5",
+  "repo_url": "https://github.com/gabime/spdlog",
+  "date": "2025-02-01T11:08:54",
+  "languages": {
+    "C++": 1091301,
+    "CMake": 30276,
+    "C": 3555,
+    "Shell": 856,
+    "Python": 497
+  },
+  "size": 1126485
+}

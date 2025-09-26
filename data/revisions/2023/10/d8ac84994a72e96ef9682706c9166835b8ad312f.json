@@ -1,0 +1,14 @@
+{
+  "commit": "d8ac84994a72e96ef9682706c9166835b8ad312f",
+  "repo_url": "https://github.com/ltworf/weborf",
+  "date": "2023-10-04T16:40:20",
+  "languages": {
+    "C": 172066,
+    "Python": 33305,
+    "Shell": 13741,
+    "Roff": 10535,
+    "Makefile": 3790,
+    "M4": 1049
+  },
+  "size": 234486
+}

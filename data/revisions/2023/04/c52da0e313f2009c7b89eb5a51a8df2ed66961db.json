@@ -1,0 +1,16 @@
+{
+  "commit": "c52da0e313f2009c7b89eb5a51a8df2ed66961db",
+  "repo_url": "https://github.com/nagios-plugins/nagios-plugins",
+  "date": "2023-04-14T17:28:00",
+  "languages": {
+    "C": 2863278,
+    "M4": 734125,
+    "Perl": 375481,
+    "Shell": 366529,
+    "Makefile": 116273,
+    "C++": 113351,
+    "Python": 12855,
+    "Roff": 9888
+  },
+  "size": 4591780
+}

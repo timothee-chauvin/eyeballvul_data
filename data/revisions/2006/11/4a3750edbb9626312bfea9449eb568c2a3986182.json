@@ -1,0 +1,15 @@
+{
+  "commit": "4a3750edbb9626312bfea9449eb568c2a3986182",
+  "repo_url": "https://github.com/exg/rxvt-unicode",
+  "date": "2006-11-02T17:37:47",
+  "languages": {
+    "C": 3787105,
+    "Makefile": 115563,
+    "Perl": 113699,
+    "C++": 104391,
+    "XS": 51622,
+    "M4": 47500,
+    "Shell": 13474
+  },
+  "size": 4233354
+}

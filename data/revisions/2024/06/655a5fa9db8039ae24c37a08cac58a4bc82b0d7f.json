@@ -1,0 +1,22 @@
+{
+  "commit": "655a5fa9db8039ae24c37a08cac58a4bc82b0d7f",
+  "repo_url": "https://github.com/percona/percona-toolkit",
+  "date": "2024-06-12T17:23:24",
+  "languages": {
+    "Perl": 10725482,
+    "Shell": 947204,
+    "Go": 565469,
+    "JavaScript": 93204,
+    "CSS": 63146,
+    "Roff": 60141,
+    "Makefile": 15766,
+    "Python": 9386,
+    "HTML": 7734,
+    "Awk": 980,
+    "Dockerfile": 525,
+    "BitBake": 308,
+    "PLpgSQL": 295,
+    "sed": 44
+  },
+  "size": 12489684
+}

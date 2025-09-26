@@ -1,0 +1,13 @@
+{
+  "commit": "bb2e3f3a95e44fdf44b0d5a4b377db3179021380",
+  "repo_url": "https://github.com/opensc/pam_pkcs11",
+  "date": "2021-05-31T18:18:38",
+  "languages": {
+    "C": 589998,
+    "M4": 114620,
+    "Shell": 21123,
+    "Makefile": 8016,
+    "Lex": 2039
+  },
+  "size": 735796
+}

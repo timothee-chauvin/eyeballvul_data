@@ -1,0 +1,22 @@
+{
+  "commit": "bb5abcf7d75d606984137e8b5dc9933f072a1ede",
+  "repo_url": "https://github.com/matomo-org/matomo",
+  "date": "2019-03-21T07:48:37",
+  "languages": {
+    "PHP": 14799964,
+    "JavaScript": 6285177,
+    "HTML": 4119226,
+    "Twig": 580530,
+    "Less": 224395,
+    "CSS": 57340,
+    "C": 44536,
+    "Shell": 12026,
+    "Makefile": 6150,
+    "Perl": 5843,
+    "Hack": 4574,
+    "Java": 1486,
+    "Smarty": 1459,
+    "CoffeeScript": 212
+  },
+  "size": 26142918
+}

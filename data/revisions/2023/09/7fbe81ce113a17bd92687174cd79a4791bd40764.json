@@ -1,0 +1,12 @@
+{
+  "commit": "7fbe81ce113a17bd92687174cd79a4791bd40764",
+  "repo_url": "https://github.com/livewire/livewire",
+  "date": "2023-09-12T15:08:50",
+  "languages": {
+    "PHP": 1224106,
+    "JavaScript": 126925,
+    "Blade": 52719,
+    "Shell": 680
+  },
+  "size": 1404430
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "852e5617fbf331cf292723702161f0ac9afe257c",
+  "repo_url": "https://github.com/traviscross/mtr",
+  "date": "2022-01-11T09:10:34",
+  "languages": {
+    "C": 398011,
+    "Python": 30570,
+    "C++": 25369,
+    "Shell": 8853,
+    "M4": 8270,
+    "Makefile": 4119,
+    "Batchfile": 1175,
+    "Emacs Lisp": 117
+  },
+  "size": 476484
+}

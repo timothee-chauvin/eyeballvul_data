@@ -1,0 +1,19 @@
+{
+  "commit": "4f53d714efdefc613560c15b4a356c2239200f97",
+  "repo_url": "https://gitlab.com/sequoia-pgp/sequoia",
+  "date": "2021-03-02T13:35:14",
+  "languages": {
+    "Rust": 4434282,
+    "Roff": 256168,
+    "C++": 79710,
+    "C": 60026,
+    "Python": 43503,
+    "Makefile": 17503,
+    "Standard ML": 6416,
+    "Cap'n Proto": 3291,
+    "Shell": 836,
+    "Common Lisp": 685,
+    "AGS Script": 375
+  },
+  "size": 4902795
+}

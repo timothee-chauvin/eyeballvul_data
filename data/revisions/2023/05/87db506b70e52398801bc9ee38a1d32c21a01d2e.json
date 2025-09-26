@@ -1,0 +1,12 @@
+{
+  "commit": "87db506b70e52398801bc9ee38a1d32c21a01d2e",
+  "repo_url": "https://github.com/keras-team/keras",
+  "date": "2023-05-02T18:00:30",
+  "languages": {
+    "Python": 11710325,
+    "Starlark": 282593,
+    "Shell": 12478,
+    "Dockerfile": 297
+  },
+  "size": 12005693
+}

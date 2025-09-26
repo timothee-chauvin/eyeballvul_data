@@ -1,0 +1,12 @@
+{
+  "commit": "3543bd58ebfcad8e489a96820fd5c21d1d242164",
+  "repo_url": "https://github.com/brocaar/chirpstack-network-server",
+  "date": "2020-06-29T09:07:27",
+  "languages": {
+    "Go": 1100471,
+    "Shell": 5554,
+    "Makefile": 2150,
+    "Dockerfile": 611
+  },
+  "size": 1108786
+}

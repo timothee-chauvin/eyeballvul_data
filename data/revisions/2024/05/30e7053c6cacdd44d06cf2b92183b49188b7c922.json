@@ -1,0 +1,11 @@
+{
+  "commit": "30e7053c6cacdd44d06cf2b92183b49188b7c922",
+  "repo_url": "https://github.com/go-pg/pg",
+  "date": "2024-05-27T16:39:59",
+  "languages": {
+    "Go": 642946,
+    "Shell": 2111,
+    "Makefile": 873
+  },
+  "size": 645930
+}

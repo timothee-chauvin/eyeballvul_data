@@ -1,0 +1,22 @@
+{
+  "commit": "3ccae93cab8943de4e12080faf80348465772dad",
+  "repo_url": "https://github.com/cacalabs/libcaca",
+  "date": "2012-04-06T20:42:57",
+  "languages": {
+    "C": 1297215,
+    "Python": 144057,
+    "PHP": 124397,
+    "C#": 54680,
+    "Java": 36953,
+    "C++": 34946,
+    "Objective-C": 30500,
+    "M4": 20342,
+    "Perl": 17469,
+    "Makefile": 14620,
+    "Shell": 13255,
+    "XS": 11424,
+    "Assembly": 6631,
+    "Ruby": 6254
+  },
+  "size": 1812743
+}

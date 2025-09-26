@@ -1,0 +1,15 @@
+{
+  "commit": "e7df591a87811a3b695dd2b15909c9e0e4a70b0c",
+  "repo_url": "https://github.com/philiphazel/sdop",
+  "date": "2023-04-29T16:29:06",
+  "languages": {
+    "C": 1127772,
+    "Shell": 9093,
+    "Perl": 6780,
+    "Makefile": 2852,
+    "M4": 2248,
+    "HTML": 999,
+    "PostScript": 263
+  },
+  "size": 1150007
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "f149e69702974cd651430749bffdc2e40a7df5d7",
+  "repo_url": "https://github.com/lemon8866/streamvault",
+  "date": "2025-08-21T02:33:52",
+  "languages": {
+    "Java": 467957,
+    "HTML": 423354,
+    "Vue": 137556,
+    "JavaScript": 100031,
+    "CSS": 20805,
+    "SCSS": 17112,
+    "Python": 13814,
+    "TypeScript": 10657,
+    "Rust": 2334,
+    "Dockerfile": 1138,
+    "EJS": 789
+  },
+  "size": 1195547
+}

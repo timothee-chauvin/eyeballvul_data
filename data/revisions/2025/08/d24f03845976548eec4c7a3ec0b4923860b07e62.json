@@ -1,0 +1,16 @@
+{
+  "commit": "d24f03845976548eec4c7a3ec0b4923860b07e62",
+  "repo_url": "https://github.com/cisagov/thorium",
+  "date": "2025-08-14T23:40:53",
+  "languages": {
+    "Rust": 4917330,
+    "JavaScript": 507061,
+    "TypeScript": 234729,
+    "SCSS": 65703,
+    "Shell": 12861,
+    "Python": 3383,
+    "Dockerfile": 2891,
+    "HTML": 1093
+  },
+  "size": 5745051
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "ee27d2b6aabd5d2b26986f27343f237567395b4b",
+  "repo_url": "https://github.com/r-lib/gh",
+  "date": "2024-03-28T12:16:45",
+  "languages": {
+    "R": 66548,
+    "Makefile": 109
+  },
+  "size": 66657
+}

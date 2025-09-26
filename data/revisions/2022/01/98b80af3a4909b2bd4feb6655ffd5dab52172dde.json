@@ -1,0 +1,11 @@
+{
+  "commit": "98b80af3a4909b2bd4feb6655ffd5dab52172dde",
+  "repo_url": "https://github.com/ruby/net-imap",
+  "date": "2022-01-06T03:30:41",
+  "languages": {
+    "Ruby": 222768,
+    "Makefile": 561,
+    "Shell": 131
+  },
+  "size": 223460
+}

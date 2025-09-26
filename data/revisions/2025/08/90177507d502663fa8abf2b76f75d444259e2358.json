@@ -1,0 +1,18 @@
+{
+  "commit": "90177507d502663fa8abf2b76f75d444259e2358",
+  "repo_url": "https://github.com/bunkerity/bunkerweb",
+  "date": "2025-08-08T14:56:27",
+  "languages": {
+    "Python": 1923871,
+    "CSS": 708779,
+    "HTML": 662838,
+    "JavaScript": 627651,
+    "Shell": 534168,
+    "Lua": 321620,
+    "Dockerfile": 51382,
+    "HCL": 7272,
+    "Mako": 635,
+    "PHP": 165
+  },
+  "size": 4838381
+}

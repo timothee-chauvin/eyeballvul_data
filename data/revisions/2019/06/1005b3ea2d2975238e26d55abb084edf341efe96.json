@@ -1,0 +1,17 @@
+{
+  "commit": "1005b3ea2d2975238e26d55abb084edf341efe96",
+  "repo_url": "https://github.com/jogetworkflow/jw-community",
+  "date": "2019-06-24T02:29:25",
+  "languages": {
+    "JavaScript": 7593335,
+    "Java": 5231131,
+    "CSS": 600293,
+    "Less": 253406,
+    "FreeMarker": 50789,
+    "NSIS": 13093,
+    "Batchfile": 2285,
+    "HTML": 2069,
+    "Shell": 904
+  },
+  "size": 13747305
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "1f0f4b597c8198acd00dc8fec3c51fc91bcf99ff",
+  "repo_url": "https://github.com/astral-sh/tokio-tar",
+  "date": "2025-08-19T13:47:32",
+  "languages": {
+    "Rust": 234962,
+    "Shell": 185
+  },
+  "size": 235147
+}

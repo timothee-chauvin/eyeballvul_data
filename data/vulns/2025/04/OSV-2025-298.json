@@ -1,12 +1,12 @@
 {
   "id": "OSV-2025-298",
   "published": "2025-04-26T00:02:46.771719",
-  "modified": "2025-04-26T00:02:46.772175",
+  "modified": "2025-09-25T14:35:28.890232",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=413161357\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\ni18n::phonenumbers::UnicodeText::const_iterator::operator--\ni18n::phonenumbers::UnicodeString::tempSubString\ni18n::phonenumbers::AsYouTypeFormatter::AttemptToExtractIdd\n```\n",
   "summary": "Heap-buffer-overflow in i18n::phonenumbers::UnicodeText::const_iterator::operator--",
   "repo_url": "https://github.com/google/libphonenumber",
   "cwes": [],
   "commits": [
-    "fa3fd1fdaf28275e4395fe136afc52b24494db2b"
+    "c02f289dbe110d871ee10b53cfd4d6a23e0b8225"
   ]
 }

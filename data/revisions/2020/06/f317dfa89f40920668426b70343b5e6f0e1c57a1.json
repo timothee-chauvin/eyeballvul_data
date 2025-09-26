@@ -1,0 +1,11 @@
+{
+  "commit": "f317dfa89f40920668426b70343b5e6f0e1c57a1",
+  "repo_url": "https://github.com/eclecticiq/opentaxii",
+  "date": "2020-06-30T14:18:18",
+  "languages": {
+    "Python": 246191,
+    "Shell": 2780,
+    "Dockerfile": 887
+  },
+  "size": 249858
+}

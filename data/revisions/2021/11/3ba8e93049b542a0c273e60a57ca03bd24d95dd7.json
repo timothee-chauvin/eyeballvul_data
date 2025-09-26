@@ -1,0 +1,17 @@
+{
+  "commit": "3ba8e93049b542a0c273e60a57ca03bd24d95dd7",
+  "repo_url": "https://github.com/open-policy-agent/gatekeeper",
+  "date": "2021-11-15T20:42:47",
+  "languages": {
+    "Go": 1118700,
+    "Open Policy Agent": 46648,
+    "Shell": 19483,
+    "Makefile": 16133,
+    "Smarty": 3618,
+    "Dockerfile": 3331,
+    "CSS": 3322,
+    "JavaScript": 3102,
+    "HTML": 369
+  },
+  "size": 1214706
+}

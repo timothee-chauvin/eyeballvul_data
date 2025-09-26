@@ -1,0 +1,13 @@
+{
+  "commit": "d23c3b1f85438a87b26c7ca00024225b7381f595",
+  "repo_url": "https://github.com/ingydotnet/yaml-libyaml-pm",
+  "date": "2024-09-20T19:43:41",
+  "languages": {
+    "C": 420721,
+    "Perl": 42900,
+    "Raku": 5734,
+    "Shell": 706,
+    "XS": 695
+  },
+  "size": 470756
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "ea8028cf7514e24dd0e411844a012ecc3a27f093",
+  "repo_url": "https://github.com/moonjit/moonjit",
+  "date": "2019-11-17T19:04:10",
+  "languages": {
+    "C": 2440565,
+    "Lua": 895620,
+    "HTML": 255154,
+    "Makefile": 30994,
+    "Batchfile": 17166,
+    "CSS": 8089,
+    "C++": 3595,
+    "Roff": 2339,
+    "Shell": 203
+  },
+  "size": 3653725
+}

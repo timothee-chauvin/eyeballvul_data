@@ -1,0 +1,15 @@
+{
+  "commit": "cd28f070310be0f2419924ce8aa526827746795f",
+  "repo_url": "https://github.com/babel/babel",
+  "date": "2023-10-12T00:25:42",
+  "languages": {
+    "TypeScript": 3187981,
+    "JavaScript": 1374067,
+    "Shell": 24707,
+    "Prolog": 7979,
+    "Makefile": 4474,
+    "HTML": 3371,
+    "Batchfile": 43
+  },
+  "size": 4602622
+}

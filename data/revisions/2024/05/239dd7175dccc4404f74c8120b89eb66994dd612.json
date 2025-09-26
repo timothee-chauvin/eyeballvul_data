@@ -1,0 +1,13 @@
+{
+  "commit": "239dd7175dccc4404f74c8120b89eb66994dd612",
+  "repo_url": "https://github.com/icinga/icingaweb2-module-reporting",
+  "date": "2024-05-08T08:35:25",
+  "languages": {
+    "PHP": 138492,
+    "Less": 3651,
+    "CSS": 1458,
+    "PLpgSQL": 1380,
+    "HTML": 404
+  },
+  "size": 145385
+}

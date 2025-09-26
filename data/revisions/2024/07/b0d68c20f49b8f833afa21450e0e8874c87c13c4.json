@@ -1,0 +1,16 @@
+{
+  "commit": "b0d68c20f49b8f833afa21450e0e8874c87c13c4",
+  "repo_url": "https://github.com/mupen64plus/mupen64plus-core",
+  "date": "2024-07-15T00:10:26",
+  "languages": {
+    "C": 3463767,
+    "C++": 316024,
+    "Assembly": 38357,
+    "Python": 34781,
+    "Makefile": 28420,
+    "Shell": 21910,
+    "Batchfile": 2887,
+    "Awk": 260
+  },
+  "size": 3906406
+}

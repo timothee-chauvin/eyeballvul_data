@@ -1,0 +1,13 @@
+{
+  "commit": "447844857fed51d24f21a74ff5f477cc6a25cce9",
+  "repo_url": "https://github.com/juliaregistries/registrator.jl",
+  "date": "2025-02-20T15:01:40",
+  "languages": {
+    "Julia": 113443,
+    "Smarty": 6471,
+    "Shell": 1232,
+    "Makefile": 537,
+    "Dockerfile": 405
+  },
+  "size": 122088
+}

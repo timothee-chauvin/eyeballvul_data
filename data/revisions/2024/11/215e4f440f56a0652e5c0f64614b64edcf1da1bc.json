@@ -1,0 +1,13 @@
+{
+  "commit": "215e4f440f56a0652e5c0f64614b64edcf1da1bc",
+  "repo_url": "https://github.com/cli/cli",
+  "date": "2024-11-06T23:35:12",
+  "languages": {
+    "Go": 4503599,
+    "Shell": 13068,
+    "Makefile": 3402,
+    "PowerShell": 569,
+    "Batchfile": 26
+  },
+  "size": 4520664
+}

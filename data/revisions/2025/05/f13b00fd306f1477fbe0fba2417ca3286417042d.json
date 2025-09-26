@@ -1,0 +1,14 @@
+{
+  "commit": "f13b00fd306f1477fbe0fba2417ca3286417042d",
+  "repo_url": "https://github.com/litmusautomation/litmus-mcp-server",
+  "date": "2025-05-15T17:04:25",
+  "languages": {
+    "Python": 40734,
+    "HTML": 10943,
+    "CSS": 7158,
+    "JavaScript": 6687,
+    "Dockerfile": 495,
+    "Shell": 210
+  },
+  "size": 66227
+}

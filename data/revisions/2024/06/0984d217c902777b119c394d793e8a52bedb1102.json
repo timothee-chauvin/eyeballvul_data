@@ -1,0 +1,12 @@
+{
+  "commit": "0984d217c902777b119c394d793e8a52bedb1102",
+  "repo_url": "https://github.com/fujita/tgt",
+  "date": "2024-06-04T02:16:32",
+  "languages": {
+    "C": 900659,
+    "Perl": 140375,
+    "Shell": 35387,
+    "Makefile": 5465
+  },
+  "size": 1081886
+}

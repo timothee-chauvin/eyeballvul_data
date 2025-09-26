@@ -1,0 +1,10 @@
+{
+  "commit": "d969eaa9c97860482749df718a35b4a269361055",
+  "repo_url": "https://github.com/hashicorp/go-retryablehttp",
+  "date": "2024-05-09T17:05:16",
+  "languages": {
+    "Go": 66895,
+    "Makefile": 148
+  },
+  "size": 67043
+}

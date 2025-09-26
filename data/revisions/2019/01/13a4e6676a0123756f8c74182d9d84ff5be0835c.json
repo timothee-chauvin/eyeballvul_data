@@ -1,0 +1,18 @@
+{
+  "commit": "13a4e6676a0123756f8c74182d9d84ff5be0835c",
+  "repo_url": "https://github.com/dns-stats/hedgehog",
+  "date": "2019-01-08T14:55:06",
+  "languages": {
+    "R": 132868,
+    "C++": 122703,
+    "Shell": 111388,
+    "M4": 57318,
+    "JavaScript": 38587,
+    "Python": 34820,
+    "CSS": 20655,
+    "Makefile": 20595,
+    "PLpgSQL": 11592,
+    "Perl": 717
+  },
+  "size": 551243
+}

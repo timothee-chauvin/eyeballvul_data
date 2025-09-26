@@ -1,0 +1,14 @@
+{
+  "commit": "1eef926fbc241a7e1c351a826b8597686cb21323",
+  "repo_url": "https://github.com/gssapi/gssproxy",
+  "date": "2019-04-18T15:26:04",
+  "languages": {
+    "C": 650552,
+    "Python": 50523,
+    "RPC": 28075,
+    "M4": 21188,
+    "Makefile": 10125,
+    "Shell": 1304
+  },
+  "size": 761767
+}

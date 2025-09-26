@@ -1,0 +1,16 @@
+{
+  "commit": "fe2f26005109f396a4f828aa438241f73fc25fe8",
+  "repo_url": "https://github.com/rordenlab/dcm2niix",
+  "date": "2023-04-24T13:50:18",
+  "languages": {
+    "C++": 1100727,
+    "C": 352545,
+    "CMake": 45568,
+    "Shell": 6477,
+    "Python": 4150,
+    "Makefile": 1749,
+    "Dockerfile": 558,
+    "Batchfile": 322
+  },
+  "size": 1512096
+}

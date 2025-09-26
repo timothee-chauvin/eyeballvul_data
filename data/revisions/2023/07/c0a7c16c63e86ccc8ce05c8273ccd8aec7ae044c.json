@@ -1,0 +1,19 @@
+{
+  "commit": "c0a7c16c63e86ccc8ce05c8273ccd8aec7ae044c",
+  "repo_url": "https://github.com/pure-data/pure-data",
+  "date": "2023-07-03T15:47:16",
+  "languages": {
+    "C": 4982545,
+    "C++": 597194,
+    "Tcl": 528301,
+    "PostScript": 130649,
+    "Shell": 53920,
+    "M4": 40266,
+    "Makefile": 39999,
+    "NSIS": 13105,
+    "Gnuplot": 9864,
+    "Emacs Lisp": 297,
+    "Awk": 233
+  },
+  "size": 6396373
+}

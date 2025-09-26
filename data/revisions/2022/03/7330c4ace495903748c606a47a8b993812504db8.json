@@ -1,0 +1,14 @@
+{
+  "commit": "7330c4ace495903748c606a47a8b993812504db8",
+  "repo_url": "https://github.com/ethereumjs/ethereumjs-vm",
+  "date": "2022-03-23T12:11:09",
+  "languages": {
+    "TypeScript": 2321982,
+    "JavaScript": 54418,
+    "Shell": 12423,
+    "Python": 1891,
+    "Dockerfile": 1620,
+    "Solidity": 366
+  },
+  "size": 2392700
+}

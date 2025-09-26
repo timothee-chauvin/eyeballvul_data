@@ -1,0 +1,10 @@
+{
+  "commit": "a009743572494ccbc9d159005bdc58b86a44ddba",
+  "repo_url": "https://github.com/gorilla/csrf",
+  "date": "2023-11-05T02:08:39",
+  "languages": {
+    "Go": 63181,
+    "Makefile": 950
+  },
+  "size": 64131
+}

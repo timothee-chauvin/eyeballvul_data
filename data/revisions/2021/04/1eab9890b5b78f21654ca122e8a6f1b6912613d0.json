@@ -1,0 +1,15 @@
+{
+  "commit": "1eab9890b5b78f21654ca122e8a6f1b6912613d0",
+  "repo_url": "https://github.com/olivierkes/manuskript",
+  "date": "2021-04-30T14:43:17",
+  "languages": {
+    "Python": 1341708,
+    "JavaScript": 705484,
+    "CSS": 49062,
+    "HTML": 19876,
+    "Shell": 9893,
+    "QMake": 5512,
+    "Makefile": 1006
+  },
+  "size": 2132541
+}

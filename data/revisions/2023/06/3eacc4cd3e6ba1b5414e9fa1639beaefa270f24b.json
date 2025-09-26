@@ -1,0 +1,14 @@
+{
+  "commit": "3eacc4cd3e6ba1b5414e9fa1639beaefa270f24b",
+  "repo_url": "https://github.com/minizinc/libminizinc",
+  "date": "2023-06-20T04:26:53",
+  "languages": {
+    "C++": 3678543,
+    "Python": 162850,
+    "HTML": 51539,
+    "CMake": 50219,
+    "Shell": 1999,
+    "CSS": 1315
+  },
+  "size": 3946465
+}

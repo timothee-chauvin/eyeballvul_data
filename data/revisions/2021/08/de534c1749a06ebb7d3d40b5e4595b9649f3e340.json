@@ -1,0 +1,12 @@
+{
+  "commit": "de534c1749a06ebb7d3d40b5e4595b9649f3e340",
+  "repo_url": "https://github.com/nix-rust/nix",
+  "date": "2021-08-14T03:06:52",
+  "languages": {
+    "Rust": 1037197,
+    "Shell": 2119,
+    "C": 547,
+    "Makefile": 167
+  },
+  "size": 1040030
+}

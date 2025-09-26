@@ -1,0 +1,17 @@
+{
+  "commit": "8abc0f32a6f00c756117d0c03386572356751388",
+  "repo_url": "https://github.com/pritunl/pritunl",
+  "date": "2019-07-28T06:10:46",
+  "languages": {
+    "Python": 1451191,
+    "HTML": 561468,
+    "JavaScript": 470139,
+    "Dart": 106715,
+    "SCSS": 68455,
+    "Go": 12031,
+    "Shell": 5584,
+    "HCL": 1783,
+    "Dockerfile": 280
+  },
+  "size": 2677646
+}

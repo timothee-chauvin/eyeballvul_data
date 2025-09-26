@@ -1,0 +1,20 @@
+{
+  "commit": "52e6bff39b2f8ef3803ee0c17ce7b4d86fdc1f48",
+  "repo_url": "https://github.com/pavel-odintsov/fastnetmon",
+  "date": "2024-07-01T20:01:34",
+  "languages": {
+    "C++": 2433020,
+    "Perl": 177209,
+    "CMake": 51375,
+    "PHP": 23406,
+    "Python": 19832,
+    "Shell": 7923,
+    "Ruby": 3087,
+    "Roff": 2173,
+    "Makefile": 2110,
+    "C": 1246,
+    "Cap'n Proto": 1136,
+    "Dockerfile": 387
+  },
+  "size": 2722904
+}

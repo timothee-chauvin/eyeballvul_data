@@ -1,0 +1,17 @@
+{
+  "commit": "11b3c8e755bb13edf67e3cc532c8df543e0cb138",
+  "repo_url": "https://gitlab.com/oath-toolkit/oath-toolkit",
+  "date": "2024-01-11T08:02:57",
+  "languages": {
+    "C": 3307820,
+    "M4": 2190254,
+    "C++": 1251574,
+    "Makefile": 448578,
+    "Yacc": 75440,
+    "Shell": 54919,
+    "Perl": 35313,
+    "CSS": 15614,
+    "XSLT": 2567
+  },
+  "size": 7382079
+}

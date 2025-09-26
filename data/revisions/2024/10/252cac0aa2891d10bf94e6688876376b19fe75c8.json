@@ -1,0 +1,16 @@
+{
+  "commit": "252cac0aa2891d10bf94e6688876376b19fe75c8",
+  "repo_url": "https://github.com/rmosolgo/graphql-ruby",
+  "date": "2024-10-31T17:30:09",
+  "languages": {
+    "Ruby": 2915962,
+    "C": 192284,
+    "TypeScript": 163053,
+    "HTML": 36513,
+    "Yacc": 28848,
+    "SCSS": 20745,
+    "Ragel": 15556,
+    "JavaScript": 10682
+  },
+  "size": 3383643
+}

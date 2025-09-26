@@ -1,0 +1,12 @@
+{
+  "commit": "7cf36348437e5107be0e68b0b821d57e7dbf3b62",
+  "repo_url": "https://github.com/benmcollins/libjwt",
+  "date": "2023-05-04T13:48:35",
+  "languages": {
+    "C": 188854,
+    "M4": 34537,
+    "CMake": 10418,
+    "Makefile": 6338
+  },
+  "size": 240147
+}

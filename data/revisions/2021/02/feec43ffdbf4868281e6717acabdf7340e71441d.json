@@ -1,0 +1,14 @@
+{
+  "commit": "feec43ffdbf4868281e6717acabdf7340e71441d",
+  "repo_url": "https://github.com/camunda/camunda-modeler",
+  "date": "2021-02-05T13:28:17",
+  "languages": {
+    "JavaScript": 1223938,
+    "Less": 35083,
+    "Shell": 2268,
+    "CSS": 1770,
+    "HTML": 1458,
+    "Batchfile": 608
+  },
+  "size": 1265125
+}

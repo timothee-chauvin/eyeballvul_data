@@ -1,0 +1,20 @@
+{
+  "commit": "a388193052c298ca87cc64192319df723288c6ab",
+  "repo_url": "https://github.com/qos-ch/logback",
+  "date": "2023-03-23T21:06:04",
+  "languages": {
+    "Java": 3051715,
+    "HTML": 1882339,
+    "JavaScript": 71323,
+    "Scala": 38602,
+    "Groovy": 15849,
+    "CSS": 11120,
+    "Shell": 5296,
+    "PLpgSQL": 4785,
+    "PLSQL": 3997,
+    "Perl": 766,
+    "Batchfile": 515,
+    "Roff": 482
+  },
+  "size": 5086789
+}

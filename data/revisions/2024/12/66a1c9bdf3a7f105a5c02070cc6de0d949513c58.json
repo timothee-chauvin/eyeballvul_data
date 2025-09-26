@@ -1,0 +1,16 @@
+{
+  "commit": "66a1c9bdf3a7f105a5c02070cc6de0d949513c58",
+  "repo_url": "https://github.com/zapping-vbi/zvbi",
+  "date": "2024-12-03T14:58:59",
+  "languages": {
+    "C": 2580702,
+    "C++": 178019,
+    "Shell": 41578,
+    "Perl": 19254,
+    "Makefile": 15714,
+    "M4": 15425,
+    "Roff": 13374,
+    "sed": 370
+  },
+  "size": 2864436
+}

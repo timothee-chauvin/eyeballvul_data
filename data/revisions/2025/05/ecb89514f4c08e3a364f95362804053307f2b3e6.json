@@ -1,0 +1,18 @@
+{
+  "commit": "ecb89514f4c08e3a364f95362804053307f2b3e6",
+  "repo_url": "https://github.com/harness/harness",
+  "date": "2025-05-22T17:37:36",
+  "languages": {
+    "Go": 7451114,
+    "TypeScript": 4966372,
+    "SCSS": 484824,
+    "JavaScript": 111249,
+    "Shell": 63209,
+    "PLpgSQL": 22588,
+    "Makefile": 5744,
+    "HTML": 4983,
+    "Dockerfile": 3128,
+    "Smarty": 1781
+  },
+  "size": 13114992
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "632b9a9c8683fd6130855fe633768ff426b3acec",
+  "repo_url": "https://github.com/jsonpickle/jsonpickle",
+  "date": "2020-04-20T19:20:15",
+  "languages": {
+    "Python": 278555,
+    "JavaScript": 45159,
+    "Makefile": 2217,
+    "HTML": 1688,
+    "Shell": 263
+  },
+  "size": 327882
+}

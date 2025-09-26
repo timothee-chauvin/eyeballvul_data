@@ -1,0 +1,19 @@
+{
+  "commit": "7f208fa57f6470e2c428b91bbfc38ed86a7d5269",
+  "repo_url": "https://github.com/scipy/scipy",
+  "date": "2015-11-25T22:09:54",
+  "languages": {
+    "Python": 8321975,
+    "Fortran": 5565422,
+    "C": 4163135,
+    "C++": 3663619,
+    "Cython": 1732676,
+    "HTML": 124328,
+    "Makefile": 76425,
+    "TeX": 52106,
+    "Shell": 5506,
+    "MATLAB": 4346,
+    "SWIG": 71
+  },
+  "size": 23709609
+}

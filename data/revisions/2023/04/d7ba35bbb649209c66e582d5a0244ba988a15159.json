@@ -1,0 +1,22 @@
+{
+  "commit": "d7ba35bbb649209c66e582d5a0244ba988a15159",
+  "repo_url": "https://github.com/civetweb/civetweb",
+  "date": "2023-04-08T15:38:36",
+  "languages": {
+    "C": 1352443,
+    "Lua": 97363,
+    "CMake": 58029,
+    "Batchfile": 53849,
+    "HTML": 50475,
+    "C++": 41409,
+    "Makefile": 19344,
+    "Shell": 18389,
+    "JavaScript": 10834,
+    "Perl": 2456,
+    "QMake": 1030,
+    "PHP": 564,
+    "CSS": 198,
+    "Python": 194
+  },
+  "size": 1706577
+}

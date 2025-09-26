@@ -1,0 +1,17 @@
+{
+  "commit": "3adf3340453d6704d4a2cb47058214cc697a7d29",
+  "repo_url": "https://github.com/pandas-dev/pandas",
+  "date": "2020-03-18T13:18:49",
+  "languages": {
+    "Python": 14193723,
+    "Cython": 941297,
+    "HTML": 629572,
+    "C": 349438,
+    "Shell": 29664,
+    "Smarty": 2040,
+    "CSS": 923,
+    "Makefile": 473,
+    "Batchfile": 257
+  },
+  "size": 16147387
+}

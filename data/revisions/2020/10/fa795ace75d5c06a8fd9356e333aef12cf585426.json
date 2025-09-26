@@ -1,0 +1,14 @@
+{
+  "commit": "fa795ace75d5c06a8fd9356e333aef12cf585426",
+  "repo_url": "https://github.com/oaid/tengine",
+  "date": "2020-10-05T15:05:31",
+  "languages": {
+    "C": 2893950,
+    "C++": 798892,
+    "Assembly": 393817,
+    "CMake": 83156,
+    "Python": 59698,
+    "Shell": 1586
+  },
+  "size": 4231099
+}

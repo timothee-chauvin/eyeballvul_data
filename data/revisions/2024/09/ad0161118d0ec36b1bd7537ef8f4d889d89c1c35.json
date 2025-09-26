@@ -1,0 +1,18 @@
+{
+  "commit": "ad0161118d0ec36b1bd7537ef8f4d889d89c1c35",
+  "repo_url": "https://github.com/owasp-modsecurity/modsecurity",
+  "date": "2024-09-03T12:40:55",
+  "languages": {
+    "C": 2143224,
+    "Perl": 956432,
+    "C++": 72139,
+    "M4": 57030,
+    "Batchfile": 22270,
+    "Makefile": 15825,
+    "Shell": 10036,
+    "Lua": 1510,
+    "Raku": 705,
+    "HTML": 6
+  },
+  "size": 3279177
+}

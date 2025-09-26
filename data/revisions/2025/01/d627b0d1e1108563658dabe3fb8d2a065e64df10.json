@@ -1,0 +1,15 @@
+{
+  "commit": "d627b0d1e1108563658dabe3fb8d2a065e64df10",
+  "repo_url": "https://github.com/polkit-org/polkit",
+  "date": "2025-01-13T14:54:22",
+  "languages": {
+    "C": 990559,
+    "Meson": 27498,
+    "Shell": 23619,
+    "JavaScript": 10030,
+    "Python": 5307,
+    "Perl": 277,
+    "Emacs Lisp": 41
+  },
+  "size": 1057331
+}

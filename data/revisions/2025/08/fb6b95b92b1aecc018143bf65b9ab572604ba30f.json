@@ -1,0 +1,16 @@
+{
+  "commit": "fb6b95b92b1aecc018143bf65b9ab572604ba30f",
+  "repo_url": "https://github.com/grafana/grafana-zabbix",
+  "date": "2025-08-07T14:21:59",
+  "languages": {
+    "TypeScript": 508059,
+    "Go": 147685,
+    "SCSS": 44226,
+    "JavaScript": 9755,
+    "Python": 8940,
+    "Dockerfile": 4324,
+    "Makefile": 2153,
+    "Shell": 1362
+  },
+  "size": 726504
+}

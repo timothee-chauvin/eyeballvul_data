@@ -1,0 +1,16 @@
+{
+  "commit": "54a3d86200a52a36ab5cf1d699eee572539db52d",
+  "repo_url": "https://github.com/badaix/snapcast",
+  "date": "2023-02-04T20:52:01",
+  "languages": {
+    "C++": 2550249,
+    "Python": 121316,
+    "CMake": 33927,
+    "Makefile": 16150,
+    "CSS": 5790,
+    "Roff": 3931,
+    "HTML": 2457,
+    "Shell": 1882
+  },
+  "size": 2735702
+}
