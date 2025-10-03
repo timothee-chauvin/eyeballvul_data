@@ -1,0 +1,15 @@
+{
+  "commit": "fd8b56f3ee971f94dc6fc95411fc01e1c12153ab",
+  "repo_url": "https://github.com/p11-glue/p11-kit",
+  "date": "2020-08-18T13:36:11",
+  "languages": {
+    "C": 2554048,
+    "Makefile": 36646,
+    "Meson": 32653,
+    "Shell": 27376,
+    "M4": 21455,
+    "sed": 370,
+    "Emacs Lisp": 83
+  },
+  "size": 2672631
+}

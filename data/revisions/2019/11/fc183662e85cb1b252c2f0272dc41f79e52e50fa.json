@@ -1,0 +1,13 @@
+{
+  "commit": "fc183662e85cb1b252c2f0272dc41f79e52e50fa",
+  "repo_url": "https://github.com/maxmind/libmaxminddb",
+  "date": "2019-11-02T16:00:08",
+  "languages": {
+    "C": 214098,
+    "Perl": 12114,
+    "M4": 4712,
+    "Shell": 4301,
+    "Makefile": 3042
+  },
+  "size": 238267
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "ed3eb506e9a8e6ea871a2eb5818e19ba36f3f277",
+  "repo_url": "https://github.com/mirror/ncurses",
+  "date": "2015-08-09T00:19:07",
+  "languages": {
+    "C": 3361901,
+    "Ada": 1085180,
+    "C++": 205245,
+    "Makefile": 134508,
+    "Shell": 120322,
+    "Awk": 70686,
+    "Batchfile": 18374,
+    "Roff": 12465,
+    "Perl": 10016,
+    "M4": 7729,
+    "NSIS": 5528
+  },
+  "size": 5031954
+}

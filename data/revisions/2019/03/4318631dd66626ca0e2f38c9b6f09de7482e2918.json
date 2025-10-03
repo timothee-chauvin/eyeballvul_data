@@ -1,0 +1,20 @@
+{
+  "commit": "4318631dd66626ca0e2f38c9b6f09de7482e2918",
+  "repo_url": "https://github.com/mkj/dropbear",
+  "date": "2019-03-27T13:47:34",
+  "languages": {
+    "C": 6143564,
+    "TeX": 439527,
+    "Makefile": 66582,
+    "Perl": 32180,
+    "Shell": 23518,
+    "M4": 22871,
+    "Python": 16641,
+    "Roff": 16209,
+    "Java": 9511,
+    "HTML": 792,
+    "Assembly": 475,
+    "Raku": 218
+  },
+  "size": 6772088
+}

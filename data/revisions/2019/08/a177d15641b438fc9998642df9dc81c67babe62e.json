@@ -1,0 +1,12 @@
+{
+  "commit": "a177d15641b438fc9998642df9dc81c67babe62e",
+  "repo_url": "https://github.com/openrc/openrc",
+  "date": "2019-08-20T18:13:30",
+  "languages": {
+    "C": 415971,
+    "Shell": 193756,
+    "Makefile": 39288,
+    "Perl": 1203
+  },
+  "size": 650218
+}

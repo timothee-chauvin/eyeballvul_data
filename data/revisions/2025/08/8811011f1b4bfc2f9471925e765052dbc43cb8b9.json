@@ -1,0 +1,13 @@
+{
+  "commit": "8811011f1b4bfc2f9471925e765052dbc43cb8b9",
+  "repo_url": "https://github.com/coder/agentapi",
+  "date": "2025-08-06T11:05:08",
+  "languages": {
+    "Go": 103629,
+    "TypeScript": 45046,
+    "CSS": 4633,
+    "Makefile": 770,
+    "JavaScript": 677
+  },
+  "size": 154755
+}

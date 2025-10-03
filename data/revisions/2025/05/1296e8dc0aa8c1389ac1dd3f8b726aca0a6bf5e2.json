@@ -1,0 +1,12 @@
+{
+  "commit": "1296e8dc0aa8c1389ac1dd3f8b726aca0a6bf5e2",
+  "repo_url": "https://github.com/behaviortree/behaviortree.cpp",
+  "date": "2025-05-29T10:31:56",
+  "languages": {
+    "C++": 1972013,
+    "CMake": 65642,
+    "Python": 5145,
+    "Shell": 111
+  },
+  "size": 2042911
+}

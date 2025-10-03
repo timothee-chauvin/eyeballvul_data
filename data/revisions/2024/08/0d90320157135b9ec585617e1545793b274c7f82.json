@@ -1,0 +1,13 @@
+{
+  "commit": "0d90320157135b9ec585617e1545793b274c7f82",
+  "repo_url": "https://github.com/openprinting/libppd",
+  "date": "2024-08-14T22:01:59",
+  "languages": {
+    "C": 1202693,
+    "C++": 307302,
+    "M4": 50504,
+    "Shell": 7034,
+    "Makefile": 4079
+  },
+  "size": 1571612
+}

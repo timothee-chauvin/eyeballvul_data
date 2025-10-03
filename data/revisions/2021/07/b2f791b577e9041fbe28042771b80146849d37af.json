@@ -1,0 +1,22 @@
+{
+  "commit": "b2f791b577e9041fbe28042771b80146849d37af",
+  "repo_url": "https://github.com/fish-shell/fish-shell",
+  "date": "2021-07-06T14:45:37",
+  "languages": {
+    "Shell": 4073312,
+    "C++": 2796055,
+    "C": 2047072,
+    "Python": 216157,
+    "JavaScript": 60912,
+    "CMake": 55100,
+    "CSS": 27772,
+    "HTML": 21507,
+    "Dockerfile": 7495,
+    "Objective-C": 3586,
+    "Makefile": 3337,
+    "Pawn": 1339,
+    "Rich Text Format": 890,
+    "Roff": 355
+  },
+  "size": 9314889
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "0a38e85c9cde1e099ca3bf70083bd00f89c3e5b6",
+  "repo_url": "https://github.com/ndevilla/iniparser",
+  "date": "2017-11-02T09:09:15",
+  "languages": {
+    "C": 103787,
+    "CSS": 9755,
+    "Makefile": 2649,
+    "Shell": 1007,
+    "Python": 252
+  },
+  "size": 117450
+}

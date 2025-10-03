@@ -1,0 +1,22 @@
+{
+  "commit": "7f3cfaf93d1dec3eece0be995b10202f7f61bb50",
+  "repo_url": "https://github.com/collectd/collectd",
+  "date": "2015-02-26T14:06:36",
+  "languages": {
+    "C": 2684135,
+    "Perl": 320792,
+    "M4": 149493,
+    "PHP": 131828,
+    "Java": 86262,
+    "Makefile": 50243,
+    "JavaScript": 35485,
+    "Python": 20406,
+    "Shell": 16511,
+    "PLpgSQL": 8294,
+    "Yacc": 5285,
+    "Ruby": 3661,
+    "Lex": 3581,
+    "CSS": 972
+  },
+  "size": 3516948
+}

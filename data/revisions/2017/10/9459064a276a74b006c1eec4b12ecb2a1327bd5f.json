@@ -1,0 +1,14 @@
+{
+  "commit": "9459064a276a74b006c1eec4b12ecb2a1327bd5f",
+  "repo_url": "https://github.com/lavv17/lftp",
+  "date": "2017-10-09T11:02:22",
+  "languages": {
+    "C++": 1751192,
+    "C": 359898,
+    "M4": 64230,
+    "Shell": 42631,
+    "Makefile": 10341,
+    "Perl": 4833
+  },
+  "size": 2233125
+}

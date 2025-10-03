@@ -1,0 +1,16 @@
+{
+  "commit": "398e36c756a3067de8e2b35dd380baef040dfe0d",
+  "repo_url": "https://github.com/lz4/lz4",
+  "date": "2019-04-23T17:18:40",
+  "languages": {
+    "C": 673496,
+    "Makefile": 49430,
+    "C++": 43780,
+    "Python": 25595,
+    "Meson": 16596,
+    "Roff": 9011,
+    "CMake": 8188,
+    "Shell": 3303
+  },
+  "size": 829399
+}

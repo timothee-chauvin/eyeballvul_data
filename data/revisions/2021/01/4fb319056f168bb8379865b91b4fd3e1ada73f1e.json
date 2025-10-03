@@ -1,0 +1,12 @@
+{
+  "commit": "4fb319056f168bb8379865b91b4fd3e1ada73f1e",
+  "repo_url": "https://github.com/ppp-project/ppp",
+  "date": "2021-01-04T23:06:37",
+  "languages": {
+    "C": 2299020,
+    "Roff": 144375,
+    "Shell": 17306,
+    "Perl": 5582
+  },
+  "size": 2466283
+}

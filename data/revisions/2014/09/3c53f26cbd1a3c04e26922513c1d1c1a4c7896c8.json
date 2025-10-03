@@ -1,0 +1,25 @@
+{
+  "commit": "3c53f26cbd1a3c04e26922513c1d1c1a4c7896c8",
+  "repo_url": "https://github.com/unbit/uwsgi",
+  "date": "2014-09-05T04:48:15",
+  "languages": {
+    "C": 3062293,
+    "Python": 201171,
+    "C++": 44757,
+    "Perl": 26455,
+    "Ruby": 26141,
+    "Java": 20982,
+    "Go": 7990,
+    "Shell": 5931,
+    "C#": 5011,
+    "Clojure": 4018,
+    "Lua": 3135,
+    "Objective-C": 1395,
+    "HTML": 1273,
+    "Erlang": 693,
+    "XSLT": 675,
+    "Makefile": 261,
+    "ASP.NET": 130
+  },
+  "size": 3412311
+}

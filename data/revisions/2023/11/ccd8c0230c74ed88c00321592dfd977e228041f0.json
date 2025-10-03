@@ -1,0 +1,16 @@
+{
+  "commit": "ccd8c0230c74ed88c00321592dfd977e228041f0",
+  "repo_url": "https://github.com/arm-software/arm-trusted-firmware",
+  "date": "2023-11-21T13:46:50",
+  "languages": {
+    "C": 17970900,
+    "Assembly": 1428418,
+    "Makefile": 738870,
+    "Python": 50654,
+    "C++": 34512,
+    "JavaScript": 15882,
+    "Shell": 8971,
+    "Handlebars": 1625
+  },
+  "size": 20249832
+}

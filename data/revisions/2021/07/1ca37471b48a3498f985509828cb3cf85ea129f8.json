@@ -1,0 +1,16 @@
+{
+  "commit": "1ca37471b48a3498f985509828cb3cf85ea129f8",
+  "repo_url": "https://github.com/htacg/tidy-html5",
+  "date": "2021-07-16T23:45:24",
+  "languages": {
+    "C": 2519345,
+    "HTML": 581560,
+    "Ruby": 84268,
+    "CMake": 27189,
+    "Batchfile": 24153,
+    "Shell": 9693,
+    "Rich Text Format": 4289,
+    "C++": 1240
+  },
+  "size": 3251737
+}

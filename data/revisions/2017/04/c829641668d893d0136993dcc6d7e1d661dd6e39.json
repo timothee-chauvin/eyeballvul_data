@@ -1,0 +1,17 @@
+{
+  "commit": "c829641668d893d0136993dcc6d7e1d661dd6e39",
+  "repo_url": "https://github.com/gnome/libsoup",
+  "date": "2017-04-20T13:59:38",
+  "languages": {
+    "C": 2195265,
+    "Makefile": 44460,
+    "M4": 40884,
+    "Shell": 20884,
+    "Python": 12106,
+    "Vala": 7776,
+    "PHP": 2450,
+    "HTML": 505,
+    "PostScript": 15
+  },
+  "size": 2324345
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "4ddd8ed5ca6484b930b111aec50c2750a6119a0f",
+  "repo_url": "https://github.com/hunspell/hunspell",
+  "date": "2018-11-12T20:38:56",
+  "languages": {
+    "C++": 1356113,
+    "M4": 99869,
+    "Shell": 40926,
+    "C": 20534,
+    "Makefile": 14199,
+    "Perl": 13097,
+    "sed": 370
+  },
+  "size": 1545108
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "e36a9cabb9882e61276161c23834d966d62073b7",
+  "repo_url": "https://github.com/taglib/taglib",
+  "date": "2016-10-24T03:03:23",
+  "languages": {
+    "C++": 1759848,
+    "CMake": 43938,
+    "C": 14600,
+    "Shell": 670
+  },
+  "size": 1819056
+}

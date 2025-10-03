@@ -1,0 +1,13 @@
+{
+  "commit": "27b0232b0d9259bc009389a019eb6b47103f484a",
+  "repo_url": "https://github.com/libass/libass",
+  "date": "2016-09-24T19:06:23",
+  "languages": {
+    "C": 600255,
+    "Assembly": 112023,
+    "M4": 9038,
+    "Makefile": 2858,
+    "Shell": 53
+  },
+  "size": 724227
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "35280044ffdb6a8166fc6ad5497cfae7032c71a6",
+  "repo_url": "https://github.com/fail2ban/fail2ban",
+  "date": "2017-05-11T01:38:57",
+  "languages": {
+    "Python": 536424,
+    "Shell": 26362,
+    "Perl": 20322
+  },
+  "size": 583108
+}

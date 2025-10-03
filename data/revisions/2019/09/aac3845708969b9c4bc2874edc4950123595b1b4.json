@@ -1,0 +1,15 @@
+{
+  "commit": "aac3845708969b9c4bc2874edc4950123595b1b4",
+  "repo_url": "https://github.com/fribidi/fribidi",
+  "date": "2019-09-27T15:18:56",
+  "languages": {
+    "C": 373805,
+    "Makefile": 24073,
+    "Meson": 10035,
+    "M4": 8571,
+    "Shell": 4082,
+    "SWIG": 2708,
+    "Python": 1300
+  },
+  "size": 424574
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "eb8c4cf849f2b4c509caa88178f09b26c849f0aa",
+  "repo_url": "https://github.com/joni1802/ts3-manager",
+  "date": "2024-01-04T20:34:12",
+  "languages": {
+    "Vue": 286977,
+    "JavaScript": 53716,
+    "Dockerfile": 1194,
+    "HTML": 936,
+    "SCSS": 350,
+    "CSS": 126
+  },
+  "size": 343299
+}

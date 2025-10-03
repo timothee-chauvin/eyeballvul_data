@@ -1,0 +1,11 @@
+{
+  "commit": "00f1b33b13088ce17b11a63ee0d1d78aa204fceb",
+  "repo_url": "https://github.com/sqlalchemy/mako",
+  "date": "2022-06-30T15:42:50",
+  "languages": {
+    "Python": 527580,
+    "HTML": 61408,
+    "Mako": 2482
+  },
+  "size": 591470
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "6675d36e2531f2573dcb8944bd9877214677e151",
+  "repo_url": "https://github.com/akimd/bison",
+  "date": "2020-07-23T17:58:16",
+  "languages": {
+    "C": 1138006,
+    "M4": 225350,
+    "C++": 91482,
+    "XSLT": 58288,
+    "Shell": 49537,
+    "Perl": 46284,
+    "Makefile": 29855,
+    "Python": 3388,
+    "Ruby": 2517,
+    "CSS": 1862
+  },
+  "size": 1646569
+}

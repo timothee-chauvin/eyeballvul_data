@@ -1,0 +1,14 @@
+{
+  "commit": "ea13fcb9515b5dc4f2870317a1b89478de9f90bc",
+  "repo_url": "https://github.com/gnome/libgsf",
+  "date": "2016-08-20T20:03:34",
+  "languages": {
+    "C": 838678,
+    "Perl": 26113,
+    "M4": 15852,
+    "Makefile": 7872,
+    "Shell": 1369,
+    "Python": 1087
+  },
+  "size": 890971
+}

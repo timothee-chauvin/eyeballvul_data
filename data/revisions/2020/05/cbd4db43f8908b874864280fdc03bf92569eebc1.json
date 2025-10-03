@@ -1,0 +1,25 @@
+{
+  "commit": "cbd4db43f8908b874864280fdc03bf92569eebc1",
+  "repo_url": "https://github.com/openbabel/openbabel",
+  "date": "2020-05-08T15:38:02",
+  "languages": {
+    "C++": 11749014,
+    "C": 6235623,
+    "Python": 365022,
+    "SWIG": 126367,
+    "CMake": 113145,
+    "HTML": 37640,
+    "POV-Ray SDL": 31822,
+    "Perl": 24258,
+    "PHP": 15463,
+    "Shell": 8522,
+    "Ruby": 2334,
+    "Batchfile": 1774,
+    "C#": 1320,
+    "R": 1261,
+    "XSLT": 775,
+    "Scala": 552,
+    "Java": 475
+  },
+  "size": 18715367
+}

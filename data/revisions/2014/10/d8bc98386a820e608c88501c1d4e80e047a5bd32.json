@@ -1,0 +1,17 @@
+{
+  "commit": "d8bc98386a820e608c88501c1d4e80e047a5bd32",
+  "repo_url": "https://github.com/libvnc/libvncserver",
+  "date": "2014-10-21T15:57:11",
+  "languages": {
+    "C": 1682225,
+    "JavaScript": 298292,
+    "Shell": 98272,
+    "M4": 60476,
+    "CSS": 18229,
+    "HTML": 18069,
+    "CMake": 15186,
+    "Perl": 12888,
+    "Makefile": 5963
+  },
+  "size": 2209600
+}

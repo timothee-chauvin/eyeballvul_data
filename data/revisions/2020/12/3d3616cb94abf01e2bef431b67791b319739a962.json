@@ -1,0 +1,13 @@
+{
+  "commit": "3d3616cb94abf01e2bef431b67791b319739a962",
+  "repo_url": "https://github.com/ruby/rdoc",
+  "date": "2020-12-21T04:36:38",
+  "languages": {
+    "Ruby": 1477750,
+    "HTML": 16679,
+    "CSS": 16252,
+    "JavaScript": 14769,
+    "Shell": 74
+  },
+  "size": 1525524
+}

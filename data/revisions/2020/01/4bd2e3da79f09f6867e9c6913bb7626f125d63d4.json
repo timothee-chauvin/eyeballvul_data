@@ -1,0 +1,14 @@
+{
+  "commit": "4bd2e3da79f09f6867e9c6913bb7626f125d63d4",
+  "repo_url": "https://github.com/axel-download-accelerator/axel",
+  "date": "2020-01-26T12:11:29",
+  "languages": {
+    "C": 123918,
+    "M4": 5486,
+    "Makefile": 1691,
+    "Shell": 768,
+    "sed": 370,
+    "Awk": 149
+  },
+  "size": 132382
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "5a7014dc013d1ab90886732b578875e04c0ede72",
+  "repo_url": "https://github.com/duncaen/opendoas",
+  "date": "2016-09-06T00:58:42",
+  "languages": {
+    "C": 78651,
+    "Yacc": 6752,
+    "Roff": 6670,
+    "Makefile": 1560
+  },
+  "size": 93633
+}

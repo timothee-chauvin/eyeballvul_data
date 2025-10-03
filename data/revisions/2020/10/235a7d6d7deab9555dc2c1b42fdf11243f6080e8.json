@@ -1,0 +1,16 @@
+{
+  "commit": "235a7d6d7deab9555dc2c1b42fdf11243f6080e8",
+  "repo_url": "https://github.com/python-pillow/pillow",
+  "date": "2020-10-14T16:02:53",
+  "languages": {
+    "Python": 1732875,
+    "C": 1176790,
+    "HTML": 16910,
+    "PostScript": 11949,
+    "Shell": 5201,
+    "CMake": 4305,
+    "Makefile": 2857,
+    "Gnuplot": 1125
+  },
+  "size": 2952012
+}

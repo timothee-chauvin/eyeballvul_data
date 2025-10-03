@@ -1,0 +1,13 @@
+{
+  "commit": "d7e45c17c08c1c408f3c63983bdab03e2273cbec",
+  "repo_url": "https://github.com/logrotate/logrotate",
+  "date": "2022-01-07T08:59:17",
+  "languages": {
+    "C": 206955,
+    "Shell": 64951,
+    "Roff": 30206,
+    "M4": 6066,
+    "Makefile": 3319
+  },
+  "size": 311497
+}

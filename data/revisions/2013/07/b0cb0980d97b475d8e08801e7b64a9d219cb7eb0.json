@@ -1,0 +1,13 @@
+{
+  "commit": "b0cb0980d97b475d8e08801e7b64a9d219cb7eb0",
+  "repo_url": "https://github.com/supervisor/supervisor",
+  "date": "2013-07-31T01:27:07",
+  "languages": {
+    "Python": 1102569,
+    "HTML": 34661,
+    "CSS": 3609,
+    "Shell": 1836,
+    "Makefile": 1006
+  },
+  "size": 1143681
+}

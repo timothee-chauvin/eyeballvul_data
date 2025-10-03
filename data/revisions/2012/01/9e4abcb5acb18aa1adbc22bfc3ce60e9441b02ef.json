@@ -1,0 +1,13 @@
+{
+  "commit": "9e4abcb5acb18aa1adbc22bfc3ce60e9441b02ef",
+  "repo_url": "https://github.com/infrastructureservices/dnsmasq",
+  "date": "2012-01-05T17:31:10",
+  "languages": {
+    "C": 165510,
+    "Roff": 17792,
+    "HTML": 17149,
+    "Shell": 3688,
+    "Makefile": 705
+  },
+  "size": 204844
+}

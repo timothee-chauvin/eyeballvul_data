@@ -1,0 +1,19 @@
+{
+  "commit": "82001f32ed9e76b0515a19ee0cc5be28c8ee0541",
+  "repo_url": "https://github.com/the-tcpdump-group/libpcap",
+  "date": "2018-06-25T01:38:09",
+  "languages": {
+    "C": 2102698,
+    "Roff": 172311,
+    "CMake": 106166,
+    "M4": 60581,
+    "HTML": 38335,
+    "Makefile": 37419,
+    "Yacc": 23354,
+    "Shell": 16293,
+    "Lex": 14984,
+    "Assembly": 11182,
+    "Python": 10073
+  },
+  "size": 2593396
+}

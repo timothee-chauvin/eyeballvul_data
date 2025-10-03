@@ -1,0 +1,27 @@
+{
+  "commit": "8598060bacada41a0eb09d95c97744ff4e428f8e",
+  "repo_url": "https://github.com/gnome/libxml2",
+  "date": "2021-05-13T12:55:12",
+  "languages": {
+    "C": 9177489,
+    "RPGLE": 880309,
+    "HTML": 514094,
+    "Python": 340760,
+    "Makefile": 74391,
+    "M4": 56192,
+    "CMake": 43707,
+    "Shell": 43062,
+    "JavaScript": 31308,
+    "XSLT": 28447,
+    "Batchfile": 15298,
+    "DIGITAL Command Language": 8669,
+    "Clean": 6801,
+    "VCL": 4153,
+    "Roff": 2891,
+    "Perl": 2651,
+    "C++": 1754,
+    "PHP": 1319,
+    "Max": 296
+  },
+  "size": 11233591
+}

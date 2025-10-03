@@ -1,0 +1,16 @@
+{
+  "commit": "74a40e50cca0c12dab9f6c4affb91f55ba53a658",
+  "repo_url": "https://github.com/mao888/bluebell-plus",
+  "date": "2023-07-14T13:17:25",
+  "languages": {
+    "Go": 109913,
+    "Vue": 70482,
+    "JavaScript": 10246,
+    "CSS": 3099,
+    "Shell": 1723,
+    "HTML": 1553,
+    "Dockerfile": 1027,
+    "Makefile": 591
+  },
+  "size": 198634
+}

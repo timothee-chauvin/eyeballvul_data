@@ -1,0 +1,19 @@
+{
+  "commit": "71c569d44bf3a8bd53d874c81ee8ac644dd6e9e3",
+  "repo_url": "https://github.com/armmbed/mbedtls",
+  "date": "2024-08-30T09:11:54",
+  "languages": {
+    "C": 11830568,
+    "Shell": 2308276,
+    "Python": 394308,
+    "Jinja": 116369,
+    "CMake": 68308,
+    "Makefile": 51973,
+    "Perl": 48726,
+    "Dockerfile": 5422,
+    "GDB": 2250,
+    "Batchfile": 2040,
+    "Tcl": 110
+  },
+  "size": 14828350
+}

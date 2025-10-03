@@ -1,0 +1,16 @@
+{
+  "commit": "486e81dea9844d02aacf7e3e6eae7d8b75ec26b3",
+  "repo_url": "https://github.com/libgd/libgd",
+  "date": "2006-04-05T15:56:57",
+  "languages": {
+    "C": 1193927,
+    "Shell": 422962,
+    "HTML": 293530,
+    "Makefile": 64911,
+    "Perl": 21783,
+    "M4": 15780,
+    "Roff": 3911,
+    "Tcl": 1374
+  },
+  "size": 2018178
+}

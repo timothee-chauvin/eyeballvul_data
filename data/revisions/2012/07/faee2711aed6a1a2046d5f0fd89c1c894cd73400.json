@@ -1,0 +1,13 @@
+{
+  "commit": "faee2711aed6a1a2046d5f0fd89c1c894cd73400",
+  "repo_url": "https://github.com/libexif/exif",
+  "date": "2012-07-12T17:53:40",
+  "languages": {
+    "M4": 72030,
+    "C": 62568,
+    "Roff": 7315,
+    "Shell": 3996,
+    "Makefile": 2777
+  },
+  "size": 148686
+}

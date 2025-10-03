@@ -1,0 +1,15 @@
+{
+  "commit": "651b09b085938de527c4ae1957fdcef01ad66d6b",
+  "repo_url": "https://github.com/safedep/vet",
+  "date": "2025-08-23T12:15:56",
+  "languages": {
+    "Go": 938927,
+    "Python": 9828,
+    "Shell": 9444,
+    "JavaScript": 9336,
+    "HCL": 6595,
+    "Makefile": 1842,
+    "Dockerfile": 1431
+  },
+  "size": 977403
+}

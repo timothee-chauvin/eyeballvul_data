@@ -1,0 +1,16 @@
+{
+  "commit": "67471cbfe24cd4418e9e97837ac85207f0d974de",
+  "repo_url": "https://github.com/gnome/pango",
+  "date": "2018-07-30T17:32:51",
+  "languages": {
+    "C": 1932288,
+    "Makefile": 46899,
+    "Meson": 33701,
+    "M4": 22618,
+    "Python": 14498,
+    "Perl": 1236,
+    "Shell": 584,
+    "C++": 434
+  },
+  "size": 2052258
+}

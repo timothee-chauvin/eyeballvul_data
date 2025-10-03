@@ -1,0 +1,23 @@
+{
+  "commit": "701af04f31e86a8ae4d6dc147c6e22fa2fb71a15",
+  "repo_url": "https://github.com/colossuscoinxt/colossuscoinxt",
+  "date": "2018-06-09T13:16:48",
+  "languages": {
+    "C++": 4510664,
+    "C": 1030780,
+    "Python": 242229,
+    "M4": 157848,
+    "Makefile": 98687,
+    "Shell": 60199,
+    "HTML": 50621,
+    "CSS": 43188,
+    "QMake": 26220,
+    "Roff": 17865,
+    "Assembly": 7639,
+    "Objective-C++": 7276,
+    "NSIS": 5800,
+    "Java": 2100,
+    "Dockerfile": 1622
+  },
+  "size": 6262738
+}

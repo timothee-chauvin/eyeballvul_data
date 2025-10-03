@@ -1,0 +1,17 @@
+{
+  "commit": "d55950a8571b8f3fbe6dbf6cdc4ec75a477b10e6",
+  "repo_url": "https://github.com/muttmua/mutt",
+  "date": "2018-05-19T17:57:10",
+  "languages": {
+    "C": 3083034,
+    "M4": 92406,
+    "Perl": 34279,
+    "C++": 30543,
+    "Shell": 23345,
+    "Makefile": 18913,
+    "Yacc": 8375,
+    "Vim Script": 2684,
+    "Roff": 2180
+  },
+  "size": 3295759
+}

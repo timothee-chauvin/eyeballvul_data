@@ -1,0 +1,24 @@
+{
+  "commit": "d0832b2847aa9669c09397c5639d7fe56abaf9fc",
+  "repo_url": "https://github.com/git/git",
+  "date": "2018-09-27T18:19:11",
+  "languages": {
+    "C": 6715354,
+    "Shell": 5110066,
+    "Perl": 1146536,
+    "Tcl": 772912,
+    "Python": 325283,
+    "Makefile": 127100,
+    "Emacs Lisp": 86984,
+    "JavaScript": 49702,
+    "M4": 37539,
+    "Roff": 26859,
+    "C++": 26337,
+    "Go": 15064,
+    "CSS": 10637,
+    "PHP": 7984,
+    "Assembly": 7443,
+    "SmPL": 3923
+  },
+  "size": 14469723
+}

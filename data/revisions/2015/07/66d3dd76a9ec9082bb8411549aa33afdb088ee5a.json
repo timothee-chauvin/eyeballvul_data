@@ -1,0 +1,14 @@
+{
+  "commit": "66d3dd76a9ec9082bb8411549aa33afdb088ee5a",
+  "repo_url": "https://github.com/cracklib/cracklib",
+  "date": "2015-07-13T15:18:57",
+  "languages": {
+    "C": 62629,
+    "Python": 12808,
+    "Makefile": 3589,
+    "M4": 3200,
+    "Shell": 1697,
+    "sed": 370
+  },
+  "size": 84293
+}
