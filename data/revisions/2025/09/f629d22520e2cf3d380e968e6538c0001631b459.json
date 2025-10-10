@@ -1,0 +1,26 @@
+{
+  "commit": "f629d22520e2cf3d380e968e6538c0001631b459",
+  "repo_url": "https://github.com/ogrecave/ogre",
+  "date": "2025-09-03T16:28:50",
+  "languages": {
+    "C++": 17744469,
+    "C": 3416484,
+    "Objective-C++": 306730,
+    "CMake": 292020,
+    "GLSL": 89886,
+    "Lex": 83244,
+    "Objective-C": 72954,
+    "Python": 69091,
+    "SWIG": 49780,
+    "Yacc": 40114,
+    "HTML": 31673,
+    "HLSL": 5042,
+    "Rust": 2170,
+    "Rich Text Format": 1380,
+    "Metal": 796,
+    "Batchfile": 623,
+    "Makefile": 413,
+    "Dockerfile": 394
+  },
+  "size": 22207263
+}

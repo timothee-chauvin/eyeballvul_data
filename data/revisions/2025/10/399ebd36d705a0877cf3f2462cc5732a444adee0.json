@@ -1,0 +1,14 @@
+{
+  "commit": "399ebd36d705a0877cf3f2462cc5732a444adee0",
+  "repo_url": "https://github.com/langbot-app/langbot",
+  "date": "2025-10-02T02:23:59",
+  "languages": {
+    "Python": 1070564,
+    "TypeScript": 558148,
+    "CSS": 25078,
+    "JavaScript": 1046,
+    "Shell": 680,
+    "Dockerfile": 360
+  },
+  "size": 1655876
+}

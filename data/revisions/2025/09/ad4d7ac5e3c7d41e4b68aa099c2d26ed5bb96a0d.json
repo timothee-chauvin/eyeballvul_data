@@ -1,0 +1,17 @@
+{
+  "commit": "ad4d7ac5e3c7d41e4b68aa099c2d26ed5bb96a0d",
+  "repo_url": "https://github.com/aiven-open/karapace",
+  "date": "2025-09-03T09:45:51",
+  "languages": {
+    "HTML": 14601434,
+    "Python": 2097726,
+    "Go": 82415,
+    "Makefile": 7904,
+    "Shell": 6025,
+    "Dockerfile": 3829,
+    "CSS": 2143,
+    "JavaScript": 1422,
+    "Batchfile": 804
+  },
+  "size": 16803702
+}

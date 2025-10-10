@@ -1,0 +1,16 @@
+{
+  "commit": "c868354b5b1e1b108f67e48e3378939c84cda87f",
+  "repo_url": "https://github.com/frappe/lms",
+  "date": "2025-07-30T06:14:36",
+  "languages": {
+    "Vue": 617333,
+    "JavaScript": 483151,
+    "Python": 315235,
+    "HTML": 61547,
+    "CSS": 43776,
+    "TypeScript": 14636,
+    "Shell": 960,
+    "Less": 24
+  },
+  "size": 1536662
+}

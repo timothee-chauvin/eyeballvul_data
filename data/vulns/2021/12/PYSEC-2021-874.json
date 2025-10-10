@@ -1,11 +1,11 @@
 {
   "id": "PYSEC-2021-874",
   "published": "2021-12-23T18:15:00",
-  "modified": "2023-11-08T04:06:53.769469",
+  "modified": "2025-10-09T08:20:44.345726",
   "details": "pytorch-lightning is vulnerable to Deserialization of Untrusted Data",
   "repo_url": "https://github.com/pytorchlightning/pytorch-lightning",
   "cwes": [],
   "commits": [
-    "92a2a6e9515b1dd3ffd81d56f753ba3345f9ad9c"
+    "fa185ef0a63a51e76b458fbc8aaa9d45df2b284b"
   ]
 }

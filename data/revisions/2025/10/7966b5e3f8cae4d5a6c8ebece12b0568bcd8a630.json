@@ -1,0 +1,17 @@
+{
+  "commit": "7966b5e3f8cae4d5a6c8ebece12b0568bcd8a630",
+  "repo_url": "https://github.com/google/libphonenumber",
+  "date": "2025-10-09T08:03:11",
+  "languages": {
+    "C++": 3996360,
+    "Java": 2247798,
+    "JavaScript": 1183131,
+    "CMake": 28532,
+    "C": 17110,
+    "Closure Templates": 9848,
+    "HTML": 7719,
+    "Shell": 3845,
+    "CSS": 2572
+  },
+  "size": 7496915
+}

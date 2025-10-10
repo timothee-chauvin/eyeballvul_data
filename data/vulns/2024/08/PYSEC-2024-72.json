@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2024-72",
   "published": "2024-08-20T15:15:00",
-  "modified": "2024-09-18T07:04:07.042699",
+  "modified": "2025-10-09T08:27:50.191979",
   "details": "LF Edge eKuiper is a lightweight IoT data analytics and stream processing engine running on resource-constraint edge devices. A user could utilize and exploit SQL Injection to allow the execution of malicious SQL query via Get method in sqlKvStore. This vulnerability is fixed in 1.14.2.",
   "severity": [
     {

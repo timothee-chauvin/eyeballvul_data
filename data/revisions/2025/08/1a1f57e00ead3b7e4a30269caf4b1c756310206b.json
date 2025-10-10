@@ -1,0 +1,17 @@
+{
+  "commit": "1a1f57e00ead3b7e4a30269caf4b1c756310206b",
+  "repo_url": "https://github.com/sillytavern/sillytavern",
+  "date": "2025-08-25T15:12:02",
+  "languages": {
+    "JavaScript": 7211049,
+    "HTML": 979574,
+    "CSS": 309097,
+    "Less": 36689,
+    "Jupyter Notebook": 9187,
+    "Batchfile": 5270,
+    "Shell": 1688,
+    "Dockerfile": 1221,
+    "Nix": 138
+  },
+  "size": 8553913
+}

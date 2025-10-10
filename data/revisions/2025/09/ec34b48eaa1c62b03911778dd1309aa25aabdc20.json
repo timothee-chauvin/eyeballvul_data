@@ -1,0 +1,11 @@
+{
+  "commit": "ec34b48eaa1c62b03911778dd1309aa25aabdc20",
+  "repo_url": "https://github.com/flagforgectf/flagforge",
+  "date": "2025-09-23T17:36:38",
+  "languages": {
+    "TypeScript": 571298,
+    "JavaScript": 1892,
+    "CSS": 1771
+  },
+  "size": 574961
+}

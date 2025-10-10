@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2022-42975",
   "published": "2022-10-19T13:15:00",
-  "modified": "2023-11-08T04:09:59.577419",
+  "modified": "2025-10-09T08:23:59.238508",
   "details": "Failure to Sanitize Special Elements into a Different Plane (Special Element Injection) in GitHub repository octoprint/octoprint prior to 1.8.3.",
   "repo_url": "https://github.com/octoprint/octoprint",
   "cwes": [],

@@ -1,0 +1,14 @@
+{
+  "commit": "33bbead2eba5697707a4e6e05018e0f42541f450",
+  "repo_url": "https://github.com/swetrix/swetrix",
+  "date": "2025-09-24T18:26:22",
+  "languages": {
+    "TypeScript": 2594218,
+    "JavaScript": 73192,
+    "HTML": 22126,
+    "CSS": 8320,
+    "Dockerfile": 2459,
+    "Shell": 408
+  },
+  "size": 2700723
+}

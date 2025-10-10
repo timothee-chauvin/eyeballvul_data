@@ -1,0 +1,21 @@
+{
+  "commit": "2893ecbf3e5b983970138289b759baf45a327ff3",
+  "repo_url": "https://github.com/u-boot/u-boot",
+  "date": "2005-08-13T23:52:14",
+  "languages": {
+    "C": 28566713,
+    "Assembly": 1551331,
+    "Makefile": 891606,
+    "Batchfile": 103635,
+    "PHP": 54088,
+    "Shell": 34456,
+    "Yacc": 16988,
+    "Tcl": 9828,
+    "CSS": 3660,
+    "GDB": 3642,
+    "C++": 3310,
+    "Lex": 2067,
+    "Awk": 145
+  },
+  "size": 31241469
+}

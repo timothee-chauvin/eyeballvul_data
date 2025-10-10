@@ -1,0 +1,15 @@
+{
+  "commit": "40065811a143cd3175f5ccfeff87e926c6f0e452",
+  "repo_url": "https://github.com/matrix-org/matrix-spec",
+  "date": "2025-06-26T16:43:51",
+  "languages": {
+    "HTML": 86654,
+    "Python": 37760,
+    "CSS": 22433,
+    "SCSS": 19914,
+    "JavaScript": 11903,
+    "Shell": 3263,
+    "Jinja": 557
+  },
+  "size": 182484
+}

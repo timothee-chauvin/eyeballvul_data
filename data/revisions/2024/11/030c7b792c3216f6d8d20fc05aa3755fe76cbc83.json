@@ -1,0 +1,13 @@
+{
+  "commit": "030c7b792c3216f6d8d20fc05aa3755fe76cbc83",
+  "repo_url": "https://github.com/deep-project/moss",
+  "date": "2024-11-27T16:17:53",
+  "languages": {
+    "Go": 312513,
+    "Vue": 194365,
+    "JavaScript": 142204,
+    "HTML": 24345,
+    "CSS": 13285
+  },
+  "size": 686712
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "a3435da6bfdd08f4ed0892775d7f5fbc59ccb948",
+  "repo_url": "https://github.com/julien040/anyquery",
+  "date": "2025-08-06T20:59:54",
+  "languages": {
+    "Go": 2380988,
+    "Yacc": 190277,
+    "Astro": 148645,
+    "MDX": 27349,
+    "Shell": 18447,
+    "JavaScript": 15143,
+    "Makefile": 9946,
+    "TypeScript": 8698,
+    "AppleScript": 8500,
+    "CSS": 7566,
+    "Python": 6330,
+    "HTML": 3449
+  },
+  "size": 2825338
+}

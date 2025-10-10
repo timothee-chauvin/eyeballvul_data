@@ -1,0 +1,13 @@
+{
+  "commit": "8e2728d283b3901d688c2454086fd0b512739b53",
+  "repo_url": "https://github.com/jakowenko/double-take",
+  "date": "2022-10-27T17:46:46",
+  "languages": {
+    "JavaScript": 151491,
+    "Vue": 123457,
+    "Dockerfile": 1061,
+    "Shell": 803,
+    "SCSS": 20
+  },
+  "size": 276832
+}
