@@ -1,0 +1,18 @@
+{
+  "commit": "bff68d8a6e20f414816d3d2f23d3753fb7b1f657",
+  "repo_url": "https://github.com/matrix-org/matrix-hookshot",
+  "date": "2024-11-29T13:13:09",
+  "languages": {
+    "TypeScript": 1000842,
+    "Rust": 32932,
+    "SCSS": 8111,
+    "Smarty": 6839,
+    "JavaScript": 6631,
+    "Shell": 2812,
+    "Dockerfile": 1643,
+    "HTML": 827,
+    "Nix": 627,
+    "CSS": 82
+  },
+  "size": 1061346
+}

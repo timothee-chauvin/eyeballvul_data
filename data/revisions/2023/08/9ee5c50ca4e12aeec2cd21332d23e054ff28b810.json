@@ -1,0 +1,16 @@
+{
+  "commit": "9ee5c50ca4e12aeec2cd21332d23e054ff28b810",
+  "repo_url": "https://github.com/codidact/qpixel",
+  "date": "2023-08-05T11:21:05",
+  "languages": {
+    "Ruby": 690164,
+    "HTML": 495790,
+    "JavaScript": 148528,
+    "SCSS": 30883,
+    "Dockerfile": 1082,
+    "Shell": 651,
+    "CSS": 514,
+    "CoffeeScript": 211
+  },
+  "size": 1367823
+}

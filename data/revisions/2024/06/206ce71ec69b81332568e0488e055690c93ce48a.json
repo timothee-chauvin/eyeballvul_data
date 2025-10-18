@@ -1,0 +1,14 @@
+{
+  "commit": "206ce71ec69b81332568e0488e055690c93ce48a",
+  "repo_url": "https://github.com/projectcapsule/capsule",
+  "date": "2024-06-26T07:11:12",
+  "languages": {
+    "Go": 640690,
+    "Shell": 14873,
+    "Makefile": 10064,
+    "Smarty": 8214,
+    "Dockerfile": 1161,
+    "JavaScript": 686
+  },
+  "size": 675688
+}

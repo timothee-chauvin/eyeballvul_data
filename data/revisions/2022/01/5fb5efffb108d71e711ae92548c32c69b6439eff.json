@@ -1,0 +1,12 @@
+{
+  "commit": "5fb5efffb108d71e711ae92548c32c69b6439eff",
+  "repo_url": "https://github.com/grpc/grpc-kotlin",
+  "date": "2022-01-19T03:39:56",
+  "languages": {
+    "Kotlin": 330006,
+    "Starlark": 32086,
+    "Java": 29068,
+    "Shell": 548
+  },
+  "size": 391708
+}

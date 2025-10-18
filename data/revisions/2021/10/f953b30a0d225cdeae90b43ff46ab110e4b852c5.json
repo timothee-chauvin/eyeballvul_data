@@ -1,0 +1,22 @@
+{
+  "commit": "f953b30a0d225cdeae90b43ff46ab110e4b852c5",
+  "repo_url": "https://github.com/opensips/opensips",
+  "date": "2021-10-20T10:57:24",
+  "languages": {
+    "C": 15499803,
+    "Makefile": 121903,
+    "Shell": 92593,
+    "Perl": 72949,
+    "Yacc": 67647,
+    "Python": 64356,
+    "C++": 38305,
+    "M4": 32217,
+    "XS": 31903,
+    "Lex": 28947,
+    "PHP": 16028,
+    "Roff": 10769,
+    "Vim Script": 4963,
+    "CMake": 461
+  },
+  "size": 16082844
+}

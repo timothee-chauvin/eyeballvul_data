@@ -1,0 +1,13 @@
+{
+  "commit": "25317c17bebccaa33f66f2068e57baebb92f5a8e",
+  "repo_url": "https://github.com/openprinting/cups-browsed",
+  "date": "2022-11-18T12:13:33",
+  "languages": {
+    "C": 435136,
+    "M4": 47791,
+    "Roff": 38398,
+    "Shell": 10138,
+    "Makefile": 2931
+  },
+  "size": 534394
+}

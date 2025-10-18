@@ -1,0 +1,20 @@
+{
+  "commit": "341ac890a4f3c5054b3f7667d613fd89a9290b53",
+  "repo_url": "https://github.com/element-hq/matrix-authentication-service",
+  "date": "2025-10-14T16:02:58",
+  "languages": {
+    "Rust": 4053382,
+    "TypeScript": 516379,
+    "HTML": 207547,
+    "CSS": 48100,
+    "Open Policy Agent": 45213,
+    "JavaScript": 10241,
+    "Shell": 8707,
+    "PLpgSQL": 7784,
+    "Dockerfile": 5453,
+    "Python": 4456,
+    "Makefile": 2112,
+    "HCL": 1366
+  },
+  "size": 4910740
+}

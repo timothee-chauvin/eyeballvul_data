@@ -1,0 +1,18 @@
+{
+  "commit": "10b59e0e27c95f3520ac979bdc58ddaedb6aaaa0",
+  "repo_url": "https://github.com/apache/answer",
+  "date": "2023-02-07T13:38:32",
+  "languages": {
+    "Go": 934004,
+    "TypeScript": 638603,
+    "HTML": 29771,
+    "SCSS": 12461,
+    "JavaScript": 5484,
+    "Dockerfile": 1460,
+    "Smarty": 1438,
+    "Makefile": 1333,
+    "Shell": 439,
+    "CSS": 116
+  },
+  "size": 1625109
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "b2c773167c922302662fb405faf5c7d1cd9aee82",
+  "repo_url": "https://github.com/sulu/sulu",
+  "date": "2023-08-03T18:08:59",
+  "languages": {
+    "PHP": 10724881,
+    "JavaScript": 4575463,
+    "SCSS": 155561,
+    "Twig": 46217,
+    "CSS": 9644,
+    "VCL": 4428,
+    "Shell": 158
+  },
+  "size": 15516352
+}

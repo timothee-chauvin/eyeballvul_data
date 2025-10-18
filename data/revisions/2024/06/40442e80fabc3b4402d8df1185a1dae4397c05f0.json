@@ -1,0 +1,14 @@
+{
+  "commit": "40442e80fabc3b4402d8df1185a1dae4397c05f0",
+  "repo_url": "https://github.com/open-quantum-safe/oqs-provider",
+  "date": "2024-06-12T05:48:21",
+  "languages": {
+    "C": 627439,
+    "Roff": 40708,
+    "Python": 36936,
+    "Shell": 32432,
+    "CMake": 12827,
+    "Ruby": 1332
+  },
+  "size": 751674
+}

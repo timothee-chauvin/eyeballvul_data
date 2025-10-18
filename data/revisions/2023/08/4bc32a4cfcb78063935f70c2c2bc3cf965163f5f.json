@@ -1,0 +1,12 @@
+{
+  "commit": "4bc32a4cfcb78063935f70c2c2bc3cf965163f5f",
+  "repo_url": "https://github.com/italia/cie-aspnetcore",
+  "date": "2023-08-24T11:07:19",
+  "languages": {
+    "C#": 681866,
+    "HTML": 4023,
+    "CSS": 1395,
+    "JavaScript": 226
+  },
+  "size": 687510
+}

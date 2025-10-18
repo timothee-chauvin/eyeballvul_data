@@ -1,0 +1,13 @@
+{
+  "commit": "f9d21699cccb5e42ea5d984edc6bdc94f5ad9715",
+  "repo_url": "https://github.com/alanaktion/phproject",
+  "date": "2025-08-11T22:12:19",
+  "languages": {
+    "PHP": 351846,
+    "HTML": 349784,
+    "JavaScript": 88813,
+    "CSS": 14542,
+    "Dockerfile": 549
+  },
+  "size": 805534
+}

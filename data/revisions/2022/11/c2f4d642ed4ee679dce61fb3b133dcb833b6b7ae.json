@@ -1,0 +1,13 @@
+{
+  "commit": "c2f4d642ed4ee679dce61fb3b133dcb833b6b7ae",
+  "repo_url": "https://github.com/zmartzone/mod_auth_openidc",
+  "date": "2022-11-15T14:15:21",
+  "languages": {
+    "C": 876601,
+    "M4": 4707,
+    "Makefile": 2301,
+    "Dockerfile": 1664,
+    "Shell": 62
+  },
+  "size": 885335
+}

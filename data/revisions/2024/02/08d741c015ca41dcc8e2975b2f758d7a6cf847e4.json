@@ -1,0 +1,11 @@
+{
+  "commit": "08d741c015ca41dcc8e2975b2f758d7a6cf847e4",
+  "repo_url": "https://github.com/eclipse-threadx/filex",
+  "date": "2024-02-28T05:55:12",
+  "languages": {
+    "C": 5631239,
+    "CMake": 34153,
+    "Shell": 1399
+  },
+  "size": 5666791
+}

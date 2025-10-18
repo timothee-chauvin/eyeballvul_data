@@ -1,0 +1,22 @@
+{
+  "commit": "0ec33178f5ee0b3e1f293dee7fff9847b5969fbe",
+  "repo_url": "https://github.com/chaos-mesh/chaos-mesh",
+  "date": "2022-09-15T17:05:00",
+  "languages": {
+    "Go": 2731543,
+    "TypeScript": 1067812,
+    "Shell": 174038,
+    "JavaScript": 27768,
+    "Makefile": 14852,
+    "Python": 10994,
+    "Groovy": 10333,
+    "Dockerfile": 10285,
+    "Smarty": 8001,
+    "C": 6297,
+    "Mustache": 5940,
+    "MDX": 5264,
+    "HTML": 2472,
+    "CSS": 2254
+  },
+  "size": 4077853
+}

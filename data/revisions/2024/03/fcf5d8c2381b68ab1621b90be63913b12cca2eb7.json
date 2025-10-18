@@ -1,0 +1,20 @@
+{
+  "commit": "fcf5d8c2381b68ab1621b90be63913b12cca2eb7",
+  "repo_url": "https://github.com/argoproj/argo-cd",
+  "date": "2024-03-01T21:09:55",
+  "languages": {
+    "Go": 5756643,
+    "TypeScript": 1108041,
+    "Lua": 104995,
+    "SCSS": 84810,
+    "Shell": 49417,
+    "Makefile": 24089,
+    "Dockerfile": 14969,
+    "Procfile": 9393,
+    "JavaScript": 4582,
+    "CSS": 2209,
+    "Mustache": 1066,
+    "HTML": 895
+  },
+  "size": 7161109
+}

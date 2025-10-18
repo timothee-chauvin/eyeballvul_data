@@ -1,0 +1,10 @@
+{
+  "commit": "1a16077c43c64ce6272ee8ee98a3d24a9021a298",
+  "repo_url": "https://github.com/rust-openssl/rust-openssl",
+  "date": "2025-02-15T15:52:36",
+  "languages": {
+    "Rust": 1576795,
+    "C": 2423
+  },
+  "size": 1579218
+}

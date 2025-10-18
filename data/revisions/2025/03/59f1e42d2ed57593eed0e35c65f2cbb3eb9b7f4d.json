@@ -1,0 +1,21 @@
+{
+  "commit": "59f1e42d2ed57593eed0e35c65f2cbb3eb9b7f4d",
+  "repo_url": "https://github.com/telstra/open-kilda",
+  "date": "2025-03-19T15:02:26",
+  "languages": {
+    "Java": 17346810,
+    "Groovy": 2320385,
+    "TypeScript": 935165,
+    "Python": 410878,
+    "HTML": 381394,
+    "JavaScript": 375391,
+    "CSS": 238584,
+    "C++": 91552,
+    "Shell": 75223,
+    "Dockerfile": 28151,
+    "Makefile": 22875,
+    "CMake": 4314,
+    "Jinja": 1187
+  },
+  "size": 22231909
+}

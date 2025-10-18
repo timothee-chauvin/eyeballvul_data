@@ -1,0 +1,18 @@
+{
+  "commit": "03bebfa2cf00bb60dfdf2c5e5fe7cd9c49f1be45",
+  "repo_url": "https://github.com/serverpod/serverpod",
+  "date": "2024-02-26T16:27:29",
+  "languages": {
+    "Dart": 5635399,
+    "PLpgSQL": 128703,
+    "Shell": 42524,
+    "HCL": 36242,
+    "HTML": 2521,
+    "TypeScript": 2095,
+    "CSS": 1266,
+    "Dockerfile": 1108,
+    "Java": 757,
+    "Objective-C": 683
+  },
+  "size": 5851298
+}

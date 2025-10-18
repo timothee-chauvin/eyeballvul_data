@@ -1,0 +1,13 @@
+{
+  "commit": "799f86514b6b72bb6be1d615232a5c7cf7f6cfa3",
+  "repo_url": "https://github.com/starcitizentools/mediawiki-extensions-tabberneue",
+  "date": "2024-11-22T21:05:29",
+  "languages": {
+    "JavaScript": 37483,
+    "PHP": 16024,
+    "Less": 6690,
+    "Mustache": 834,
+    "Shell": 177
+  },
+  "size": 61208
+}

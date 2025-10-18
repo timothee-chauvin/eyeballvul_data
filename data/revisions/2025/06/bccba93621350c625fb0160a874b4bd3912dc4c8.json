@@ -1,0 +1,15 @@
+{
+  "commit": "bccba93621350c625fb0160a874b4bd3912dc4c8",
+  "repo_url": "https://github.com/emqx/mqttx",
+  "date": "2025-06-25T08:14:46",
+  "languages": {
+    "TypeScript": 1052786,
+    "Vue": 731989,
+    "SCSS": 76737,
+    "JavaScript": 44278,
+    "CSS": 5831,
+    "HTML": 4669,
+    "Dockerfile": 350
+  },
+  "size": 1916640
+}

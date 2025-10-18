@@ -1,0 +1,14 @@
+{
+  "commit": "7efd73fd32d0e54c4d97e7b2016fbf3604dfd421",
+  "repo_url": "https://github.com/nextcloud/photos",
+  "date": "2023-05-17T09:44:15",
+  "languages": {
+    "JavaScript": 705506,
+    "Vue": 202904,
+    "PHP": 140276,
+    "SCSS": 3112,
+    "Shell": 1191,
+    "Makefile": 558
+  },
+  "size": 1053547
+}

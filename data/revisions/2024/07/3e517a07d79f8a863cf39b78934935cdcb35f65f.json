@@ -1,0 +1,12 @@
+{
+  "commit": "3e517a07d79f8a863cf39b78934935cdcb35f65f",
+  "repo_url": "https://github.com/regclient/regclient",
+  "date": "2024-07-12T18:40:58",
+  "languages": {
+    "Go": 1448821,
+    "Makefile": 9828,
+    "Shell": 8628,
+    "Assembly": 600
+  },
+  "size": 1467877
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "46d7b82ac1a4292ba52ca690e1a433d3a501a9e5",
+  "repo_url": "https://github.com/meshtastic/firmware",
+  "date": "2024-07-16T14:37:50",
+  "languages": {
+    "C++": 1861468,
+    "C": 1308675,
+    "Assembly": 40193,
+    "Python": 39891,
+    "Shell": 12802,
+    "Batchfile": 3665,
+    "Dockerfile": 2131,
+    "JavaScript": 280
+  },
+  "size": 3269105
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "429f68cf678f24d3f50196e5c5753176afe71256",
+  "repo_url": "https://github.com/openml/openml.org",
+  "date": "2024-11-10T15:57:13",
+  "languages": {
+    "JavaScript": 828502,
+    "Python": 160074,
+    "CSS": 38702,
+    "HTML": 789,
+    "Dockerfile": 641,
+    "Shell": 457,
+    "TypeScript": 55
+  },
+  "size": 1029220
+}

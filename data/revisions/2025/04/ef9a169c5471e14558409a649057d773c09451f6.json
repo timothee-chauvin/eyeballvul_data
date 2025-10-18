@@ -1,0 +1,12 @@
+{
+  "commit": "ef9a169c5471e14558409a649057d773c09451f6",
+  "repo_url": "https://github.com/juliaweb/http.jl",
+  "date": "2025-04-10T13:21:43",
+  "languages": {
+    "Julia": 501866,
+    "TypeScript": 1179,
+    "HTML": 689,
+    "Makefile": 126
+  },
+  "size": 503860
+}

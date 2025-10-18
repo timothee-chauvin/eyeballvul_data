@@ -1,0 +1,18 @@
+{
+  "commit": "7311f1af5a729f68ee7a7e7180e7251d20454267",
+  "repo_url": "https://github.com/wwbn/avideo",
+  "date": "2019-08-15T11:31:07",
+  "languages": {
+    "PHP": 22738607,
+    "JavaScript": 22120701,
+    "CSS": 734777,
+    "SCSS": 243388,
+    "Less": 189106,
+    "HTML": 80100,
+    "Makefile": 1568,
+    "Dockerfile": 1438,
+    "Hack": 1291,
+    "Shell": 1232
+  },
+  "size": 46112208
+}

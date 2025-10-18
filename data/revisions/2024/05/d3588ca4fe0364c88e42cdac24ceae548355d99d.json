@@ -1,0 +1,12 @@
+{
+  "commit": "d3588ca4fe0364c88e42cdac24ceae548355d99d",
+  "repo_url": "https://github.com/byron/gitoxide",
+  "date": "2024-05-14T08:44:14",
+  "languages": {
+    "Rust": 6826777,
+    "Shell": 68888,
+    "Just": 12501,
+    "Makefile": 7100
+  },
+  "size": 6915266
+}

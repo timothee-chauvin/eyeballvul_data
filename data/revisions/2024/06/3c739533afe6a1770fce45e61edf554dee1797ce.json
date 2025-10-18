@@ -1,0 +1,17 @@
+{
+  "commit": "3c739533afe6a1770fce45e61edf554dee1797ce",
+  "repo_url": "https://github.com/weblateorg/weblate",
+  "date": "2024-06-24T06:32:43",
+  "languages": {
+    "Python": 4803324,
+    "HTML": 558393,
+    "CSS": 119067,
+    "JavaScript": 83019,
+    "Shell": 36819,
+    "Dockerfile": 1591,
+    "Lua": 402,
+    "PHP": 246,
+    "Fluent": 158
+  },
+  "size": 5603019
+}

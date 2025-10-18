@@ -1,0 +1,16 @@
+{
+  "commit": "2feaff36482367d343850d4a617a9c4704f82005",
+  "repo_url": "https://github.com/jellyfin/jellyfin-web",
+  "date": "2022-08-02T00:22:02",
+  "languages": {
+    "JavaScript": 2675141,
+    "SCSS": 1211808,
+    "HTML": 352755,
+    "TypeScript": 147544,
+    "CSS": 56989,
+    "Shell": 10087,
+    "Python": 3805,
+    "Makefile": 2013
+  },
+  "size": 4460142
+}

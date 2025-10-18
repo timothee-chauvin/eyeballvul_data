@@ -1,0 +1,17 @@
+{
+  "commit": "a14abf687058d45fcb67d6cf2437157f14d13790",
+  "repo_url": "https://github.com/webreinvent/vaahcms",
+  "date": "2025-07-22T12:20:21",
+  "languages": {
+    "PHP": 1233467,
+    "Vue": 993898,
+    "SCSS": 726511,
+    "JavaScript": 635262,
+    "CSS": 239537,
+    "Blade": 58308,
+    "Sass": 33658,
+    "HTML": 1481,
+    "Handlebars": 1319
+  },
+  "size": 3923441
+}

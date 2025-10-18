@@ -1,0 +1,18 @@
+{
+  "commit": "ad7b1646209fcd069c067a9a7730c9b6305be667",
+  "repo_url": "https://github.com/stellar/stellar-core",
+  "date": "2024-03-29T20:35:18",
+  "languages": {
+    "C": 10677915,
+    "C++": 9219629,
+    "Rust": 76988,
+    "M4": 72494,
+    "Shell": 39799,
+    "Python": 31209,
+    "Makefile": 13067,
+    "Dockerfile": 4329,
+    "LLVM": 2111,
+    "Emacs Lisp": 1277
+  },
+  "size": 20138818
+}

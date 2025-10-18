@@ -1,0 +1,11 @@
+{
+  "commit": "933801ca24d7caab3e576bee1f4e0d782ae80407",
+  "repo_url": "https://github.com/scala/scala-collection-compat",
+  "date": "2025-01-27T16:34:32",
+  "languages": {
+    "Scala": 439080,
+    "Java": 6468,
+    "Shell": 840
+  },
+  "size": 446388
+}

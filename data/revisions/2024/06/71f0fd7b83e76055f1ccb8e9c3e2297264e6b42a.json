@@ -1,0 +1,22 @@
+{
+  "commit": "71f0fd7b83e76055f1ccb8e9c3e2297264e6b42a",
+  "repo_url": "https://github.com/airbytehq/airbyte",
+  "date": "2024-06-05T19:39:53",
+  "languages": {
+    "Python": 17658817,
+    "Java": 3932778,
+    "Kotlin": 3845822,
+    "Shell": 87163,
+    "JavaScript": 70633,
+    "Dockerfile": 50431,
+    "Handlebars": 32815,
+    "Jinja": 28194,
+    "PLpgSQL": 26999,
+    "CSS": 11974,
+    "PLSQL": 10497,
+    "TSQL": 5665,
+    "Makefile": 3237,
+    "HTML": 2584
+  },
+  "size": 25767609
+}

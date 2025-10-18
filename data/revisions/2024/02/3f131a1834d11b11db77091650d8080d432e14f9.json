@@ -1,0 +1,14 @@
+{
+  "commit": "3f131a1834d11b11db77091650d8080d432e14f9",
+  "repo_url": "https://github.com/fluxcd/source-controller",
+  "date": "2024-02-01T13:45:43",
+  "languages": {
+    "Go": 1354585,
+    "Shell": 9579,
+    "Makefile": 7810,
+    "Smarty": 4946,
+    "Dockerfile": 1750,
+    "Ruby": 453
+  },
+  "size": 1379123
+}

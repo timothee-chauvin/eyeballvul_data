@@ -1,0 +1,15 @@
+{
+  "commit": "1bae4ec3bbb852c0a34b5f28f18b2c11de453598",
+  "repo_url": "https://github.com/oxyno-zeta/s3-proxy",
+  "date": "2024-12-19T17:07:12",
+  "languages": {
+    "Go": 930339,
+    "Makefile": 6929,
+    "Smarty": 5253,
+    "JavaScript": 3910,
+    "Dockerfile": 384,
+    "Shell": 116,
+    "Open Policy Agent": 97
+  },
+  "size": 947028
+}

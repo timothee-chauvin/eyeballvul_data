@@ -1,0 +1,11 @@
+{
+  "commit": "bb4abd961f96ace1df7f5eb8ca2d38d4a95676ac",
+  "repo_url": "https://github.com/rpgp/rpgp",
+  "date": "2024-09-25T09:59:16",
+  "languages": {
+    "Rust": 936120,
+    "Scheme": 2379,
+    "Shell": 1537
+  },
+  "size": 940036
+}

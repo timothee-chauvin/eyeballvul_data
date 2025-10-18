@@ -1,0 +1,14 @@
+{
+  "commit": "7fcfc727bdb1d9915e87d7da4901bd02187f8f4b",
+  "repo_url": "https://github.com/jhumanj/opnform",
+  "date": "2025-09-04T16:56:09",
+  "languages": {
+    "PHP": 1537742,
+    "Vue": 1053635,
+    "Blade": 31957,
+    "TypeScript": 9957,
+    "Shell": 9271,
+    "JavaScript": 1063
+  },
+  "size": 2643625
+}

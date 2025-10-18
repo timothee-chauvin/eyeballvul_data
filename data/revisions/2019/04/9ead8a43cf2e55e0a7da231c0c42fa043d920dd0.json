@@ -1,0 +1,14 @@
+{
+  "commit": "9ead8a43cf2e55e0a7da231c0c42fa043d920dd0",
+  "repo_url": "https://github.com/getsentry/sentry-javascript",
+  "date": "2019-04-10T09:27:48",
+  "languages": {
+    "JavaScript": 664217,
+    "TypeScript": 475070,
+    "HTML": 10064,
+    "Shell": 5674,
+    "Makefile": 426,
+    "CoffeeScript": 375
+  },
+  "size": 1155826
+}

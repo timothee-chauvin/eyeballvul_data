@@ -1,0 +1,17 @@
+{
+  "commit": "43b5d45b6dd662c9bf112f525832f911d40fb945",
+  "repo_url": "https://github.com/jasig/cas",
+  "date": "2021-10-01T10:17:09",
+  "languages": {
+    "Java": 17518342,
+    "JavaScript": 305323,
+    "HTML": 291421,
+    "Shell": 98988,
+    "Groovy": 33027,
+    "Python": 20769,
+    "CSS": 16359,
+    "Ruby": 1315,
+    "Dockerfile": 1209
+  },
+  "size": 18286753
+}

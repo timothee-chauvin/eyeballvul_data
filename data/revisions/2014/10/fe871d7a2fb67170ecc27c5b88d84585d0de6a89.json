@@ -1,0 +1,12 @@
+{
+  "commit": "fe871d7a2fb67170ecc27c5b88d84585d0de6a89",
+  "repo_url": "https://github.com/libimobiledevice/libusbmuxd",
+  "date": "2014-10-14T23:48:29",
+  "languages": {
+    "C": 62944,
+    "M4": 4637,
+    "Makefile": 1304,
+    "Shell": 241
+  },
+  "size": 69126
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "9d847678df678fb98228aa3639024414c600920d",
+  "repo_url": "https://github.com/pocketbase/pocketbase",
+  "date": "2024-06-14T08:42:48",
+  "languages": {
+    "Go": 2272375,
+    "Svelte": 665538,
+    "SCSS": 263922,
+    "CSS": 144713,
+    "JavaScript": 107461,
+    "HTML": 3319,
+    "Makefile": 240
+  },
+  "size": 3457568
+}

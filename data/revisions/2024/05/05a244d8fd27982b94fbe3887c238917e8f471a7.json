@@ -1,0 +1,18 @@
+{
+  "commit": "05a244d8fd27982b94fbe3887c238917e8f471a7",
+  "repo_url": "https://github.com/lnbits/lnbits",
+  "date": "2024-05-14T16:22:14",
+  "languages": {
+    "Python": 742959,
+    "JavaScript": 350862,
+    "HTML": 199467,
+    "CSS": 12767,
+    "Nix": 6876,
+    "SCSS": 4419,
+    "Makefile": 2999,
+    "Dockerfile": 992,
+    "Jinja": 406,
+    "Shell": 90
+  },
+  "size": 1321837
+}

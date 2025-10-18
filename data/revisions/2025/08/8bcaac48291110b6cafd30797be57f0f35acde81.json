@@ -1,0 +1,11 @@
+{
+  "commit": "8bcaac48291110b6cafd30797be57f0f35acde81",
+  "repo_url": "https://github.com/snyk/snyk-hex-plugin",
+  "date": "2025-08-12T13:17:20",
+  "languages": {
+    "Elixir": 38491,
+    "TypeScript": 17148,
+    "JavaScript": 209
+  },
+  "size": 55848
+}

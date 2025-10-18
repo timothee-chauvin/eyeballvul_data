@@ -1,0 +1,12 @@
+{
+  "commit": "bad506f209c0ebca5a7a0e6435f4941c20170840",
+  "repo_url": "https://github.com/parse-community/parse-sdk-js",
+  "date": "2025-04-15T12:54:34",
+  "languages": {
+    "JavaScript": 1192387,
+    "TypeScript": 601822,
+    "Handlebars": 2113,
+    "Shell": 776
+  },
+  "size": 1797098
+}

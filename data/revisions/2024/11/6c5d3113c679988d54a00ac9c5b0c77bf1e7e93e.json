@@ -1,0 +1,20 @@
+{
+  "commit": "6c5d3113c679988d54a00ac9c5b0c77bf1e7e93e",
+  "repo_url": "https://github.com/misskey-dev/misskey",
+  "date": "2024-11-19T03:56:50",
+  "languages": {
+    "TypeScript": 5436038,
+    "Vue": 2384429,
+    "JavaScript": 549905,
+    "SCSS": 24017,
+    "Pug": 20472,
+    "CSS": 5581,
+    "Dockerfile": 4843,
+    "HTML": 4080,
+    "Shell": 1827,
+    "Smarty": 1782,
+    "MDX": 575,
+    "Procfile": 35
+  },
+  "size": 8433584
+}

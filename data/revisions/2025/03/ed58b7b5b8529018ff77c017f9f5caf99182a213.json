@@ -1,0 +1,21 @@
+{
+  "commit": "ed58b7b5b8529018ff77c017f9f5caf99182a213",
+  "repo_url": "https://github.com/kestra-io/kestra",
+  "date": "2025-03-31T13:19:12",
+  "languages": {
+    "Java": 5247289,
+    "Vue": 1522439,
+    "JavaScript": 245343,
+    "TypeScript": 121503,
+    "SCSS": 50361,
+    "PLpgSQL": 21288,
+    "Shell": 19416,
+    "Makefile": 8630,
+    "Python": 8338,
+    "Batchfile": 3291,
+    "Dockerfile": 3087,
+    "CSS": 2172,
+    "HTML": 1492
+  },
+  "size": 7254649
+}

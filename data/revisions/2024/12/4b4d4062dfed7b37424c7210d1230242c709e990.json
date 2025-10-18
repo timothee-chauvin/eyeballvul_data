@@ -1,0 +1,23 @@
+{
+  "commit": "4b4d4062dfed7b37424c7210d1230242c709e990",
+  "repo_url": "https://github.com/ghostty-org/ghostty",
+  "date": "2024-12-26T20:00:22",
+  "languages": {
+    "Zig": 5088571,
+    "Swift": 477935,
+    "C++": 319259,
+    "C": 170054,
+    "Shell": 43058,
+    "GLSL": 17436,
+    "Metal": 13269,
+    "Nix": 11544,
+    "TypeScript": 5837,
+    "Elvish": 3305,
+    "Dockerfile": 1809,
+    "Objective-C": 973,
+    "CSS": 917,
+    "Makefile": 730,
+    "HTML": 580
+  },
+  "size": 6155277
+}

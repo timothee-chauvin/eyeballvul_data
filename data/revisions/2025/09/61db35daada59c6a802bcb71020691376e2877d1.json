@@ -1,0 +1,14 @@
+{
+  "commit": "61db35daada59c6a802bcb71020691376e2877d1",
+  "repo_url": "https://github.com/lukegus/termix",
+  "date": "2025-09-03T05:14:49",
+  "languages": {
+    "TypeScript": 813949,
+    "CSS": 5764,
+    "Dockerfile": 1859,
+    "JavaScript": 610,
+    "Shell": 588,
+    "HTML": 358
+  },
+  "size": 823128
+}

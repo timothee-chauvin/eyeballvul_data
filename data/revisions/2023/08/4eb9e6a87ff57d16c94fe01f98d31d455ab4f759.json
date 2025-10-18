@@ -1,0 +1,11 @@
+{
+  "commit": "4eb9e6a87ff57d16c94fe01f98d31d455ab4f759",
+  "repo_url": "https://github.com/jpillora/chisel",
+  "date": "2023-08-20T06:50:40",
+  "languages": {
+    "Go": 115257,
+    "Makefile": 1716,
+    "Dockerfile": 447
+  },
+  "size": 117420
+}

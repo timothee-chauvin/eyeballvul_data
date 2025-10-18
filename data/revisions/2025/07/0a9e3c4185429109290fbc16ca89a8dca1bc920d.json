@@ -1,0 +1,25 @@
+{
+  "commit": "0a9e3c4185429109290fbc16ca89a8dca1bc920d",
+  "repo_url": "https://github.com/zed-industries/zed",
+  "date": "2025-07-28T19:49:12",
+  "languages": {
+    "Rust": 29507234,
+    "Inno Setup": 214785,
+    "Scheme": 110333,
+    "Shell": 92613,
+    "Metal": 46744,
+    "WGSL": 46076,
+    "HTML": 38097,
+    "JavaScript": 37540,
+    "Rich Text Format": 32668,
+    "Python": 30799,
+    "PowerShell": 26152,
+    "Handlebars": 17420,
+    "Nix": 13935,
+    "TypeScript": 4179,
+    "Objective-C": 203,
+    "Procfile": 139,
+    "C": 60
+  },
+  "size": 30218977
+}

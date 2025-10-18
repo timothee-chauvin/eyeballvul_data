@@ -1,0 +1,14 @@
+{
+  "commit": "0880f91fef0473ead2a4a690699860bf8847ee5d",
+  "repo_url": "https://github.com/ciscoheat/sveltekit-superforms",
+  "date": "2025-10-03T09:24:39",
+  "languages": {
+    "TypeScript": 597423,
+    "Svelte": 403370,
+    "CSS": 8086,
+    "JavaScript": 4089,
+    "HTML": 511,
+    "Batchfile": 417
+  },
+  "size": 1013896
+}

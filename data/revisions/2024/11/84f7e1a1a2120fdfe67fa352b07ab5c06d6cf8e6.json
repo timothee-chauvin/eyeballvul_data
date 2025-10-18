@@ -1,0 +1,19 @@
+{
+  "commit": "84f7e1a1a2120fdfe67fa352b07ab5c06d6cf8e6",
+  "repo_url": "https://github.com/kolide/launcher",
+  "date": "2024-11-21T15:54:15",
+  "languages": {
+    "Go": 2451011,
+    "Augeas": 116112,
+    "C#": 98150,
+    "Objective-C": 39310,
+    "Shell": 11866,
+    "Makefile": 9404,
+    "JavaScript": 4343,
+    "Dockerfile": 3676,
+    "C": 1410,
+    "PowerShell": 1219,
+    "HTML": 177
+  },
+  "size": 2736678
+}

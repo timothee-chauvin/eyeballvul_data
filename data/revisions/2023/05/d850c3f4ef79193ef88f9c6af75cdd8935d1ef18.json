@@ -1,0 +1,11 @@
+{
+  "commit": "d850c3f4ef79193ef88f9c6af75cdd8935d1ef18",
+  "repo_url": "https://github.com/notaryproject/notation",
+  "date": "2023-05-17T15:11:34",
+  "languages": {
+    "Go": 292859,
+    "Shell": 5925,
+    "Makefile": 1988
+  },
+  "size": 300772
+}

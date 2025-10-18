@@ -1,0 +1,13 @@
+{
+  "commit": "82e633ea0ece8b5704d1990d0e988a8dc02cff3a",
+  "repo_url": "https://github.com/mitmproxy/pdoc",
+  "date": "2024-05-18T17:01:59",
+  "languages": {
+    "Python": 340435,
+    "Jinja": 30291,
+    "CSS": 18912,
+    "JavaScript": 982,
+    "Shell": 147
+  },
+  "size": 390767
+}

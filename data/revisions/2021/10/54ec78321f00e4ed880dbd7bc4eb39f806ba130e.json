@@ -1,0 +1,10 @@
+{
+  "commit": "54ec78321f00e4ed880dbd7bc4eb39f806ba130e",
+  "repo_url": "https://github.com/azure-rtos/usbx",
+  "date": "2021-10-13T06:50:29",
+  "languages": {
+    "C": 8459808,
+    "CMake": 62467
+  },
+  "size": 8522275
+}

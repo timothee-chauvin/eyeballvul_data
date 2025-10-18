@@ -1,0 +1,26 @@
+{
+  "commit": "6119968665ced1e7da6d5356b6124f772647b11a",
+  "repo_url": "https://github.com/tryquiet/quiet",
+  "date": "2025-07-09T17:45:05",
+  "languages": {
+    "C": 6927758,
+    "TypeScript": 3840949,
+    "C++": 1385725,
+    "JavaScript": 76204,
+    "Python": 75071,
+    "Kotlin": 36653,
+    "Shell": 32473,
+    "Objective-C": 17222,
+    "HTML": 10534,
+    "Swift": 9852,
+    "Objective-C++": 9608,
+    "Java": 5967,
+    "ASL": 4350,
+    "Dockerfile": 4158,
+    "CMake": 2326,
+    "Makefile": 1102,
+    "Ruby": 1097,
+    "Starlark": 602
+  },
+  "size": 12441651
+}

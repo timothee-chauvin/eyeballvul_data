@@ -1,0 +1,20 @@
+{
+  "commit": "3490795ef5882a7b5539d82cd0436ce4ef2af3e4",
+  "repo_url": "https://github.com/osc/ondemand",
+  "date": "2025-05-23T14:13:39",
+  "languages": {
+    "JavaScript": 2013405,
+    "Ruby": 1371833,
+    "HTML": 234326,
+    "SCSS": 33286,
+    "CSS": 28371,
+    "Lua": 21947,
+    "Shell": 16595,
+    "CoffeeScript": 15270,
+    "Handlebars": 4727,
+    "Makefile": 4311,
+    "Dockerfile": 2757,
+    "TeX": 1679
+  },
+  "size": 3748507
+}

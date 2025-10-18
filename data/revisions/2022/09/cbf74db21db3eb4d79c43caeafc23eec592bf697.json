@@ -1,0 +1,19 @@
+{
+  "commit": "cbf74db21db3eb4d79c43caeafc23eec592bf697",
+  "repo_url": "https://github.com/opensearch-project/opensearch",
+  "date": "2022-09-30T17:48:54",
+  "languages": {
+    "Java": 70367592,
+    "Groovy": 255951,
+    "Shell": 32512,
+    "Batchfile": 17117,
+    "ANTLR": 10109,
+    "Dockerfile": 6111,
+    "Python": 5009,
+    "Emacs Lisp": 3341,
+    "Standard ML": 3134,
+    "HTML": 2177,
+    "FreeMarker": 45
+  },
+  "size": 70703098
+}

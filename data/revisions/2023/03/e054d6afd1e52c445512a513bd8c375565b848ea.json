@@ -1,0 +1,11 @@
+{
+  "commit": "e054d6afd1e52c445512a513bd8c375565b848ea",
+  "repo_url": "https://github.com/azure-rtos/netxduo",
+  "date": "2023-03-08T08:27:44",
+  "languages": {
+    "C": 26151289,
+    "CMake": 113485,
+    "C++": 5916
+  },
+  "size": 26270690
+}

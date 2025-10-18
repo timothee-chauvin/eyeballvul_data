@@ -1,0 +1,15 @@
+{
+  "commit": "0f4ad124e4224c2e40c870d042c2cc793d535a03",
+  "repo_url": "https://github.com/projectdiscovery/nuclei",
+  "date": "2024-02-02T17:05:18",
+  "languages": {
+    "Go": 1909230,
+    "JavaScript": 57780,
+    "Shell": 5535,
+    "Smarty": 1772,
+    "Makefile": 1125,
+    "Dockerfile": 348,
+    "Python": 50
+  },
+  "size": 1975840
+}

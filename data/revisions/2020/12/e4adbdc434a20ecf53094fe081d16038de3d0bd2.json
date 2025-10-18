@@ -1,0 +1,14 @@
+{
+  "commit": "e4adbdc434a20ecf53094fe081d16038de3d0bd2",
+  "repo_url": "https://github.com/openmrs/openmrs-core",
+  "date": "2020-12-21T17:46:41",
+  "languages": {
+    "Java": 7895873,
+    "XSLT": 32167,
+    "CSS": 24072,
+    "JavaScript": 9636,
+    "HTML": 7450,
+    "Shell": 4661
+  },
+  "size": 7973859
+}

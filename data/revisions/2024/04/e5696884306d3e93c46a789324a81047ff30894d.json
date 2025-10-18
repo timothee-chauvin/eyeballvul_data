@@ -1,0 +1,16 @@
+{
+  "commit": "e5696884306d3e93c46a789324a81047ff30894d",
+  "repo_url": "https://github.com/apollographql/router",
+  "date": "2024-04-22T13:30:34",
+  "languages": {
+    "Rust": 4608431,
+    "TLA": 23302,
+    "Shell": 13702,
+    "TypeScript": 7544,
+    "HTML": 4899,
+    "Smarty": 3754,
+    "Dockerfile": 1907,
+    "Handlebars": 1847
+  },
+  "size": 4665386
+}

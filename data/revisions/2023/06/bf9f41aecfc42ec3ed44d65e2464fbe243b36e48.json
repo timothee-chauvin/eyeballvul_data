@@ -1,0 +1,12 @@
+{
+  "commit": "bf9f41aecfc42ec3ed44d65e2464fbe243b36e48",
+  "repo_url": "https://github.com/fabedge/fabedge",
+  "date": "2023-06-21T07:37:21",
+  "languages": {
+    "Go": 680823,
+    "Makefile": 3537,
+    "Dockerfile": 3130,
+    "Shell": 1389
+  },
+  "size": 688879
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "08a33abb2310a19129696419374154f48f1e5a02",
+  "repo_url": "https://github.com/aws-samples/iam-identity-center-team",
+  "date": "2024-11-06T23:35:07",
+  "languages": {
+    "JavaScript": 321264,
+    "Python": 60702,
+    "Shell": 27628,
+    "Velocity Template Language": 9867,
+    "CSS": 2992,
+    "TypeScript": 579,
+    "HTML": 510
+  },
+  "size": 423542
+}

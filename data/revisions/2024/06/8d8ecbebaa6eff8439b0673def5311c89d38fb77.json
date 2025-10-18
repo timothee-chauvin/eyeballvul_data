@@ -1,0 +1,13 @@
+{
+  "commit": "8d8ecbebaa6eff8439b0673def5311c89d38fb77",
+  "repo_url": "https://github.com/aws-amplify/amplify-codegen-ui",
+  "date": "2024-06-26T16:46:04",
+  "languages": {
+    "TypeScript": 2395033,
+    "JavaScript": 211212,
+    "Shell": 6440,
+    "Batchfile": 3554,
+    "CSS": 148
+  },
+  "size": 2616387
+}

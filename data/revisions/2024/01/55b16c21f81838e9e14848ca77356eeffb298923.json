@@ -1,0 +1,15 @@
+{
+  "commit": "55b16c21f81838e9e14848ca77356eeffb298923",
+  "repo_url": "https://github.com/silverstripe/silverstripe-admin",
+  "date": "2024-01-23T03:15:01",
+  "languages": {
+    "JavaScript": 1184822,
+    "PHP": 261662,
+    "SCSS": 241538,
+    "HTML": 78421,
+    "Gherkin": 55394,
+    "Scheme": 32183,
+    "CSS": 13974
+  },
+  "size": 1867994
+}

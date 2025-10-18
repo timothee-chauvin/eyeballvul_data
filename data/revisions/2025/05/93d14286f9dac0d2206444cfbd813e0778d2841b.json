@@ -1,0 +1,19 @@
+{
+  "commit": "93d14286f9dac0d2206444cfbd813e0778d2841b",
+  "repo_url": "https://github.com/thevindu-w/clip_share_server",
+  "date": "2025-05-25T17:34:31",
+  "languages": {
+    "C": 225318,
+    "Shell": 67037,
+    "Objective-C": 8776,
+    "Makefile": 8681,
+    "PowerShell": 5601,
+    "HTML": 3859,
+    "Dockerfile": 3696,
+    "AppleScript": 1448,
+    "Batchfile": 1353,
+    "Python": 522,
+    "Assembly": 143
+  },
+  "size": 326434
+}

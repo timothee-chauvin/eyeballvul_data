@@ -1,0 +1,20 @@
+{
+  "commit": "3762d971e9ec1d8e2842d6cdb5c05f695ccb6c75",
+  "repo_url": "https://github.com/linkwarden/linkwarden",
+  "date": "2025-05-06T03:10:59",
+  "languages": {
+    "TypeScript": 895606,
+    "HTML": 51165,
+    "JavaScript": 26828,
+    "CSS": 5465,
+    "Kotlin": 4584,
+    "Objective-C++": 2723,
+    "Ruby": 2617,
+    "Dockerfile": 1702,
+    "PLpgSQL": 935,
+    "Objective-C": 327,
+    "Swift": 113,
+    "C": 103
+  },
+  "size": 992168
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "689708f96d446993cd264cbf5bd5696a726cf8b7",
+  "repo_url": "https://github.com/pgjdbc/pgjdbc",
+  "date": "2025-05-28T10:08:18",
+  "languages": {
+    "Java": 4326368,
+    "Groovy": 20585,
+    "Shell": 17695,
+    "Smarty": 6373,
+    "Kotlin": 4797,
+    "Makefile": 2901,
+    "Perl": 2844,
+    "Scala": 2761,
+    "Dockerfile": 2126
+  },
+  "size": 4386450
+}

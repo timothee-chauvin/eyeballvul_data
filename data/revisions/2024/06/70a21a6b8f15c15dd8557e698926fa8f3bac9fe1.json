@@ -1,0 +1,10 @@
+{
+  "commit": "70a21a6b8f15c15dd8557e698926fa8f3bac9fe1",
+  "repo_url": "https://github.com/cyclonedx/cyclonedx-core-java",
+  "date": "2024-06-18T14:50:07",
+  "languages": {
+    "Java": 775054,
+    "Shell": 331
+  },
+  "size": 775385
+}

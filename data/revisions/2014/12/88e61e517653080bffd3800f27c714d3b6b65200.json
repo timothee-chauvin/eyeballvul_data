@@ -1,0 +1,15 @@
+{
+  "commit": "88e61e517653080bffd3800f27c714d3b6b65200",
+  "repo_url": "https://github.com/cobbler/cobbler",
+  "date": "2014-12-31T12:15:51",
+  "languages": {
+    "Python": 1377550,
+    "Shell": 16414,
+    "REXX": 9659,
+    "JavaScript": 9598,
+    "CSS": 8915,
+    "Makefile": 3427,
+    "HTML": 273
+  },
+  "size": 1425836
+}

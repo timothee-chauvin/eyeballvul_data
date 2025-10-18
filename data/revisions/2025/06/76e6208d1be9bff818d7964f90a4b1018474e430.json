@@ -1,0 +1,24 @@
+{
+  "commit": "76e6208d1be9bff818d7964f90a4b1018474e430",
+  "repo_url": "https://github.com/pcsx2/pcsx2",
+  "date": "2025-06-10T18:12:41",
+  "languages": {
+    "C++": 11925380,
+    "C": 444571,
+    "HTML": 370108,
+    "GLSL": 143783,
+    "Objective-C++": 130375,
+    "CMake": 114560,
+    "HLSL": 86338,
+    "Metal": 75585,
+    "Python": 47658,
+    "TeX": 30759,
+    "Perl": 14829,
+    "Batchfile": 3955,
+    "JavaScript": 3433,
+    "Shell": 2992,
+    "Assembly": 2369,
+    "CSS": 1392
+  },
+  "size": 13398087
+}

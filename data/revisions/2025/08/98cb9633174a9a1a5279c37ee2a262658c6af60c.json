@@ -1,0 +1,12 @@
+{
+  "commit": "98cb9633174a9a1a5279c37ee2a262658c6af60c",
+  "repo_url": "https://github.com/honojs/hono",
+  "date": "2025-08-29T09:41:42",
+  "languages": {
+    "TypeScript": 1929336,
+    "JavaScript": 12454,
+    "Dockerfile": 251,
+    "HTML": 12
+  },
+  "size": 1942053
+}

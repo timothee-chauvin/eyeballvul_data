@@ -1,0 +1,18 @@
+{
+  "commit": "54faa6fa8d32da6568ff8cf073328352e7881b2a",
+  "repo_url": "https://github.com/backstage/backstage",
+  "date": "2021-01-09T23:05:03",
+  "languages": {
+    "TypeScript": 4475784,
+    "JavaScript": 165630,
+    "CSS": 21507,
+    "Handlebars": 21134,
+    "Smarty": 10554,
+    "HTML": 6289,
+    "Dockerfile": 4483,
+    "Mustache": 2499,
+    "Shell": 2204,
+    "Java": 1480
+  },
+  "size": 4711564
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "d9d05737a93ba76fee843ad4e4f6f22f35bb824c",
+  "repo_url": "https://github.com/fuellabs/fuels-ts",
+  "date": "2024-07-18T13:30:34",
+  "languages": {
+    "TypeScript": 2366584,
+    "JavaScript": 19558,
+    "CSS": 10726,
+    "Handlebars": 8230,
+    "Shell": 7069,
+    "Sway": 2400,
+    "HTML": 2087,
+    "Vue": 779
+  },
+  "size": 2417433
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "f063becb30b1ce04850214d24517464bde8dedda",
+  "repo_url": "https://github.com/xemle/home-gallery",
+  "date": "2024-01-27T21:37:17",
+  "languages": {
+    "JavaScript": 543198,
+    "TypeScript": 248938,
+    "Nearley": 5789,
+    "HTML": 5143,
+    "Dockerfile": 1717,
+    "Shell": 542,
+    "CSS": 91
+  },
+  "size": 805418
+}

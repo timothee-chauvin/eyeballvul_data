@@ -1,0 +1,31 @@
+{
+  "commit": "bf89726f4039c1f1d0aa545f5c3ab7e8d1dd1df8",
+  "repo_url": "https://github.com/nasa-jpl/ion-dtn",
+  "date": "2024-06-27T17:48:31",
+  "languages": {
+    "C": 15673256,
+    "HTML": 4780758,
+    "Python": 789751,
+    "Shell": 652955,
+    "Java": 648170,
+    "Makefile": 565005,
+    "C++": 484836,
+    "Perl": 246411,
+    "Ruby": 130241,
+    "JavaScript": 109482,
+    "Lua": 90085,
+    "CMake": 85633,
+    "M4": 43180,
+    "CSS": 41449,
+    "TeX": 35510,
+    "Batchfile": 31928,
+    "Haskell": 13106,
+    "Awk": 11863,
+    "AIDL": 5274,
+    "Roff": 3256,
+    "QMake": 1030,
+    "PHP": 141,
+    "Brightscript": 20
+  },
+  "size": 24443340
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "4fc0d96c8311f5c9d7af54303c0acdf223b4be1e",
+  "repo_url": "https://github.com/t2bot/matrix-media-repo",
+  "date": "2024-02-09T23:51:10",
+  "languages": {
+    "Go": 608081,
+    "HTML": 4647,
+    "Shell": 1967,
+    "PLpgSQL": 1669,
+    "Dockerfile": 1560
+  },
+  "size": 617924
+}

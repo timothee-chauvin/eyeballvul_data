@@ -1,0 +1,18 @@
+{
+  "commit": "40e8e47123453e65f19c0d5eb2b6bc7bc8d5d49a",
+  "repo_url": "https://github.com/jupyterlab/jupyterlab",
+  "date": "2023-12-29T17:30:01",
+  "languages": {
+    "TypeScript": 6575975,
+    "Python": 405636,
+    "CSS": 349297,
+    "JavaScript": 170442,
+    "Jupyter Notebook": 79233,
+    "Shell": 21705,
+    "HTML": 17502,
+    "Handlebars": 3299,
+    "PowerShell": 2937,
+    "Makefile": 1628
+  },
+  "size": 7627654
+}

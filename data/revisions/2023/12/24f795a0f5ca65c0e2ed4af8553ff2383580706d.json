@@ -1,0 +1,15 @@
+{
+  "commit": "24f795a0f5ca65c0e2ed4af8553ff2383580706d",
+  "repo_url": "https://github.com/getsentry/sentry-javascript",
+  "date": "2023-12-07T10:52:56",
+  "languages": {
+    "TypeScript": 5125060,
+    "JavaScript": 438110,
+    "HTML": 56192,
+    "Shell": 23492,
+    "CSS": 5272,
+    "Handlebars": 2815,
+    "Svelte": 576
+  },
+  "size": 5651517
+}

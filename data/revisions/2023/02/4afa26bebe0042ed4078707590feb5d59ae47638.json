@@ -1,0 +1,13 @@
+{
+  "commit": "4afa26bebe0042ed4078707590feb5d59ae47638",
+  "repo_url": "https://github.com/crossplane/crossplane",
+  "date": "2023-02-24T11:03:09",
+  "languages": {
+    "Go": 1800890,
+    "Shell": 12874,
+    "Makefile": 9653,
+    "Dockerfile": 1673,
+    "Mustache": 995
+  },
+  "size": 1826085
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "fff8e1fc991bfb71944c2ec3db4c72c522bc7c63",
+  "repo_url": "https://github.com/zendesk/samson",
+  "date": "2023-07-25T21:28:24",
+  "languages": {
+    "Ruby": 2274051,
+    "HTML": 220987,
+    "JavaScript": 38560,
+    "SCSS": 19128,
+    "Shell": 2907,
+    "Dockerfile": 1026,
+    "CSS": 276,
+    "Procfile": 138
+  },
+  "size": 2557073
+}

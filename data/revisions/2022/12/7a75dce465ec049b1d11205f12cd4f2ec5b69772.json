@@ -1,0 +1,14 @@
+{
+  "commit": "7a75dce465ec049b1d11205f12cd4f2ec5b69772",
+  "repo_url": "https://github.com/zeromicro/go-zero",
+  "date": "2022-12-14T15:36:56",
+  "languages": {
+    "Go": 2485563,
+    "Smarty": 31074,
+    "ANTLR": 3927,
+    "Shell": 2585,
+    "Makefile": 1800,
+    "Dockerfile": 1126
+  },
+  "size": 2526075
+}

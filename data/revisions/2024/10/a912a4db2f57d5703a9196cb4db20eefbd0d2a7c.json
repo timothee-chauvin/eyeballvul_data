@@ -1,0 +1,15 @@
+{
+  "commit": "a912a4db2f57d5703a9196cb4db20eefbd0d2a7c",
+  "repo_url": "https://github.com/unopim/unopim",
+  "date": "2024-10-14T13:54:12",
+  "languages": {
+    "PHP": 3601314,
+    "Blade": 1191514,
+    "JavaScript": 27133,
+    "CSS": 15079,
+    "Hack": 475,
+    "Shell": 176,
+    "Dockerfile": 168
+  },
+  "size": 4835859
+}

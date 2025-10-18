@@ -1,0 +1,22 @@
+{
+  "commit": "50c3823f500491cc39dff9dbf664dc2573b13f45",
+  "repo_url": "https://github.com/aquynh/capstone",
+  "date": "2015-01-16T14:15:35",
+  "languages": {
+    "POV-Ray SDL": 8872570,
+    "C++": 6918012,
+    "C": 3109128,
+    "C#": 854928,
+    "Java": 393676,
+    "Python": 257263,
+    "OCaml": 228691,
+    "Makefile": 32729,
+    "Cython": 12394,
+    "Shell": 6647,
+    "CMake": 6296,
+    "Tcl": 1337,
+    "Ruby": 982,
+    "Smalltalk": 170
+  },
+  "size": 20694823
+}

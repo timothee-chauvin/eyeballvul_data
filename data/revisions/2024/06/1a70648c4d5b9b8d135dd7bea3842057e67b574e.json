@@ -1,0 +1,16 @@
+{
+  "commit": "1a70648c4d5b9b8d135dd7bea3842057e67b574e",
+  "repo_url": "https://github.com/ory/kratos",
+  "date": "2024-06-05T09:50:31",
+  "languages": {
+    "Go": 3736967,
+    "TypeScript": 399232,
+    "Mustache": 90769,
+    "Shell": 32720,
+    "JavaScript": 13850,
+    "Makefile": 7537,
+    "Jsonnet": 4450,
+    "Dockerfile": 299
+  },
+  "size": 4285824
+}

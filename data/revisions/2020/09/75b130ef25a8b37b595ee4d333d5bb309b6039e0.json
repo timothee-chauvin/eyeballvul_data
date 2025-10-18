@@ -1,0 +1,12 @@
+{
+  "commit": "75b130ef25a8b37b595ee4d333d5bb309b6039e0",
+  "repo_url": "https://github.com/unetworking/uwebsockets",
+  "date": "2020-09-05T16:02:32",
+  "languages": {
+    "C++": 308016,
+    "C": 27656,
+    "Makefile": 5173,
+    "QMake": 1168
+  },
+  "size": 342013
+}

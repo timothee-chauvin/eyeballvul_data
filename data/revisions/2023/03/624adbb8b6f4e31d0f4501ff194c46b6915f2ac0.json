@@ -1,0 +1,13 @@
+{
+  "commit": "624adbb8b6f4e31d0f4501ff194c46b6915f2ac0",
+  "repo_url": "https://github.com/pluginsglpi/fields",
+  "date": "2023-03-22T08:00:37",
+  "languages": {
+    "PHP": 286991,
+    "Twig": 33679,
+    "Smarty": 9998,
+    "JavaScript": 2000,
+    "CSS": 1668
+  },
+  "size": 334336
+}

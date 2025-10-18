@@ -1,0 +1,17 @@
+{
+  "commit": "fffef729e348ce0cf8bba3646303460d5e37fe16",
+  "repo_url": "https://github.com/kanisterio/kanister",
+  "date": "2024-08-02T16:48:56",
+  "languages": {
+    "Go": 2427820,
+    "Shell": 55882,
+    "Dockerfile": 13953,
+    "Makefile": 8525,
+    "Mustache": 8181,
+    "CSS": 4305,
+    "JavaScript": 2162,
+    "TypeScript": 2111,
+    "Python": 516
+  },
+  "size": 2523455
+}

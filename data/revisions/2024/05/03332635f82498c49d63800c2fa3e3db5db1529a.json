@@ -1,0 +1,13 @@
+{
+  "commit": "03332635f82498c49d63800c2fa3e3db5db1529a",
+  "repo_url": "https://github.com/stalwartlabs/mail-server",
+  "date": "2024-05-01T08:59:05",
+  "languages": {
+    "Rust": 5717796,
+    "Sieve": 85159,
+    "Shell": 45841,
+    "Python": 12599,
+    "Dockerfile": 1839
+  },
+  "size": 5863234
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "9907a1f43894327d25a115288ae569dc033529bd",
+  "repo_url": "https://github.com/matrix-org/vodozemac",
+  "date": "2024-02-02T12:48:01",
+  "languages": {
+    "Rust": 297715,
+    "Makefile": 178
+  },
+  "size": 297893
+}

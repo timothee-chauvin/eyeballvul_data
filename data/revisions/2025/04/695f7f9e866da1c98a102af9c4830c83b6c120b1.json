@@ -1,0 +1,13 @@
+{
+  "commit": "695f7f9e866da1c98a102af9c4830c83b6c120b1",
+  "repo_url": "https://github.com/vercel/flags",
+  "date": "2025-04-15T16:06:48",
+  "languages": {
+    "TypeScript": 288406,
+    "JavaScript": 6907,
+    "Svelte": 915,
+    "CSS": 817,
+    "HTML": 346
+  },
+  "size": 297391
+}

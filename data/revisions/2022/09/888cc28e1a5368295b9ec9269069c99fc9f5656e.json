@@ -1,0 +1,11 @@
+{
+  "commit": "888cc28e1a5368295b9ec9269069c99fc9f5656e",
+  "repo_url": "https://github.com/boa-dev/boa",
+  "date": "2022-09-25T16:27:40",
+  "languages": {
+    "Rust": 3860339,
+    "JavaScript": 11436,
+    "HTML": 1407
+  },
+  "size": 3873182
+}

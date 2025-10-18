@@ -1,0 +1,20 @@
+{
+  "commit": "c67b8b5fa47f8fe1e1954226c9bdfabd46ebb968",
+  "repo_url": "https://github.com/logseq/logseq",
+  "date": "2024-04-23T04:24:30",
+  "languages": {
+    "Clojure": 3216965,
+    "TypeScript": 1109686,
+    "CSS": 729233,
+    "JavaScript": 254014,
+    "HTML": 50795,
+    "Swift": 25861,
+    "Java": 25457,
+    "Shell": 7264,
+    "Ruby": 3299,
+    "Dockerfile": 1284,
+    "Objective-C": 974,
+    "C": 104
+  },
+  "size": 5424936
+}

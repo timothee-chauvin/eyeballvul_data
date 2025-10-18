@@ -1,0 +1,22 @@
+{
+  "commit": "a5cb58b96fa6462aff22c04eb87a286683adfdf3",
+  "repo_url": "https://github.com/whimsies-yat/vickey",
+  "date": "2025-09-09T11:04:00",
+  "languages": {
+    "TypeScript": 7537858,
+    "Vue": 3056399,
+    "JavaScript": 661540,
+    "SCSS": 25935,
+    "Pug": 20922,
+    "Rust": 18933,
+    "CSS": 15808,
+    "Dockerfile": 5678,
+    "Python": 5288,
+    "Shell": 1794,
+    "Smarty": 1782,
+    "HTML": 1242,
+    "MDX": 575,
+    "Procfile": 35
+  },
+  "size": 11353789
+}

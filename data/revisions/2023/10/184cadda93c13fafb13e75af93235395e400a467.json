@@ -1,0 +1,10 @@
+{
+  "commit": "184cadda93c13fafb13e75af93235395e400a467",
+  "repo_url": "https://github.com/ydb-platform/ydb-go-sdk",
+  "date": "2023-10-16T15:58:32",
+  "languages": {
+    "Go": 1976509,
+    "Dockerfile": 300
+  },
+  "size": 1976809
+}

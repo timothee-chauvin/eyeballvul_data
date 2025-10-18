@@ -1,0 +1,17 @@
+{
+  "commit": "4381e29d8c5de7d1a4cba16abf5642d4fb10ace4",
+  "repo_url": "https://github.com/lyft/confidant",
+  "date": "2024-08-12T18:31:50",
+  "languages": {
+    "Python": 446615,
+    "JavaScript": 98063,
+    "HTML": 53970,
+    "SaltStack": 11766,
+    "CSS": 3256,
+    "Makefile": 1355,
+    "Dockerfile": 1260,
+    "Shell": 814,
+    "PHP": 353
+  },
+  "size": 617452
+}

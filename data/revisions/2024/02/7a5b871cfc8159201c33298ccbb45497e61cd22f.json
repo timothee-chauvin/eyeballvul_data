@@ -1,0 +1,14 @@
+{
+  "commit": "7a5b871cfc8159201c33298ccbb45497e61cd22f",
+  "repo_url": "https://github.com/jupyter-server/jupyter-scheduler",
+  "date": "2024-02-16T22:37:17",
+  "languages": {
+    "TypeScript": 180415,
+    "Python": 125276,
+    "CSS": 6813,
+    "Jupyter Notebook": 3581,
+    "JavaScript": 2319,
+    "HTML": 222
+  },
+  "size": 318626
+}

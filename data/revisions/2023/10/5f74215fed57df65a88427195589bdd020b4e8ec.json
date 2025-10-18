@@ -1,0 +1,16 @@
+{
+  "commit": "5f74215fed57df65a88427195589bdd020b4e8ec",
+  "repo_url": "https://github.com/symfony/symfony",
+  "date": "2023-10-29T14:31:59",
+  "languages": {
+    "PHP": 54254987,
+    "Twig": 591517,
+    "CSS": 52531,
+    "JavaScript": 28634,
+    "HTML": 16804,
+    "Shell": 9773,
+    "Makefile": 533,
+    "Hack": 26
+  },
+  "size": 54954805
+}

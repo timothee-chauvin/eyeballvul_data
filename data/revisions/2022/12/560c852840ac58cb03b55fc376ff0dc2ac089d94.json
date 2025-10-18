@@ -1,0 +1,15 @@
+{
+  "commit": "560c852840ac58cb03b55fc376ff0dc2ac089d94",
+  "repo_url": "https://github.com/informalsystems/tendermint-rs",
+  "date": "2022-12-14T19:46:14",
+  "languages": {
+    "Rust": 1334448,
+    "TLA": 892644,
+    "Shell": 10660,
+    "JavaScript": 8339,
+    "Dockerfile": 5141,
+    "HTML": 3135,
+    "Makefile": 751
+  },
+  "size": 2255118
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "66b9accd4273440017670b68566998c7945fb113",
+  "repo_url": "https://github.com/cyberark/conjur",
+  "date": "2025-06-10T10:18:07",
+  "languages": {
+    "Ruby": 2803353,
+    "Gherkin": 628856,
+    "Shell": 160354,
+    "Python": 5711,
+    "HTML": 3054,
+    "CSS": 2206,
+    "Dockerfile": 1386,
+    "PowerShell": 406,
+    "Procfile": 41
+  },
+  "size": 3605367
+}

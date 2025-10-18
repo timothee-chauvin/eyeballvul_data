@@ -1,0 +1,13 @@
+{
+  "commit": "f2b4361b004ee822960ea9791f566fd4eb6d1aba",
+  "repo_url": "https://github.com/awslabs/aws-sdk-rust",
+  "date": "2022-01-10T19:59:24",
+  "languages": {
+    "Rust": 618275696,
+    "Python": 9522,
+    "Shell": 3107,
+    "TypeScript": 3067,
+    "JavaScript": 275
+  },
+  "size": 618291667
+}

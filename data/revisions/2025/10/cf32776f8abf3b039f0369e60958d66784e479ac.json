@@ -1,0 +1,12 @@
+{
+  "commit": "cf32776f8abf3b039f0369e60958d66784e479ac",
+  "repo_url": "https://github.com/cpan-authors/yaml-syck",
+  "date": "2025-10-09T22:26:43",
+  "languages": {
+    "C": 324082,
+    "Perl": 68802,
+    "Raku": 10663,
+    "XS": 639
+  },
+  "size": 404186
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "ecf6f4018521ae87dc5d90e520e7105702fcf11b",
+  "repo_url": "https://github.com/nuxt/devtools",
+  "date": "2024-07-02T14:01:47",
+  "languages": {
+    "Vue": 367197,
+    "TypeScript": 224836,
+    "HTML": 7817,
+    "CSS": 4221,
+    "JavaScript": 1504,
+    "Shell": 559
+  },
+  "size": 606134
+}

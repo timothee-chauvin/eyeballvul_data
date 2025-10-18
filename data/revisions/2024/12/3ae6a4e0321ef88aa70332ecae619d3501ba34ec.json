@@ -1,0 +1,13 @@
+{
+  "commit": "3ae6a4e0321ef88aa70332ecae619d3501ba34ec",
+  "repo_url": "https://github.com/matrix-org/mjolnir",
+  "date": "2024-12-09T16:33:09",
+  "languages": {
+    "TypeScript": 860279,
+    "Python": 17282,
+    "Shell": 777,
+    "Dockerfile": 406,
+    "JavaScript": 116
+  },
+  "size": 878860
+}

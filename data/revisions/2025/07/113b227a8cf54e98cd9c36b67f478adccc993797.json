@@ -1,0 +1,13 @@
+{
+  "commit": "113b227a8cf54e98cd9c36b67f478adccc993797",
+  "repo_url": "https://github.com/chainguard-dev/melange",
+  "date": "2025-07-16T17:03:13",
+  "languages": {
+    "Go": 701495,
+    "CUE": 15613,
+    "Shell": 6578,
+    "Makefile": 5614,
+    "Python": 197
+  },
+  "size": 729497
+}

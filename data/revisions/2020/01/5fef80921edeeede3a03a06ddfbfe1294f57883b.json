@@ -1,0 +1,15 @@
+{
+  "commit": "5fef80921edeeede3a03a06ddfbfe1294f57883b",
+  "repo_url": "https://github.com/micronaut-projects/micronaut-core",
+  "date": "2020-01-21T18:47:32",
+  "languages": {
+    "Java": 7886379,
+    "Groovy": 3439547,
+    "Kotlin": 270058,
+    "CSS": 95082,
+    "Shell": 32621,
+    "JavaScript": 14449,
+    "HTML": 9618
+  },
+  "size": 11747754
+}

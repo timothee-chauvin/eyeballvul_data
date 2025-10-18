@@ -1,0 +1,13 @@
+{
+  "commit": "7e5bdc38820aef518c1c49d4b6e8fcb0083b165b",
+  "repo_url": "https://github.com/zendframework/zendframework",
+  "date": "2016-05-09T20:54:25",
+  "languages": {
+    "PHP": 19127196,
+    "HTML": 43076,
+    "Shell": 1602,
+    "Roff": 310,
+    "Hack": 8
+  },
+  "size": 19172192
+}

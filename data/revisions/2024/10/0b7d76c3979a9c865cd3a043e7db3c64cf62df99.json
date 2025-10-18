@@ -1,0 +1,13 @@
+{
+  "commit": "0b7d76c3979a9c865cd3a043e7db3c64cf62df99",
+  "repo_url": "https://github.com/messagepack-csharp/messagepack-csharp",
+  "date": "2024-10-16T12:59:47",
+  "languages": {
+    "C#": 3519120,
+    "PowerShell": 64433,
+    "Dockerfile": 897,
+    "Batchfile": 646,
+    "Visual Basic .NET": 274
+  },
+  "size": 3585370
+}

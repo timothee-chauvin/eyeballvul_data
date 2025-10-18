@@ -1,0 +1,10 @@
+{
+  "commit": "67c2ae0a9e3e445f034a456b299e3f37c4dc4b93",
+  "repo_url": "https://github.com/martinvonz/jj",
+  "date": "2024-10-02T17:25:20",
+  "languages": {
+    "Rust": 5156585,
+    "Nix": 5764
+  },
+  "size": 5162349
+}

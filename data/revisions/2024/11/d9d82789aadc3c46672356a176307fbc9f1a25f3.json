@@ -1,0 +1,15 @@
+{
+  "commit": "d9d82789aadc3c46672356a176307fbc9f1a25f3",
+  "repo_url": "https://github.com/tolgee/tolgee-platform",
+  "date": "2024-11-11T17:52:42",
+  "languages": {
+    "TypeScript": 3000520,
+    "Kotlin": 2469822,
+    "JavaScript": 19327,
+    "Shell": 12678,
+    "Dockerfile": 9670,
+    "PLpgSQL": 663,
+    "HTML": 439
+  },
+  "size": 5513119
+}

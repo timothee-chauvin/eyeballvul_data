@@ -1,0 +1,18 @@
+{
+  "commit": "0b90d50c3bf85935ef08fabe5911b8bf34c94eb9",
+  "repo_url": "https://github.com/opsmill/infrahub",
+  "date": "2025-09-03T16:38:42",
+  "languages": {
+    "Python": 8213267,
+    "TypeScript": 2284224,
+    "MDX": 11283,
+    "HCL": 10970,
+    "CSS": 8748,
+    "Shell": 8427,
+    "Jinja": 8334,
+    "Dockerfile": 6456,
+    "JavaScript": 2340,
+    "HTML": 1667
+  },
+  "size": 10555716
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "f06bca1f7718e84dd48a1f6a883c02d871ace7c9",
+  "repo_url": "https://github.com/esp32async/espasyncwebserver",
+  "date": "2025-06-13T19:29:25",
+  "languages": {
+    "C++": 278704,
+    "C": 2035,
+    "CMake": 1425
+  },
+  "size": 282164
+}

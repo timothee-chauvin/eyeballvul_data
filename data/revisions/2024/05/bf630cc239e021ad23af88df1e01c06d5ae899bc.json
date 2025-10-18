@@ -1,0 +1,13 @@
+{
+  "commit": "bf630cc239e021ad23af88df1e01c06d5ae899bc",
+  "repo_url": "https://github.com/authenticator-extension/authenticator",
+  "date": "2024-05-27T07:27:08",
+  "languages": {
+    "TypeScript": 176734,
+    "Vue": 86598,
+    "SCSS": 26739,
+    "Shell": 5976,
+    "HTML": 3670
+  },
+  "size": 299717
+}

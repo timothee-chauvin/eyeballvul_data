@@ -1,0 +1,14 @@
+{
+  "commit": "71e7c7d48bc29a4014b4bbc46ebce6e92030b070",
+  "repo_url": "https://github.com/anipaleja/nginx-defender",
+  "date": "2025-07-26T18:01:54",
+  "languages": {
+    "Go": 142533,
+    "JavaScript": 23826,
+    "HTML": 11145,
+    "CSS": 7262,
+    "Dockerfile": 2043,
+    "Shell": 401
+  },
+  "size": 187210
+}

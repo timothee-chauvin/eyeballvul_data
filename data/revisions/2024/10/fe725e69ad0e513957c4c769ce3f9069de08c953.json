@@ -1,0 +1,16 @@
+{
+  "commit": "fe725e69ad0e513957c4c769ce3f9069de08c953",
+  "repo_url": "https://github.com/plexripper/plexripper",
+  "date": "2024-10-03T20:11:47",
+  "languages": {
+    "C#": 1594360,
+    "Vue": 266162,
+    "TypeScript": 260578,
+    "EJS": 30510,
+    "SCSS": 24530,
+    "JavaScript": 3997,
+    "Dockerfile": 3481,
+    "HTML": 1061
+  },
+  "size": 2184679
+}

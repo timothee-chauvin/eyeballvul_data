@@ -1,0 +1,14 @@
+{
+  "commit": "1f8bc7713a2e9d67626830da3ec0d730d0f57281",
+  "repo_url": "https://github.com/gardener/external-dns-management",
+  "date": "2025-04-17T13:33:21",
+  "languages": {
+    "Go": 1185489,
+    "Shell": 21867,
+    "Makefile": 5298,
+    "Python": 2173,
+    "Mustache": 1717,
+    "Dockerfile": 755
+  },
+  "size": 1217299
+}

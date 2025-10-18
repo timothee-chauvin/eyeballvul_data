@@ -1,0 +1,10 @@
+{
+  "commit": "795a0ec3779b1d2014d28f316e6941435bc15048",
+  "repo_url": "https://github.com/webauthn4j/webauthn4j-spring-security",
+  "date": "2023-03-19T13:01:38",
+  "languages": {
+    "Java": 458301,
+    "Dockerfile": 627
+  },
+  "size": 458928
+}

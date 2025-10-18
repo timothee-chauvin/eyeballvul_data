@@ -1,0 +1,16 @@
+{
+  "commit": "5fd0f742d4e9d5b5673f09f431ab639f427a4098",
+  "repo_url": "https://github.com/stacklok/minder",
+  "date": "2024-03-04T12:27:04",
+  "languages": {
+    "Go": 1536234,
+    "PLpgSQL": 38585,
+    "Makefile": 15437,
+    "Shell": 3909,
+    "HTML": 2399,
+    "Dockerfile": 2056,
+    "CSS": 923,
+    "Smarty": 538
+  },
+  "size": 1600081
+}

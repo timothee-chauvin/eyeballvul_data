@@ -1,0 +1,13 @@
+{
+  "commit": "2f31a365cd11445b2d5c89076c93270f6f07e06b",
+  "repo_url": "https://github.com/cyfershepard/jellystat",
+  "date": "2024-12-22T14:25:38",
+  "languages": {
+    "JavaScript": 711828,
+    "CSS": 36982,
+    "Shell": 2311,
+    "HTML": 1345,
+    "Dockerfile": 780
+  },
+  "size": 753246
+}

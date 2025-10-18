@@ -1,0 +1,18 @@
+{
+  "commit": "d01709bf0100183045927c03b90db78fb8e40bda",
+  "repo_url": "https://github.com/himmelblau-idm/himmelblau",
+  "date": "2025-07-30T19:14:43",
+  "languages": {
+    "Rust": 948270,
+    "C": 122038,
+    "Nix": 22590,
+    "Python": 8349,
+    "Shell": 7355,
+    "Makefile": 5162,
+    "JavaScript": 3157,
+    "RenderScript": 1484,
+    "Dockerfile": 993,
+    "CSS": 491
+  },
+  "size": 1119889
+}

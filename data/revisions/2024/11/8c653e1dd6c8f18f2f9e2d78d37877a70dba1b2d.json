@@ -1,0 +1,19 @@
+{
+  "commit": "8c653e1dd6c8f18f2f9e2d78d37877a70dba1b2d",
+  "repo_url": "https://github.com/element-hq/synapse",
+  "date": "2024-11-26T13:11:12",
+  "languages": {
+    "Python": 14075518,
+    "Rust": 142739,
+    "HTML": 64952,
+    "Shell": 59584,
+    "Perl": 28191,
+    "Nix": 12327,
+    "JavaScript": 11988,
+    "Dockerfile": 11963,
+    "Jinja": 8062,
+    "CSS": 6211,
+    "Lua": 241
+  },
+  "size": 14421776
+}

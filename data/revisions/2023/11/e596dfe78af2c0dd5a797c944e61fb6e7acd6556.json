@@ -1,0 +1,14 @@
+{
+  "commit": "e596dfe78af2c0dd5a797c944e61fb6e7acd6556",
+  "repo_url": "https://github.com/confidential-containers/trustee",
+  "date": "2023-11-02T15:23:31",
+  "languages": {
+    "Rust": 87172,
+    "Makefile": 5384,
+    "Dockerfile": 2452,
+    "Go": 1708,
+    "Open Policy Agent": 1075,
+    "Shell": 867
+  },
+  "size": 98658
+}

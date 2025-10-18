@@ -1,0 +1,22 @@
+{
+  "commit": "2b96784b5bfc786acfe0a654b334e4788ca1bff2",
+  "repo_url": "https://github.com/jens-maus/raspberrymatic",
+  "date": "2022-02-26T15:19:35",
+  "languages": {
+    "JavaScript": 87203838,
+    "Tcl": 6748768,
+    "HTML": 4146171,
+    "CSS": 3306858,
+    "Shell": 297440,
+    "Makefile": 213709,
+    "FreeMarker": 95551,
+    "C": 47416,
+    "NASL": 46756,
+    "C++": 34561,
+    "Batchfile": 19164,
+    "Mustache": 2256,
+    "Dockerfile": 1424,
+    "Perl": 143
+  },
+  "size": 102164055
+}

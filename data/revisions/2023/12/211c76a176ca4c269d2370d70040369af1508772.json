@@ -1,0 +1,13 @@
+{
+  "commit": "211c76a176ca4c269d2370d70040369af1508772",
+  "repo_url": "https://github.com/redisbloom/redisbloom",
+  "date": "2023-12-21T08:04:20",
+  "languages": {
+    "C": 261269,
+    "Python": 122073,
+    "Shell": 22304,
+    "Makefile": 13442,
+    "Dockerfile": 1211
+  },
+  "size": 420299
+}

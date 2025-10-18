@@ -1,0 +1,13 @@
+{
+  "commit": "47ac04ad5c18565c32a43f6127b431a036b53373",
+  "repo_url": "https://github.com/spacemeshos/go-spacemesh",
+  "date": "2024-05-07T14:16:10",
+  "languages": {
+    "Go": 3761694,
+    "Makefile": 10075,
+    "Pascal": 6105,
+    "Dockerfile": 3323,
+    "Shell": 841
+  },
+  "size": 3782038
+}

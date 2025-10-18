@@ -1,0 +1,12 @@
+{
+  "commit": "5a7c6e82d7250a833d89dbcfe69c163b57a77462",
+  "repo_url": "https://github.com/gravitl/netmaker",
+  "date": "2022-01-06T20:24:14",
+  "languages": {
+    "Go": 429182,
+    "Shell": 38190,
+    "PowerShell": 3857,
+    "Dockerfile": 755
+  },
+  "size": 471984
+}

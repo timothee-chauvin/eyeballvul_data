@@ -1,0 +1,15 @@
+{
+  "commit": "b3b4b1ebdcd6adeac914869017c86d892b7a8ced",
+  "repo_url": "https://github.com/nekernel-org/nekernel",
+  "date": "2025-05-02T17:26:57",
+  "languages": {
+    "C++": 704871,
+    "C": 87166,
+    "Makefile": 18019,
+    "Assembly": 16450,
+    "Python": 3690,
+    "Shell": 2694,
+    "PowerShell": 170
+  },
+  "size": 833060
+}

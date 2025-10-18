@@ -1,0 +1,12 @@
+{
+  "commit": "0b4d9976f99371cc1c32e4e06d66509c88323ef2",
+  "repo_url": "https://github.com/casid/jte",
+  "date": "2024-11-18T11:58:52",
+  "languages": {
+    "Java": 960323,
+    "Kotlin": 15673,
+    "Shell": 1538,
+    "NASL": 28
+  },
+  "size": 977562
+}

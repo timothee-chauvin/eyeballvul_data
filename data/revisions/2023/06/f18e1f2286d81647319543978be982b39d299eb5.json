@@ -1,0 +1,11 @@
+{
+  "commit": "f18e1f2286d81647319543978be982b39d299eb5",
+  "repo_url": "https://github.com/microsoft/go-crypto-openssl",
+  "date": "2023-06-19T08:35:43",
+  "languages": {
+    "Go": 136099,
+    "C": 32917,
+    "Shell": 1482
+  },
+  "size": 170498
+}

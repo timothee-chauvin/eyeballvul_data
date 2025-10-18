@@ -1,0 +1,20 @@
+{
+  "commit": "d2399c2b9ad8e928b86512926a83ccb01933e901",
+  "repo_url": "https://github.com/aws/amazon-redshift-odbc-driver",
+  "date": "2024-11-22T22:35:34",
+  "languages": {
+    "C++": 25997428,
+    "C": 12960991,
+    "CMake": 867747,
+    "Roff": 396904,
+    "HTML": 322017,
+    "Makefile": 83327,
+    "Rich Text Format": 82162,
+    "Shell": 61606,
+    "Perl": 44475,
+    "Batchfile": 14290,
+    "Python": 10061,
+    "PowerShell": 563
+  },
+  "size": 40841571
+}

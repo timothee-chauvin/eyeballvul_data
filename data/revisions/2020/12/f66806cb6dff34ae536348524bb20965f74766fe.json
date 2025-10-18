@@ -1,0 +1,11 @@
+{
+  "commit": "f66806cb6dff34ae536348524bb20965f74766fe",
+  "repo_url": "https://github.com/nette/latte",
+  "date": "2020-12-16T23:52:58",
+  "languages": {
+    "PHP": 521092,
+    "HTML": 96530,
+    "Latte": 8764
+  },
+  "size": 626386
+}

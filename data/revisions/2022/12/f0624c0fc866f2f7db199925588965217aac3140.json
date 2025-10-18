@@ -1,0 +1,11 @@
+{
+  "commit": "f0624c0fc866f2f7db199925588965217aac3140",
+  "repo_url": "https://github.com/mdp/rotp",
+  "date": "2022-12-13T21:50:08",
+  "languages": {
+    "Ruby": 37001,
+    "Dockerfile": 1158,
+    "Roff": 325
+  },
+  "size": 38484
+}

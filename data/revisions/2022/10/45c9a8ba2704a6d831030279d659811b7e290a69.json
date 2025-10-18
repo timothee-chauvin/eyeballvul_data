@@ -1,0 +1,16 @@
+{
+  "commit": "45c9a8ba2704a6d831030279d659811b7e290a69",
+  "repo_url": "https://github.com/nextcloud/deck",
+  "date": "2022-10-27T09:47:09",
+  "languages": {
+    "JavaScript": 1149764,
+    "PHP": 889656,
+    "Vue": 201951,
+    "Gherkin": 20553,
+    "SCSS": 7725,
+    "Makefile": 1658,
+    "Shell": 811,
+    "CSS": 622
+  },
+  "size": 2272740
+}

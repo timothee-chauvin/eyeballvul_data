@@ -1,0 +1,11 @@
+{
+  "commit": "b1a4acfa3beaa59ad61bc230acf115eeeae983fd",
+  "repo_url": "https://github.com/filecoin-project/go-f3",
+  "date": "2025-06-13T15:16:24",
+  "languages": {
+    "Go": 980607,
+    "Makefile": 1116,
+    "Dockerfile": 238
+  },
+  "size": 981961
+}

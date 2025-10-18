@@ -1,0 +1,12 @@
+{
+  "commit": "0f47d83eac2047d33efdab6eeaa9f81f17e3ebd1",
+  "repo_url": "https://github.com/neocturne/fastd",
+  "date": "2021-06-27T10:09:53",
+  "languages": {
+    "C": 539733,
+    "Assembly": 530118,
+    "Meson": 15945,
+    "Yacc": 14853
+  },
+  "size": 1100649
+}

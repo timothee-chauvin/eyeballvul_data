@@ -1,0 +1,11 @@
+{
+  "commit": "e72f7c2f22de1d4887b30571fb65f8b3bb408d6b",
+  "repo_url": "https://github.com/blevesearch/bleve",
+  "date": "2024-11-13T17:25:32",
+  "languages": {
+    "Go": 3451043,
+    "Yacc": 7408,
+    "Shell": 241
+  },
+  "size": 3458692
+}

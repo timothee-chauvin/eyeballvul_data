@@ -1,0 +1,24 @@
+{
+  "commit": "c0cfeaea739cddcdce2f61c5565f4e1f974316c9",
+  "repo_url": "https://github.com/mouy-leng/genx_fx",
+  "date": "2025-07-29T02:11:53",
+  "languages": {
+    "Python": 33401572,
+    "Cython": 1160282,
+    "C": 725783,
+    "C++": 80027,
+    "TypeScript": 53050,
+    "MQL5": 50401,
+    "Shell": 31826,
+    "MQL4": 12055,
+    "Fortran": 8505,
+    "JavaScript": 5207,
+    "Smarty": 4595,
+    "XSLT": 1196,
+    "Dockerfile": 914,
+    "CSS": 426,
+    "HTML": 373,
+    "Procfile": 87
+  },
+  "size": 35536299
+}

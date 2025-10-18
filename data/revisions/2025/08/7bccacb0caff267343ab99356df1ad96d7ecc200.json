@@ -1,0 +1,15 @@
+{
+  "commit": "7bccacb0caff267343ab99356df1ad96d7ecc200",
+  "repo_url": "https://github.com/nofusscomputing/centurion_erp",
+  "date": "2025-08-25T06:45:56",
+  "languages": {
+    "Python": 3993724,
+    "Makefile": 4735,
+    "Shell": 4020,
+    "HTML": 2603,
+    "JavaScript": 1594,
+    "Jinja": 663,
+    "CSS": 125
+  },
+  "size": 4007464
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "82441d8c0f4ac7324740c86edb9c86591e694bf0",
+  "repo_url": "https://github.com/snowflakedb/gosnowflake",
+  "date": "2025-04-01T12:04:28",
+  "languages": {
+    "Go": 1929839,
+    "Shell": 9430,
+    "Makefile": 5937,
+    "Python": 3518,
+    "Batchfile": 2522,
+    "Dockerfile": 498
+  },
+  "size": 1951744
+}
