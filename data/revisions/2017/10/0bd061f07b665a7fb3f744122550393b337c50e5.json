@@ -1,0 +1,17 @@
+{
+  "commit": "0bd061f07b665a7fb3f744122550393b337c50e5",
+  "repo_url": "https://github.com/opencv/opencv_contrib",
+  "date": "2017-10-18T14:51:04",
+  "languages": {
+    "C++": 12821414,
+    "C": 121727,
+    "Python": 102905,
+    "CMake": 86819,
+    "Assembly": 74882,
+    "Cuda": 52672,
+    "Shell": 41275,
+    "TeX": 36198,
+    "MATLAB": 17543
+  },
+  "size": 13355435
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "071584a9a71db3688d86c72ad0e6abd6d0c270d5",
+  "repo_url": "https://github.com/the-commit-company/raven",
+  "date": "2025-03-17T15:44:09",
+  "languages": {
+    "TypeScript": 1487662,
+    "Python": 320398,
+    "JavaScript": 79136,
+    "HTML": 14437,
+    "CSS": 10233,
+    "SCSS": 8757,
+    "Shell": 1001
+  },
+  "size": 1921624
+}

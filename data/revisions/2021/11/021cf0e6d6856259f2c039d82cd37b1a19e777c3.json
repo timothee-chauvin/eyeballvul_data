@@ -1,0 +1,16 @@
+{
+  "commit": "021cf0e6d6856259f2c039d82cd37b1a19e777c3",
+  "repo_url": "https://github.com/labring/laf",
+  "date": "2021-11-17T11:28:20",
+  "languages": {
+    "TypeScript": 546757,
+    "JavaScript": 272102,
+    "Vue": 229877,
+    "SCSS": 12981,
+    "Shell": 3069,
+    "Dockerfile": 2228,
+    "HTML": 488,
+    "Smarty": 353
+  },
+  "size": 1067855
+}

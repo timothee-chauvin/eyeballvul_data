@@ -1,0 +1,13 @@
+{
+  "commit": "996b587a8384c1ce97ab8fbe5a026085540a09d1",
+  "repo_url": "https://github.com/weaveworks/vscode-gitops-tools",
+  "date": "2024-01-20T16:24:07",
+  "languages": {
+    "TypeScript": 357274,
+    "CSS": 73576,
+    "HTML": 20477,
+    "JavaScript": 16678,
+    "Makefile": 187
+  },
+  "size": 468192
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "efc7bb19a8ecfb4bd35cfa51a2d3b30ce636060c",
+  "repo_url": "https://github.com/tauri-apps/plugins-workspace",
+  "date": "2025-01-13T14:59:32",
+  "languages": {
+    "Rust": 699799,
+    "TypeScript": 181257,
+    "Kotlin": 173467,
+    "Swift": 100074,
+    "JavaScript": 19269,
+    "CSS": 4180,
+    "HTML": 3843,
+    "Ruby": 621,
+    "Shell": 166,
+    "Objective-C++": 100,
+    "C++": 82
+  },
+  "size": 1182858
+}

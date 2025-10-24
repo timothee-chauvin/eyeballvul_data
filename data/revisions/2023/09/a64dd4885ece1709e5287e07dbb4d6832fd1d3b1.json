@@ -1,0 +1,12 @@
+{
+  "commit": "a64dd4885ece1709e5287e07dbb4d6832fd1d3b1",
+  "repo_url": "https://github.com/alistgo/alist",
+  "date": "2023-09-22T08:54:16",
+  "languages": {
+    "Go": 1501654,
+    "Shell": 8497,
+    "Makefile": 694,
+    "Dockerfile": 486
+  },
+  "size": 1511331
+}

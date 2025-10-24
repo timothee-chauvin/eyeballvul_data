@@ -1,0 +1,26 @@
+{
+  "commit": "d7fedd3ea2e588cf9e0832d7130ed878260d81e2",
+  "repo_url": "https://github.com/firebirdsql/firebird",
+  "date": "2023-03-11T06:37:28",
+  "languages": {
+    "C++": 13689897,
+    "C": 9426116,
+    "Pascal": 760798,
+    "Shell": 267654,
+    "Yacc": 240257,
+    "Batchfile": 94462,
+    "CMake": 76659,
+    "M4": 60599,
+    "Inno Setup": 55714,
+    "Makefile": 54621,
+    "HTML": 30796,
+    "Dockerfile": 17496,
+    "SQLPL": 7516,
+    "Assembly": 4469,
+    "Kotlin": 3490,
+    "Clarion": 1797,
+    "Objective-C": 1464,
+    "Awk": 166
+  },
+  "size": 24793971
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "dd6aa7089e9449a37bd9e7576ca6b1ace78ab0d8",
+  "repo_url": "https://github.com/nautobot/nautobot-app-ssot",
+  "date": "2025-09-18T13:37:55",
+  "languages": {
+    "Python": 3123713,
+    "HTML": 39467,
+    "Dockerfile": 3122,
+    "Jinja": 1293
+  },
+  "size": 3167595
+}

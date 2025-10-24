@@ -1,0 +1,17 @@
+{
+  "commit": "e0c72691857d5ace6f75520fbf23088484295d11",
+  "repo_url": "https://github.com/linuxmint/pix",
+  "date": "2020-01-06T11:29:42",
+  "languages": {
+    "C": 5513186,
+    "C++": 113304,
+    "Makefile": 85946,
+    "M4": 25748,
+    "CSS": 20481,
+    "Shell": 19013,
+    "Yacc": 9228,
+    "Lex": 4583,
+    "Roff": 1366
+  },
+  "size": 5792855
+}

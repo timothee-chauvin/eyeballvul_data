@@ -1,0 +1,16 @@
+{
+  "commit": "a3e2e20735c2e95682f9d56226451453cdad7e04",
+  "repo_url": "https://github.com/cinnamon/kotaemon",
+  "date": "2025-04-01T04:33:48",
+  "languages": {
+    "Python": 1115248,
+    "HTML": 37566,
+    "Shell": 28513,
+    "Batchfile": 16193,
+    "JavaScript": 15947,
+    "CSS": 7470,
+    "Dockerfile": 3129,
+    "Mako": 651
+  },
+  "size": 1224717
+}

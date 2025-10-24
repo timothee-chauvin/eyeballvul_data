@@ -1,0 +1,12 @@
+{
+  "commit": "f49ae456f4bf416b7d9c6e720704e69a3a3f8f80",
+  "repo_url": "https://github.com/bleachbit/bleachbit",
+  "date": "2024-10-07T15:43:30",
+  "languages": {
+    "Python": 801833,
+    "NSIS": 540645,
+    "Makefile": 7554,
+    "Batchfile": 3428
+  },
+  "size": 1353460
+}

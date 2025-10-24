@@ -1,0 +1,13 @@
+{
+  "commit": "51886b0c78876f8b03cab620964e14c1fa3fa178",
+  "repo_url": "https://github.com/element-hq/element-x-ios",
+  "date": "2025-03-26T14:39:09",
+  "languages": {
+    "Swift": 6499216,
+    "Ruby": 13068,
+    "Shell": 8905,
+    "Objective-C": 3049,
+    "C": 103
+  },
+  "size": 6524341
+}

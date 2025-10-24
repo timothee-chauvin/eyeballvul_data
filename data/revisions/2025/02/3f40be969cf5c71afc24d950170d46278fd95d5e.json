@@ -1,0 +1,11 @@
+{
+  "commit": "3f40be969cf5c71afc24d950170d46278fd95d5e",
+  "repo_url": "https://github.com/jhipster/generator-jhipster-entity-audit",
+  "date": "2025-02-10T18:08:45",
+  "languages": {
+    "EJS": 47625,
+    "JavaScript": 39078,
+    "TypeScript": 554
+  },
+  "size": 87257
+}

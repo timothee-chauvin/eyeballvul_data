@@ -1,0 +1,10 @@
+{
+  "commit": "55ff9aad94a176a11f9f9f333e7ed9f59ec5e37f",
+  "repo_url": "https://github.com/expr-lang/expr",
+  "date": "2024-05-27T10:25:09",
+  "languages": {
+    "Go": 959879,
+    "Shell": 327
+  },
+  "size": 960206
+}

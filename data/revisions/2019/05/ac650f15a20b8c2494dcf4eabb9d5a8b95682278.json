@@ -1,0 +1,12 @@
+{
+  "commit": "ac650f15a20b8c2494dcf4eabb9d5a8b95682278",
+  "repo_url": "https://github.com/messageformat/messageformat",
+  "date": "2019-05-18T01:58:39",
+  "languages": {
+    "JavaScript": 474380,
+    "PEG.js": 3756,
+    "HTML": 2253,
+    "Shell": 344
+  },
+  "size": 480733
+}

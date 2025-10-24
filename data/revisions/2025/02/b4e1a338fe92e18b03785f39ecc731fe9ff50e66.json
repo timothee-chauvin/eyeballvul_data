@@ -1,0 +1,17 @@
+{
+  "commit": "b4e1a338fe92e18b03785f39ecc731fe9ff50e66",
+  "repo_url": "https://github.com/jooby-project/jooby",
+  "date": "2025-02-13T16:50:21",
+  "languages": {
+    "Java": 3747101,
+    "Kotlin": 70825,
+    "PHP": 17077,
+    "Handlebars": 15562,
+    "HTML": 6819,
+    "Groovy": 943,
+    "Shell": 941,
+    "Dockerfile": 516,
+    "FreeMarker": 108
+  },
+  "size": 3859892
+}

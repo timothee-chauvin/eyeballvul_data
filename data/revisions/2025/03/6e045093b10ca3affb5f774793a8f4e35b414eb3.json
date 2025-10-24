@@ -1,0 +1,17 @@
+{
+  "commit": "6e045093b10ca3affb5f774793a8f4e35b414eb3",
+  "repo_url": "https://github.com/labring/fastgpt",
+  "date": "2025-03-06T12:21:57",
+  "languages": {
+    "TypeScript": 4200990,
+    "HTML": 587209,
+    "JavaScript": 100521,
+    "Python": 89859,
+    "SCSS": 24221,
+    "Dockerfile": 9619,
+    "Smarty": 1782,
+    "Shell": 823,
+    "Makefile": 565
+  },
+  "size": 5015589
+}

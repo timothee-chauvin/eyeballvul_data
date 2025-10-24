@@ -1,0 +1,27 @@
+{
+  "commit": "655cdb2701bc5a79cb81ede04c932b89bd2e7a6e",
+  "repo_url": "https://gitlab.com/wireshark/wireshark",
+  "date": "2021-12-29T22:07:02",
+  "languages": {
+    "C": 206411660,
+    "C++": 5316108,
+    "Python": 2315886,
+    "Perl": 919425,
+    "CMake": 586974,
+    "SourcePawn": 425028,
+    "Lua": 393465,
+    "Shell": 235132,
+    "Lex": 207320,
+    "NSIS": 88531,
+    "CSS": 40670,
+    "PowerShell": 27304,
+    "HTML": 14105,
+    "XSLT": 11942,
+    "PostScript": 6954,
+    "Ruby": 6204,
+    "Objective-C": 2421,
+    "Awk": 1823,
+    "Objective-C++": 1164
+  },
+  "size": 217012116
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "ba730eb184e6e68b870b9f91f4a1f2a56518127a",
+  "repo_url": "https://github.com/prestashop/blockreassurance",
+  "date": "2020-07-17T14:12:46",
+  "languages": {
+    "PHP": 91481,
+    "Smarty": 67644,
+    "JavaScript": 21640,
+    "SCSS": 16190
+  },
+  "size": 196955
+}

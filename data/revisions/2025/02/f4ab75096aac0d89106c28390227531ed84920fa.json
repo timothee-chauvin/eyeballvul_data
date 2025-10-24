@@ -1,0 +1,22 @@
+{
+  "commit": "f4ab75096aac0d89106c28390227531ed84920fa",
+  "repo_url": "https://github.com/jruby/jruby",
+  "date": "2025-02-11T15:04:33",
+  "languages": {
+    "Ruby": 20175478,
+    "Java": 15626046,
+    "Yacc": 1012757,
+    "C": 292918,
+    "Shell": 38266,
+    "M4": 28128,
+    "Lex": 7856,
+    "HTML": 7845,
+    "Makefile": 3095,
+    "sed": 1893,
+    "Tcl": 1262,
+    "CSS": 686,
+    "JavaScript": 661,
+    "Batchfile": 518
+  },
+  "size": 37197409
+}

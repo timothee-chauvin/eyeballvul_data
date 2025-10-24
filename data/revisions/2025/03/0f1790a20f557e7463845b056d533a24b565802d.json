@@ -1,0 +1,14 @@
+{
+  "commit": "0f1790a20f557e7463845b056d533a24b565802d",
+  "repo_url": "https://github.com/kcp-dev/kcp",
+  "date": "2025-03-18T11:21:30",
+  "languages": {
+    "Go": 3075094,
+    "Shell": 116221,
+    "Makefile": 14134,
+    "Starlark": 8581,
+    "Dockerfile": 2604,
+    "Python": 2544
+  },
+  "size": 3219178
+}

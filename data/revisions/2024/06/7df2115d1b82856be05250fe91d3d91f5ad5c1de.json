@@ -1,0 +1,14 @@
+{
+  "commit": "7df2115d1b82856be05250fe91d3d91f5ad5c1de",
+  "repo_url": "https://github.com/teic/teigarage",
+  "date": "2024-06-05T12:16:09",
+  "languages": {
+    "Java": 15652,
+    "Dockerfile": 5480,
+    "HTML": 3431,
+    "Shell": 2131,
+    "JavaScript": 508,
+    "CSS": 202
+  },
+  "size": 27404
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "7d0e6500d86d628e4dd1aa0ad8ec90c3cff6ae55",
+  "repo_url": "https://github.com/demergent-labs/azle",
+  "date": "2025-03-14T01:44:34",
+  "languages": {
+    "TypeScript": 1383185,
+    "HTML": 795682,
+    "Rust": 197546,
+    "JavaScript": 84611,
+    "CSS": 29494,
+    "Shell": 7557,
+    "Python": 819
+  },
+  "size": 2498894
+}

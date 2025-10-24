@@ -1,0 +1,13 @@
+{
+  "commit": "02aabd45d044048bede4e70265779351a56714e9",
+  "repo_url": "https://github.com/yt-dlp/yt-dlp",
+  "date": "2021-04-03T22:25:41",
+  "languages": {
+    "Python": 6130188,
+    "Shell": 7821,
+    "Makefile": 6300,
+    "ActionScript": 4300,
+    "Batchfile": 677
+  },
+  "size": 6149286
+}

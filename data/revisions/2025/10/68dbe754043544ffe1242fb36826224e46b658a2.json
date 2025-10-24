@@ -1,0 +1,14 @@
+{
+  "commit": "68dbe754043544ffe1242fb36826224e46b658a2",
+  "repo_url": "https://github.com/akkadotnet/akka.net",
+  "date": "2025-10-01T17:00:17",
+  "languages": {
+    "C#": 18633448,
+    "F#": 91792,
+    "PowerShell": 9357,
+    "Shell": 4667,
+    "Dockerfile": 268,
+    "Batchfile": 246
+  },
+  "size": 18739778
+}

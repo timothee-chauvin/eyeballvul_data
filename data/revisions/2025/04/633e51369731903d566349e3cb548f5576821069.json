@@ -1,0 +1,15 @@
+{
+  "commit": "633e51369731903d566349e3cb548f5576821069",
+  "repo_url": "https://github.com/olivetin/olivetin",
+  "date": "2025-04-22T13:35:49",
+  "languages": {
+    "Go": 162519,
+    "JavaScript": 71829,
+    "HTML": 11096,
+    "CSS": 11002,
+    "Shell": 3493,
+    "Makefile": 3316,
+    "Dockerfile": 1920
+  },
+  "size": 265175
+}

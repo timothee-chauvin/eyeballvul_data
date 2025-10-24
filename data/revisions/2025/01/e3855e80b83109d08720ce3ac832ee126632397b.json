@@ -1,0 +1,14 @@
+{
+  "commit": "e3855e80b83109d08720ce3ac832ee126632397b",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-dotnet",
+  "date": "2025-01-22T22:47:42",
+  "languages": {
+    "C#": 3044651,
+    "PowerShell": 43281,
+    "Python": 4416,
+    "Shell": 3110,
+    "Dockerfile": 2325,
+    "Batchfile": 490
+  },
+  "size": 3098273
+}

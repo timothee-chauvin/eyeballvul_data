@@ -1,0 +1,10 @@
+{
+  "commit": "e9802c459d3328faae930701480696ade6934a43",
+  "repo_url": "https://github.com/aws/aws-iot-device-sdk-js-v2",
+  "date": "2021-05-18T21:01:01",
+  "languages": {
+    "TypeScript": 109782,
+    "Shell": 3469
+  },
+  "size": 113251
+}

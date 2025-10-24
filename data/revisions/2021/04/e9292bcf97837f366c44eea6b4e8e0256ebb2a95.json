@@ -1,0 +1,13 @@
+{
+  "commit": "e9292bcf97837f366c44eea6b4e8e0256ebb2a95",
+  "repo_url": "https://github.com/baidu/brcc",
+  "date": "2021-04-19T09:28:03",
+  "languages": {
+    "Java": 4122492,
+    "Go": 31453,
+    "HTML": 2324,
+    "Shell": 1347,
+    "Dockerfile": 293
+  },
+  "size": 4157909
+}

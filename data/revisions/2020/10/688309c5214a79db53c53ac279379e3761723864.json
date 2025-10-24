@@ -1,0 +1,12 @@
+{
+  "commit": "688309c5214a79db53c53ac279379e3761723864",
+  "repo_url": "https://github.com/gnome/gdm",
+  "date": "2020-10-13T17:14:21",
+  "languages": {
+    "C": 1327574,
+    "Meson": 36447,
+    "Shell": 4488,
+    "Python": 310
+  },
+  "size": 1368819
+}

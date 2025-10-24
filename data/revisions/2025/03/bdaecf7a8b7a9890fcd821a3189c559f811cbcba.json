@@ -1,0 +1,15 @@
+{
+  "commit": "bdaecf7a8b7a9890fcd821a3189c559f811cbcba",
+  "repo_url": "https://github.com/azuread/microsoft-identity-web",
+  "date": "2025-03-21T17:14:39",
+  "languages": {
+    "C#": 2358851,
+    "JavaScript": 231733,
+    "HTML": 126277,
+    "PowerShell": 44744,
+    "Batchfile": 37617,
+    "CSS": 28884,
+    "ASP.NET": 205
+  },
+  "size": 2828311
+}

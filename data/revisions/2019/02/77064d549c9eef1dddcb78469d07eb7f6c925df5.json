@@ -1,0 +1,13 @@
+{
+  "commit": "77064d549c9eef1dddcb78469d07eb7f6c925df5",
+  "repo_url": "https://github.com/graphql/graphql-playground",
+  "date": "2019-02-23T13:06:12",
+  "languages": {
+    "TypeScript": 556945,
+    "JavaScript": 62499,
+    "HTML": 58142,
+    "Shell": 3194,
+    "CSS": 706
+  },
+  "size": 681486
+}

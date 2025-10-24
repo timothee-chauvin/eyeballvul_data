@@ -1,0 +1,12 @@
+{
+  "commit": "03e2776c9a44b18566069c0532dbdef63c3ab9f0",
+  "repo_url": "https://github.com/cloudfoundry/uaa-release",
+  "date": "2025-04-15T14:01:04",
+  "languages": {
+    "Ruby": 80180,
+    "HTML": 50043,
+    "Shell": 31065,
+    "Go": 16479
+  },
+  "size": 177767
+}

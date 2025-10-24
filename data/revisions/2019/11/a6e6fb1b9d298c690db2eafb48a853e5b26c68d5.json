@@ -1,0 +1,14 @@
+{
+  "commit": "a6e6fb1b9d298c690db2eafb48a853e5b26c68d5",
+  "repo_url": "https://github.com/dinhviethoa/libetpan",
+  "date": "2019-11-01T17:58:50",
+  "languages": {
+    "C": 4173259,
+    "Makefile": 89944,
+    "M4": 26135,
+    "Shell": 24370,
+    "C++": 9720,
+    "Batchfile": 150
+  },
+  "size": 4323578
+}

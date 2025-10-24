@@ -1,0 +1,15 @@
+{
+  "commit": "c979ae7d8d2b93dffd7dd598aed40871fd903768",
+  "repo_url": "https://github.com/mydumper/mydumper",
+  "date": "2025-03-13T12:59:08",
+  "languages": {
+    "C": 730407,
+    "Shell": 46259,
+    "CMake": 30895,
+    "Dockerfile": 11041,
+    "C++": 265,
+    "HTML": 124,
+    "Makefile": 85
+  },
+  "size": 819076
+}

@@ -1,12 +1,12 @@
 {
   "id": "OSV-2022-763",
   "published": "2022-08-21T00:00:23.656015",
-  "modified": "2025-09-25T14:23:21.709969",
+  "modified": "2025-10-24T14:24:19.873114",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=50466\n\n```\nCrash type: Heap-buffer-overflow READ {*}\nCrash state:\nsqlite3VdbeExec\nsqlite3_step\nosquery::readRows\n```\n",
   "summary": "Heap-buffer-overflow in sqlite3VdbeExec",
   "repo_url": "https://github.com/osquery/osquery",
   "cwes": [],
   "commits": [
-    "09d02a6ee8579d3d5bf2c87c9d749b77ab182329"
+    "f4fd92fbc2648eb914859dff57f38b1fe1ff99d8"
   ]
 }

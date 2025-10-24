@@ -1,0 +1,10 @@
+{
+  "commit": "5b357d5effb4aba08ccf7109e1f9bc8b5e199139",
+  "repo_url": "https://github.com/ossf/allstar",
+  "date": "2025-05-20T21:04:06",
+  "languages": {
+    "Go": 471924,
+    "Shell": 128
+  },
+  "size": 472052
+}

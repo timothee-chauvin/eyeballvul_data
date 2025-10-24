@@ -1,0 +1,15 @@
+{
+  "commit": "fb98d86bbf8919949b61ffbe64bc9f4fd7b7a12c",
+  "repo_url": "https://github.com/code16/sharp",
+  "date": "2025-08-04T17:08:09",
+  "languages": {
+    "PHP": 1648161,
+    "Vue": 606585,
+    "TypeScript": 229741,
+    "JavaScript": 21789,
+    "CSS": 15055,
+    "Blade": 10967,
+    "Shell": 155
+  },
+  "size": 2532453
+}

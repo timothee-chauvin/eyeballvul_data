@@ -1,0 +1,16 @@
+{
+  "commit": "5c08f77f5e23711e0afc5660b3042d3d77886e37",
+  "repo_url": "https://github.com/oroinc/orocommerce",
+  "date": "2023-03-16T16:03:44",
+  "languages": {
+    "PHP": 29466228,
+    "Gherkin": 2795009,
+    "JavaScript": 1587453,
+    "Twig": 1058508,
+    "SCSS": 428136,
+    "HTML": 141983,
+    "CSS": 2996,
+    "Shell": 380
+  },
+  "size": 35480693
+}

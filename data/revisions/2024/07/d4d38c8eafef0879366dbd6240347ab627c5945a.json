@@ -1,0 +1,13 @@
+{
+  "commit": "d4d38c8eafef0879366dbd6240347ab627c5945a",
+  "repo_url": "https://github.com/clastix/kamaji",
+  "date": "2024-07-30T21:07:03",
+  "languages": {
+    "Go": 535980,
+    "Makefile": 23119,
+    "Smarty": 10345,
+    "Dockerfile": 1285,
+    "Shell": 1109
+  },
+  "size": 571838
+}

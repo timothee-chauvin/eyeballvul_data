@@ -1,0 +1,16 @@
+{
+  "commit": "d9e768100460dabb8016288ca17f22bdbada3a53",
+  "repo_url": "https://github.com/redlib-org/redlib",
+  "date": "2024-06-29T17:28:18",
+  "languages": {
+    "Rust": 168603,
+    "HTML": 58411,
+    "CSS": 34125,
+    "Shell": 5915,
+    "JavaScript": 4477,
+    "Nix": 1887,
+    "Python": 850,
+    "Dockerfile": 513
+  },
+  "size": 274781
+}

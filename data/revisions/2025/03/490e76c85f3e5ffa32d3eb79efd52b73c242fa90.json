@@ -1,0 +1,16 @@
+{
+  "commit": "490e76c85f3e5ffa32d3eb79efd52b73c242fa90",
+  "repo_url": "https://github.com/element-hq/element-x-android",
+  "date": "2025-03-26T10:48:15",
+  "languages": {
+    "Kotlin": 9451474,
+    "Python": 55971,
+    "Shell": 34241,
+    "JavaScript": 17574,
+    "Java": 9199,
+    "HTML": 8998,
+    "CSS": 2105,
+    "Ruby": 44
+  },
+  "size": 9579606
+}

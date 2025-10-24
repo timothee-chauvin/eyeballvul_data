@@ -1,0 +1,18 @@
+{
+  "commit": "0c93032e3133c67b1803b018370b7cb2af8c4429",
+  "repo_url": "https://github.com/vmware-archive/xenon",
+  "date": "2017-12-07T17:57:27",
+  "languages": {
+    "Java": 5533187,
+    "JavaScript": 504514,
+    "TypeScript": 456177,
+    "HTML": 100032,
+    "SCSS": 99120,
+    "Shell": 24977,
+    "CSS": 16505,
+    "Lua": 1785,
+    "Makefile": 1427,
+    "Dockerfile": 422
+  },
+  "size": 6738146
+}
