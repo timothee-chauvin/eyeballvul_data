@@ -1,0 +1,14 @@
+{
+  "commit": "06979867d50edf49ea335fe960cdb9b1d4928a8d",
+  "repo_url": "https://github.com/fluxcd/helm-controller",
+  "date": "2023-06-22T11:05:44",
+  "languages": {
+    "Go": 248127,
+    "Makefile": 5954,
+    "Smarty": 4780,
+    "Shell": 1898,
+    "Dockerfile": 844,
+    "Ruby": 250
+  },
+  "size": 261853
+}

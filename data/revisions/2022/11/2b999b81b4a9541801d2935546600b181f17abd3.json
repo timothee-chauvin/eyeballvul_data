@@ -1,0 +1,12 @@
+{
+  "commit": "2b999b81b4a9541801d2935546600b181f17abd3",
+  "repo_url": "https://github.com/snyk/snyk-docker-plugin",
+  "date": "2022-11-15T14:46:31",
+  "languages": {
+    "TypeScript": 406276,
+    "JavaScript": 1781,
+    "Shell": 1161,
+    "Dockerfile": 169
+  },
+  "size": 409387
+}

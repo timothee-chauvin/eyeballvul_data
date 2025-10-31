@@ -1,0 +1,13 @@
+{
+  "commit": "5cd5978c79dfbf9df638b684da317c4b149efca0",
+  "repo_url": "https://github.com/taigaio/taiga-back",
+  "date": "2025-04-14T12:12:02",
+  "languages": {
+    "Python": 4444094,
+    "Jinja": 133808,
+    "Shell": 4255,
+    "Dockerfile": 3101,
+    "CSS": 1290
+  },
+  "size": 4586548
+}

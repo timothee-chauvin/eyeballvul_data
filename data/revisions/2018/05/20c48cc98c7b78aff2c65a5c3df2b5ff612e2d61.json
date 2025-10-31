@@ -1,0 +1,18 @@
+{
+  "commit": "20c48cc98c7b78aff2c65a5c3df2b5ff612e2d61",
+  "repo_url": "https://github.com/cloudfoundry/diego-release",
+  "date": "2018-05-23T21:00:49",
+  "languages": {
+    "Go": 7032272,
+    "Shell": 229844,
+    "HTML": 63547,
+    "Dockerfile": 51584,
+    "PowerShell": 26437,
+    "Makefile": 11292,
+    "C": 4815,
+    "Vim Script": 1363,
+    "Ruby": 510,
+    "Assembly": 81
+  },
+  "size": 7421745
+}

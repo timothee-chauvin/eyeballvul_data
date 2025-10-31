@@ -1,0 +1,18 @@
+{
+  "commit": "3939721189fddbbef61b6565e7669d29b644bdfc",
+  "repo_url": "https://github.com/karmada-io/dashboard",
+  "date": "2025-02-24T07:35:19",
+  "languages": {
+    "Go": 486245,
+    "TypeScript": 308479,
+    "Shell": 96231,
+    "JavaScript": 32349,
+    "Makefile": 5552,
+    "Smarty": 3450,
+    "Dockerfile": 2686,
+    "Less": 2100,
+    "HTML": 1191,
+    "CSS": 627
+  },
+  "size": 938910
+}

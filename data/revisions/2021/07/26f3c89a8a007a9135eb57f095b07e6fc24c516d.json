@@ -1,0 +1,17 @@
+{
+  "commit": "26f3c89a8a007a9135eb57f095b07e6fc24c516d",
+  "repo_url": "https://github.com/querydsl/querydsl",
+  "date": "2021-07-19T22:25:53",
+  "languages": {
+    "Java": 6482269,
+    "Scala": 135150,
+    "Kotlin": 79434,
+    "XSLT": 35687,
+    "CSS": 3436,
+    "Shell": 2068,
+    "Clojure": 1890,
+    "Puppet": 1212,
+    "Ruby": 389
+  },
+  "size": 6741535
+}

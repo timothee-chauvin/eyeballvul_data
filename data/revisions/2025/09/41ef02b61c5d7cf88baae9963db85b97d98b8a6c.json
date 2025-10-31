@@ -1,0 +1,15 @@
+{
+  "commit": "41ef02b61c5d7cf88baae9963db85b97d98b8a6c",
+  "repo_url": "https://github.com/leepeuker/movary",
+  "date": "2025-09-14T15:44:43",
+  "languages": {
+    "PHP": 1120066,
+    "Twig": 259620,
+    "JavaScript": 158623,
+    "Makefile": 3347,
+    "CSS": 2932,
+    "Dockerfile": 2614,
+    "Shell": 1375
+  },
+  "size": 1548577
+}

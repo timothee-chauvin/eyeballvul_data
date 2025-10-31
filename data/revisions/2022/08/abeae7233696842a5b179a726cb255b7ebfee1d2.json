@@ -1,0 +1,25 @@
+{
+  "commit": "abeae7233696842a5b179a726cb255b7ebfee1d2",
+  "repo_url": "https://github.com/brave/brave-core",
+  "date": "2022-08-08T04:01:14",
+  "languages": {
+    "C++": 14500009,
+    "TypeScript": 4118361,
+    "C": 3087965,
+    "Java": 3033193,
+    "HTML": 1110790,
+    "Objective-C++": 597413,
+    "JavaScript": 511241,
+    "Python": 451684,
+    "Rust": 342523,
+    "Objective-C": 221364,
+    "CSS": 63177,
+    "Shell": 16332,
+    "Jinja": 9457,
+    "Roff": 8880,
+    "SCSS": 5197,
+    "Smarty": 2144,
+    "Makefile": 1238
+  },
+  "size": 28080968
+}

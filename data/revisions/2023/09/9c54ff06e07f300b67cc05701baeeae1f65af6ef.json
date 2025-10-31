@@ -1,0 +1,20 @@
+{
+  "commit": "9c54ff06e07f300b67cc05701baeeae1f65af6ef",
+  "repo_url": "https://github.com/edgelesssys/constellation",
+  "date": "2023-09-14T08:16:45",
+  "languages": {
+    "Go": 3462376,
+    "Starlark": 828464,
+    "Shell": 614875,
+    "HCL": 137451,
+    "Smarty": 17734,
+    "Mustache": 16648,
+    "Makefile": 15340,
+    "XSLT": 5505,
+    "Dockerfile": 3261,
+    "CMake": 629,
+    "Python": 520,
+    "Nix": 421
+  },
+  "size": 5103224
+}

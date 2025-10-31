@@ -1,0 +1,14 @@
+{
+  "commit": "be8c7e6c60c6dad95527fa4a338a1490ea5f3f97",
+  "repo_url": "https://github.com/docker/compose",
+  "date": "2025-10-17T13:07:37",
+  "languages": {
+    "Go": 1233656,
+    "Dockerfile": 29734,
+    "Makefile": 6033,
+    "HCL": 3084,
+    "HTML": 658,
+    "Shell": 654
+  },
+  "size": 1273819
+}

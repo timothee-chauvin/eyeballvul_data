@@ -1,0 +1,31 @@
+{
+  "commit": "31374105940bb15a68683a0ae691e7fe1f9b049a",
+  "repo_url": "https://github.com/qt/qtbase",
+  "date": "2017-05-19T17:40:12",
+  "languages": {
+    "C++": 80400427,
+    "HTML": 5186950,
+    "C": 4151907,
+    "Objective-C++": 1742365,
+    "QMake": 520309,
+    "Java": 385277,
+    "Python": 168295,
+    "Objective-C": 109215,
+    "Assembly": 107910,
+    "GAP": 102807,
+    "CMake": 94046,
+    "Perl": 89985,
+    "Shell": 43011,
+    "XSLT": 19124,
+    "Batchfile": 11139,
+    "Lex": 7045,
+    "AIDL": 6828,
+    "Roff": 6040,
+    "Makefile": 3590,
+    "CSS": 3347,
+    "Prolog": 1321,
+    "QML": 1308,
+    "Brainfuck": 17
+  },
+  "size": 93162263
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "2e55ca7850c8571d65a856246bf516dfea1ec123",
+  "repo_url": "https://github.com/mongodb/mongo-bi-connector-odbc-driver",
+  "date": "2025-10-02T20:47:56",
+  "languages": {
+    "C": 19664711,
+    "C++": 257525,
+    "Rich Text Format": 213169,
+    "CMake": 183241,
+    "Shell": 84232,
+    "Pascal": 42159,
+    "Batchfile": 17445,
+    "PowerShell": 16553,
+    "Python": 10115,
+    "Perl": 3038,
+    "Makefile": 2647
+  },
+  "size": 20494835
+}
