@@ -1,0 +1,19 @@
+{
+  "commit": "6823aabf929315f0a2b0615797edc4722c0e05df",
+  "repo_url": "https://github.com/snipe/snipe-it",
+  "date": "2024-05-13T09:53:07",
+  "languages": {
+    "PHP": 15232043,
+    "JavaScript": 2074997,
+    "Blade": 1488151,
+    "Less": 273408,
+    "CSS": 145635,
+    "Shell": 37254,
+    "Vue": 28656,
+    "Dockerfile": 4407,
+    "Python": 522,
+    "Jinja": 229,
+    "Procfile": 57
+  },
+  "size": 19285359
+}

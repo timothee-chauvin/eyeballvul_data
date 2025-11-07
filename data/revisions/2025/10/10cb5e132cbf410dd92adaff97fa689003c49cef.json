@@ -1,0 +1,14 @@
+{
+  "commit": "10cb5e132cbf410dd92adaff97fa689003c49cef",
+  "repo_url": "https://github.com/privatebin/privatebin",
+  "date": "2025-10-12T09:53:31",
+  "languages": {
+    "PHP": 505805,
+    "JavaScript": 366270,
+    "CSS": 175244,
+    "Makefile": 2180,
+    "Shell": 524,
+    "Procfile": 35
+  },
+  "size": 1050058
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "1487dcbadcf6275f3ec32d40ff183f495f74c728",
+  "repo_url": "https://github.com/ajbura/cinny",
+  "date": "2021-11-14T08:05:01",
+  "languages": {
+    "JavaScript": 351829,
+    "SCSS": 76698,
+    "HTML": 1292,
+    "Dockerfile": 383
+  },
+  "size": 430202
+}

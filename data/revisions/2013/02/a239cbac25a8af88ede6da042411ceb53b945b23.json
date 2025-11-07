@@ -1,0 +1,11 @@
+{
+  "commit": "a239cbac25a8af88ede6da042411ceb53b945b23",
+  "repo_url": "https://github.com/theforeman/foreman-installer",
+  "date": "2013-02-08T17:03:21",
+  "languages": {
+    "Ruby": 9950,
+    "Puppet": 1709,
+    "Shell": 111
+  },
+  "size": 11770
+}

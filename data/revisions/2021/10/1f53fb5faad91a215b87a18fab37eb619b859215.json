@@ -1,0 +1,17 @@
+{
+  "commit": "1f53fb5faad91a215b87a18fab37eb619b859215",
+  "repo_url": "https://github.com/nordaaker/convos",
+  "date": "2021-10-01T21:51:15",
+  "languages": {
+    "Perl": 789599,
+    "JavaScript": 225326,
+    "Svelte": 112032,
+    "SCSS": 42608,
+    "CSS": 21584,
+    "Raku": 1050,
+    "Dockerfile": 924,
+    "HTML": 279,
+    "Shell": 130
+  },
+  "size": 1193532
+}

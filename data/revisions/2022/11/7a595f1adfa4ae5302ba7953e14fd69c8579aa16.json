@@ -1,0 +1,20 @@
+{
+  "commit": "7a595f1adfa4ae5302ba7953e14fd69c8579aa16",
+  "repo_url": "https://github.com/lldpd/lldpd",
+  "date": "2022-11-11T13:25:30",
+  "languages": {
+    "C": 1463414,
+    "Python": 130649,
+    "M4": 75810,
+    "Roff": 45050,
+    "Shell": 16162,
+    "Makefile": 15174,
+    "Nix": 2831,
+    "Ruby": 2729,
+    "HTML": 1429,
+    "Dockerfile": 873,
+    "Awk": 784,
+    "Emacs Lisp": 118
+  },
+  "size": 1755023
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "fc6886d3b3c4308a78a896ccde1c99648db4953a",
+  "repo_url": "https://github.com/probot/probot",
+  "date": "2023-11-14T09:02:57",
+  "languages": {
+    "TypeScript": 123012,
+    "Handlebars": 8934,
+    "Shell": 1118,
+    "JavaScript": 908
+  },
+  "size": 133972
+}

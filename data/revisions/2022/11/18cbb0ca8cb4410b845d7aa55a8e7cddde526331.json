@@ -1,0 +1,11 @@
+{
+  "commit": "18cbb0ca8cb4410b845d7aa55a8e7cddde526331",
+  "repo_url": "https://github.com/snyk/snyk-ls",
+  "date": "2022-11-09T09:44:26",
+  "languages": {
+    "Go": 615165,
+    "Makefile": 4516,
+    "Shell": 1483
+  },
+  "size": 621164
+}

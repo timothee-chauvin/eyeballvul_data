@@ -1,0 +1,14 @@
+{
+  "commit": "629a50eeec4eb99909b217e1ee5916250edba6a2",
+  "repo_url": "https://github.com/turtl/desktop",
+  "date": "2019-04-15T00:25:12",
+  "languages": {
+    "JavaScript": 174436,
+    "Shell": 9866,
+    "Makefile": 3513,
+    "CSS": 1122,
+    "Smarty": 589,
+    "Batchfile": 48
+  },
+  "size": 189574
+}

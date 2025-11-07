@@ -1,0 +1,17 @@
+{
+  "commit": "e2888d269dedca7999692320a081b9e243083f8e",
+  "repo_url": "https://github.com/react-native-community/cli",
+  "date": "2025-07-24T08:19:35",
+  "languages": {
+    "TypeScript": 655929,
+    "JavaScript": 13463,
+    "HTML": 7393,
+    "Java": 3903,
+    "Kotlin": 2872,
+    "Shell": 641,
+    "Objective-C": 574,
+    "Ruby": 313,
+    "Batchfile": 112
+  },
+  "size": 685200
+}

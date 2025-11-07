@@ -1,0 +1,16 @@
+{
+  "commit": "a99fb0c95f3372b81164a1aaed29e89bfd9bda94",
+  "repo_url": "https://github.com/gpp-woo/gpp-burgerportaal",
+  "date": "2025-09-03T10:05:15",
+  "languages": {
+    "C#": 71410,
+    "Vue": 69514,
+    "TypeScript": 30687,
+    "SCSS": 7986,
+    "Dockerfile": 1531,
+    "CSS": 1201,
+    "JavaScript": 1100,
+    "HTML": 621
+  },
+  "size": 184050
+}

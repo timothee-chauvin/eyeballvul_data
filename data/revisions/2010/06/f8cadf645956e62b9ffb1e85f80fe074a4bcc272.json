@@ -1,0 +1,19 @@
+{
+  "commit": "f8cadf645956e62b9ffb1e85f80fe074a4bcc272",
+  "repo_url": "https://github.com/gnome/evolution",
+  "date": "2010-06-10T07:40:10",
+  "languages": {
+    "C": 13020772,
+    "Makefile": 171704,
+    "M4": 72713,
+    "TeX": 50557,
+    "C#": 41787,
+    "DIGITAL Command Language": 12567,
+    "Shell": 3604,
+    "Roff": 1762,
+    "C++": 957,
+    "NewLisp": 894,
+    "Python": 146
+  },
+  "size": 13377463
+}

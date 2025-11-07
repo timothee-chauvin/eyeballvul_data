@@ -1,0 +1,20 @@
+{
+  "commit": "340378ebe9e370dd471d72782fbebdff46bc430f",
+  "repo_url": "https://github.com/fermyon/spin",
+  "date": "2024-04-04T00:38:04",
+  "languages": {
+    "Rust": 1537429,
+    "Makefile": 4158,
+    "Dockerfile": 3741,
+    "Python": 3476,
+    "HCL": 3300,
+    "Go": 1972,
+    "Nix": 1086,
+    "Shell": 1049,
+    "C": 928,
+    "Swift": 389,
+    "Zig": 205,
+    "PHP": 36
+  },
+  "size": 1557769
+}

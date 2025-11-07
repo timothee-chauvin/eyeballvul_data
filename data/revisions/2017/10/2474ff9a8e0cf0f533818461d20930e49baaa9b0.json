@@ -1,0 +1,14 @@
+{
+  "commit": "2474ff9a8e0cf0f533818461d20930e49baaa9b0",
+  "repo_url": "https://github.com/contao/core",
+  "date": "2017-10-06T07:03:27",
+  "languages": {
+    "PHP": 3399337,
+    "JavaScript": 1273856,
+    "CSS": 249316,
+    "HTML": 104643,
+    "Shell": 15238,
+    "SCSS": 6574
+  },
+  "size": 5048964
+}

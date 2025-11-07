@@ -1,0 +1,14 @@
+{
+  "commit": "69e5c2cca9c025fdc978dde542be30f582f4982e",
+  "repo_url": "https://github.com/roxy-wi/roxy-wi",
+  "date": "2024-09-02T07:46:50",
+  "languages": {
+    "Python": 793382,
+    "HTML": 755330,
+    "JavaScript": 368988,
+    "CSS": 69935,
+    "Jinja": 44812,
+    "Shell": 8508
+  },
+  "size": 2040955
+}

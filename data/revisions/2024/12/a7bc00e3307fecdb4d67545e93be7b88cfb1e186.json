@@ -1,0 +1,16 @@
+{
+  "commit": "a7bc00e3307fecdb4d67545e93be7b88cfb1e186",
+  "repo_url": "https://github.com/yhirose/cpp-httplib.git",
+  "date": "2024-12-03T11:33:00",
+  "languages": {
+    "C++": 2406195,
+    "CMake": 28300,
+    "Meson": 9514,
+    "Makefile": 8183,
+    "Python": 1992,
+    "Shell": 1475,
+    "HTML": 938,
+    "Dockerfile": 531
+  },
+  "size": 2457128
+}

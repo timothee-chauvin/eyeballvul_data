@@ -1,0 +1,23 @@
+{
+  "commit": "4ad2a0533399bfc9e9408abe8fa33e2aad041fd5",
+  "repo_url": "https://github.com/apache/incubator-superset",
+  "date": "2023-10-03T16:13:47",
+  "languages": {
+    "TypeScript": 8778674,
+    "Python": 7247775,
+    "Jupyter Notebook": 2997612,
+    "JavaScript": 2332923,
+    "HTML": 1244490,
+    "Less": 56991,
+    "Shell": 53427,
+    "MDX": 17231,
+    "Dockerfile": 6667,
+    "Jinja": 5542,
+    "CSS": 4776,
+    "Makefile": 4192,
+    "Smarty": 4183,
+    "Pug": 2969,
+    "Mako": 1197
+  },
+  "size": 22758649
+}

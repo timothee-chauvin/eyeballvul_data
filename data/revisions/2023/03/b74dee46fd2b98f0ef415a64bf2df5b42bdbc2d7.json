@@ -1,6 +1,6 @@
 {
   "commit": "b74dee46fd2b98f0ef415a64bf2df5b42bdbc2d7",
-  "repo_url": "https://github.com/mperham/sidekiq",
+  "repo_url": "https://github.com/sidekiq/sidekiq",
   "date": "2023-03-13T17:58:15",
   "languages": {
     "Ruby": 447856,

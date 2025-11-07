@@ -1,0 +1,12 @@
+{
+  "commit": "ed322876aefbf8b75e6d74891b9b6917b21f14dd",
+  "repo_url": "https://github.com/3scale-sre/marin3r",
+  "date": "2025-05-27T15:29:26",
+  "languages": {
+    "Go": 899919,
+    "Makefile": 24604,
+    "Shell": 2322,
+    "Dockerfile": 1722
+  },
+  "size": 928567
+}

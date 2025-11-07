@@ -1,0 +1,11 @@
+{
+  "commit": "0f65b22bc137a697e8615a9e268a534578a756dc",
+  "repo_url": "https://github.com/theforeman/smart-proxy",
+  "date": "2017-10-24T14:36:00",
+  "languages": {
+    "Ruby": 739277,
+    "Shell": 5382,
+    "Puppet": 538
+  },
+  "size": 745197
+}

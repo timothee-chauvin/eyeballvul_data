@@ -1,0 +1,15 @@
+{
+  "commit": "b6736802f3ff1acdc3f1ebcddb7a3da85e293edf",
+  "repo_url": "https://github.com/jon4hz/jellysweep",
+  "date": "2025-10-24T15:37:34",
+  "languages": {
+    "Go": 325778,
+    "HTML": 8841,
+    "JavaScript": 5892,
+    "CSS": 4548,
+    "Shell": 1977,
+    "Dockerfile": 994,
+    "Makefile": 457
+  },
+  "size": 348487
+}

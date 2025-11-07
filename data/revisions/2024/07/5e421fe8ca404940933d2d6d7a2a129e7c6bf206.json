@@ -1,0 +1,16 @@
+{
+  "commit": "5e421fe8ca404940933d2d6d7a2a129e7c6bf206",
+  "repo_url": "https://github.com/data-dot-all/dataall",
+  "date": "2024-07-16T15:37:41",
+  "languages": {
+    "Python": 3054293,
+    "JavaScript": 1498783,
+    "Dockerfile": 11659,
+    "Shell": 5227,
+    "Makefile": 4002,
+    "Batchfile": 871,
+    "HTML": 780,
+    "Mako": 494
+  },
+  "size": 4576109
+}

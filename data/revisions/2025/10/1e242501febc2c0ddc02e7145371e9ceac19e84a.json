@@ -1,0 +1,13 @@
+{
+  "commit": "1e242501febc2c0ddc02e7145371e9ceac19e84a",
+  "repo_url": "https://github.com/matiasdesuu/thinkdashboard",
+  "date": "2025-10-30T16:45:45",
+  "languages": {
+    "JavaScript": 291130,
+    "CSS": 68784,
+    "HTML": 62398,
+    "Go": 50957,
+    "Dockerfile": 1036
+  },
+  "size": 474305
+}
