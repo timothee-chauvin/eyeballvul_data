@@ -1,0 +1,14 @@
+{
+  "commit": "eb67323bffb00c1e3a53f12b72992554b22df460",
+  "repo_url": "https://github.com/codesiddhant/jasmin-ransomware",
+  "date": "2021-02-28T04:59:18",
+  "languages": {
+    "C#": 46386,
+    "PHP": 39175,
+    "CSS": 28008,
+    "HTML": 24795,
+    "JavaScript": 1519,
+    "Hack": 439
+  },
+  "size": 140322
+}

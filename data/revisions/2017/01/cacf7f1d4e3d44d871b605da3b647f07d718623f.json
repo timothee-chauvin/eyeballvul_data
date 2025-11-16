@@ -1,0 +1,24 @@
+{
+  "commit": "cacf7f1d4e3d44d871b605da3b647f07d718623f",
+  "repo_url": "https://github.com/madler/zlib",
+  "date": "2017-01-15T17:29:40",
+  "languages": {
+    "C": 999789,
+    "Assembly": 141281,
+    "Ada": 89079,
+    "Pascal": 75208,
+    "C#": 55627,
+    "C++": 45276,
+    "Makefile": 29622,
+    "DIGITAL Command Language": 27303,
+    "Shell": 10727,
+    "CMake": 8099,
+    "Roff": 7800,
+    "Perl": 3895,
+    "SAS": 1847,
+    "Module Management System": 1545,
+    "M4": 787,
+    "Batchfile": 178
+  },
+  "size": 1498063
+}

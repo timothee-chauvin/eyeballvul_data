@@ -1,0 +1,18 @@
+{
+  "commit": "de1f5631969481cfc3d5c15a0ffd8834a2bcd36d",
+  "repo_url": "https://github.com/bitfoundation/bitplatform",
+  "date": "2025-08-06T14:45:23",
+  "languages": {
+    "C#": 6458402,
+    "HTML": 2833773,
+    "SCSS": 918935,
+    "TypeScript": 232341,
+    "Smalltalk": 207272,
+    "JavaScript": 29571,
+    "CSS": 17973,
+    "Batchfile": 9742,
+    "Shell": 6608,
+    "PowerShell": 3309
+  },
+  "size": 10717926
+}

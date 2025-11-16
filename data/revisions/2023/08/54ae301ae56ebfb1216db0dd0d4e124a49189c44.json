@@ -1,0 +1,14 @@
+{
+  "commit": "54ae301ae56ebfb1216db0dd0d4e124a49189c44",
+  "repo_url": "https://github.com/eclipse-pde/eclipse.pde",
+  "date": "2023-08-25T13:54:20",
+  "languages": {
+    "Java": 23253654,
+    "HTML": 72858,
+    "XSLT": 20815,
+    "CSS": 12820,
+    "JavaScript": 7081,
+    "Shell": 4197
+  },
+  "size": 23371425
+}

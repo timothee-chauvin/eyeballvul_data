@@ -1,0 +1,15 @@
+{
+  "commit": "9a1341642fa3e61891f50603af8d3217652059cd",
+  "repo_url": "https://github.com/cloudcannon/pagefind",
+  "date": "2024-08-17T01:26:47",
+  "languages": {
+    "Rust": 1153616,
+    "JavaScript": 77120,
+    "TypeScript": 43427,
+    "Svelte": 36422,
+    "CSS": 24490,
+    "Shell": 3906,
+    "HTML": 2546
+  },
+  "size": 1341527
+}

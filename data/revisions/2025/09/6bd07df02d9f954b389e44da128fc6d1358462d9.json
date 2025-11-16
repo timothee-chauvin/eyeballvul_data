@@ -1,0 +1,13 @@
+{
+  "commit": "6bd07df02d9f954b389e44da128fc6d1358462d9",
+  "repo_url": "https://github.com/vercel/ai",
+  "date": "2025-09-23T23:22:17",
+  "languages": {
+    "TypeScript": 5797453,
+    "MDX": 2484829,
+    "JavaScript": 33699,
+    "Vue": 12389,
+    "Svelte": 927
+  },
+  "size": 8329297
+}

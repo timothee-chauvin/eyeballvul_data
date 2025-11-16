@@ -1,0 +1,10 @@
+{
+  "commit": "e4caeeffdbc19d9db0e4eb10a5e109acf1017fe5",
+  "repo_url": "https://github.com/cloudfoundry/cf-deployment",
+  "date": "2024-05-24T09:24:31",
+  "languages": {
+    "Go": 29799,
+    "Shell": 8248
+  },
+  "size": 38047
+}

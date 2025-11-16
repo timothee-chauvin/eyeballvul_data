@@ -1,0 +1,18 @@
+{
+  "commit": "0684f3af15f96b3e4b03d4044cea6ca0d25e495c",
+  "repo_url": "https://github.com/serghey-rodin/vesta",
+  "date": "2016-11-15T10:19:32",
+  "languages": {
+    "PHP": 2006026,
+    "Shell": 1192945,
+    "HTML": 936409,
+    "Smarty": 829548,
+    "JavaScript": 338756,
+    "CSS": 66738,
+    "C++": 14935,
+    "C": 3349,
+    "CoffeeScript": 2660,
+    "Hack": 11
+  },
+  "size": 5391377
+}

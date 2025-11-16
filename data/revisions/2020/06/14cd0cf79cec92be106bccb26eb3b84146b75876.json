@@ -1,0 +1,15 @@
+{
+  "commit": "14cd0cf79cec92be106bccb26eb3b84146b75876",
+  "repo_url": "https://github.com/ec-cube/ec-cube3",
+  "date": "2020-06-25T03:15:11",
+  "languages": {
+    "PHP": 3794843,
+    "Twig": 861230,
+    "CSS": 202178,
+    "HTML": 83097,
+    "JavaScript": 67451,
+    "Shell": 8049,
+    "Procfile": 57
+  },
+  "size": 5016905
+}

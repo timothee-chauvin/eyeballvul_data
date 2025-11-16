@@ -1,0 +1,20 @@
+{
+  "commit": "62876fc6d93e891aa7fbe19771e6a6c03773b0f7",
+  "repo_url": "https://github.com/kubernetes/kubernetes",
+  "date": "2020-10-15T01:43:02",
+  "languages": {
+    "Go": 51473290,
+    "Starlark": 3845647,
+    "Shell": 1624961,
+    "PowerShell": 118269,
+    "Makefile": 57805,
+    "Dockerfile": 42841,
+    "Python": 23490,
+    "Lua": 17200,
+    "C": 2840,
+    "sed": 1390,
+    "Ruby": 413,
+    "HTML": 38
+  },
+  "size": 57208184
+}

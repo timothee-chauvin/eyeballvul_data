@@ -1,0 +1,14 @@
+{
+  "commit": "1bce4f874fadac8a8d65f7d80270323ca858b261",
+  "repo_url": "https://github.com/automattic/newspack-plugin",
+  "date": "2024-05-15T20:12:11",
+  "languages": {
+    "PHP": 1341034,
+    "JavaScript": 624119,
+    "SCSS": 109119,
+    "TypeScript": 42791,
+    "Shell": 5513,
+    "CSS": 308
+  },
+  "size": 2122884
+}

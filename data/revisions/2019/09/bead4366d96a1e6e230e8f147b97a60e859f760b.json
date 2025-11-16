@@ -1,0 +1,13 @@
+{
+  "commit": "bead4366d96a1e6e230e8f147b97a60e859f760b",
+  "repo_url": "https://github.com/openstack/murano-dashboard.git",
+  "date": "2019-09-27T06:33:09",
+  "languages": {
+    "Python": 888810,
+    "JavaScript": 79784,
+    "HTML": 55308,
+    "CSS": 10238,
+    "Shell": 3541
+  },
+  "size": 1037681
+}

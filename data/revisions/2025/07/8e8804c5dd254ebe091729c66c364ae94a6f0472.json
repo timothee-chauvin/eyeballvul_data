@@ -1,0 +1,17 @@
+{
+  "commit": "8e8804c5dd254ebe091729c66c364ae94a6f0472",
+  "repo_url": "https://github.com/aws/res",
+  "date": "2025-07-18T02:07:15",
+  "languages": {
+    "Python": 5960820,
+    "TypeScript": 2092408,
+    "Shell": 186697,
+    "Go": 59863,
+    "PowerShell": 31892,
+    "Jinja": 8127,
+    "Dockerfile": 4568,
+    "HTML": 2822,
+    "C": 2637
+  },
+  "size": 8349834
+}

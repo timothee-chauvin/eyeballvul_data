@@ -1,0 +1,14 @@
+{
+  "commit": "4973d6a7e15d42e9ed368201acce1660c5651948",
+  "repo_url": "https://github.com/kubernetes-sigs/aws-efs-csi-driver",
+  "date": "2022-12-02T20:42:07",
+  "languages": {
+    "Go": 257491,
+    "Shell": 26750,
+    "Python": 7331,
+    "Makefile": 4994,
+    "Dockerfile": 3095,
+    "Mustache": 1737
+  },
+  "size": 301398
+}

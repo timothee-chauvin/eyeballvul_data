@@ -1,0 +1,15 @@
+{
+  "commit": "9f93ffa7ef1465f4324e35fcfe638f33a052e286",
+  "repo_url": "https://github.com/gardener/gardener-extension-provider-openstack",
+  "date": "2025-07-16T12:28:27",
+  "languages": {
+    "Go": 971111,
+    "Shell": 15857,
+    "Makefile": 9208,
+    "HCL": 8651,
+    "Smarty": 5388,
+    "Python": 3666,
+    "Dockerfile": 1046
+  },
+  "size": 1014927
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "cb6e97876a27582b7117120fc2540bcfb88590c8",
+  "repo_url": "https://github.com/ury-erp/ury",
+  "date": "2025-08-01T11:34:20",
+  "languages": {
+    "JavaScript": 349293,
+    "TypeScript": 231482,
+    "Python": 164470,
+    "Vue": 162347,
+    "CSS": 8470,
+    "HTML": 8456
+  },
+  "size": 924518
+}

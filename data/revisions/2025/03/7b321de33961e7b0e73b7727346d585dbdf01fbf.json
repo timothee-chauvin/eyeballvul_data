@@ -1,0 +1,13 @@
+{
+  "commit": "7b321de33961e7b0e73b7727346d585dbdf01fbf",
+  "repo_url": "https://github.com/finit-project/finit",
+  "date": "2025-03-03T02:46:21",
+  "languages": {
+    "C": 591949,
+    "Shell": 67799,
+    "M4": 19872,
+    "Makefile": 19286,
+    "BitBake": 699
+  },
+  "size": 699605
+}
