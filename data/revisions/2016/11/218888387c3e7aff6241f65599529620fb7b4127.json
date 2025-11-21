@@ -1,0 +1,10 @@
+{
+  "commit": "218888387c3e7aff6241f65599529620fb7b4127",
+  "repo_url": "https://github.com/dotnet/core",
+  "date": "2016-11-16T16:13:51",
+  "languages": {
+    "Shell": 5074,
+    "Groovy": 2729
+  },
+  "size": 7803
+}

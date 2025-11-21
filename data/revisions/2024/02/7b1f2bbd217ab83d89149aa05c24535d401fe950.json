@@ -1,0 +1,16 @@
+{
+  "commit": "7b1f2bbd217ab83d89149aa05c24535d401fe950",
+  "repo_url": "https://github.com/esm-dev/esm.sh",
+  "date": "2024-02-28T03:21:25",
+  "languages": {
+    "Go": 220495,
+    "TypeScript": 208835,
+    "Rust": 121409,
+    "JavaScript": 75265,
+    "CSS": 5571,
+    "HTML": 3772,
+    "Shell": 3597,
+    "Dockerfile": 851
+  },
+  "size": 639795
+}

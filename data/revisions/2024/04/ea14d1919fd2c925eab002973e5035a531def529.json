@@ -1,0 +1,16 @@
+{
+  "commit": "ea14d1919fd2c925eab002973e5035a531def529",
+  "repo_url": "https://github.com/ag-grid/ag-charts",
+  "date": "2024-04-29T16:33:44",
+  "languages": {
+    "TypeScript": 17717202,
+    "Roff": 263118,
+    "JavaScript": 166659,
+    "Astro": 89043,
+    "SCSS": 79952,
+    "HTML": 46339,
+    "CSS": 26796,
+    "Shell": 20144
+  },
+  "size": 18409253
+}

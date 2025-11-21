@@ -1,0 +1,17 @@
+{
+  "commit": "e0a22877eebff5e8e92e45d8929d341763edcc4b",
+  "repo_url": "https://github.com/alfio-event/alf.io",
+  "date": "2022-04-05T06:34:50",
+  "languages": {
+    "Java": 4091476,
+    "JavaScript": 537457,
+    "HTML": 535104,
+    "MAXScript": 71199,
+    "PLpgSQL": 48582,
+    "CSS": 40561,
+    "Shell": 1723,
+    "SCSS": 771,
+    "Procfile": 62
+  },
+  "size": 5326935
+}

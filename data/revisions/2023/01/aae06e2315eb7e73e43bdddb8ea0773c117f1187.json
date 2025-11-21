@@ -1,0 +1,17 @@
+{
+  "commit": "aae06e2315eb7e73e43bdddb8ea0773c117f1187",
+  "repo_url": "https://github.com/azuracast/azuracast",
+  "date": "2023-01-27T09:42:44",
+  "languages": {
+    "PHP": 2474669,
+    "Vue": 925397,
+    "SCSS": 262546,
+    "JavaScript": 81926,
+    "HTML": 68885,
+    "Shell": 55996,
+    "Jinja": 17783,
+    "Dockerfile": 4273,
+    "Makefile": 2160
+  },
+  "size": 3893635
+}

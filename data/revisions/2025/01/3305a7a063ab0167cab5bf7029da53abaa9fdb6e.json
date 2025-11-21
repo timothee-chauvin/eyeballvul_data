@@ -1,0 +1,19 @@
+{
+  "commit": "3305a7a063ab0167cab5bf7029da53abaa9fdb6e",
+  "repo_url": "https://github.com/rsyncproject/rsync",
+  "date": "2025-01-15T20:49:23",
+  "languages": {
+    "C": 1814473,
+    "Shell": 129781,
+    "Python": 119100,
+    "M4": 51472,
+    "Assembly": 29615,
+    "C++": 24437,
+    "Perl": 17833,
+    "TeX": 14675,
+    "Makefile": 12760,
+    "Roff": 6848,
+    "Awk": 5368
+  },
+  "size": 2226362
+}

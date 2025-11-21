@@ -1,0 +1,12 @@
+{
+  "commit": "5d8147f5e8b621c59ca4aa56d846d1d114f0fc8a",
+  "repo_url": "https://github.com/mrubyc/mrubyc",
+  "date": "2025-06-26T04:07:02",
+  "languages": {
+    "C": 578306,
+    "Ruby": 100269,
+    "Makefile": 11156,
+    "Dockerfile": 2137
+  },
+  "size": 691868
+}

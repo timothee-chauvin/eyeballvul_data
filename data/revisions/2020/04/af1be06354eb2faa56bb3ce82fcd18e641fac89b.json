@@ -1,0 +1,11 @@
+{
+  "commit": "af1be06354eb2faa56bb3ce82fcd18e641fac89b",
+  "repo_url": "https://github.com/umlaeute/v4l2loopback",
+  "date": "2020-04-19T17:10:05",
+  "languages": {
+    "C": 80061,
+    "Shell": 7540,
+    "Makefile": 2229
+  },
+  "size": 89830
+}

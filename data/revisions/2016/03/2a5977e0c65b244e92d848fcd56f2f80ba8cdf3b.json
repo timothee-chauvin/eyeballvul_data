@@ -1,0 +1,14 @@
+{
+  "commit": "2a5977e0c65b244e92d848fcd56f2f80ba8cdf3b",
+  "repo_url": "https://github.com/npm/cli",
+  "date": "2016-03-11T00:45:50",
+  "languages": {
+    "JavaScript": 1021214,
+    "Shell": 19695,
+    "CSS": 5635,
+    "HTML": 5112,
+    "Makefile": 4936,
+    "Batchfile": 787
+  },
+  "size": 1057379
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "2fca3300a0dc15ad081921d14f1f0704386aa40e",
+  "repo_url": "https://github.com/lookyloo/lookyloo",
+  "date": "2025-11-17T19:34:44",
+  "languages": {
+    "Python": 692086,
+    "HTML": 201107,
+    "JavaScript": 82353,
+    "CSS": 5428,
+    "Shell": 1324,
+    "Dockerfile": 984
+  },
+  "size": 983282
+}

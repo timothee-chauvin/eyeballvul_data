@@ -1,0 +1,18 @@
+{
+  "commit": "85cd495aa776a46ab13cfd7d27181b4acaf96da0",
+  "repo_url": "https://github.com/autolab/autolab",
+  "date": "2021-05-04T14:14:55",
+  "languages": {
+    "Ruby": 645143,
+    "HTML": 281009,
+    "Java": 261126,
+    "JavaScript": 204945,
+    "CSS": 61663,
+    "SCSS": 43912,
+    "Shell": 9637,
+    "Dockerfile": 1400,
+    "CoffeeScript": 920,
+    "Python": 34
+  },
+  "size": 1509789
+}

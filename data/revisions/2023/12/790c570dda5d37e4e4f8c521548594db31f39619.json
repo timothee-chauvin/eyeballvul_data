@@ -1,0 +1,12 @@
+{
+  "commit": "790c570dda5d37e4e4f8c521548594db31f39619",
+  "repo_url": "https://github.com/btcsuite/btcd",
+  "date": "2023-12-29T02:45:45",
+  "languages": {
+    "Go": 5630232,
+    "Shell": 5590,
+    "Makefile": 3639,
+    "Dockerfile": 1503
+  },
+  "size": 5640964
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "3ac31bef75e781d12071123a52ec033468b12729",
+  "repo_url": "https://github.com/eclipse-platform/eclipse.platform",
+  "date": "2023-08-24T07:45:36",
+  "languages": {
+    "Java": 31563943,
+    "HTML": 640875,
+    "CSS": 233417,
+    "JavaScript": 227232,
+    "C": 56358,
+    "Batchfile": 5137,
+    "Makefile": 2651
+  },
+  "size": 32729613
+}

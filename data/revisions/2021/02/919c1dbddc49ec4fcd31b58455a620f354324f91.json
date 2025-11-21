@@ -1,0 +1,18 @@
+{
+  "commit": "919c1dbddc49ec4fcd31b58455a620f354324f91",
+  "repo_url": "https://github.com/hapifhir/hapi-fhir",
+  "date": "2021-02-17T12:10:13",
+  "languages": {
+    "Java": 23805122,
+    "HTML": 244839,
+    "Ruby": 230674,
+    "Shell": 46254,
+    "JavaScript": 31583,
+    "GAP": 25037,
+    "CSS": 7305,
+    "Kotlin": 3972,
+    "Batchfile": 3861,
+    "Dockerfile": 130
+  },
+  "size": 24398777
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "cec774a7ddf555df2134aaf52a17dceb3f15cab5",
+  "repo_url": "https://github.com/fusioninventory/fusioninventory-for-glpi",
+  "date": "2019-02-12T09:12:01",
+  "languages": {
+    "PHP": 3630445,
+    "JavaScript": 1270813,
+    "CSS": 56157,
+    "HTML": 21202,
+    "XSLT": 6561,
+    "Mustache": 6466,
+    "Shell": 4815,
+    "Ruby": 4346,
+    "Perl": 2385
+  },
+  "size": 5003190
+}

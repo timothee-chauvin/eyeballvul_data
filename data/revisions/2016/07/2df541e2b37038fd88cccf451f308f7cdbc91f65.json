@@ -1,0 +1,13 @@
+{
+  "commit": "2df541e2b37038fd88cccf451f308f7cdbc91f65",
+  "repo_url": "https://github.com/owncloud/gallery",
+  "date": "2016-07-08T22:57:29",
+  "languages": {
+    "PHP": 524448,
+    "JavaScript": 349403,
+    "CSS": 29426,
+    "Hack": 752,
+    "Shell": 248
+  },
+  "size": 904277
+}

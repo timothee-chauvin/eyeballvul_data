@@ -1,0 +1,16 @@
+{
+  "commit": "335d97c548cfe8290554a90787aa9717c4181ace",
+  "repo_url": "https://github.com/kiegroup/jbpm-designer",
+  "date": "2014-10-09T22:37:21",
+  "languages": {
+    "JavaScript": 3831638,
+    "Java": 1897534,
+    "CSS": 504387,
+    "XSLT": 417063,
+    "StringTemplate": 26410,
+    "HTML": 23391,
+    "Smalltalk": 1531,
+    "Shell": 774
+  },
+  "size": 6702728
+}

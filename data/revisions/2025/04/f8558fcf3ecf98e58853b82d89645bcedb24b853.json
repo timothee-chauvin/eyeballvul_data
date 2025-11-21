@@ -1,0 +1,20 @@
+{
+  "commit": "f8558fcf3ecf98e58853b82d89645bcedb24b853",
+  "repo_url": "https://github.com/ilbers/isar",
+  "date": "2025-04-25T08:35:19",
+  "languages": {
+    "Python": 4362366,
+    "HTML": 1453373,
+    "BitBake": 366071,
+    "JavaScript": 228671,
+    "Shell": 94809,
+    "Vim Script": 21174,
+    "CSS": 19969,
+    "Makefile": 13528,
+    "Roff": 4571,
+    "Dockerfile": 2521,
+    "C": 371,
+    "Clojure": 14
+  },
+  "size": 6567438
+}

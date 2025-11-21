@@ -1,0 +1,14 @@
+{
+  "commit": "ad56a3a7b0f24bdf6fcf6e7403668a3027fbdcf3",
+  "repo_url": "https://github.com/sbs20/scanservjs",
+  "date": "2021-02-14T20:02:15",
+  "languages": {
+    "JavaScript": 74578,
+    "Vue": 23876,
+    "Shell": 4304,
+    "Dockerfile": 1707,
+    "HTML": 582,
+    "SCSS": 123
+  },
+  "size": 105170
+}

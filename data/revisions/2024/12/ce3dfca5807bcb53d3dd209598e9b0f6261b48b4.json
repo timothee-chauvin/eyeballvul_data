@@ -1,0 +1,10 @@
+{
+  "commit": "ce3dfca5807bcb53d3dd209598e9b0f6261b48b4",
+  "repo_url": "https://github.com/pluginsglpi/databaseinventory",
+  "date": "2024-12-13T10:00:55",
+  "languages": {
+    "PHP": 140421,
+    "Twig": 25239
+  },
+  "size": 165660
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "f94bf64b7b98f384d7aba96a76c5dc5bd393e85f",
+  "repo_url": "https://gitlab.com/d3tn/ud3tn",
+  "date": "2024-10-01T08:59:28",
+  "languages": {
+    "C": 1057688,
+    "Python": 313125,
+    "Shell": 43480,
+    "Makefile": 16690,
+    "Nix": 14912,
+    "Lua": 4208
+  },
+  "size": 1450103
+}

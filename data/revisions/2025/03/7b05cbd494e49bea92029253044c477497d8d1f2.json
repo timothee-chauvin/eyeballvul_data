@@ -1,0 +1,10 @@
+{
+  "commit": "7b05cbd494e49bea92029253044c477497d8d1f2",
+  "repo_url": "https://github.com/reviewdog/action-staticcheck",
+  "date": "2025-03-18T05:25:42",
+  "languages": {
+    "Shell": 1045,
+    "jq": 808
+  },
+  "size": 1853
+}

@@ -1,6 +1,6 @@
 {
   "commit": "7178588dc1e747941d1c5b9da759c0c00b6aaa96",
-  "repo_url": "https://github.com/gitlabhq/gitlab-runner",
+  "repo_url": "https://gitlab.com/gitlab-org/gitlab-runner",
   "date": "2022-11-11T09:40:09",
   "languages": {
     "Go": 2557022,

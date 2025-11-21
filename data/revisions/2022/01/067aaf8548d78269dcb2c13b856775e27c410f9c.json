@@ -1,0 +1,14 @@
+{
+  "commit": "067aaf8548d78269dcb2c13b856775e27c410f9c",
+  "repo_url": "https://github.com/opencontainers/runc",
+  "date": "2022-01-17T08:16:31",
+  "languages": {
+    "Go": 1125605,
+    "Shell": 173472,
+    "C": 58237,
+    "Makefile": 4911,
+    "Dockerfile": 2177,
+    "Ruby": 1777
+  },
+  "size": 1366179
+}

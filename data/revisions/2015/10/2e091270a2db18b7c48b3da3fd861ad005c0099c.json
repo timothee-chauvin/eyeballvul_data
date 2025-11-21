@@ -1,0 +1,16 @@
+{
+  "commit": "2e091270a2db18b7c48b3da3fd861ad005c0099c",
+  "repo_url": "https://github.com/altocms/altocms",
+  "date": "2015-10-11T11:15:28",
+  "languages": {
+    "PHP": 6333404,
+    "Smarty": 1855327,
+    "Less": 883918,
+    "CSS": 839227,
+    "JavaScript": 755621,
+    "HTML": 118172,
+    "Yacc": 44984,
+    "Shell": 1440
+  },
+  "size": 10832093
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "cd7ae8b61443fab5a0a737a6e78250669056d2e1",
+  "repo_url": "https://github.com/grpc/grpc-java",
+  "date": "2023-12-20T20:50:59",
+  "languages": {
+    "Java": 12009136,
+    "Shell": 64225,
+    "C++": 50003,
+    "Starlark": 45958,
+    "Batchfile": 6230,
+    "Dockerfile": 3878,
+    "Python": 1961
+  },
+  "size": 12181391
+}

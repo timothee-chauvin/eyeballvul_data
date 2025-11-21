@@ -1,0 +1,19 @@
+{
+  "commit": "3d921fffb7ce29f03329e411711d0751328c761a",
+  "repo_url": "https://github.com/grpc/grpc-web",
+  "date": "2020-08-18T19:39:10",
+  "languages": {
+    "C++": 259983,
+    "JavaScript": 178037,
+    "Java": 71781,
+    "Starlark": 20367,
+    "Dockerfile": 17445,
+    "TypeScript": 14506,
+    "C": 12853,
+    "Shell": 11615,
+    "Python": 11102,
+    "Makefile": 9790,
+    "HTML": 6217
+  },
+  "size": 613696
+}
