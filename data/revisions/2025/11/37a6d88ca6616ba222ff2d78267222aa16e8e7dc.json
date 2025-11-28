@@ -1,0 +1,15 @@
+{
+  "commit": "37a6d88ca6616ba222ff2d78267222aa16e8e7dc",
+  "repo_url": "https://github.com/kubevirt/kubevirt",
+  "date": "2025-11-05T21:09:12",
+  "languages": {
+    "Go": 16274952,
+    "Starlark": 632755,
+    "Shell": 307582,
+    "Python": 12408,
+    "Makefile": 9294,
+    "Dockerfile": 6274,
+    "C": 5370
+  },
+  "size": 17248635
+}

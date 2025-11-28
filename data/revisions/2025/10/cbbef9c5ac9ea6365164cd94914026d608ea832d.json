@@ -1,0 +1,18 @@
+{
+  "commit": "cbbef9c5ac9ea6365164cd94914026d608ea832d",
+  "repo_url": "https://github.com/lsfusion/platform",
+  "date": "2025-10-29T07:47:20",
+  "languages": {
+    "Java": 14268811,
+    "JavaScript": 6572120,
+    "GAP": 247509,
+    "CSS": 187523,
+    "CoffeeScript": 141662,
+    "PLpgSQL": 19025,
+    "Dockerfile": 1462,
+    "HTML": 993,
+    "Batchfile": 499,
+    "Shell": 220
+  },
+  "size": 21439824
+}

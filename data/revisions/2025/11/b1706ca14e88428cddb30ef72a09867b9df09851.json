@@ -1,0 +1,17 @@
+{
+  "commit": "b1706ca14e88428cddb30ef72a09867b9df09851",
+  "repo_url": "https://github.com/anchore/grype",
+  "date": "2025-11-17T19:11:58",
+  "languages": {
+    "Go": 2414549,
+    "Shell": 47297,
+    "Makefile": 11178,
+    "Python": 4671,
+    "Dockerfile": 2989,
+    "Ruby": 1687,
+    "JavaScript": 530,
+    "Java": 398,
+    "Roff": 276
+  },
+  "size": 2483575
+}

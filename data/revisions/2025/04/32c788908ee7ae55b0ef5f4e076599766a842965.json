@@ -1,0 +1,14 @@
+{
+  "commit": "32c788908ee7ae55b0ef5f4e076599766a842965",
+  "repo_url": "https://github.com/everest/libocpp",
+  "date": "2025-04-24T07:01:48",
+  "languages": {
+    "C++": 4565025,
+    "Python": 42200,
+    "CMake": 38346,
+    "Jinja": 20874,
+    "Shell": 2767,
+    "Dockerfile": 120
+  },
+  "size": 4669332
+}

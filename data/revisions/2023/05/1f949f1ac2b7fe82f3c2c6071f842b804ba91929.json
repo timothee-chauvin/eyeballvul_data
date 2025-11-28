@@ -1,0 +1,17 @@
+{
+  "commit": "1f949f1ac2b7fe82f3c2c6071f842b804ba91929",
+  "repo_url": "https://github.com/salesagility/suitecrm-core",
+  "date": "2023-05-15T12:23:12",
+  "languages": {
+    "PHP": 30882695,
+    "JavaScript": 6254776,
+    "TypeScript": 3337555,
+    "Smarty": 2912114,
+    "SCSS": 1382460,
+    "HTML": 1007625,
+    "CSS": 620120,
+    "Less": 163980,
+    "Shell": 974
+  },
+  "size": 46562299
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "cb776056bb82cc092f6412a6d79c80c1c7de005d",
+  "repo_url": "https://github.com/wixtoolset/wix3",
+  "date": "2024-02-06T20:09:39",
+  "languages": {
+    "C#": 10420856,
+    "C++": 4799061,
+    "C": 448308,
+    "HTML": 118940,
+    "Batchfile": 14142,
+    "CSS": 13248,
+    "JavaScript": 11448,
+    "Makefile": 10738,
+    "Roff": 8583,
+    "VBScript": 2888,
+    "TSQL": 784
+  },
+  "size": 15848996
+}

@@ -1,7 +1,7 @@
 {
   "id": "OSV-2024-914",
   "published": "2024-08-16T00:08:20.277708",
-  "modified": "2025-11-13T14:26:45.732153",
+  "modified": "2025-11-27T14:13:56.231526",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66851\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nboost::re_detail_500::basic_regex_formatter<std::__1::ostream_iterator<char, cha\nboost::re_detail_500::basic_regex_formatter<std::__1::ostream_iterator<char, cha\nstd::__1::ostream_iterator<char, char, std::__1::char_traits<char> > boost::re_d\n```\n",
   "summary": "UNKNOWN READ in boost::re_detail_500::basic_regex_formatter<std::__1::ostream_iterator<char, cha",
   "repo_url": "https://github.com/boostorg/boost.git",

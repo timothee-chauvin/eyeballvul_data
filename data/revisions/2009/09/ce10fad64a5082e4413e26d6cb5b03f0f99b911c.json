@@ -1,0 +1,13 @@
+{
+  "commit": "ce10fad64a5082e4413e26d6cb5b03f0f99b911c",
+  "repo_url": "https://github.com/fusioninventory/fusioninventory-agent",
+  "date": "2009-09-18T09:44:26",
+  "languages": {
+    "Perl": 626167,
+    "Roff": 121230,
+    "C": 29834,
+    "Shell": 23863,
+    "Objective-C": 1719
+  },
+  "size": 802813
+}

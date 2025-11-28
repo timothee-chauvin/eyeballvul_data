@@ -1,0 +1,16 @@
+{
+  "commit": "93775172713c00c363187b5d6a88895b04ac7c8e",
+  "repo_url": "https://github.com/gpg/libgcrypt",
+  "date": "2018-10-26T17:29:46",
+  "languages": {
+    "C": 5627533,
+    "Assembly": 1289275,
+    "Shell": 411341,
+    "TeX": 272720,
+    "M4": 121660,
+    "Perl": 60635,
+    "Makefile": 25168,
+    "Awk": 2445
+  },
+  "size": 7810777
+}

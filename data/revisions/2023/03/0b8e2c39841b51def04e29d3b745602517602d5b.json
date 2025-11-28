@@ -1,0 +1,10 @@
+{
+  "commit": "0b8e2c39841b51def04e29d3b745602517602d5b",
+  "repo_url": "https://github.com/hapifhir/org.hl7.fhir.core",
+  "date": "2023-03-09T12:38:13",
+  "languages": {
+    "Java": 224754693,
+    "Batchfile": 790
+  },
+  "size": 224755483
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "4a0e7994920b85fcd5b3f8794c2bf9d834484258",
+  "repo_url": "https://github.com/wazuh/wazuh-dashboard-plugins",
+  "date": "2025-04-30T08:21:20",
+  "languages": {
+    "TypeScript": 4098284,
+    "JavaScript": 1904307,
+    "SCSS": 113412,
+    "Shell": 93265,
+    "Dockerfile": 32482,
+    "Gherkin": 29464,
+    "Python": 12916,
+    "HTML": 9309,
+    "Makefile": 191
+  },
+  "size": 6293630
+}

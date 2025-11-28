@@ -1,0 +1,10 @@
+{
+  "commit": "63e5c44063b33bd5c06072d192e9d804c5644d75",
+  "repo_url": "https://github.com/snyk/snyk-sbt-plugin",
+  "date": "2022-11-01T10:27:34",
+  "languages": {
+    "TypeScript": 57575,
+    "Scala": 9245
+  },
+  "size": 66820
+}

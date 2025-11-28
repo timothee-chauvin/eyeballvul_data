@@ -1,0 +1,13 @@
+{
+  "commit": "16416af693d03749fc875a42dc9e97fcfb0362c2",
+  "repo_url": "https://github.com/fugue-project/fugue",
+  "date": "2025-10-31T21:49:22",
+  "languages": {
+    "Python": 1449167,
+    "Jupyter Notebook": 16727,
+    "Makefile": 4098,
+    "JavaScript": 3709,
+    "Shell": 301
+  },
+  "size": 1474002
+}

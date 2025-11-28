@@ -1,0 +1,13 @@
+{
+  "commit": "c66918583665b489bbffd9b1df51ed9279cd17aa",
+  "repo_url": "https://github.com/lfdt-lockness/cggmp21",
+  "date": "2024-12-13T10:22:40",
+  "languages": {
+    "Rust": 356585,
+    "TeX": 79573,
+    "HTML": 1493,
+    "Makefile": 1117,
+    "Nix": 749
+  },
+  "size": 439517
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "272414de697c94249bbf7f4a603f7a59450edbd2",
+  "repo_url": "https://github.com/eigenfocus/eigenfocus",
+  "date": "2025-11-10T11:47:30",
+  "languages": {
+    "Ruby": 188206,
+    "JavaScript": 60788,
+    "HTML": 34742,
+    "Shell": 2483,
+    "Dockerfile": 1727
+  },
+  "size": 287946
+}

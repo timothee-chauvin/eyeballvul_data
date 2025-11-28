@@ -1,0 +1,17 @@
+{
+  "commit": "cf9ceb6bf95dd3a020c26592e6dd15f14b361844",
+  "repo_url": "https://github.com/ispc/ispc",
+  "date": "2013-06-11T13:18:54",
+  "languages": {
+    "C++": 1683382,
+    "LLVM": 326686,
+    "M4": 178535,
+    "Yacc": 72525,
+    "Python": 18875,
+    "C": 13968,
+    "Makefile": 8552,
+    "Batchfile": 1037,
+    "Vim Script": 846
+  },
+  "size": 2304406
+}

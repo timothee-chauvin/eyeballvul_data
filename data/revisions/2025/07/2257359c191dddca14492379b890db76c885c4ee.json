@@ -1,0 +1,12 @@
+{
+  "commit": "2257359c191dddca14492379b890db76c885c4ee",
+  "repo_url": "https://github.com/kde/skanpage",
+  "date": "2025-07-23T20:20:37",
+  "languages": {
+    "C++": 123446,
+    "QML": 96880,
+    "CMake": 10076,
+    "Shell": 263
+  },
+  "size": 230665
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "2b978915d82377df13fcbb1fb56660195ded868a",
+  "repo_url": "https://github.com/pnggroup/libpng",
+  "date": "2025-07-01T20:50:00",
+  "languages": {
+    "C": 2891720,
+    "Shell": 490673,
+    "Roff": 268852,
+    "Makefile": 152738,
+    "CMake": 67321,
+    "Awk": 43087,
+    "M4": 27380,
+    "Python": 17846,
+    "DIGITAL Command Language": 10718,
+    "C++": 6699,
+    "Batchfile": 4200,
+    "Assembly": 2199,
+    "Module Management System": 2082,
+    "Dockerfile": 988
+  },
+  "size": 3986503
+}

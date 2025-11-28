@@ -1,0 +1,17 @@
+{
+  "commit": "125f4b355849bf51a2e032926101f05e5df66ef2",
+  "repo_url": "https://github.com/jarun/nnn",
+  "date": "2025-03-23T04:58:22",
+  "languages": {
+    "C": 384063,
+    "Shell": 187482,
+    "Roff": 22667,
+    "Makefile": 19002,
+    "C++": 9070,
+    "Python": 1877,
+    "Nushell": 1288,
+    "Elvish": 922,
+    "AppleScript": 336
+  },
+  "size": 626707
+}
