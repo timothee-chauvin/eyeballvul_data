@@ -1,0 +1,15 @@
+{
+  "commit": "f54b0e47a08782a6131cc3d60f94d038fa6e0a51",
+  "repo_url": "https://github.com/fmalita/rapidjson",
+  "date": "2016-08-25T07:59:05",
+  "languages": {
+    "C++": 1057709,
+    "C": 24295,
+    "CMake": 13195,
+    "Python": 9059,
+    "Shell": 3247,
+    "Dockerfile": 229,
+    "JavaScript": 94
+  },
+  "size": 1107828
+}

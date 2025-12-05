@@ -1,0 +1,13 @@
+{
+  "commit": "812628681291626975b59e2d6f1df651220118b6",
+  "repo_url": "https://github.com/sigstore/timestamp-authority",
+  "date": "2025-11-19T17:54:54",
+  "languages": {
+    "Go": 223801,
+    "Makefile": 5496,
+    "Shell": 4231,
+    "JavaScript": 2857,
+    "Dockerfile": 1705
+  },
+  "size": 238090
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "029670eeeb685796bc76c7950381cb459b2eb3ba",
+  "repo_url": "https://github.com/laradashboard/laradashboard",
+  "date": "2025-09-07T14:28:41",
+  "languages": {
+    "PHP": 864424,
+    "Blade": 630236,
+    "Shell": 4039,
+    "JavaScript": 806
+  },
+  "size": 1499505
+}

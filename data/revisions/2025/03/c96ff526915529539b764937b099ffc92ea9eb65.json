@@ -1,0 +1,14 @@
+{
+  "commit": "c96ff526915529539b764937b099ffc92ea9eb65",
+  "repo_url": "https://github.com/hyperledger/besu-native",
+  "date": "2025-03-13T19:41:53",
+  "languages": {
+    "Java": 227843,
+    "Rust": 84668,
+    "C": 72232,
+    "Go": 43084,
+    "Shell": 12062,
+    "Makefile": 951
+  },
+  "size": 440840
+}

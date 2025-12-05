@@ -1,0 +1,15 @@
+{
+  "commit": "bc63c91ddd4f84027e4d09495d4837807de78d54",
+  "repo_url": "https://github.com/docker/mcp-gateway",
+  "date": "2025-11-05T18:29:04",
+  "languages": {
+    "Go": 998934,
+    "Dockerfile": 8917,
+    "HTML": 6234,
+    "Makefile": 3358,
+    "HCL": 2047,
+    "Nix": 1455,
+    "Shell": 405
+  },
+  "size": 1021350
+}

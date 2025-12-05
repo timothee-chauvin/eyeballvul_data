@@ -1,0 +1,17 @@
+{
+  "commit": "b4964b14b5085bdfc9e5e99f7613e7a10db89cfd",
+  "repo_url": "https://github.com/jvde-github/ais-catcher",
+  "date": "2025-11-23T10:18:18",
+  "languages": {
+    "C++": 1816383,
+    "JavaScript": 264420,
+    "HTML": 140367,
+    "CSS": 101964,
+    "Shell": 42922,
+    "CMake": 39135,
+    "Makefile": 6704,
+    "Dockerfile": 2803,
+    "C": 949
+  },
+  "size": 2415647
+}

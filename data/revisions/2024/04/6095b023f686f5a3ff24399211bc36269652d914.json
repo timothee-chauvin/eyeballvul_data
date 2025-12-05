@@ -1,0 +1,15 @@
+{
+  "commit": "6095b023f686f5a3ff24399211bc36269652d914",
+  "repo_url": "https://github.com/dbt-labs/dbt-core",
+  "date": "2024-04-18T17:15:19",
+  "languages": {
+    "Python": 4464703,
+    "HTML": 1506937,
+    "Rust": 43990,
+    "Shell": 6494,
+    "Makefile": 5275,
+    "Dockerfile": 3670,
+    "Batchfile": 804
+  },
+  "size": 6031873
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "65d9d832100240b3207e17e76f2ce7d123e9c4d5",
+  "repo_url": "https://github.com/theforeman/foreman-installer",
+  "date": "2021-02-24T13:38:28",
+  "languages": {
+    "Ruby": 113567,
+    "Shell": 9988
+  },
+  "size": 123555
+}

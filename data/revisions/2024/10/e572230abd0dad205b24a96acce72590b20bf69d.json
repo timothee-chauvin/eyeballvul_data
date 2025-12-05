@@ -1,0 +1,16 @@
+{
+  "commit": "e572230abd0dad205b24a96acce72590b20bf69d",
+  "repo_url": "https://github.com/suitecrm/suitecrm",
+  "date": "2024-10-31T08:06:51",
+  "languages": {
+    "PHP": 28793325,
+    "JavaScript": 6240774,
+    "Smarty": 2947153,
+    "SCSS": 987649,
+    "CSS": 612998,
+    "HTML": 583637,
+    "Less": 163980,
+    "Shell": 941
+  },
+  "size": 40330457
+}

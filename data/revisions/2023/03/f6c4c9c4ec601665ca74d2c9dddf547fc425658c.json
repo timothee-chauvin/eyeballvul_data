@@ -1,0 +1,13 @@
+{
+  "commit": "f6c4c9c4ec601665ca74d2c9dddf547fc425658c",
+  "repo_url": "https://github.com/openzeppelin/openzeppelin-contracts-upgradeable",
+  "date": "2023-03-02T23:17:31",
+  "languages": {
+    "Solidity": 945646,
+    "JavaScript": 822315,
+    "Ruby": 28477,
+    "Shell": 11092,
+    "Makefile": 696
+  },
+  "size": 1808226
+}

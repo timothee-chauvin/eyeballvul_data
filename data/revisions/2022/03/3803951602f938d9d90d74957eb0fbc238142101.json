@@ -1,0 +1,13 @@
+{
+  "commit": "3803951602f938d9d90d74957eb0fbc238142101",
+  "repo_url": "https://github.com/kubeedge/kubeedge",
+  "date": "2022-03-08T07:55:00",
+  "languages": {
+    "Go": 2464295,
+    "Shell": 153757,
+    "Makefile": 10226,
+    "Dockerfile": 5887,
+    "Mustache": 1288
+  },
+  "size": 2635453
+}

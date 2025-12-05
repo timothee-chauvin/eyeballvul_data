@@ -1,0 +1,11 @@
+{
+  "commit": "b9237b15284d4fdff61a293608774dab8350d251",
+  "repo_url": "https://github.com/ansible-collections/google.cloud",
+  "date": "2023-11-27T18:39:41",
+  "languages": {
+    "Python": 4075596,
+    "Jinja": 7954,
+    "Shell": 4803
+  },
+  "size": 4088353
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "9956286fb89f9cad9e9f95b99dc751f8666617b7",
+  "repo_url": "https://github.com/oisf/suricata",
+  "date": "2025-07-08T00:37:47",
+  "languages": {
+    "C": 14491734,
+    "Rust": 4507205,
+    "M4": 115942,
+    "Python": 81193,
+    "Perl": 54725,
+    "Makefile": 50243,
+    "Shell": 46047,
+    "Raku": 9998,
+    "PHP": 7792,
+    "SmPL": 5505,
+    "Lua": 1986,
+    "Dockerfile": 1106,
+    "Nix": 872
+  },
+  "size": 19374348
+}

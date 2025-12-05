@@ -1,0 +1,13 @@
+{
+  "commit": "2240c6f14f45f70fe82d8971db73c54969bf7a5b",
+  "repo_url": "https://github.com/symphonycms/symphonycms",
+  "date": "2018-04-18T13:03:47",
+  "languages": {
+    "PHP": 1764533,
+    "JavaScript": 258688,
+    "CSS": 61980,
+    "Smarty": 6108,
+    "XSLT": 628
+  },
+  "size": 2091937
+}

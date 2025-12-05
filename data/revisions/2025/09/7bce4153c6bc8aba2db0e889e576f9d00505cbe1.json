@@ -1,0 +1,14 @@
+{
+  "commit": "7bce4153c6bc8aba2db0e889e576f9d00505cbe1",
+  "repo_url": "https://github.com/mborgerding/kissfft",
+  "date": "2025-09-12T05:55:11",
+  "languages": {
+    "C": 87233,
+    "C++": 26583,
+    "CMake": 18411,
+    "Makefile": 16251,
+    "Shell": 6329,
+    "Python": 3463
+  },
+  "size": 158270
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "4bce5f9b2dc4743b9e0bdf101a0d593053f4f099",
+  "repo_url": "https://github.com/ml-explore/mlx",
+  "date": "2025-10-17T19:09:21",
+  "languages": {
+    "C++": 3476860,
+    "Python": 1181601,
+    "Cuda": 340034,
+    "Metal": 192475,
+    "CMake": 54333,
+    "C": 15298,
+    "Shell": 2732,
+    "PowerShell": 1125
+  },
+  "size": 5264458
+}

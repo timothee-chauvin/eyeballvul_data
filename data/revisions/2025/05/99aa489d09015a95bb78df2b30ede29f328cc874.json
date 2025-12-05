@@ -1,0 +1,26 @@
+{
+  "commit": "99aa489d09015a95bb78df2b30ede29f328cc874",
+  "repo_url": "https://github.com/zdoom/gzdoom",
+  "date": "2025-05-01T22:22:30",
+  "languages": {
+    "C++": 22372225,
+    "C": 7102932,
+    "ZenScript": 1967379,
+    "Yacc": 184472,
+    "M4": 171384,
+    "CMake": 136167,
+    "GLSL": 121985,
+    "Objective-C++": 106190,
+    "HTML": 33449,
+    "Objective-C": 17140,
+    "Python": 12295,
+    "Batchfile": 8230,
+    "Shell": 6045,
+    "SWIG": 4538,
+    "JavaScript": 2888,
+    "Assembly": 1399,
+    "Dockerfile": 736,
+    "Makefile": 257
+  },
+  "size": 32249711
+}

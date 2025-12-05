@@ -1,0 +1,14 @@
+{
+  "commit": "8ec549b9a18fca2e29e46d275befc4e1bbe91c1a",
+  "repo_url": "https://github.com/gardener/gardener-extension-provider-azure",
+  "date": "2025-09-10T13:50:52",
+  "languages": {
+    "Go": 1256430,
+    "Smarty": 24339,
+    "Shell": 16272,
+    "Makefile": 8946,
+    "Python": 3666,
+    "Dockerfile": 1002
+  },
+  "size": 1310655
+}

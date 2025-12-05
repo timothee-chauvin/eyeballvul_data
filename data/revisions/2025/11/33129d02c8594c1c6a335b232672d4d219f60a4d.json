@@ -1,0 +1,13 @@
+{
+  "commit": "33129d02c8594c1c6a335b232672d4d219f60a4d",
+  "repo_url": "https://github.com/sigstore/fulcio",
+  "date": "2025-11-19T17:55:41",
+  "languages": {
+    "Go": 742780,
+    "Makefile": 8556,
+    "Shell": 5564,
+    "Python": 2733,
+    "Dockerfile": 1554
+  },
+  "size": 761187
+}
