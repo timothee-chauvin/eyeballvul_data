@@ -1,0 +1,15 @@
+{
+  "commit": "1bc059450c3901b17e1be99209965b12f6d163e4",
+  "repo_url": "https://github.com/difusehq/kalmia",
+  "date": "2025-08-05T19:13:27",
+  "languages": {
+    "TypeScript": 308019,
+    "Go": 266617,
+    "JavaScript": 23772,
+    "CSS": 8203,
+    "Makefile": 2583,
+    "Dockerfile": 1304,
+    "HTML": 1131
+  },
+  "size": 611629
+}

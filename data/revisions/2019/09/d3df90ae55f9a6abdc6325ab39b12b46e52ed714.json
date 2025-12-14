@@ -1,0 +1,17 @@
+{
+  "commit": "d3df90ae55f9a6abdc6325ab39b12b46e52ed714",
+  "repo_url": "https://github.com/gnome/libsoup",
+  "date": "2019-09-11T13:53:20",
+  "languages": {
+    "C": 2245920,
+    "Meson": 25176,
+    "Python": 5086,
+    "PHP": 2468,
+    "Dockerfile": 615,
+    "Vala": 604,
+    "HTML": 505,
+    "Shell": 416,
+    "PostScript": 15
+  },
+  "size": 2280805
+}

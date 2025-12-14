@@ -1,0 +1,12 @@
+{
+  "commit": "2c61c44176a89885ea69dd341dca16fb2875d868",
+  "repo_url": "https://github.com/smallstep/certificates",
+  "date": "2025-07-13T21:22:20",
+  "languages": {
+    "Go": 4249667,
+    "Shell": 13040,
+    "Makefile": 4650,
+    "Dockerfile": 749
+  },
+  "size": 4268106
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "251642943da61c429e75b52a60b82d31da67fec7",
+  "repo_url": "https://github.com/dw/mitogen",
+  "date": "2019-05-19T14:45:39",
+  "languages": {
+    "Python": 1056306,
+    "Shell": 6122,
+    "Jinja": 674,
+    "Perl": 530,
+    "Makefile": 428,
+    "C": 397
+  },
+  "size": 1064457
+}

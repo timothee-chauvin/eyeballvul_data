@@ -1,0 +1,14 @@
+{
+  "commit": "e07120b16361c6a3417addb12a0440a8dd204c64",
+  "repo_url": "https://github.com/langfuse/langfuse",
+  "date": "2025-07-29T18:27:11",
+  "languages": {
+    "TypeScript": 7447164,
+    "JavaScript": 40576,
+    "Shell": 11976,
+    "Dockerfile": 10567,
+    "CSS": 5149,
+    "PLpgSQL": 3965
+  },
+  "size": 7519397
+}

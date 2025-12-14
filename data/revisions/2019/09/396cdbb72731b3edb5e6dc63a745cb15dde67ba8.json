@@ -1,0 +1,11 @@
+{
+  "commit": "396cdbb72731b3edb5e6dc63a745cb15dde67ba8",
+  "repo_url": "https://github.com/lemonldapng/lemonldap-ng.js",
+  "date": "2019-09-03T21:04:12",
+  "languages": {
+    "CoffeeScript": 54213,
+    "JavaScript": 2351,
+    "Perl": 1073
+  },
+  "size": 57637
+}

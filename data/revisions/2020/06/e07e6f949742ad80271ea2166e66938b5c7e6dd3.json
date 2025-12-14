@@ -1,0 +1,11 @@
+{
+  "commit": "e07e6f949742ad80271ea2166e66938b5c7e6dd3",
+  "repo_url": "https://github.com/jenkinsci/matrix-project-plugin",
+  "date": "2020-06-16T21:18:06",
+  "languages": {
+    "Java": 266124,
+    "HTML": 57327,
+    "Groovy": 1204
+  },
+  "size": 324655
+}

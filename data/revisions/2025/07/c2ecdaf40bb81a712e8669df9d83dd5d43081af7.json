@@ -1,0 +1,24 @@
+{
+  "commit": "c2ecdaf40bb81a712e8669df9d83dd5d43081af7",
+  "repo_url": "https://github.com/jmri/jmri",
+  "date": "2025-07-12T17:34:44",
+  "languages": {
+    "Java": 66409101,
+    "Python": 3180574,
+    "XSLT": 878485,
+    "HTML": 863803,
+    "JavaScript": 730771,
+    "PHP": 252666,
+    "PostScript": 201442,
+    "NSIS": 118290,
+    "Shell": 85436,
+    "CSS": 48567,
+    "C++": 25050,
+    "Gherkin": 12093,
+    "PowerShell": 1952,
+    "Batchfile": 1553,
+    "TypeScript": 327,
+    "Awk": 67
+  },
+  "size": 72810177
+}

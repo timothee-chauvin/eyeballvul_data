@@ -1,0 +1,10 @@
+{
+  "commit": "0e648479e11c2c6d9109b14fc0c9ac64c677861b",
+  "repo_url": "https://github.com/containernetworking/plugins",
+  "date": "2025-09-01T15:23:06",
+  "languages": {
+    "Go": 1107347,
+    "Shell": 2773
+  },
+  "size": 1110120
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "2c204c49e56ed15ec5fcfa71d199ab6d6570b3f5",
+  "repo_url": "https://github.com/bulletphysics/bullet3",
+  "date": "2022-09-25T03:00:36",
+  "languages": {
+    "C++": 10087658,
+    "C": 1513986,
+    "CMake": 141734,
+    "Lua": 109663,
+    "Python": 77635,
+    "Batchfile": 15710,
+    "Shell": 13267,
+    "Makefile": 5001
+  },
+  "size": 11964654
+}

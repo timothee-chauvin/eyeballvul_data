@@ -1,0 +1,20 @@
+{
+  "commit": "c8d83dd8da73fa2fe56ca52d36960dfba899e1da",
+  "repo_url": "https://github.com/ysurac/openmptcprouter",
+  "date": "2025-09-02T07:18:37",
+  "languages": {
+    "C": 105865502,
+    "Makefile": 3504790,
+    "Assembly": 3362228,
+    "Roff": 1144326,
+    "Shell": 582456,
+    "Python": 365821,
+    "Perl": 191580,
+    "PHP": 108176,
+    "CSS": 7320,
+    "GDB": 7284,
+    "sed": 1900,
+    "Awk": 1808
+  },
+  "size": 115143191
+}

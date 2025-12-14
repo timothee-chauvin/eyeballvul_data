@@ -1,0 +1,14 @@
+{
+  "commit": "55d0009d8f750ef5488abe7f1ce15e8215a93f75",
+  "repo_url": "https://github.com/hashicorp/terraform-provider-vault",
+  "date": "2025-11-04T00:41:39",
+  "languages": {
+    "Go": 3991251,
+    "HTML": 48495,
+    "Smarty": 10396,
+    "Shell": 8204,
+    "HCL": 5499,
+    "Makefile": 2567
+  },
+  "size": 4066412
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "c8af971f57f12d0190d7fd8829a429f5e4112f60",
+  "repo_url": "https://github.com/vitejs/vite-plugin-react",
+  "date": "2025-12-04T09:33:07",
+  "languages": {
+    "TypeScript": 611911,
+    "JavaScript": 44386,
+    "CSS": 23834,
+    "HTML": 9072,
+    "MDX": 586
+  },
+  "size": 689789
+}

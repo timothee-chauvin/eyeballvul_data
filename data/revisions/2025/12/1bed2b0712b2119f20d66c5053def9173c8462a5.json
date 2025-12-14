@@ -1,0 +1,15 @@
+{
+  "commit": "1bed2b0712b2119f20d66c5053def9173c8462a5",
+  "repo_url": "https://github.com/boostorg/boost.git",
+  "date": "2025-12-03T13:42:35",
+  "languages": {
+    "HTML": 17053,
+    "Shell": 13011,
+    "Python": 12560,
+    "CSS": 3597,
+    "Batchfile": 2486,
+    "Perl": 1381,
+    "CMake": 821
+  },
+  "size": 50909
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "b8f9659688a38476df9f613be3342bb8e2d65402",
+  "repo_url": "https://github.com/zevv/duc",
+  "date": "2022-07-23T17:32:05",
+  "languages": {
+    "C": 572268,
+    "Shell": 9018,
+    "M4": 5615,
+    "Makefile": 1651
+  },
+  "size": 588552
+}

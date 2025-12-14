@@ -1,0 +1,25 @@
+{
+  "commit": "ef798794cdaddbdd7b3d08ad6e948ab74d0f426b",
+  "repo_url": "https://github.com/dfinity/motoko",
+  "date": "2024-11-13T23:22:29",
+  "languages": {
+    "OCaml": 2392920,
+    "Swift": 1443152,
+    "Rust": 784151,
+    "Haskell": 85033,
+    "Nix": 50420,
+    "TeX": 44046,
+    "Shell": 38440,
+    "Makefile": 26016,
+    "JavaScript": 20369,
+    "Emacs Lisp": 10932,
+    "Perl": 5193,
+    "Python": 4626,
+    "sed": 2948,
+    "Standard ML": 2777,
+    "C": 1432,
+    "WebAssembly": 1378,
+    "HTML": 1070
+  },
+  "size": 4914903
+}

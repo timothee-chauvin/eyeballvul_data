@@ -1,0 +1,17 @@
+{
+  "commit": "967014a72dd3f634b2394420d7e10ffbb99c7ce1",
+  "repo_url": "https://github.com/xerrors/yuxi-know",
+  "date": "2025-11-15T14:33:22",
+  "languages": {
+    "Python": 745086,
+    "Vue": 704588,
+    "JavaScript": 158115,
+    "CSS": 21097,
+    "HTML": 7107,
+    "Shell": 7045,
+    "Dockerfile": 5244,
+    "PowerShell": 3593,
+    "Makefile": 739
+  },
+  "size": 1652614
+}

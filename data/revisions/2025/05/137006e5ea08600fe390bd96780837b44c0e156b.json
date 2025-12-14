@@ -1,0 +1,11 @@
+{
+  "commit": "137006e5ea08600fe390bd96780837b44c0e156b",
+  "repo_url": "https://github.com/gardener/gardenctl-v2",
+  "date": "2025-05-13T10:45:10",
+  "languages": {
+    "Go": 592312,
+    "Shell": 17926,
+    "Makefile": 6396
+  },
+  "size": 616634
+}

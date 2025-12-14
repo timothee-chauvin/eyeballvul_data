@@ -1,0 +1,13 @@
+{
+  "commit": "7f7c0e4e2d0be4309b50561ced118ec7f2093dea",
+  "repo_url": "https://github.com/wonderwhy-er/desktopcommandermcp",
+  "date": "2025-09-10T08:13:49",
+  "languages": {
+    "TypeScript": 319875,
+    "JavaScript": 296515,
+    "PowerShell": 34549,
+    "Shell": 23390,
+    "Dockerfile": 634
+  },
+  "size": 674963
+}

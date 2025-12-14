@@ -1,0 +1,23 @@
+{
+  "commit": "30ed02303322b8094cd3ef19c7c92450cea025b7",
+  "repo_url": "https://github.com/rethinkdb/rethinkdb",
+  "date": "2023-01-11T23:19:26",
+  "languages": {
+    "C++": 17610846,
+    "Python": 3859227,
+    "JavaScript": 117763,
+    "C": 84834,
+    "Ruby": 65944,
+    "Makefile": 55294,
+    "Shell": 54987,
+    "HTML": 20914,
+    "Haskell": 13234,
+    "XSLT": 11648,
+    "Perl": 6368,
+    "CSS": 6111,
+    "Less": 3320,
+    "AppleScript": 2599,
+    "Roff": 572
+  },
+  "size": 21913661
+}

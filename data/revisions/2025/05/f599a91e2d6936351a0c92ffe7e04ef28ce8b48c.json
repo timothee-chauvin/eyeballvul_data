@@ -1,0 +1,22 @@
+{
+  "commit": "f599a91e2d6936351a0c92ffe7e04ef28ce8b48c",
+  "repo_url": "https://github.com/taikoxyz/taiko-mono",
+  "date": "2025-05-06T04:19:31",
+  "languages": {
+    "Svelte": 2110430,
+    "Go": 1523271,
+    "Solidity": 1421526,
+    "TypeScript": 800708,
+    "JavaScript": 184311,
+    "MDX": 117508,
+    "CSS": 73311,
+    "Shell": 48351,
+    "Python": 12648,
+    "Astro": 7477,
+    "HTML": 6385,
+    "TeX": 4891,
+    "Makefile": 1323,
+    "Dockerfile": 1031
+  },
+  "size": 6313171
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "ec9d2a3f985fe868817a6ef24513849907cb9dba",
+  "repo_url": "https://github.com/machphy/mad-proxy",
+  "date": "2025-10-05T01:38:45",
+  "languages": {
+    "Python": 36284261,
+    "CSS": 102440,
+    "C": 91647,
+    "JavaScript": 42494,
+    "Shell": 12927,
+    "HTML": 9220,
+    "PowerShell": 9033,
+    "TeX": 8230,
+    "Kaitai Struct": 3685
+  },
+  "size": 36563937
+}

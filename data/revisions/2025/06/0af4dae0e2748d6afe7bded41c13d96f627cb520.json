@@ -1,0 +1,15 @@
+{
+  "commit": "0af4dae0e2748d6afe7bded41c13d96f627cb520",
+  "repo_url": "https://github.com/lite-xl/lite-xl",
+  "date": "2025-06-08T22:45:20",
+  "languages": {
+    "Lua": 581809,
+    "C": 393717,
+    "Shell": 45408,
+    "Meson": 10193,
+    "HTML": 2663,
+    "Python": 761,
+    "Objective-C": 529
+  },
+  "size": 1035080
+}

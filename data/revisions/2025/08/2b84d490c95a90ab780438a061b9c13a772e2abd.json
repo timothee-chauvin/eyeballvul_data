@@ -1,0 +1,15 @@
+{
+  "commit": "2b84d490c95a90ab780438a061b9c13a772e2abd",
+  "repo_url": "https://github.com/azuriom/azuriom",
+  "date": "2025-08-28T09:03:26",
+  "languages": {
+    "PHP": 684507,
+    "Blade": 342208,
+    "JavaScript": 16176,
+    "CSS": 5280,
+    "SCSS": 5272,
+    "Dockerfile": 466,
+    "Shell": 219
+  },
+  "size": 1054128
+}

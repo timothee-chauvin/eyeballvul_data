@@ -1,0 +1,17 @@
+{
+  "commit": "876a785b3c467b809804f56e0981bff448fcfdb5",
+  "repo_url": "https://github.com/classroomio/classroomio",
+  "date": "2025-10-11T13:26:14",
+  "languages": {
+    "Svelte": 1687016,
+    "TypeScript": 1446359,
+    "JavaScript": 262103,
+    "PLpgSQL": 120942,
+    "MDX": 40940,
+    "HTML": 39905,
+    "CSS": 21337,
+    "Shell": 3591,
+    "Dockerfile": 2923
+  },
+  "size": 3625116
+}

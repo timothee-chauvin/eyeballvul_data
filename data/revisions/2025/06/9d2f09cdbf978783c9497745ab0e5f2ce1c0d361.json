@@ -1,0 +1,16 @@
+{
+  "commit": "9d2f09cdbf978783c9497745ab0e5f2ce1c0d361",
+  "repo_url": "https://github.com/matthewdeaves/willow",
+  "date": "2025-06-06T16:23:05",
+  "languages": {
+    "PHP": 1846689,
+    "JavaScript": 154281,
+    "CSS": 100171,
+    "Shell": 70643,
+    "Hack": 34336,
+    "Twig": 28156,
+    "Dockerfile": 4628,
+    "Batchfile": 835
+  },
+  "size": 2239739
+}

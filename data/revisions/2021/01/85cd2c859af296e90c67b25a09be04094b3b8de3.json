@@ -1,0 +1,10 @@
+{
+  "commit": "85cd2c859af296e90c67b25a09be04094b3b8de3",
+  "repo_url": "https://github.com/mongodb/mongo-rust-driver",
+  "date": "2021-01-29T23:43:25",
+  "languages": {
+    "Rust": 1253546,
+    "Shell": 9007
+  },
+  "size": 1262553
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "c01bd0fe8e0b65430d7b7893c937e50110ec0020",
+  "repo_url": "https://github.com/angular/angular",
+  "date": "2020-09-02T19:51:31",
+  "languages": {
+    "TypeScript": 23826983,
+    "JavaScript": 2312247,
+    "HTML": 488707,
+    "Starlark": 483058,
+    "CSS": 265652,
+    "Shell": 92330,
+    "SCSS": 83914,
+    "Dockerfile": 9546,
+    "BitBake": 7222,
+    "PowerShell": 3936,
+    "jq": 619,
+    "Less": 80
+  },
+  "size": 27574294
+}

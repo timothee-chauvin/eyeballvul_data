@@ -1,0 +1,11 @@
+{
+  "commit": "bbce146e2dd20b3a001fc42876996ebc3fc87bea",
+  "repo_url": "https://github.com/perfood/couch-auth",
+  "date": "2024-07-10T11:42:40",
+  "languages": {
+    "TypeScript": 232368,
+    "JavaScript": 11503,
+    "Nunjucks": 6609
+  },
+  "size": 250480
+}

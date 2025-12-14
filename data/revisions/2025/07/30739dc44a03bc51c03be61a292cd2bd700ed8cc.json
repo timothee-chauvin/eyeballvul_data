@@ -1,0 +1,12 @@
+{
+  "commit": "30739dc44a03bc51c03be61a292cd2bd700ed8cc",
+  "repo_url": "https://github.com/arcadeai/arcade-mcp",
+  "date": "2025-07-23T21:09:54",
+  "languages": {
+    "Python": 3427818,
+    "Makefile": 106489,
+    "Dockerfile": 2344,
+    "Shell": 133
+  },
+  "size": 3536784
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "de0b0b37054ed7b56557315bd70acf13a45a03fd",
+  "repo_url": "https://github.com/facebook/react",
+  "date": "2016-04-30T00:32:43",
+  "languages": {
+    "JavaScript": 2118032,
+    "C++": 44974,
+    "TypeScript": 15102,
+    "CoffeeScript": 11606,
+    "Python": 8305,
+    "C": 5341,
+    "Shell": 525,
+    "Makefile": 189
+  },
+  "size": 2204074
+}

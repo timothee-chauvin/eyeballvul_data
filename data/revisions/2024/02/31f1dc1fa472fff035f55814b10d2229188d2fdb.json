@@ -1,0 +1,12 @@
+{
+  "commit": "31f1dc1fa472fff035f55814b10d2229188d2fdb",
+  "repo_url": "https://github.com/dfinity/agent-js",
+  "date": "2024-02-13T22:22:12",
+  "languages": {
+    "TypeScript": 684524,
+    "JavaScript": 9097,
+    "Motoko": 629,
+    "HTML": 266
+  },
+  "size": 694516
+}

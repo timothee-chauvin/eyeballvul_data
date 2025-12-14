@@ -1,0 +1,12 @@
+{
+  "commit": "deeb7e36df859af0e90d2462012c48465ba49f0f",
+  "repo_url": "https://github.com/redboltz/async_mqtt",
+  "date": "2025-09-02T10:18:49",
+  "languages": {
+    "C++": 3425624,
+    "CMake": 40498,
+    "Shell": 1556,
+    "Python": 1015
+  },
+  "size": 3468693
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "4365bfa1d6b0147ddbe6ee49b3631a7ec6218ad2",
+  "repo_url": "https://github.com/frappe/frappe",
+  "date": "2025-06-17T16:02:22",
+  "languages": {
+    "Python": 3972533,
+    "JavaScript": 2598059,
+    "SCSS": 267856,
+    "HTML": 265615,
+    "Vue": 109518,
+    "CSS": 65581,
+    "Less": 10921
+  },
+  "size": 7290083
+}

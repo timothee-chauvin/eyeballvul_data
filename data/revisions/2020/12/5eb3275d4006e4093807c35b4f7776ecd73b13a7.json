@@ -1,0 +1,16 @@
+{
+  "commit": "5eb3275d4006e4093807c35b4f7776ecd73b13a7",
+  "repo_url": "https://github.com/docker/docker-ce",
+  "date": "2020-12-01T19:10:28",
+  "languages": {
+    "Go": 10030081,
+    "Shell": 459596,
+    "PowerShell": 93109,
+    "Makefile": 35626,
+    "Dockerfile": 25456,
+    "C": 4815,
+    "Vim Script": 1369,
+    "Assembly": 81
+  },
+  "size": 10650133
+}

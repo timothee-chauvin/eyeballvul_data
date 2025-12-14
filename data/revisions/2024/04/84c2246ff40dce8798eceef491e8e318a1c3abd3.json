@@ -1,0 +1,20 @@
+{
+  "commit": "84c2246ff40dce8798eceef491e8e318a1c3abd3",
+  "repo_url": "https://github.com/smallbasic/smallbasic",
+  "date": "2024-04-26T08:34:29",
+  "languages": {
+    "C": 917916,
+    "C++": 814726,
+    "Java": 86033,
+    "Emacs Lisp": 29115,
+    "Makefile": 28295,
+    "FreeBasic": 20561,
+    "M4": 17157,
+    "JavaScript": 11931,
+    "GAP": 10918,
+    "HTML": 5484,
+    "NSIS": 4629,
+    "Shell": 631
+  },
+  "size": 1947396
+}

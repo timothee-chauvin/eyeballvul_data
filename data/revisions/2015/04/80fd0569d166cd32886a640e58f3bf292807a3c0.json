@@ -1,0 +1,10 @@
+{
+  "commit": "80fd0569d166cd32886a640e58f3bf292807a3c0",
+  "repo_url": "https://github.com/antirez/linenoise",
+  "date": "2015-04-13T07:38:43",
+  "languages": {
+    "C": 40576,
+    "Makefile": 184
+  },
+  "size": 40760
+}

@@ -1,0 +1,24 @@
+{
+  "commit": "78ca34d8c55eee6b0664f9c1d30fcca71077b843",
+  "repo_url": "https://github.com/bminor/glibc",
+  "date": "2023-07-31T18:07:55",
+  "languages": {
+    "C": 54656567,
+    "Assembly": 18840585,
+    "Roff": 2406760,
+    "Makefile": 753522,
+    "Python": 748000,
+    "TeX": 380222,
+    "C++": 354079,
+    "Shell": 338383,
+    "SourcePawn": 278499,
+    "M4": 124771,
+    "Awk": 67909,
+    "POV-Ray SDL": 35291,
+    "Perl": 26234,
+    "Pawn": 9541,
+    "Yacc": 7685,
+    "sed": 1936
+  },
+  "size": 79029984
+}

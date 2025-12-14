@@ -1,0 +1,20 @@
+{
+  "commit": "97b1de50512dc24e1ee118af2ee148f652875bf8",
+  "repo_url": "https://github.com/libvirt/libvirt",
+  "date": "2021-01-12T17:37:29",
+  "languages": {
+    "C": 26061172,
+    "Python": 291233,
+    "Meson": 203452,
+    "Perl": 141951,
+    "Shell": 128618,
+    "Dockerfile": 107034,
+    "Makefile": 84198,
+    "Augeas": 17801,
+    "DTrace": 4679,
+    "Standard ML": 4270,
+    "Emacs Lisp": 405,
+    "RPC": 164
+  },
+  "size": 27044977
+}

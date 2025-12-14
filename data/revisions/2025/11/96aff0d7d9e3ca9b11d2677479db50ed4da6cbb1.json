@@ -1,0 +1,14 @@
+{
+  "commit": "96aff0d7d9e3ca9b11d2677479db50ed4da6cbb1",
+  "repo_url": "https://github.com/aliasrobotics/cai",
+  "date": "2025-11-30T12:01:42",
+  "languages": {
+    "Python": 3108480,
+    "PHP": 17794,
+    "Jupyter Notebook": 17286,
+    "Dockerfile": 7781,
+    "Shell": 1689,
+    "Makefile": 856
+  },
+  "size": 3153886
+}

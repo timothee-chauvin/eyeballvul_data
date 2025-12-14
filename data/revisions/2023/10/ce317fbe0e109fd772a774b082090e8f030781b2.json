@@ -1,0 +1,10 @@
+{
+  "commit": "ce317fbe0e109fd772a774b082090e8f030781b2",
+  "repo_url": "https://github.com/dfinity/stable-structures",
+  "date": "2023-10-05T09:48:39",
+  "languages": {
+    "Rust": 370900,
+    "Shell": 3694
+  },
+  "size": 374594
+}

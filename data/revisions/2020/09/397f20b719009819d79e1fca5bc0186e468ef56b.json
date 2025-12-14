@@ -1,0 +1,13 @@
+{
+  "commit": "397f20b719009819d79e1fca5bc0186e468ef56b",
+  "repo_url": "https://github.com/jqhph/dcat-admin",
+  "date": "2020-09-12T01:06:54",
+  "languages": {
+    "JavaScript": 3237543,
+    "PHP": 1531864,
+    "SCSS": 639865,
+    "Blade": 308024,
+    "CSS": 269243
+  },
+  "size": 5986539
+}
