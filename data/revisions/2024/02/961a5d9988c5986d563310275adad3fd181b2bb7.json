@@ -1,0 +1,12 @@
+{
+  "commit": "961a5d9988c5986d563310275adad3fd181b2bb7",
+  "repo_url": "https://github.com/dannyvankooten/pepper-lang",
+  "date": "2024-02-15T14:58:44",
+  "languages": {
+    "C": 255798,
+    "Makefile": 1533,
+    "Shell": 1300,
+    "Python": 522
+  },
+  "size": 259153
+}

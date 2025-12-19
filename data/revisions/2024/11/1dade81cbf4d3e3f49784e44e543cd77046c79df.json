@@ -1,0 +1,18 @@
+{
+  "commit": "1dade81cbf4d3e3f49784e44e543cd77046c79df",
+  "repo_url": "https://github.com/avahi/avahi",
+  "date": "2024-11-19T07:35:14",
+  "languages": {
+    "C": 1895285,
+    "C#": 97914,
+    "M4": 78646,
+    "Makefile": 76194,
+    "Python": 34704,
+    "Shell": 24390,
+    "C++": 7515,
+    "XSLT": 6650,
+    "Perl": 1492,
+    "Emacs Lisp": 210
+  },
+  "size": 2223000
+}

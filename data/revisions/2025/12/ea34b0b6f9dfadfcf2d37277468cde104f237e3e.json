@@ -1,0 +1,16 @@
+{
+  "commit": "ea34b0b6f9dfadfcf2d37277468cde104f237e3e",
+  "repo_url": "https://gitlab.com/yaook/operator",
+  "date": "2025-12-08T12:41:39",
+  "languages": {
+    "Python": 4734898,
+    "CUE": 237965,
+    "Shell": 64768,
+    "Jinja": 33811,
+    "Makefile": 4722,
+    "Dockerfile": 4680,
+    "Smarty": 4128,
+    "Erlang": 1878
+  },
+  "size": 5086850
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "66e2f00223b915c337291c0f34876d6390fb1c80",
+  "repo_url": "https://github.com/freshrss/freshrss",
+  "date": "2025-08-18T15:46:26",
+  "languages": {
+    "PHP": 4027722,
+    "CSS": 471366,
+    "HTML": 352362,
+    "JavaScript": 112870,
+    "SCSS": 82425,
+    "Shell": 7240,
+    "Makefile": 6254,
+    "Dockerfile": 3857
+  },
+  "size": 5064096
+}

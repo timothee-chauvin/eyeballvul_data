@@ -1,0 +1,20 @@
+{
+  "commit": "9b30523c3aea82106970521db46ec419c3c31bcc",
+  "repo_url": "https://github.com/awslabs/harmonix",
+  "date": "2025-05-02T20:17:52",
+  "languages": {
+    "TypeScript": 1008595,
+    "Shell": 189222,
+    "HCL": 57287,
+    "JavaScript": 48043,
+    "Python": 29366,
+    "CSS": 14499,
+    "Makefile": 6700,
+    "Dockerfile": 4766,
+    "Java": 2196,
+    "Smarty": 1048,
+    "HTML": 368,
+    "Procfile": 48
+  },
+  "size": 1362138
+}

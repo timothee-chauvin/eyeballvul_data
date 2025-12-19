@@ -1,7 +1,7 @@
 {
   "id": "OSV-2022-360",
   "published": "2022-04-20T00:01:28.065887",
-  "modified": "2025-12-13T14:17:23.609406",
+  "modified": "2025-12-18T14:21:07.920140",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=46818\n\n```\nCrash type: Invalid-free\nCrash state:\nigl::MshLoader::~MshLoader\nigl_fuzzer.cpp\n```\n",
   "summary": "Invalid-free in igl::MshLoader::~MshLoader",
   "repo_url": "https://github.com/libigl/libigl",
