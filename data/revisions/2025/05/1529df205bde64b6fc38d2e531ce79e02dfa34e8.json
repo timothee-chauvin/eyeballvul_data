@@ -1,0 +1,22 @@
+{
+  "commit": "1529df205bde64b6fc38d2e531ce79e02dfa34e8",
+  "repo_url": "https://github.com/yuzutech/kroki",
+  "date": "2025-05-19T11:24:22",
+  "languages": {
+    "JavaScript": 5284336,
+    "Java": 520449,
+    "CSS": 39734,
+    "TeX": 15000,
+    "Dockerfile": 14345,
+    "Shell": 7406,
+    "PureBasic": 5123,
+    "HTML": 4856,
+    "HCL": 2334,
+    "Mermaid": 2033,
+    "SystemVerilog": 351,
+    "D2": 187,
+    "HyPhy": 139,
+    "Go": 50
+  },
+  "size": 5896343
+}

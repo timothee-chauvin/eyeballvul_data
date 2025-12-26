@@ -1,0 +1,16 @@
+{
+  "commit": "e5e58b1b307d92cbe3432431a9e22cd648f8d4d1",
+  "repo_url": "https://github.com/genymobile/scrcpy",
+  "date": "2025-09-27T14:10:10",
+  "languages": {
+    "C": 896654,
+    "Java": 443988,
+    "Shell": 25084,
+    "Roff": 23392,
+    "Meson": 10443,
+    "AIDL": 2558,
+    "VBScript": 212,
+    "Batchfile": 56
+  },
+  "size": 1402387
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "44f0dbfd85a5cea4bdbc4e1cbcf276079b12ad4f",
+  "repo_url": "https://github.com/coppermine-gallery/cpg1.6.x",
+  "date": "2023-04-22T11:48:40",
+  "languages": {
+    "PHP": 4203781,
+    "JavaScript": 263853,
+    "CSS": 125230,
+    "HTML": 23270,
+    "Hack": 4445
+  },
+  "size": 4620579
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "88e7d0612093430c1a9d8f321ded78eda93aa66d",
+  "repo_url": "https://github.com/learningcircuit/local-deep-research",
+  "date": "2025-12-09T22:14:26",
+  "languages": {
+    "Python": 6537877,
+    "JavaScript": 2127053,
+    "HTML": 819786,
+    "CSS": 229322,
+    "Shell": 18761,
+    "Dockerfile": 7637,
+    "Jinja": 1138
+  },
+  "size": 9741574
+}

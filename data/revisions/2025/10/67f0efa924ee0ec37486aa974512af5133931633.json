@@ -1,0 +1,14 @@
+{
+  "commit": "67f0efa924ee0ec37486aa974512af5133931633",
+  "repo_url": "https://github.com/fluidsynth/fluidsynth",
+  "date": "2025-10-31T10:26:56",
+  "languages": {
+    "C": 2261606,
+    "CMake": 217687,
+    "C++": 207767,
+    "Shell": 28595,
+    "Makefile": 2103,
+    "Kotlin": 1979
+  },
+  "size": 2719737
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "eb51bdf11e8bde87e9d983730209c7a147e39fb0",
+  "repo_url": "https://github.com/chmln/sd",
+  "date": "2023-11-08T02:19:46",
+  "languages": {
+    "Rust": 38782,
+    "PowerShell": 2820,
+    "Roff": 2511,
+    "Shell": 2084,
+    "Elvish": 1537
+  },
+  "size": 47734
+}

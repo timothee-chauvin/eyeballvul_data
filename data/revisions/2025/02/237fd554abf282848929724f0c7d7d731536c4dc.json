@@ -1,0 +1,11 @@
+{
+  "commit": "237fd554abf282848929724f0c7d7d731536c4dc",
+  "repo_url": "https://github.com/clickhouse/ch-go",
+  "date": "2025-02-01T12:10:01",
+  "languages": {
+    "Go": 464055,
+    "Shell": 636,
+    "Makefile": 128
+  },
+  "size": 464819
+}

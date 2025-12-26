@@ -1,0 +1,15 @@
+{
+  "commit": "cf849f7dffa707cc41bc5dd1a3b78812a6d06190",
+  "repo_url": "https://github.com/frappe/crm",
+  "date": "2025-09-25T16:33:11",
+  "languages": {
+    "Vue": 1135942,
+    "Python": 279437,
+    "JavaScript": 99869,
+    "HTML": 9309,
+    "TypeScript": 6723,
+    "Shell": 2050,
+    "CSS": 467
+  },
+  "size": 1533797
+}

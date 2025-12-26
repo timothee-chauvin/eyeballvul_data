@@ -1,0 +1,16 @@
+{
+  "commit": "6a57823ef39c25a5c0aff1839421ba7ab6ce7dd5",
+  "repo_url": "https://github.com/wb2osz/direwolf",
+  "date": "2025-10-03T21:06:33",
+  "languages": {
+    "C": 2859484,
+    "CMake": 80723,
+    "Perl": 6642,
+    "Shell": 6139,
+    "C++": 2625,
+    "Makefile": 1076,
+    "Python": 983,
+    "Batchfile": 114
+  },
+  "size": 2957786
+}

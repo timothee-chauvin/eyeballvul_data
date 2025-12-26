@@ -1,7 +1,7 @@
 {
   "id": "OSV-2024-1346",
   "published": "2024-12-10T00:00:20.380006",
-  "modified": "2025-12-18T14:28:15.688934",
+  "modified": "2025-12-23T15:50:59.553872",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=382547706\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nglslang::HlslTokenStream::advanceToken\nglslang::HlslGrammar::acceptLiteral\nglslang::HlslGrammar::acceptPostfixExpression\n```\n",
   "summary": "UNKNOWN READ in glslang::HlslTokenStream::advanceToken",
   "repo_url": "https://github.com/google/shaderc",

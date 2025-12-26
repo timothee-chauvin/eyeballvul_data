@@ -1,0 +1,16 @@
+{
+  "commit": "af3e7c5ae2b82f28b0f9b86067b60a274b6488f8",
+  "repo_url": "https://github.com/jcthiele/openxrechnungtoolbox",
+  "date": "2024-10-05T08:05:16",
+  "languages": {
+    "XSLT": 71250464,
+    "HTML": 158466,
+    "Java": 118086,
+    "CSS": 44326,
+    "JavaScript": 12604,
+    "NSIS": 5104,
+    "Batchfile": 479,
+    "Shell": 239
+  },
+  "size": 71589768
+}

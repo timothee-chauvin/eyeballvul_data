@@ -1,0 +1,11 @@
+{
+  "commit": "d829a235854996e0f25736662510c2aa25e61fae",
+  "repo_url": "https://github.com/aws/amazon-s3-encryption-client-java",
+  "date": "2025-12-16T22:06:10",
+  "languages": {
+    "Java": 1412140,
+    "Shell": 746,
+    "Makefile": 529
+  },
+  "size": 1413415
+}

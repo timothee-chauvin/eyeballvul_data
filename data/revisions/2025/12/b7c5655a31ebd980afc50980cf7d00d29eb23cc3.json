@@ -1,0 +1,12 @@
+{
+  "commit": "b7c5655a31ebd980afc50980cf7d00d29eb23cc3",
+  "repo_url": "https://github.com/kedacore/keda",
+  "date": "2025-12-08T13:44:09",
+  "languages": {
+    "Go": 4881054,
+    "Makefile": 20224,
+    "Shell": 15035,
+    "Dockerfile": 6095
+  },
+  "size": 4922408
+}

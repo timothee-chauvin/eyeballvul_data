@@ -1,0 +1,16 @@
+{
+  "commit": "fbf561c6c5e1656bc98a2e20110d53774b84bbe2",
+  "repo_url": "https://github.com/chyrp/chyrp",
+  "date": "2014-11-20T17:42:39",
+  "languages": {
+    "PHP": 1412511,
+    "Twig": 222427,
+    "CSS": 135878,
+    "JavaScript": 99077,
+    "HTML": 25031,
+    "Ruby": 23528,
+    "Shell": 4881,
+    "Python": 1632
+  },
+  "size": 1924965
+}

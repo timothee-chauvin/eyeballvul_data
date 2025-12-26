@@ -1,0 +1,10 @@
+{
+  "commit": "b1e5041e28bfae15f611bb2439b12b31f1d2eb3a",
+  "repo_url": "https://github.com/aws/amazon-s3-encryption-client-go",
+  "date": "2023-11-16T22:30:37",
+  "languages": {
+    "Go": 143025,
+    "TypeScript": 3957
+  },
+  "size": 146982
+}
