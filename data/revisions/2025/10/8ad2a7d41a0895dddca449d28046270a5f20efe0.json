@@ -1,0 +1,21 @@
+{
+  "commit": "8ad2a7d41a0895dddca449d28046270a5f20efe0",
+  "repo_url": "https://github.com/abpframework/abp",
+  "date": "2025-10-01T10:06:55",
+  "languages": {
+    "C#": 13453105,
+    "HTML": 1495933,
+    "TypeScript": 1430009,
+    "JavaScript": 889501,
+    "CSS": 72082,
+    "PowerShell": 55356,
+    "SCSS": 53010,
+    "Go": 16325,
+    "Less": 12620,
+    "Dockerfile": 5358,
+    "Shell": 2943,
+    "Batchfile": 1012,
+    "Smarty": 602
+  },
+  "size": 17487856
+}

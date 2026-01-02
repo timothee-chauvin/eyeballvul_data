@@ -1,0 +1,16 @@
+{
+  "commit": "39b378a2e03b70f276183eb2d3231477f8fdf6b0",
+  "repo_url": "https://github.com/openops-cloud/openops",
+  "date": "2025-12-10T13:44:52",
+  "languages": {
+    "TypeScript": 6628236,
+    "CSS": 74188,
+    "JavaScript": 19750,
+    "Dockerfile": 10049,
+    "Shell": 8699,
+    "Smarty": 2323,
+    "HTML": 2007,
+    "MDX": 1271
+  },
+  "size": 6746523
+}

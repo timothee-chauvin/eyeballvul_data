@@ -1,0 +1,15 @@
+{
+  "commit": "4f0e1ef8cb0380f39d7f53712a9056b6478bc05f",
+  "repo_url": "https://github.com/decocms/mesh",
+  "date": "2025-12-25T02:40:18",
+  "languages": {
+    "TypeScript": 2333665,
+    "MDX": 180966,
+    "JavaScript": 53200,
+    "Astro": 34997,
+    "CSS": 27081,
+    "Dockerfile": 885,
+    "HTML": 249
+  },
+  "size": 2631043
+}

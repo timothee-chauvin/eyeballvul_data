@@ -1,0 +1,10 @@
+{
+  "commit": "d9483249d67ed2aaf34a0a662e7900a2e84b95cf",
+  "repo_url": "https://github.com/symphorien/nixseparatedebuginfod",
+  "date": "2024-07-20T17:06:37",
+  "languages": {
+    "Rust": 104259,
+    "Nix": 14215
+  },
+  "size": 118474
+}

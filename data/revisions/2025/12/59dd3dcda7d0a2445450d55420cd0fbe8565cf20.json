@@ -1,0 +1,18 @@
+{
+  "commit": "59dd3dcda7d0a2445450d55420cd0fbe8565cf20",
+  "repo_url": "https://github.com/abhinavxd/libredesk",
+  "date": "2025-12-12T19:52:59",
+  "languages": {
+    "Go": 758940,
+    "Vue": 756903,
+    "JavaScript": 241810,
+    "PLpgSQL": 33009,
+    "HTML": 15335,
+    "SCSS": 4687,
+    "TypeScript": 4058,
+    "CSS": 3177,
+    "Makefile": 2975,
+    "Dockerfile": 358
+  },
+  "size": 1821252
+}

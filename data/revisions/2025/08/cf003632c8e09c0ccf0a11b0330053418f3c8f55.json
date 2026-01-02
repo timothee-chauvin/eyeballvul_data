@@ -1,0 +1,19 @@
+{
+  "commit": "cf003632c8e09c0ccf0a11b0330053418f3c8f55",
+  "repo_url": "https://github.com/eigent-ai/eigent",
+  "date": "2025-08-29T11:46:45",
+  "languages": {
+    "TypeScript": 711751,
+    "Python": 451813,
+    "JavaScript": 42234,
+    "CSS": 36018,
+    "PowerShell": 4631,
+    "Shell": 3972,
+    "Batchfile": 3110,
+    "Dockerfile": 1524,
+    "HTML": 946,
+    "Mako": 747,
+    "NSIS": 107
+  },
+  "size": 1256853
+}

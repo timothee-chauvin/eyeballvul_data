@@ -1,0 +1,15 @@
+{
+  "commit": "eed75175c077f83893786d27bd9b24567c0d79b5",
+  "repo_url": "https://github.com/floooh/sokol",
+  "date": "2024-11-07T16:42:28",
+  "languages": {
+    "C": 4178825,
+    "Objective-C": 709080,
+    "Python": 153095,
+    "CMake": 14413,
+    "Shell": 3370,
+    "C++": 3068,
+    "Batchfile": 551
+  },
+  "size": 5062402
+}

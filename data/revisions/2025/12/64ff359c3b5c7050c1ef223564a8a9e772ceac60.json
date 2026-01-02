@@ -1,0 +1,19 @@
+{
+  "commit": "64ff359c3b5c7050c1ef223564a8a9e772ceac60",
+  "repo_url": "https://github.com/serverless/serverless",
+  "date": "2025-12-29T22:28:04",
+  "languages": {
+    "JavaScript": 4850155,
+    "Go": 66552,
+    "Java": 42813,
+    "Shell": 23656,
+    "Python": 7593,
+    "Perl": 4726,
+    "TypeScript": 2851,
+    "Dockerfile": 2421,
+    "Ruby": 1936,
+    "HCL": 1519,
+    "Makefile": 1192
+  },
+  "size": 5005414
+}

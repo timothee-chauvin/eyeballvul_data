@@ -1,0 +1,19 @@
+{
+  "commit": "b732443c442239c2e0184820e9b23cca0de0828c",
+  "repo_url": "https://github.com/jedisct1/libsodium",
+  "date": "2019-01-06T19:32:54",
+  "languages": {
+    "C": 4659543,
+    "Assembly": 102052,
+    "M4": 78581,
+    "Shell": 51465,
+    "Makefile": 30956,
+    "Smarty": 26875,
+    "Python": 14328,
+    "CMake": 9743,
+    "Batchfile": 4896,
+    "PHP": 563,
+    "VBScript": 294
+  },
+  "size": 4979296
+}

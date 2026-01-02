@@ -1,0 +1,17 @@
+{
+  "commit": "df2545cd3ccca90e626c42604ec3f60ce1df0062",
+  "repo_url": "https://github.com/xyproto/algernon",
+  "date": "2025-08-07T19:51:37",
+  "languages": {
+    "Go": 505438,
+    "Lua": 336072,
+    "Shell": 16049,
+    "Dockerfile": 5567,
+    "Roff": 3801,
+    "Python": 3380,
+    "Makefile": 1625,
+    "Ruby": 1415,
+    "Batchfile": 262
+  },
+  "size": 873609
+}

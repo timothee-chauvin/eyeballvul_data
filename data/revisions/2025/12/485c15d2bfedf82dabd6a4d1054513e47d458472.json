@@ -1,0 +1,15 @@
+{
+  "commit": "485c15d2bfedf82dabd6a4d1054513e47d458472",
+  "repo_url": "https://github.com/quenary/tugtainer",
+  "date": "2025-12-15T23:31:59",
+  "languages": {
+    "Python": 202943,
+    "TypeScript": 95821,
+    "HTML": 39344,
+    "SCSS": 7687,
+    "Mako": 704,
+    "Shell": 215,
+    "JavaScript": 155
+  },
+  "size": 346869
+}

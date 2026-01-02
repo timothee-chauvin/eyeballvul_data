@@ -1,7 +1,7 @@
 {
   "id": "OSV-2023-239",
   "published": "2023-03-26T13:02:03.445119",
-  "modified": "2025-12-25T14:13:43.950841",
+  "modified": "2026-01-01T14:12:26.879833",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=57401\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nihevce_strm_fill_done\nihevce_ent_coding_thrd\nosal_func\n```\n",
   "summary": "Use-of-uninitialized-value in ihevce_strm_fill_done",
   "repo_url": "https://github.com/ittiam-systems/libhevc.git",

@@ -1,0 +1,16 @@
+{
+  "commit": "880f4c49460c9ade314792b73c314a787f1317d7",
+  "repo_url": "https://github.com/hemmeligorg/hemmelig.app",
+  "date": "2025-12-27T21:49:45",
+  "languages": {
+    "TypeScript": 781436,
+    "JavaScript": 7656,
+    "Go": 7461,
+    "Dockerfile": 2712,
+    "HTML": 2184,
+    "CSS": 1960,
+    "Shell": 1805,
+    "Smarty": 1618
+  },
+  "size": 806832
+}

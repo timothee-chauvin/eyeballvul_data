@@ -1,0 +1,19 @@
+{
+  "commit": "48456becd945a2acaa67cd81909ff35125262c61",
+  "repo_url": "https://github.com/weaviate/weaviate",
+  "date": "2025-10-29T09:36:59",
+  "languages": {
+    "Go": 19014244,
+    "Assembly": 254490,
+    "Python": 183408,
+    "Shell": 105686,
+    "C": 77742,
+    "Makefile": 4193,
+    "Jinja": 3087,
+    "Dockerfile": 2486,
+    "Smarty": 1338,
+    "JavaScript": 861,
+    "HCL": 558
+  },
+  "size": 19648093
+}

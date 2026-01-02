@@ -1,0 +1,20 @@
+{
+  "commit": "a8f53a630ad715beaefb1ba08813874a8f0dbcf1",
+  "repo_url": "https://github.com/psolom/richfilemanager",
+  "date": "2018-06-23T19:31:26",
+  "languages": {
+    "JavaScript": 1785834,
+    "HTML": 681374,
+    "Java": 305368,
+    "CSS": 154085,
+    "PHP": 61726,
+    "C#": 32950,
+    "ASP.NET": 16899,
+    "SCSS": 13896,
+    "Go": 8967,
+    "Python": 7577,
+    "Smarty": 392,
+    "Shell": 317
+  },
+  "size": 3069385
+}

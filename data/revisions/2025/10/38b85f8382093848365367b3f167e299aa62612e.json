@@ -1,0 +1,13 @@
+{
+  "commit": "38b85f8382093848365367b3f167e299aa62612e",
+  "repo_url": "https://github.com/overhangio/tutor",
+  "date": "2025-10-20T12:36:37",
+  "languages": {
+    "Python": 391747,
+    "Dockerfile": 15016,
+    "Shell": 7242,
+    "Makefile": 3760,
+    "Jinja": 1280
+  },
+  "size": 419045
+}

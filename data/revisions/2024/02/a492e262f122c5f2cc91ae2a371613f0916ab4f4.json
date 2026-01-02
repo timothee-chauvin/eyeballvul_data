@@ -1,0 +1,12 @@
+{
+  "commit": "a492e262f122c5f2cc91ae2a371613f0916ab4f4",
+  "repo_url": "https://github.com/opendatahub-io/opendatahub-operator",
+  "date": "2024-02-20T19:36:21",
+  "languages": {
+    "Go": 445450,
+    "Makefile": 14548,
+    "Dockerfile": 3680,
+    "Shell": 3366
+  },
+  "size": 467044
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "732a6b18ce6c2e6861f8af2322dca6e243f23b20",
+  "repo_url": "https://github.com/redhat-developer/gitops-operator",
+  "date": "2025-04-23T03:39:49",
+  "languages": {
+    "Go": 313776,
+    "Shell": 57400,
+    "Smarty": 17911,
+    "Makefile": 13557,
+    "Dockerfile": 4667
+  },
+  "size": 407311
+}

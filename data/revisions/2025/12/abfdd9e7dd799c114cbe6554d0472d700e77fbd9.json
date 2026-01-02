@@ -1,0 +1,16 @@
+{
+  "commit": "abfdd9e7dd799c114cbe6554d0472d700e77fbd9",
+  "repo_url": "https://github.com/signalk/signalk-server",
+  "date": "2025-12-27T19:49:45",
+  "languages": {
+    "JavaScript": 711388,
+    "TypeScript": 495833,
+    "SCSS": 79744,
+    "CSS": 13559,
+    "HTML": 4383,
+    "Shell": 2622,
+    "Dockerfile": 2121,
+    "Procfile": 71
+  },
+  "size": 1309721
+}
