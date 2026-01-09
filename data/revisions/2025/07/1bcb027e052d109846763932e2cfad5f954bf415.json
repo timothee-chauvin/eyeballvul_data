@@ -1,0 +1,15 @@
+{
+  "commit": "1bcb027e052d109846763932e2cfad5f954bf415",
+  "repo_url": "https://github.com/fosrl/pangolin",
+  "date": "2025-07-02T04:04:40",
+  "languages": {
+    "TypeScript": 2106815,
+    "Go": 35003,
+    "CSS": 3399,
+    "JavaScript": 3149,
+    "Makefile": 2168,
+    "Dockerfile": 932,
+    "Shell": 39
+  },
+  "size": 2151505
+}

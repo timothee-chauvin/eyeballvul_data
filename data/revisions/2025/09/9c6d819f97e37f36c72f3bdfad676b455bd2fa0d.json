@@ -1,0 +1,14 @@
+{
+  "commit": "9c6d819f97e37f36c72f3bdfad676b455bd2fa0d",
+  "repo_url": "https://github.com/project-monai/monai",
+  "date": "2025-09-22T10:10:14",
+  "languages": {
+    "Python": 10032377,
+    "C++": 255006,
+    "Cuda": 212796,
+    "Shell": 23211,
+    "C": 16074,
+    "Dockerfile": 2947
+  },
+  "size": 10542411
+}

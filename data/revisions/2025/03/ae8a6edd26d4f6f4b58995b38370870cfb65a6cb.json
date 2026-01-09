@@ -1,0 +1,12 @@
+{
+  "commit": "ae8a6edd26d4f6f4b58995b38370870cfb65a6cb",
+  "repo_url": "https://github.com/mccutchen/go-httpbin",
+  "date": "2025-03-08T20:06:28",
+  "languages": {
+    "Go": 279668,
+    "HTML": 17982,
+    "Makefile": 3075,
+    "Dockerfile": 358
+  },
+  "size": 301083
+}

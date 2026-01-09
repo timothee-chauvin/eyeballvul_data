@@ -1,0 +1,17 @@
+{
+  "commit": "92e32fbc9d5f2d485d5cf00882964d4c2cf65c1f",
+  "repo_url": "https://github.com/oneflow-inc/oneflow",
+  "date": "2023-01-04T01:56:59",
+  "languages": {
+    "C++": 39273821,
+    "Python": 6144924,
+    "Cuda": 2505607,
+    "C": 519355,
+    "CMake": 126793,
+    "MLIR": 112690,
+    "Shell": 30181,
+    "Dockerfile": 9647,
+    "NASL": 7958
+  },
+  "size": 48730976
+}

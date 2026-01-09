@@ -1,0 +1,12 @@
+{
+  "commit": "f315a11271d79c8fd5649d3bd3fef9596d67c9e9",
+  "repo_url": "https://github.com/pmgl/microstudio",
+  "date": "2024-01-29T09:30:49",
+  "languages": {
+    "JavaScript": 1673232,
+    "CoffeeScript": 1214067,
+    "CSS": 194964,
+    "Pug": 110362
+  },
+  "size": 3192625
+}

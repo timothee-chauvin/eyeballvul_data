@@ -1,7 +1,7 @@
 {
   "id": "OSV-2024-184",
   "published": "2024-03-21T00:13:27.175097",
-  "modified": "2026-01-01T14:05:35.088331",
+  "modified": "2026-01-06T14:19:47.683591",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=67437\n\n```\nCrash type: Security exception\nCrash state:\norg.threeten.bp.format.DateTimeFormatterBuilder$CompositePrinterParser.parse\njava.base/sun.util.locale.provider.LocaleProviderAdapter.getAdapter\njava.base/java.text.DateFormatSymbols.getProviderInstance\n```\n",
   "summary": "Security exception in org.threeten.bp.format.DateTimeFormatterBuilder$CompositePrinterParser.parse",
   "repo_url": "https://github.com/threeten/threetenbp",

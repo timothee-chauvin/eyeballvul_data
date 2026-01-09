@@ -1,0 +1,15 @@
+{
+  "commit": "2ff94ebd2d325a6d0cbe2ac320ab8c2fafaef756",
+  "repo_url": "https://github.com/sohutv/cachecloud",
+  "date": "2023-02-23T09:01:25",
+  "languages": {
+    "Java": 1501276,
+    "JavaScript": 1481557,
+    "PLpgSQL": 427110,
+    "CSS": 383298,
+    "FreeMarker": 74311,
+    "Shell": 8150,
+    "HTML": 1764
+  },
+  "size": 3877466
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "0f3eb10fc6b1294cefabea7341a40b46f86cd563",
+  "repo_url": "https://github.com/owncloud/guests",
+  "date": "2024-01-23T15:50:00",
+  "languages": {
+    "JavaScript": 134688,
+    "PHP": 106062,
+    "Starlark": 78001,
+    "Gherkin": 54053,
+    "Makefile": 6830,
+    "CSS": 42
+  },
+  "size": 379676
+}

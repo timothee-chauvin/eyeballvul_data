@@ -1,0 +1,21 @@
+{
+  "commit": "8e1df48d4b713f7a8c945cbc4dd76e0ecad5c396",
+  "repo_url": "https://github.com/turms-im/turms",
+  "date": "2023-03-13T09:27:05",
+  "languages": {
+    "Java": 15212797,
+    "Dart": 934421,
+    "Swift": 812027,
+    "TypeScript": 611544,
+    "Vue": 334335,
+    "Kotlin": 213011,
+    "HCL": 64736,
+    "JavaScript": 27984,
+    "Shell": 12132,
+    "Dockerfile": 6136,
+    "Lua": 5830,
+    "HTML": 1438,
+    "SCSS": 660
+  },
+  "size": 18237051
+}

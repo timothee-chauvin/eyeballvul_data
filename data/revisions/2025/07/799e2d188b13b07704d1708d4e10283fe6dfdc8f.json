@@ -1,0 +1,11 @@
+{
+  "commit": "799e2d188b13b07704d1708d4e10283fe6dfdc8f",
+  "repo_url": "https://github.com/msgpack/msgpack-java",
+  "date": "2025-07-19T19:40:06",
+  "languages": {
+    "Java": 609905,
+    "Scala": 113006,
+    "Shell": 23913
+  },
+  "size": 746824
+}

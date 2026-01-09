@@ -1,0 +1,13 @@
+{
+  "commit": "0a494e3d2f9b59d912e6dc37d4e8b3789776959b",
+  "repo_url": "https://github.com/omec-project/upf",
+  "date": "2025-11-11T19:59:52",
+  "languages": {
+    "Go": 265538,
+    "Python": 189577,
+    "Shell": 21890,
+    "Dockerfile": 7459,
+    "Makefile": 4666
+  },
+  "size": 489130
+}

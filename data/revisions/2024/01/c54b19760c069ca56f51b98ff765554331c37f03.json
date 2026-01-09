@@ -1,0 +1,14 @@
+{
+  "commit": "c54b19760c069ca56f51b98ff765554331c37f03",
+  "repo_url": "https://github.com/zhanglun/lettura",
+  "date": "2024-01-31T12:43:26",
+  "languages": {
+    "TypeScript": 307702,
+    "Rust": 86156,
+    "CSS": 15076,
+    "JavaScript": 8453,
+    "SCSS": 5478,
+    "HTML": 571
+  },
+  "size": 423436
+}

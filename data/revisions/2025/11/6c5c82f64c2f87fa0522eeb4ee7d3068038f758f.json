@@ -1,0 +1,15 @@
+{
+  "commit": "6c5c82f64c2f87fa0522eeb4ee7d3068038f758f",
+  "repo_url": "https://github.com/wavetermdev/waveterm",
+  "date": "2025-11-05T01:04:21",
+  "languages": {
+    "Go": 1963743,
+    "TypeScript": 1655061,
+    "CSS": 281898,
+    "SCSS": 94871,
+    "Shell": 42750,
+    "JavaScript": 9306,
+    "HTML": 1214
+  },
+  "size": 4048843
+}

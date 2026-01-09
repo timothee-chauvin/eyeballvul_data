@@ -1,0 +1,15 @@
+{
+  "commit": "d52a0d550f8cdef4faa0fc83738f1ca527680da5",
+  "repo_url": "https://github.com/axllent/mailpit",
+  "date": "2025-11-26T04:44:26",
+  "languages": {
+    "Go": 548816,
+    "Vue": 180484,
+    "JavaScript": 16087,
+    "SCSS": 8148,
+    "Shell": 5969,
+    "HTML": 1393,
+    "Dockerfile": 935
+  },
+  "size": 761832
+}

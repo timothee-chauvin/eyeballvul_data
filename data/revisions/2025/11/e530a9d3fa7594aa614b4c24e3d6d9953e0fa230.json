@@ -1,0 +1,14 @@
+{
+  "commit": "e530a9d3fa7594aa614b4c24e3d6d9953e0fa230",
+  "repo_url": "https://github.com/actiontech/sqle",
+  "date": "2025-11-28T02:16:54",
+  "languages": {
+    "Go": 5370327,
+    "Makefile": 11774,
+    "Shell": 8579,
+    "PLpgSQL": 1944,
+    "Dockerfile": 1234,
+    "Python": 739
+  },
+  "size": 5394597
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "7d6460e65f9e3db4cc08492c858fc18b18c39980",
+  "repo_url": "https://github.com/jelmer/dulwich",
+  "date": "2017-10-01T00:52:00",
+  "languages": {
+    "Python": 1266847,
+    "C": 29364,
+    "Makefile": 1304,
+    "Batchfile": 833,
+    "Shell": 204,
+    "Roff": 41
+  },
+  "size": 1298593
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "b5ba6d5ea9f8de68f0772453e55dc7da4d98884a",
+  "repo_url": "https://github.com/openstack/rally.git",
+  "date": "2018-08-07T11:06:31",
+  "languages": {
+    "Python": 2211734,
+    "HTML": 70160,
+    "Shell": 46758,
+    "JavaScript": 9475,
+    "Mako": 3731,
+    "Dockerfile": 1088
+  },
+  "size": 2342946
+}

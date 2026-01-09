@@ -1,0 +1,24 @@
+{
+  "commit": "2f36e7b1b4518e391b0855a71f68a37b0315c6a6",
+  "repo_url": "https://github.com/feast-dev/feast",
+  "date": "2025-08-30T03:55:33",
+  "languages": {
+    "Python": 4648468,
+    "Go": 826071,
+    "TypeScript": 386104,
+    "Java": 237211,
+    "JavaScript": 77320,
+    "Makefile": 49887,
+    "Shell": 39175,
+    "HCL": 33458,
+    "Astro": 31922,
+    "CSS": 21309,
+    "Jupyter Notebook": 14558,
+    "Dockerfile": 7937,
+    "HTML": 7899,
+    "Mustache": 4584,
+    "Jinja": 2728,
+    "Smarty": 1480
+  },
+  "size": 6390111
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "89c3ae77a4b91f73883365ce9a61e3935f130771",
+  "repo_url": "https://github.com/rustfs/rustfs",
+  "date": "2025-12-25T06:28:07",
+  "languages": {
+    "Rust": 7888556,
+    "Shell": 89090,
+    "Makefile": 15785,
+    "Just": 9315,
+    "Dockerfile": 3554,
+    "Smarty": 3504,
+    "PowerShell": 2262,
+    "Nix": 1640
+  },
+  "size": 8013706
+}

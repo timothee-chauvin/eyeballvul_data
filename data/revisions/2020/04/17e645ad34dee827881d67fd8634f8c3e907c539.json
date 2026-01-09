@@ -1,0 +1,14 @@
+{
+  "commit": "17e645ad34dee827881d67fd8634f8c3e907c539",
+  "repo_url": "https://github.com/microsoft/playwright",
+  "date": "2020-04-08T23:53:44",
+  "languages": {
+    "JavaScript": 831800,
+    "TypeScript": 659746,
+    "Shell": 52169,
+    "HTML": 27097,
+    "CSS": 393,
+    "Batchfile": 339
+  },
+  "size": 1571544
+}

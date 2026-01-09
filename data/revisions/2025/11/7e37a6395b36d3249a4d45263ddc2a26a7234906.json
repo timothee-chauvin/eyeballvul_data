@@ -1,0 +1,17 @@
+{
+  "commit": "7e37a6395b36d3249a4d45263ddc2a26a7234906",
+  "repo_url": "https://github.com/bokeh/bokeh",
+  "date": "2025-11-07T17:44:19",
+  "languages": {
+    "TypeScript": 4830295,
+    "Python": 4506408,
+    "Less": 75573,
+    "HTML": 56006,
+    "GLSL": 51383,
+    "JavaScript": 26245,
+    "Shell": 3447,
+    "CSS": 1947,
+    "Nearley": 568
+  },
+  "size": 9551872
+}

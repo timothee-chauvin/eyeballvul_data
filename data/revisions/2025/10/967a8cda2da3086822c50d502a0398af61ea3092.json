@@ -1,0 +1,12 @@
+{
+  "commit": "967a8cda2da3086822c50d502a0398af61ea3092",
+  "repo_url": "https://github.com/cowrie/cowrie",
+  "date": "2025-10-09T08:57:20",
+  "languages": {
+    "Python": 1081509,
+    "Makefile": 4406,
+    "Dockerfile": 4194,
+    "Assembly": 270
+  },
+  "size": 1090379
+}

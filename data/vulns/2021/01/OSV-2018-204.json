@@ -1,7 +1,7 @@
 {
   "id": "OSV-2018-204",
   "published": "2021-01-13T00:01:23.035709",
-  "modified": "2026-01-01T14:03:23.757932",
+  "modified": "2026-01-06T14:08:33.657188",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=9845\n\n```\nCrash type: UNKNOWN WRITE\nCrash state:\n__msan_memcpy.part.51\nQuickOpen::ReadRaw\nQuickOpen::ReadNext\n```\n",
   "summary": "UNKNOWN WRITE in __msan_memcpy.part.51",
   "repo_url": "https://github.com/aawc/unrar.git",
