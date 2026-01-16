@@ -1,0 +1,19 @@
+{
+  "commit": "ab64019e27762c8d5f2821815fddb8f51924c4cf",
+  "repo_url": "https://github.com/calcom/cal.com",
+  "date": "2025-12-27T00:34:40",
+  "languages": {
+    "TypeScript": 25953552,
+    "CSS": 401014,
+    "HTML": 145538,
+    "JavaScript": 77221,
+    "PLpgSQL": 58817,
+    "Mermaid": 20716,
+    "Shell": 14183,
+    "Dockerfile": 4056,
+    "MDX": 1726,
+    "PHP": 1254,
+    "Procfile": 37
+  },
+  "size": 26678114
+}

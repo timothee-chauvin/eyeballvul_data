@@ -1,0 +1,14 @@
+{
+  "commit": "09875af2997caa7d02d42569f0ed83fd0ca25c45",
+  "repo_url": "https://github.com/nukeviet/egovernment",
+  "date": "2020-06-22T08:05:18",
+  "languages": {
+    "PHP": 15212863,
+    "Smarty": 1979498,
+    "JavaScript": 1631312,
+    "CSS": 525457,
+    "HTML": 79198,
+    "XSLT": 7877
+  },
+  "size": 19436205
+}

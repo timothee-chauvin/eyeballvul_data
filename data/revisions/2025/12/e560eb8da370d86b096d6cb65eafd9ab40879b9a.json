@@ -1,0 +1,31 @@
+{
+  "commit": "e560eb8da370d86b096d6cb65eafd9ab40879b9a",
+  "repo_url": "https://github.com/panda3d/panda3d",
+  "date": "2025-12-25T15:40:30",
+  "languages": {
+    "C++": 26249972,
+    "C": 7079161,
+    "Python": 5919117,
+    "SWIG": 3907387,
+    "Objective-C++": 282246,
+    "Emacs Lisp": 219792,
+    "Perl": 97428,
+    "Assembly": 91355,
+    "NSIS": 71888,
+    "Objective-C": 21485,
+    "Raku": 15704,
+    "Shell": 10303,
+    "HTML": 8081,
+    "Java": 7130,
+    "JavaScript": 7003,
+    "Batchfile": 4120,
+    "Roff": 4115,
+    "Pascal": 2627,
+    "Nemerle": 2370,
+    "GLSL": 1760,
+    "MAXScript": 1745,
+    "Rez": 421,
+    "VBScript": 136
+  },
+  "size": 44005346
+}

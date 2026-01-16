@@ -1,0 +1,13 @@
+{
+  "commit": "157d2b63ffa5c4bb1d8ee2254950fd2231de2b05",
+  "repo_url": "https://github.com/samrocketman/jervis",
+  "date": "2025-12-09T00:48:38",
+  "languages": {
+    "Groovy": 1047776,
+    "Java": 51041,
+    "CSS": 49068,
+    "Shell": 10060,
+    "Dockerfile": 1118
+  },
+  "size": 1159063
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "7d0ab5f32d777a0f62f83dce4e7cf1ed961ab527",
+  "repo_url": "https://github.com/getmaxun/maxun",
+  "date": "2025-11-30T17:30:38",
+  "languages": {
+    "TypeScript": 1770983,
+    "JavaScript": 57903,
+    "CSS": 1798,
+    "Shell": 1186,
+    "HTML": 799,
+    "Dockerfile": 684
+  },
+  "size": 1833353
+}

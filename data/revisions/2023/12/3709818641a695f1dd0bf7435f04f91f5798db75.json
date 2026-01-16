@@ -1,0 +1,21 @@
+{
+  "commit": "3709818641a695f1dd0bf7435f04f91f5798db75",
+  "repo_url": "https://github.com/netsurf-browser/netsurf",
+  "date": "2023-12-28T00:26:04",
+  "languages": {
+    "C": 11653302,
+    "C++": 332557,
+    "Makefile": 81997,
+    "HTML": 73293,
+    "Python": 46245,
+    "Perl": 40442,
+    "CSS": 20166,
+    "Shell": 16903,
+    "RenderScript": 13402,
+    "Assembly": 9880,
+    "JavaScript": 9392,
+    "NSIS": 6585,
+    "PHP": 152
+  },
+  "size": 12304316
+}

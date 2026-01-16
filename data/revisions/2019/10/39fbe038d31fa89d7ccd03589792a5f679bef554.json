@@ -1,0 +1,14 @@
+{
+  "commit": "39fbe038d31fa89d7ccd03589792a5f679bef554",
+  "repo_url": "https://github.com/wso2/analytics-apim",
+  "date": "2019-10-24T21:03:08",
+  "languages": {
+    "JavaScript": 1441774,
+    "Java": 204890,
+    "Handlebars": 77772,
+    "Shell": 41514,
+    "Batchfile": 30527,
+    "CSS": 18647
+  },
+  "size": 1815124
+}

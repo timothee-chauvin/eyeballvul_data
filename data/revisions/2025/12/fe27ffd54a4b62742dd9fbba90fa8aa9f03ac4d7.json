@@ -1,0 +1,14 @@
+{
+  "commit": "fe27ffd54a4b62742dd9fbba90fa8aa9f03ac4d7",
+  "repo_url": "https://github.com/bagisto/bagisto",
+  "date": "2025-12-08T10:40:35",
+  "languages": {
+    "PHP": 15300482,
+    "Blade": 4340425,
+    "TypeScript": 605180,
+    "JavaScript": 64819,
+    "CSS": 25734,
+    "Hack": 411
+  },
+  "size": 20337051
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "ffddc3341f5775c7866fe2c93275e1d5e0b0540f",
+  "repo_url": "https://github.com/cozdas/opencolorio",
+  "date": "2021-08-31T10:54:04",
+  "languages": {
+    "C++": 6926868,
+    "Roff": 867637,
+    "Python": 445349,
+    "CMake": 162464,
+    "Java": 73341,
+    "C": 61491,
+    "Shell": 11228
+  },
+  "size": 8548378
+}

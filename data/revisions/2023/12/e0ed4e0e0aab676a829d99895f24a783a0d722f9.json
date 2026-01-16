@@ -1,0 +1,16 @@
+{
+  "commit": "e0ed4e0e0aab676a829d99895f24a783a0d722f9",
+  "repo_url": "https://github.com/shaunwei/realchar",
+  "date": "2023-12-29T09:54:44",
+  "languages": {
+    "JavaScript": 225754,
+    "Python": 178427,
+    "Swift": 128181,
+    "Kotlin": 62530,
+    "Dockerfile": 2955,
+    "CSS": 1411,
+    "Shell": 974,
+    "Mako": 510
+  },
+  "size": 600742
+}

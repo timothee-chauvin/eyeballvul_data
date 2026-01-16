@@ -1,0 +1,18 @@
+{
+  "commit": "3d2b0189279f6bc188476e16485cb447fe2a5883",
+  "repo_url": "https://github.com/suitenumerique/docs",
+  "date": "2026-01-06T09:29:35",
+  "languages": {
+    "Python": 1308931,
+    "TypeScript": 1098218,
+    "CSS": 199510,
+    "JavaScript": 16573,
+    "Makefile": 15047,
+    "Shell": 11440,
+    "Dockerfile": 7979,
+    "Smarty": 5355,
+    "Starlark": 2574,
+    "HTML": 835
+  },
+  "size": 2666462
+}

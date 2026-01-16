@@ -1,0 +1,14 @@
+{
+  "commit": "b86499664b3bc8e1e0430a4f1829a62504b4ef54",
+  "repo_url": "https://github.com/nvidia/ais-k8s",
+  "date": "2025-05-01T22:56:32",
+  "languages": {
+    "Go": 313031,
+    "Shell": 71675,
+    "Python": 21121,
+    "Makefile": 12011,
+    "Jinja": 8692,
+    "Dockerfile": 2469
+  },
+  "size": 428999
+}

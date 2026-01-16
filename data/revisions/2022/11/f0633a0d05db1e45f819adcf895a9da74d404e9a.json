@@ -1,0 +1,10 @@
+{
+  "commit": "f0633a0d05db1e45f819adcf895a9da74d404e9a",
+  "repo_url": "https://github.com/jenkinsci/jdepend-plugin",
+  "date": "2022-11-18T22:13:23",
+  "languages": {
+    "Java": 37236,
+    "HTML": 345
+  },
+  "size": 37581
+}

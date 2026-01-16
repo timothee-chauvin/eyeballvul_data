@@ -1,0 +1,17 @@
+{
+  "commit": "3004c114ba481ee90bee9178fe28479cd3ad31c7",
+  "repo_url": "https://github.com/tryghost/ghost",
+  "date": "2025-12-12T15:06:15",
+  "languages": {
+    "JavaScript": 13939535,
+    "TypeScript": 5554176,
+    "CSS": 1167544,
+    "Handlebars": 911763,
+    "HTML": 288939,
+    "MDX": 30039,
+    "Shell": 16673,
+    "Dockerfile": 12785,
+    "XSLT": 6522
+  },
+  "size": 21927976
+}

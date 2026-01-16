@@ -1,0 +1,13 @@
+{
+  "commit": "e74a67bba3ee679f778670e17edc21639008ae0a",
+  "repo_url": "https://github.com/nvidia/apex",
+  "date": "2025-05-15T16:17:16",
+  "languages": {
+    "Python": 1912571,
+    "Cuda": 1268796,
+    "C++": 1048121,
+    "C": 34183,
+    "Shell": 14877
+  },
+  "size": 4278548
+}

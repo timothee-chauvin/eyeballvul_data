@@ -1,0 +1,14 @@
+{
+  "commit": "cc5d18c510c0f10634f7f77dbb54ba6811a5bccd",
+  "repo_url": "https://github.com/swi-prolog/swish",
+  "date": "2025-08-26T07:07:28",
+  "languages": {
+    "Prolog": 1040725,
+    "JavaScript": 560533,
+    "HTML": 67702,
+    "CSS": 45042,
+    "Makefile": 4376,
+    "Shell": 3301
+  },
+  "size": 1721679
+}

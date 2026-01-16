@@ -1,0 +1,12 @@
+{
+  "commit": "4e87a12799f7cc1db8e9e30c7c2eacd83980952f",
+  "repo_url": "https://github.com/jenkinsci/kryptowire-plugin",
+  "date": "2018-06-29T09:23:26",
+  "languages": {
+    "Java": 29551,
+    "Makefile": 588,
+    "HTML": 487,
+    "Groovy": 111
+  },
+  "size": 30737
+}

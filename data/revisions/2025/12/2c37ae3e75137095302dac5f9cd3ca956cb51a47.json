@@ -1,0 +1,15 @@
+{
+  "commit": "2c37ae3e75137095302dac5f9cd3ca956cb51a47",
+  "repo_url": "https://github.com/parsl/parsl",
+  "date": "2025-12-12T21:11:16",
+  "languages": {
+    "Python": 1379109,
+    "HTML": 12624,
+    "Shell": 11024,
+    "Makefile": 6008,
+    "C": 1263,
+    "CSS": 337,
+    "Roff": 64
+  },
+  "size": 1410429
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "1fcd11909c388eeeab7e01391926b0119185c97c",
+  "repo_url": "https://github.com/neoteroi/blacksheep",
+  "date": "2025-11-15T20:02:00",
+  "languages": {
+    "Python": 1610091,
+    "Cython": 78425,
+    "HTML": 5078,
+    "Jinja": 2201,
+    "Makefile": 1919,
+    "CSS": 1481,
+    "Shell": 178,
+    "JavaScript": 44
+  },
+  "size": 1699417
+}

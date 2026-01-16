@@ -1,0 +1,16 @@
+{
+  "commit": "233838e779942d8065117c9d0d71edaf7b92b64a",
+  "repo_url": "https://github.com/codeceptjs/codeceptjs",
+  "date": "2025-03-19T09:29:31",
+  "languages": {
+    "JavaScript": 1783434,
+    "HTML": 600010,
+    "Hack": 54955,
+    "TypeScript": 42479,
+    "PHP": 19727,
+    "Gherkin": 7439,
+    "Dockerfile": 2069,
+    "Shell": 1331
+  },
+  "size": 2511444
+}

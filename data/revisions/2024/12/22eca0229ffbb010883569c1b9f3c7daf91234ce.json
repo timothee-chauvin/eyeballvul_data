@@ -1,0 +1,14 @@
+{
+  "commit": "22eca0229ffbb010883569c1b9f3c7daf91234ce",
+  "repo_url": "https://github.com/danielbrendel/hortusfox-web",
+  "date": "2024-12-05T10:25:23",
+  "languages": {
+    "PHP": 652044,
+    "Hack": 162040,
+    "JavaScript": 76101,
+    "SCSS": 59081,
+    "Shell": 10043,
+    "CSS": 4331
+  },
+  "size": 963640
+}

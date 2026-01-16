@@ -1,0 +1,17 @@
+{
+  "commit": "bbe21e94b345ee81571745ee4d6e06aadf87aad0",
+  "repo_url": "https://github.com/devtoys-app/devtoys",
+  "date": "2024-11-17T22:18:50",
+  "languages": {
+    "C#": 1620680,
+    "SCSS": 235163,
+    "HTML": 146222,
+    "JavaScript": 100418,
+    "TypeScript": 94850,
+    "PowerShell": 10072,
+    "Shell": 5264,
+    "Batchfile": 311,
+    "CSS": 192
+  },
+  "size": 2213172
+}

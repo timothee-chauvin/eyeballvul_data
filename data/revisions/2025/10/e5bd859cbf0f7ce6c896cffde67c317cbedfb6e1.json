@@ -1,0 +1,10 @@
+{
+  "commit": "e5bd859cbf0f7ce6c896cffde67c317cbedfb6e1",
+  "repo_url": "https://github.com/weblateorg/wlc",
+  "date": "2025-10-10T06:54:03",
+  "languages": {
+    "Python": 107414,
+    "Dockerfile": 1260
+  },
+  "size": 108674
+}

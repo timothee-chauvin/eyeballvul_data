@@ -1,0 +1,18 @@
+{
+  "commit": "3620fff841a6ee8a11d8e4f1661fff1ea5d5e1c3",
+  "repo_url": "https://github.com/elastic/apm-server",
+  "date": "2023-08-31T09:40:20",
+  "languages": {
+    "Go": 1771690,
+    "Shell": 83853,
+    "HCL": 74346,
+    "Makefile": 39831,
+    "Groovy": 15366,
+    "Dockerfile": 7055,
+    "Starlark": 4046,
+    "Handlebars": 2458,
+    "PowerShell": 1166,
+    "Smarty": 734
+  },
+  "size": 2000545
+}

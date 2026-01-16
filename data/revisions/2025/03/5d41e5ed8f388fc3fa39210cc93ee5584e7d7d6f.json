@@ -1,0 +1,10 @@
+{
+  "commit": "5d41e5ed8f388fc3fa39210cc93ee5584e7d7d6f",
+  "repo_url": "https://github.com/vancluever/z2d",
+  "date": "2025-03-22T17:54:41",
+  "languages": {
+    "Zig": 897030,
+    "Nix": 879
+  },
+  "size": 897909
+}

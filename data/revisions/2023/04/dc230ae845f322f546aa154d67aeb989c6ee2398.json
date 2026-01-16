@@ -1,0 +1,13 @@
+{
+  "commit": "dc230ae845f322f546aa154d67aeb989c6ee2398",
+  "repo_url": "https://github.com/openvpn/tap-windows6",
+  "date": "2023-04-27T12:43:09",
+  "languages": {
+    "C": 354448,
+    "Python": 20924,
+    "NSIS": 16351,
+    "PowerShell": 11531,
+    "M4": 684
+  },
+  "size": 403938
+}

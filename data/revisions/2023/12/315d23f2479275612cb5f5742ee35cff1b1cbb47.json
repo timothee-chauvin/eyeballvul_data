@@ -1,0 +1,14 @@
+{
+  "commit": "315d23f2479275612cb5f5742ee35cff1b1cbb47",
+  "repo_url": "https://github.com/devsapp/fc-stable-diffuson",
+  "date": "2023-12-28T02:09:58",
+  "languages": {
+    "Dockerfile": 19804,
+    "Python": 12652,
+    "JavaScript": 10531,
+    "Shell": 5825,
+    "Makefile": 5261,
+    "CSS": 166
+  },
+  "size": 54239
+}

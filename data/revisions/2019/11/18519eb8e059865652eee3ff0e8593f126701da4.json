@@ -1,0 +1,13 @@
+{
+  "commit": "18519eb8e059865652eee3ff0e8593f126701da4",
+  "repo_url": "https://github.com/apache/parquet-java",
+  "date": "2019-11-13T12:54:48",
+  "languages": {
+    "Java": 5040228,
+    "Shell": 25850,
+    "Thrift": 19113,
+    "Python": 14771,
+    "Scala": 8436
+  },
+  "size": 5108398
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "39dacc77c5e2635cfd71bf70f8656db0cad05c35",
+  "repo_url": "https://github.com/abelche/cola_dnslog",
+  "date": "2023-02-04T12:23:27",
+  "languages": {
+    "Vue": 263555,
+    "JavaScript": 95204,
+    "Python": 49429,
+    "SCSS": 12823,
+    "Shell": 1128,
+    "CSS": 825,
+    "Handlebars": 789,
+    "HTML": 488
+  },
+  "size": 424241
+}

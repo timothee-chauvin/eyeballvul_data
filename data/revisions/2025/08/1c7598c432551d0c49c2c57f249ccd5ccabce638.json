@@ -1,0 +1,15 @@
+{
+  "commit": "1c7598c432551d0c49c2c57f249ccd5ccabce638",
+  "repo_url": "https://github.com/jvoisin/snuffleupagus",
+  "date": "2025-08-19T18:54:00",
+  "languages": {
+    "PHP": 278415,
+    "C": 277177,
+    "C++": 10790,
+    "Makefile": 4045,
+    "M4": 2547,
+    "Python": 1070,
+    "Shell": 59
+  },
+  "size": 574103
+}

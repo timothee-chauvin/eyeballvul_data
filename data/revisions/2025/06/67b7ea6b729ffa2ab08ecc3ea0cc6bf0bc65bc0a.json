@@ -1,0 +1,13 @@
+{
+  "commit": "67b7ea6b729ffa2ab08ecc3ea0cc6bf0bc65bc0a",
+  "repo_url": "https://github.com/cashubtc/nutshell",
+  "date": "2025-06-01T10:20:03",
+  "languages": {
+    "Python": 1988685,
+    "Makefile": 1912,
+    "Shell": 1509,
+    "HTML": 1178,
+    "Dockerfile": 453
+  },
+  "size": 1993737
+}

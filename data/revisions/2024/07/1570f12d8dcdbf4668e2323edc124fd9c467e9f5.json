@@ -1,0 +1,14 @@
+{
+  "commit": "1570f12d8dcdbf4668e2323edc124fd9c467e9f5",
+  "repo_url": "https://github.com/mongodb-js/mongosh",
+  "date": "2024-07-29T10:40:01",
+  "languages": {
+    "TypeScript": 3126356,
+    "Kotlin": 141168,
+    "JavaScript": 115346,
+    "Shell": 50720,
+    "Dockerfile": 15574,
+    "PowerShell": 865
+  },
+  "size": 3450029
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "075f0a339d389e45e426da7fd5384fcc366347e8",
+  "repo_url": "https://github.com/smewebify/weberpmesv2",
+  "date": "2025-09-25T21:00:08",
+  "languages": {
+    "PHP": 2385680,
+    "Blade": 2023918,
+    "Vue": 52848,
+    "Shell": 2305,
+    "Dockerfile": 1366
+  },
+  "size": 4466117
+}

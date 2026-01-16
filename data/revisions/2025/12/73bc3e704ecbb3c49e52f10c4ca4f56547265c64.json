@@ -1,0 +1,18 @@
+{
+  "commit": "73bc3e704ecbb3c49e52f10c4ca4f56547265c64",
+  "repo_url": "https://github.com/anomalyco/opencode",
+  "date": "2025-12-30T17:09:08",
+  "languages": {
+    "TypeScript": 3467523,
+    "CSS": 387837,
+    "MDX": 326402,
+    "Astro": 24619,
+    "Shell": 18611,
+    "Rust": 13769,
+    "JavaScript": 12860,
+    "Nix": 8039,
+    "HTML": 4494,
+    "Dockerfile": 593
+  },
+  "size": 4264747
+}

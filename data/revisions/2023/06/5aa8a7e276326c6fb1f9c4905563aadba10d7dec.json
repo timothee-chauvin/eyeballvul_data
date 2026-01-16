@@ -1,0 +1,14 @@
+{
+  "commit": "5aa8a7e276326c6fb1f9c4905563aadba10d7dec",
+  "repo_url": "https://github.com/eclipse-jgit/jgit",
+  "date": "2023-06-21T23:12:05",
+  "languages": {
+    "Java": 11663281,
+    "HTML": 68971,
+    "Starlark": 43578,
+    "Shell": 14302,
+    "Ruby": 4211,
+    "Python": 1419
+  },
+  "size": 11795762
+}

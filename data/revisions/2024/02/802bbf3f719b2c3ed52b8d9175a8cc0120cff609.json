@@ -1,0 +1,12 @@
+{
+  "commit": "802bbf3f719b2c3ed52b8d9175a8cc0120cff609",
+  "repo_url": "https://github.com/csutils/csmock",
+  "date": "2024-02-28T12:46:26",
+  "languages": {
+    "Python": 187940,
+    "Shell": 31295,
+    "CMake": 5408,
+    "Makefile": 1099
+  },
+  "size": 225742
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "be449b5a66b239a6ca58aeeb99f2f2844d9b88d8",
+  "repo_url": "https://github.com/returnfi/blitz",
+  "date": "2025-08-24T19:56:32",
+  "languages": {
+    "Python": 321164,
+    "HTML": 176428,
+    "Shell": 126653,
+    "CSS": 27928,
+    "Go": 3162
+  },
+  "size": 655335
+}

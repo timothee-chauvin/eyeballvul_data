@@ -1,0 +1,12 @@
+{
+  "commit": "6d3c128f54437a5cbf01f1f2bf76b4e91de40e26",
+  "repo_url": "https://github.com/apache/doris-mcp-server",
+  "date": "2025-07-15T03:56:46",
+  "languages": {
+    "Python": 924591,
+    "Shell": 3828,
+    "Makefile": 3363,
+    "Dockerfile": 1816
+  },
+  "size": 933598
+}

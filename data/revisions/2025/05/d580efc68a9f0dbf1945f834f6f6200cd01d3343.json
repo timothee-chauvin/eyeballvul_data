@@ -1,0 +1,15 @@
+{
+  "commit": "d580efc68a9f0dbf1945f834f6f6200cd01d3343",
+  "repo_url": "https://github.com/nvidia/megatron-lm",
+  "date": "2025-05-06T20:19:29",
+  "languages": {
+    "Python": 5680293,
+    "C++": 29611,
+    "Shell": 19270,
+    "C": 2951,
+    "HTML": 2625,
+    "Makefile": 313,
+    "Dockerfile": 294
+  },
+  "size": 5735357
+}

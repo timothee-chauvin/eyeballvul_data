@@ -1,0 +1,14 @@
+{
+  "commit": "7685b9bca8ceb8e3526988b135165c0733107de9",
+  "repo_url": "https://github.com/samanhappy/mcphub",
+  "date": "2025-09-20T09:23:54",
+  "languages": {
+    "TypeScript": 926832,
+    "JavaScript": 13082,
+    "CSS": 11417,
+    "Dockerfile": 1397,
+    "HTML": 668,
+    "Shell": 578
+  },
+  "size": 953974
+}

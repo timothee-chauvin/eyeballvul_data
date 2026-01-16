@@ -1,0 +1,15 @@
+{
+  "commit": "91db334a8923dad8c0fcf38cc99b16705cf2f42a",
+  "repo_url": "https://github.com/hikariatama/hikka",
+  "date": "2022-06-17T22:22:30",
+  "languages": {
+    "Python": 589823,
+    "JavaScript": 16376,
+    "Jinja": 7150,
+    "Shell": 5342,
+    "CSS": 5122,
+    "Dockerfile": 843,
+    "Procfile": 21
+  },
+  "size": 624677
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "a89daad279e8124df39fab3634da095fce62767f",
+  "repo_url": "https://github.com/kodicms-kohana/cms",
+  "date": "2015-02-01T17:02:36",
+  "languages": {
+    "PHP": 3297364,
+    "JavaScript": 2680258,
+    "HTML": 1079908,
+    "CSS": 854806,
+    "SCSS": 72669,
+    "Hack": 25972,
+    "Less": 14006,
+    "Stylus": 7850,
+    "Python": 5734,
+    "Shell": 3510,
+    "Pug": 1718,
+    "Ruby": 1183,
+    "Smarty": 805
+  },
+  "size": 8045783
+}

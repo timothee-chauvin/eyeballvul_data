@@ -1,0 +1,15 @@
+{
+  "commit": "01a3fafe44eedea1258ae1d1ff1e253d4933ebb1",
+  "repo_url": "https://github.com/internationalcolorconsortium/iccdev",
+  "date": "2025-10-20T23:25:20",
+  "languages": {
+    "C++": 3051835,
+    "Shell": 1007268,
+    "Makefile": 204241,
+    "C": 114431,
+    "CMake": 84176,
+    "Batchfile": 32438,
+    "M4": 3207
+  },
+  "size": 4497596
+}

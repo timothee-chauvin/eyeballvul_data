@@ -1,0 +1,18 @@
+{
+  "commit": "6319b0268702a12e2d66cd37ae1495bfa4f5c009",
+  "repo_url": "https://github.com/microsoft/wsl",
+  "date": "2025-06-19T01:29:43",
+  "languages": {
+    "C++": 3784095,
+    "C": 2420583,
+    "C#": 125460,
+    "CMake": 66144,
+    "Python": 47199,
+    "PowerShell": 45418,
+    "Perl": 6143,
+    "Shell": 3806,
+    "Makefile": 1476,
+    "Batchfile": 794
+  },
+  "size": 6501118
+}

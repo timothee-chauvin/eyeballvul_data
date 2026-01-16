@@ -1,0 +1,14 @@
+{
+  "commit": "d8c37fbc4c0ad56a2cbc873be6dcfb6dde49e819",
+  "repo_url": "https://github.com/macports/macports-base",
+  "date": "2024-10-31T23:26:54",
+  "languages": {
+    "Tcl": 1735157,
+    "C": 1105305,
+    "M4": 93147,
+    "Shell": 40704,
+    "Makefile": 30296,
+    "Rich Text Format": 6834
+  },
+  "size": 3011443
+}

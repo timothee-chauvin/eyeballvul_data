@@ -1,0 +1,19 @@
+{
+  "commit": "685689f97027d75a456e3bc243e103b6bfc580d9",
+  "repo_url": "https://github.com/portabilis/i-diario",
+  "date": "2024-04-18T13:14:43",
+  "languages": {
+    "Ruby": 2481135,
+    "HTML": 578283,
+    "JavaScript": 484557,
+    "CSS": 35835,
+    "Vue": 29797,
+    "EJS": 17792,
+    "Gherkin": 9184,
+    "Shell": 711,
+    "Dockerfile": 313,
+    "Less": 190,
+    "Procfile": 61
+  },
+  "size": 3637858
+}

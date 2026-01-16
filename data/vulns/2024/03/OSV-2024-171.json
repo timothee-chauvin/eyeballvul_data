@@ -1,7 +1,7 @@
 {
   "id": "OSV-2024-171",
   "published": "2024-03-15T00:08:01.855772",
-  "modified": "2026-01-06T14:19:26.000679",
+  "modified": "2026-01-15T14:25:28.827139",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=67357\n\n```\nCrash type: Security exception\nCrash state:\norg.threeten.bp.format.DateTimeFormatterBuilder$CompositePrinterParser.parse\njava.base/sun.util.calendar.ZoneInfo.getLastRawOffset\njava.base/sun.util.calendar.ZoneInfo.getOffsets\n```\n",
   "summary": "Security exception in org.threeten.bp.format.DateTimeFormatterBuilder$CompositePrinterParser.parse",
   "repo_url": "https://github.com/threeten/threetenbp",

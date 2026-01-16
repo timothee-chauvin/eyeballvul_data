@@ -1,0 +1,15 @@
+{
+  "commit": "d2ffd48e87eeb5cea14c0400a0b2c1387972a641",
+  "repo_url": "https://github.com/coreshop/coreshop",
+  "date": "2025-10-23T07:40:20",
+  "languages": {
+    "PHP": 5540033,
+    "JavaScript": 1217240,
+    "CSS": 514210,
+    "Gherkin": 484749,
+    "Twig": 228579,
+    "Shell": 12436,
+    "Dockerfile": 1040
+  },
+  "size": 7998287
+}
