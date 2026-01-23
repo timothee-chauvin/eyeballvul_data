@@ -1,0 +1,15 @@
+{
+  "commit": "9dab6f483563ecd2f246ddb11a335865e3c99834",
+  "repo_url": "https://github.com/whisper-money/whisper-money",
+  "date": "2026-01-09T09:06:44",
+  "languages": {
+    "TypeScript": 1420445,
+    "PHP": 614299,
+    "Blade": 14196,
+    "CSS": 7525,
+    "Shell": 3727,
+    "Dockerfile": 2154,
+    "JavaScript": 1384
+  },
+  "size": 2063730
+}

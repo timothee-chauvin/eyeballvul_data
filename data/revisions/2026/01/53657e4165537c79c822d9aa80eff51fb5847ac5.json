@@ -1,0 +1,14 @@
+{
+  "commit": "53657e4165537c79c822d9aa80eff51fb5847ac5",
+  "repo_url": "https://github.com/crawlchat/crawlchat",
+  "date": "2026-01-14T12:19:51",
+  "languages": {
+    "TypeScript": 1097317,
+    "CSS": 22433,
+    "JavaScript": 20241,
+    "Python": 958,
+    "Dockerfile": 698,
+    "HTML": 380
+  },
+  "size": 1142027
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "72f0ed74d76419474f86933a4387851baf999739",
+  "repo_url": "https://github.com/sigstore/sigstore",
+  "date": "2025-12-12T23:54:27",
+  "languages": {
+    "Go": 718955,
+    "Makefile": 3375,
+    "Dockerfile": 2124,
+    "Shell": 1737
+  },
+  "size": 726191
+}

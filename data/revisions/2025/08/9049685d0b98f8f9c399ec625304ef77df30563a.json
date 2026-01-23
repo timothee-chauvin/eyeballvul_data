@@ -1,0 +1,22 @@
+{
+  "commit": "9049685d0b98f8f9c399ec625304ef77df30563a",
+  "repo_url": "https://github.com/apache/brpc",
+  "date": "2025-08-02T08:43:47",
+  "languages": {
+    "C++": 10830811,
+    "CMake": 170019,
+    "Perl": 149500,
+    "Makefile": 67578,
+    "Starlark": 59277,
+    "C": 58432,
+    "Shell": 40087,
+    "Objective-C++": 32018,
+    "Python": 27392,
+    "Objective-C": 21629,
+    "Lua": 11093,
+    "Ruby": 3920,
+    "Dockerfile": 1470,
+    "Thrift": 1101
+  },
+  "size": 11474327
+}

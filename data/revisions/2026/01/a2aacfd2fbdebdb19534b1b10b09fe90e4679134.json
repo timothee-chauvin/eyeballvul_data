@@ -1,0 +1,14 @@
+{
+  "commit": "a2aacfd2fbdebdb19534b1b10b09fe90e4679134",
+  "repo_url": "https://github.com/franklioxygen/mytube",
+  "date": "2026-01-16T02:09:25",
+  "languages": {
+    "TypeScript": 2844904,
+    "Shell": 22506,
+    "CSS": 10106,
+    "JavaScript": 6281,
+    "HTML": 4337,
+    "Dockerfile": 3249
+  },
+  "size": 2891383
+}

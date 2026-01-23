@@ -1,0 +1,11 @@
+{
+  "commit": "3141b54b6b0067d15c4a3ec0877f2141a2a11347",
+  "repo_url": "https://github.com/mackron/dr_libs",
+  "date": "2025-09-10T09:00:40",
+  "languages": {
+    "C": 1219148,
+    "CMake": 7361,
+    "C++": 225
+  },
+  "size": 1226734
+}

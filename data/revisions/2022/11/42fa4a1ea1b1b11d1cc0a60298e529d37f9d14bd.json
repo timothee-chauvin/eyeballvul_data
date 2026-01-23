@@ -1,0 +1,15 @@
+{
+  "commit": "42fa4a1ea1b1b11d1cc0a60298e529d37f9d14bd",
+  "repo_url": "https://github.com/arduino/arduinocore-avr",
+  "date": "2022-11-02T10:46:53",
+  "languages": {
+    "C": 5232413,
+    "C++": 241113,
+    "Makefile": 157131,
+    "Logos": 27344,
+    "Shell": 11032,
+    "Assembly": 6022,
+    "Batchfile": 685
+  },
+  "size": 5675740
+}

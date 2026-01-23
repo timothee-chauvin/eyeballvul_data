@@ -1,0 +1,15 @@
+{
+  "commit": "2868a6589dec8aea72b522f0a68d082bd66e5ed9",
+  "repo_url": "https://github.com/paralin/quickjs",
+  "date": "2025-12-29T11:53:26",
+  "languages": {
+    "C": 3023127,
+    "JavaScript": 193837,
+    "CMake": 14727,
+    "Meson": 14162,
+    "Makefile": 4546,
+    "Shell": 483,
+    "C++": 94
+  },
+  "size": 3250976
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "aa1a288dd79f3c1c7c1a1cb037fcf4c790c1bb8c",
+  "repo_url": "https://github.com/horilla-opensource/horilla",
+  "date": "2025-09-18T05:28:57",
+  "languages": {
+    "HTML": 7806201,
+    "Python": 4504680,
+    "JavaScript": 3271327,
+    "CSS": 828178,
+    "SCSS": 219576,
+    "Shell": 363,
+    "Dockerfile": 266
+  },
+  "size": 16630591
+}

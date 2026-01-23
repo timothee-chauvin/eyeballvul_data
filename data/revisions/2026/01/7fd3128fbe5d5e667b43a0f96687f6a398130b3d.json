@@ -1,0 +1,12 @@
+{
+  "commit": "7fd3128fbe5d5e667b43a0f96687f6a398130b3d",
+  "repo_url": "https://github.com/ibericode/koko-analytics",
+  "date": "2026-01-07T10:42:27",
+  "languages": {
+    "PHP": 305995,
+    "CSS": 22163,
+    "JavaScript": 15551,
+    "Shell": 3327
+  },
+  "size": 347036
+}

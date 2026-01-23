@@ -1,0 +1,12 @@
+{
+  "commit": "53526424dc2fc79f43d2a63953e29a59f490c1a5",
+  "repo_url": "https://github.com/defenseunicorns/pepr",
+  "date": "2026-01-05T12:10:44",
+  "languages": {
+    "TypeScript": 1063958,
+    "JavaScript": 17744,
+    "Shell": 6897,
+    "Dockerfile": 3728
+  },
+  "size": 1092327
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "9995960b4330e2d804bdae9eff8bf343004e32e1",
+  "repo_url": "https://github.com/controlplaneio-fluxcd/flux-operator",
+  "date": "2026-01-19T09:45:46",
+  "languages": {
+    "Go": 2161508,
+    "JavaScript": 1361357,
+    "Shell": 17092,
+    "Makefile": 11393,
+    "Dockerfile": 5578,
+    "HCL": 4527,
+    "CSS": 2925,
+    "HTML": 1518
+  },
+  "size": 3565898
+}
