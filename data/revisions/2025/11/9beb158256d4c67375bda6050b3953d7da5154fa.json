@@ -1,0 +1,26 @@
+{
+  "commit": "9beb158256d4c67375bda6050b3953d7da5154fa",
+  "repo_url": "https://github.com/scille/parsec-cloud",
+  "date": "2025-11-05T14:24:07",
+  "languages": {
+    "Rust": 8722198,
+    "TypeScript": 3521725,
+    "Python": 3220784,
+    "Vue": 1723283,
+    "Jinja": 84567,
+    "SCSS": 63949,
+    "JavaScript": 26239,
+    "Shell": 14124,
+    "C++": 13767,
+    "CSS": 7263,
+    "PowerShell": 6815,
+    "C": 4356,
+    "HTML": 3443,
+    "Java": 3018,
+    "Dockerfile": 2507,
+    "Kotlin": 1388,
+    "Batchfile": 1264,
+    "NSIS": 971
+  },
+  "size": 17421661
+}

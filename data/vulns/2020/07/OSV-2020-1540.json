@@ -1,7 +1,7 @@
 {
   "id": "OSV-2020-1540",
   "published": "2020-07-29T00:00:39.727472",
-  "modified": "2026-01-22T14:07:31.781445",
+  "modified": "2026-01-30T14:16:35.206045",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=23781\n\n```\nCrash type: UNKNOWN READ\nCrash state:\neval_expr\neval_binary\neval_expr\n```\n",
   "summary": "UNKNOWN READ in eval_expr",
   "repo_url": "https://github.com/hercules-team/augeas",

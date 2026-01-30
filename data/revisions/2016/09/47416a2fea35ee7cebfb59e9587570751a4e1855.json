@@ -1,0 +1,12 @@
+{
+  "commit": "47416a2fea35ee7cebfb59e9587570751a4e1855",
+  "repo_url": "https://github.com/microsoft/maker.js",
+  "date": "2016-09-26T08:23:39",
+  "languages": {
+    "JavaScript": 6492260,
+    "TypeScript": 394711,
+    "HTML": 35870,
+    "CSS": 13771
+  },
+  "size": 6936612
+}

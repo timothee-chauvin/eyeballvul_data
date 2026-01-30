@@ -1,0 +1,16 @@
+{
+  "commit": "2fcd64ef1aaa1d709337c0190035704a14a8101d",
+  "repo_url": "https://github.com/erugooss/erugo",
+  "date": "2025-12-23T13:20:01",
+  "languages": {
+    "PHP": 399234,
+    "Vue": 350461,
+    "JavaScript": 94905,
+    "SCSS": 40851,
+    "Shell": 17995,
+    "Blade": 15238,
+    "Twig": 8257,
+    "Dockerfile": 6899
+  },
+  "size": 933840
+}

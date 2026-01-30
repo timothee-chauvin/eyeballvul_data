@@ -1,0 +1,26 @@
+{
+  "commit": "5bb54c69af7e6d9b312e3cd1f25157cb1e8e486c",
+  "repo_url": "https://github.com/ixray-team/ixray-1.6-stcop",
+  "date": "2025-09-07T22:06:47",
+  "languages": {
+    "C++": 41933246,
+    "C": 16250854,
+    "TeX": 6114701,
+    "Pascal": 1326681,
+    "HLSL": 803453,
+    "Lua": 250995,
+    "Makefile": 211372,
+    "Shell": 169356,
+    "CMake": 141063,
+    "HTML": 59614,
+    "Perl": 20602,
+    "Batchfile": 14781,
+    "M4": 14457,
+    "Python": 5918,
+    "MAXScript": 975,
+    "PowerShell": 941,
+    "GLSL": 547,
+    "PostScript": 511
+  },
+  "size": 67320067
+}

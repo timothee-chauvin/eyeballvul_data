@@ -1,0 +1,12 @@
+{
+  "commit": "823f199b78cdfdc2be723254e293e846814f7cab",
+  "repo_url": "https://github.com/chainguard-dev/malcontent",
+  "date": "2026-01-26T23:42:41",
+  "languages": {
+    "YARA": 749665,
+    "Go": 317709,
+    "Makefile": 8633,
+    "Shell": 1592
+  },
+  "size": 1077599
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "4815f45964eba3156a0d0ef65ed64a2d629d2dff",
+  "repo_url": "https://github.com/withstudiocms/studiocms",
+  "date": "2026-01-16T08:04:25",
+  "languages": {
+    "TypeScript": 3053451,
+    "Astro": 751475,
+    "CSS": 95993,
+    "JavaScript": 45983,
+    "Dockerfile": 248
+  },
+  "size": 3947150
+}

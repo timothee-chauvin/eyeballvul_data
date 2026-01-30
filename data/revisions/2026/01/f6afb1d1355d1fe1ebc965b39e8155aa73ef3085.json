@@ -1,0 +1,10 @@
+{
+  "commit": "f6afb1d1355d1fe1ebc965b39e8155aa73ef3085",
+  "repo_url": "https://github.com/gradle/gradle-completion",
+  "date": "2026-01-21T12:35:07",
+  "languages": {
+    "Kotlin": 36648,
+    "Shell": 21611
+  },
+  "size": 58259
+}

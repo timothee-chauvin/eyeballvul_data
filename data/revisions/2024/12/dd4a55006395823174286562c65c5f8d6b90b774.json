@@ -1,0 +1,17 @@
+{
+  "commit": "dd4a55006395823174286562c65c5f8d6b90b774",
+  "repo_url": "https://github.com/ralim/ironos",
+  "date": "2024-12-22T01:35:47",
+  "languages": {
+    "C": 7583494,
+    "C++": 523463,
+    "Python": 159083,
+    "Assembly": 50742,
+    "Makefile": 38347,
+    "Shell": 17712,
+    "HTML": 14371,
+    "CMake": 6820,
+    "Dockerfile": 1593
+  },
+  "size": 8395625
+}

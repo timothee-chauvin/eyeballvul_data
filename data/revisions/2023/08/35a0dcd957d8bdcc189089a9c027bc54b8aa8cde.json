@@ -1,0 +1,19 @@
+{
+  "commit": "35a0dcd957d8bdcc189089a9c027bc54b8aa8cde",
+  "repo_url": "https://github.com/visualfc/liteide",
+  "date": "2023-08-13T13:03:12",
+  "languages": {
+    "C++": 3143589,
+    "C": 129462,
+    "CSS": 52855,
+    "QMake": 44084,
+    "Shell": 42794,
+    "HTML": 16501,
+    "Go": 13006,
+    "JavaScript": 12950,
+    "Batchfile": 11107,
+    "Lua": 6569,
+    "Objective-C++": 3404
+  },
+  "size": 3476321
+}

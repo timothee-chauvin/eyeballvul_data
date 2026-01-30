@@ -1,0 +1,19 @@
+{
+  "commit": "b2279ce0c7e85cf5a68cbc1d130ffc4ac322f263",
+  "repo_url": "https://github.com/simsong/bulk_extractor",
+  "date": "2024-04-27T21:16:47",
+  "languages": {
+    "C++": 1226382,
+    "Shell": 334808,
+    "Python": 296030,
+    "C": 128218,
+    "HTML": 104827,
+    "M4": 74233,
+    "Lex": 56211,
+    "Rich Text Format": 30221,
+    "NSIS": 20306,
+    "Makefile": 14301,
+    "Java": 6729
+  },
+  "size": 2292266
+}

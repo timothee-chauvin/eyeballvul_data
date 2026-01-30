@@ -1,0 +1,22 @@
+{
+  "commit": "69a90407ccf60617489b1b877c62d386896b10aa",
+  "repo_url": "https://github.com/is-daouda/is-engine",
+  "date": "2021-03-07T17:30:48",
+  "languages": {
+    "C": 16545951,
+    "C++": 2411470,
+    "Python": 172487,
+    "Makefile": 73117,
+    "Java": 64868,
+    "CMake": 57771,
+    "Perl": 41246,
+    "QMake": 11300,
+    "Objective-C": 8847,
+    "JavaScript": 6113,
+    "Shell": 5360,
+    "HTML": 2402,
+    "CSS": 1224,
+    "Batchfile": 156
+  },
+  "size": 19402312
+}

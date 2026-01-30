@@ -1,0 +1,18 @@
+{
+  "commit": "192fb05a52cfce4d06462b04c6a37f33e0b86ac1",
+  "repo_url": "https://github.com/chattermate/chattermate.chat",
+  "date": "2025-11-29T07:23:36",
+  "languages": {
+    "Python": 2907190,
+    "Vue": 1251245,
+    "JavaScript": 372242,
+    "TypeScript": 370667,
+    "CSS": 44077,
+    "HTML": 16451,
+    "Shell": 2408,
+    "Dockerfile": 1469,
+    "Mako": 635,
+    "PLpgSQL": 553
+  },
+  "size": 4966937
+}

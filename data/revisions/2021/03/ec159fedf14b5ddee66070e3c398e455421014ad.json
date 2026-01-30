@@ -1,0 +1,19 @@
+{
+  "commit": "ec159fedf14b5ddee66070e3c398e455421014ad",
+  "repo_url": "https://github.com/webkul/hotelcommerce",
+  "date": "2021-03-31T13:28:32",
+  "languages": {
+    "PHP": 23581415,
+    "Smarty": 4000738,
+    "JavaScript": 2379951,
+    "CSS": 805672,
+    "SCSS": 790653,
+    "HTML": 721709,
+    "Sass": 160601,
+    "C": 33908,
+    "Less": 19680,
+    "Ruby": 2072,
+    "Shell": 49
+  },
+  "size": 32496448
+}

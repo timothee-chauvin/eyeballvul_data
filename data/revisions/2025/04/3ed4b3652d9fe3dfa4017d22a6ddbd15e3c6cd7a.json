@@ -1,0 +1,13 @@
+{
+  "commit": "3ed4b3652d9fe3dfa4017d22a6ddbd15e3c6cd7a",
+  "repo_url": "https://github.com/eslint/eslint",
+  "date": "2025-04-21T17:12:39",
+  "languages": {
+    "JavaScript": 11461040,
+    "TypeScript": 56413,
+    "EJS": 4852,
+    "HTML": 898,
+    "Shell": 475
+  },
+  "size": 11523678
+}

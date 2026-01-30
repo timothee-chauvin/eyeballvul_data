@@ -1,0 +1,19 @@
+{
+  "commit": "5630c40bbe38bd27d4b77504c0815a363b7e5e23",
+  "repo_url": "https://github.com/codewithcj/sparkyfitness",
+  "date": "2025-10-27T23:34:15",
+  "languages": {
+    "TypeScript": 1874420,
+    "JavaScript": 1115272,
+    "PLpgSQL": 239165,
+    "Python": 21898,
+    "Shell": 15513,
+    "CSS": 4714,
+    "Kotlin": 3417,
+    "HTML": 2005,
+    "Ruby": 1557,
+    "Swift": 1242,
+    "Batchfile": 782
+  },
+  "size": 3279985
+}

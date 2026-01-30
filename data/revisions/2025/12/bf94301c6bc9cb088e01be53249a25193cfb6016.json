@@ -1,0 +1,27 @@
+{
+  "commit": "bf94301c6bc9cb088e01be53249a25193cfb6016",
+  "repo_url": "https://github.com/themrdemonized/xray-monolith",
+  "date": "2025-12-23T09:14:07",
+  "languages": {
+    "C++": 34835901,
+    "C": 15133686,
+    "Lua": 824034,
+    "Makefile": 168325,
+    "Shell": 119660,
+    "xBase": 52545,
+    "Cuda": 36172,
+    "Roff": 30721,
+    "HLSL": 29525,
+    "SAS": 13756,
+    "WebAssembly": 13560,
+    "Module Management System": 13253,
+    "Assembly": 8314,
+    "Batchfile": 7460,
+    "Smalltalk": 6201,
+    "CMake": 6042,
+    "StringTemplate": 4329,
+    "Perl": 3982,
+    "HTML": 901
+  },
+  "size": 51308367
+}

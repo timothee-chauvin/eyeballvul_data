@@ -1,0 +1,18 @@
+{
+  "commit": "283ffb20e83f5302e6feccc4adaa288ade9398b8",
+  "repo_url": "https://github.com/azerothcore/azerothcore-wotlk",
+  "date": "2021-10-20T00:44:09",
+  "languages": {
+    "C++": 24021965,
+    "C": 532910,
+    "CMake": 135495,
+    "Shell": 62683,
+    "Dockerfile": 11018,
+    "Objective-C": 10961,
+    "TypeScript": 8880,
+    "PHP": 6762,
+    "Python": 6559,
+    "Batchfile": 4318
+  },
+  "size": 24801551
+}

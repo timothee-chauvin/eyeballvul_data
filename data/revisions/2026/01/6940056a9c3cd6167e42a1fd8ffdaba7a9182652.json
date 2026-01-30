@@ -1,0 +1,16 @@
+{
+  "commit": "6940056a9c3cd6167e42a1fd8ffdaba7a9182652",
+  "repo_url": "https://github.com/phala-network/dcap-qvl",
+  "date": "2026-01-09T04:05:20",
+  "languages": {
+    "Rust": 228507,
+    "JavaScript": 128582,
+    "Python": 61909,
+    "Shell": 52003,
+    "Makefile": 4802,
+    "TypeScript": 2662,
+    "HTML": 1941,
+    "CSS": 1523
+  },
+  "size": 481929
+}

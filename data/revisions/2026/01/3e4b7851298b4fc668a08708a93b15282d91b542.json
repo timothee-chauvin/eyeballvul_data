@@ -1,0 +1,14 @@
+{
+  "commit": "3e4b7851298b4fc668a08708a93b15282d91b542",
+  "repo_url": "https://github.com/trusttunnel/trusttunnel",
+  "date": "2026-01-21T13:36:19",
+  "languages": {
+    "Rust": 689993,
+    "Shell": 38365,
+    "Python": 17446,
+    "Dockerfile": 6758,
+    "Makefile": 2879,
+    "C": 1633
+  },
+  "size": 757074
+}

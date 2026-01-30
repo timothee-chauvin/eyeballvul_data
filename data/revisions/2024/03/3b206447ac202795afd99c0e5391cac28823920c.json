@@ -1,0 +1,12 @@
+{
+  "commit": "3b206447ac202795afd99c0e5391cac28823920c",
+  "repo_url": "https://github.com/praydog/uevr",
+  "date": "2024-03-23T17:15:49",
+  "languages": {
+    "C++": 2016085,
+    "CMake": 30964,
+    "C": 24635,
+    "Batchfile": 613
+  },
+  "size": 2072297
+}

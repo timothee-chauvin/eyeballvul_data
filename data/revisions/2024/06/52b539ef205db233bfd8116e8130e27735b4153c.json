@@ -1,0 +1,12 @@
+{
+  "commit": "52b539ef205db233bfd8116e8130e27735b4153c",
+  "repo_url": "https://github.com/zimbra/zm-build",
+  "date": "2024-06-07T17:19:37",
+  "languages": {
+    "Perl": 571272,
+    "Shell": 343943,
+    "Raku": 3491,
+    "Prolog": 225
+  },
+  "size": 918931
+}

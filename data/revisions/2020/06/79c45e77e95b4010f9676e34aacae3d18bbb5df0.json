@@ -1,0 +1,13 @@
+{
+  "commit": "79c45e77e95b4010f9676e34aacae3d18bbb5df0",
+  "repo_url": "https://github.com/cobbr/covenant",
+  "date": "2020-06-04T17:57:06",
+  "languages": {
+    "C#": 2545118,
+    "HTML": 340222,
+    "JavaScript": 294612,
+    "CSS": 22663,
+    "Dockerfile": 289
+  },
+  "size": 3202904
+}

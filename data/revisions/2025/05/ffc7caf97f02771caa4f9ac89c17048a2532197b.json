@@ -1,0 +1,16 @@
+{
+  "commit": "ffc7caf97f02771caa4f9ac89c17048a2532197b",
+  "repo_url": "https://github.com/datavane/tis",
+  "date": "2025-05-13T03:19:13",
+  "languages": {
+    "Java": 8097276,
+    "HTML": 154110,
+    "Scala": 74736,
+    "Smarty": 8075,
+    "Shell": 5201,
+    "CSS": 1984,
+    "Batchfile": 1371,
+    "Dockerfile": 801
+  },
+  "size": 8343554
+}

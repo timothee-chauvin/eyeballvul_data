@@ -1,0 +1,12 @@
+{
+  "commit": "436caefb32080d1fafb163a9cd6c44b2ab5b9ae3",
+  "repo_url": "https://github.com/innocommerce/innoshop",
+  "date": "2024-12-23T09:50:46",
+  "languages": {
+    "PHP": 2333338,
+    "Blade": 645058,
+    "SCSS": 83150,
+    "JavaScript": 24235
+  },
+  "size": 3085781
+}

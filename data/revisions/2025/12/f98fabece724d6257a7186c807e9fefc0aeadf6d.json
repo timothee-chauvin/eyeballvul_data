@@ -1,0 +1,17 @@
+{
+  "commit": "f98fabece724d6257a7186c807e9fefc0aeadf6d",
+  "repo_url": "https://github.com/vltpkg/vltpkg",
+  "date": "2025-12-08T17:59:17",
+  "languages": {
+    "TypeScript": 5797962,
+    "JavaScript": 1128181,
+    "MDX": 149525,
+    "CSS": 31335,
+    "Shell": 13271,
+    "Vue": 12638,
+    "Astro": 6390,
+    "PowerShell": 5069,
+    "HTML": 2214
+  },
+  "size": 7146585
+}

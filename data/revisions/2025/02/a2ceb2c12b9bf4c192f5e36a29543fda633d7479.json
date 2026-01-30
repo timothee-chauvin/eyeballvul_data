@@ -1,0 +1,15 @@
+{
+  "commit": "a2ceb2c12b9bf4c192f5e36a29543fda633d7479",
+  "repo_url": "https://github.com/turanszkij/wickedengine",
+  "date": "2025-02-02T06:21:58",
+  "languages": {
+    "C++": 20815336,
+    "C": 20597004,
+    "POV-Ray SDL": 1533033,
+    "HLSL": 1423378,
+    "Lua": 184367,
+    "CMake": 55202,
+    "Objective-C": 5907
+  },
+  "size": 44614227
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "c82f5bb5e7ef7a7f59c664c2ed9d95bff11ad500",
+  "repo_url": "https://github.com/magicblack/maccms10",
+  "date": "2022-02-15T10:32:30",
+  "languages": {
+    "PHP": 3301180,
+    "HTML": 1064476,
+    "JavaScript": 447229,
+    "CSS": 141011,
+    "Smarty": 32306,
+    "PLpgSQL": 3807
+  },
+  "size": 4990009
+}

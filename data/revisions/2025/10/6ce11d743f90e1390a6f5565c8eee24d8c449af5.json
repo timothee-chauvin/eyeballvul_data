@@ -1,0 +1,14 @@
+{
+  "commit": "6ce11d743f90e1390a6f5565c8eee24d8c449af5",
+  "repo_url": "https://github.com/typemill/typemill",
+  "date": "2025-10-20T09:19:34",
+  "languages": {
+    "JavaScript": 972730,
+    "PHP": 634432,
+    "Twig": 112675,
+    "CSS": 69755,
+    "Dockerfile": 1562,
+    "Shell": 1004
+  },
+  "size": 1792158
+}

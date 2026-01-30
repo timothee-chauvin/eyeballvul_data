@@ -1,0 +1,11 @@
+{
+  "commit": "fcbb32b7072c1a43dee4c6d44641b7950c563ba9",
+  "repo_url": "https://github.com/sonirico/mcp-shell",
+  "date": "2025-09-06T21:35:04",
+  "languages": {
+    "Go": 16723,
+    "Makefile": 4016,
+    "Dockerfile": 1757
+  },
+  "size": 22496
+}
