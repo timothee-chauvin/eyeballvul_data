@@ -1,0 +1,12 @@
+{
+  "commit": "874234449b25f0d6ef1c674efbb4f1f8ab0eb763",
+  "repo_url": "https://github.com/openlistteam/openlist",
+  "date": "2026-01-01T14:29:03",
+  "languages": {
+    "Go": 3089605,
+    "Shell": 27026,
+    "Dockerfile": 1005,
+    "Makefile": 694
+  },
+  "size": 3118330
+}

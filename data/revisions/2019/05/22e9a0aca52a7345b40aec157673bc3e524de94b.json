@@ -1,0 +1,20 @@
+{
+  "commit": "22e9a0aca52a7345b40aec157673bc3e524de94b",
+  "repo_url": "https://github.com/buildbot/buildbot",
+  "date": "2019-05-06T08:55:05",
+  "languages": {
+    "Python": 6793779,
+    "JavaScript": 457718,
+    "RAML": 64457,
+    "Pug": 52788,
+    "TypeScript": 38942,
+    "Less": 29468,
+    "Shell": 15111,
+    "Makefile": 12214,
+    "Roff": 12137,
+    "Dockerfile": 4991,
+    "HTML": 4172,
+    "Jinja": 3846
+  },
+  "size": 7489623
+}

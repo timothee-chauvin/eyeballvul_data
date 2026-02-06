@@ -1,0 +1,16 @@
+{
+  "commit": "18824ef77df44f3dee4ba1e7f61d767db8ee58c2",
+  "repo_url": "https://github.com/zenml-io/zenml",
+  "date": "2023-09-26T21:51:23",
+  "languages": {
+    "Python": 6655087,
+    "HCL": 41459,
+    "Shell": 13443,
+    "Dockerfile": 5787,
+    "HTML": 2568,
+    "Smarty": 2042,
+    "Mako": 695,
+    "Batchfile": 96
+  },
+  "size": 6721177
+}

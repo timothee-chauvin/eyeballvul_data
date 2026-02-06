@@ -1,0 +1,12 @@
+{
+  "commit": "d44b49a5c85ce49ce5ea9fffb03e1f34f3804b4a",
+  "repo_url": "https://github.com/jenkinsci/script-security-plugin",
+  "date": "2024-10-25T15:34:11",
+  "languages": {
+    "Java": 541752,
+    "JavaScript": 13453,
+    "Groovy": 1912,
+    "HTML": 904
+  },
+  "size": 558021
+}

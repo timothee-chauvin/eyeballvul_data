@@ -1,0 +1,11 @@
+{
+  "commit": "714f7c0231294ec4144f0e0e5fc5b43a6d430d2f",
+  "repo_url": "https://github.com/eclipse-paho/paho.mqtt.golang",
+  "date": "2024-07-31T00:02:00",
+  "languages": {
+    "Go": 352282,
+    "Shell": 3195,
+    "Batchfile": 614
+  },
+  "size": 356091
+}

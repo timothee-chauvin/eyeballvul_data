@@ -1,0 +1,13 @@
+{
+  "commit": "6ce14298b9d58647295280560205307768400496",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-go",
+  "date": "2025-12-08T16:30:47",
+  "languages": {
+    "Go": 3495068,
+    "Jinja": 20057,
+    "Makefile": 10636,
+    "Shell": 1461,
+    "Dockerfile": 391
+  },
+  "size": 3527613
+}

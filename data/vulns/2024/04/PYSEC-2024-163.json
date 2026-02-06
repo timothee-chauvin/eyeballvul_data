@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2024-163",
   "published": "2024-04-25T18:15:09",
-  "modified": "2025-01-14T05:57:10.891778",
+  "modified": "2026-02-04T03:31:26.110179",
   "details": "Vyper is a pythonic Smart Contract Language for the Ethereum virtual machine. Prior to version 0.3.0, default functions don't respect nonreentrancy keys and the lock isn't emitted. No vulnerable production contracts were found. Additionally, using a lock on a `default` function is a very sparsely used pattern. As such, the impact is low. Version 0.3.0 contains a patch for the issue.\n",
   "severity": [
     {

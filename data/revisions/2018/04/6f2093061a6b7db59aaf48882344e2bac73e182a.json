@@ -1,0 +1,11 @@
+{
+  "commit": "6f2093061a6b7db59aaf48882344e2bac73e182a",
+  "repo_url": "https://github.com/miyagawa/cpanminus",
+  "date": "2018-04-19T11:54:49",
+  "languages": {
+    "Perl": 1172975,
+    "Raku": 2012,
+    "XS": 133
+  },
+  "size": 1175120
+}

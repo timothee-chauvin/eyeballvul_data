@@ -1,0 +1,14 @@
+{
+  "commit": "601a744159fda388eb6fe2fad315dc9c6017f94a",
+  "repo_url": "https://github.com/minio/minio",
+  "date": "2022-04-09T15:09:52",
+  "languages": {
+    "Go": 7166085,
+    "Shell": 34457,
+    "Makefile": 5823,
+    "Mustache": 5471,
+    "Smarty": 469,
+    "Dockerfile": 227
+  },
+  "size": 7212532
+}

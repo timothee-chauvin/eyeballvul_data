@@ -1,0 +1,16 @@
+{
+  "commit": "d7dfcc592b59c90fdadd29234514d2622a2de98b",
+  "repo_url": "https://github.com/solidusio/solidus",
+  "date": "2020-05-14T07:11:13",
+  "languages": {
+    "Ruby": 3026815,
+    "HTML": 455858,
+    "JavaScript": 121647,
+    "SCSS": 115773,
+    "Handlebars": 11005,
+    "Shell": 2512,
+    "CSS": 1344,
+    "Dockerfile": 417
+  },
+  "size": 3735371
+}

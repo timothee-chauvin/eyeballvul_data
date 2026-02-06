@@ -1,0 +1,10 @@
+{
+  "commit": "025bb3ea92c6eff95f667fd16687b42b4ff5c6da",
+  "repo_url": "https://github.com/bosh-packages/cf-cli-release",
+  "date": "2018-08-08T21:28:08",
+  "languages": {
+    "Dockerfile": 1803,
+    "Shell": 1340
+  },
+  "size": 3143
+}

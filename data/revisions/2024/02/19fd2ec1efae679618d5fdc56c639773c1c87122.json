@@ -1,0 +1,23 @@
+{
+  "commit": "19fd2ec1efae679618d5fdc56c639773c1c87122",
+  "repo_url": "https://github.com/apache/james-project",
+  "date": "2024-02-11T21:43:33",
+  "languages": {
+    "Java": 30420170,
+    "Scala": 3937227,
+    "HTML": 272560,
+    "Gherkin": 145790,
+    "CSS": 80031,
+    "JavaScript": 38642,
+    "XSLT": 10695,
+    "Shell": 7195,
+    "Handlebars": 4501,
+    "Dockerfile": 2026,
+    "Ruby": 1691,
+    "Smarty": 1655,
+    "Batchfile": 1348,
+    "Mustache": 1024,
+    "D": 926
+  },
+  "size": 34925481
+}

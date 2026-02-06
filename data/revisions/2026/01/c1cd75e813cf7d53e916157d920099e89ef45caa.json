@@ -1,0 +1,16 @@
+{
+  "commit": "c1cd75e813cf7d53e916157d920099e89ef45caa",
+  "repo_url": "https://github.com/beam-cloud/beta9",
+  "date": "2026-01-16T16:22:21",
+  "languages": {
+    "Go": 1917303,
+    "Python": 673386,
+    "HCL": 35344,
+    "Shell": 15565,
+    "Smarty": 4326,
+    "Makefile": 3827,
+    "JavaScript": 790,
+    "Dockerfile": 225
+  },
+  "size": 2650766
+}

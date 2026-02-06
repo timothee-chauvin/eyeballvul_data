@@ -1,0 +1,15 @@
+{
+  "commit": "775cb20de3dc273f1fc31cd55d895e16dfe98bdf",
+  "repo_url": "https://github.com/jupyter/notebook",
+  "date": "2018-09-19T14:35:51",
+  "languages": {
+    "JavaScript": 997562,
+    "Jupyter Notebook": 822639,
+    "Python": 642470,
+    "Less": 66467,
+    "HTML": 54175,
+    "CSS": 1342,
+    "Shell": 752
+  },
+  "size": 2585407
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "f9751fab28c55d793df7996f599839a3ace5414b",
+  "repo_url": "https://github.com/ansible-collections/amazon.aws",
+  "date": "2022-10-10T10:40:27",
+  "languages": {
+    "Python": 2353043,
+    "Jinja": 17460,
+    "Shell": 11475
+  },
+  "size": 2381978
+}

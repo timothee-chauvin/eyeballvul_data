@@ -1,0 +1,24 @@
+{
+  "commit": "0f10a05d2e1043dcc178736b82277223a76eacc9",
+  "repo_url": "https://github.com/gnome/libxml2",
+  "date": "2025-04-03T13:22:09",
+  "languages": {
+    "C": 7199288,
+    "HTML": 471690,
+    "Python": 291820,
+    "POV-Ray SDL": 47177,
+    "M4": 41793,
+    "CMake": 38461,
+    "JavaScript": 29532,
+    "Meson": 26851,
+    "Makefile": 22973,
+    "XSLT": 17980,
+    "Shell": 15133,
+    "Clean": 6801,
+    "Dockerfile": 1540,
+    "PHP": 1319,
+    "PowerShell": 1302,
+    "Max": 296
+  },
+  "size": 8213956
+}

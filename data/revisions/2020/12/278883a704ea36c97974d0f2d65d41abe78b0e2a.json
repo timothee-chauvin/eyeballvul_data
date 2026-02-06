@@ -1,0 +1,15 @@
+{
+  "commit": "278883a704ea36c97974d0f2d65d41abe78b0e2a",
+  "repo_url": "https://github.com/rpm-software-management/rpm",
+  "date": "2020-12-16T12:13:38",
+  "languages": {
+    "C": 2530371,
+    "Shell": 80965,
+    "Perl": 64355,
+    "Python": 31464,
+    "M4": 30131,
+    "Makefile": 28684,
+    "Dockerfile": 1478
+  },
+  "size": 2767448
+}

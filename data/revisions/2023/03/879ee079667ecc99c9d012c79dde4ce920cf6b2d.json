@@ -1,0 +1,11 @@
+{
+  "commit": "879ee079667ecc99c9d012c79dde4ce920cf6b2d",
+  "repo_url": "https://github.com/adguardteam/adguarddns",
+  "date": "2023-03-18T14:11:10",
+  "languages": {
+    "Go": 1145444,
+    "Shell": 16384,
+    "Makefile": 2652
+  },
+  "size": 1164480
+}

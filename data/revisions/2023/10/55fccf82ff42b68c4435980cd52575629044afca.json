@@ -1,0 +1,11 @@
+{
+  "commit": "55fccf82ff42b68c4435980cd52575629044afca",
+  "repo_url": "https://github.com/sap/cloud-security-services-integration-library",
+  "date": "2023-10-20T11:37:03",
+  "languages": {
+    "Java": 1063008,
+    "PowerShell": 4705,
+    "Shell": 2968
+  },
+  "size": 1070681
+}

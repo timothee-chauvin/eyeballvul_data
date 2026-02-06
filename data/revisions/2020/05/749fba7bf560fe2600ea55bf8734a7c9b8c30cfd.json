@@ -1,0 +1,15 @@
+{
+  "commit": "749fba7bf560fe2600ea55bf8734a7c9b8c30cfd",
+  "repo_url": "https://github.com/facade/ignition",
+  "date": "2020-05-18T15:20:13",
+  "languages": {
+    "PHP": 185663,
+    "Vue": 71208,
+    "TypeScript": 21728,
+    "CSS": 21375,
+    "JavaScript": 11220,
+    "Blade": 692,
+    "HTML": 385
+  },
+  "size": 312271
+}

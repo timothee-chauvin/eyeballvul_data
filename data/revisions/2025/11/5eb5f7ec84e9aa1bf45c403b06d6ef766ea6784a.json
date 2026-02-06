@@ -1,0 +1,11 @@
+{
+  "commit": "5eb5f7ec84e9aa1bf45c403b06d6ef766ea6784a",
+  "repo_url": "https://github.com/nvidia/nvidia-resiliency-ext",
+  "date": "2025-11-13T19:30:25",
+  "languages": {
+    "Python": 1699207,
+    "Shell": 44470,
+    "C++": 16433
+  },
+  "size": 1760110
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "2ce0a21052f0c4abf7d9c908add064333f539732",
+  "repo_url": "https://github.com/redpanda-data/redpanda",
+  "date": "2023-12-08T09:31:16",
+  "languages": {
+    "C++": 12662962,
+    "Python": 3411340,
+    "Go": 1656803,
+    "Rust": 287262,
+    "Java": 172492,
+    "CMake": 118384,
+    "Shell": 17482,
+    "Dockerfile": 9054,
+    "C": 7309,
+    "Makefile": 2728,
+    "Emacs Lisp": 829,
+    "Jinja": 491
+  },
+  "size": 18347136
+}

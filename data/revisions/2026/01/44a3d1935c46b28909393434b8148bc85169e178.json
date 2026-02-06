@@ -1,0 +1,13 @@
+{
+  "commit": "44a3d1935c46b28909393434b8148bc85169e178",
+  "repo_url": "https://github.com/ci4-cms-erp/ci4ms",
+  "date": "2026-01-30T01:47:11",
+  "languages": {
+    "JavaScript": 10638702,
+    "CSS": 4491455,
+    "PHP": 1214894,
+    "Hack": 2235,
+    "HTML": 788
+  },
+  "size": 16348074
+}

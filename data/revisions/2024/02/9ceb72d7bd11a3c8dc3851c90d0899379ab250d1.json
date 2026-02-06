@@ -1,0 +1,14 @@
+{
+  "commit": "9ceb72d7bd11a3c8dc3851c90d0899379ab250d1",
+  "repo_url": "https://github.com/mitre/caldera",
+  "date": "2024-02-14T04:10:47",
+  "languages": {
+    "Python": 918430,
+    "HTML": 442649,
+    "CSS": 278489,
+    "Sass": 140446,
+    "JavaScript": 37799,
+    "Dockerfile": 3308
+  },
+  "size": 1821121
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "1872411ae82924d98bcf5bd07a4a6da2e633b82f",
+  "repo_url": "https://github.com/electron/electron",
+  "date": "2024-05-13T20:35:52",
+  "languages": {
+    "C++": 3665492,
+    "TypeScript": 2029931,
+    "Objective-C++": 403254,
+    "JavaScript": 181323,
+    "Python": 122269,
+    "Objective-C": 43727,
+    "HTML": 12057,
+    "Shell": 5069,
+    "Batchfile": 2539,
+    "C": 2491,
+    "CSS": 2369
+  },
+  "size": 6470521
+}

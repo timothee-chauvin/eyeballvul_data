@@ -1,0 +1,14 @@
+{
+  "commit": "0f00ca2b4b2d54d5f90006a92abb1b00a72b2f20",
+  "repo_url": "https://github.com/isaac-sim/isaaclab",
+  "date": "2025-08-29T17:57:15",
+  "languages": {
+    "Python": 5968034,
+    "Kit": 76249,
+    "Shell": 35357,
+    "Batchfile": 24001,
+    "Jinja": 6097,
+    "Dockerfile": 879
+  },
+  "size": 6110617
+}

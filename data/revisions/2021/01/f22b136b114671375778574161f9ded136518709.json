@@ -1,0 +1,21 @@
+{
+  "commit": "f22b136b114671375778574161f9ded136518709",
+  "repo_url": "https://github.com/gnome/glib",
+  "date": "2021-01-07T16:51:43",
+  "languages": {
+    "C": 24982518,
+    "Python": 477287,
+    "Meson": 251568,
+    "C++": 106233,
+    "Objective-C": 63538,
+    "Shell": 50638,
+    "M4": 40415,
+    "Perl": 39010,
+    "Dockerfile": 6624,
+    "DTrace": 3607,
+    "Batchfile": 790,
+    "GDB": 135,
+    "Emacs Lisp": 41
+  },
+  "size": 26022404
+}

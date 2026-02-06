@@ -1,0 +1,16 @@
+{
+  "commit": "c2305d4e276e3627c18c3aaa4cbcfbb1d6388570",
+  "repo_url": "https://github.com/homarr-labs/homarr",
+  "date": "2025-07-18T19:17:18",
+  "languages": {
+    "TypeScript": 2495404,
+    "CSS": 251198,
+    "JavaScript": 13841,
+    "SCSS": 8657,
+    "Shell": 2560,
+    "Dockerfile": 2315,
+    "Handlebars": 1066,
+    "Batchfile": 230
+  },
+  "size": 2775271
+}

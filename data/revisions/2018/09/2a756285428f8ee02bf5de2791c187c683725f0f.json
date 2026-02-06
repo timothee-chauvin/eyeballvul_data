@@ -1,0 +1,15 @@
+{
+  "commit": "2a756285428f8ee02bf5de2791c187c683725f0f",
+  "repo_url": "https://github.com/rabbitmq/rabbitmq-java-client",
+  "date": "2018-09-03T09:39:41",
+  "languages": {
+    "Java": 1709733,
+    "Python": 25672,
+    "Groovy": 4054,
+    "Makefile": 1193,
+    "HTML": 1170,
+    "Erlang": 966,
+    "Shell": 364
+  },
+  "size": 1743152
+}

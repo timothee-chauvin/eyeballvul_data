@@ -1,0 +1,12 @@
+{
+  "commit": "817db791d4f8afd5b359f05a6a2323af4562ccf7",
+  "repo_url": "https://github.com/nextcloud/files_automatedtagging",
+  "date": "2023-02-16T19:50:54",
+  "languages": {
+    "JavaScript": 34855,
+    "PHP": 22219,
+    "Makefile": 1728,
+    "Vue": 1456
+  },
+  "size": 60258
+}

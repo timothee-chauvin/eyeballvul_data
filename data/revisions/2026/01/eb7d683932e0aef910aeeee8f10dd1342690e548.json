@@ -1,0 +1,14 @@
+{
+  "commit": "eb7d683932e0aef910aeeee8f10dd1342690e548",
+  "repo_url": "https://github.com/bpg/terraform-provider-proxmox",
+  "date": "2026-01-12T11:35:57",
+  "languages": {
+    "Go": 2904726,
+    "HCL": 47495,
+    "Shell": 29768,
+    "Python": 4978,
+    "Makefile": 4702,
+    "Dockerfile": 898
+  },
+  "size": 2992567
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "5f8a9a44fcf0e9e153dc5d5eb65e409cd5855f5c",
+  "repo_url": "https://github.com/solokeys/solo1",
+  "date": "2020-03-27T14:56:51",
+  "languages": {
+    "C": 5669412,
+    "Makefile": 18485,
+    "Python": 14362,
+    "Assembly": 12805,
+    "Shell": 4136,
+    "Dockerfile": 1533
+  },
+  "size": 5720733
+}

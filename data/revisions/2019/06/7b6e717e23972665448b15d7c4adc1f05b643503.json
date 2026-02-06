@@ -1,0 +1,20 @@
+{
+  "commit": "7b6e717e23972665448b15d7c4adc1f05b643503",
+  "repo_url": "https://github.com/syuilo/misskey",
+  "date": "2019-06-07T11:47:56",
+  "languages": {
+    "TypeScript": 1246169,
+    "Vue": 1080326,
+    "Pug": 9023,
+    "Stylus": 7032,
+    "JavaScript": 6747,
+    "Shell": 3105,
+    "HTML": 1263,
+    "CSS": 712,
+    "Dockerfile": 633,
+    "jq": 405,
+    "Procfile": 35,
+    "JSONiq": 13
+  },
+  "size": 2355463
+}

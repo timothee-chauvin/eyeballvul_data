@@ -1,0 +1,10 @@
+{
+  "commit": "e8b39d1aafde58ae80929751c8e40bf92d6aaba2",
+  "repo_url": "https://github.com/snyk/snyk-cocoapods-plugin",
+  "date": "2021-02-12T10:18:37",
+  "languages": {
+    "TypeScript": 17409,
+    "JavaScript": 157
+  },
+  "size": 17566
+}

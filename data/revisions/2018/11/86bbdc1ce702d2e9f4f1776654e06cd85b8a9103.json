@@ -1,0 +1,11 @@
+{
+  "commit": "86bbdc1ce702d2e9f4f1776654e06cd85b8a9103",
+  "repo_url": "https://github.com/jenkinsci/pipeline-model-definition-plugin",
+  "date": "2018-11-27T18:44:08",
+  "languages": {
+    "Java": 1013991,
+    "Groovy": 995514,
+    "HTML": 126630
+  },
+  "size": 2136135
+}

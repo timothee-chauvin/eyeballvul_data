@@ -1,0 +1,17 @@
+{
+  "commit": "5f008bcaf23445a5dc2e59981288695f632b6cdf",
+  "repo_url": "https://github.com/ansible/galaxy",
+  "date": "2018-06-30T04:25:22",
+  "languages": {
+    "Python": 628993,
+    "TypeScript": 311863,
+    "HTML": 89717,
+    "Less": 39288,
+    "Makefile": 6596,
+    "Dockerfile": 5159,
+    "Shell": 3446,
+    "JavaScript": 2147,
+    "Procfile": 84
+  },
+  "size": 1087293
+}

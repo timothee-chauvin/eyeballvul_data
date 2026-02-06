@@ -1,0 +1,21 @@
+{
+  "commit": "663d389925a9637609c07f1212edeca337f591be",
+  "repo_url": "https://github.com/electron/electron",
+  "date": "2020-04-16T21:16:08",
+  "languages": {
+    "C++": 2766526,
+    "TypeScript": 949053,
+    "JavaScript": 541348,
+    "Objective-C++": 338050,
+    "Python": 109112,
+    "Objective-C": 37936,
+    "Shell": 23351,
+    "HTML": 18668,
+    "CSS": 2379,
+    "Dockerfile": 1395,
+    "C": 1287,
+    "PowerShell": 568,
+    "CoffeeScript": 21
+  },
+  "size": 4789694
+}

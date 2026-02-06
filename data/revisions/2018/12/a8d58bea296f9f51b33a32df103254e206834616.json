@@ -1,0 +1,11 @@
+{
+  "commit": "a8d58bea296f9f51b33a32df103254e206834616",
+  "repo_url": "https://github.com/jenkinsci/phoenix-autotest-plugin",
+  "date": "2018-12-29T09:27:47",
+  "languages": {
+    "Java": 73419,
+    "HTML": 591,
+    "Groovy": 145
+  },
+  "size": 74155
+}

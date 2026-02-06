@@ -1,0 +1,19 @@
+{
+  "commit": "ff64775e461f7e2ceb8ce550c2be418e9d43ce14",
+  "repo_url": "https://github.com/xibosignage/xibo-cms",
+  "date": "2025-08-27T07:23:01",
+  "languages": {
+    "PHP": 7564004,
+    "Twig": 2453051,
+    "JavaScript": 1939004,
+    "Handlebars": 239976,
+    "SCSS": 201478,
+    "CSS": 85389,
+    "Shell": 28336,
+    "C": 15992,
+    "Python": 12616,
+    "Dockerfile": 8042,
+    "HTML": 2
+  },
+  "size": 12547890
+}

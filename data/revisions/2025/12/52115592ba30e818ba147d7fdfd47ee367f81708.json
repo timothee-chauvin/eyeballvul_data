@@ -1,0 +1,13 @@
+{
+  "commit": "52115592ba30e818ba147d7fdfd47ee367f81708",
+  "repo_url": "https://github.com/anthropics/claude-code",
+  "date": "2025-12-19T00:59:25",
+  "languages": {
+    "Shell": 52385,
+    "Python": 38265,
+    "TypeScript": 14583,
+    "PowerShell": 5319,
+    "Dockerfile": 2507
+  },
+  "size": 113059
+}

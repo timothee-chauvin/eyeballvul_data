@@ -1,0 +1,15 @@
+{
+  "commit": "f25f15ac1c84542b44aab12fbce1ab1913e6fb61",
+  "repo_url": "https://github.com/lucee/lucee",
+  "date": "2020-10-27T10:26:11",
+  "languages": {
+    "Java": 12943875,
+    "ColdFusion": 5466170,
+    "JavaScript": 30392,
+    "CSS": 29743,
+    "XSLT": 2130,
+    "Shell": 1030,
+    "HTML": 15
+  },
+  "size": 18473355
+}

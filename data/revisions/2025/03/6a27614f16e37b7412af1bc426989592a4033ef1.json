@@ -1,0 +1,27 @@
+{
+  "commit": "6a27614f16e37b7412af1bc426989592a4033ef1",
+  "repo_url": "https://github.com/htcondor/htcondor",
+  "date": "2025-03-05T16:18:42",
+  "languages": {
+    "C++": 29660609,
+    "Perl": 3449121,
+    "Python": 2212168,
+    "C": 1613326,
+    "Shell": 568194,
+    "CMake": 445223,
+    "Batchfile": 143155,
+    "JavaScript": 130752,
+    "Ada": 71055,
+    "HTML": 42222,
+    "Java": 38604,
+    "Makefile": 27562,
+    "Yacc": 13532,
+    "Dockerfile": 11130,
+    "Awk": 9500,
+    "VBScript": 8719,
+    "PowerShell": 5412,
+    "CSS": 3166,
+    "Fortran": 1279
+  },
+  "size": 38454729
+}

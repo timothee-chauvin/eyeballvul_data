@@ -1,0 +1,13 @@
+{
+  "commit": "97aeb14c6fc2fb733938809926e2f9d6c581a70d",
+  "repo_url": "https://github.com/smarty-php/smarty",
+  "date": "2022-08-01T21:57:38",
+  "languages": {
+    "PHP": 1954129,
+    "Smarty": 111214,
+    "Yacc": 40453,
+    "Dockerfile": 1782,
+    "Shell": 1310
+  },
+  "size": 2108888
+}

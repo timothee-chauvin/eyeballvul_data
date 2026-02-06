@@ -1,0 +1,22 @@
+{
+  "commit": "500833ac01fddf660e5ff1afccce1c7271fccd4c",
+  "repo_url": "https://github.com/apache/pulsar",
+  "date": "2023-04-12T07:41:56",
+  "languages": {
+    "Java": 31369459,
+    "HTML": 17948879,
+    "C++": 1999496,
+    "Python": 439585,
+    "Shell": 221528,
+    "Go": 117008,
+    "C": 76867,
+    "Dockerfile": 45845,
+    "CMake": 40365,
+    "Batchfile": 14738,
+    "HCL": 14529,
+    "Lua": 5454,
+    "Roff": 3503,
+    "JavaScript": 1385
+  },
+  "size": 52298641
+}

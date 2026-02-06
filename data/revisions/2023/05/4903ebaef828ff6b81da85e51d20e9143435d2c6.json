@@ -1,0 +1,12 @@
+{
+  "commit": "4903ebaef828ff6b81da85e51d20e9143435d2c6",
+  "repo_url": "https://github.com/zopefoundation/accesscontrol",
+  "date": "2023-05-22T11:21:07",
+  "languages": {
+    "Python": 381056,
+    "C": 68094,
+    "C++": 9572,
+    "Shell": 2691
+  },
+  "size": 461413
+}

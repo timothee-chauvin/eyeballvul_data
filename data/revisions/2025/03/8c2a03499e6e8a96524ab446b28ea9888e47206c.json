@@ -1,0 +1,18 @@
+{
+  "commit": "8c2a03499e6e8a96524ab446b28ea9888e47206c",
+  "repo_url": "https://github.com/apache/orc",
+  "date": "2025-03-16T23:59:39",
+  "languages": {
+    "Java": 3628038,
+    "C++": 2583021,
+    "CMake": 77039,
+    "SCSS": 36593,
+    "Python": 30804,
+    "Dockerfile": 15144,
+    "HTML": 14789,
+    "C": 6988,
+    "Shell": 6692,
+    "Ruby": 53
+  },
+  "size": 6399161
+}

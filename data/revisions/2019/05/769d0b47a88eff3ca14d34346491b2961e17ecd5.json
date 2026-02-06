@@ -1,0 +1,13 @@
+{
+  "commit": "769d0b47a88eff3ca14d34346491b2961e17ecd5",
+  "repo_url": "https://github.com/gnome/gvfs",
+  "date": "2019-05-21T07:35:55",
+  "languages": {
+    "C": 3930460,
+    "Python": 77431,
+    "Meson": 48210,
+    "Shell": 6546,
+    "Dockerfile": 1139
+  },
+  "size": 4063786
+}

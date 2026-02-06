@@ -1,0 +1,16 @@
+{
+  "commit": "c1d54bb7b2a80d0f153fd92a13e1b901778f17d3",
+  "repo_url": "https://github.com/armmbed/mbedtls",
+  "date": "2016-10-17T22:40:14",
+  "languages": {
+    "C": 2868986,
+    "Shell": 166659,
+    "Perl": 41955,
+    "Makefile": 35638,
+    "CMake": 19913,
+    "Roff": 963,
+    "SmPL": 353,
+    "Tcl": 110
+  },
+  "size": 3134577
+}

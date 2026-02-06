@@ -1,0 +1,13 @@
+{
+  "commit": "7f845f1e680aafe176a110de4e366b0fe6fd94c9",
+  "repo_url": "https://github.com/getkirby/panel",
+  "date": "2017-11-02T20:11:20",
+  "languages": {
+    "PHP": 335999,
+    "JavaScript": 224379,
+    "CSS": 102342,
+    "SCSS": 60807,
+    "Hack": 439
+  },
+  "size": 723966
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "b99f6ebe44c86c748c8c7af5ae20f4b0af2ea3ee",
+  "repo_url": "https://github.com/exceedone/exment",
+  "date": "2024-02-16T04:31:29",
+  "languages": {
+    "PHP": 5478348,
+    "Blade": 178148,
+    "TypeScript": 166060,
+    "JavaScript": 66211,
+    "SCSS": 27697,
+    "CSS": 3228
+  },
+  "size": 5919692
+}

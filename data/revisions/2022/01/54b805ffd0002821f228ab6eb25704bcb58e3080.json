@@ -1,0 +1,18 @@
+{
+  "commit": "54b805ffd0002821f228ab6eb25704bcb58e3080",
+  "repo_url": "https://github.com/minetest/minetest",
+  "date": "2022-01-30T21:58:18",
+  "languages": {
+    "C++": 5513806,
+    "Lua": 705707,
+    "C": 623253,
+    "CMake": 78416,
+    "GLSL": 43780,
+    "Shell": 30730,
+    "Java": 23223,
+    "Python": 14326,
+    "Makefile": 8813,
+    "Dockerfile": 2376
+  },
+  "size": 7044430
+}

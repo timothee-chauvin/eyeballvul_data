@@ -1,0 +1,13 @@
+{
+  "commit": "73adb40ad1e37949200652edc8b1e0fb46e9c499",
+  "repo_url": "https://github.com/mattermost/mattermost-plugin-msteams",
+  "date": "2024-08-07T19:10:56",
+  "languages": {
+    "Go": 542812,
+    "TypeScript": 21577,
+    "Makefile": 16114,
+    "HTML": 6401,
+    "CSS": 614
+  },
+  "size": 587518
+}

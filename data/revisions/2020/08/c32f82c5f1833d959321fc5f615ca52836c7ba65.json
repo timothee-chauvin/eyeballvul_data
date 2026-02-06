@@ -1,0 +1,16 @@
+{
+  "commit": "c32f82c5f1833d959321fc5f615ca52836c7ba65",
+  "repo_url": "https://github.com/openexr/openexr",
+  "date": "2020-08-12T23:12:07",
+  "languages": {
+    "C": 8618423,
+    "C++": 5745748,
+    "M4": 227483,
+    "CMake": 111373,
+    "Makefile": 41991,
+    "Shell": 14451,
+    "Batchfile": 9272,
+    "PowerShell": 4852
+  },
+  "size": 14773593
+}

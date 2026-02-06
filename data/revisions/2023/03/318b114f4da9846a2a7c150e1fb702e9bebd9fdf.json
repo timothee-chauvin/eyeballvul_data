@@ -1,0 +1,11 @@
+{
+  "commit": "318b114f4da9846a2a7c150e1fb702e9bebd9fdf",
+  "repo_url": "https://github.com/redis/redis-py",
+  "date": "2023-03-20T08:59:18",
+  "languages": {
+    "Python": 2127752,
+    "Shell": 10880,
+    "Dockerfile": 96
+  },
+  "size": 2138728
+}

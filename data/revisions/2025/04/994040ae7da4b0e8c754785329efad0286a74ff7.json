@@ -1,0 +1,13 @@
+{
+  "commit": "994040ae7da4b0e8c754785329efad0286a74ff7",
+  "repo_url": "https://github.com/alibaba/xquic",
+  "date": "2025-04-22T08:16:48",
+  "languages": {
+    "C": 3091618,
+    "Shell": 185271,
+    "CMake": 63847,
+    "Python": 36518,
+    "Dockerfile": 1257
+  },
+  "size": 3378511
+}

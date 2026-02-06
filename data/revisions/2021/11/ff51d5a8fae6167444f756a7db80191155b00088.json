@@ -1,0 +1,12 @@
+{
+  "commit": "ff51d5a8fae6167444f756a7db80191155b00088",
+  "repo_url": "https://gitlab.com/cryptsetup/cryptsetup",
+  "date": "2021-11-18T10:35:45",
+  "languages": {
+    "C": 2088337,
+    "Shell": 527037,
+    "M4": 26401,
+    "Makefile": 6858
+  },
+  "size": 2648633
+}

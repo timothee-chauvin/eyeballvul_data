@@ -1,0 +1,17 @@
+{
+  "commit": "d0d6ebb7d5ed38846ce09b6be6fe935b272cd009",
+  "repo_url": "https://github.com/masacms/masacms",
+  "date": "2022-10-18T16:53:25",
+  "languages": {
+    "ColdFusion": 9104058,
+    "JavaScript": 2860226,
+    "CSS": 1434203,
+    "Less": 909628,
+    "PLSQL": 51150,
+    "TSQL": 45635,
+    "Java": 33714,
+    "HTML": 2887,
+    "Handlebars": 498
+  },
+  "size": 14441999
+}

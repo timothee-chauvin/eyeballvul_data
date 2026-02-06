@@ -1,0 +1,21 @@
+{
+  "commit": "1cdde9466ab658fb5b5a53af8c4e6a8929eef698",
+  "repo_url": "https://github.com/open-power/skiboot",
+  "date": "2021-05-28T12:08:53",
+  "languages": {
+    "C": 13831736,
+    "Shell": 893783,
+    "Batchfile": 475919,
+    "Makefile": 154366,
+    "Python": 136825,
+    "Roff": 75822,
+    "Perl": 63426,
+    "Assembly": 36711,
+    "C++": 35987,
+    "CMake": 28262,
+    "GDB": 2765,
+    "Tcl": 901,
+    "SmPL": 354
+  },
+  "size": 15736857
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "d3188b2a819c50cdab5ca3f4825162c902f2de82",
+  "repo_url": "https://github.com/baserproject/basercms",
+  "date": "2023-04-15T12:10:07",
+  "languages": {
+    "PHP": 7936388,
+    "CSS": 1233375,
+    "JavaScript": 333103,
+    "SCSS": 234695,
+    "HTML": 150870,
+    "Vue": 16628,
+    "Shell": 5392,
+    "Batchfile": 835,
+    "Lua": 595
+  },
+  "size": 9911881
+}

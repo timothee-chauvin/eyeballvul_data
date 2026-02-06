@@ -1,0 +1,13 @@
+{
+  "commit": "cfc848311b46ff2b442cfcd7a6e899d706b750e5",
+  "repo_url": "https://github.com/jenkinsci/workflow-cps-plugin",
+  "date": "2017-06-15T20:57:29",
+  "languages": {
+    "Java": 648197,
+    "Groovy": 21424,
+    "JavaScript": 14222,
+    "HTML": 2581,
+    "CSS": 2393
+  },
+  "size": 688817
+}

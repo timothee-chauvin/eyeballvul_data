@@ -1,0 +1,14 @@
+{
+  "commit": "1f0dd9519a440977a1c7b9704645d3a9a3df8ae7",
+  "repo_url": "https://github.com/backdrop/backdrop",
+  "date": "2024-06-24T02:30:26",
+  "languages": {
+    "PHP": 14926478,
+    "JavaScript": 747036,
+    "CSS": 410151,
+    "HTML": 2666,
+    "Shell": 1460,
+    "Hack": 194
+  },
+  "size": 16087985
+}

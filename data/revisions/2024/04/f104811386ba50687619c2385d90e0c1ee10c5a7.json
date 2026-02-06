@@ -1,0 +1,10 @@
+{
+  "commit": "f104811386ba50687619c2385d90e0c1ee10c5a7",
+  "repo_url": "https://github.com/canonical/pebble",
+  "date": "2024-04-03T03:55:40",
+  "languages": {
+    "Go": 1703984,
+    "Shell": 2569
+  },
+  "size": 1706553
+}

@@ -1,0 +1,27 @@
+{
+  "commit": "91fb1f72b3712b9ede85b6c126b31f96e0475d80",
+  "repo_url": "https://github.com/oracle/linux-uek",
+  "date": "2022-04-19T00:32:08",
+  "languages": {
+    "C": 806614018,
+    "Assembly": 9578830,
+    "Makefile": 2049961,
+    "Shell": 1834792,
+    "Perl": 1121251,
+    "Python": 976376,
+    "C++": 235775,
+    "Roff": 130458,
+    "SmPL": 126757,
+    "Yacc": 118788,
+    "Lex": 60442,
+    "Awk": 38824,
+    "UnrealScript": 17732,
+    "Gherkin": 8319,
+    "Raku": 3783,
+    "M4": 3325,
+    "Clojure": 1339,
+    "XS": 1239,
+    "sed": 379
+  },
+  "size": 822922388
+}

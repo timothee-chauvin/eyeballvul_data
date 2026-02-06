@@ -1,0 +1,17 @@
+{
+  "commit": "39461d5c51a78fb9531fa307630826620cbfbaaa",
+  "repo_url": "https://github.com/puppetlabs/puppet",
+  "date": "2021-06-09T07:53:51",
+  "languages": {
+    "Ruby": 12968992,
+    "HTML": 99157,
+    "Shell": 51359,
+    "Puppet": 21128,
+    "C#": 5195,
+    "Makefile": 5192,
+    "Pascal": 993,
+    "Batchfile": 594,
+    "Emacs Lisp": 229
+  },
+  "size": 13152839
+}

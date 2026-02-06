@@ -1,0 +1,11 @@
+{
+  "commit": "c32195ea87f7650532429858a4eccbe9237a0ec7",
+  "repo_url": "https://github.com/snyk/cli",
+  "date": "2016-08-22T08:50:28",
+  "languages": {
+    "JavaScript": 207277,
+    "Python": 4308,
+    "Shell": 368
+  },
+  "size": 211953
+}

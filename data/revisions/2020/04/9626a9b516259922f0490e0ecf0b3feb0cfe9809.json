@@ -1,0 +1,14 @@
+{
+  "commit": "9626a9b516259922f0490e0ecf0b3feb0cfe9809",
+  "repo_url": "https://github.com/azure/secrets-store-csi-driver-provider-azure",
+  "date": "2020-04-29T20:03:25",
+  "languages": {
+    "Go": 24249,
+    "Shell": 7497,
+    "Makefile": 3828,
+    "Dockerfile": 1149,
+    "Mustache": 1024,
+    "PowerShell": 627
+  },
+  "size": 38374
+}

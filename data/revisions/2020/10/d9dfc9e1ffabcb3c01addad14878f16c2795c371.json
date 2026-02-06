@@ -1,0 +1,12 @@
+{
+  "commit": "d9dfc9e1ffabcb3c01addad14878f16c2795c371",
+  "repo_url": "https://github.com/crossbeam-rs/crossbeam",
+  "date": "2020-10-12T03:54:33",
+  "languages": {
+    "Rust": 1096380,
+    "Shell": 4572,
+    "Go": 4059,
+    "Python": 3807
+  },
+  "size": 1108818
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "75ed5f05babcae7515aff5277e038ffd854c7669",
+  "repo_url": "https://github.com/alsa-project/alsa-lib",
+  "date": "2026-01-13T07:12:40",
+  "languages": {
+    "C": 4073783,
+    "M4": 45847,
+    "Makefile": 16705,
+    "Roff": 10718,
+    "Python": 9543,
+    "Shell": 3055
+  },
+  "size": 4159651
+}

@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2024-165",
   "published": "2024-06-06T16:15:11",
-  "modified": "2025-01-18T19:56:56.813273",
+  "modified": "2026-02-04T03:19:11.826760",
   "details": "The Jupyter Server provides the backend for Jupyter web applications. Jupyter Server on Windows has a vulnerability that lets unauthenticated attackers leak the NTLMv2 password hash of the Windows user running the Jupyter server. An attacker can crack this password to gain access to the Windows machine hosting the Jupyter server, or access other network-accessible machines or 3rd party services using that credential. Or an attacker perform an NTLM relay attack without cracking the credential to gain access to other network-accessible machines. This vulnerability is fixed in 2.14.1.",
   "severity": [
     {

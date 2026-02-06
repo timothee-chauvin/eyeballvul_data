@@ -1,0 +1,21 @@
+{
+  "commit": "32cb40acd3b48dbc6202fe94d5456e008009faa9",
+  "repo_url": "https://github.com/mongodb/mongo-c-driver",
+  "date": "2025-09-30T12:18:42",
+  "languages": {
+    "C": 12780762,
+    "Python": 643408,
+    "CMake": 230853,
+    "Shell": 152475,
+    "DIGITAL Command Language": 26404,
+    "Earthly": 21911,
+    "C++": 21281,
+    "Makefile": 14699,
+    "Batchfile": 9076,
+    "GDB": 4512,
+    "Roff": 4476,
+    "JavaScript": 1500,
+    "HTML": 336
+  },
+  "size": 13911693
+}

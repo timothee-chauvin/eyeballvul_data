@@ -1,0 +1,21 @@
+{
+  "commit": "b8eb2e00de094999f978e9cb02b1a78d810812d3",
+  "repo_url": "https://github.com/github/cmark-gfm",
+  "date": "2019-04-08T06:15:49",
+  "languages": {
+    "C": 663783,
+    "C++": 200355,
+    "Python": 49847,
+    "CMake": 22128,
+    "XSLT": 11938,
+    "Racket": 8625,
+    "Makefile": 7181,
+    "Dockerfile": 824,
+    "Perl": 525,
+    "Ruby": 316,
+    "Batchfile": 294,
+    "Shell": 165,
+    "JavaScript": 102
+  },
+  "size": 966083
+}

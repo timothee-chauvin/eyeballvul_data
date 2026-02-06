@@ -1,0 +1,14 @@
+{
+  "commit": "81ef4269d76477f11c4cbd9fb536de81e3a53060",
+  "repo_url": "https://github.com/jenkinsci/credentials-plugin",
+  "date": "2024-09-17T08:55:27",
+  "languages": {
+    "Java": 1033043,
+    "HTML": 85213,
+    "JavaScript": 9970,
+    "ANTLR": 6637,
+    "Groovy": 4564,
+    "CSS": 1628
+  },
+  "size": 1141055
+}

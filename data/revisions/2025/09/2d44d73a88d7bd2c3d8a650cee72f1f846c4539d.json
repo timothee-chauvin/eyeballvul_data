@@ -1,0 +1,16 @@
+{
+  "commit": "2d44d73a88d7bd2c3d8a650cee72f1f846c4539d",
+  "repo_url": "https://github.com/unstructured-io/unstructured",
+  "date": "2025-09-17T01:33:53",
+  "languages": {
+    "HTML": 27031699,
+    "Python": 2254553,
+    "Shell": 187571,
+    "Rich Text Format": 169362,
+    "Makefile": 11155,
+    "Dockerfile": 2814,
+    "XSLT": 758,
+    "Go": 70
+  },
+  "size": 29657982
+}

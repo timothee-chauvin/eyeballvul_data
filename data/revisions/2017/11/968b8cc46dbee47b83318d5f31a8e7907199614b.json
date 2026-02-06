@@ -1,0 +1,18 @@
+{
+  "commit": "968b8cc46dbee47b83318d5f31a8e7907199614b",
+  "repo_url": "https://github.com/libexpat/libexpat",
+  "date": "2017-11-01T14:47:55",
+  "languages": {
+    "C": 1037883,
+    "HTML": 95218,
+    "C++": 61202,
+    "Shell": 19877,
+    "Makefile": 16416,
+    "M4": 12101,
+    "CMake": 11588,
+    "Inno Setup": 4736,
+    "Python": 2290,
+    "CSS": 1340
+  },
+  "size": 1262651
+}

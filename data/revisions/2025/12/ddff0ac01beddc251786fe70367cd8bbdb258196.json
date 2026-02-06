@@ -1,0 +1,12 @@
+{
+  "commit": "ddff0ac01beddc251786fe70367cd8bbdb258196",
+  "repo_url": "https://github.com/bobthecow/psysh",
+  "date": "2025-12-17T14:35:46",
+  "languages": {
+    "PHP": 1682670,
+    "Shell": 10174,
+    "Python": 6548,
+    "Makefile": 4144
+  },
+  "size": 1703536
+}

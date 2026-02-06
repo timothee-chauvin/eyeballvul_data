@@ -1,0 +1,16 @@
+{
+  "commit": "a8cd86dd8738b67725414a3bdf48f0589914e955",
+  "repo_url": "https://github.com/eventstore/eventstore",
+  "date": "2023-11-27T10:13:36",
+  "languages": {
+    "C#": 9780575,
+    "JavaScript": 22387,
+    "Shell": 22022,
+    "PowerShell": 3590,
+    "Dockerfile": 3432,
+    "HTML": 597,
+    "Batchfile": 493,
+    "Smalltalk": 2
+  },
+  "size": 9833098
+}

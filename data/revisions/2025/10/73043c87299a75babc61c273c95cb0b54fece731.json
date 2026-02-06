@@ -1,0 +1,15 @@
+{
+  "commit": "73043c87299a75babc61c273c95cb0b54fece731",
+  "repo_url": "https://github.com/freepbx/core",
+  "date": "2025-10-07T05:54:22",
+  "languages": {
+    "PHP": 1463598,
+    "Python": 71037,
+    "JavaScript": 56192,
+    "Less": 1432,
+    "Shell": 670,
+    "CSS": 435,
+    "Hack": 1
+  },
+  "size": 1593365
+}

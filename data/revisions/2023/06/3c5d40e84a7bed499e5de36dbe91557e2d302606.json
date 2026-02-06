@@ -1,0 +1,27 @@
+{
+  "commit": "3c5d40e84a7bed499e5de36dbe91557e2d302606",
+  "repo_url": "https://gitlab.com/apparmor/apparmor",
+  "date": "2023-06-09T06:48:36",
+  "languages": {
+    "Python": 1266454,
+    "C": 787525,
+    "Shell": 348115,
+    "C++": 228337,
+    "Rich Text Format": 86684,
+    "Makefile": 76446,
+    "Yacc": 64640,
+    "TeX": 50704,
+    "Perl": 32601,
+    "Lex": 32253,
+    "BitBake": 27473,
+    "Java": 16001,
+    "M4": 12368,
+    "NASL": 11707,
+    "Ruby": 8840,
+    "Roff": 2586,
+    "SWIG": 2500,
+    "XSLT": 1356,
+    "CSS": 1004
+  },
+  "size": 3057594
+}

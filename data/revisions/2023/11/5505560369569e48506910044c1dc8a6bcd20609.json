@@ -1,0 +1,12 @@
+{
+  "commit": "5505560369569e48506910044c1dc8a6bcd20609",
+  "repo_url": "https://github.com/emartech/android-emarsys-sdk",
+  "date": "2023-11-23T15:17:45",
+  "languages": {
+    "Kotlin": 1733624,
+    "Java": 110358,
+    "Dockerfile": 1879,
+    "Shell": 1219
+  },
+  "size": 1847080
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "c077df4a8d523fe42e52f83b62d3c8ba3822d3b3",
+  "repo_url": "https://github.com/pugjs/pug",
+  "date": "2020-05-25T12:16:42",
+  "languages": {
+    "JavaScript": 258457,
+    "Pug": 50212,
+    "HTML": 20111,
+    "CoffeeScript": 126,
+    "Stylus": 88,
+    "CSS": 48
+  },
+  "size": 329042
+}

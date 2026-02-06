@@ -1,0 +1,15 @@
+{
+  "commit": "94036573e7e6ae68fb5c5596e4d873c72c22147b",
+  "repo_url": "https://github.com/opensagres/xdocreport",
+  "date": "2022-01-26T21:13:22",
+  "languages": {
+    "Java": 7351658,
+    "XSLT": 205200,
+    "JavaScript": 56267,
+    "FreeMarker": 9930,
+    "Batchfile": 5077,
+    "Shell": 4190,
+    "HTML": 1831
+  },
+  "size": 7634153
+}

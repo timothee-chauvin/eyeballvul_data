@@ -1,0 +1,14 @@
+{
+  "commit": "8fc32d51a3f4e34561ae13adcc0e3827fd4485c6",
+  "repo_url": "https://github.com/cloudfoundry/loggregator-release",
+  "date": "2018-03-19T21:07:42",
+  "languages": {
+    "Go": 82133,
+    "Ruby": 29348,
+    "Shell": 18282,
+    "HTML": 7847,
+    "PowerShell": 329,
+    "Procfile": 27
+  },
+  "size": 137966
+}

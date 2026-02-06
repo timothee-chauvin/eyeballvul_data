@@ -1,0 +1,27 @@
+{
+  "commit": "46e1e32d1aac0400a852b4565f184e23ab03e0e1",
+  "repo_url": "https://github.com/elastic/beats",
+  "date": "2025-11-27T06:35:29",
+  "languages": {
+    "Go": 20434102,
+    "Python": 906768,
+    "JavaScript": 159375,
+    "Shell": 64759,
+    "HTML": 49929,
+    "Dockerfile": 44903,
+    "Makefile": 38202,
+    "Jinja": 34874,
+    "HCL": 29733,
+    "Ragel": 25299,
+    "Thrift": 16458,
+    "Roff": 12721,
+    "Starlark": 7384,
+    "XSLT": 6242,
+    "PowerShell": 4639,
+    "TypeScript": 3643,
+    "Batchfile": 3025,
+    "Java": 2215,
+    "Smarty": 512
+  },
+  "size": 21844783
+}
