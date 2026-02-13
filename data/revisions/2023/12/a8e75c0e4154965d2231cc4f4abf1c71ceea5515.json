@@ -1,0 +1,18 @@
+{
+  "commit": "a8e75c0e4154965d2231cc4f4abf1c71ceea5515",
+  "repo_url": "https://github.com/nexryai/nexkey",
+  "date": "2023-12-25T03:14:27",
+  "languages": {
+    "TypeScript": 2101298,
+    "Vue": 1539414,
+    "JavaScript": 308042,
+    "Pug": 11711,
+    "SCSS": 8416,
+    "CSS": 1940,
+    "Smarty": 1782,
+    "Dockerfile": 1142,
+    "HTML": 751,
+    "Procfile": 35
+  },
+  "size": 3974531
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "b1d195e009f1202a792136f922bd5ad17b79c603",
+  "repo_url": "https://github.com/aiven-open/klaw",
+  "date": "2025-06-16T05:51:14",
+  "languages": {
+    "Java": 3360713,
+    "TypeScript": 2534336,
+    "HTML": 2459227,
+    "JavaScript": 1066300,
+    "CSS": 496737,
+    "SCSS": 411052,
+    "Less": 16965,
+    "Shell": 12227,
+    "Makefile": 3408,
+    "Batchfile": 1403,
+    "Dockerfile": 482
+  },
+  "size": 10362850
+}

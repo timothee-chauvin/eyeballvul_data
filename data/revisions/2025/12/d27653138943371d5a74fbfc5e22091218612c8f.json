@@ -1,0 +1,20 @@
+{
+  "commit": "d27653138943371d5a74fbfc5e22091218612c8f",
+  "repo_url": "https://github.com/cube-js/cube",
+  "date": "2025-12-11T13:11:36",
+  "languages": {
+    "Rust": 8874850,
+    "TypeScript": 5769742,
+    "JavaScript": 887610,
+    "Dockerfile": 39417,
+    "ANTLR": 33314,
+    "Python": 23068,
+    "Shell": 10516,
+    "Jinja": 7103,
+    "HCL": 3551,
+    "HTML": 3260,
+    "CSS": 2218,
+    "Less": 608
+  },
+  "size": 15655257
+}

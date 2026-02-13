@@ -1,0 +1,19 @@
+{
+  "commit": "8fb679e098be8c9d0a7c604bedb8e89598d29c8b",
+  "repo_url": "https://github.com/flipperdevices/flipperzero-firmware",
+  "date": "2022-08-24T16:26:34",
+  "languages": {
+    "C": 40378203,
+    "HTML": 378831,
+    "Python": 284582,
+    "C++": 228360,
+    "PHP": 151052,
+    "Assembly": 12159,
+    "Shell": 7698,
+    "Batchfile": 1773,
+    "PowerShell": 1527,
+    "Makefile": 1259,
+    "Ruby": 103
+  },
+  "size": 41445547
+}

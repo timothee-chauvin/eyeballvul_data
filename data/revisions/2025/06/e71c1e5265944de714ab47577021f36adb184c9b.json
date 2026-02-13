@@ -1,0 +1,12 @@
+{
+  "commit": "e71c1e5265944de714ab47577021f36adb184c9b",
+  "repo_url": "https://github.com/tduckcloud/tduck-survey-form",
+  "date": "2025-06-09T03:53:11",
+  "languages": {
+    "Java": 756708,
+    "HTML": 6170,
+    "Dockerfile": 486,
+    "Shell": 237
+  },
+  "size": 763601
+}

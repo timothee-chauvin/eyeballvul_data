@@ -1,0 +1,15 @@
+{
+  "commit": "ac62c85585d024d7204a489117da4ad6b1a2d04b",
+  "repo_url": "https://github.com/labring/sealos",
+  "date": "2023-05-25T08:48:31",
+  "languages": {
+    "Go": 2072397,
+    "TypeScript": 433064,
+    "Makefile": 112750,
+    "Shell": 37695,
+    "Dockerfile": 22565,
+    "SCSS": 21967,
+    "JavaScript": 6064
+  },
+  "size": 2706502
+}

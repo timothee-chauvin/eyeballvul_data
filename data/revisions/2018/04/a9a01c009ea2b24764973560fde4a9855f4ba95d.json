@@ -1,0 +1,10 @@
+{
+  "commit": "a9a01c009ea2b24764973560fde4a9855f4ba95d",
+  "repo_url": "https://github.com/openrisc/mor1kx",
+  "date": "2018-04-17T05:39:58",
+  "languages": {
+    "Verilog": 845312,
+    "SystemVerilog": 2233
+  },
+  "size": 847545
+}

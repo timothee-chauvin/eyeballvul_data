@@ -1,0 +1,13 @@
+{
+  "commit": "201aa11594fc83261a6752be3b57700c887e86c7",
+  "repo_url": "https://github.com/nitrokey/nitrokey-fido-u2f-firmware",
+  "date": "2018-10-30T01:54:37",
+  "languages": {
+    "C": 521345,
+    "Python": 37278,
+    "Shell": 7995,
+    "Assembly": 6499,
+    "Makefile": 642
+  },
+  "size": 573759
+}

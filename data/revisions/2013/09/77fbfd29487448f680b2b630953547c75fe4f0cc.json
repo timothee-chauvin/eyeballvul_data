@@ -1,0 +1,15 @@
+{
+  "commit": "77fbfd29487448f680b2b630953547c75fe4f0cc",
+  "repo_url": "https://github.com/cloudfoundry/cf-release",
+  "date": "2013-09-11T17:59:11",
+  "languages": {
+    "Go": 1227425,
+    "HTML": 404244,
+    "C": 367132,
+    "Shell": 56228,
+    "Assembly": 53267,
+    "Ruby": 22207,
+    "Makefile": 12351
+  },
+  "size": 2142854
+}

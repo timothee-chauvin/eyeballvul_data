@@ -1,0 +1,23 @@
+{
+  "commit": "225c08f17443e1f548d6abf0de2cf19d1128f6fc",
+  "repo_url": "https://github.com/espruino/espruino",
+  "date": "2018-05-14T08:01:03",
+  "languages": {
+    "C": 101140263,
+    "Assembly": 1706203,
+    "Python": 518250,
+    "HTML": 431581,
+    "JavaScript": 306072,
+    "Rich Text Format": 203125,
+    "Makefile": 115241,
+    "Shell": 28511,
+    "CMake": 9906,
+    "CSS": 2637,
+    "GDB": 1340,
+    "Batchfile": 1078,
+    "Ruby": 688,
+    "Dockerfile": 251,
+    "Tcl": 110
+  },
+  "size": 104465256
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "e2b514bef3d148acd4bcae1a1c7fa8783b82ca3a",
+  "repo_url": "https://github.com/wazuh/wazuh",
+  "date": "2022-08-19T07:51:26",
+  "languages": {
+    "C": 14194290,
+    "Python": 2897895,
+    "C++": 2277809,
+    "Shell": 225454,
+    "CMake": 208215,
+    "Makefile": 89152,
+    "PLpgSQL": 45987,
+    "VBScript": 21142,
+    "NSIS": 21068,
+    "PowerShell": 11777,
+    "Batchfile": 1535,
+    "Modula-3": 1356,
+    "Mako": 494,
+    "Perl": 274,
+    "HTML": 220
+  },
+  "size": 19996668
+}

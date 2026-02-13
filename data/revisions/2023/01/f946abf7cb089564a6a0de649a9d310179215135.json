@@ -1,0 +1,17 @@
+{
+  "commit": "f946abf7cb089564a6a0de649a9d310179215135",
+  "repo_url": "https://github.com/keepkey/keepkey-firmware",
+  "date": "2023-01-14T18:35:07",
+  "languages": {
+    "C": 1810632,
+    "C++": 89807,
+    "CMake": 36476,
+    "Assembly": 28081,
+    "Shell": 8597,
+    "Dockerfile": 2436,
+    "Python": 1057,
+    "Pawn": 656,
+    "GDB": 179
+  },
+  "size": 1977921
+}

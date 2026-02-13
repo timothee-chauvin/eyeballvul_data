@@ -1,0 +1,11 @@
+{
+  "commit": "cfdd55c48a2f44afa55cdb198fe65ddb0c8565ba",
+  "repo_url": "https://github.com/eclipse-threadx/usbx",
+  "date": "2025-02-24T15:34:16",
+  "languages": {
+    "C": 21768724,
+    "CMake": 124455,
+    "Shell": 5999
+  },
+  "size": 21899178
+}

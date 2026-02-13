@@ -1,0 +1,30 @@
+{
+  "commit": "bef98dbce3296f59e750ec0169d5c016a4dca98b",
+  "repo_url": "https://github.com/opensatkit/opensatkit",
+  "date": "2019-11-27T22:01:27",
+  "languages": {
+    "C": 18900340,
+    "Java": 2174637,
+    "Ruby": 952676,
+    "Python": 610476,
+    "Makefile": 459120,
+    "C++": 377133,
+    "CMake": 164196,
+    "HTML": 107549,
+    "CSS": 101193,
+    "Perl": 77958,
+    "MATLAB": 62770,
+    "Fortran": 48436,
+    "GLSL": 44968,
+    "TeX": 26538,
+    "Shell": 20447,
+    "Batchfile": 4807,
+    "Mathematica": 4203,
+    "Rich Text Format": 2857,
+    "XSLT": 1929,
+    "M": 411,
+    "Gnuplot": 232,
+    "Awk": 221
+  },
+  "size": 24143097
+}

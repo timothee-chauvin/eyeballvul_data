@@ -1,0 +1,17 @@
+{
+  "commit": "4a41bca1aec39ede9223b22f82f0265c207d7dce",
+  "repo_url": "https://github.com/fluent/fluent-package-builder",
+  "date": "2021-05-05T11:11:24",
+  "languages": {
+    "Ruby": 71978,
+    "Shell": 53456,
+    "Dockerfile": 20570,
+    "Roff": 5489,
+    "HTML": 4397,
+    "PowerShell": 3933,
+    "Makefile": 1490,
+    "XSLT": 1226,
+    "Batchfile": 927
+  },
+  "size": 163466
+}

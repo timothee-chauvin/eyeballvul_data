@@ -1,0 +1,15 @@
+{
+  "commit": "44b0b8249279d25bd75ea693b725d9ff1b96e2ab",
+  "repo_url": "https://github.com/chipsalliance/rocket-chip",
+  "date": "2022-09-15T03:10:34",
+  "languages": {
+    "Scala": 2330055,
+    "C++": 30683,
+    "Python": 30397,
+    "Verilog": 20447,
+    "Makefile": 19715,
+    "Shell": 9588,
+    "Assembly": 7029
+  },
+  "size": 2447914
+}

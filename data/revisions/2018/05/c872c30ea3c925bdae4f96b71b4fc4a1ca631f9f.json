@@ -1,0 +1,16 @@
+{
+  "commit": "c872c30ea3c925bdae4f96b71b4fc4a1ca631f9f",
+  "repo_url": "https://github.com/minio/minio",
+  "date": "2018-05-10T23:53:42",
+  "languages": {
+    "Go": 3818932,
+    "JavaScript": 271743,
+    "Less": 49370,
+    "Shell": 30506,
+    "Makefile": 3356,
+    "HTML": 1954,
+    "CSS": 1738,
+    "Dockerfile": 949
+  },
+  "size": 4178548
+}

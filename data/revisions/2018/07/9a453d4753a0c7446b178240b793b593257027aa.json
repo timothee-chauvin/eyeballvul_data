@@ -1,0 +1,13 @@
+{
+  "commit": "9a453d4753a0c7446b178240b793b593257027aa",
+  "repo_url": "https://github.com/mitogen-hq/mitogen",
+  "date": "2018-07-09T16:43:44",
+  "languages": {
+    "Python": 644262,
+    "Shell": 6761,
+    "Perl": 592,
+    "C": 397,
+    "Makefile": 306
+  },
+  "size": 652318
+}

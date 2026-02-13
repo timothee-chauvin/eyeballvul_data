@@ -1,0 +1,11 @@
+{
+  "commit": "aadd9fe28619d61201191006994a8ff138b73569",
+  "repo_url": "https://github.com/containers/netavark",
+  "date": "2025-05-13T14:36:16",
+  "languages": {
+    "Rust": 393778,
+    "Shell": 214084,
+    "Makefile": 5090
+  },
+  "size": 612952
+}

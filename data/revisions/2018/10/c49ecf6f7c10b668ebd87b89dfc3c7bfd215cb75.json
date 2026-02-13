@@ -1,0 +1,23 @@
+{
+  "commit": "c49ecf6f7c10b668ebd87b89dfc3c7bfd215cb75",
+  "repo_url": "https://github.com/libsdl-org/sdl",
+  "date": "2018-10-30T17:11:02",
+  "languages": {
+    "C": 11058272,
+    "Objective-C": 516513,
+    "C++": 364959,
+    "Shell": 339626,
+    "Java": 185931,
+    "CMake": 131748,
+    "M4": 84090,
+    "Makefile": 29490,
+    "Perl": 20074,
+    "JavaScript": 18010,
+    "PowerShell": 12819,
+    "HTML": 5687,
+    "Metal": 3849,
+    "Python": 2490,
+    "Batchfile": 1564
+  },
+  "size": 12775122
+}

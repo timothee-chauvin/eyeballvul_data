@@ -1,0 +1,17 @@
+{
+  "commit": "37a6649811d82aa1b6afc8a361cd55de44665a6a",
+  "repo_url": "https://github.com/arduino/arduino-app-lab",
+  "date": "2025-12-19T12:42:50",
+  "languages": {
+    "TypeScript": 2649492,
+    "SCSS": 362275,
+    "Go": 75562,
+    "JavaScript": 28147,
+    "Shell": 13434,
+    "NSIS": 12725,
+    "Dockerfile": 2610,
+    "HTML": 2361,
+    "CSS": 1392
+  },
+  "size": 3147998
+}

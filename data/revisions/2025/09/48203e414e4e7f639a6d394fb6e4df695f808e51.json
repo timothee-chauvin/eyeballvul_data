@@ -1,0 +1,16 @@
+{
+  "commit": "48203e414e4e7f639a6d394fb6e4df695f808e51",
+  "repo_url": "https://github.com/qdrant/qdrant",
+  "date": "2025-09-30T09:28:29",
+  "languages": {
+    "Rust": 9373152,
+    "Python": 1176421,
+    "Shell": 84400,
+    "C": 41650,
+    "Nix": 9260,
+    "Dockerfile": 8782,
+    "JavaScript": 1502,
+    "Mermaid": 970
+  },
+  "size": 10696137
+}

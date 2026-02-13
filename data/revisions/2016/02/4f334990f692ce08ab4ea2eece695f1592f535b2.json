@@ -1,0 +1,18 @@
+{
+  "commit": "4f334990f692ce08ab4ea2eece695f1592f535b2",
+  "repo_url": "https://github.com/lathiat/avahi",
+  "date": "2016-02-16T02:13:45",
+  "languages": {
+    "C": 1837867,
+    "C#": 97835,
+    "Makefile": 78684,
+    "M4": 75545,
+    "Shell": 38350,
+    "Python": 30526,
+    "C++": 7401,
+    "XSLT": 6650,
+    "Perl": 1492,
+    "Emacs Lisp": 210
+  },
+  "size": 2174560
+}

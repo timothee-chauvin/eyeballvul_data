@@ -1,0 +1,19 @@
+{
+  "commit": "9dafc9fb6d388d86862733cf3a008b29fd2204f6",
+  "repo_url": "https://github.com/adoptopenjdk/icedtea-web",
+  "date": "2019-03-11T18:48:20",
+  "languages": {
+    "Java": 6316897,
+    "C++": 411730,
+    "HTML": 287791,
+    "JavaScript": 187674,
+    "Makefile": 107156,
+    "M4": 41671,
+    "XSLT": 23790,
+    "Shell": 18987,
+    "C": 2628,
+    "CSS": 1606,
+    "Roff": 294
+  },
+  "size": 7400224
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "6bb37adc203567c2f9322dfbe34058a5f12d4c70",
+  "repo_url": "https://github.com/arm-software/arm-trusted-firmware",
+  "date": "2016-10-13T16:49:06",
+  "languages": {
+    "C": 2880559,
+    "Assembly": 520146,
+    "Makefile": 178551,
+    "C++": 34250,
+    "Shell": 4650
+  },
+  "size": 3618156
+}

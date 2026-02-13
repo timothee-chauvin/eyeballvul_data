@@ -1,0 +1,18 @@
+{
+  "commit": "db7711fa815a8d9da88abf63d3f925b033059c77",
+  "repo_url": "https://github.com/puppetlabs/puppetserver",
+  "date": "2021-10-08T22:03:50",
+  "languages": {
+    "Clojure": 1097639,
+    "Ruby": 244744,
+    "Shell": 43047,
+    "Makefile": 9443,
+    "Java": 7817,
+    "Dockerfile": 6175,
+    "Puppet": 1083,
+    "Pascal": 396,
+    "HTML": 345,
+    "Emacs Lisp": 65
+  },
+  "size": 1410754
+}

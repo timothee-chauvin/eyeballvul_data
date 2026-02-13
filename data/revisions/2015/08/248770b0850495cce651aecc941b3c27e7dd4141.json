@@ -1,0 +1,23 @@
+{
+  "commit": "248770b0850495cce651aecc941b3c27e7dd4141",
+  "repo_url": "https://github.com/contiki-os/contiki",
+  "date": "2015-08-24T09:08:26",
+  "languages": {
+    "C": 14951327,
+    "Java": 2809582,
+    "GSC": 1120786,
+    "Python": 426724,
+    "Assembly": 119107,
+    "Perl": 85464,
+    "Makefile": 82726,
+    "JavaScript": 11815,
+    "Shell": 7243,
+    "CSS": 6645,
+    "HTML": 6026,
+    "XSLT": 4947,
+    "Asymptote": 740,
+    "Awk": 95,
+    "Batchfile": 56
+  },
+  "size": 19633283
+}

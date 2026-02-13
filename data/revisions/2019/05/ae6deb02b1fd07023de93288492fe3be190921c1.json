@@ -1,0 +1,18 @@
+{
+  "commit": "ae6deb02b1fd07023de93288492fe3be190921c1",
+  "repo_url": "https://github.com/tridactyl/tridactyl",
+  "date": "2019-05-04T16:21:04",
+  "languages": {
+    "TypeScript": 602971,
+    "CSS": 125397,
+    "JavaScript": 28382,
+    "Python": 23080,
+    "Shell": 17713,
+    "PowerShell": 16363,
+    "Vim Script": 3230,
+    "HTML": 2413,
+    "Nearley": 1166,
+    "Handlebars": 1103
+  },
+  "size": 821818
+}

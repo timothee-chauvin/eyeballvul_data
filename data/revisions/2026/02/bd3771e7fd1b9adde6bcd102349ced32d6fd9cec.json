@@ -1,0 +1,14 @@
+{
+  "commit": "bd3771e7fd1b9adde6bcd102349ced32d6fd9cec",
+  "repo_url": "https://github.com/denpiligrim/3dp-manager",
+  "date": "2026-02-03T16:46:28",
+  "languages": {
+    "TypeScript": 148291,
+    "Shell": 24416,
+    "JavaScript": 4115,
+    "Dockerfile": 608,
+    "CSS": 606,
+    "HTML": 361
+  },
+  "size": 178397
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "1cabac77824f505f32a3d99af70e9db55948415b",
+  "repo_url": "https://github.com/ardatan/graphql-mesh",
+  "date": "2023-02-15T15:59:08",
+  "languages": {
+    "TypeScript": 1302956,
+    "MDX": 233668,
+    "JavaScript": 13869,
+    "Shell": 379,
+    "Dockerfile": 279
+  },
+  "size": 1551151
+}

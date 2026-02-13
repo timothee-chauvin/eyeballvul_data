@@ -1,0 +1,13 @@
+{
+  "commit": "cd07588d52a3a47a651f523618d2e193bc76338f",
+  "repo_url": "https://github.com/grafana/agent",
+  "date": "2021-11-18T18:41:31",
+  "languages": {
+    "Go": 942760,
+    "Jsonnet": 198286,
+    "Makefile": 18878,
+    "Shell": 17919,
+    "Dockerfile": 6260
+  },
+  "size": 1184103
+}

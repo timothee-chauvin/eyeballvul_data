@@ -1,6 +1,6 @@
 {
   "commit": "ab170529246ad80830bef2b3c8b48e9a8d2b7483",
-  "repo_url": "https://github.com/behdad/harfbuzz",
+  "repo_url": "https://github.com/harfbuzz/harfbuzz",
   "date": "2015-10-13T13:55:33",
   "languages": {
     "C++": 1286636,

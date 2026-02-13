@@ -1,0 +1,19 @@
+{
+  "commit": "180850a229dbce02069c145e479b5e3234ad0d6a",
+  "repo_url": "https://github.com/armmbed/mbed-crypto",
+  "date": "2019-12-20T09:43:44",
+  "languages": {
+    "C": 3786256,
+    "Python": 204633,
+    "Shell": 81296,
+    "Makefile": 62756,
+    "Perl": 49945,
+    "CMake": 27767,
+    "Dockerfile": 5805,
+    "C++": 3034,
+    "GDB": 2766,
+    "SmPL": 354,
+    "Tcl": 110
+  },
+  "size": 4224722
+}

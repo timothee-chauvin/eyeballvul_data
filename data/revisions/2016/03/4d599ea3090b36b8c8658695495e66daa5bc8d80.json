@@ -1,0 +1,15 @@
+{
+  "commit": "4d599ea3090b36b8c8658695495e66daa5bc8d80",
+  "repo_url": "https://github.com/kubernetes/kubernetes",
+  "date": "2016-03-04T18:55:12",
+  "languages": {
+    "Go": 20238852,
+    "Shell": 1199894,
+    "HTML": 1193990,
+    "Python": 68276,
+    "Makefile": 47423,
+    "SaltStack": 47158,
+    "Dockerfile": 44940
+  },
+  "size": 22840533
+}

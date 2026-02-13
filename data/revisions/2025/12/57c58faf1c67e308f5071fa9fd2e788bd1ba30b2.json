@@ -1,0 +1,15 @@
+{
+  "commit": "57c58faf1c67e308f5071fa9fd2e788bd1ba30b2",
+  "repo_url": "https://github.com/php/frankenphp",
+  "date": "2025-12-20T08:16:23",
+  "languages": {
+    "Go": 640072,
+    "PHP": 77008,
+    "C": 49072,
+    "Shell": 20667,
+    "Dockerfile": 20191,
+    "Smarty": 15504,
+    "HCL": 6047
+  },
+  "size": 828561
+}

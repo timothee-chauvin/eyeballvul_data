@@ -1,0 +1,17 @@
+{
+  "commit": "78ff170de9e32c79db6e64d3e33d2bd60002bdcd",
+  "repo_url": "https://github.com/dpgeorge/micropython",
+  "date": "2025-12-09T14:44:16",
+  "languages": {
+    "C": 21358284,
+    "Python": 2367694,
+    "Makefile": 281055,
+    "CMake": 101817,
+    "Shell": 76646,
+    "JavaScript": 63487,
+    "C++": 45536,
+    "Assembly": 42134,
+    "P4": 420
+  },
+  "size": 24337073
+}

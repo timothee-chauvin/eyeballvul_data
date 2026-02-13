@@ -1,0 +1,11 @@
+{
+  "commit": "ee984b2b972275bbc4e6a011ed9046d497689e16",
+  "repo_url": "https://github.com/ansible-collections/community.aws",
+  "date": "2021-09-23T00:06:44",
+  "languages": {
+    "Python": 2853496,
+    "Jinja": 12336,
+    "Shell": 6336
+  },
+  "size": 2872168
+}

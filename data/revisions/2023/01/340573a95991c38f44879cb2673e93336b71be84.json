@@ -1,0 +1,11 @@
+{
+  "commit": "340573a95991c38f44879cb2673e93336b71be84",
+  "repo_url": "https://github.com/neo4j/apoc",
+  "date": "2023-01-13T10:09:48",
+  "languages": {
+    "Java": 3004841,
+    "Cypher": 30552,
+    "ANTLR": 1365
+  },
+  "size": 3036758
+}

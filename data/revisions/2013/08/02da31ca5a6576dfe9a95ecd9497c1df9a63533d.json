@@ -1,0 +1,17 @@
+{
+  "commit": "02da31ca5a6576dfe9a95ecd9497c1df9a63533d",
+  "repo_url": "https://github.com/ipython/ipython",
+  "date": "2013-08-09T01:01:36",
+  "languages": {
+    "Python": 3839027,
+    "JavaScript": 323751,
+    "Less": 27815,
+    "Jupyter Notebook": 25604,
+    "HTML": 22313,
+    "Smarty": 20721,
+    "Makefile": 5145,
+    "Shell": 4300,
+    "CSS": 1169
+  },
+  "size": 4269845
+}

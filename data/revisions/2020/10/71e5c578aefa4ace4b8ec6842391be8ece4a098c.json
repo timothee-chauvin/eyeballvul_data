@@ -1,0 +1,19 @@
+{
+  "commit": "71e5c578aefa4ace4b8ec6842391be8ece4a098c",
+  "repo_url": "https://github.com/vanhoefm/fragattacks",
+  "date": "2020-10-20T12:18:21",
+  "languages": {
+    "C": 14238843,
+    "Python": 5473022,
+    "Makefile": 191860,
+    "C++": 159232,
+    "Shell": 87568,
+    "Java": 42922,
+    "PHP": 35212,
+    "Roff": 3358,
+    "AIDL": 2879,
+    "Perl": 1575,
+    "QMake": 1535
+  },
+  "size": 20238006
+}

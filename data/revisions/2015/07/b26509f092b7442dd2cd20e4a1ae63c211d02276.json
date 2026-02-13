@@ -1,0 +1,18 @@
+{
+  "commit": "b26509f092b7442dd2cd20e4a1ae63c211d02276",
+  "repo_url": "https://github.com/mailpile/mailpile",
+  "date": "2015-07-18T01:28:19",
+  "languages": {
+    "Python": 1490282,
+    "JavaScript": 589183,
+    "HTML": 344946,
+    "Less": 125591,
+    "Shell": 18939,
+    "CSS": 6948,
+    "Makefile": 6824,
+    "NSIS": 3821,
+    "Dockerfile": 539,
+    "Batchfile": 389
+  },
+  "size": 2587462
+}

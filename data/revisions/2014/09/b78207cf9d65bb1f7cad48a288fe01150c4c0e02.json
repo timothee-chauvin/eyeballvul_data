@@ -1,0 +1,19 @@
+{
+  "commit": "b78207cf9d65bb1f7cad48a288fe01150c4c0e02",
+  "repo_url": "https://github.com/katello/katello",
+  "date": "2014-09-12T12:48:17",
+  "languages": {
+    "Ruby": 2367365,
+    "JavaScript": 1990696,
+    "HTML": 351124,
+    "SCSS": 131016,
+    "Haml": 87951,
+    "Shell": 27526,
+    "Less": 15318,
+    "Python": 2916,
+    "Perl": 1122,
+    "Makefile": 948,
+    "CSS": 525
+  },
+  "size": 4976507
+}

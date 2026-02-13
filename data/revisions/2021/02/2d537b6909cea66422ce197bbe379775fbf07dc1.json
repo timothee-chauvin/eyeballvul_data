@@ -1,0 +1,19 @@
+{
+  "commit": "2d537b6909cea66422ce197bbe379775fbf07dc1",
+  "repo_url": "https://github.com/pgadmin-org/pgadmin4",
+  "date": "2021-02-22T11:17:16",
+  "languages": {
+    "Python": 5811765,
+    "JavaScript": 3484432,
+    "PLpgSQL": 554311,
+    "SCSS": 166336,
+    "HTML": 105937,
+    "Shell": 59036,
+    "CSS": 39360,
+    "Batchfile": 16441,
+    "Dockerfile": 6901,
+    "Makefile": 4361,
+    "Mako": 859
+  },
+  "size": 10249739
+}

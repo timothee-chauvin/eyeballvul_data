@@ -1,0 +1,17 @@
+{
+  "commit": "47fcf3403f8177d6c062c7e4e9141502ce2fc338",
+  "repo_url": "https://github.com/phpbb/phpbb",
+  "date": "2020-06-07T10:11:24",
+  "languages": {
+    "PHP": 10599895,
+    "HTML": 918795,
+    "CSS": 171979,
+    "JavaScript": 161329,
+    "Shell": 27800,
+    "PLpgSQL": 2152,
+    "Python": 1619,
+    "Twig": 1468,
+    "TSQL": 1462
+  },
+  "size": 11886499
+}

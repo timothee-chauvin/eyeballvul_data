@@ -1,0 +1,14 @@
+{
+  "commit": "b0981fd7a5bb52e0f4f8d0627e8ff048b21651c9",
+  "repo_url": "https://github.com/thedevdojo/voyager",
+  "date": "2019-06-06T11:16:17",
+  "languages": {
+    "PHP": 2119274,
+    "SCSS": 336893,
+    "HTML": 64966,
+    "CSS": 18817,
+    "Less": 14542,
+    "Vue": 1498
+  },
+  "size": 2555990
+}

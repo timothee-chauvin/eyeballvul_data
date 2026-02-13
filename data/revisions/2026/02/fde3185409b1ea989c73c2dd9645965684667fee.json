@@ -1,0 +1,16 @@
+{
+  "commit": "fde3185409b1ea989c73c2dd9645965684667fee",
+  "repo_url": "https://github.com/cloudflare/quiche",
+  "date": "2026-02-12T01:10:02",
+  "languages": {
+    "Rust": 4177577,
+    "C": 109875,
+    "JavaScript": 28744,
+    "HTML": 9173,
+    "Shell": 6056,
+    "Makefile": 3104,
+    "Dockerfile": 2464,
+    "CSS": 2053
+  },
+  "size": 4339046
+}

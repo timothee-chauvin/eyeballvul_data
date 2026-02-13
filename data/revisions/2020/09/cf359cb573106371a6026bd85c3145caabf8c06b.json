@@ -1,0 +1,17 @@
+{
+  "commit": "cf359cb573106371a6026bd85c3145caabf8c06b",
+  "repo_url": "https://gitlab.com/gitlab-org/gitaly",
+  "date": "2020-09-21T16:21:08",
+  "languages": {
+    "Go": 2985811,
+    "Ruby": 443875,
+    "Protocol Buffer": 89869,
+    "Makefile": 19777,
+    "HCL": 6499,
+    "Jinja": 5386,
+    "Shell": 1854,
+    "HTML": 1851,
+    "Dockerfile": 1152
+  },
+  "size": 3556074
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "618e182e6cbc35bb0f4c462ab0936ab5ee4deb5a",
+  "repo_url": "https://github.com/element-hq/ess-helm",
+  "date": "2025-12-04T09:14:13",
+  "languages": {
+    "Python": 357169,
+    "Smarty": 166311,
+    "Go": 60576,
+    "Jinja": 44779,
+    "Shell": 17265,
+    "Dockerfile": 695,
+    "HCL": 339
+  },
+  "size": 647134
+}

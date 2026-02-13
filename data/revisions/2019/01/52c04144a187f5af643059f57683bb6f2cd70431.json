@@ -1,0 +1,15 @@
+{
+  "commit": "52c04144a187f5af643059f57683bb6f2cd70431",
+  "repo_url": "https://github.com/pixeline/bugs",
+  "date": "2019-01-02T12:55:40",
+  "languages": {
+    "PHP": 1524834,
+    "ActionScript": 321037,
+    "JavaScript": 100216,
+    "CSS": 86588,
+    "Blade": 3588,
+    "Hack": 2448,
+    "Shell": 93
+  },
+  "size": 2038804
+}

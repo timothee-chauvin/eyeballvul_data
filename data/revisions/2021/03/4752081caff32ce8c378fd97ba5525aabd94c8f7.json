@@ -1,0 +1,12 @@
+{
+  "commit": "4752081caff32ce8c378fd97ba5525aabd94c8f7",
+  "repo_url": "https://github.com/faveosuite/faveo-helpdesk",
+  "date": "2021-03-16T06:41:50",
+  "languages": {
+    "PHP": 2844795,
+    "Blade": 2485928,
+    "SCSS": 14824,
+    "Shell": 616
+  },
+  "size": 5346163
+}

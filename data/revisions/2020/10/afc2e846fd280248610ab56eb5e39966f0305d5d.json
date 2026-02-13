@@ -1,0 +1,21 @@
+{
+  "commit": "afc2e846fd280248610ab56eb5e39966f0305d5d",
+  "repo_url": "https://github.com/monero-project/monero-gui",
+  "date": "2020-10-04T22:54:22",
+  "languages": {
+    "QML": 920638,
+    "C++": 473840,
+    "C": 81037,
+    "CMake": 75690,
+    "Shell": 22398,
+    "Inno Setup": 18795,
+    "QMake": 17187,
+    "JavaScript": 13384,
+    "HTML": 8791,
+    "Makefile": 6719,
+    "Dockerfile": 5110,
+    "Objective-C++": 2776,
+    "Batchfile": 212
+  },
+  "size": 1646577
+}

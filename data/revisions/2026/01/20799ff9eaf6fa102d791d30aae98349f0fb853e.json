@@ -1,0 +1,19 @@
+{
+  "commit": "20799ff9eaf6fa102d791d30aae98349f0fb853e",
+  "repo_url": "https://github.com/lintsinghua/deepaudit",
+  "date": "2026-01-26T06:52:05",
+  "languages": {
+    "Python": 1911149,
+    "TypeScript": 1230573,
+    "Shell": 39649,
+    "PowerShell": 29512,
+    "CSS": 27065,
+    "PLpgSQL": 13105,
+    "JavaScript": 13029,
+    "Dockerfile": 8907,
+    "Batchfile": 4390,
+    "HTML": 805,
+    "Mako": 516
+  },
+  "size": 3278700
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "060fd7653450de9c411a90a5a22188b4e06d2b90",
+  "repo_url": "https://github.com/ros/ros_comm",
+  "date": "2020-07-23T22:38:44",
+  "languages": {
+    "Python": 2815187,
+    "C++": 2126977,
+    "CMake": 90718,
+    "C": 86279,
+    "Shell": 10879,
+    "EmberScript": 8303,
+    "Makefile": 1762,
+    "Batchfile": 463
+  },
+  "size": 5140568
+}

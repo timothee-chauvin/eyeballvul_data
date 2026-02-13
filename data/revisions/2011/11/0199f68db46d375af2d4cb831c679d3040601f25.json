@@ -1,0 +1,13 @@
+{
+  "commit": "0199f68db46d375af2d4cb831c679d3040601f25",
+  "repo_url": "https://github.com/bcit-ci/codeigniter",
+  "date": "2011-11-22T15:01:01",
+  "languages": {
+    "HTML": 1268777,
+    "PHP": 1200387,
+    "JavaScript": 10896,
+    "CSS": 6593,
+    "Hack": 1933
+  },
+  "size": 2488586
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "c5b65aad9762e144bb9adfad317fa34b7dcf97b6",
+  "repo_url": "https://github.com/piranhacms/piranha.core",
+  "date": "2017-12-01T21:16:55",
+  "languages": {
+    "JavaScript": 512439,
+    "C#": 424877,
+    "CSS": 203638,
+    "HTML": 55400,
+    "Less": 29167,
+    "Shell": 933,
+    "Batchfile": 138
+  },
+  "size": 1226592
+}

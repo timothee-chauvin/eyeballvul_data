@@ -1,0 +1,13 @@
+{
+  "commit": "f7d4869217acf7f4771d148002d4287f31e1c2d8",
+  "repo_url": "https://github.com/mpruett/audiofile",
+  "date": "2010-03-22T05:59:18",
+  "languages": {
+    "C": 596526,
+    "Makefile": 88942,
+    "M4": 9387,
+    "Shell": 3346,
+    "Batchfile": 2679
+  },
+  "size": 700880
+}

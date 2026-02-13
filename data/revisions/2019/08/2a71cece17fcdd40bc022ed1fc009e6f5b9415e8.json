@@ -1,0 +1,11 @@
+{
+  "commit": "2a71cece17fcdd40bc022ed1fc009e6f5b9415e8",
+  "repo_url": "https://github.com/open-iscsi/targetcli-fb",
+  "date": "2019-08-26T10:10:40",
+  "languages": {
+    "Python": 121245,
+    "Roff": 16093,
+    "Makefile": 1612
+  },
+  "size": 138950
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "f633db3de88dd2307a938b89ca1dfd87b0816eef",
+  "repo_url": "https://github.com/aardappel/lobster",
+  "date": "2025-11-20T20:26:38",
+  "languages": {
+    "C++": 3437236,
+    "C": 1418579,
+    "Java": 205025,
+    "TypeScript": 44504,
+    "Assembly": 19181,
+    "Makefile": 10302,
+    "CMake": 9707,
+    "JavaScript": 3033,
+    "Batchfile": 1983,
+    "Shell": 310
+  },
+  "size": 5149860
+}

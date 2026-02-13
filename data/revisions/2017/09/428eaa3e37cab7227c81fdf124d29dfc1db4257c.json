@@ -1,0 +1,16 @@
+{
+  "commit": "428eaa3e37cab7227c81fdf124d29dfc1db4257c",
+  "repo_url": "https://github.com/apache/cassandra",
+  "date": "2017-09-20T13:57:35",
+  "languages": {
+    "Java": 10628767,
+    "Python": 434292,
+    "GAP": 90980,
+    "Shell": 73888,
+    "Thrift": 40240,
+    "PowerShell": 38349,
+    "Batchfile": 32098,
+    "AMPL": 801
+  },
+  "size": 11339415
+}

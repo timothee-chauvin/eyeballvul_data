@@ -1,0 +1,16 @@
+{
+  "commit": "32279e4128527bab4c961854b9cce727a060abea",
+  "repo_url": "https://github.com/sysfce2/mruby",
+  "date": "2024-02-14T04:25:11",
+  "languages": {
+    "C": 2199706,
+    "Ruby": 854437,
+    "Yacc": 203392,
+    "C++": 68466,
+    "Batchfile": 2120,
+    "Shell": 1620,
+    "Makefile": 529,
+    "Dockerfile": 341
+  },
+  "size": 3330611
+}

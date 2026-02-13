@@ -1,0 +1,11 @@
+{
+  "commit": "fc92a75b93ec0271c8f577d8f4666050fe2d8e5d",
+  "repo_url": "https://github.com/victronenergy/venus",
+  "date": "2021-06-17T09:38:39",
+  "languages": {
+    "Shell": 11510,
+    "Makefile": 7211,
+    "Python": 1317
+  },
+  "size": 20038
+}

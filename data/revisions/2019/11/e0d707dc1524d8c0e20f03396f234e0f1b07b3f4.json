@@ -1,0 +1,19 @@
+{
+  "commit": "e0d707dc1524d8c0e20f03396f234e0f1b07b3f4",
+  "repo_url": "https://gitlab.com/rzkn/libtiff",
+  "date": "2019-11-03T20:15:37",
+  "languages": {
+    "C": 2822942,
+    "HTML": 537454,
+    "CMake": 95130,
+    "M4": 79352,
+    "Makefile": 48434,
+    "C++": 37757,
+    "DIGITAL Command Language": 36526,
+    "Shell": 31532,
+    "Roff": 15082,
+    "Python": 8035,
+    "Ruby": 2147
+  },
+  "size": 3714391
+}

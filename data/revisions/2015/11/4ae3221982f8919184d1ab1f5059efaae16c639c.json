@@ -1,0 +1,17 @@
+{
+  "commit": "4ae3221982f8919184d1ab1f5059efaae16c639c",
+  "repo_url": "https://github.com/packagekit/packagekit",
+  "date": "2015-11-27T14:52:52",
+  "languages": {
+    "C": 2544720,
+    "Python": 378437,
+    "C++": 232991,
+    "Perl": 66421,
+    "Ruby": 49741,
+    "Makefile": 45019,
+    "M4": 33727,
+    "Shell": 14479,
+    "HTML": 1570
+  },
+  "size": 3367105
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "c9f3991b9464226be43e6c9022d5635ffb3fafe5",
+  "repo_url": "https://github.com/microsoft/vscode-copilot-chat",
+  "date": "2025-10-07T06:30:14",
+  "languages": {
+    "TypeScript": 13073048,
+    "HTML": 287267,
+    "Jupyter Notebook": 232766,
+    "C++": 120664,
+    "JavaScript": 33726,
+    "Python": 27269,
+    "CSS": 26379,
+    "PowerShell": 25636,
+    "C#": 8986,
+    "Java": 4739,
+    "Ruby": 3851,
+    "Rust": 2454,
+    "Go": 1849,
+    "Shell": 1402,
+    "Mermaid": 1053
+  },
+  "size": 13851089
+}

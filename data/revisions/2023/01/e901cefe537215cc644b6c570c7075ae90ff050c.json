@@ -1,0 +1,27 @@
+{
+  "commit": "e901cefe537215cc644b6c570c7075ae90ff050c",
+  "repo_url": "https://github.com/onekeyhq/firmware",
+  "date": "2023-01-18T03:26:33",
+  "languages": {
+    "C": 11801306,
+    "Python": 6414710,
+    "Rust": 359331,
+    "Nix": 95215,
+    "C++": 61852,
+    "Assembly": 52458,
+    "Makefile": 41023,
+    "Shell": 30231,
+    "Mako": 26783,
+    "JavaScript": 7149,
+    "Perl": 3244,
+    "Dockerfile": 3154,
+    "Ruby": 2644,
+    "HTML": 2157,
+    "OpenSCAD": 1137,
+    "CSS": 716,
+    "QMake": 694,
+    "Awk": 396,
+    "Roff": 31
+  },
+  "size": 18904231
+}

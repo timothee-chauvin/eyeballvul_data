@@ -1,0 +1,11 @@
+{
+  "commit": "0b02d982b256dffc9c215306a2e550d8a1bd16ab",
+  "repo_url": "https://github.com/slackhq/nebula",
+  "date": "2026-01-21T17:42:34",
+  "languages": {
+    "Go": 1089608,
+    "Makefile": 7191,
+    "Dockerfile": 302
+  },
+  "size": 1097101
+}

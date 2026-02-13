@@ -1,0 +1,12 @@
+{
+  "commit": "fc9d5f2e01145ceabc137490871f9951185ce749",
+  "repo_url": "https://github.com/cloudfoundry/routing-release",
+  "date": "2016-11-02T16:40:45",
+  "languages": {
+    "Shell": 32952,
+    "HTML": 9456,
+    "Go": 6429,
+    "Ruby": 1054
+  },
+  "size": 49891
+}

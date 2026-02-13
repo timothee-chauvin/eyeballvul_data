@@ -1,0 +1,19 @@
+{
+  "commit": "1657fcbe510068e4988a50fa5f4bae25ab7b19cc",
+  "repo_url": "https://github.com/intermesh/groupoffice",
+  "date": "2025-04-25T06:48:19",
+  "languages": {
+    "PHP": 9544365,
+    "JavaScript": 5789696,
+    "SCSS": 215666,
+    "CSS": 87670,
+    "Perl": 12650,
+    "TypeScript": 9959,
+    "HTML": 9326,
+    "Shell": 8264,
+    "Smarty": 6352,
+    "Hack": 125,
+    "Makefile": 30
+  },
+  "size": 15684103
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "959db1d8a6d6afaaa5e2cef554492e367f1791ff",
+  "repo_url": "https://github.com/sparklemotion/nokogiri",
+  "date": "2020-09-08T13:04:22",
+  "languages": {
+    "Java": 785955,
+    "Ruby": 741180,
+    "C": 193412,
+    "HTML": 97012,
+    "Shell": 8066,
+    "Yacc": 7664,
+    "REXX": 1941,
+    "XSLT": 1868,
+    "Dockerfile": 606,
+    "PowerShell": 242
+  },
+  "size": 1837946
+}

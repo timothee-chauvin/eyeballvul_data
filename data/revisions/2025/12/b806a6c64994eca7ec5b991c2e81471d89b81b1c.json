@@ -1,0 +1,18 @@
+{
+  "commit": "b806a6c64994eca7ec5b991c2e81471d89b81b1c",
+  "repo_url": "https://github.com/mapnik/mapnik",
+  "date": "2025-12-30T08:58:29",
+  "languages": {
+    "C++": 5378301,
+    "Python": 178306,
+    "CMake": 68874,
+    "Shell": 26700,
+    "CSS": 5805,
+    "Batchfile": 4179,
+    "PowerShell": 3856,
+    "Makefile": 3211,
+    "Perl": 2190,
+    "Emacs Lisp": 438
+  },
+  "size": 5671860
+}

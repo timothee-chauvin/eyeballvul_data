@@ -1,0 +1,13 @@
+{
+  "commit": "404997f971b955426d881cac3eed7e03040dc250",
+  "repo_url": "https://github.com/jm33-m0/emp3r0r",
+  "date": "2026-02-11T08:00:17",
+  "languages": {
+    "Go": 1285723,
+    "C": 242117,
+    "Shell": 36265,
+    "Makefile": 6432,
+    "Python": 352
+  },
+  "size": 1570889
+}

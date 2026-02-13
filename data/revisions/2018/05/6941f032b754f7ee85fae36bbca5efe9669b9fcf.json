@@ -1,0 +1,14 @@
+{
+  "commit": "6941f032b754f7ee85fae36bbca5efe9669b9fcf",
+  "repo_url": "https://github.com/intel-media-sdk/mediasdk",
+  "date": "2018-05-08T15:48:24",
+  "languages": {
+    "C++": 33609673,
+    "C": 1142862,
+    "CMake": 117514,
+    "Python": 32025,
+    "Makefile": 16718,
+    "Perl": 11921
+  },
+  "size": 34930713
+}

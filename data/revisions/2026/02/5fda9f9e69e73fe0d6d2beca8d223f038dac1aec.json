@@ -1,0 +1,18 @@
+{
+  "commit": "5fda9f9e69e73fe0d6d2beca8d223f038dac1aec",
+  "repo_url": "https://github.com/streetsidesoftware/vscode-spell-checker",
+  "date": "2026-02-03T12:47:05",
+  "languages": {
+    "TypeScript": 1418965,
+    "CSS": 32037,
+    "Svelte": 31993,
+    "JavaScript": 28734,
+    "Haskell": 7378,
+    "Jupyter Notebook": 2105,
+    "MDX": 2008,
+    "HTML": 797,
+    "C": 770,
+    "Python": 445
+  },
+  "size": 1525232
+}

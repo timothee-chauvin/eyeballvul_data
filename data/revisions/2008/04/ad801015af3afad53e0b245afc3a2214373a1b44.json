@@ -1,0 +1,12 @@
+{
+  "commit": "ad801015af3afad53e0b245afc3a2214373a1b44",
+  "repo_url": "https://github.com/quassel/quassel",
+  "date": "2008-04-13T20:02:30",
+  "languages": {
+    "C++": 1188457,
+    "QMake": 12941,
+    "C": 4117,
+    "Shell": 195
+  },
+  "size": 1205710
+}

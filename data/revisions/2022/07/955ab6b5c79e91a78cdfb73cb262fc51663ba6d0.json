@@ -1,0 +1,17 @@
+{
+  "commit": "955ab6b5c79e91a78cdfb73cb262fc51663ba6d0",
+  "repo_url": "https://github.com/ferdium/ferdium-app",
+  "date": "2022-07-21T01:01:10",
+  "languages": {
+    "TypeScript": 560542,
+    "JavaScript": 478518,
+    "SCSS": 68116,
+    "PowerShell": 9241,
+    "Shell": 8759,
+    "CSS": 4613,
+    "HTML": 3007,
+    "Edge": 2675,
+    "Dockerfile": 1489
+  },
+  "size": 1136960
+}

@@ -1,0 +1,24 @@
+{
+  "commit": "7c0ec4358a205f83d2c6cc91d6dfc0a3106989a4",
+  "repo_url": "https://github.com/zephyrproject-rtos/zephyr",
+  "date": "2019-09-06T22:40:33",
+  "languages": {
+    "C": 21744874,
+    "Python": 1262590,
+    "CMake": 509602,
+    "Assembly": 373142,
+    "Perl": 198147,
+    "Shell": 63058,
+    "C++": 37404,
+    "SmPL": 16008,
+    "Verilog": 6394,
+    "Tcl": 4340,
+    "Makefile": 3313,
+    "Smalltalk": 1407,
+    "EmberScript": 822,
+    "FreeBasic": 645,
+    "Haskell": 547,
+    "Batchfile": 110
+  },
+  "size": 24222403
+}

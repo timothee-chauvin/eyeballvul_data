@@ -1,0 +1,33 @@
+{
+  "commit": "cb5f4f45ce1fca390b99dae5c42b9c4c8b53deea",
+  "repo_url": "https://github.com/tianocore/edk2",
+  "date": "2018-08-15T16:34:48",
+  "languages": {
+    "C": 117947438,
+    "Python": 26762599,
+    "Assembly": 3865472,
+    "Rich Text Format": 1852303,
+    "C++": 1331786,
+    "GAP": 699825,
+    "HTML": 472114,
+    "ASL": 460305,
+    "Makefile": 236881,
+    "Batchfile": 104954,
+    "Shell": 101014,
+    "BitBake": 34611,
+    "Roff": 28192,
+    "PLSQL": 24782,
+    "Rez": 21094,
+    "NASL": 19528,
+    "DIGITAL Command Language": 13695,
+    "SWIG": 7604,
+    "DenizenScript": 6301,
+    "Perl": 6218,
+    "NSIS": 2229,
+    "CSS": 1905,
+    "VBScript": 494,
+    "Lua": 249,
+    "GDB": 96
+  },
+  "size": 154001689
+}

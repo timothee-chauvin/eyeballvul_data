@@ -1,0 +1,20 @@
+{
+  "commit": "62e88765af13f7fc52864c451c04fb98a58a9804",
+  "repo_url": "https://github.com/azure/azure-sdk-for-python",
+  "date": "2026-01-09T18:11:11",
+  "languages": {
+    "Python": 556506782,
+    "PowerShell": 820119,
+    "Bicep": 809118,
+    "Jupyter Notebook": 556063,
+    "C": 65648,
+    "HTML": 15351,
+    "Jinja": 9742,
+    "Shell": 9608,
+    "JavaScript": 8127,
+    "CSS": 8050,
+    "Batchfile": 4732,
+    "Dockerfile": 4031
+  },
+  "size": 558817371
+}

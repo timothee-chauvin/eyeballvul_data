@@ -1,0 +1,16 @@
+{
+  "commit": "4026e3b5e28e381064ccfb3679f012729c3d5e1d",
+  "repo_url": "https://github.com/eclipse/hono",
+  "date": "2020-07-20T11:14:37",
+  "languages": {
+    "Java": 5736722,
+    "CSS": 77088,
+    "Shell": 37759,
+    "Groovy": 27903,
+    "HTML": 15792,
+    "JavaScript": 9989,
+    "Dockerfile": 2268,
+    "Batchfile": 1900
+  },
+  "size": 5909421
+}

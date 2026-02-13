@@ -1,0 +1,11 @@
+{
+  "commit": "4c8c46e12a1dca538dd6e1e591de1106af060851",
+  "repo_url": "https://github.com/wikimedia/mediawiki-extensions-mintydocs",
+  "date": "2025-04-28T15:06:04",
+  "languages": {
+    "JavaScript": 242308,
+    "PHP": 107139,
+    "CSS": 32191
+  },
+  "size": 381638
+}

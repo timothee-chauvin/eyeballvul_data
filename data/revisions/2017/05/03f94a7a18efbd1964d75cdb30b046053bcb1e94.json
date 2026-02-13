@@ -1,0 +1,16 @@
+{
+  "commit": "03f94a7a18efbd1964d75cdb30b046053bcb1e94",
+  "repo_url": "https://github.com/marlinfirmware/marlin",
+  "date": "2017-05-08T04:09:37",
+  "languages": {
+    "C": 4069131,
+    "C++": 1450138,
+    "Makefile": 16354,
+    "Shell": 14199,
+    "Python": 12474,
+    "OpenSCAD": 7378,
+    "CMake": 6614,
+    "Batchfile": 904
+  },
+  "size": 5577192
+}

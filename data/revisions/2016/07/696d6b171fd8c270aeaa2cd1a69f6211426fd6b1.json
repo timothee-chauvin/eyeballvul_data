@@ -1,0 +1,16 @@
+{
+  "commit": "696d6b171fd8c270aeaa2cd1a69f6211426fd6b1",
+  "repo_url": "https://github.com/mm2/little-cms",
+  "date": "2016-07-20T07:46:01",
+  "languages": {
+    "C": 1739284,
+    "Shell": 338504,
+    "Makefile": 218791,
+    "Pascal": 123885,
+    "M4": 21981,
+    "Roff": 13388,
+    "C++": 2486,
+    "Batchfile": 284
+  },
+  "size": 2458603
+}

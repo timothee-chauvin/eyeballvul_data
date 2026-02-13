@@ -1,0 +1,22 @@
+{
+  "commit": "67e25c890a7817b36190f7b679fb102864fe02c2",
+  "repo_url": "https://github.com/n8n-io/n8n",
+  "date": "2025-12-22T14:57:23",
+  "languages": {
+    "TypeScript": 44653860,
+    "Vue": 3850108,
+    "SCSS": 324944,
+    "Python": 217339,
+    "JavaScript": 177194,
+    "Handlebars": 67142,
+    "Dockerfile": 12255,
+    "HCL": 6777,
+    "Shell": 2007,
+    "HTML": 1706,
+    "Just": 1653,
+    "Rich Text Format": 267,
+    "CSS": 147,
+    "Batchfile": 71
+  },
+  "size": 49315470
+}

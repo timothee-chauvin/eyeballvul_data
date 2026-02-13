@@ -1,0 +1,16 @@
+{
+  "commit": "831e2ad6ba8e9d96377b9e338574d73ec022086f",
+  "repo_url": "https://github.com/gnome/evolution-data-server",
+  "date": "2016-04-25T07:21:55",
+  "languages": {
+    "C": 12630697,
+    "Makefile": 148324,
+    "M4": 84711,
+    "Perl": 5860,
+    "Python": 1675,
+    "Shell": 964,
+    "Vala": 467,
+    "Roff": 376
+  },
+  "size": 12873074
+}

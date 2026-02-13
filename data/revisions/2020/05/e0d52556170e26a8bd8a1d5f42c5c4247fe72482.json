@@ -1,0 +1,12 @@
+{
+  "commit": "e0d52556170e26a8bd8a1d5f42c5c4247fe72482",
+  "repo_url": "https://github.com/shopify/quilt",
+  "date": "2020-05-01T19:51:14",
+  "languages": {
+    "TypeScript": 2356684,
+    "Ruby": 64961,
+    "JavaScript": 9100,
+    "Handlebars": 94
+  },
+  "size": 2430839
+}

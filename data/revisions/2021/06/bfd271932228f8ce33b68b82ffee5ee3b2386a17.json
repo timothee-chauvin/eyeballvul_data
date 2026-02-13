@@ -1,0 +1,27 @@
+{
+  "commit": "bfd271932228f8ce33b68b82ffee5ee3b2386a17",
+  "repo_url": "https://github.com/zephyrproject-rtos/zephyr",
+  "date": "2021-06-02T01:40:20",
+  "languages": {
+    "C": 30449640,
+    "Python": 1998447,
+    "CMake": 870442,
+    "Assembly": 416121,
+    "Perl": 214752,
+    "Shell": 93045,
+    "C++": 82872,
+    "SmPL": 36830,
+    "SourcePawn": 13652,
+    "Tcl": 7036,
+    "Verilog": 6394,
+    "Gherkin": 2014,
+    "Smalltalk": 1885,
+    "Cadence": 1723,
+    "EmberScript": 959,
+    "Haskell": 722,
+    "FreeBasic": 592,
+    "PLSQL": 303,
+    "Batchfile": 110
+  },
+  "size": 34197539
+}

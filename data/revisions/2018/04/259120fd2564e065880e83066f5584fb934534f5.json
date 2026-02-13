@@ -1,0 +1,15 @@
+{
+  "commit": "259120fd2564e065880e83066f5584fb934534f5",
+  "repo_url": "https://github.com/tock/tock",
+  "date": "2018-04-25T16:53:54",
+  "languages": {
+    "Rust": 1969749,
+    "C": 570594,
+    "Makefile": 86076,
+    "Shell": 19745,
+    "C++": 6376,
+    "Python": 3371,
+    "GDB": 583
+  },
+  "size": 2656494
+}

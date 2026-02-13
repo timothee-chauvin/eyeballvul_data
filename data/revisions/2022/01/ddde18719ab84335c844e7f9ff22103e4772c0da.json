@@ -1,0 +1,11 @@
+{
+  "commit": "ddde18719ab84335c844e7f9ff22103e4772c0da",
+  "repo_url": "https://github.com/pubnub/go",
+  "date": "2022-01-13T14:54:12",
+  "languages": {
+    "Go": 1109158,
+    "Shell": 986,
+    "Makefile": 314
+  },
+  "size": 1110458
+}

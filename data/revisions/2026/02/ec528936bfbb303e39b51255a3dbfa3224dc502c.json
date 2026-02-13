@@ -1,0 +1,11 @@
+{
+  "commit": "ec528936bfbb303e39b51255a3dbfa3224dc502c",
+  "repo_url": "https://github.com/yokecd/yoke",
+  "date": "2026-02-01T01:56:31",
+  "languages": {
+    "Go": 620284,
+    "TypeScript": 958,
+    "Smarty": 639
+  },
+  "size": 621881
+}

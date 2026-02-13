@@ -1,0 +1,14 @@
+{
+  "commit": "5a84fe660f0b7125a92724f593a47a976e90c475",
+  "repo_url": "https://github.com/drachtio/drachtio-server",
+  "date": "2022-11-21T21:01:14",
+  "languages": {
+    "C++": 691180,
+    "JavaScript": 60639,
+    "Shell": 48391,
+    "M4": 35633,
+    "Makefile": 5867,
+    "Dockerfile": 1378
+  },
+  "size": 843088
+}

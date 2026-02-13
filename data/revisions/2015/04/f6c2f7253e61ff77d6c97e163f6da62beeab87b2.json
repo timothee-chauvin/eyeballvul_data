@@ -1,0 +1,14 @@
+{
+  "commit": "f6c2f7253e61ff77d6c97e163f6da62beeab87b2",
+  "repo_url": "https://github.com/thinkcmf/cmfx",
+  "date": "2015-04-22T00:58:07",
+  "languages": {
+    "PHP": 3015312,
+    "JavaScript": 666758,
+    "HTML": 447643,
+    "CSS": 160014,
+    "Smarty": 8471,
+    "Hack": 282
+  },
+  "size": 4298480
+}

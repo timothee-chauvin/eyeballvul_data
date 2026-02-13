@@ -1,0 +1,17 @@
+{
+  "commit": "6468cd1f5c9b76e2c3b10cdd6938faf6b82823b6",
+  "repo_url": "https://github.com/libarchive/libarchive",
+  "date": "2023-09-11T22:01:01",
+  "languages": {
+    "C": 7034616,
+    "Roff": 380910,
+    "CMake": 131848,
+    "M4": 121119,
+    "Makefile": 73073,
+    "Shell": 52031,
+    "C++": 28869,
+    "Batchfile": 11890,
+    "Dockerfile": 792
+  },
+  "size": 7835148
+}

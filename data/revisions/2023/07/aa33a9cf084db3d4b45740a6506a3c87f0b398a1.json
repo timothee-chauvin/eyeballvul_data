@@ -1,0 +1,12 @@
+{
+  "commit": "aa33a9cf084db3d4b45740a6506a3c87f0b398a1",
+  "repo_url": "https://github.com/wiremock/python-wiremock",
+  "date": "2023-07-19T10:23:38",
+  "languages": {
+    "Python": 143315,
+    "Makefile": 1671,
+    "Dockerfile": 849,
+    "Shell": 359
+  },
+  "size": 146194
+}

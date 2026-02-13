@@ -1,0 +1,12 @@
+{
+  "commit": "15bdccf78ca96c85038346c2ceccb934b1c54f40",
+  "repo_url": "https://github.com/automattic/mongoose",
+  "date": "2024-11-26T16:00:17",
+  "languages": {
+    "JavaScript": 4078994,
+    "TypeScript": 147452,
+    "Pug": 8063,
+    "HTML": 122
+  },
+  "size": 4234631
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "812cbce06be3d3bd933daea610727b37b58d7260",
+  "repo_url": "https://github.com/jeecgboot/jeecgboot",
+  "date": "2021-10-29T01:40:25",
+  "languages": {
+    "Java": 27263377,
+    "FreeMarker": 135113,
+    "Less": 21010,
+    "Dockerfile": 3337
+  },
+  "size": 27422837
+}

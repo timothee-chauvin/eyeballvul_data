@@ -1,0 +1,11 @@
+{
+  "commit": "dfebffb1eeb7ff0eba1e922bb8b452670675535f",
+  "repo_url": "https://github.com/mholt/caddy",
+  "date": "2017-05-02T18:02:28",
+  "languages": {
+    "Go": 1003751,
+    "PHP": 1948,
+    "Shell": 1428
+  },
+  "size": 1007127
+}

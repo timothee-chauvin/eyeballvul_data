@@ -1,0 +1,29 @@
+{
+  "commit": "f2c32515ee9a4f4db46ee51210143c2b6e4ee987",
+  "repo_url": "https://github.com/coreboot/coreboot",
+  "date": "2020-05-12T10:30:22",
+  "languages": {
+    "C": 84046134,
+    "ASL": 2764388,
+    "Makefile": 784205,
+    "Assembly": 747353,
+    "Perl": 360295,
+    "Shell": 253958,
+    "Python": 245970,
+    "C++": 235393,
+    "Ada": 110334,
+    "Go": 106740,
+    "NASL": 43613,
+    "Yacc": 34671,
+    "Roff": 27139,
+    "PHP": 20552,
+    "Lex": 12657,
+    "Dockerfile": 7261,
+    "M4": 6550,
+    "HTML": 2011,
+    "SWIG": 1595,
+    "sed": 1442,
+    "POV-Ray SDL": 590
+  },
+  "size": 89812851
+}

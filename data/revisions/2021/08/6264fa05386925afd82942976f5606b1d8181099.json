@@ -1,0 +1,14 @@
+{
+  "commit": "6264fa05386925afd82942976f5606b1d8181099",
+  "repo_url": "https://github.com/http4s/http4s",
+  "date": "2021-08-12T21:34:42",
+  "languages": {
+    "Scala": 2919764,
+    "Nix": 12638,
+    "HTML": 10661,
+    "CSS": 4166,
+    "Shell": 396,
+    "JavaScript": 9
+  },
+  "size": 2947634
+}

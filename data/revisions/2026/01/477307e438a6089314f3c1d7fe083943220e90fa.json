@@ -1,0 +1,20 @@
+{
+  "commit": "477307e438a6089314f3c1d7fe083943220e90fa",
+  "repo_url": "https://github.com/ccextractor/ccextractor",
+  "date": "2026-01-05T15:02:39",
+  "languages": {
+    "C": 3211663,
+    "Rust": 1326224,
+    "Shell": 34384,
+    "M4": 28302,
+    "Makefile": 27054,
+    "CMake": 15237,
+    "Objective-C": 13594,
+    "Dockerfile": 10993,
+    "Python": 3303,
+    "Batchfile": 2199,
+    "PowerShell": 1501,
+    "Starlark": 1233
+  },
+  "size": 4675687
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "98ad6912daec8df0d911f786f18006048efd7ade",
+  "repo_url": "https://github.com/remix-run/react-router",
+  "date": "2026-01-06T17:08:26",
+  "languages": {
+    "TypeScript": 2112816,
+    "JavaScript": 56368,
+    "Shell": 2403,
+    "CSS": 439,
+    "HTML": 325
+  },
+  "size": 2172351
+}

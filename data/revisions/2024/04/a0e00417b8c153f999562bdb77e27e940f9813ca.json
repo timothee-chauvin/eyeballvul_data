@@ -1,0 +1,19 @@
+{
+  "commit": "a0e00417b8c153f999562bdb77e27e940f9813ca",
+  "repo_url": "https://github.com/juju/juju",
+  "date": "2024-04-03T06:25:24",
+  "languages": {
+    "Go": 37871144,
+    "Python": 1528463,
+    "Shell": 502438,
+    "PHP": 148431,
+    "Makefile": 26482,
+    "PowerShell": 12516,
+    "C#": 11252,
+    "Inno Setup": 8990,
+    "DIGITAL Command Language": 3422,
+    "Dockerfile": 1125,
+    "C": 304
+  },
+  "size": 40114567
+}

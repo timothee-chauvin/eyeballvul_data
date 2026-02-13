@@ -1,0 +1,26 @@
+{
+  "commit": "989c3a6832b035f6124b0a23da9c0f8f18afa550",
+  "repo_url": "https://github.com/git-for-windows/git",
+  "date": "2022-06-27T18:26:11",
+  "languages": {
+    "C": 10241421,
+    "Shell": 7531528,
+    "Perl": 1191596,
+    "Tcl": 854857,
+    "Python": 182129,
+    "Makefile": 159316,
+    "JavaScript": 49704,
+    "CMake": 38928,
+    "M4": 38316,
+    "Roff": 26859,
+    "C++": 26403,
+    "Go": 15064,
+    "Batchfile": 11440,
+    "sed": 11168,
+    "CSS": 10637,
+    "SmPL": 8732,
+    "Assembly": 7443,
+    "Emacs Lisp": 660
+  },
+  "size": 20406201
+}

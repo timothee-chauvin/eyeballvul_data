@@ -1,0 +1,18 @@
+{
+  "commit": "3ba5192b1bd0607998bdaf9259d795fb14530384",
+  "repo_url": "https://github.com/go-vikunja/vikunja",
+  "date": "2026-01-27T17:17:33",
+  "languages": {
+    "Go": 4043593,
+    "Vue": 749121,
+    "TypeScript": 684471,
+    "SCSS": 38113,
+    "Smarty": 14725,
+    "JavaScript": 14681,
+    "Shell": 10645,
+    "Dockerfile": 2103,
+    "Nix": 1907,
+    "HTML": 1011
+  },
+  "size": 5560370
+}
