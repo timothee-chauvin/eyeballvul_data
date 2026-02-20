@@ -1,0 +1,19 @@
+{
+  "commit": "cb53ad9b3a534f538c794cc5203bd4d67719bbf5",
+  "repo_url": "https://github.com/shopware/platform",
+  "date": "2022-02-04T10:45:57",
+  "languages": {
+    "PHP": 22494902,
+    "JavaScript": 11242074,
+    "Twig": 4384632,
+    "SCSS": 1109612,
+    "TypeScript": 185375,
+    "CSS": 67173,
+    "Vue": 29515,
+    "HTML": 23257,
+    "Shell": 8183,
+    "Python": 6787,
+    "Smarty": 1368
+  },
+  "size": 39552878
+}

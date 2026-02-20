@@ -1,0 +1,19 @@
+{
+  "commit": "61df162825b3a747ac1fdad4f8008a079619b19c",
+  "repo_url": "https://github.com/contiki-ng/contiki-ng",
+  "date": "2020-04-22T12:05:03",
+  "languages": {
+    "C": 13628301,
+    "GSC": 881190,
+    "Python": 292620,
+    "Java": 42927,
+    "Shell": 40934,
+    "Makefile": 39631,
+    "Perl": 22060,
+    "JavaScript": 11656,
+    "XSLT": 4947,
+    "Dockerfile": 4630,
+    "CSS": 374
+  },
+  "size": 14969270
+}

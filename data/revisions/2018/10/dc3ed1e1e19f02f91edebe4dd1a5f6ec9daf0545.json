@@ -1,0 +1,15 @@
+{
+  "commit": "dc3ed1e1e19f02f91edebe4dd1a5f6ec9daf0545",
+  "repo_url": "https://github.com/acassen/keepalived",
+  "date": "2018-10-21T14:14:12",
+  "languages": {
+    "C": 1930031,
+    "M4": 70486,
+    "Shell": 15936,
+    "Makefile": 15912,
+    "Python": 9219,
+    "Perl": 3511,
+    "Dockerfile": 1587
+  },
+  "size": 2046682
+}

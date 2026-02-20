@@ -1,0 +1,11 @@
+{
+  "commit": "9b2e384f2c7f1775a25891b836a003710385cb82",
+  "repo_url": "https://github.com/apache/knox",
+  "date": "2013-03-30T02:59:44",
+  "languages": {
+    "Java": 1211544,
+    "Groovy": 23659,
+    "PigLatin": 119
+  },
+  "size": 1235322
+}

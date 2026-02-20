@@ -1,0 +1,31 @@
+{
+  "commit": "e21ff9b0b69219ab3853be7e80813156113152b7",
+  "repo_url": "https://github.com/erlang/otp",
+  "date": "2011-11-22T10:54:29",
+  "languages": {
+    "Erlang": 68034326,
+    "C": 11176007,
+    "C++": 1517994,
+    "Makefile": 1472619,
+    "Java": 552387,
+    "HTML": 439540,
+    "Emacs Lisp": 365209,
+    "Shell": 284181,
+    "M4": 271565,
+    "XSLT": 210344,
+    "Python": 134206,
+    "Assembly": 94184,
+    "Perl": 91412,
+    "Pascal": 36950,
+    "JavaScript": 33056,
+    "NSIS": 26334,
+    "CSS": 11243,
+    "Tcl": 9372,
+    "sed": 4828,
+    "Roff": 1954,
+    "Batchfile": 1063,
+    "Ruby": 110,
+    "DIGITAL Command Language": 21
+  },
+  "size": 84768905
+}

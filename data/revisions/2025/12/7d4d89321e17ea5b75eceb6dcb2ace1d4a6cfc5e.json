@@ -1,0 +1,18 @@
+{
+  "commit": "7d4d89321e17ea5b75eceb6dcb2ace1d4a6cfc5e",
+  "repo_url": "https://github.com/cilium/cilium",
+  "date": "2025-12-17T09:30:00",
+  "languages": {
+    "Go": 17645314,
+    "C": 2053073,
+    "Shell": 181554,
+    "Makefile": 77031,
+    "Dockerfile": 31733,
+    "Smarty": 27108,
+    "Python": 23496,
+    "SmPL": 12465,
+    "Lua": 2517,
+    "TeX": 416
+  },
+  "size": 20054707
+}

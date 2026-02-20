@@ -1,0 +1,17 @@
+{
+  "commit": "adfcccdab3d196df7d79df6604f1965ee6e0afb4",
+  "repo_url": "https://github.com/luke-jr/bfgminer",
+  "date": "2018-01-04T03:33:24",
+  "languages": {
+    "C": 2557670,
+    "M4": 140480,
+    "PHP": 72380,
+    "C++": 50623,
+    "Makefile": 28579,
+    "Assembly": 27193,
+    "Shell": 13807,
+    "Python": 4949,
+    "Ruby": 846
+  },
+  "size": 2896527
+}

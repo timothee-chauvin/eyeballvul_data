@@ -1,0 +1,16 @@
+{
+  "commit": "8c8bbf5d76156825432e2787b63fe3f34d7b0207",
+  "repo_url": "https://github.com/archesproject/arches",
+  "date": "2022-09-01T01:39:02",
+  "languages": {
+    "Python": 2600797,
+    "JavaScript": 1676988,
+    "HTML": 1215707,
+    "CSS": 469019,
+    "SCSS": 279841,
+    "Shell": 23982,
+    "Dockerfile": 4244,
+    "PowerShell": 340
+  },
+  "size": 6270918
+}

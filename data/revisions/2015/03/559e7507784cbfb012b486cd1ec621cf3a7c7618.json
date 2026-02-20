@@ -1,0 +1,13 @@
+{
+  "commit": "559e7507784cbfb012b486cd1ec621cf3a7c7618",
+  "repo_url": "https://github.com/belledonnecommunications/bzrtp",
+  "date": "2015-03-05T13:39:30",
+  "languages": {
+    "C": 534484,
+    "CMake": 15786,
+    "M4": 2792,
+    "Makefile": 1565,
+    "Shell": 749
+  },
+  "size": 555376
+}

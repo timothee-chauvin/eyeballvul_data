@@ -1,0 +1,12 @@
+{
+  "commit": "4d8262effc87d2ce0688d9f33cbefe05bfd1f1cc",
+  "repo_url": "https://github.com/open-policy-agent/opa-envoy-plugin",
+  "date": "2026-01-29T21:14:56",
+  "languages": {
+    "Go": 190209,
+    "Shell": 16815,
+    "Makefile": 8494,
+    "Dockerfile": 1045
+  },
+  "size": 216563
+}

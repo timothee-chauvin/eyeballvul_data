@@ -1,0 +1,17 @@
+{
+  "commit": "b590234892015471c148beda119f1d9f9afd067b",
+  "repo_url": "https://github.com/bedita/bedita",
+  "date": "2016-10-17T08:42:44",
+  "languages": {
+    "PHP": 8223557,
+    "JavaScript": 1461478,
+    "Smarty": 571036,
+    "CSS": 312564,
+    "Less": 35000,
+    "HTML": 8015,
+    "Stylus": 7863,
+    "Shell": 2617,
+    "Batchfile": 1042
+  },
+  "size": 10623172
+}

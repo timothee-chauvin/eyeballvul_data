@@ -1,0 +1,20 @@
+{
+  "commit": "7b5225584ff119886b13017ace74bb90e780edb6",
+  "repo_url": "https://github.com/vert-x3/vertx-web",
+  "date": "2017-10-18T19:45:06",
+  "languages": {
+    "Java": 1735944,
+    "Python": 1029979,
+    "JavaScript": 68168,
+    "Kotlin": 15305,
+    "HTML": 7668,
+    "CoffeeScript": 5450,
+    "Ruby": 3197,
+    "Groovy": 1813,
+    "Makefile": 1420,
+    "Handlebars": 635,
+    "FreeMarker": 479,
+    "Pug": 176
+  },
+  "size": 2870234
+}

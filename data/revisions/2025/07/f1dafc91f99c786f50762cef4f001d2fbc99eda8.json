@@ -1,0 +1,11 @@
+{
+  "commit": "f1dafc91f99c786f50762cef4f001d2fbc99eda8",
+  "repo_url": "https://github.com/flux159/mcp-server-kubernetes",
+  "date": "2025-07-01T04:27:36",
+  "languages": {
+    "TypeScript": 371615,
+    "JavaScript": 12997,
+    "Dockerfile": 1539
+  },
+  "size": 386151
+}

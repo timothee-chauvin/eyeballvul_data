@@ -1,0 +1,14 @@
+{
+  "commit": "d30d526eb40a4855a3589d895aac75900aedfc44",
+  "repo_url": "https://github.com/pypa/setuptools",
+  "date": "2013-12-07T17:36:45",
+  "languages": {
+    "Python": 660914,
+    "C": 16467,
+    "Batchfile": 2600,
+    "Shell": 1260,
+    "HTML": 266,
+    "Cython": 75
+  },
+  "size": 681582
+}

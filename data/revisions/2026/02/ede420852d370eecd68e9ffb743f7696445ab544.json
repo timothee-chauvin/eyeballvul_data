@@ -1,0 +1,11 @@
+{
+  "commit": "ede420852d370eecd68e9ffb743f7696445ab544",
+  "repo_url": "https://github.com/tygo-van-den-hurk/slyde",
+  "date": "2026-02-16T13:37:50",
+  "languages": {
+    "TypeScript": 276704,
+    "JavaScript": 4725,
+    "Dockerfile": 515
+  },
+  "size": 281944
+}

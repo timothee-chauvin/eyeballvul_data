@@ -1,0 +1,19 @@
+{
+  "commit": "923de03c1bfd65817ebe0d4f884b6ca1c89c3e8b",
+  "repo_url": "https://github.com/privacyidea/privacyidea",
+  "date": "2018-09-06T08:07:26",
+  "languages": {
+    "Python": 3528679,
+    "JavaScript": 504694,
+    "HTML": 355116,
+    "Shell": 26260,
+    "Makefile": 15906,
+    "Perl": 14176,
+    "PHP": 11482,
+    "CSS": 10429,
+    "Roff": 8508,
+    "Mako": 412,
+    "Procfile": 70
+  },
+  "size": 4475732
+}

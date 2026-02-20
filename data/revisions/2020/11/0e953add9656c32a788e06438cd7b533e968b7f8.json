@@ -1,0 +1,21 @@
+{
+  "commit": "0e953add9656c32a788e06438cd7b533e968b7f8",
+  "repo_url": "https://github.com/golang/go",
+  "date": "2020-11-05T21:21:32",
+  "languages": {
+    "Go": 34171474,
+    "HTML": 2621348,
+    "Assembly": 2273620,
+    "C": 95031,
+    "Shell": 55057,
+    "Perl": 31351,
+    "JavaScript": 19687,
+    "Python": 15381,
+    "Batchfile": 8127,
+    "C++": 917,
+    "Makefile": 748,
+    "Awk": 450,
+    "Fortran": 394
+  },
+  "size": 39293585
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "d9f54e3454b4cbbc7b614970c9f5d48e440f3957",
+  "repo_url": "https://github.com/laravel/laravel",
+  "date": "2017-01-24T16:19:25",
+  "languages": {
+    "PHP": 72517,
+    "Blade": 2724,
+    "JavaScript": 1132,
+    "Vue": 563
+  },
+  "size": 76936
+}

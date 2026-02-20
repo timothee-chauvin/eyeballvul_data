@@ -1,0 +1,19 @@
+{
+  "commit": "0ecbaa978ec5cbd9513aa581d19b02389a75d175",
+  "repo_url": "https://github.com/cvcuda/cv-cuda",
+  "date": "2022-12-22T00:30:28",
+  "languages": {
+    "C++": 2616546,
+    "Cuda": 657678,
+    "C": 383503,
+    "Python": 137150,
+    "CMake": 98170,
+    "Shell": 52182,
+    "Dockerfile": 8619,
+    "Pawn": 1727,
+    "Vim Script": 1673,
+    "Verilog": 1033,
+    "JavaScript": 977
+  },
+  "size": 3959258
+}

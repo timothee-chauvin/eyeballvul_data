@@ -1,0 +1,22 @@
+{
+  "commit": "35a5fed9531b5d55b81724d63073dcd9762b0102",
+  "repo_url": "https://github.com/icinga/icinga-core",
+  "date": "2014-04-24T08:08:14",
+  "languages": {
+    "HTML": 6585915,
+    "C": 6079603,
+    "Perl": 186601,
+    "PLpgSQL": 66325,
+    "Shell": 59757,
+    "CSS": 56947,
+    "Makefile": 55965,
+    "M4": 51830,
+    "JavaScript": 40420,
+    "Prolog": 25698,
+    "PLSQL": 20423,
+    "Vim Script": 11832,
+    "Roff": 6563,
+    "Smarty": 1518
+  },
+  "size": 13249397
+}

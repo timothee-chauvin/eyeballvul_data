@@ -1,0 +1,14 @@
+{
+  "commit": "d6f1e0ec38fe0e9115603004bf3210fc0fe8f746",
+  "repo_url": "https://github.com/ckeditor/ckeditor4",
+  "date": "2013-06-10T11:22:00",
+  "languages": {
+    "JavaScript": 4339406,
+    "HTML": 299027,
+    "CSS": 158174,
+    "Shell": 7802,
+    "Python": 7731,
+    "Batchfile": 582
+  },
+  "size": 4812722
+}

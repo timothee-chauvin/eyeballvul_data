@@ -1,0 +1,20 @@
+{
+  "commit": "d7460d1647a4ac6693ae1a92ba77a1b37e1e19f1",
+  "repo_url": "https://github.com/eucalyptus/eucalyptus",
+  "date": "2015-10-20T21:33:53",
+  "languages": {
+    "Java": 18659514,
+    "C": 5223735,
+    "Groovy": 2470341,
+    "Python": 664394,
+    "Shell": 312294,
+    "Perl": 296417,
+    "Makefile": 102692,
+    "Roff": 64367,
+    "M4": 22737,
+    "CSS": 20947,
+    "XSLT": 20402,
+    "HTML": 17888
+  },
+  "size": 27875728
+}

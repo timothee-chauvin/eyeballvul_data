@@ -1,0 +1,14 @@
+{
+  "commit": "0b5576a635788c619dd541cd3f936f84e25a9ae9",
+  "repo_url": "https://github.com/pypa/pipenv",
+  "date": "2018-03-13T15:45:06",
+  "languages": {
+    "Python": 5186186,
+    "Roff": 40760,
+    "Shell": 13235,
+    "Dockerfile": 702,
+    "HTML": 535,
+    "Batchfile": 329
+  },
+  "size": 5241747
+}

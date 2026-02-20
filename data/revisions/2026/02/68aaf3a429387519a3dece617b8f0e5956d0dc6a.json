@@ -1,0 +1,11 @@
+{
+  "commit": "68aaf3a429387519a3dece617b8f0e5956d0dc6a",
+  "repo_url": "https://github.com/labstack/echo",
+  "date": "2026-02-02T18:02:23",
+  "languages": {
+    "Go": 1083079,
+    "Makefile": 1021,
+    "HTML": 244
+  },
+  "size": 1084344
+}

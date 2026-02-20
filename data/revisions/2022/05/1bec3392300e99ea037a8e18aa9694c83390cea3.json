@@ -1,0 +1,15 @@
+{
+  "commit": "1bec3392300e99ea037a8e18aa9694c83390cea3",
+  "repo_url": "https://github.com/makesoftwaresafe/mruby",
+  "date": "2022-05-12T03:19:10",
+  "languages": {
+    "C": 2000144,
+    "Ruby": 791753,
+    "Yacc": 201616,
+    "C++": 65873,
+    "Batchfile": 1143,
+    "Shell": 997,
+    "Makefile": 191
+  },
+  "size": 3061717
+}

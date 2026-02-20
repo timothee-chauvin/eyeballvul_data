@@ -1,0 +1,17 @@
+{
+  "commit": "dc475bfa0ec6cd03789dde3bf28f71e0ea9d5003",
+  "repo_url": "https://github.com/zsh-users/zsh",
+  "date": "2017-08-08T18:09:15",
+  "languages": {
+    "C": 3584833,
+    "Roff": 1271523,
+    "Shell": 202518,
+    "M4": 124520,
+    "Perl": 29079,
+    "Makefile": 21724,
+    "Awk": 16720,
+    "Vim Script": 3556,
+    "sed": 255
+  },
+  "size": 5254728
+}

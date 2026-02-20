@@ -1,0 +1,15 @@
+{
+  "commit": "8c12fc4bdad26da889276036a7a03649e0a68ef8",
+  "repo_url": "https://github.com/themavik/mindsdb",
+  "date": "2026-01-21T10:30:19",
+  "languages": {
+    "Python": 7827450,
+    "Dockerfile": 6254,
+    "HCL": 4642,
+    "Makefile": 2893,
+    "HTML": 595,
+    "Mako": 540,
+    "Shell": 196
+  },
+  "size": 7842570
+}

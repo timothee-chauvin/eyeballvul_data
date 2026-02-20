@@ -1,0 +1,12 @@
+{
+  "commit": "243b25994be8786632dc5cddbf543f1b9af8cc93",
+  "repo_url": "https://github.com/cloudfoundry/grootfs",
+  "date": "2016-11-03T16:45:10",
+  "languages": {
+    "Go": 362873,
+    "Shell": 12387,
+    "Makefile": 1930,
+    "Dockerfile": 806
+  },
+  "size": 377996
+}

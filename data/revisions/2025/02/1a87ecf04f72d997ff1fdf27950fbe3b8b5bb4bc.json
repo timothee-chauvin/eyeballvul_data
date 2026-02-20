@@ -1,0 +1,16 @@
+{
+  "commit": "1a87ecf04f72d997ff1fdf27950fbe3b8b5bb4bc",
+  "repo_url": "https://github.com/veyon/veyon",
+  "date": "2025-02-14T13:33:48",
+  "languages": {
+    "C++": 1764102,
+    "C": 240868,
+    "CMake": 97437,
+    "Roff": 18877,
+    "Python": 10258,
+    "Dockerfile": 8012,
+    "Shell": 5529,
+    "Objective-C": 4152
+  },
+  "size": 2149235
+}

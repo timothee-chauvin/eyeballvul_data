@@ -1,0 +1,15 @@
+{
+  "commit": "0da7f445df445630c794897347ee360d6fe6348b",
+  "repo_url": "https://github.com/dpdk/dpdk",
+  "date": "2018-11-26T23:36:00",
+  "languages": {
+    "C": 36348446,
+    "Makefile": 326723,
+    "Meson": 121675,
+    "Python": 108195,
+    "Shell": 68794,
+    "SmPL": 1916,
+    "Awk": 1623
+  },
+  "size": 36977372
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "36bc053a69ac5b9ba5a54cb2bd19adb33dcde50e",
+  "repo_url": "https://github.com/scikit-learn/scikit-learn",
+  "date": "2017-07-13T12:55:51",
+  "languages": {
+    "Python": 6432651,
+    "Cython": 514863,
+    "C": 451996,
+    "C++": 140322,
+    "Shell": 19153,
+    "PowerShell": 17042,
+    "Batchfile": 3366,
+    "Makefile": 1512
+  },
+  "size": 7580905
+}

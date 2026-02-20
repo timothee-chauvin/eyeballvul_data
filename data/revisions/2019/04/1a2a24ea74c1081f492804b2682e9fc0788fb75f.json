@@ -1,0 +1,12 @@
+{
+  "commit": "1a2a24ea74c1081f492804b2682e9fc0788fb75f",
+  "repo_url": "https://github.com/burntsushi/ripgrep",
+  "date": "2019-04-15T22:03:46",
+  "languages": {
+    "Rust": 1300675,
+    "Python": 48438,
+    "Shell": 38867,
+    "Ruby": 851
+  },
+  "size": 1388831
+}

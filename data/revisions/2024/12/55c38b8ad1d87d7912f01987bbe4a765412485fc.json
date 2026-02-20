@@ -1,0 +1,12 @@
+{
+  "commit": "55c38b8ad1d87d7912f01987bbe4a765412485fc",
+  "repo_url": "https://github.com/azure/azure-iot-explorer",
+  "date": "2024-12-18T18:57:27",
+  "languages": {
+    "TypeScript": 1452183,
+    "SCSS": 64528,
+    "HTML": 757,
+    "JavaScript": 237
+  },
+  "size": 1517705
+}

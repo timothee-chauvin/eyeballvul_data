@@ -1,0 +1,11 @@
+{
+  "commit": "d65711ac773b89fc917ac42ae68a7e523c0ce2fc",
+  "repo_url": "https://github.com/pypa/pipenv",
+  "date": "2017-09-19T19:14:54",
+  "languages": {
+    "Python": 4932461,
+    "PowerShell": 7195,
+    "Makefile": 131
+  },
+  "size": 4939787
+}

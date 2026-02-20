@@ -1,0 +1,12 @@
+{
+  "commit": "a44024a15295ecc22b8a446e230e4a9a35dfb3ea",
+  "repo_url": "https://github.com/geonode/geoserver-geonode-ext",
+  "date": "2017-02-16T11:48:24",
+  "languages": {
+    "Java": 306736,
+    "PLpgSQL": 8895,
+    "Scheme": 8849,
+    "HTML": 2191
+  },
+  "size": 326671
+}

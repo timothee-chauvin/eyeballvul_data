@@ -1,0 +1,16 @@
+{
+  "commit": "6bf104874a453596ac4b2d71feb9917ddaea53fd",
+  "repo_url": "https://github.com/espressif/arduino-esp32",
+  "date": "2019-04-16T01:08:50",
+  "languages": {
+    "C": 10320516,
+    "C++": 4292806,
+    "Python": 185321,
+    "HTML": 28386,
+    "Shell": 26709,
+    "CMake": 8065,
+    "Makefile": 1655,
+    "Ruby": 315
+  },
+  "size": 14863773
+}

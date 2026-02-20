@@ -1,0 +1,10 @@
+{
+  "commit": "325f520de716c1d2d2b4e8dc2f82c7ccc5fac764",
+  "repo_url": "https://github.com/filosottile/edwards25519",
+  "date": "2023-12-10T19:13:24",
+  "languages": {
+    "Go": 127980,
+    "Assembly": 6894
+  },
+  "size": 134874
+}

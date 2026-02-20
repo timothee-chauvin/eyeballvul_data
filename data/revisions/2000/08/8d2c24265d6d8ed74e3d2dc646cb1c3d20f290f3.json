@@ -1,0 +1,13 @@
+{
+  "commit": "8d2c24265d6d8ed74e3d2dc646cb1c3d20f290f3",
+  "repo_url": "https://github.com/curl/curl",
+  "date": "2000-08-21T21:57:06",
+  "languages": {
+    "C": 558683,
+    "Shell": 224819,
+    "Yacc": 26334,
+    "Makefile": 11660,
+    "Perl": 1776
+  },
+  "size": 823272
+}

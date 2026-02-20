@@ -1,0 +1,23 @@
+{
+  "commit": "78af8a798aa9f1100a1228454ff8ebf98ce1b9e5",
+  "repo_url": "https://github.com/systemd/systemd-stable",
+  "date": "2019-11-22T13:41:10",
+  "languages": {
+    "C": 18673760,
+    "Python": 1488288,
+    "Shell": 452198,
+    "Meson": 296732,
+    "HTML": 238797,
+    "Perl": 79173,
+    "M4": 71054,
+    "SmPL": 17070,
+    "Awk": 2021,
+    "CodeQL": 1967,
+    "Makefile": 1437,
+    "Emacs Lisp": 1187,
+    "Dockerfile": 1039,
+    "Vim Script": 925,
+    "sed": 27
+  },
+  "size": 21325675
+}

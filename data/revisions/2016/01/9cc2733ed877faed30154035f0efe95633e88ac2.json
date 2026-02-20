@@ -1,0 +1,25 @@
+{
+  "commit": "9cc2733ed877faed30154035f0efe95633e88ac2",
+  "repo_url": "https://github.com/zerotier/zerotierone",
+  "date": "2016-01-21T02:10:40",
+  "languages": {
+    "C": 2871730,
+    "C++": 1759810,
+    "Java": 80197,
+    "Shell": 76561,
+    "Objective-C": 66867,
+    "Makefile": 45467,
+    "C#": 25915,
+    "JavaScript": 19914,
+    "CMake": 8728,
+    "Python": 8372,
+    "HTML": 6421,
+    "CSS": 3921,
+    "Roff": 3289,
+    "Batchfile": 1747,
+    "Rich Text Format": 840,
+    "Dockerfile": 518,
+    "Lua": 100
+  },
+  "size": 4980397
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "ee338e327f56bb40d392f29d132297c2e64b9f10",
+  "repo_url": "https://github.com/jhipster/generator-jhipster",
+  "date": "2019-08-01T06:52:24",
+  "languages": {
+    "JavaScript": 1532726,
+    "Java": 1183885,
+    "TypeScript": 942897,
+    "EJS": 450887,
+    "Shell": 40382,
+    "SCSS": 37527,
+    "CSS": 7582,
+    "Mustache": 3313,
+    "Dockerfile": 2171
+  },
+  "size": 4201370
+}

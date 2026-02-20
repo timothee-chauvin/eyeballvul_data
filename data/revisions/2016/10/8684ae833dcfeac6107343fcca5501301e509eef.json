@@ -1,0 +1,19 @@
+{
+  "commit": "8684ae833dcfeac6107343fcca5501301e509eef",
+  "repo_url": "https://github.com/scala/scala",
+  "date": "2016-10-21T04:07:56",
+  "languages": {
+    "Scala": 15797870,
+    "Java": 316817,
+    "Shell": 71500,
+    "CSS": 57698,
+    "JavaScript": 54567,
+    "Python": 44027,
+    "HTML": 6291,
+    "Batchfile": 3423,
+    "Awk": 1379,
+    "Ruby": 142,
+    "C": 141
+  },
+  "size": 16353855
+}

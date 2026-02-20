@@ -1,0 +1,14 @@
+{
+  "commit": "135aca18ba1b870b32660d89028b53c05bc12821",
+  "repo_url": "https://github.com/wso2/product-micro-integrator",
+  "date": "2019-05-14T22:10:45",
+  "languages": {
+    "Java": 947724,
+    "Go": 76804,
+    "Shell": 54544,
+    "Batchfile": 25951,
+    "Dockerfile": 2828,
+    "Makefile": 924
+  },
+  "size": 1108775
+}

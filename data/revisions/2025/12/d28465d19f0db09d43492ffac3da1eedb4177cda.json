@@ -1,0 +1,14 @@
+{
+  "commit": "d28465d19f0db09d43492ffac3da1eedb4177cda",
+  "repo_url": "https://github.com/music-assistant/server",
+  "date": "2025-12-17T10:25:26",
+  "languages": {
+    "Python": 4257925,
+    "CSS": 165230,
+    "HTML": 154105,
+    "Shell": 7323,
+    "Dockerfile": 3440,
+    "JavaScript": 137
+  },
+  "size": 4588160
+}

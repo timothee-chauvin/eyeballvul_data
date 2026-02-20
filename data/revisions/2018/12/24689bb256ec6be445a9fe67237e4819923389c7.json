@@ -1,0 +1,18 @@
+{
+  "commit": "24689bb256ec6be445a9fe67237e4819923389c7",
+  "repo_url": "https://github.com/openprinting/cups-filters",
+  "date": "2018-12-17T16:47:13",
+  "languages": {
+    "C": 1911145,
+    "C++": 533879,
+    "Shell": 96193,
+    "M4": 61363,
+    "Roff": 44997,
+    "Makefile": 25955,
+    "XS": 4460,
+    "Perl": 3938,
+    "PostScript": 3924,
+    "PHP": 1586
+  },
+  "size": 2687440
+}

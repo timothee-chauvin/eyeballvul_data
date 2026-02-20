@@ -1,0 +1,17 @@
+{
+  "commit": "0fc8082bd931977e8f3bb8a62f81613915c4fb0a",
+  "repo_url": "https://github.com/solspace/craft-freeform",
+  "date": "2025-05-22T13:19:15",
+  "languages": {
+    "PHP": 4088147,
+    "TypeScript": 1118339,
+    "Twig": 496749,
+    "SCSS": 75124,
+    "JavaScript": 47579,
+    "EJS": 27782,
+    "HTML": 20347,
+    "CSS": 19207,
+    "MDX": 695
+  },
+  "size": 5893969
+}

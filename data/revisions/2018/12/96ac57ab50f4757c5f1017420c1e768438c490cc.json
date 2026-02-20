@@ -1,0 +1,13 @@
+{
+  "commit": "96ac57ab50f4757c5f1017420c1e768438c490cc",
+  "repo_url": "https://github.com/adrienverge/openfortivpn",
+  "date": "2018-12-14T15:49:46",
+  "languages": {
+    "C": 163118,
+    "M4": 7569,
+    "Shell": 3034,
+    "Makefile": 1410,
+    "Python": 1276
+  },
+  "size": 176407
+}

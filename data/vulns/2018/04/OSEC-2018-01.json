@@ -1,0 +1,20 @@
+{
+  "id": "OSEC-2018-01",
+  "published": "2018-04-06T18:29:00",
+  "modified": "2026-02-17T00:57:10.004926",
+  "details": "## Bug description\n\nThe bigarray module in all recent ocaml versions is capable of reading in serialized (marshalled) objects from a external source which is often used for network operations and interprocess communication.\n\nbyterun/bigarray.c\n\nLine 458 in ea60609\n```C\n b->data = malloc(elt_size * num_elts);\n```\n\nA integer overflow vulnerability allows under certain circumstances an remote attacker to input a corrupt object and edit arbitrary addresses in the processes memory which leads over common techniques (in this take libc one gadget but any rop gadget or got table vector would work) to arbitrary memory access (!) and in the course also arbitrary code execution\n\nPlease check the writeup.pdf for more details !!\n\nIn variations of this the exploit is usable in all ocaml versions we tested no matter if compiled to binary or intepreted (!)\n\n## Steps to reproduce\n\nCheck out the attached archive and run the makefile (or use the precompile executable)\nthe exploit can be run by executing exploit.py (python2.7 and pwntools are required)\nThe last step of code execution is using a one-gadget attack technique and is specific to the glibc version in use (e.g. tested is debian glibc 2.24-11+deb9u1) but can with minimal amount of work be ported to any libc version on any patch level to our knowledge\n\nOf course you can also use the exploit.py to write your own version of exploit\n\n## Additional information\n\nThis Vulnerability in ocaml was discovered by me (maximilian.tschirschnitz@gmx.de) and the exploit collaboratly developed with (philipp.hagenlocher@tum.de)\nFor illustration purposes it was packaged as security challenge to demonstrate the impact of the issue (see writeup.pdf)",
+  "summary": "An integer overflow in the `bigarray` serialization module leads to arbitrary code execution",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "cwes": [],
+  "commits": [
+    "0d68080b95016f747b7cb63dd36ccdd42d40016e",
+    "5d0f1bf69829d8d276402e29d0944fe2fc8e81c7",
+    "bee55c46e931fb987f9ecae60c891939e8208506"
+  ]
+}

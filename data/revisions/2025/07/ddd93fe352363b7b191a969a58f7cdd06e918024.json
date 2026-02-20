@@ -1,0 +1,13 @@
+{
+  "commit": "ddd93fe352363b7b191a969a58f7cdd06e918024",
+  "repo_url": "https://github.com/haxtheweb/haxcms-nodejs",
+  "date": "2025-07-21T15:43:05",
+  "languages": {
+    "JavaScript": 356319,
+    "HTML": 64469,
+    "PHP": 36567,
+    "CSS": 1039,
+    "Dockerfile": 993
+  },
+  "size": 459387
+}

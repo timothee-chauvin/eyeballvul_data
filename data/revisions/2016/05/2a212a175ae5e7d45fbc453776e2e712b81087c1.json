@@ -1,0 +1,22 @@
+{
+  "commit": "2a212a175ae5e7d45fbc453776e2e712b81087c1",
+  "repo_url": "https://github.com/schedmd/slurm",
+  "date": "2016-05-31T21:35:09",
+  "languages": {
+    "C": 17536794,
+    "Makefile": 5910788,
+    "Roff": 1103453,
+    "Shell": 503373,
+    "Perl": 284186,
+    "M4": 153698,
+    "C++": 138881,
+    "XS": 80821,
+    "Python": 45546,
+    "PHP": 24499,
+    "Lua": 13945,
+    "Vim Script": 9768,
+    "Jinja": 2152,
+    "Raku": 410
+  },
+  "size": 25808314
+}

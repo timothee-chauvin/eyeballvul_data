@@ -1,0 +1,14 @@
+{
+  "commit": "ddeb10e55f5a76863ce39bbcc3fcc7298cfa3b32",
+  "repo_url": "https://github.com/m2team/nanazip",
+  "date": "2026-02-07T13:10:52",
+  "languages": {
+    "C++": 12609523,
+    "C": 8756397,
+    "Assembly": 431297,
+    "C#": 23801,
+    "Inno Setup": 966,
+    "Batchfile": 791
+  },
+  "size": 21822775
+}

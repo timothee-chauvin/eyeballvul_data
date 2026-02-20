@@ -1,0 +1,11 @@
+{
+  "commit": "109101faebaa56cc93916803898608328016bf46",
+  "repo_url": "https://github.com/weechat/weechat",
+  "date": "2003-09-27T10:01:11",
+  "languages": {
+    "C": 662292,
+    "Makefile": 23973,
+    "Roff": 1520
+  },
+  "size": 687785
+}

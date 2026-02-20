@@ -1,0 +1,12 @@
+{
+  "commit": "fe18dd61359f29cbdde40bd0dcedc3197d0dd0ed",
+  "repo_url": "https://github.com/apache/cayenne",
+  "date": "2016-04-29T12:14:35",
+  "languages": {
+    "Java": 11534796,
+    "HTML": 31165,
+    "Shell": 1653,
+    "PLpgSQL": 1081
+  },
+  "size": 11568695
+}

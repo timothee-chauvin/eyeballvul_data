@@ -1,0 +1,26 @@
+{
+  "commit": "979fc9785b2f91e1a7551dc1cd28743e2310759a",
+  "repo_url": "https://gitlab.com/flightgear/flightgear",
+  "date": "2012-01-17T06:46:52",
+  "languages": {
+    "C++": 8644637,
+    "C": 511720,
+    "Perl": 129526,
+    "Objective-C": 97834,
+    "HTML": 87663,
+    "Python": 83145,
+    "CMake": 70059,
+    "Shell": 37469,
+    "Inno Setup": 22740,
+    "Java": 17913,
+    "NSIS": 10156,
+    "Vim Script": 7906,
+    "Objective-C++": 6612,
+    "Ruby": 6192,
+    "M4": 4148,
+    "Rich Text Format": 2550,
+    "Makefile": 2494,
+    "Batchfile": 582
+  },
+  "size": 9743346
+}

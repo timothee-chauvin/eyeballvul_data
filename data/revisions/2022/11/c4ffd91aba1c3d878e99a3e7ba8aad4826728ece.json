@@ -1,0 +1,29 @@
+{
+  "commit": "c4ffd91aba1c3d878e99a3e7ba8aad4826728ece",
+  "repo_url": "https://gitlab.com/birkelund/qemu",
+  "date": "2022-11-29T23:15:26",
+  "languages": {
+    "C": 67758045,
+    "C++": 10044744,
+    "Python": 3303107,
+    "Shell": 1362832,
+    "Assembly": 433852,
+    "Meson": 391623,
+    "Haxe": 327434,
+    "Perl": 219285,
+    "Objective-C": 108583,
+    "Makefile": 95166,
+    "SourcePawn": 64629,
+    "POV-Ray SDL": 57289,
+    "SmPL": 28545,
+    "Pawn": 16760,
+    "NASL": 7703,
+    "NSIS": 6906,
+    "Dockerfile": 1577,
+    "GLSL": 588,
+    "GDB": 470,
+    "Vim Script": 220,
+    "Emacs Lisp": 75
+  },
+  "size": 84229433
+}

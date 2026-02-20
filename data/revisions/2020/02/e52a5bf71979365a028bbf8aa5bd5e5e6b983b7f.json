@@ -1,0 +1,19 @@
+{
+  "commit": "e52a5bf71979365a028bbf8aa5bd5e5e6b983b7f",
+  "repo_url": "https://gitlab.com/sane-project/backends",
+  "date": "2020-02-02T11:19:37",
+  "languages": {
+    "C": 16659171,
+    "C++": 1705414,
+    "Roff": 292984,
+    "Makefile": 92142,
+    "Java": 68048,
+    "M4": 67603,
+    "Shell": 12889,
+    "Python": 10788,
+    "Awk": 4737,
+    "Batchfile": 1770,
+    "Perl": 1176
+  },
+  "size": 18916722
+}

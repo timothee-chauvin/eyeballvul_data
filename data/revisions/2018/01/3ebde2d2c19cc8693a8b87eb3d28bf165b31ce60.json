@@ -1,0 +1,11 @@
+{
+  "commit": "3ebde2d2c19cc8693a8b87eb3d28bf165b31ce60",
+  "repo_url": "https://github.com/pnpm/pnpm",
+  "date": "2018-01-14T13:11:43",
+  "languages": {
+    "TypeScript": 73712,
+    "JavaScript": 8080,
+    "Shell": 1448
+  },
+  "size": 83240
+}

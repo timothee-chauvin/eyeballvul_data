@@ -1,0 +1,23 @@
+{
+  "commit": "838b9511723b32e34956370313d9466045f9a453",
+  "repo_url": "https://github.com/microsoft/semantic-kernel",
+  "date": "2026-02-02T01:29:12",
+  "languages": {
+    "C#": 15510307,
+    "Python": 7320981,
+    "Jupyter Notebook": 342845,
+    "TypeScript": 75580,
+    "Bicep": 13093,
+    "CSS": 12698,
+    "PowerShell": 7156,
+    "HTML": 6461,
+    "Handlebars": 3360,
+    "Makefile": 3335,
+    "F#": 2611,
+    "JavaScript": 1602,
+    "Smalltalk": 1082,
+    "Shell": 332,
+    "Batchfile": 162
+  },
+  "size": 23301605
+}

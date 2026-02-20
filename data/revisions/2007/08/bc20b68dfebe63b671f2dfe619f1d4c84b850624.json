@@ -1,0 +1,17 @@
+{
+  "commit": "bc20b68dfebe63b671f2dfe619f1d4c84b850624",
+  "repo_url": "https://github.com/transmission/transmission",
+  "date": "2007-08-07T02:30:34",
+  "languages": {
+    "C": 1467204,
+    "Objective-C": 618533,
+    "C++": 99439,
+    "HTML": 34896,
+    "M4": 26122,
+    "Makefile": 17615,
+    "Roff": 14665,
+    "Rich Text Format": 4785,
+    "Shell": 3131
+  },
+  "size": 2286390
+}

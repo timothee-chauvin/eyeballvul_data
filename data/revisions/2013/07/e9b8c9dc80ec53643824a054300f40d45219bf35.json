@@ -1,6 +1,6 @@
 {
   "commit": "e9b8c9dc80ec53643824a054300f40d45219bf35",
-  "repo_url": "https://github.com/libvirt/libvirt",
+  "repo_url": "https://gitlab.com/libvirt/libvirt",
   "date": "2013-07-30T09:38:35",
   "languages": {
     "C": 15540884,

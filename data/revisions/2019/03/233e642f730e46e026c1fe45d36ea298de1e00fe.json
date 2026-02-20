@@ -1,0 +1,13 @@
+{
+  "commit": "233e642f730e46e026c1fe45d36ea298de1e00fe",
+  "repo_url": "https://github.com/hughsie/colord",
+  "date": "2019-03-08T12:42:46",
+  "languages": {
+    "C": 1956555,
+    "Meson": 34531,
+    "SourcePawn": 10009,
+    "Python": 1502,
+    "Shell": 700
+  },
+  "size": 2003297
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "0b17df3302fc4a7683a8790f305c8a2c7b1b4fe8",
+  "repo_url": "https://github.com/xwiki-labs/cryptpad",
+  "date": "2019-07-17T12:24:40",
+  "languages": {
+    "JavaScript": 61138175,
+    "HTML": 4086391,
+    "Less": 297113,
+    "CSS": 185012,
+    "Shell": 1860,
+    "Dockerfile": 1203
+  },
+  "size": 65709754
+}

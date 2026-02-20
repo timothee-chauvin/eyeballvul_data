@@ -1,0 +1,15 @@
+{
+  "commit": "ac5376f9b9ef589961f0231608395cbc4d903ba1",
+  "repo_url": "https://github.com/facebook/create-react-app",
+  "date": "2018-09-26T18:00:59",
+  "languages": {
+    "JavaScript": 3014433,
+    "Shell": 34836,
+    "AppleScript": 2214,
+    "HTML": 1887,
+    "CSS": 1279,
+    "SCSS": 491,
+    "Sass": 200
+  },
+  "size": 3055340
+}

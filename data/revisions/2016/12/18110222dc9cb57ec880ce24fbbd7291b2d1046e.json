@@ -1,0 +1,11 @@
+{
+  "commit": "18110222dc9cb57ec880ce24fbbd7291b2d1046e",
+  "repo_url": "https://github.com/docopt/docopt.cpp",
+  "date": "2016-12-02T19:12:44",
+  "languages": {
+    "C++": 51679,
+    "CMake": 6399,
+    "Python": 1555
+  },
+  "size": 59633
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "f9e9167a29157c9b8967f1a0f0a716f26608616c",
+  "repo_url": "https://github.com/stmicroelectronics/x-cube-azrtos-g4",
+  "date": "2021-11-25T16:59:52",
+  "languages": {
+    "C": 83852630,
+    "Assembly": 6963992,
+    "Batchfile": 926490,
+    "PowerShell": 356603,
+    "CMake": 271064,
+    "CSS": 211312,
+    "HTML": 169861,
+    "C++": 42559,
+    "Makefile": 15787,
+    "JavaScript": 8137,
+    "Python": 2009
+  },
+  "size": 92820444
+}

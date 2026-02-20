@@ -1,0 +1,16 @@
+{
+  "commit": "072d07dc489b037c499d0b9e0c23a9e1231ab134",
+  "repo_url": "https://github.com/farm-fe/farm",
+  "date": "2025-05-11T12:47:18",
+  "languages": {
+    "Rust": 1690949,
+    "TypeScript": 649862,
+    "JavaScript": 77093,
+    "Vue": 49232,
+    "CSS": 41128,
+    "HTML": 13228,
+    "Svelte": 6534,
+    "Shell": 77
+  },
+  "size": 2528103
+}

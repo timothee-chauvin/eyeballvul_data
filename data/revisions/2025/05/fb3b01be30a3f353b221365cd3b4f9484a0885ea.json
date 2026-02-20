@@ -1,0 +1,15 @@
+{
+  "commit": "fb3b01be30a3f353b221365cd3b4f9484a0885ea",
+  "repo_url": "https://github.com/stefanprodan/podinfo",
+  "date": "2025-05-15T09:33:58",
+  "languages": {
+    "Go": 131282,
+    "CUE": 16975,
+    "HTML": 5456,
+    "Makefile": 4466,
+    "Shell": 2840,
+    "Smarty": 2209,
+    "Dockerfile": 841
+  },
+  "size": 164069
+}

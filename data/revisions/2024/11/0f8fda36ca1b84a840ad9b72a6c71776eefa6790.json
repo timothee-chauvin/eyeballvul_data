@@ -1,0 +1,17 @@
+{
+  "commit": "0f8fda36ca1b84a840ad9b72a6c71776eefa6790",
+  "repo_url": "https://github.com/ros-planning/navigation2",
+  "date": "2024-11-08T22:30:36",
+  "languages": {
+    "C++": 4178462,
+    "Python": 458738,
+    "CMake": 137131,
+    "C": 58572,
+    "CSS": 27703,
+    "Dockerfile": 16496,
+    "Shell": 10325,
+    "Jupyter Notebook": 5219,
+    "HTML": 1090
+  },
+  "size": 4893736
+}

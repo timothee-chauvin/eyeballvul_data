@@ -1,0 +1,20 @@
+{
+  "commit": "6d3ea6801c8b35a3b1ee62cc938116fbcaf8a8a0",
+  "repo_url": "https://github.com/expressionengine/expressionengine",
+  "date": "2025-08-06T15:11:53",
+  "languages": {
+    "PHP": 15060010,
+    "JavaScript": 3156915,
+    "SCSS": 449692,
+    "HTML": 254085,
+    "Less": 166213,
+    "CSS": 165874,
+    "Vue": 50512,
+    "Hack": 33978,
+    "TypeScript": 32554,
+    "Ruby": 9102,
+    "Shell": 3004,
+    "Dockerfile": 72
+  },
+  "size": 19382011
+}

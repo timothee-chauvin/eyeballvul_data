@@ -1,0 +1,14 @@
+{
+  "commit": "1ad417f91f0d0f6ad4f6aa23f54861744bfd1278",
+  "repo_url": "https://github.com/electron-userland/electron-builder",
+  "date": "2016-09-19T10:05:51",
+  "languages": {
+    "TypeScript": 345216,
+    "NSIS": 30600,
+    "Shell": 9625,
+    "Dockerfile": 6594,
+    "JavaScript": 4412,
+    "Smarty": 112
+  },
+  "size": 396559
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "4539d62e1c5d6389da53c1c788518ea2b8c5f0dc",
+  "repo_url": "https://github.com/qt/qtsvg",
+  "date": "2020-11-13T11:59:06",
+  "languages": {
+    "C++": 518207,
+    "CMake": 9256,
+    "C": 6895,
+    "QMake": 4047,
+    "Prolog": 15
+  },
+  "size": 538420
+}

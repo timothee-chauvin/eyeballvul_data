@@ -1,0 +1,11 @@
+{
+  "commit": "b6643a29fecd7f34b3597bc6acb0a98b03d33ff8",
+  "repo_url": "https://github.com/aquasecurity/trivy-action",
+  "date": "2025-08-29T08:43:29",
+  "languages": {
+    "Shell": 9163,
+    "HCL": 1235,
+    "Makefile": 953
+  },
+  "size": 11351
+}

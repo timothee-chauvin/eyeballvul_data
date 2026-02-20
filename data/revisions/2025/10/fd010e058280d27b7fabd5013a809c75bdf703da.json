@@ -1,0 +1,14 @@
+{
+  "commit": "fd010e058280d27b7fabd5013a809c75bdf703da",
+  "repo_url": "https://github.com/amidaware/tacticalrmm",
+  "date": "2025-10-15T15:55:58",
+  "languages": {
+    "Python": 2247023,
+    "Shell": 142572,
+    "Go": 6355,
+    "Jinja": 4287,
+    "PowerShell": 2409,
+    "Dockerfile": 1020
+  },
+  "size": 2403666
+}

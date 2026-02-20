@@ -1,0 +1,16 @@
+{
+  "commit": "628bfb0803af868e84980c01ebebaa062e5d43ad",
+  "repo_url": "https://github.com/fatfreecrm/fat_free_crm",
+  "date": "2018-01-20T03:51:11",
+  "languages": {
+    "Ruby": 1169973,
+    "Haml": 206049,
+    "CoffeeScript": 38239,
+    "SCSS": 33955,
+    "HTML": 3635,
+    "JavaScript": 1306,
+    "Dockerfile": 629,
+    "Procfile": 57
+  },
+  "size": 1453843
+}

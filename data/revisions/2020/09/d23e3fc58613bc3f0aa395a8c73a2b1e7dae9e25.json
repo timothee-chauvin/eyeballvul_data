@@ -1,0 +1,19 @@
+{
+  "commit": "d23e3fc58613bc3f0aa395a8c73a2b1e7dae9e25",
+  "repo_url": "https://github.com/mozilla/mozjpeg",
+  "date": "2020-09-29T10:41:33",
+  "languages": {
+    "C": 2713456,
+    "Assembly": 1763043,
+    "HTML": 453498,
+    "Java": 226041,
+    "CMake": 106427,
+    "Shell": 58392,
+    "Roff": 37682,
+    "CSS": 11165,
+    "Ruby": 5547,
+    "Rich Text Format": 4878,
+    "JavaScript": 827
+  },
+  "size": 5380956
+}

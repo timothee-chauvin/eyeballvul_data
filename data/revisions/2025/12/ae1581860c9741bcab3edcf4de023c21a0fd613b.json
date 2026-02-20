@@ -1,0 +1,16 @@
+{
+  "commit": "ae1581860c9741bcab3edcf4de023c21a0fd613b",
+  "repo_url": "https://github.com/strongswan/strongman",
+  "date": "2025-12-01T13:05:07",
+  "languages": {
+    "Python": 371112,
+    "HTML": 188848,
+    "SCSS": 87012,
+    "Less": 72529,
+    "JavaScript": 50652,
+    "Dockerfile": 2043,
+    "CSS": 946,
+    "Procfile": 43
+  },
+  "size": 773185
+}

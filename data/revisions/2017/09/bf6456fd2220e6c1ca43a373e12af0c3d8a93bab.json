@@ -1,0 +1,11 @@
+{
+  "commit": "bf6456fd2220e6c1ca43a373e12af0c3d8a93bab",
+  "repo_url": "https://github.com/canonical/cloud-init",
+  "date": "2017-09-21T18:59:07",
+  "languages": {
+    "Python": 2363891,
+    "Shell": 125046,
+    "Makefile": 2643
+  },
+  "size": 2491580
+}

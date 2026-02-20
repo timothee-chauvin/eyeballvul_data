@@ -1,0 +1,20 @@
+{
+  "commit": "f37e9848e3983156f23e63d0c7aa43080765865c",
+  "repo_url": "https://github.com/monkey/monkey",
+  "date": "2025-09-10T19:39:58",
+  "languages": {
+    "C": 3243600,
+    "CMake": 116106,
+    "C++": 61302,
+    "Python": 58994,
+    "Roff": 46658,
+    "JavaScript": 40203,
+    "M4": 37933,
+    "Makefile": 23864,
+    "Shell": 16756,
+    "HTML": 9020,
+    "CSS": 8783,
+    "sed": 588
+  },
+  "size": 3663807
+}

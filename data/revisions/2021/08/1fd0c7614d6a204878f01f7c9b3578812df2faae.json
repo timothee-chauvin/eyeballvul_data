@@ -1,0 +1,16 @@
+{
+  "commit": "1fd0c7614d6a204878f01f7c9b3578812df2faae",
+  "repo_url": "https://github.com/bestpractical/rt",
+  "date": "2021-08-11T22:06:26",
+  "languages": {
+    "Perl": 4089576,
+    "HTML": 643027,
+    "CSS": 166830,
+    "JavaScript": 63910,
+    "Shell": 22302,
+    "Makefile": 21448,
+    "M4": 16681,
+    "Roff": 1974
+  },
+  "size": 5025748
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "da87e16321a30a2e8c26b952df230aeadd6843d7",
+  "repo_url": "https://github.com/fluxcd/flux2",
+  "date": "2021-10-13T12:04:51",
+  "languages": {
+    "Go": 628059,
+    "HCL": 13962,
+    "Shell": 7502,
+    "Makefile": 2553,
+    "Dockerfile": 776
+  },
+  "size": 652852
+}

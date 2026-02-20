@@ -1,0 +1,18 @@
+{
+  "commit": "3dd624a69b1757279c0d04a3866d47facbb56771",
+  "repo_url": "https://github.com/ocaml/opam",
+  "date": "2022-12-12T22:16:19",
+  "languages": {
+    "OCaml": 2208440,
+    "Shell": 93592,
+    "C": 30960,
+    "M4": 30172,
+    "Makefile": 21834,
+    "C++": 20546,
+    "Batchfile": 9940,
+    "Roff": 376,
+    "sed": 49,
+    "Common Lisp": 35
+  },
+  "size": 2415944
+}

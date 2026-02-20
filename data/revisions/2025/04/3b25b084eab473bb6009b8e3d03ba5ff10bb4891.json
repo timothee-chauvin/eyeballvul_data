@@ -1,0 +1,14 @@
+{
+  "commit": "3b25b084eab473bb6009b8e3d03ba5ff10bb4891",
+  "repo_url": "https://github.com/xlnt-community/xlnt",
+  "date": "2025-04-14T21:59:52",
+  "languages": {
+    "C++": 1955952,
+    "CMake": 61431,
+    "C": 15727,
+    "Python": 11982,
+    "Dockerfile": 2306,
+    "Shell": 1438
+  },
+  "size": 2048836
+}

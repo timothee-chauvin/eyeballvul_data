@@ -1,0 +1,22 @@
+{
+  "commit": "140320b0dbe0bdd9fd954b6633a3677acc75a8e6",
+  "repo_url": "https://github.com/ton-blockchain/ton",
+  "date": "2024-08-09T08:00:41",
+  "languages": {
+    "C++": 11366206,
+    "CMake": 207363,
+    "Shell": 41936,
+    "Java": 27270,
+    "Python": 26857,
+    "PHP": 22694,
+    "C": 19397,
+    "Nix": 17882,
+    "Batchfile": 13976,
+    "Groovy": 10279,
+    "JavaScript": 5367,
+    "Kotlin": 3704,
+    "Dockerfile": 1903,
+    "GLSL": 1299
+  },
+  "size": 11766133
+}

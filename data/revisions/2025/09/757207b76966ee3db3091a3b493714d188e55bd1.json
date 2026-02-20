@@ -1,0 +1,13 @@
+{
+  "commit": "757207b76966ee3db3091a3b493714d188e55bd1",
+  "repo_url": "https://github.com/svenstaro/miniserve",
+  "date": "2025-09-17T00:45:04",
+  "languages": {
+    "Rust": 260314,
+    "SCSS": 22176,
+    "Makefile": 854,
+    "Shell": 326,
+    "Dockerfile": 88
+  },
+  "size": 283758
+}

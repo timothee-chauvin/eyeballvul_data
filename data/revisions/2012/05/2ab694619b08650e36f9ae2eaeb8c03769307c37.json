@@ -1,0 +1,11 @@
+{
+  "commit": "2ab694619b08650e36f9ae2eaeb8c03769307c37",
+  "repo_url": "https://github.com/puppetlabs/puppetlabs-apache",
+  "date": "2012-05-08T16:19:52",
+  "languages": {
+    "Puppet": 9839,
+    "Ruby": 9248,
+    "HTML": 2530
+  },
+  "size": 21617
+}

@@ -1,0 +1,28 @@
+{
+  "commit": "c0c4b088e9f2b19777913058586f73f22e931831",
+  "repo_url": "https://github.com/irods/irods",
+  "date": "2015-05-29T21:18:56",
+  "languages": {
+    "C++": 8078318,
+    "Python": 644697,
+    "C": 482292,
+    "Perl": 399742,
+    "Shell": 217212,
+    "R": 167771,
+    "Raku": 84770,
+    "Makefile": 76136,
+    "HTML": 27723,
+    "Pascal": 20991,
+    "Yacc": 17441,
+    "Prolog": 15035,
+    "Fortran": 6804,
+    "Ruby": 5914,
+    "JavaScript": 5231,
+    "CSS": 3246,
+    "PLSQL": 3241,
+    "Lex": 3088,
+    "Rez": 2058,
+    "PLpgSQL": 804
+  },
+  "size": 10262514
+}

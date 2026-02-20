@@ -1,0 +1,15 @@
+{
+  "commit": "491193ce1fcff6dcaf2518cf054298700e077112",
+  "repo_url": "https://github.com/ngtcp2/ngtcp2",
+  "date": "2024-11-19T10:35:44",
+  "languages": {
+    "C": 2329624,
+    "CMake": 60354,
+    "M4": 52402,
+    "C++": 26414,
+    "Makefile": 21773,
+    "Shell": 8563,
+    "Dockerfile": 5596
+  },
+  "size": 2504726
+}

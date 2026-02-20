@@ -1,0 +1,17 @@
+{
+  "commit": "90de033a4e7e815ee661b375bfd461c50c9904b5",
+  "repo_url": "https://github.com/worklenz/worklenz",
+  "date": "2025-09-25T04:43:18",
+  "languages": {
+    "TypeScript": 5592873,
+    "JavaScript": 3931315,
+    "CSS": 742547,
+    "PLpgSQL": 540351,
+    "HTML": 118221,
+    "Pug": 114809,
+    "Shell": 14320,
+    "Batchfile": 6676,
+    "Dockerfile": 2327
+  },
+  "size": 11063439
+}
