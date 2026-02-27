@@ -1,0 +1,14 @@
+{
+  "commit": "e8687f6f8255a978a8200b19c7a28581397ad455",
+  "repo_url": "https://github.com/matrix-org/dendrite",
+  "date": "2022-09-09T14:01:13",
+  "languages": {
+    "Go": 3731145,
+    "Shell": 10852,
+    "Dockerfile": 10190,
+    "Python": 9860,
+    "JavaScript": 1799,
+    "Batchfile": 1233
+  },
+  "size": 3765079
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "847555d4ca14faad81be3ec08056a868c03785e8",
+  "repo_url": "https://github.com/foswiki/distro",
+  "date": "2025-12-18T13:05:27",
+  "languages": {
+    "Perl": 9324763,
+    "JavaScript": 3173538,
+    "HTML": 1594780,
+    "CSS": 967735,
+    "Ruby": 187005,
+    "Shell": 50812,
+    "XSLT": 34535,
+    "Makefile": 28736,
+    "PHP": 7769,
+    "Rich Text Format": 3140,
+    "Batchfile": 22
+  },
+  "size": 15372835
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "56dd58a67631eafa9aeddbcf14df26bf0b83f926",
+  "repo_url": "https://github.com/ntpsec/gpsd",
+  "date": "2025-11-22T02:48:51",
+  "languages": {
+    "C": 3663051,
+    "Python": 1019170,
+    "HTML": 153367,
+    "C++": 43745,
+    "Shell": 35961,
+    "PHP": 12046,
+    "Go": 5371,
+    "Perl": 3370,
+    "CSS": 2866,
+    "JavaScript": 1045,
+    "Vim Script": 97
+  },
+  "size": 4940089
+}

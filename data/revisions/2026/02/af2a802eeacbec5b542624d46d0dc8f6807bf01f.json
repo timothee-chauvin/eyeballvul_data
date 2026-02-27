@@ -1,0 +1,15 @@
+{
+  "commit": "af2a802eeacbec5b542624d46d0dc8f6807bf01f",
+  "repo_url": "https://github.com/oocx/tfplan2md",
+  "date": "2026-02-21T14:11:00",
+  "languages": {
+    "C#": 2716039,
+    "HTML": 2096007,
+    "CSS": 174173,
+    "Shell": 174100,
+    "Python": 37761,
+    "JavaScript": 5604,
+    "Dockerfile": 1343
+  },
+  "size": 5205027
+}

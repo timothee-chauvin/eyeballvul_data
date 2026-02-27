@@ -1,0 +1,15 @@
+{
+  "commit": "2996254c5e7af3d6effcfef00859ecd2392f8d2f",
+  "repo_url": "https://github.com/jmpsec/osctrl",
+  "date": "2025-12-24T08:14:50",
+  "languages": {
+    "Go": 1040865,
+    "HTML": 339767,
+    "Shell": 68929,
+    "Python": 39729,
+    "JavaScript": 34539,
+    "Makefile": 7780,
+    "CSS": 4544
+  },
+  "size": 1536153
+}

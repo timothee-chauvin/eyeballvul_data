@@ -1,0 +1,11 @@
+{
+  "commit": "eb01ad68b75bb3b34ff8657c37ad6a31faae0fc3",
+  "repo_url": "https://github.com/niklasso/minisat",
+  "date": "2010-07-10T16:07:36",
+  "languages": {
+    "C++": 178574,
+    "Makefile": 3551,
+    "C": 1763
+  },
+  "size": 183888
+}

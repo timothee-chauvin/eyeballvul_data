@@ -1,0 +1,14 @@
+{
+  "commit": "6c1fb158e08c210b1f41dd5fc0417a0abf36ca55",
+  "repo_url": "https://github.com/fascinatedbox/lily",
+  "date": "2026-01-10T09:59:16",
+  "languages": {
+    "C": 1079071,
+    "C++": 12989,
+    "CMake": 7750,
+    "Lua": 7277,
+    "Python": 7146,
+    "Ruby": 6778
+  },
+  "size": 1121011
+}

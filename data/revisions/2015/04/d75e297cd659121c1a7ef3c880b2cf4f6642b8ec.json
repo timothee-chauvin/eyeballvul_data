@@ -1,0 +1,14 @@
+{
+  "commit": "d75e297cd659121c1a7ef3c880b2cf4f6642b8ec",
+  "repo_url": "https://github.com/npm/npm",
+  "date": "2015-04-13T02:34:05",
+  "languages": {
+    "JavaScript": 671385,
+    "Shell": 19732,
+    "Makefile": 7376,
+    "CSS": 5635,
+    "HTML": 5115,
+    "Batchfile": 507
+  },
+  "size": 709750
+}

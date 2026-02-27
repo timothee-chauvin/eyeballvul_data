@@ -1,0 +1,30 @@
+{
+  "commit": "9fd2f65f91d9246fae2c841a6222d34d121680ee",
+  "repo_url": "https://github.com/ceph/ceph",
+  "date": "2020-04-08T17:51:49",
+  "languages": {
+    "C++": 35478648,
+    "Python": 5929906,
+    "Raku": 4171859,
+    "C": 3617032,
+    "TypeScript": 2009289,
+    "Shell": 1799801,
+    "CMake": 541249,
+    "Cython": 450536,
+    "Perl": 427686,
+    "HTML": 415502,
+    "JavaScript": 135369,
+    "Java": 83810,
+    "Assembly": 68343,
+    "SCSS": 40436,
+    "Roff": 26436,
+    "Terra": 2127,
+    "DIGITAL Command Language": 2074,
+    "CSS": 1738,
+    "Lua": 1304,
+    "Makefile": 1008,
+    "SWIG": 951,
+    "Dockerfile": 465
+  },
+  "size": 55205569
+}

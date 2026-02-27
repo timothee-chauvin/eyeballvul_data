@@ -1,0 +1,16 @@
+{
+  "commit": "4c8b2c752ecc7a24a9ea35b0c30e2498fa4cfe82",
+  "repo_url": "https://github.com/manyfold3d/manyfold",
+  "date": "2026-02-09T17:38:28",
+  "languages": {
+    "Ruby": 1037855,
+    "HTML": 215988,
+    "JavaScript": 36387,
+    "TypeScript": 35191,
+    "SCSS": 11397,
+    "Dockerfile": 4041,
+    "Shell": 903,
+    "Procfile": 189
+  },
+  "size": 1341951
+}

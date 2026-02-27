@@ -1,0 +1,17 @@
+{
+  "commit": "33ac968cdf8b885068b1ce11111ca4d8eec06311",
+  "repo_url": "https://github.com/livecode/livecode",
+  "date": "2013-06-12T15:18:39",
+  "languages": {
+    "C++": 10405830,
+    "Objective-C++": 860345,
+    "C": 449377,
+    "Java": 371246,
+    "Objective-C": 124006,
+    "Makefile": 22411,
+    "Shell": 5289,
+    "Rez": 1525,
+    "AIDL": 848
+  },
+  "size": 12240877
+}

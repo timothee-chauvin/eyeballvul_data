@@ -1,0 +1,13 @@
+{
+  "commit": "9f71f86fd92a2fed8edebc3524d49a37caa6cdc8",
+  "repo_url": "https://github.com/django-cms/django-cms",
+  "date": "2019-01-14T13:41:01",
+  "languages": {
+    "Python": 2353497,
+    "JavaScript": 1237035,
+    "HTML": 201228,
+    "SCSS": 132990,
+    "Shell": 447
+  },
+  "size": 3925197
+}

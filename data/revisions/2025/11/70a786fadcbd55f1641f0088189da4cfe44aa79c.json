@@ -1,0 +1,14 @@
+{
+  "commit": "70a786fadcbd55f1641f0088189da4cfe44aa79c",
+  "repo_url": "http://github.com/evershopcommerce/evershop",
+  "date": "2025-11-11T09:22:28",
+  "languages": {
+    "TypeScript": 1858247,
+    "JavaScript": 1424035,
+    "SCSS": 95545,
+    "HTML": 26064,
+    "Dockerfile": 321,
+    "Shell": 80
+  },
+  "size": 3404292
+}

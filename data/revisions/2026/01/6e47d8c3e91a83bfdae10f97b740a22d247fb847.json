@@ -1,0 +1,17 @@
+{
+  "commit": "6e47d8c3e91a83bfdae10f97b740a22d247fb847",
+  "repo_url": "https://github.com/h44z/wg-portal",
+  "date": "2026-01-29T21:39:33",
+  "languages": {
+    "Go": 842065,
+    "Vue": 182086,
+    "JavaScript": 62157,
+    "Smarty": 14848,
+    "Makefile": 4803,
+    "CSS": 2308,
+    "Dockerfile": 1984,
+    "HTML": 1263,
+    "SCSS": 503
+  },
+  "size": 1112017
+}

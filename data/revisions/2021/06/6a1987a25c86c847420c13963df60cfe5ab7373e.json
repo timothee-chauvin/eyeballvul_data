@@ -1,0 +1,10 @@
+{
+  "commit": "6a1987a25c86c847420c13963df60cfe5ab7373e",
+  "repo_url": "https://github.com/opensearch-project/opensearch-cli",
+  "date": "2021-06-29T00:09:06",
+  "languages": {
+    "Go": 349293,
+    "Makefile": 1030
+  },
+  "size": 350323
+}

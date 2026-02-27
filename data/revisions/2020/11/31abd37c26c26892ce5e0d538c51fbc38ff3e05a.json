@@ -1,0 +1,12 @@
+{
+  "commit": "31abd37c26c26892ce5e0d538c51fbc38ff3e05a",
+  "repo_url": "https://github.com/duncaen/opendoas",
+  "date": "2020-11-14T15:44:04",
+  "languages": {
+    "C": 94565,
+    "Roff": 7423,
+    "Yacc": 6840,
+    "Makefile": 1148
+  },
+  "size": 109976
+}

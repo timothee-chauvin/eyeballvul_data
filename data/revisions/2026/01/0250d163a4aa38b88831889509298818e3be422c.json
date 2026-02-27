@@ -1,0 +1,15 @@
+{
+  "commit": "0250d163a4aa38b88831889509298818e3be422c",
+  "repo_url": "https://github.com/karakeep-app/karakeep",
+  "date": "2026-01-02T22:35:27",
+  "languages": {
+    "TypeScript": 2796498,
+    "Shell": 20277,
+    "JavaScript": 12466,
+    "Dockerfile": 6145,
+    "CSS": 3592,
+    "HTML": 2646,
+    "Makefile": 491
+  },
+  "size": 2842115
+}

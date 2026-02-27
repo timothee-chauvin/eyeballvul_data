@@ -1,0 +1,11 @@
+{
+  "commit": "0935b486093df6cd110c076481645c527e743946",
+  "repo_url": "https://github.com/dankogai/p5-encode",
+  "date": "2021-07-23T02:29:27",
+  "languages": {
+    "Perl": 427586,
+    "C": 54177,
+    "XS": 45603
+  },
+  "size": 527366
+}

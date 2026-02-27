@@ -1,0 +1,10 @@
+{
+  "commit": "403b6fc5d528e2342163b24dd0da969ecbdee114",
+  "repo_url": "https://github.com/cpan-authors/crypt-nacl-sodium",
+  "date": "2026-02-12T23:19:49",
+  "languages": {
+    "Perl": 322528,
+    "XS": 147107
+  },
+  "size": 469635
+}

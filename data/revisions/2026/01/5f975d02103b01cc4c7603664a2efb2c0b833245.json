@@ -1,0 +1,26 @@
+{
+  "commit": "5f975d02103b01cc4c7603664a2efb2c0b833245",
+  "repo_url": "https://github.com/acryldata/datahub",
+  "date": "2026-01-28T19:03:27",
+  "languages": {
+    "Java": 23693222,
+    "Python": 18798802,
+    "TypeScript": 14920527,
+    "JavaScript": 592185,
+    "Shell": 120863,
+    "Dockerfile": 70420,
+    "Mustache": 70196,
+    "SCSS": 42979,
+    "LookML": 36806,
+    "Less": 25851,
+    "CSS": 13524,
+    "MDX": 13034,
+    "PLpgSQL": 8055,
+    "TSQL": 5594,
+    "Scala": 5152,
+    "HTML": 4928,
+    "Cypher": 1964,
+    "Makefile": 1306
+  },
+  "size": 58425408
+}

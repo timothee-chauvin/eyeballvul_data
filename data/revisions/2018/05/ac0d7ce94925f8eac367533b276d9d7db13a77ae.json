@@ -1,0 +1,16 @@
+{
+  "commit": "ac0d7ce94925f8eac367533b276d9d7db13a77ae",
+  "repo_url": "https://github.com/chaiscript/chaiscript",
+  "date": "2018-05-29T15:26:59",
+  "languages": {
+    "C++": 1204594,
+    "CMake": 38642,
+    "Shell": 5722,
+    "PHP": 4425,
+    "Ruby": 708,
+    "NASL": 323,
+    "Starlark": 221,
+    "BitBake": 133
+  },
+  "size": 1254768
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "9fae84b5929517c7187f00b84037d3ac1865e930",
+  "repo_url": "https://github.com/morelitea/initiative",
+  "date": "2026-02-24T05:27:07",
+  "languages": {
+    "TypeScript": 3610344,
+    "Python": 1444311,
+    "PLpgSQL": 108474,
+    "Shell": 31423,
+    "Java": 19280,
+    "CSS": 12561,
+    "JavaScript": 6048,
+    "Swift": 4023,
+    "Dockerfile": 934,
+    "HTML": 910,
+    "Mako": 375
+  },
+  "size": 5238683
+}

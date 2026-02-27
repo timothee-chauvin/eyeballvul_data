@@ -1,0 +1,23 @@
+{
+  "commit": "9a9d2eb81be619ca65e5e57316924fcac10dc0ce",
+  "repo_url": "https://github.com/motioneye-project/motioneyeos",
+  "date": "2020-02-03T21:58:31",
+  "languages": {
+    "Makefile": 3232985,
+    "Python": 498781,
+    "Shell": 428098,
+    "C": 426739,
+    "C++": 52788,
+    "BitBake": 47615,
+    "Perl": 46723,
+    "Yacc": 16797,
+    "Lua": 11274,
+    "Lex": 6706,
+    "CMake": 3839,
+    "M4": 3274,
+    "Batchfile": 2824,
+    "Arc": 1843,
+    "Dockerfile": 1818
+  },
+  "size": 4782104
+}

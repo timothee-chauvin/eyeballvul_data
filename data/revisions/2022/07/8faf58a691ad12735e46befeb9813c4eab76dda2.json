@@ -1,0 +1,21 @@
+{
+  "commit": "8faf58a691ad12735e46befeb9813c4eab76dda2",
+  "repo_url": "https://github.com/midnightbsd/src",
+  "date": "2022-07-25T14:51:39",
+  "languages": {
+    "C++": 155364159,
+    "C": 6916405,
+    "Assembly": 503329,
+    "Roff": 21975,
+    "Pawn": 15211,
+    "Python": 13021,
+    "Shell": 7596,
+    "CSS": 6182,
+    "M4": 5918,
+    "Batchfile": 5090,
+    "CMake": 3446,
+    "SWIG": 3171,
+    "HTML": 569
+  },
+  "size": 162866072
+}

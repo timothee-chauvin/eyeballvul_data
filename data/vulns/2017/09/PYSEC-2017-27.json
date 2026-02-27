@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-27",
+  "published": "2017-09-14T13:29:00",
+  "modified": "2026-02-22T22:49:25.177235",
+  "details": "python-fedora 0.8.0 and lower is vulnerable to an open redirect resulting in loss of CSRF protection",
+  "repo_url": "https://github.com/fedora-infra/python-fedora",
+  "cwes": [],
+  "commits": [
+    "52f95946aeab0c9e85677d93db9fcbc991d68dac"
+  ]
+}

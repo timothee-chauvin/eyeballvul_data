@@ -1,0 +1,14 @@
+{
+  "commit": "9cd70120e8cdcf27800ad81cd1f2afff539c3452",
+  "repo_url": "https://github.com/getformwork/formwork",
+  "date": "2025-11-15T10:19:12",
+  "languages": {
+    "PHP": 1164271,
+    "TypeScript": 217779,
+    "SCSS": 84571,
+    "CSS": 8967,
+    "JavaScript": 3926,
+    "Hack": 23
+  },
+  "size": 1479537
+}

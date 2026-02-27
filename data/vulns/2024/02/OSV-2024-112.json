@@ -1,7 +1,7 @@
 {
   "id": "OSV-2024-112",
   "published": "2024-02-16T00:05:47.896843",
-  "modified": "2026-02-19T14:14:19.203869",
+  "modified": "2026-02-26T14:16:33.538622",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=66719\n\n```\nCrash type: Stack-overflow\nCrash state:\nboost::read_graphviz_detail::parser::parse_subgraph\nboost::read_graphviz_detail::parser::parse_endpoint_rest\nboost::read_graphviz_detail::parser::parse_stmt\n```\n",
   "summary": "Stack-overflow in boost::read_graphviz_detail::parser::parse_subgraph",
   "repo_url": "https://github.com/boostorg/boost.git",

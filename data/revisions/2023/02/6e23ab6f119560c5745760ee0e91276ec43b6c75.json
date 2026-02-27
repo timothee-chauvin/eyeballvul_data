@@ -1,0 +1,15 @@
+{
+  "commit": "6e23ab6f119560c5745760ee0e91276ec43b6c75",
+  "repo_url": "https://github.com/isso-comments/isso",
+  "date": "2023-02-05T18:43:42",
+  "languages": {
+    "Python": 223759,
+    "JavaScript": 135728,
+    "CSS": 10278,
+    "HTML": 8688,
+    "Makefile": 4846,
+    "Shell": 3156,
+    "Dockerfile": 2875
+  },
+  "size": 389330
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "0c357cc88a00bda03aa4a982fc227a5872707df2",
+  "repo_url": "https://github.com/openldap/openldap",
+  "date": "2019-07-19T16:41:12",
+  "languages": {
+    "C": 427755,
+    "Roff": 7817,
+    "Makefile": 3330
+  },
+  "size": 438902
+}

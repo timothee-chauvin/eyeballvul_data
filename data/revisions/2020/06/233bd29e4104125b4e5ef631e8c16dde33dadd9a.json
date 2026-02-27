@@ -1,0 +1,14 @@
+{
+  "commit": "233bd29e4104125b4e5ef631e8c16dde33dadd9a",
+  "repo_url": "https://github.com/icinga/icingaweb2",
+  "date": "2020-06-29T08:28:41",
+  "languages": {
+    "PHP": 3591510,
+    "HTML": 446408,
+    "JavaScript": 217074,
+    "Less": 147447,
+    "Puppet": 26213,
+    "Shell": 4462
+  },
+  "size": 4433114
+}

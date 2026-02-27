@@ -1,0 +1,10 @@
+{
+  "commit": "0262d2830ab6d0928442c9eda19a015dec114bfc",
+  "repo_url": "https://github.com/linode/terraform-provider-linode",
+  "date": "2026-01-16T15:09:51",
+  "languages": {
+    "Go": 3384231,
+    "Makefile": 3895
+  },
+  "size": 3388126
+}

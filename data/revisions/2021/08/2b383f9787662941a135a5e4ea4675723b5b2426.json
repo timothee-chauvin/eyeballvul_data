@@ -1,0 +1,13 @@
+{
+  "commit": "2b383f9787662941a135a5e4ea4675723b5b2426",
+  "repo_url": "https://github.com/apostrophecms/apostrophe",
+  "date": "2021-08-30T16:09:54",
+  "languages": {
+    "JavaScript": 1448311,
+    "Vue": 539121,
+    "HTML": 23705,
+    "SCSS": 20573,
+    "Shell": 344
+  },
+  "size": 2032054
+}

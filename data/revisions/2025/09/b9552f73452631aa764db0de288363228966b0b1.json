@@ -1,0 +1,15 @@
+{
+  "commit": "b9552f73452631aa764db0de288363228966b0b1",
+  "repo_url": "https://github.com/isaac-sim/isaac-launchable",
+  "date": "2025-09-09T00:32:02",
+  "languages": {
+    "TypeScript": 237318,
+    "CSS": 22116,
+    "Dockerfile": 7462,
+    "Shell": 6644,
+    "HTML": 3561,
+    "JavaScript": 1593,
+    "Just": 1188
+  },
+  "size": 279882
+}

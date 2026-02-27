@@ -1,0 +1,10 @@
+{
+  "commit": "242fead1acda6d84597b048caeafb90fe79769be",
+  "repo_url": "https://github.com/openstack/python-muranoclient.git",
+  "date": "2019-12-20T10:09:01",
+  "languages": {
+    "Python": 589583,
+    "Shell": 16019
+  },
+  "size": 605602
+}

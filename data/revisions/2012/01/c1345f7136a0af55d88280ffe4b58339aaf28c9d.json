@@ -1,0 +1,21 @@
+{
+  "commit": "c1345f7136a0af55d88280ffe4b58339aaf28c9d",
+  "repo_url": "https://github.com/ceph/ceph",
+  "date": "2012-01-27T20:35:42",
+  "languages": {
+    "C++": 7820946,
+    "C": 456896,
+    "Python": 420160,
+    "Shell": 191074,
+    "Perl": 128964,
+    "Java": 68694,
+    "Makefile": 66866,
+    "M4": 46371,
+    "Roff": 26436,
+    "CMake": 14649,
+    "HTML": 4399,
+    "Raku": 1151,
+    "SWIG": 951
+  },
+  "size": 9247557
+}

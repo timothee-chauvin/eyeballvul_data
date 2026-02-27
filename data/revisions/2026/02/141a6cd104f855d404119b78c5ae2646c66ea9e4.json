@@ -1,0 +1,19 @@
+{
+  "commit": "141a6cd104f855d404119b78c5ae2646c66ea9e4",
+  "repo_url": "https://github.com/akuity/kargo",
+  "date": "2026-02-02T12:44:17",
+  "languages": {
+    "Go": 5501466,
+    "TypeScript": 2604823,
+    "Shell": 96502,
+    "Makefile": 27772,
+    "Less": 11454,
+    "Starlark": 6886,
+    "JavaScript": 6118,
+    "Mustache": 4456,
+    "Dockerfile": 4269,
+    "CSS": 535,
+    "HTML": 365
+  },
+  "size": 8264646
+}

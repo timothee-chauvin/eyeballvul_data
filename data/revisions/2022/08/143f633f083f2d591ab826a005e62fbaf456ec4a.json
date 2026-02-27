@@ -1,0 +1,15 @@
+{
+  "commit": "143f633f083f2d591ab826a005e62fbaf456ec4a",
+  "repo_url": "https://github.com/detronetdip/e-commerce",
+  "date": "2022-08-28T16:13:36",
+  "languages": {
+    "PHP": 749644,
+    "JavaScript": 325275,
+    "SCSS": 227388,
+    "HTML": 22943,
+    "Hack": 20061,
+    "CSS": 18065,
+    "Dockerfile": 167
+  },
+  "size": 1363543
+}

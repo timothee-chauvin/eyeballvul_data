@@ -1,0 +1,17 @@
+{
+  "commit": "dc153c51cdcf77b4f8beba1502ae619f57e4e6ce",
+  "repo_url": "https://github.com/dbarzin/mercator",
+  "date": "2026-02-17T20:49:44",
+  "languages": {
+    "Blade": 3279669,
+    "PHP": 2992260,
+    "HTML": 302900,
+    "TypeScript": 40121,
+    "Shell": 3952,
+    "Dockerfile": 2910,
+    "Python": 2504,
+    "JavaScript": 1382,
+    "Vue": 552
+  },
+  "size": 6626250
+}

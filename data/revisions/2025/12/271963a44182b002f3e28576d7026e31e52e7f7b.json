@@ -1,0 +1,13 @@
+{
+  "commit": "271963a44182b002f3e28576d7026e31e52e7f7b",
+  "repo_url": "https://github.com/fabricjs/fabric.js",
+  "date": "2025-12-31T15:45:39",
+  "languages": {
+    "TypeScript": 2804823,
+    "JavaScript": 521861,
+    "HTML": 1308,
+    "Vue": 851,
+    "CSS": 36
+  },
+  "size": 3328879
+}

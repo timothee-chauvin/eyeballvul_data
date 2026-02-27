@@ -1,0 +1,13 @@
+{
+  "commit": "9b74ebdf1b995a3ce56349880287b35f649d0690",
+  "repo_url": "https://github.com/libfuse/libfuse",
+  "date": "2018-07-11T09:34:38",
+  "languages": {
+    "C": 644703,
+    "Python": 30839,
+    "Meson": 8606,
+    "Shell": 5421,
+    "Emacs Lisp": 733
+  },
+  "size": 690302
+}
