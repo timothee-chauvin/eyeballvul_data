@@ -1,0 +1,19 @@
+{
+  "commit": "5eaf5246f7f73fed0b9ebf2deefdfcc4a7c8cf8b",
+  "repo_url": "https://github.com/withastro/astro",
+  "date": "2025-07-31T18:10:56",
+  "languages": {
+    "TypeScript": 2561564,
+    "JavaScript": 1957770,
+    "Astro": 151586,
+    "CSS": 8334,
+    "Vue": 7948,
+    "MDX": 5836,
+    "Svelte": 5814,
+    "Shell": 943,
+    "Dockerfile": 682,
+    "Roff": 630,
+    "SCSS": 13
+  },
+  "size": 4701120
+}

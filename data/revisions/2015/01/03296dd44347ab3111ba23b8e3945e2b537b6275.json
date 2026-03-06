@@ -1,0 +1,15 @@
+{
+  "commit": "03296dd44347ab3111ba23b8e3945e2b537b6275",
+  "repo_url": "https://github.com/kyz/libmspack",
+  "date": "2015-01-24T13:22:33",
+  "languages": {
+    "C": 1944766,
+    "HTML": 147416,
+    "Perl": 83429,
+    "Makefile": 31452,
+    "Roff": 24635,
+    "M4": 17396,
+    "Shell": 13623
+  },
+  "size": 2262717
+}

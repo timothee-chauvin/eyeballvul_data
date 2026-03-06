@@ -1,0 +1,13 @@
+{
+  "commit": "6550c427e1e9b1e5e4f1c85346f7e319c647a876",
+  "repo_url": "https://github.com/flori/json",
+  "date": "2019-02-21T22:14:13",
+  "languages": {
+    "Java": 134975,
+    "Ruby": 124216,
+    "C": 108752,
+    "Ragel": 56865,
+    "Shell": 287
+  },
+  "size": 425095
+}

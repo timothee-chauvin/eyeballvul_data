@@ -1,0 +1,15 @@
+{
+  "commit": "18507ddb6f5881530ac78ba37b3d0b86c2e7e83f",
+  "repo_url": "https://github.com/crater-invoice/crater",
+  "date": "2022-03-06T07:09:21",
+  "languages": {
+    "PHP": 1609661,
+    "Vue": 1358887,
+    "JavaScript": 273578,
+    "Blade": 117784,
+    "Dockerfile": 1052,
+    "TypeScript": 328,
+    "Shell": 212
+  },
+  "size": 3361502
+}

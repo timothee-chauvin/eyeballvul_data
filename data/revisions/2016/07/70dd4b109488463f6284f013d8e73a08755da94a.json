@@ -1,0 +1,15 @@
+{
+  "commit": "70dd4b109488463f6284f013d8e73a08755da94a",
+  "repo_url": "https://github.com/wireapp/wire-webapp",
+  "date": "2016-07-29T16:56:31",
+  "languages": {
+    "CoffeeScript": 1696827,
+    "HTML": 264612,
+    "Less": 175245,
+    "Python": 43237,
+    "JavaScript": 36956,
+    "CSS": 3847,
+    "Shell": 1982
+  },
+  "size": 2222706
+}

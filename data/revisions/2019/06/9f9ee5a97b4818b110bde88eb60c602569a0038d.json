@@ -1,0 +1,25 @@
+{
+  "commit": "9f9ee5a97b4818b110bde88eb60c602569a0038d",
+  "repo_url": "https://github.com/espressif/esp8266_rtos_sdk",
+  "date": "2019-06-17T05:04:49",
+  "languages": {
+    "C": 20151577,
+    "Python": 817307,
+    "C++": 549783,
+    "Makefile": 203753,
+    "Ruby": 131482,
+    "M4": 121806,
+    "Shell": 115967,
+    "CMake": 112535,
+    "Assembly": 48114,
+    "Perl": 17793,
+    "Yacc": 15875,
+    "Inno Setup": 8632,
+    "Lex": 7270,
+    "Smarty": 5972,
+    "Batchfile": 4915,
+    "HTML": 2589,
+    "VBScript": 294
+  },
+  "size": 22315664
+}

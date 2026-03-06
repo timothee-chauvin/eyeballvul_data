@@ -1,0 +1,20 @@
+{
+  "commit": "6219db6d8416fde3a3b1272e900a76ccdfadec01",
+  "repo_url": "https://github.com/libsixel/libsixel",
+  "date": "2018-07-22T17:26:42",
+  "languages": {
+    "C": 966656,
+    "Shell": 394959,
+    "Makefile": 216018,
+    "Python": 41754,
+    "C++": 39366,
+    "M4": 37934,
+    "Roff": 16767,
+    "Perl": 4810,
+    "XS": 4266,
+    "Ruby": 2172,
+    "PHP": 797,
+    "JavaScript": 198
+  },
+  "size": 1725697
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "7115bd46ff1dcae14455633ae89eb3e1fffc0aec",
+  "repo_url": "https://github.com/syuilo/misskey",
+  "date": "2021-08-24T05:40:22",
+  "languages": {
+    "TypeScript": 1932533,
+    "Vue": 1417721,
+    "JavaScript": 16703,
+    "Pug": 12781,
+    "SCSS": 10082,
+    "CSS": 1286,
+    "HTML": 751,
+    "Dockerfile": 616,
+    "Procfile": 35
+  },
+  "size": 3392508
+}

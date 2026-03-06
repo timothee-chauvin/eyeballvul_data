@@ -1,0 +1,12 @@
+{
+  "commit": "f0f12fd14a98e5b3d1fa694f7bdc2c57fc973ef0",
+  "repo_url": "https://github.com/home-assistant/core",
+  "date": "2023-03-02T20:53:50",
+  "languages": {
+    "Python": 56768614,
+    "Shell": 6461,
+    "Dockerfile": 3639,
+    "PLSQL": 840
+  },
+  "size": 56779554
+}

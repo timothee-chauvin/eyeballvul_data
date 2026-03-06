@@ -1,0 +1,15 @@
+{
+  "commit": "4c80ff94c9bad09537810b4195064ec3608f3a7a",
+  "repo_url": "https://gitlab.com/gitlab-org/build/omnibus-mirror/libtiff",
+  "date": "1999-12-21T21:09:04",
+  "languages": {
+    "C": 1412031,
+    "HTML": 422474,
+    "Makefile": 140000,
+    "C++": 39685,
+    "Shell": 14005,
+    "DIGITAL Command Language": 10483,
+    "Batchfile": 340
+  },
+  "size": 2039018
+}

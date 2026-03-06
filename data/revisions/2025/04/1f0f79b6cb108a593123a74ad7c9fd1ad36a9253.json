@@ -1,0 +1,17 @@
+{
+  "commit": "1f0f79b6cb108a593123a74ad7c9fd1ad36a9253",
+  "repo_url": "https://gitlab.com/hsleisink/hiawatha",
+  "date": "2025-04-09T14:04:02",
+  "languages": {
+    "C": 8440793,
+    "PHP": 51112,
+    "CMake": 32224,
+    "Shell": 22277,
+    "Makefile": 11136,
+    "XSLT": 6322,
+    "Perl": 2488,
+    "HTML": 1627,
+    "Batchfile": 1539
+  },
+  "size": 8569518
+}

@@ -1,0 +1,27 @@
+{
+  "commit": "84eecb017ef92ef36b4df730908828e54aeff85c",
+  "repo_url": "https://github.com/yoctoproject/poky",
+  "date": "2018-10-29T17:38:16",
+  "languages": {
+    "Python": 5566384,
+    "BitBake": 3231336,
+    "Roff": 493973,
+    "Shell": 492699,
+    "HTML": 407837,
+    "C": 336772,
+    "JavaScript": 222914,
+    "CSS": 37071,
+    "Makefile": 21970,
+    "M4": 13572,
+    "Perl": 8604,
+    "Vim Script": 8483,
+    "NASL": 4780,
+    "CMake": 1338,
+    "XSLT": 1224,
+    "sed": 638,
+    "PHP": 290,
+    "Awk": 158,
+    "C++": 32
+  },
+  "size": 10850075
+}

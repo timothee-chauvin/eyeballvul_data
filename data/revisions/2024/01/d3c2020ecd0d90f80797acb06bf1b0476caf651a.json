@@ -1,0 +1,11 @@
+{
+  "commit": "d3c2020ecd0d90f80797acb06bf1b0476caf651a",
+  "repo_url": "https://github.com/quic-go/quic-go",
+  "date": "2024-01-17T03:34:10",
+  "languages": {
+    "Go": 2514560,
+    "Shell": 3386,
+    "Dockerfile": 2018
+  },
+  "size": 2519964
+}

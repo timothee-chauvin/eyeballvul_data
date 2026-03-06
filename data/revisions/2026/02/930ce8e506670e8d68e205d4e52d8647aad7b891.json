@@ -1,0 +1,18 @@
+{
+  "commit": "930ce8e506670e8d68e205d4e52d8647aad7b891",
+  "repo_url": "https://github.com/docker/model-runner",
+  "date": "2026-02-11T09:30:42",
+  "languages": {
+    "Go": 1622930,
+    "Dockerfile": 18327,
+    "Makefile": 18123,
+    "Python": 13887,
+    "Shell": 12873,
+    "C": 2458,
+    "CMake": 2177,
+    "Smarty": 1880,
+    "HCL": 879,
+    "Jinja": 304
+  },
+  "size": 1693838
+}

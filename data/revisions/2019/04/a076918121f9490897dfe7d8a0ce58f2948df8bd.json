@@ -1,0 +1,16 @@
+{
+  "commit": "a076918121f9490897dfe7d8a0ce58f2948df8bd",
+  "repo_url": "https://github.com/osticket/osticket-1.8",
+  "date": "2019-04-24T19:04:24",
+  "languages": {
+    "PHP": 5224983,
+    "JavaScript": 356490,
+    "CSS": 217028,
+    "Less": 15079,
+    "Shell": 4233,
+    "Perl": 1674,
+    "HTML": 882,
+    "Standard ML": 33
+  },
+  "size": 5820402
+}

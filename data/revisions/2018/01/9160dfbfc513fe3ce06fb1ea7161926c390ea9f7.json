@@ -1,0 +1,20 @@
+{
+  "commit": "9160dfbfc513fe3ce06fb1ea7161926c390ea9f7",
+  "repo_url": "https://gitlab.com/libvirt/libvirt",
+  "date": "2018-01-19T10:43:00",
+  "languages": {
+    "C": 25544407,
+    "M4": 235973,
+    "Makefile": 224228,
+    "Perl": 175648,
+    "Shell": 142657,
+    "Python": 105142,
+    "OCaml": 23742,
+    "Augeas": 21132,
+    "Roff": 20895,
+    "DTrace": 5072,
+    "Emacs Lisp": 405,
+    "RPC": 164
+  },
+  "size": 26499465
+}

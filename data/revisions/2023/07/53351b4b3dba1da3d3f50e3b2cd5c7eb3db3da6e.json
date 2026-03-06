@@ -1,0 +1,14 @@
+{
+  "commit": "53351b4b3dba1da3d3f50e3b2cd5c7eb3db3da6e",
+  "repo_url": "https://github.com/exafunction/codeium-chrome",
+  "date": "2023-07-18T18:17:17",
+  "languages": {
+    "TypeScript": 89731,
+    "JavaScript": 2466,
+    "HTML": 1482,
+    "SCSS": 618,
+    "CSS": 316,
+    "Shell": 311
+  },
+  "size": 94924
+}

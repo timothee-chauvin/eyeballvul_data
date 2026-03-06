@@ -1,0 +1,13 @@
+{
+  "commit": "7faba7c05c0de7cc9d972432b11416eccbac7d9c",
+  "repo_url": "https://github.com/nethermindeth/juno",
+  "date": "2024-10-17T14:05:36",
+  "languages": {
+    "Go": 1445213,
+    "Rust": 48260,
+    "Makefile": 6314,
+    "Dockerfile": 725,
+    "Shell": 362
+  },
+  "size": 1500874
+}

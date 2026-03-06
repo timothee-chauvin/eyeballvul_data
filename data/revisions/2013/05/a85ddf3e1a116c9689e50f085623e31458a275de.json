@@ -1,0 +1,14 @@
+{
+  "commit": "a85ddf3e1a116c9689e50f085623e31458a275de",
+  "repo_url": "https://github.com/zeromq/libzmq",
+  "date": "2013-05-02T09:12:41",
+  "languages": {
+    "C++": 759033,
+    "M4": 50912,
+    "C": 15032,
+    "CMake": 13252,
+    "Makefile": 8542,
+    "Shell": 2288
+  },
+  "size": 849059
+}

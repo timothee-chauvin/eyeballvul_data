@@ -1,0 +1,24 @@
+{
+  "commit": "a7c20d3cd06ce87b025e48e2a58ba441d2211cc0",
+  "repo_url": "https://github.com/scada-lts/scada-lts",
+  "date": "2020-09-15T09:31:21",
+  "languages": {
+    "Java": 7241026,
+    "HTML": 5397146,
+    "JavaScript": 4531568,
+    "PLSQL": 151327,
+    "CSS": 140705,
+    "Vue": 135564,
+    "PHP": 62056,
+    "FreeMarker": 55045,
+    "Python": 15715,
+    "Shell": 15460,
+    "SCSS": 11459,
+    "ActionScript": 11286,
+    "XSLT": 4368,
+    "Sass": 2606,
+    "Makefile": 1250,
+    "Dockerfile": 390
+  },
+  "size": 17776971
+}

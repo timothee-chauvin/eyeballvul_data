@@ -1,0 +1,14 @@
+{
+  "commit": "f1877176a5a6008318cc2412198f3ffcea9d3eec",
+  "repo_url": "https://github.com/pennyw0rth/netexec",
+  "date": "2025-12-24T16:33:14",
+  "languages": {
+    "Python": 2209757,
+    "PowerShell": 14400,
+    "VBScript": 5341,
+    "Dockerfile": 1067,
+    "Makefile": 560,
+    "Nix": 182
+  },
+  "size": 2231307
+}

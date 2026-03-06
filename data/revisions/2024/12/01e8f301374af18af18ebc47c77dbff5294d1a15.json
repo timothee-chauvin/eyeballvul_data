@@ -1,0 +1,14 @@
+{
+  "commit": "01e8f301374af18af18ebc47c77dbff5294d1a15",
+  "repo_url": "https://github.com/square/wire",
+  "date": "2024-12-06T19:18:47",
+  "languages": {
+    "Kotlin": 4910493,
+    "Java": 2177131,
+    "Swift": 640906,
+    "Ruby": 3972,
+    "Shell": 1059,
+    "JavaScript": 210
+  },
+  "size": 7733771
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "28b4803f70921b0290d3491345eea5e3132374dd",
+  "repo_url": "https://github.com/openstack/vitrage",
+  "date": "2025-09-03T12:49:04",
+  "languages": {
+    "Python": 2075281,
+    "HTML": 26541,
+    "Shell": 17664,
+    "Mako": 896
+  },
+  "size": 2120382
+}

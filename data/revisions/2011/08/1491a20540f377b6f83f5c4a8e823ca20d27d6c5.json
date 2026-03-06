@@ -1,0 +1,26 @@
+{
+  "commit": "1491a20540f377b6f83f5c4a8e823ca20d27d6c5",
+  "repo_url": "https://github.com/golang/go",
+  "date": "2011-08-18T04:27:08",
+  "languages": {
+    "Go": 11679486,
+    "C": 3750509,
+    "Assembly": 201537,
+    "Perl": 176639,
+    "Python": 154466,
+    "Yacc": 89775,
+    "Makefile": 86725,
+    "Shell": 51019,
+    "HTML": 22439,
+    "Emacs Lisp": 21395,
+    "Vim Script": 21069,
+    "OpenEdge ABL": 9784,
+    "Clojure": 5691,
+    "C++": 4477,
+    "Awk": 3466,
+    "CSS": 1660,
+    "JavaScript": 1034,
+    "Batchfile": 964
+  },
+  "size": 16282135
+}

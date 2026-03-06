@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-187",
+  "published": "2023-10-02T20:15:00",
+  "modified": "2023-11-08T04:13:35.242917",
+  "details": "An issue was discovered in pretix before 2023.7.1. Incorrect parsing of configuration files causes the application to trust unchecked X-Forwarded-For headers even though it has not been configured to do so. This can lead to IP address spoofing by users of the application.",
+  "repo_url": "https://github.com/pretix/pretix",
+  "cwes": [],
+  "commits": [
+    "680e7cb0da2831a852396888a39c443332f30adf"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "90cdcf87db98fe7c636c8ad0aad9f2e6858939ea",
+  "repo_url": "https://github.com/storybookjs/storybook",
+  "date": "2025-11-26T15:17:09",
+  "languages": {
+    "TypeScript": 9728795,
+    "JavaScript": 2556668,
+    "MDX": 100439,
+    "Svelte": 78101,
+    "Vue": 42565,
+    "CSS": 36021,
+    "HTML": 26757,
+    "EJS": 6046,
+    "Pug": 3991,
+    "AppleScript": 2690,
+    "Handlebars": 1711,
+    "Shell": 1051,
+    "SCSS": 125
+  },
+  "size": 12584960
+}

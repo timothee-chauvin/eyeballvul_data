@@ -1,0 +1,13 @@
+{
+  "commit": "1e87850952b6d886674b487f57e47fae1c20dc8a",
+  "repo_url": "https://github.com/pi-hole/pi-hole",
+  "date": "2018-02-14T20:48:40",
+  "languages": {
+    "Shell": 254865,
+    "Python": 21800,
+    "PHP": 14249,
+    "CSS": 12594,
+    "Dockerfile": 981
+  },
+  "size": 304489
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "bb55cc1b3a2c61df31a1acb9d4746240c3facbdc",
+  "repo_url": "https://github.com/weblateorg/docker",
+  "date": "2025-09-05T17:26:41",
+  "languages": {
+    "Shell": 11935,
+    "Dockerfile": 5012,
+    "Smarty": 3007,
+    "Python": 1163
+  },
+  "size": 21117
+}

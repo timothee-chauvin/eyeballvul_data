@@ -1,0 +1,13 @@
+{
+  "commit": "12803b39578b58deefe3ce65d23115401e181ae0",
+  "repo_url": "https://github.com/kimai/kimai",
+  "date": "2019-07-24T17:38:46",
+  "languages": {
+    "PHP": 1711644,
+    "Twig": 212198,
+    "JavaScript": 65086,
+    "SCSS": 25865,
+    "Dockerfile": 1905
+  },
+  "size": 2016698
+}

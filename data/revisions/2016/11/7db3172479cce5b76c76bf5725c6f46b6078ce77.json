@@ -1,0 +1,17 @@
+{
+  "commit": "7db3172479cce5b76c76bf5725c6f46b6078ce77",
+  "repo_url": "https://github.com/inliniac/suricata",
+  "date": "2016-11-29T17:15:42",
+  "languages": {
+    "C": 15416711,
+    "M4": 99753,
+    "Python": 70767,
+    "Perl": 36027,
+    "Makefile": 24150,
+    "Shell": 20164,
+    "SmPL": 7093,
+    "Cuda": 3592,
+    "Lua": 820
+  },
+  "size": 15679077
+}

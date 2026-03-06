@@ -1,0 +1,15 @@
+{
+  "commit": "4438da39f9c9aa9d83d1dddbf06616ad287f70eb",
+  "repo_url": "https://github.com/dani-garcia/vaultwarden",
+  "date": "2024-01-31T21:31:47",
+  "languages": {
+    "Rust": 942600,
+    "Handlebars": 121689,
+    "Jinja": 9718,
+    "Shell": 7766,
+    "HCL": 6510,
+    "Python": 3530,
+    "Makefile": 165
+  },
+  "size": 1091978
+}

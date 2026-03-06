@@ -1,0 +1,15 @@
+{
+  "commit": "61d8370739c49cfeec2c9019e1bb134d74d914e1",
+  "repo_url": "https://github.com/live-codes/livecodes",
+  "date": "2026-02-08T22:10:34",
+  "languages": {
+    "TypeScript": 3125796,
+    "HTML": 229426,
+    "SCSS": 106273,
+    "JavaScript": 76736,
+    "CSS": 34577,
+    "Dockerfile": 940,
+    "Shell": 179
+  },
+  "size": 3573927
+}

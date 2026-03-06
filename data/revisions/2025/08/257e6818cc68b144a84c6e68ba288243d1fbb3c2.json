@@ -1,0 +1,14 @@
+{
+  "commit": "257e6818cc68b144a84c6e68ba288243d1fbb3c2",
+  "repo_url": "https://github.com/packistry/packistry",
+  "date": "2025-08-04T18:46:29",
+  "languages": {
+    "PHP": 1554616,
+    "TypeScript": 315784,
+    "CSS": 3420,
+    "Dockerfile": 1975,
+    "HTML": 833,
+    "Shell": 507
+  },
+  "size": 1877135
+}

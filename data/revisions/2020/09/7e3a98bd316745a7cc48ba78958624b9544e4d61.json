@@ -1,0 +1,14 @@
+{
+  "commit": "7e3a98bd316745a7cc48ba78958624b9544e4d61",
+  "repo_url": "https://github.com/graphhopper/graphhopper",
+  "date": "2020-09-29T16:50:03",
+  "languages": {
+    "Java": 5184726,
+    "JavaScript": 210348,
+    "CSS": 31825,
+    "Shell": 19812,
+    "HTML": 10128,
+    "Dockerfile": 684
+  },
+  "size": 5457523
+}

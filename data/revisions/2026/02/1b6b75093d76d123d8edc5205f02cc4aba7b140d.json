@@ -1,0 +1,14 @@
+{
+  "commit": "1b6b75093d76d123d8edc5205f02cc4aba7b140d",
+  "repo_url": "https://github.com/typicms/core",
+  "date": "2026-02-21T14:32:41",
+  "languages": {
+    "PHP": 481764,
+    "Vue": 191690,
+    "Blade": 120820,
+    "SCSS": 68353,
+    "TypeScript": 31779,
+    "JavaScript": 5789
+  },
+  "size": 900195
+}

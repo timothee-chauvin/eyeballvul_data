@@ -1,0 +1,12 @@
+{
+  "commit": "69a5896dac4505ca2a570f080cf96167afdee535",
+  "repo_url": "https://github.com/simplex-chat/simplexmq",
+  "date": "2022-12-29T21:33:55",
+  "languages": {
+    "Haskell": 924622,
+    "Shell": 43909,
+    "Mermaid": 16925,
+    "Dockerfile": 1833
+  },
+  "size": 987289
+}

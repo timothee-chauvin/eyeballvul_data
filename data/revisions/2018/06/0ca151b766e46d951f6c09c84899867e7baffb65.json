@@ -1,0 +1,14 @@
+{
+  "commit": "0ca151b766e46d951f6c09c84899867e7baffb65",
+  "repo_url": "https://github.com/openmrs/openmrs-module-referenceapplication",
+  "date": "2018-06-27T15:46:50",
+  "languages": {
+    "SCSS": 92573,
+    "Java": 85394,
+    "Groovy": 15148,
+    "CSS": 2188,
+    "JavaScript": 1855,
+    "Ruby": 921
+  },
+  "size": 198079
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "94969323ac90709a507e440da40bcbe8a6e90948",
+  "repo_url": "https://github.com/static-web-server/static-web-server",
+  "date": "2024-03-08T23:36:10",
+  "languages": {
+    "Rust": 338879,
+    "Shell": 20823,
+    "Makefile": 8506,
+    "Dockerfile": 6805,
+    "HTML": 1371,
+    "CSS": 171,
+    "JavaScript": 52
+  },
+  "size": 376607
+}

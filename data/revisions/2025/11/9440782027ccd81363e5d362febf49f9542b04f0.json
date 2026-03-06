@@ -1,0 +1,16 @@
+{
+  "commit": "9440782027ccd81363e5d362febf49f9542b04f0",
+  "repo_url": "https://github.com/advplyr/audiobookshelf-app",
+  "date": "2025-11-23T23:20:32",
+  "languages": {
+    "Vue": 759372,
+    "Kotlin": 520287,
+    "Swift": 277470,
+    "JavaScript": 137784,
+    "CSS": 18544,
+    "Ruby": 1679,
+    "Java": 1176,
+    "C": 104
+  },
+  "size": 1716416
+}

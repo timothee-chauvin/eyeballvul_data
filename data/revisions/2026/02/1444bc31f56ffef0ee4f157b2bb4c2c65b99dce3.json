@@ -1,0 +1,12 @@
+{
+  "commit": "1444bc31f56ffef0ee4f157b2bb4c2c65b99dce3",
+  "repo_url": "https://github.com/yosefhayim/ebay-mcp",
+  "date": "2026-02-08T18:13:00",
+  "languages": {
+    "TypeScript": 4435764,
+    "JavaScript": 92025,
+    "Shell": 5043,
+    "Dockerfile": 979
+  },
+  "size": 4533811
+}

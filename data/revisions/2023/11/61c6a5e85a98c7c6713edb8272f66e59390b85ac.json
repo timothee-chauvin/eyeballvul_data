@@ -1,0 +1,13 @@
+{
+  "commit": "61c6a5e85a98c7c6713edb8272f66e59390b85ac",
+  "repo_url": "https://github.com/nextcloud/user_saml",
+  "date": "2023-11-06T14:23:27",
+  "languages": {
+    "PHP": 191872,
+    "JavaScript": 98747,
+    "Gherkin": 30251,
+    "CSS": 2256,
+    "Makefile": 1306
+  },
+  "size": 324432
+}

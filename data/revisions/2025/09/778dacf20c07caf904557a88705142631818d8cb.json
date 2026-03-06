@@ -1,0 +1,12 @@
+{
+  "commit": "778dacf20c07caf904557a88705142631818d8cb",
+  "repo_url": "https://github.com/pgvector/pgvector",
+  "date": "2025-09-05T00:51:09",
+  "languages": {
+    "C": 327594,
+    "Perl": 94361,
+    "Makefile": 3069,
+    "Dockerfile": 713
+  },
+  "size": 425737
+}

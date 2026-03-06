@@ -1,0 +1,17 @@
+{
+  "commit": "de40b98de78bca7f930fdb08c33d092aee080eb0",
+  "repo_url": "https://github.com/hamza417/inure",
+  "date": "2022-10-29T12:15:02",
+  "languages": {
+    "Kotlin": 1887957,
+    "Java": 1228324,
+    "JavaScript": 193378,
+    "HTML": 120057,
+    "CSS": 16203,
+    "C++": 14682,
+    "C": 3710,
+    "AIDL": 2737,
+    "CMake": 942
+  },
+  "size": 3467990
+}

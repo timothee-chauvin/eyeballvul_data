@@ -1,0 +1,13 @@
+{
+  "commit": "b24ce4d7849cec02a9f336f2c1264e0d907bf0c9",
+  "repo_url": "https://github.com/z-libs/zen-c",
+  "date": "2026-02-13T18:29:44",
+  "languages": {
+    "C": 1704940,
+    "Makefile": 6597,
+    "CMake": 6005,
+    "Shell": 4666,
+    "Nix": 969
+  },
+  "size": 1723177
+}

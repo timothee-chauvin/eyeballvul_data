@@ -1,0 +1,18 @@
+{
+  "commit": "0a22038d05c13764cab2f8daa9bc6ca8e5ef90b4",
+  "repo_url": "https://github.com/habitrpg/habitica",
+  "date": "2022-05-10T18:56:00",
+  "languages": {
+    "JavaScript": 4358473,
+    "CSS": 2035845,
+    "Vue": 1658010,
+    "SCSS": 48974,
+    "CoffeeScript": 6978,
+    "HTML": 3691,
+    "Dockerfile": 1133,
+    "Handlebars": 474,
+    "Python": 237,
+    "Procfile": 46
+  },
+  "size": 8113861
+}

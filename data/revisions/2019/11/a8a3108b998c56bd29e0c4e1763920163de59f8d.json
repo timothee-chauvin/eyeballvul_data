@@ -1,0 +1,13 @@
+{
+  "commit": "a8a3108b998c56bd29e0c4e1763920163de59f8d",
+  "repo_url": "https://github.com/stripe/stripe-cli",
+  "date": "2019-11-06T23:18:45",
+  "languages": {
+    "Go": 363494,
+    "Shell": 6045,
+    "Makefile": 2858,
+    "Smarty": 1482,
+    "Dockerfile": 91
+  },
+  "size": 373970
+}

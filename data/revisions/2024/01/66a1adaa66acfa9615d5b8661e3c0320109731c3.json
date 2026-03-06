@@ -1,0 +1,16 @@
+{
+  "commit": "66a1adaa66acfa9615d5b8661e3c0320109731c3",
+  "repo_url": "https://github.com/statping-ng/statping-ng",
+  "date": "2024-01-04T22:15:13",
+  "languages": {
+    "Vue": 561230,
+    "Go": 560788,
+    "CSS": 34534,
+    "SCSS": 23286,
+    "Makefile": 19978,
+    "Shell": 3647,
+    "Dockerfile": 2390,
+    "HTML": 576
+  },
+  "size": 1206429
+}

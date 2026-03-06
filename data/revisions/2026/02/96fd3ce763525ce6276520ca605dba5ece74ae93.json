@@ -1,0 +1,13 @@
+{
+  "commit": "96fd3ce763525ce6276520ca605dba5ece74ae93",
+  "repo_url": "https://github.com/sveltejs/svelte",
+  "date": "2026-02-25T16:12:21",
+  "languages": {
+    "JavaScript": 3185118,
+    "Svelte": 985197,
+    "TypeScript": 180335,
+    "CSS": 51360,
+    "HTML": 21168
+  },
+  "size": 4423178
+}

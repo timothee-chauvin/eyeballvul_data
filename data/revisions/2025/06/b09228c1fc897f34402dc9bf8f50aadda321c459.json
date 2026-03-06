@@ -1,0 +1,16 @@
+{
+  "commit": "b09228c1fc897f34402dc9bf8f50aadda321c459",
+  "repo_url": "https://github.com/agenta-ai/agenta",
+  "date": "2025-06-03T12:14:39",
+  "languages": {
+    "Python": 3068975,
+    "TypeScript": 2587286,
+    "Shell": 19821,
+    "CSS": 13852,
+    "HCL": 5504,
+    "JavaScript": 3963,
+    "Mako": 1270,
+    "HTML": 169
+  },
+  "size": 5700840
+}

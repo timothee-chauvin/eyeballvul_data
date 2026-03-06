@@ -1,0 +1,15 @@
+{
+  "commit": "022d45bec3d62fe18f55608666f2bed4cca410ba",
+  "repo_url": "https://gitlab.com/gnutls/libtasn1",
+  "date": "2010-04-20T06:41:13",
+  "languages": {
+    "C": 602188,
+    "M4": 192043,
+    "Makefile": 99745,
+    "C++": 47620,
+    "Yacc": 27247,
+    "Shell": 22269,
+    "CSS": 2787
+  },
+  "size": 993899
+}

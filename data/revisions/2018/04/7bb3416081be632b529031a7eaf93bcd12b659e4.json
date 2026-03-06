@@ -1,0 +1,21 @@
+{
+  "commit": "7bb3416081be632b529031a7eaf93bcd12b659e4",
+  "repo_url": "https://github.com/cuba-platform/cuba",
+  "date": "2018-04-09T06:27:33",
+  "languages": {
+    "Java": 16437386,
+    "SCSS": 359198,
+    "Groovy": 114050,
+    "XSLT": 63258,
+    "JavaScript": 39183,
+    "GAP": 33862,
+    "PLSQL": 28817,
+    "HTML": 6206,
+    "FreeMarker": 3996,
+    "PLpgSQL": 1333,
+    "CSS": 862,
+    "Shell": 88,
+    "Batchfile": 77
+  },
+  "size": 17088316
+}

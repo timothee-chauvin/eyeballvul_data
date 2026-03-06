@@ -1,0 +1,16 @@
+{
+  "commit": "789bcc8eec3414da373328e374c2edb1abc3ac0d",
+  "repo_url": "https://github.com/seerr-team/seerr",
+  "date": "2026-02-14T19:18:54",
+  "languages": {
+    "TypeScript": 2914757,
+    "JavaScript": 25546,
+    "CSS": 16356,
+    "Pug": 13394,
+    "Smarty": 2012,
+    "HTML": 1860,
+    "Dockerfile": 1426,
+    "Shell": 234
+  },
+  "size": 2975585
+}

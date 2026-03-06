@@ -1,0 +1,18 @@
+{
+  "commit": "074bd0dfdace3f523125e08609bc7c9ee3f6134d",
+  "repo_url": "https://github.com/wei-shaw/sub2api",
+  "date": "2026-02-18T10:41:30",
+  "languages": {
+    "Go": 4814998,
+    "Vue": 2034782,
+    "TypeScript": 709883,
+    "Shell": 43892,
+    "CSS": 25583,
+    "Python": 8782,
+    "JavaScript": 5394,
+    "Dockerfile": 3686,
+    "Makefile": 2006,
+    "HTML": 370
+  },
+  "size": 7649376
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "1d12ae3dbb8aae87b9b7016df7220877a30d039a",
+  "repo_url": "https://github.com/bigcat88/pillow_heif",
+  "date": "2026-02-18T10:19:56",
+  "languages": {
+    "Python": 215579,
+    "C": 65911,
+    "Shell": 5139,
+    "Starlark": 1024
+  },
+  "size": 287653
+}

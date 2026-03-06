@@ -1,0 +1,13 @@
+{
+  "commit": "01ee4caa5ab52b2f6f3e500fd3a0f70e0099b031",
+  "repo_url": "https://github.com/aomediacodec/libavif",
+  "date": "2020-07-14T19:50:45",
+  "languages": {
+    "C": 593127,
+    "CMake": 24927,
+    "Batchfile": 4710,
+    "Shell": 2941,
+    "Dockerfile": 141
+  },
+  "size": 625846
+}

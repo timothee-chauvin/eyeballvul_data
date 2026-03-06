@@ -1,0 +1,23 @@
+{
+  "commit": "40859e2f56b1e862ec989a03bc9c695f21c50a0d",
+  "repo_url": "https://github.com/nodejs/node",
+  "date": "2017-06-06T18:14:38",
+  "languages": {
+    "JavaScript": 5281022,
+    "Python": 1355003,
+    "C++": 1244754,
+    "C": 366164,
+    "HTML": 167338,
+    "POV-Ray SDL": 88241,
+    "DTrace": 37428,
+    "Makefile": 26097,
+    "Shell": 25273,
+    "Batchfile": 18210,
+    "Roff": 15312,
+    "Emacs Lisp": 14357,
+    "Perl": 11661,
+    "R": 3272,
+    "Ruby": 2264
+  },
+  "size": 8656396
+}

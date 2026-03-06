@@ -1,0 +1,14 @@
+{
+  "commit": "263fa1e4ab8b8639406798415bf404c77abea592",
+  "repo_url": "https://github.com/chainguard-forks/kaniko",
+  "date": "2026-02-26T07:24:47",
+  "languages": {
+    "Go": 711250,
+    "Shell": 24839,
+    "Dockerfile": 10540,
+    "Python": 5646,
+    "Makefile": 3900,
+    "Starlark": 2539
+  },
+  "size": 758714
+}

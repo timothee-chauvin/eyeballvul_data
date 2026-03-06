@@ -1,0 +1,17 @@
+{
+  "commit": "1fb083959b1d4a8c66d1e6c652a2179e67246362",
+  "repo_url": "https://github.com/pritunl/pritunl-client-electron",
+  "date": "2021-10-03T02:48:42",
+  "languages": {
+    "Go": 223802,
+    "JavaScript": 113398,
+    "Perl": 80391,
+    "Ruby": 20623,
+    "Shell": 20507,
+    "CSS": 15675,
+    "Python": 15205,
+    "HTML": 3696,
+    "Inno Setup": 2585
+  },
+  "size": 495882
+}

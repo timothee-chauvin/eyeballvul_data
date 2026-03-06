@@ -1,0 +1,18 @@
+{
+  "commit": "5f69c11508ac48af08af03270580777ea819f3cc",
+  "repo_url": "https://github.com/openobserve/openobserve",
+  "date": "2023-05-26T13:40:00",
+  "languages": {
+    "Rust": 1295498,
+    "Vue": 1087510,
+    "TypeScript": 261898,
+    "SCSS": 3152,
+    "Shell": 2697,
+    "CSS": 2522,
+    "JavaScript": 1764,
+    "Dockerfile": 1443,
+    "HTML": 747,
+    "Sass": 545
+  },
+  "size": 2657776
+}

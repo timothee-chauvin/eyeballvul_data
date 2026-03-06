@@ -1,0 +1,19 @@
+{
+  "commit": "c20cbfa327981661c39d1f85bb00ccfd80d2428e",
+  "repo_url": "https://github.com/stmicroelectronics/x-cube-azrtos-wb",
+  "date": "2022-01-05T10:41:15",
+  "languages": {
+    "C": 77015542,
+    "Assembly": 6637575,
+    "Batchfile": 926981,
+    "CSS": 616187,
+    "PowerShell": 356603,
+    "CMake": 271233,
+    "HTML": 157588,
+    "C++": 42559,
+    "Makefile": 15787,
+    "JavaScript": 8137,
+    "Python": 2009
+  },
+  "size": 86050201
+}

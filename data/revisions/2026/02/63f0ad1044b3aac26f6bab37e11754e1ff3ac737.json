@@ -1,0 +1,17 @@
+{
+  "commit": "63f0ad1044b3aac26f6bab37e11754e1ff3ac737",
+  "repo_url": "https://github.com/phishingclub/phishingclub",
+  "date": "2026-02-05T14:47:29",
+  "languages": {
+    "Go": 2004496,
+    "Svelte": 1165564,
+    "JavaScript": 251659,
+    "Shell": 10123,
+    "CSS": 7944,
+    "Makefile": 5311,
+    "Dockerfile": 1287,
+    "HTML": 861,
+    "Smarty": 146
+  },
+  "size": 3447391
+}

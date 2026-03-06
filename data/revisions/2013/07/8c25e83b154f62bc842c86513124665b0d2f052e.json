@@ -1,0 +1,11 @@
+{
+  "commit": "8c25e83b154f62bc842c86513124665b0d2f052e",
+  "repo_url": "https://github.com/rsyslog/librelp",
+  "date": "2013-07-14T16:52:43",
+  "languages": {
+    "C": 251072,
+    "M4": 2041,
+    "Makefile": 717
+  },
+  "size": 253830
+}

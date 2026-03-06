@@ -1,0 +1,14 @@
+{
+  "commit": "be7a695d62aed5d93dd46bad9686d429447daf58",
+  "repo_url": "https://github.com/packagekit/packagekit",
+  "date": "2020-05-04T12:18:31",
+  "languages": {
+    "C": 2420383,
+    "C++": 317580,
+    "Python": 191245,
+    "Meson": 37450,
+    "Shell": 13668,
+    "Perl": 2392
+  },
+  "size": 2982718
+}

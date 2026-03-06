@@ -1,0 +1,12 @@
+{
+  "commit": "e63188cbf753d560e43d8489c821bd6eb9fe54e9",
+  "repo_url": "https://github.com/scrapy/scrapy",
+  "date": "2021-04-06T14:13:32",
+  "languages": {
+    "Python": 1792267,
+    "HTML": 2790,
+    "Roff": 2010,
+    "Shell": 259
+  },
+  "size": 1797326
+}
