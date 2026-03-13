@@ -1,0 +1,12 @@
+{
+  "commit": "28260d120036984d6cfc6b02c97be940f3b32e5e",
+  "repo_url": "https://github.com/vega/vega",
+  "date": "2020-12-23T13:07:03",
+  "languages": {
+    "JavaScript": 1415183,
+    "TypeScript": 493010,
+    "HTML": 19201,
+    "Shell": 1494
+  },
+  "size": 1928888
+}

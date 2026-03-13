@@ -1,0 +1,11 @@
+{
+  "commit": "83bb665609bf74509e70aa15377b8673e73f42d4",
+  "repo_url": "https://github.com/projectcalico/calico",
+  "date": "2019-12-12T04:06:55",
+  "languages": {
+    "Go": 262427,
+    "Makefile": 15482,
+    "Shell": 10401
+  },
+  "size": 288310
+}

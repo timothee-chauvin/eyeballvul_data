@@ -1,0 +1,13 @@
+{
+  "commit": "f92bc298784ceea459b12e2de33bdff672bfeb83",
+  "repo_url": "https://github.com/albertodemichelis/squirrel",
+  "date": "2022-02-10T16:46:03",
+  "languages": {
+    "C++": 434558,
+    "C": 45090,
+    "CMake": 8645,
+    "Makefile": 2489,
+    "Squirrel": 84
+  },
+  "size": 490866
+}

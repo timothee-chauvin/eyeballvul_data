@@ -1,0 +1,16 @@
+{
+  "commit": "4a61642b8180317c7783cebde29e312161228a19",
+  "repo_url": "https://github.com/xtermjs/xterm.js",
+  "date": "2022-06-29T17:05:04",
+  "languages": {
+    "TypeScript": 2029823,
+    "JavaScript": 42080,
+    "CSS": 4404,
+    "Python": 2313,
+    "HTML": 1631,
+    "Dockerfile": 1460,
+    "Shell": 1082,
+    "Procfile": 38
+  },
+  "size": 2082831
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "7f22e3fa361db7bb92062d185ecba8e786904f28",
+  "repo_url": "https://github.com/admesh/admesh",
+  "date": "2019-10-12T18:24:24",
+  "languages": {
+    "C": 119457,
+    "Roff": 5944,
+    "M4": 2313,
+    "Makefile": 994,
+    "Shell": 532
+  },
+  "size": 129240
+}

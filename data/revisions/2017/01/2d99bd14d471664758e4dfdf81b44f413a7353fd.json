@@ -1,0 +1,13 @@
+{
+  "commit": "2d99bd14d471664758e4dfdf81b44f413a7353fd",
+  "repo_url": "https://github.com/google/snappy",
+  "date": "2017-01-27T08:12:04",
+  "languages": {
+    "C++": 190918,
+    "M4": 7202,
+    "C": 5414,
+    "Makefile": 1251,
+    "Shell": 260
+  },
+  "size": 205045
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2021-1380",
+  "published": "2021-09-27T00:01:19.023732",
+  "modified": "2022-04-13T03:04:36.431420",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=39317\n\n```\nCrash type: Negative-size-param\nCrash state:\nntfs_attr_walk_special\ntsk_fs_attr_walk\nntfs_proc_attrseq\n```\n",
+  "summary": "Negative-size-param in ntfs_attr_walk_special",
+  "repo_url": "https://github.com/sleuthkit/sleuthkit",
+  "cwes": [],
+  "commits": [
+    "16f14f39bc1c22da823e1fa53ca451da808244f5"
+  ]
+}

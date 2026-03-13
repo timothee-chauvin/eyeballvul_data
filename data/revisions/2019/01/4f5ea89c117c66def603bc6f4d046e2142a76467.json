@@ -1,0 +1,25 @@
+{
+  "commit": "4f5ea89c117c66def603bc6f4d046e2142a76467",
+  "repo_url": "https://github.com/torproject/tor",
+  "date": "2019-01-07T15:23:40",
+  "languages": {
+    "C": 14975966,
+    "Python": 254483,
+    "C++": 147117,
+    "Rust": 117442,
+    "M4": 104659,
+    "Shell": 56309,
+    "Assembly": 25623,
+    "Perl": 17809,
+    "Makefile": 16514,
+    "SourcePawn": 7703,
+    "HTML": 6666,
+    "q": 5584,
+    "PHP": 3641,
+    "Lua": 3321,
+    "Ruby": 3216,
+    "SmPL": 1908,
+    "Gnuplot": 940
+  },
+  "size": 15748901
+}

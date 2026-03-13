@@ -1,0 +1,11 @@
+{
+  "commit": "3ccfc6fb4c7a466778505a84e43f56e9f5574e06",
+  "repo_url": "https://github.com/lemonldapng/node-lemonldap-ng-handler",
+  "date": "2020-09-09T08:11:08",
+  "languages": {
+    "CoffeeScript": 56003,
+    "JavaScript": 2351,
+    "Perl": 1073
+  },
+  "size": 59427
+}

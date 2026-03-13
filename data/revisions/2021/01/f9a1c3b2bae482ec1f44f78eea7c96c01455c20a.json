@@ -1,0 +1,27 @@
+{
+  "commit": "f9a1c3b2bae482ec1f44f78eea7c96c01455c20a",
+  "repo_url": "https://github.com/apache/kudu",
+  "date": "2021-01-19T14:34:03",
+  "languages": {
+    "C++": 18053644,
+    "Java": 2514261,
+    "C": 626614,
+    "Python": 449749,
+    "Scala": 343577,
+    "CMake": 239750,
+    "Shell": 179091,
+    "Cython": 156159,
+    "Thrift": 82220,
+    "Clojure": 54903,
+    "Perl": 36423,
+    "Mustache": 34056,
+    "Dockerfile": 18094,
+    "R": 11739,
+    "JavaScript": 11217,
+    "Smarty": 2702,
+    "HTML": 2069,
+    "CSS": 1364,
+    "Makefile": 658
+  },
+  "size": 22818290
+}

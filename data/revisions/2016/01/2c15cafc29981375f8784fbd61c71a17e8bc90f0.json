@@ -1,0 +1,11 @@
+{
+  "commit": "2c15cafc29981375f8784fbd61c71a17e8bc90f0",
+  "repo_url": "https://github.com/puppetlabs/puppet-agent",
+  "date": "2016-01-22T20:45:30",
+  "languages": {
+    "Ruby": 181925,
+    "PowerShell": 15059,
+    "Shell": 250
+  },
+  "size": 197234
+}

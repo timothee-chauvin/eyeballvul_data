@@ -1,0 +1,12 @@
+{
+  "commit": "c55e39c8f093dfc384951fe512d4e9a46cdb7144",
+  "repo_url": "https://github.com/wiris/moodle-filter_wiris",
+  "date": "2022-04-08T11:35:08",
+  "languages": {
+    "PHP": 552352,
+    "JavaScript": 133065,
+    "Gherkin": 15234,
+    "CSS": 1265
+  },
+  "size": 701916
+}

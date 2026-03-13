@@ -1,0 +1,10 @@
+{
+  "commit": "6a6170db40d8f08c61e6d5901635cff51b284abe",
+  "repo_url": "https://github.com/masterminds/vcs",
+  "date": "2022-03-30T20:13:45",
+  "languages": {
+    "Go": 112456,
+    "Makefile": 805
+  },
+  "size": 113261
+}

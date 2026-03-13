@@ -1,0 +1,14 @@
+{
+  "commit": "fb1a0231b7eed978a956aaed44b9c09e42abaefa",
+  "repo_url": "https://github.com/weechat/weechat",
+  "date": "2017-01-15T06:41:25",
+  "languages": {
+    "C": 7169301,
+    "C++": 299990,
+    "CMake": 137163,
+    "M4": 54123,
+    "Makefile": 45470,
+    "Shell": 17042
+  },
+  "size": 7723089
+}

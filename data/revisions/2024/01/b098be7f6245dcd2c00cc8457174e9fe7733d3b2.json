@@ -1,0 +1,12 @@
+{
+  "commit": "b098be7f6245dcd2c00cc8457174e9fe7733d3b2",
+  "repo_url": "https://github.com/traccar/traccar",
+  "date": "2024-01-27T16:18:22",
+  "languages": {
+    "Java": 4951392,
+    "Python": 44324,
+    "Shell": 16824,
+    "Inno Setup": 517
+  },
+  "size": 5013057
+}

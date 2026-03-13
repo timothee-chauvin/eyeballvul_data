@@ -1,0 +1,11 @@
+{
+  "commit": "03528d260cd151081541b5c1f6c7fb6f7b0f847e",
+  "repo_url": "https://github.com/kitabisa/teler",
+  "date": "2020-11-03T07:46:17",
+  "languages": {
+    "Go": 29430,
+    "Makefile": 3094,
+    "Dockerfile": 400
+  },
+  "size": 32924
+}

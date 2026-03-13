@@ -1,0 +1,15 @@
+{
+  "commit": "8439a0747471559fb1ea9f074b929d390f27e66a",
+  "repo_url": "https://github.com/idno/idno",
+  "date": "2026-02-13T20:13:23",
+  "languages": {
+    "PHP": 1833903,
+    "SCSS": 121564,
+    "CSS": 116383,
+    "JavaScript": 65183,
+    "Hack": 2065,
+    "Dockerfile": 1479,
+    "Shell": 655
+  },
+  "size": 2141232
+}

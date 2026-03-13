@@ -1,0 +1,12 @@
+{
+  "id": "PYSEC-2021-147",
+  "published": "2021-04-12T14:15:00",
+  "modified": "2023-11-08T04:05:17.347405",
+  "details": "in SiCKRAGE, versions 4.2.0 to 10.0.11.dev1 are vulnerable to Stored Cross-Site-Scripting (XSS) due to user input not being validated properly when processed by the server. Therefore, an attacker can inject arbitrary JavaScript code inside the application, and possibly steal a user\u2019s sensitive information.",
+  "repo_url": "https://github.com/sickrage/sickrage",
+  "cwes": [],
+  "commits": [
+    "5ef858e9c62353f935b3b088b7d2c30a77ca5b01",
+    "986e796a7e9fcdf9d45b5a6c6fc469165ba47f90"
+  ]
+}

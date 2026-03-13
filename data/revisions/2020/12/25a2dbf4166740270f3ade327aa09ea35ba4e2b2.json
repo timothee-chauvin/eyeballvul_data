@@ -1,0 +1,20 @@
+{
+  "commit": "25a2dbf4166740270f3ade327aa09ea35ba4e2b2",
+  "repo_url": "https://github.com/ravenproject/ravencoin",
+  "date": "2020-12-07T20:37:01",
+  "languages": {
+    "C": 7545372,
+    "C++": 7144451,
+    "Python": 1494998,
+    "M4": 193892,
+    "Makefile": 116818,
+    "Shell": 71768,
+    "Java": 30274,
+    "Sage": 30188,
+    "Assembly": 28453,
+    "HTML": 21860,
+    "Objective-C++": 6922,
+    "QMake": 754
+  },
+  "size": 16685750
+}

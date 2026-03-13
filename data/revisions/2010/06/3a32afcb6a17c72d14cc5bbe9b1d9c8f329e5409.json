@@ -1,0 +1,18 @@
+{
+  "commit": "3a32afcb6a17c72d14cc5bbe9b1d9c8f329e5409",
+  "repo_url": "https://gitlab.com/gnutls/gnutls",
+  "date": "2010-06-25T06:35:35",
+  "languages": {
+    "C": 5305465,
+    "M4": 814241,
+    "Roff": 632501,
+    "Makefile": 241396,
+    "Shell": 168880,
+    "C++": 150313,
+    "HTML": 103787,
+    "Scheme": 94762,
+    "CSS": 2787,
+    "Perl": 773
+  },
+  "size": 7514905
+}

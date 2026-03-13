@@ -1,0 +1,12 @@
+{
+  "commit": "1acf1e516eaa68a6b74443a7cad2198d74aaa164",
+  "repo_url": "https://github.com/jfrog/artifactory-docker-examples",
+  "date": "2018-06-25T08:47:11",
+  "languages": {
+    "Shell": 39184,
+    "Mustache": 3139,
+    "Groovy": 1958,
+    "Dockerfile": 1932
+  },
+  "size": 46213
+}

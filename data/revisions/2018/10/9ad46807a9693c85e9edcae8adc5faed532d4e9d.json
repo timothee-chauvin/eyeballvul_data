@@ -1,0 +1,17 @@
+{
+  "commit": "9ad46807a9693c85e9edcae8adc5faed532d4e9d",
+  "repo_url": "https://github.com/openshift/origin-aggregated-logging",
+  "date": "2018-10-10T00:38:02",
+  "languages": {
+    "Shell": 502950,
+    "Ruby": 56371,
+    "Python": 20792,
+    "Dockerfile": 7818,
+    "Jinja": 5046,
+    "Go": 4057,
+    "Gherkin": 2180,
+    "Awk": 921,
+    "Makefile": 363
+  },
+  "size": 600498
+}

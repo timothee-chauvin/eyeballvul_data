@@ -1,0 +1,14 @@
+{
+  "commit": "9d9925e4cdfe6e752c655ac76d24138f0fbfdc6b",
+  "repo_url": "https://github.com/azuread/azure-activedirectory-identitymodel-extensions-for-dotnet",
+  "date": "2023-10-03T17:49:21",
+  "languages": {
+    "C#": 9338088,
+    "HTML": 128929,
+    "PowerShell": 35415,
+    "Perl": 8993,
+    "Shell": 2696,
+    "Batchfile": 993
+  },
+  "size": 9515114
+}

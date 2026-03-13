@@ -1,0 +1,17 @@
+{
+  "commit": "97e033b3bb0cb16b61bf49f0dc7f311a3e0edd1b",
+  "repo_url": "https://github.com/facebook/mcrouter",
+  "date": "2019-11-04T15:04:09",
+  "languages": {
+    "C++": 6146647,
+    "Python": 270443,
+    "C": 99183,
+    "M4": 78011,
+    "Ragel": 30739,
+    "Shell": 25206,
+    "Makefile": 25067,
+    "Thrift": 14968,
+    "Dockerfile": 790
+  },
+  "size": 6691054
+}

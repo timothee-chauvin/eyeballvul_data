@@ -1,0 +1,12 @@
+{
+  "commit": "526b893b623deb6203795185f74e5dd0cafaa553",
+  "repo_url": "https://github.com/mongodb/mongodb-atlas-kubernetes",
+  "date": "2023-01-20T15:06:34",
+  "languages": {
+    "Go": 1058855,
+    "Shell": 26039,
+    "Makefile": 10857,
+    "Dockerfile": 3677
+  },
+  "size": 1099428
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "fb72d3227d230f347baf5ccce529e87c4fba93bf",
+  "repo_url": "https://github.com/spring-projects/spring-webflow",
+  "date": "2015-09-01T14:06:09",
+  "languages": {
+    "Java": 3002768,
+    "CSS": 38299,
+    "XSLT": 25387,
+    "JavaScript": 20528,
+    "Groovy": 5372,
+    "Shell": 2557,
+    "HTML": 1985
+  },
+  "size": 3096896
+}

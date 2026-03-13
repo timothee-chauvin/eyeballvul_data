@@ -1,0 +1,11 @@
+{
+  "commit": "02b8970bf89b1e948bcc677cfec323fc64dd5808",
+  "repo_url": "https://github.com/valkey-io/valkey-bloom",
+  "date": "2025-04-01T21:23:41",
+  "languages": {
+    "Rust": 119603,
+    "Python": 110728,
+    "Shell": 4735
+  },
+  "size": 235066
+}

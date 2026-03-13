@@ -1,0 +1,15 @@
+{
+  "commit": "48cc1de958ee479d8c23eed8f370c8a8cc051c3b",
+  "repo_url": "https://github.com/mayneyao/eidos",
+  "date": "2025-06-24T06:11:51",
+  "languages": {
+    "TypeScript": 3260523,
+    "JavaScript": 196346,
+    "CSS": 29742,
+    "MDX": 25560,
+    "HTML": 22220,
+    "Dockerfile": 827,
+    "Python": 85
+  },
+  "size": 3535303
+}

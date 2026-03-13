@@ -1,0 +1,20 @@
+{
+  "commit": "cc6d15b3fbd7e4fdd459b9052749eb5799c77308",
+  "repo_url": "https://github.com/manageiq/manageiq",
+  "date": "2016-10-04T18:59:34",
+  "languages": {
+    "Ruby": 21668393,
+    "Haml": 1618751,
+    "JavaScript": 882684,
+    "SCSS": 45102,
+    "CSS": 44705,
+    "Dockerfile": 7515,
+    "PowerShell": 5869,
+    "Shell": 4348,
+    "HTML": 3273,
+    "C": 2289,
+    "Perl": 1846,
+    "Makefile": 827
+  },
+  "size": 24285602
+}

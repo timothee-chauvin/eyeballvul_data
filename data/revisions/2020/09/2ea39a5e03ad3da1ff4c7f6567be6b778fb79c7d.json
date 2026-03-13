@@ -1,0 +1,13 @@
+{
+  "commit": "2ea39a5e03ad3da1ff4c7f6567be6b778fb79c7d",
+  "repo_url": "https://github.com/radarcovid/radar-covid-backend-dp3t-server",
+  "date": "2020-09-09T13:46:41",
+  "languages": {
+    "Java": 335148,
+    "Makefile": 1484,
+    "Dockerfile": 1351,
+    "PLpgSQL": 748,
+    "Shell": 447
+  },
+  "size": 339178
+}

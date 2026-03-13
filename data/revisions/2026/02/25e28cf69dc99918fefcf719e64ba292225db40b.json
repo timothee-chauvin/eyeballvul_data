@@ -1,0 +1,19 @@
+{
+  "commit": "25e28cf69dc99918fefcf719e64ba292225db40b",
+  "repo_url": "https://github.com/suitenumerique/messages",
+  "date": "2026-02-03T17:16:25",
+  "languages": {
+    "Python": 2449521,
+    "TypeScript": 1474563,
+    "SCSS": 230789,
+    "CSS": 195683,
+    "Shell": 20149,
+    "Makefile": 19226,
+    "Dockerfile": 14439,
+    "HTML": 6077,
+    "Jinja": 4330,
+    "JavaScript": 1306,
+    "Procfile": 244
+  },
+  "size": 4416327
+}

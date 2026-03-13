@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2018-101",
+  "published": "2018-03-31T21:29:00",
+  "modified": "2026-02-22T23:11:04.219773",
+  "details": "SickRage before v2018.03.09-1 includes cleartext credentials in HTTP responses.",
+  "repo_url": "https://github.com/sickrage/sickrage",
+  "cwes": [],
+  "commits": [
+    "986e796a7e9fcdf9d45b5a6c6fc469165ba47f90"
+  ]
+}

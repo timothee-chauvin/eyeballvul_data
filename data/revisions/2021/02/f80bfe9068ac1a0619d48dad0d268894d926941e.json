@@ -1,0 +1,21 @@
+{
+  "commit": "f80bfe9068ac1a0619d48dad0d268894d926941e",
+  "repo_url": "https://github.com/dogecoin/dogecoin",
+  "date": "2021-02-28T17:15:53",
+  "languages": {
+    "C++": 5029908,
+    "Python": 1125123,
+    "C": 791633,
+    "M4": 190732,
+    "Makefile": 110854,
+    "HTML": 50622,
+    "Shell": 49109,
+    "Java": 30290,
+    "Sage": 30192,
+    "Assembly": 28456,
+    "Objective-C++": 7240,
+    "CSS": 1127,
+    "QMake": 783
+  },
+  "size": 7446069
+}

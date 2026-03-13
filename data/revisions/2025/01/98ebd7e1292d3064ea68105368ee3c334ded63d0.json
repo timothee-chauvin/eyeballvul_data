@@ -1,0 +1,16 @@
+{
+  "commit": "98ebd7e1292d3064ea68105368ee3c334ded63d0",
+  "repo_url": "https://github.com/abseil/abseil-cpp",
+  "date": "2025-01-28T14:42:46",
+  "languages": {
+    "C++": 9450224,
+    "Starlark": 246475,
+    "CMake": 214723,
+    "NASL": 200092,
+    "C": 83064,
+    "Shell": 44576,
+    "Python": 22675,
+    "Batchfile": 6290
+  },
+  "size": 10268119
+}

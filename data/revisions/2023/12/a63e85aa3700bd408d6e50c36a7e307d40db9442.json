@@ -1,0 +1,18 @@
+{
+  "commit": "a63e85aa3700bd408d6e50c36a7e307d40db9442",
+  "repo_url": "https://github.com/0xjacky/nginx-ui",
+  "date": "2023-12-15T15:22:38",
+  "languages": {
+    "Vue": 265663,
+    "Go": 210107,
+    "TypeScript": 46725,
+    "Shell": 15399,
+    "JavaScript": 7484,
+    "Dockerfile": 3038,
+    "HTML": 521,
+    "Roff": 510,
+    "Less": 134,
+    "CSS": 59
+  },
+  "size": 549640
+}

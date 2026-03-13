@@ -1,0 +1,14 @@
+{
+  "commit": "215773cd532f1f973add4df4231c2a71afa7400d",
+  "repo_url": "https://github.com/hopsoft/turbo_boost-commands",
+  "date": "2024-03-14T16:12:17",
+  "languages": {
+    "HTML": 166074,
+    "Ruby": 103426,
+    "JavaScript": 30910,
+    "CSS": 7579,
+    "Shell": 3110,
+    "Dockerfile": 511
+  },
+  "size": 311610
+}

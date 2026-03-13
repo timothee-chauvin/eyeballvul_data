@@ -1,0 +1,25 @@
+{
+  "commit": "062819084fcf9cb5bb02bd4389695d581a731ce0",
+  "repo_url": "https://github.com/aws/aws-lc",
+  "date": "2026-02-20T17:43:03",
+  "languages": {
+    "Assembly": 15137493,
+    "C": 9971854,
+    "C++": 7299583,
+    "Perl": 2821424,
+    "Go": 1903898,
+    "Shell": 338023,
+    "CMake": 192258,
+    "Python": 184938,
+    "Dockerfile": 70063,
+    "Rust": 14316,
+    "Raku": 13424,
+    "Batchfile": 4556,
+    "POV-Ray SDL": 4471,
+    "Makefile": 2207,
+    "PowerShell": 2140,
+    "Nix": 2072,
+    "CSS": 1079
+  },
+  "size": 37963799
+}

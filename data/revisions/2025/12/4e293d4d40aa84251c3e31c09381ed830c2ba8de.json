@@ -1,0 +1,18 @@
+{
+  "commit": "4e293d4d40aa84251c3e31c09381ed830c2ba8de",
+  "repo_url": "https://github.com/apache/eventmesh",
+  "date": "2025-12-27T08:37:56",
+  "languages": {
+    "Java": 6499043,
+    "C": 822940,
+    "Go": 314527,
+    "ANTLR": 154541,
+    "PHP": 139983,
+    "Rust": 111860,
+    "Shell": 89293,
+    "HTML": 34671,
+    "Makefile": 21584,
+    "Dockerfile": 2055
+  },
+  "size": 8190497
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "77fd9af1cd5ea20a8768725d1a70afa384ff8e3b",
+  "repo_url": "https://github.com/nim-lang/nimforum",
+  "date": "2020-08-24T20:02:44",
+  "languages": {
+    "Nim": 202908,
+    "HTML": 15655,
+    "SCSS": 13205,
+    "Shell": 341,
+    "Dockerfile": 293
+  },
+  "size": 232402
+}

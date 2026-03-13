@@ -1,0 +1,12 @@
+{
+  "commit": "d85348987f8fd0e36763de69d6c665b630532429",
+  "repo_url": "https://github.com/nuxt/nuxt",
+  "date": "2023-05-29T11:48:59",
+  "languages": {
+    "TypeScript": 790182,
+    "JavaScript": 8626,
+    "Vue": 8177,
+    "Shell": 1473
+  },
+  "size": 808458
+}

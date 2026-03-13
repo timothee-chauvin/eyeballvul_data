@@ -1,0 +1,12 @@
+{
+  "commit": "94331a4aeaacb1cdb4d1f001b1e85f8da9d69624",
+  "repo_url": "https://github.com/mariadb-corporation/mariadb-connector-nodejs",
+  "date": "2019-07-11T14:22:16",
+  "languages": {
+    "JavaScript": 951281,
+    "Shell": 13325,
+    "TypeScript": 5801,
+    "Dockerfile": 4400
+  },
+  "size": 974807
+}

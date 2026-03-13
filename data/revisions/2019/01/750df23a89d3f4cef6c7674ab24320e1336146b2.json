@@ -1,0 +1,12 @@
+{
+  "commit": "750df23a89d3f4cef6c7674ab24320e1336146b2",
+  "repo_url": "https://github.com/python/typed_ast",
+  "date": "2019-01-14T22:37:55",
+  "languages": {
+    "C": 1378786,
+    "Python": 176861,
+    "Shell": 2854,
+    "Batchfile": 838
+  },
+  "size": 1559339
+}

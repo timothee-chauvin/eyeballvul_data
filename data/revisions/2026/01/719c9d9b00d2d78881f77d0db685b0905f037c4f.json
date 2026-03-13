@@ -1,0 +1,15 @@
+{
+  "commit": "719c9d9b00d2d78881f77d0db685b0905f037c4f",
+  "repo_url": "https://github.com/nekename/opendeck",
+  "date": "2026-01-04T10:19:30",
+  "languages": {
+    "Rust": 162904,
+    "Svelte": 74818,
+    "CSS": 54024,
+    "TypeScript": 11244,
+    "HTML": 10688,
+    "Shell": 8859,
+    "JavaScript": 268
+  },
+  "size": 322805
+}

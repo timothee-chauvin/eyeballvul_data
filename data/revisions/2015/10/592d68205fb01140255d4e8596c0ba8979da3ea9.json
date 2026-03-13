@@ -1,0 +1,10 @@
+{
+  "commit": "592d68205fb01140255d4e8596c0ba8979da3ea9",
+  "repo_url": "https://github.com/open-iscsi/tcmu-runner",
+  "date": "2015-10-13T17:43:06",
+  "languages": {
+    "C": 93278,
+    "CMake": 2201
+  },
+  "size": 95479
+}

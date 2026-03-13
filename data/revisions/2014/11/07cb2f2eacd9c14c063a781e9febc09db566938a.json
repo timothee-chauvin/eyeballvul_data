@@ -1,0 +1,18 @@
+{
+  "commit": "07cb2f2eacd9c14c063a781e9febc09db566938a",
+  "repo_url": "https://github.com/puppetlabs/marionette-collective",
+  "date": "2014-11-25T14:46:05",
+  "languages": {
+    "Ruby": 1053642,
+    "CSS": 45436,
+    "Shell": 18260,
+    "HTML": 15915,
+    "Python": 7569,
+    "Makefile": 6764,
+    "Perl": 5803,
+    "Vim Snippet": 2734,
+    "PHP": 1716,
+    "Batchfile": 804
+  },
+  "size": 1158643
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "31184b5692f06291701315300e39e49a457a4dcf",
+  "repo_url": "https://github.com/bytedesk/bytedesk",
+  "date": "2026-02-28T07:31:58",
+  "languages": {
+    "Java": 12190709,
+    "JavaScript": 1688940,
+    "CSS": 1559832,
+    "FreeMarker": 934131,
+    "Python": 407279,
+    "HTML": 362814,
+    "SCSS": 285219,
+    "Shell": 66172,
+    "TypeScript": 5054,
+    "Smarty": 3080,
+    "Smalltalk": 786,
+    "Dockerfile": 512
+  },
+  "size": 17504528
+}

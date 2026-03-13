@@ -1,0 +1,29 @@
+{
+  "commit": "17b5b3e0201cdf92d3c125776e1b2dd453f225bd",
+  "repo_url": "https://github.com/tcltk/tcl",
+  "date": "2020-12-30T18:23:08",
+  "languages": {
+    "C": 10050833,
+    "Tcl": 1843500,
+    "Makefile": 267313,
+    "Assembly": 141281,
+    "M4": 136109,
+    "Shell": 127737,
+    "BlitzBasic": 113933,
+    "Ada": 89079,
+    "Pascal": 75208,
+    "C#": 55627,
+    "C++": 45276,
+    "HTML": 29824,
+    "Yacc": 28472,
+    "DIGITAL Command Language": 27303,
+    "Perl": 19956,
+    "CMake": 8099,
+    "Roff": 7800,
+    "DTrace": 7273,
+    "Batchfile": 2982,
+    "SAS": 1847,
+    "Module Management System": 1545
+  },
+  "size": 13080997
+}

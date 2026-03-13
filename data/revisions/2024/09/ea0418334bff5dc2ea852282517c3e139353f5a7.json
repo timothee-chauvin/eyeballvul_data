@@ -1,0 +1,12 @@
+{
+  "commit": "ea0418334bff5dc2ea852282517c3e139353f5a7",
+  "repo_url": "https://github.com/langchain-ai/langgraph",
+  "date": "2024-09-27T20:12:06",
+  "languages": {
+    "Python": 1737001,
+    "TypeScript": 51945,
+    "Makefile": 11567,
+    "JavaScript": 5301
+  },
+  "size": 1805814
+}

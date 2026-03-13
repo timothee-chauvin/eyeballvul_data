@@ -1,0 +1,13 @@
+{
+  "commit": "e4d8656441d93eb08d74a0b7cf1036a0de7473b5",
+  "repo_url": "https://github.com/ansibleguy/webui",
+  "date": "2024-05-13T18:06:08",
+  "languages": {
+    "Python": 390096,
+    "HTML": 58137,
+    "JavaScript": 53070,
+    "CSS": 14282,
+    "Shell": 12530
+  },
+  "size": 528115
+}

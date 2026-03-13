@@ -1,0 +1,16 @@
+{
+  "commit": "46418c7ff275ae80de457209c1686811e033b5dd",
+  "repo_url": "https://github.com/nightscout/cgm-remote-monitor",
+  "date": "2021-02-22T08:41:16",
+  "languages": {
+    "JavaScript": 1516393,
+    "CSS": 153590,
+    "HTML": 92594,
+    "EJS": 6602,
+    "Shell": 6242,
+    "Makefile": 3466,
+    "Dockerfile": 301,
+    "Procfile": 31
+  },
+  "size": 1779219
+}

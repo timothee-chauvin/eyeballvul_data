@@ -1,0 +1,10 @@
+{
+  "commit": "c037a2aaa69618181c80d0967e907a1aa7350fc5",
+  "repo_url": "https://github.com/dotnet/core",
+  "date": "2025-05-13T19:49:39",
+  "languages": {
+    "PowerShell": 20421,
+    "Shell": 5074
+  },
+  "size": 25495
+}

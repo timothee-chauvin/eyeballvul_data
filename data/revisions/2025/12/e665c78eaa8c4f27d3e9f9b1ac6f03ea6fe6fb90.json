@@ -1,0 +1,18 @@
+{
+  "commit": "e665c78eaa8c4f27d3e9f9b1ac6f03ea6fe6fb90",
+  "repo_url": "https://github.com/libcdio/libcdio",
+  "date": "2025-12-15T21:40:41",
+  "languages": {
+    "C": 1849502,
+    "C++": 136683,
+    "M4": 120494,
+    "Makefile": 55189,
+    "Shell": 47406,
+    "TeX": 12678,
+    "Yacc": 10170,
+    "Ruby": 4032,
+    "Perl": 984,
+    "PowerShell": 594
+  },
+  "size": 2237732
+}

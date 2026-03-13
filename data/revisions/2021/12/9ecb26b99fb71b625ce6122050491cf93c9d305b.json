@@ -1,0 +1,12 @@
+{
+  "commit": "9ecb26b99fb71b625ce6122050491cf93c9d305b",
+  "repo_url": "https://github.com/theonemcdonald/pfsense-pkg-wireguard",
+  "date": "2021-12-06T14:48:25",
+  "languages": {
+    "PHP": 180496,
+    "Shell": 4858,
+    "Makefile": 3858,
+    "JavaScript": 870
+  },
+  "size": 190082
+}

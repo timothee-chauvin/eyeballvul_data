@@ -1,0 +1,14 @@
+{
+  "commit": "602ecc4687e4b8ec7b0783e91f8342405e2e9b93",
+  "repo_url": "https://github.com/kde/discover",
+  "date": "2021-03-02T12:15:58",
+  "languages": {
+    "C++": 791813,
+    "QML": 128008,
+    "CMake": 38930,
+    "JavaScript": 1371,
+    "C": 1364,
+    "Shell": 465
+  },
+  "size": 961951
+}

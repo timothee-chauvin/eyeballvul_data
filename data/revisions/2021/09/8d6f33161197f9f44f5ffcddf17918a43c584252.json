@@ -1,0 +1,12 @@
+{
+  "commit": "8d6f33161197f9f44f5ffcddf17918a43c584252",
+  "repo_url": "https://github.com/matrix-org/matrix-android-sdk2",
+  "date": "2021-09-08T20:30:17",
+  "languages": {
+    "Kotlin": 4378076,
+    "Java": 57617,
+    "JavaScript": 1782,
+    "Shell": 1130
+  },
+  "size": 4438605
+}

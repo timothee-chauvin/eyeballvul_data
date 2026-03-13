@@ -1,0 +1,17 @@
+{
+  "commit": "a50f935fb121710d500d34d1270f60219bd837bc",
+  "repo_url": "https://github.com/autodesk/3dsmax-usd",
+  "date": "2025-11-13T19:38:49",
+  "languages": {
+    "C++": 4701040,
+    "MAXScript": 1291971,
+    "Python": 564295,
+    "HTML": 159983,
+    "C": 51581,
+    "PowerShell": 16330,
+    "HLSL": 6891,
+    "Batchfile": 6467,
+    "R": 2714
+  },
+  "size": 6801272
+}

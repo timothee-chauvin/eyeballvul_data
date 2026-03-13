@@ -1,0 +1,16 @@
+{
+  "commit": "a54b8bf5619e1c12a3c972ec9a2d65a20ea71b2e",
+  "repo_url": "https://github.com/budabot/budabot",
+  "date": "2013-02-17T00:38:54",
+  "languages": {
+    "PHP": 1610631,
+    "HTML": 1098662,
+    "Python": 110711,
+    "JavaScript": 50683,
+    "CSS": 8184,
+    "Gherkin": 4808,
+    "Batchfile": 1633,
+    "Shell": 1529
+  },
+  "size": 2886841
+}

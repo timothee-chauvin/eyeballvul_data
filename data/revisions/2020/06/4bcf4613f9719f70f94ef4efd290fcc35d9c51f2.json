@@ -1,0 +1,13 @@
+{
+  "commit": "4bcf4613f9719f70f94ef4efd290fcc35d9c51f2",
+  "repo_url": "https://github.com/ngircd/ngircd",
+  "date": "2020-06-11T15:22:08",
+  "languages": {
+    "C": 740957,
+    "Shell": 38851,
+    "E": 23448,
+    "Makefile": 15725,
+    "Roff": 1529
+  },
+  "size": 820510
+}

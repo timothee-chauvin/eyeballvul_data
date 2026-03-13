@@ -1,0 +1,11 @@
+{
+  "commit": "8f4f69975baef06fcb96ab7671f43b712f9df245",
+  "repo_url": "https://github.com/ansible-collections/community.docker",
+  "date": "2021-03-08T01:38:38",
+  "languages": {
+    "Python": 741630,
+    "Shell": 21766,
+    "Dockerfile": 65
+  },
+  "size": 763461
+}

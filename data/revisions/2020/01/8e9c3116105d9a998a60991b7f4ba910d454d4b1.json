@@ -1,0 +1,13 @@
+{
+  "commit": "8e9c3116105d9a998a60991b7f4ba910d454d4b1",
+  "repo_url": "https://github.com/mariadb-corporation/mariadb-connector-c",
+  "date": "2020-01-22T10:08:18",
+  "languages": {
+    "C": 2782909,
+    "CMake": 91184,
+    "Shell": 13349,
+    "Roff": 4235,
+    "Dockerfile": 3000
+  },
+  "size": 2894677
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "57606c7aa1155ae9e475e173ce6cb0e316912796",
+  "repo_url": "https://github.com/google/gvisor",
+  "date": "2023-10-20T17:35:58",
+  "languages": {
+    "Go": 16122176,
+    "C++": 4040455,
+    "Starlark": 761509,
+    "Assembly": 182156,
+    "C": 84441,
+    "Shell": 63887,
+    "Makefile": 41928,
+    "HTML": 18035,
+    "Dockerfile": 12231,
+    "Python": 6200,
+    "SCSS": 5729,
+    "Ruby": 2430,
+    "JavaScript": 983,
+    "Handlebars": 103
+  },
+  "size": 21342263
+}

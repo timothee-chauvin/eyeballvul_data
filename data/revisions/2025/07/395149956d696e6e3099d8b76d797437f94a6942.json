@@ -1,0 +1,12 @@
+{
+  "commit": "395149956d696e6e3099d8b76d797437f94a6942",
+  "repo_url": "https://github.com/ip7z/7zip",
+  "date": "2025-07-05T14:27:33",
+  "languages": {
+    "C++": 6919158,
+    "C": 1595988,
+    "Assembly": 160313,
+    "Makefile": 129001
+  },
+  "size": 8804460
+}

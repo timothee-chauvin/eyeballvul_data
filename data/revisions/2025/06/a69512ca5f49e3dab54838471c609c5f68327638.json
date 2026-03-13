@@ -1,0 +1,14 @@
+{
+  "commit": "a69512ca5f49e3dab54838471c609c5f68327638",
+  "repo_url": "https://github.com/gsconnect/gnome-shell-extension-gsconnect",
+  "date": "2025-06-12T18:09:09",
+  "languages": {
+    "JavaScript": 1164741,
+    "Meson": 17007,
+    "Python": 6303,
+    "CSS": 5136,
+    "Shell": 3849,
+    "HTML": 557
+  },
+  "size": 1197593
+}

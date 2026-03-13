@@ -1,0 +1,25 @@
+{
+  "commit": "436881f8a0b2481e1574eb5edb5865dd618c4ef6",
+  "repo_url": "https://github.com/dart-lang/sdk",
+  "date": "2020-01-23T12:02:26",
+  "languages": {
+    "Dart": 75338770,
+    "C++": 17591124,
+    "Python": 1196448,
+    "HTML": 679168,
+    "Java": 625687,
+    "TeX": 271705,
+    "C": 269687,
+    "JavaScript": 156794,
+    "Shell": 141723,
+    "CSS": 75098,
+    "Batchfile": 49645,
+    "GAP": 37395,
+    "SCSS": 21056,
+    "Makefile": 8113,
+    "Assembly": 5209,
+    "CMake": 1598,
+    "Common Lisp": 234
+  },
+  "size": 96469454
+}

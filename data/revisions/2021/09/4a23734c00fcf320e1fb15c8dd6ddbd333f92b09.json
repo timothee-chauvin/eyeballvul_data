@@ -1,0 +1,17 @@
+{
+  "commit": "4a23734c00fcf320e1fb15c8dd6ddbd333f92b09",
+  "repo_url": "https://github.com/ledgersmb/ledgersmb",
+  "date": "2021-09-18T21:02:59",
+  "languages": {
+    "PLpgSQL": 3280778,
+    "Perl": 2802416,
+    "HTML": 883879,
+    "TeX": 186262,
+    "JavaScript": 99883,
+    "Gherkin": 98545,
+    "CSS": 93926,
+    "Shell": 40866,
+    "Makefile": 3859
+  },
+  "size": 7490414
+}

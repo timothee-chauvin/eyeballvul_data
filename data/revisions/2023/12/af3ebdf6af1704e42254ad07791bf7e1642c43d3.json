@@ -1,0 +1,26 @@
+{
+  "commit": "af3ebdf6af1704e42254ad07791bf7e1642c43d3",
+  "repo_url": "https://github.com/significant-gravitas/autogpt",
+  "date": "2023-12-14T15:16:10",
+  "languages": {
+    "JavaScript": 4071194,
+    "Python": 1214210,
+    "Jupyter Notebook": 491426,
+    "Dart": 204844,
+    "C++": 23419,
+    "TypeScript": 21579,
+    "CMake": 18862,
+    "HTML": 6532,
+    "Shell": 4151,
+    "Dockerfile": 2859,
+    "Ruby": 2803,
+    "Jinja": 2398,
+    "Swift": 2384,
+    "C": 1425,
+    "CSS": 1396,
+    "Batchfile": 478,
+    "Kotlin": 140,
+    "Objective-C": 38
+  },
+  "size": 6070138
+}

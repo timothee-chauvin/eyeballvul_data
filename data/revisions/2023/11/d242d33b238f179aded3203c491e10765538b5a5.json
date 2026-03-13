@@ -1,0 +1,15 @@
+{
+  "commit": "d242d33b238f179aded3203c491e10765538b5a5",
+  "repo_url": "https://github.com/noear/solon",
+  "date": "2023-11-01T02:16:47",
+  "languages": {
+    "Java": 5927034,
+    "TypeScript": 24742,
+    "HTML": 24058,
+    "Vue": 23764,
+    "FreeMarker": 1430,
+    "Kotlin": 539,
+    "CSS": 205
+  },
+  "size": 6001772
+}

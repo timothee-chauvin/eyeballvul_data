@@ -1,0 +1,19 @@
+{
+  "commit": "c2ee0db96e188ed39d60d34a604ee1cb1d6bfb28",
+  "repo_url": "https://github.com/ledgersmb/ledgersmb",
+  "date": "2018-05-31T20:40:58",
+  "languages": {
+    "PLpgSQL": 3337314,
+    "Perl": 2411737,
+    "HTML": 860631,
+    "TeX": 163877,
+    "Shell": 137508,
+    "JavaScript": 101180,
+    "CSS": 77289,
+    "Gherkin": 19231,
+    "Makefile": 17464,
+    "VCL": 1688,
+    "NASL": 1555
+  },
+  "size": 7129474
+}

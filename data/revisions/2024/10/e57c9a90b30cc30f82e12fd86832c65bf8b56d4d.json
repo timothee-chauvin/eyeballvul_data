@@ -1,0 +1,15 @@
+{
+  "commit": "e57c9a90b30cc30f82e12fd86832c65bf8b56d4d",
+  "repo_url": "https://github.com/ratify-project/ratify",
+  "date": "2024-10-23T08:27:03",
+  "languages": {
+    "Go": 1468643,
+    "Shell": 101882,
+    "Makefile": 40063,
+    "HCL": 7958,
+    "Dockerfile": 6486,
+    "Smarty": 5235,
+    "Open Policy Agent": 4550
+  },
+  "size": 1634817
+}

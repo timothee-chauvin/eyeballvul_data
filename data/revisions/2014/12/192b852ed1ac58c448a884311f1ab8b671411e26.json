@@ -1,0 +1,15 @@
+{
+  "commit": "192b852ed1ac58c448a884311f1ab8b671411e26",
+  "repo_url": "https://github.com/dokan-dev/dokany",
+  "date": "2014-12-10T12:29:31",
+  "languages": {
+    "C#": 727246,
+    "C": 443142,
+    "Java": 157020,
+    "C++": 32372,
+    "NSIS": 7045,
+    "Makefile": 1672,
+    "Batchfile": 817
+  },
+  "size": 1369314
+}

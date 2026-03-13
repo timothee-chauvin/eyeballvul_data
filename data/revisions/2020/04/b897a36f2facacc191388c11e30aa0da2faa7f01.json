@@ -1,0 +1,13 @@
+{
+  "commit": "b897a36f2facacc191388c11e30aa0da2faa7f01",
+  "repo_url": "https://github.com/hibernate/hibernate-orm",
+  "date": "2020-04-06T17:21:11",
+  "languages": {
+    "Java": 31414521,
+    "GAP": 88549,
+    "HTML": 24737,
+    "Groovy": 15207,
+    "Shell": 2521
+  },
+  "size": 31545535
+}

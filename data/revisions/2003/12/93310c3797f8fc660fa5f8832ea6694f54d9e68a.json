@@ -1,0 +1,12 @@
+{
+  "commit": "93310c3797f8fc660fa5f8832ea6694f54d9e68a",
+  "repo_url": "https://gitlab.com/gnutls/gnutls",
+  "date": "2003-12-04T11:07:32",
+  "languages": {
+    "C": 1946436,
+    "M4": 23962,
+    "Makefile": 9671,
+    "Shell": 3361
+  },
+  "size": 1983430
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "a397493d8fd5198b40d6c0ce1e4135c1f86d9ea9",
+  "repo_url": "https://github.com/sleuthkit/sleuthkit",
+  "date": "2021-07-31T15:00:31",
+  "languages": {
+    "C": 8472463,
+    "C++": 2523291,
+    "Java": 2454264,
+    "M4": 67546,
+    "Perl": 33382,
+    "Python": 19547,
+    "Makefile": 14134,
+    "Shell": 7083,
+    "HTML": 3612,
+    "Batchfile": 654
+  },
+  "size": 13595976
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "5ef858e9c62353f935b3b088b7d2c30a77ca5b01",
+  "repo_url": "https://github.com/sickrage/sickrage",
+  "date": "2021-03-11T17:51:46",
+  "languages": {
+    "Python": 2949729,
+    "Mako": 937745,
+    "JavaScript": 291174,
+    "Shell": 12454,
+    "SCSS": 9744,
+    "Dockerfile": 543
+  },
+  "size": 4201389
+}

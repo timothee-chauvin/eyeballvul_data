@@ -1,0 +1,20 @@
+{
+  "commit": "5fb0f93010ff7af426e72e9066db8cb19b8154be",
+  "repo_url": "https://github.com/mailcore/mailcore2",
+  "date": "2020-07-31T16:34:40",
+  "languages": {
+    "C++": 1837956,
+    "C": 1194502,
+    "Objective-C": 557289,
+    "Objective-C++": 294681,
+    "Java": 128039,
+    "Shell": 33627,
+    "CMake": 28969,
+    "Makefile": 5385,
+    "Ruby": 4260,
+    "DIGITAL Command Language": 901,
+    "JavaScript": 707,
+    "Batchfile": 151
+  },
+  "size": 4086467
+}

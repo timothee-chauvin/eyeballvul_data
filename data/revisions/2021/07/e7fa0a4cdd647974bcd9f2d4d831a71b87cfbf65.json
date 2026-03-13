@@ -1,0 +1,19 @@
+{
+  "commit": "e7fa0a4cdd647974bcd9f2d4d831a71b87cfbf65",
+  "repo_url": "https://github.com/nicolargo/glances",
+  "date": "2021-07-03T08:39:30",
+  "languages": {
+    "Python": 815957,
+    "JavaScript": 61973,
+    "HTML": 40019,
+    "SCSS": 4243,
+    "Dockerfile": 3710,
+    "Batchfile": 3366,
+    "PowerShell": 2786,
+    "Makefile": 2076,
+    "Shell": 1190,
+    "Smarty": 459,
+    "Less": 63
+  },
+  "size": 935842
+}

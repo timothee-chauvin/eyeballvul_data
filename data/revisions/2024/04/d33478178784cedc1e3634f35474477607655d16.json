@@ -1,0 +1,12 @@
+{
+  "commit": "d33478178784cedc1e3634f35474477607655d16",
+  "repo_url": "https://github.com/matter-labs/era-compiler-vyper",
+  "date": "2024-04-23T14:27:02",
+  "languages": {
+    "Rust": 244306,
+    "TypeScript": 10806,
+    "Vyper": 104,
+    "JavaScript": 70
+  },
+  "size": 255286
+}

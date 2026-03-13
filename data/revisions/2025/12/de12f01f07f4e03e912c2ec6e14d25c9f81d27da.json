@@ -1,0 +1,12 @@
+{
+  "commit": "de12f01f07f4e03e912c2ec6e14d25c9f81d27da",
+  "repo_url": "https://github.com/mattermost/mattermost-plugin-zoom",
+  "date": "2025-12-05T16:56:08",
+  "languages": {
+    "Go": 140088,
+    "JavaScript": 22148,
+    "Makefile": 16895,
+    "TypeScript": 243
+  },
+  "size": 179374
+}

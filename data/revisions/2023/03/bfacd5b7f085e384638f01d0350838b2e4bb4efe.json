@@ -1,0 +1,13 @@
+{
+  "commit": "bfacd5b7f085e384638f01d0350838b2e4bb4efe",
+  "repo_url": "https://github.com/saleor/saleor",
+  "date": "2023-03-02T08:26:16",
+  "languages": {
+    "Python": 12770614,
+    "HTML": 249248,
+    "Dockerfile": 2365,
+    "Shell": 439,
+    "Procfile": 290
+  },
+  "size": 13022956
+}

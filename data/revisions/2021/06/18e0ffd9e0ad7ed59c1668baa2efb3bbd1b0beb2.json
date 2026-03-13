@@ -1,0 +1,11 @@
+{
+  "commit": "18e0ffd9e0ad7ed59c1668baa2efb3bbd1b0beb2",
+  "repo_url": "https://github.com/biscuit-auth/biscuit-haskell",
+  "date": "2021-06-28T14:04:13",
+  "languages": {
+    "Haskell": 167938,
+    "Makefile": 455,
+    "Nix": 162
+  },
+  "size": 168555
+}

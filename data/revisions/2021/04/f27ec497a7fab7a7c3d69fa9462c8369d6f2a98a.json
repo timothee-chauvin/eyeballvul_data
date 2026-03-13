@@ -1,0 +1,13 @@
+{
+  "commit": "f27ec497a7fab7a7c3d69fa9462c8369d6f2a98a",
+  "repo_url": "https://github.com/openidc/mod_auth_openidc",
+  "date": "2021-04-05T14:22:26",
+  "languages": {
+    "C": 824541,
+    "M4": 3260,
+    "Makefile": 2803,
+    "Dockerfile": 1397,
+    "Shell": 62
+  },
+  "size": 832063
+}

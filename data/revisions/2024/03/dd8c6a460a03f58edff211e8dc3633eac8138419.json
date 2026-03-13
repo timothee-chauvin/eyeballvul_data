@@ -1,0 +1,12 @@
+{
+  "commit": "dd8c6a460a03f58edff211e8dc3633eac8138419",
+  "repo_url": "https://github.com/owasp/java-html-sanitizer",
+  "date": "2024-03-25T16:08:40",
+  "languages": {
+    "Java": 869356,
+    "JavaScript": 582603,
+    "HTML": 225348,
+    "Shell": 4437
+  },
+  "size": 1681744
+}

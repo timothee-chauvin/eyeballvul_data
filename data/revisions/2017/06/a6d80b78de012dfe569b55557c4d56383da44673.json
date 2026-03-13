@@ -1,0 +1,18 @@
+{
+  "commit": "a6d80b78de012dfe569b55557c4d56383da44673",
+  "repo_url": "https://github.com/jetbrains/kotlin",
+  "date": "2017-06-13T11:04:11",
+  "languages": {
+    "Java": 23533996,
+    "Kotlin": 23011106,
+    "JavaScript": 137649,
+    "HTML": 51139,
+    "Lex": 18174,
+    "Groovy": 14228,
+    "ANTLR": 9797,
+    "Shell": 5883,
+    "CSS": 4679,
+    "Batchfile": 4437
+  },
+  "size": 46791088
+}

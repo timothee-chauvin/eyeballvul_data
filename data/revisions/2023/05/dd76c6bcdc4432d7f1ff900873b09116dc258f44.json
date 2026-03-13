@@ -1,0 +1,28 @@
+{
+  "commit": "dd76c6bcdc4432d7f1ff900873b09116dc258f44",
+  "repo_url": "https://github.com/koha-community/koha",
+  "date": "2023-05-31T19:10:08",
+  "languages": {
+    "Perl": 18002301,
+    "JavaScript": 6199571,
+    "HTML": 2533627,
+    "XSLT": 1600159,
+    "Vue": 281048,
+    "SCSS": 252502,
+    "CSS": 211982,
+    "NASL": 147224,
+    "Pawn": 130548,
+    "C++": 118164,
+    "TypeScript": 78270,
+    "Assembly": 39932,
+    "SourcePawn": 25196,
+    "Python": 21872,
+    "Shell": 21676,
+    "mIRC Script": 8174,
+    "PHP": 5520,
+    "Raku": 3940,
+    "CoffeeScript": 3009,
+    "Makefile": 879
+  },
+  "size": 29685594
+}

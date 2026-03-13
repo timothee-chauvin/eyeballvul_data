@@ -1,0 +1,19 @@
+{
+  "commit": "ba817a83e788baf874ac3119ab32d912dc5b6d68",
+  "repo_url": "https://github.com/dotnet/cli",
+  "date": "2020-03-17T18:29:53",
+  "languages": {
+    "C#": 2483375,
+    "PowerShell": 148933,
+    "Shell": 101182,
+    "Dockerfile": 16613,
+    "CMake": 9153,
+    "Groovy": 5265,
+    "Batchfile": 2135,
+    "Visual Basic .NET": 1436,
+    "F#": 640,
+    "HTML": 242,
+    "Smalltalk": 108
+  },
+  "size": 2769082
+}

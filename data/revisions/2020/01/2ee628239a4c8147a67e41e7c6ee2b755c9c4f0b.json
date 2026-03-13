@@ -1,0 +1,14 @@
+{
+  "commit": "2ee628239a4c8147a67e41e7c6ee2b755c9c4f0b",
+  "repo_url": "https://gitlab.com/lepton-cms/lepton",
+  "date": "2020-01-21T14:26:18",
+  "languages": {
+    "PHP": 5207484,
+    "JavaScript": 1395971,
+    "CSS": 212103,
+    "ActionScript": 99210,
+    "HTML": 23187,
+    "Handlebars": 3488
+  },
+  "size": 6941443
+}

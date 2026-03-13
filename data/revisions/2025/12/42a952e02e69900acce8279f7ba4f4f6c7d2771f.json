@@ -1,0 +1,14 @@
+{
+  "commit": "42a952e02e69900acce8279f7ba4f4f6c7d2771f",
+  "repo_url": "https://github.com/dlemstra/magick.net",
+  "date": "2025-12-30T07:31:58",
+  "languages": {
+    "C#": 4322157,
+    "PowerShell": 22927,
+    "Batchfile": 11405,
+    "Shell": 4596,
+    "Dockerfile": 1311,
+    "Python": 774
+  },
+  "size": 4363170
+}

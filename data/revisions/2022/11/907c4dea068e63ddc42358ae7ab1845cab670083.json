@@ -1,0 +1,14 @@
+{
+  "commit": "907c4dea068e63ddc42358ae7ab1845cab670083",
+  "repo_url": "https://github.com/harttle/liquidjs",
+  "date": "2022-11-27T05:50:17",
+  "languages": {
+    "TypeScript": 446352,
+    "JavaScript": 19255,
+    "Liquid": 5254,
+    "Shell": 3587,
+    "Handlebars": 2003,
+    "HTML": 47
+  },
+  "size": 476498
+}

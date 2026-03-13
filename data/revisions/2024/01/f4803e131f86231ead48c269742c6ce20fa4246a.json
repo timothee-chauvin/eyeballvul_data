@@ -1,0 +1,18 @@
+{
+  "commit": "f4803e131f86231ead48c269742c6ce20fa4246a",
+  "repo_url": "https://github.com/galette/galette",
+  "date": "2024-01-16T06:57:05",
+  "languages": {
+    "PHP": 2608956,
+    "Twig": 712381,
+    "CSS": 72246,
+    "Python": 22408,
+    "JavaScript": 17109,
+    "Makefile": 2611,
+    "HTML": 2117,
+    "Batchfile": 794,
+    "Shell": 382,
+    "Smarty": 368
+  },
+  "size": 3439372
+}

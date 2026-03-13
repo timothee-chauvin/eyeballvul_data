@@ -1,0 +1,15 @@
+{
+  "commit": "29b4a00e4be209f9aac51cd9ccffcc632dfb2973",
+  "repo_url": "https://github.com/iahispano/applio",
+  "date": "2024-11-17T15:53:20",
+  "languages": {
+    "Python": 612380,
+    "Jupyter Notebook": 67289,
+    "JavaScript": 7651,
+    "Shell": 5972,
+    "Batchfile": 3883,
+    "Dockerfile": 1029,
+    "Makefile": 507
+  },
+  "size": 698711
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "e737294f1019c416f9d7a1f88bb807394965455f",
+  "repo_url": "https://github.com/openolat/openolat",
+  "date": "2021-10-29T13:04:56",
+  "languages": {
+    "Java": 58400907,
+    "JavaScript": 7668201,
+    "HTML": 1276098,
+    "SCSS": 675512,
+    "CSS": 398654,
+    "XSLT": 118189,
+    "Shell": 6334
+  },
+  "size": 68543895
+}

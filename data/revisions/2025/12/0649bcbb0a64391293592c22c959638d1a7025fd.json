@@ -1,0 +1,13 @@
+{
+  "commit": "0649bcbb0a64391293592c22c959638d1a7025fd",
+  "repo_url": "https://github.com/xddxdd/bird-lg-go",
+  "date": "2025-12-02T05:37:37",
+  "languages": {
+    "Go": 111796,
+    "Smarty": 5251,
+    "JavaScript": 2559,
+    "Dockerfile": 1942,
+    "Makefile": 408
+  },
+  "size": 121956
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "c40f7f570c04044ba99b8689579c85b7d15ce55c",
+  "repo_url": "https://github.com/nginx/nginx",
+  "date": "2015-04-07T15:35:33",
+  "languages": {
+    "C": 4037936,
+    "Vim Script": 37498,
+    "XS": 21306,
+    "Perl": 6636,
+    "Makefile": 4203,
+    "C++": 565
+  },
+  "size": 4108144
+}

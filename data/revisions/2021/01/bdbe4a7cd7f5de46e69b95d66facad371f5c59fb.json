@@ -1,0 +1,16 @@
+{
+  "commit": "bdbe4a7cd7f5de46e69b95d66facad371f5c59fb",
+  "repo_url": "https://github.com/tendermint/tendermint",
+  "date": "2021-01-12T17:24:44",
+  "languages": {
+    "Go": 3677104,
+    "Shell": 25264,
+    "Python": 19480,
+    "Makefile": 17274,
+    "Jinja": 13466,
+    "Dockerfile": 4047,
+    "HCL": 2065,
+    "HTML": 787
+  },
+  "size": 3759487
+}

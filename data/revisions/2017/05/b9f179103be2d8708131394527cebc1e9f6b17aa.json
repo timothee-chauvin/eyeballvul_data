@@ -1,0 +1,15 @@
+{
+  "commit": "b9f179103be2d8708131394527cebc1e9f6b17aa",
+  "repo_url": "https://github.com/identityserver/identityserver4",
+  "date": "2017-05-29T07:41:51",
+  "languages": {
+    "C#": 1627862,
+    "HTML": 16733,
+    "Shell": 6182,
+    "PowerShell": 6089,
+    "Less": 1845,
+    "CSS": 1423,
+    "JavaScript": 169
+  },
+  "size": 1660303
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "d265f004347ab6a8f56cd48b9ab65f5d41a422ef",
+  "repo_url": "https://github.com/wolfi-dev/wolfictl",
+  "date": "2024-05-10T23:28:46",
+  "languages": {
+    "Go": 958772,
+    "Makefile": 3323
+  },
+  "size": 962095
+}

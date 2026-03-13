@@ -1,0 +1,21 @@
+{
+  "commit": "15462ec034414a9a891c917a49ecf2782c31012d",
+  "repo_url": "https://github.com/bro/bro",
+  "date": "2017-10-16T20:38:30",
+  "languages": {
+    "Zeek": 3629573,
+    "C++": 3238141,
+    "JavaScript": 635010,
+    "C": 178954,
+    "Standard ML": 119908,
+    "Yacc": 64588,
+    "CMake": 50761,
+    "Lex": 41911,
+    "GLSL": 33057,
+    "Roff": 25580,
+    "Shell": 11551,
+    "Python": 8061,
+    "Makefile": 3871
+  },
+  "size": 8040966
+}

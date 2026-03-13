@@ -1,0 +1,18 @@
+{
+  "commit": "2811322600380756c0804448324d7e634637e3c3",
+  "repo_url": "https://github.com/ballerina-platform/ballerina-lang",
+  "date": "2020-12-04T17:15:32",
+  "languages": {
+    "Java": 27462396,
+    "Ballerina": 10266245,
+    "HTML": 839498,
+    "Mustache": 40361,
+    "Shell": 21559,
+    "Batchfile": 14817,
+    "Groovy": 12855,
+    "TypeScript": 3459,
+    "Rust": 1731,
+    "JavaScript": 1427
+  },
+  "size": 38664348
+}

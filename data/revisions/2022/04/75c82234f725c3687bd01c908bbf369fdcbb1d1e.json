@@ -1,0 +1,11 @@
+{
+  "commit": "75c82234f725c3687bd01c908bbf369fdcbb1d1e",
+  "repo_url": "https://github.com/containrrr/shoutrrr",
+  "date": "2022-04-10T10:40:02",
+  "languages": {
+    "Go": 407660,
+    "Shell": 609,
+    "Dockerfile": 225
+  },
+  "size": 408494
+}

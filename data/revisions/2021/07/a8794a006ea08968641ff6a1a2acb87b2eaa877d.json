@@ -1,0 +1,12 @@
+{
+  "commit": "a8794a006ea08968641ff6a1a2acb87b2eaa877d",
+  "repo_url": "https://github.com/edgexfoundry/app-service-configurable",
+  "date": "2021-07-30T15:39:16",
+  "languages": {
+    "Go": 7280,
+    "Shell": 3681,
+    "Dockerfile": 2048,
+    "Makefile": 1880
+  },
+  "size": 14889
+}

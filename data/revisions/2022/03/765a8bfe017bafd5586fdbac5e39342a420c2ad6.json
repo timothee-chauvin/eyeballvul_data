@@ -1,0 +1,17 @@
+{
+  "commit": "765a8bfe017bafd5586fdbac5e39342a420c2ad6",
+  "repo_url": "https://github.com/protonvpn/win-app",
+  "date": "2022-03-24T10:11:05",
+  "languages": {
+    "C++": 5461503,
+    "C#": 3948817,
+    "C": 960385,
+    "Makefile": 58828,
+    "Assembly": 43744,
+    "NSIS": 13741,
+    "Python": 12870,
+    "PowerShell": 7275,
+    "Batchfile": 1637
+  },
+  "size": 10508800
+}

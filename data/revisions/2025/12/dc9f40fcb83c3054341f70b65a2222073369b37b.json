@@ -1,0 +1,11 @@
+{
+  "commit": "dc9f40fcb83c3054341f70b65a2222073369b37b",
+  "repo_url": "https://github.com/stellar/rs-stellar-xdr",
+  "date": "2025-12-03T23:01:41",
+  "languages": {
+    "Rust": 5472074,
+    "Ruby": 45459,
+    "Makefile": 2243
+  },
+  "size": 5519776
+}

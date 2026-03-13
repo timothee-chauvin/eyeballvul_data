@@ -1,0 +1,14 @@
+{
+  "commit": "af94c67e42562e5f33d482880a080026dce42fe8",
+  "repo_url": "https://github.com/signalapp/signal-desktop",
+  "date": "2018-05-01T00:06:44",
+  "languages": {
+    "JavaScript": 6227390,
+    "SCSS": 80524,
+    "HTML": 69180,
+    "TypeScript": 66294,
+    "CSS": 4242,
+    "Shell": 4018
+  },
+  "size": 6451648
+}

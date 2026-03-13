@@ -1,0 +1,13 @@
+{
+  "commit": "762bf6a8caa007b0fd9205ea1e77b7b6bd42f821",
+  "repo_url": "https://github.com/rancher/backup-restore-operator",
+  "date": "2025-11-07T17:21:09",
+  "languages": {
+    "Go": 255233,
+    "Shell": 32816,
+    "Smarty": 2734,
+    "Dockerfile": 585,
+    "Makefile": 98
+  },
+  "size": 291466
+}

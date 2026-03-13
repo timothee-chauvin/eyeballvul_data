@@ -1,0 +1,13 @@
+{
+  "commit": "b7d876bcbd2e588906424a28018aa3bda1057e5b",
+  "repo_url": "https://github.com/haml/haml",
+  "date": "2017-02-26T11:26:33",
+  "languages": {
+    "Ruby": 290668,
+    "HTML": 18574,
+    "Haml": 14755,
+    "Logos": 589,
+    "Sass": 277
+  },
+  "size": 324863
+}

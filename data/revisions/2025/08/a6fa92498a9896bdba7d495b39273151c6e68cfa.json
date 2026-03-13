@@ -1,0 +1,13 @@
+{
+  "commit": "a6fa92498a9896bdba7d495b39273151c6e68cfa",
+  "repo_url": "https://github.com/pyvista/pyvista",
+  "date": "2025-08-26T05:25:33",
+  "languages": {
+    "Python": 6061134,
+    "TeX": 5078,
+    "Dockerfile": 1573,
+    "Makefile": 1221,
+    "Shell": 342
+  },
+  "size": 6069348
+}

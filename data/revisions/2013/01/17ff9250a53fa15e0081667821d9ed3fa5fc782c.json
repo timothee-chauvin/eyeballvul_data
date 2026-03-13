@@ -1,0 +1,13 @@
+{
+  "commit": "17ff9250a53fa15e0081667821d9ed3fa5fc782c",
+  "repo_url": "https://github.com/10gen-archive/mongo-c-driver-legacy",
+  "date": "2013-01-07T23:28:00",
+  "languages": {
+    "C": 366959,
+    "Python": 9729,
+    "Makefile": 7269,
+    "Shell": 1250,
+    "C++": 1127
+  },
+  "size": 386334
+}

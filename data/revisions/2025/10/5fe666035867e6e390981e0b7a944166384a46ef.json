@@ -1,0 +1,12 @@
+{
+  "commit": "5fe666035867e6e390981e0b7a944166384a46ef",
+  "repo_url": "https://github.com/golioth/golioth-firmware-sdk",
+  "date": "2025-10-17T22:21:28",
+  "languages": {
+    "C": 650499,
+    "Python": 59654,
+    "CMake": 15013,
+    "Shell": 3853
+  },
+  "size": 729019
+}

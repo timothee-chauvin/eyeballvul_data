@@ -1,0 +1,14 @@
+{
+  "commit": "0481c70c7e9514dc4201e20f7fa3f21818cad34b",
+  "repo_url": "https://github.com/grails/grails-core",
+  "date": "2022-06-23T12:29:39",
+  "languages": {
+    "HTML": 38185001,
+    "Groovy": 3042714,
+    "Java": 2790281,
+    "CSS": 116082,
+    "Shell": 5706,
+    "JavaScript": 3472
+  },
+  "size": 44143256
+}

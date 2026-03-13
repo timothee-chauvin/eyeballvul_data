@@ -1,0 +1,17 @@
+{
+  "commit": "1b5afffe1e865d4e0b5464e9d0116729ce289061",
+  "repo_url": "https://github.com/lobehub/lobehub",
+  "date": "2025-12-04T02:45:42",
+  "languages": {
+    "TypeScript": 13681566,
+    "HTML": 112691,
+    "JavaScript": 26673,
+    "Shell": 26385,
+    "MDX": 11645,
+    "PLpgSQL": 9963,
+    "Dockerfile": 9385,
+    "TeX": 1797,
+    "Gherkin": 1597
+  },
+  "size": 13881702
+}

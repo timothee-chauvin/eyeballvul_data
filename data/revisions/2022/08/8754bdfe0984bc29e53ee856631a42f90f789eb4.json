@@ -1,0 +1,13 @@
+{
+  "commit": "8754bdfe0984bc29e53ee856631a42f90f789eb4",
+  "repo_url": "https://github.com/pkgconf/pkgconf",
+  "date": "2022-08-16T19:50:26",
+  "languages": {
+    "C": 292556,
+    "Shell": 36394,
+    "M4": 18593,
+    "Makefile": 5821,
+    "Meson": 4832
+  },
+  "size": 358196
+}
