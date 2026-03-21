@@ -1,0 +1,21 @@
+{
+  "commit": "e34b2e76d8ac11cb439b50df62b5cd313d23c51c",
+  "repo_url": "https://github.com/xe/x",
+  "date": "2025-01-19T19:37:22",
+  "languages": {
+    "Go": 953067,
+    "CSS": 52267,
+    "JavaScript": 43953,
+    "TypeScript": 11843,
+    "Earthly": 9307,
+    "Rust": 4235,
+    "HCL": 2876,
+    "Dockerfile": 2511,
+    "Python": 2121,
+    "Shell": 1841,
+    "HTML": 1270,
+    "Ruby": 849,
+    "Makefile": 472
+  },
+  "size": 1086612
+}

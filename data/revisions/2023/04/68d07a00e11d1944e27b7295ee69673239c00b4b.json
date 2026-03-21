@@ -1,0 +1,11 @@
+{
+  "commit": "68d07a00e11d1944e27b7295ee69673239c00b4b",
+  "repo_url": "https://github.com/libuvc/libuvc",
+  "date": "2023-04-01T01:38:41",
+  "languages": {
+    "C": 297431,
+    "CMake": 12485,
+    "Python": 10263
+  },
+  "size": 320179
+}

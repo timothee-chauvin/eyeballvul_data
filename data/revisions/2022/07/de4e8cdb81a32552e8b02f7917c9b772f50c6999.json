@@ -1,0 +1,20 @@
+{
+  "commit": "de4e8cdb81a32552e8b02f7917c9b772f50c6999",
+  "repo_url": "https://github.com/stmicroelectronics/x-cube-azrtos-f7",
+  "date": "2022-07-01T16:47:40",
+  "languages": {
+    "C": 95649641,
+    "Assembly": 9073851,
+    "HTML": 1036427,
+    "Batchfile": 926638,
+    "PowerShell": 356603,
+    "CMake": 274497,
+    "CSS": 223173,
+    "C++": 42559,
+    "Makefile": 15787,
+    "JavaScript": 13269,
+    "Shell": 5700,
+    "Python": 2009
+  },
+  "size": 107620154
+}

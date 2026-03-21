@@ -1,0 +1,14 @@
+{
+  "commit": "6d8c246dcffdf9a4a7f51aba2d8c2df47672ce2f",
+  "repo_url": "https://github.com/limanmys/core",
+  "date": "2025-02-06T09:18:42",
+  "languages": {
+    "PHP": 595679,
+    "Ruby": 11579,
+    "Shell": 11366,
+    "Python": 10061,
+    "Dockerfile": 3753,
+    "HTML": 81
+  },
+  "size": 632519
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "068d886127b1e06fa3ad18fcac35fc52dc26a28c",
+  "repo_url": "https://github.com/open-feature/flagd",
+  "date": "2026-03-04T13:33:29",
+  "languages": {
+    "Go": 686211,
+    "TypeScript": 37386,
+    "Makefile": 8032,
+    "Shell": 5672,
+    "Dockerfile": 5440,
+    "JavaScript": 1703,
+    "HTML": 184
+  },
+  "size": 744628
+}

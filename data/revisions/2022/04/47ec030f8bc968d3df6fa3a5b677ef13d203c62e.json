@@ -1,0 +1,18 @@
+{
+  "commit": "47ec030f8bc968d3df6fa3a5b677ef13d203c62e",
+  "repo_url": "https://github.com/lichess-org/lila",
+  "date": "2022-04-01T06:21:59",
+  "languages": {
+    "Scala": 5129262,
+    "TypeScript": 1507513,
+    "SCSS": 554082,
+    "JavaScript": 207075,
+    "Java": 57152,
+    "Python": 28081,
+    "CSS": 24832,
+    "HTML": 17953,
+    "Shell": 6873,
+    "Ruby": 2003
+  },
+  "size": 7534826
+}

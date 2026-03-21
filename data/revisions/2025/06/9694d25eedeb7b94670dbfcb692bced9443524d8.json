@@ -1,0 +1,15 @@
+{
+  "commit": "9694d25eedeb7b94670dbfcb692bced9443524d8",
+  "repo_url": "https://github.com/duckdb/duckdb-node",
+  "date": "2025-06-18T15:36:17",
+  "languages": {
+    "C++": 16321235,
+    "C": 362791,
+    "TypeScript": 125095,
+    "Python": 34718,
+    "JavaScript": 20829,
+    "Shell": 4830,
+    "Makefile": 425
+  },
+  "size": 16869923
+}

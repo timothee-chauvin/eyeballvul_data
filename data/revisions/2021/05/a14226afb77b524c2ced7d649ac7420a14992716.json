@@ -1,0 +1,12 @@
+{
+  "commit": "a14226afb77b524c2ced7d649ac7420a14992716",
+  "repo_url": "https://github.com/python-websockets/websockets",
+  "date": "2021-05-15T16:01:23",
+  "languages": {
+    "Python": 631174,
+    "C": 5316,
+    "HTML": 3202,
+    "Makefile": 643
+  },
+  "size": 640335
+}

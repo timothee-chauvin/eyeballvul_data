@@ -1,0 +1,17 @@
+{
+  "commit": "8ce3a6d3b7bcf071e48198bed9c5d0cac0c68790",
+  "repo_url": "https://github.com/grafana/alloy",
+  "date": "2024-09-25T10:52:45",
+  "languages": {
+    "Go": 6466991,
+    "Jsonnet": 121696,
+    "TypeScript": 67195,
+    "Makefile": 23705,
+    "Shell": 16599,
+    "CSS": 12978,
+    "Dockerfile": 10726,
+    "Smarty": 7767,
+    "HTML": 888
+  },
+  "size": 6728545
+}

@@ -1,0 +1,24 @@
+{
+  "commit": "d816269b13a63d029286d4aae95023587fbd812e",
+  "repo_url": "https://github.com/mystenlabs/sui",
+  "date": "2023-06-17T03:11:58",
+  "languages": {
+    "Rust": 16181441,
+    "Move": 5277783,
+    "TypeScript": 2036379,
+    "SMT": 262895,
+    "TeX": 250116,
+    "Python": 151819,
+    "Boogie": 75792,
+    "Shell": 65102,
+    "SCSS": 37818,
+    "JavaScript": 16004,
+    "MDX": 14373,
+    "Dockerfile": 13250,
+    "CSS": 11716,
+    "PLpgSQL": 11523,
+    "HTML": 3652,
+    "Jupyter Notebook": 2124
+  },
+  "size": 24411787
+}

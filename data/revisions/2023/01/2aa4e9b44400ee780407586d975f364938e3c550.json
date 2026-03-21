@@ -1,0 +1,23 @@
+{
+  "commit": "2aa4e9b44400ee780407586d975f364938e3c550",
+  "repo_url": "https://github.com/lesspass/lesspass",
+  "date": "2023-01-02T22:09:11",
+  "languages": {
+    "JavaScript": 177023,
+    "Python": 98183,
+    "Vue": 60522,
+    "Java": 21847,
+    "HTML": 16422,
+    "C++": 7291,
+    "TypeScript": 6088,
+    "Swift": 4719,
+    "Objective-C++": 4445,
+    "Shell": 3569,
+    "Objective-C": 3557,
+    "Ruby": 1618,
+    "Dockerfile": 1331,
+    "Starlark": 602,
+    "CMake": 272
+  },
+  "size": 407489
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "d8290ee00ebfff26f0963a457d5e214640f46798",
+  "repo_url": "https://github.com/videolan/vlc-android",
+  "date": "2026-03-12T07:42:45",
+  "languages": {
+    "Kotlin": 4314876,
+    "Java": 307099,
+    "C++": 230228,
+    "Shell": 47056,
+    "AIDL": 20485,
+    "Ruby": 7956,
+    "Python": 5006,
+    "Makefile": 662
+  },
+  "size": 4933368
+}

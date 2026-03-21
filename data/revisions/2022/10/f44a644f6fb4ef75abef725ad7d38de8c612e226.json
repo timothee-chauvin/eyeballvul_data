@@ -1,0 +1,12 @@
+{
+  "commit": "f44a644f6fb4ef75abef725ad7d38de8c612e226",
+  "repo_url": "https://github.com/nordicsemiconductor/android-dfu-library",
+  "date": "2022-10-06T15:03:06",
+  "languages": {
+    "Java": 485371,
+    "Kotlin": 134170,
+    "Shell": 34701,
+    "Ruby": 1572
+  },
+  "size": 655814
+}

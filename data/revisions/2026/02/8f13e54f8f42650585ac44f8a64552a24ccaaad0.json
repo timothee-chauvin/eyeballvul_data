@@ -1,0 +1,15 @@
+{
+  "commit": "8f13e54f8f42650585ac44f8a64552a24ccaaad0",
+  "repo_url": "https://github.com/centrifugal/centrifugo",
+  "date": "2026-02-23T17:17:33",
+  "languages": {
+    "Go": 1329012,
+    "HTML": 52704,
+    "Shell": 40331,
+    "JavaScript": 3790,
+    "Makefile": 2362,
+    "Lua": 848,
+    "Dockerfile": 338
+  },
+  "size": 1429385
+}

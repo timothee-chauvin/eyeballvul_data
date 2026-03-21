@@ -1,0 +1,12 @@
+{
+  "commit": "be5532a76c72fb33fb1e9cd80ec51d1b7053652e",
+  "repo_url": "https://github.com/striae-org/striae",
+  "date": "2026-03-08T05:06:48",
+  "languages": {
+    "TypeScript": 794526,
+    "CSS": 171499,
+    "Shell": 49813,
+    "JavaScript": 9393
+  },
+  "size": 1025231
+}

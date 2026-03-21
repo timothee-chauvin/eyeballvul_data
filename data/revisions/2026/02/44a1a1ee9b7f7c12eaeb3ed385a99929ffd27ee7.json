@@ -1,0 +1,15 @@
+{
+  "commit": "44a1a1ee9b7f7c12eaeb3ed385a99929ffd27ee7",
+  "repo_url": "https://github.com/middleapi/orpc",
+  "date": "2026-02-11T12:53:54",
+  "languages": {
+    "TypeScript": 2977312,
+    "Vue": 11287,
+    "Svelte": 3800,
+    "JavaScript": 3762,
+    "HTML": 1814,
+    "CSS": 679,
+    "Astro": 481
+  },
+  "size": 2999135
+}

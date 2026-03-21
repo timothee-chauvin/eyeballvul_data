@@ -1,0 +1,17 @@
+{
+  "commit": "e142a9b495064cd718cf442ffe23b51ea089d9d6",
+  "repo_url": "https://github.com/lexbor/lexbor",
+  "date": "2025-11-10T18:37:57",
+  "languages": {
+    "C": 36747494,
+    "Python": 144078,
+    "CMake": 72812,
+    "Perl": 63896,
+    "CSS": 9609,
+    "HTML": 8392,
+    "Shell": 3091,
+    "Makefile": 2368,
+    "C++": 1417
+  },
+  "size": 37053157
+}

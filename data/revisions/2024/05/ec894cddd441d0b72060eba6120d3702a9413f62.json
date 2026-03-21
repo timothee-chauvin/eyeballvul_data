@@ -1,0 +1,13 @@
+{
+  "commit": "ec894cddd441d0b72060eba6120d3702a9413f62",
+  "repo_url": "https://github.com/letta-ai/letta",
+  "date": "2024-05-26T23:03:53",
+  "languages": {
+    "Python": 1311901,
+    "Jupyter Notebook": 7375,
+    "Shell": 3593,
+    "Dockerfile": 1440,
+    "HTML": 1199
+  },
+  "size": 1325508
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "5fa9b9dda57a7675e9b30681793339ff71a755a5",
+  "repo_url": "https://github.com/useplunk/plunk",
+  "date": "2026-02-19T18:57:50",
+  "languages": {
+    "TypeScript": 3169468,
+    "MDX": 66759,
+    "Shell": 17859,
+    "Dockerfile": 16339,
+    "JavaScript": 9495,
+    "CSS": 8484
+  },
+  "size": 3288404
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "445f56b9abf7491e00a9ca02c7dd15ecee4d1ea4",
+  "repo_url": "https://github.com/sammcj/mcp-package-docs",
+  "date": "2025-07-18T00:38:02",
+  "languages": {
+    "TypeScript": 198632,
+    "JavaScript": 11228,
+    "Dockerfile": 941
+  },
+  "size": 210801
+}

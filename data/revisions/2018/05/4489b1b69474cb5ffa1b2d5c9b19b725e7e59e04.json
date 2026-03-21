@@ -1,0 +1,21 @@
+{
+  "commit": "4489b1b69474cb5ffa1b2d5c9b19b725e7e59e04",
+  "repo_url": "https://github.com/znc/znc",
+  "date": "2018-05-01T21:15:45",
+  "languages": {
+    "C++": 1853801,
+    "JavaScript": 177237,
+    "CMake": 66020,
+    "M4": 60994,
+    "CSS": 43519,
+    "Perl": 40115,
+    "Python": 36334,
+    "SWIG": 26588,
+    "Makefile": 19898,
+    "C": 15699,
+    "Shell": 15413,
+    "Tcl": 9774,
+    "Groovy": 3936
+  },
+  "size": 2369328
+}

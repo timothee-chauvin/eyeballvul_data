@@ -1,0 +1,13 @@
+{
+  "commit": "a975b45c6ee609f939f431fb2a03a09ad872dbf2",
+  "repo_url": "https://github.com/amazon-ion/ion-c",
+  "date": "2024-07-30T20:59:59",
+  "languages": {
+    "C": 2642483,
+    "C++": 685018,
+    "CMake": 19993,
+    "HTML": 2022,
+    "Shell": 650
+  },
+  "size": 3350166
+}

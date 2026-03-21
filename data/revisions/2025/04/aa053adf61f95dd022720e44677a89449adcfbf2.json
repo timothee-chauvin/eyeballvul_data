@@ -1,0 +1,11 @@
+{
+  "commit": "aa053adf61f95dd022720e44677a89449adcfbf2",
+  "repo_url": "https://github.com/alexei-led/aws-mcp-server",
+  "date": "2025-04-09T09:00:21",
+  "languages": {
+    "Python": 184798,
+    "Makefile": 4139,
+    "Dockerfile": 3473
+  },
+  "size": 192410
+}

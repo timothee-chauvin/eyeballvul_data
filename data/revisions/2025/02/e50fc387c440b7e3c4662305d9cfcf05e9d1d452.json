@@ -1,0 +1,15 @@
+{
+  "commit": "e50fc387c440b7e3c4662305d9cfcf05e9d1d452",
+  "repo_url": "https://github.com/openflagr/flagr",
+  "date": "2025-02-28T15:53:16",
+  "languages": {
+    "Go": 245522,
+    "Vue": 63554,
+    "Shell": 14597,
+    "Makefile": 2578,
+    "JavaScript": 2253,
+    "Dockerfile": 1098,
+    "HTML": 550
+  },
+  "size": 330152
+}

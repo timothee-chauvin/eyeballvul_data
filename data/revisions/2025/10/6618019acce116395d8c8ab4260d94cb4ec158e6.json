@@ -1,0 +1,13 @@
+{
+  "commit": "6618019acce116395d8c8ab4260d94cb4ec158e6",
+  "repo_url": "https://github.com/immutable-js/immutable-js",
+  "date": "2025-10-13T07:19:11",
+  "languages": {
+    "TypeScript": 498557,
+    "MDX": 386574,
+    "JavaScript": 233207,
+    "CSS": 15914,
+    "Shell": 1114
+  },
+  "size": 1135366
+}

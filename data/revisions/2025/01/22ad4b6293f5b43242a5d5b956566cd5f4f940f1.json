@@ -1,0 +1,13 @@
+{
+  "commit": "22ad4b6293f5b43242a5d5b956566cd5f4f940f1",
+  "repo_url": "https://github.com/phcode-dev/phoenix-desktop",
+  "date": "2025-01-31T03:10:05",
+  "languages": {
+    "NSIS": 99808,
+    "JavaScript": 46946,
+    "Rust": 32339,
+    "CSS": 1488,
+    "HTML": 1250
+  },
+  "size": 181831
+}

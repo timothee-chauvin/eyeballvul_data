@@ -1,0 +1,13 @@
+{
+  "commit": "aa898542ad5d6f459a30c694bafcaa03948b14b3",
+  "repo_url": "https://github.com/kubernetes-csi/external-resizer",
+  "date": "2026-02-12T17:04:01",
+  "languages": {
+    "Go": 258666,
+    "Shell": 103822,
+    "Makefile": 14951,
+    "Python": 13570,
+    "Dockerfile": 202
+  },
+  "size": 391211
+}

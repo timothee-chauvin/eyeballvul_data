@@ -1,0 +1,17 @@
+{
+  "commit": "bd96b87f5edc0317134e3d5c0b9ed321e3f01015",
+  "repo_url": "https://github.com/jrsoftware/issrc",
+  "date": "2022-04-14T16:09:25",
+  "languages": {
+    "Pascal": 3362385,
+    "Inno Setup": 1491283,
+    "C": 258595,
+    "JavaScript": 27214,
+    "HTML": 14872,
+    "XSLT": 14035,
+    "CSS": 11796,
+    "Batchfile": 9780,
+    "PHP": 852
+  },
+  "size": 5190812
+}

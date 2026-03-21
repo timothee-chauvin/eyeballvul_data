@@ -1,0 +1,12 @@
+{
+  "commit": "ad5857e5384874e853cc9c4c29b867f1135a7c30",
+  "repo_url": "https://github.com/sindresorhus/file-type",
+  "date": "2026-03-09T08:21:53",
+  "languages": {
+    "JavaScript": 128001,
+    "PostScript": 23811,
+    "TypeScript": 1597,
+    "Rich Text Format": 340
+  },
+  "size": 153749
+}

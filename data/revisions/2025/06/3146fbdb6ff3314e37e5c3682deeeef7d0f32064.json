@@ -1,0 +1,16 @@
+{
+  "commit": "3146fbdb6ff3314e37e5c3682deeeef7d0f32064",
+  "repo_url": "https://github.com/alinto/sope",
+  "date": "2025-06-25T07:36:14",
+  "languages": {
+    "Objective-C": 7310192,
+    "Makefile": 311350,
+    "C": 147634,
+    "Roff": 126673,
+    "JavaScript": 37533,
+    "Python": 13752,
+    "Shell": 10401,
+    "Cython": 5974
+  },
+  "size": 7963509
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "9b3964e538bebb3febad84d36fe29b778534c6c3",
+  "repo_url": "https://github.com/sciurius/perl-harfbuzz-shaper",
+  "date": "2025-01-28T18:46:11",
+  "languages": {
+    "Perl": 60347,
+    "XS": 6378
+  },
+  "size": 66725
+}

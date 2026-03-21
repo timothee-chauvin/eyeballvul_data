@@ -1,0 +1,14 @@
+{
+  "commit": "667b358e762ea86984554b63499b21675d429c23",
+  "repo_url": "https://github.com/fluentcms/fluentcms",
+  "date": "2024-12-16T13:53:01",
+  "languages": {
+    "C#": 1538437,
+    "HTML": 1110055,
+    "JavaScript": 392823,
+    "SCSS": 44327,
+    "CSS": 35231,
+    "TSQL": 19152
+  },
+  "size": 3140025
+}

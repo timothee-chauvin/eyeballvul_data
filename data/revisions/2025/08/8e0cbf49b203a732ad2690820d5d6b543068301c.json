@@ -1,0 +1,11 @@
+{
+  "commit": "8e0cbf49b203a732ad2690820d5d6b543068301c",
+  "repo_url": "https://github.com/aiven/aiven-db-migrate",
+  "date": "2025-08-15T11:23:31",
+  "languages": {
+    "Python": 182019,
+    "Shell": 2842,
+    "Makefile": 1357
+  },
+  "size": 186218
+}

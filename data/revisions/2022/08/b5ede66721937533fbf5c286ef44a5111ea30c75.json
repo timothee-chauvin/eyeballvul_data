@@ -1,0 +1,12 @@
+{
+  "commit": "b5ede66721937533fbf5c286ef44a5111ea30c75",
+  "repo_url": "https://github.com/berry-lang/berry",
+  "date": "2022-08-01T07:43:41",
+  "languages": {
+    "C": 643398,
+    "Berry": 47206,
+    "Python": 32194,
+    "Makefile": 2203
+  },
+  "size": 725001
+}

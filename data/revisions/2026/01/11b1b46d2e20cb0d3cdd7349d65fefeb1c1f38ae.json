@@ -1,0 +1,13 @@
+{
+  "commit": "11b1b46d2e20cb0d3cdd7349d65fefeb1c1f38ae",
+  "repo_url": "https://github.com/mcpjam/inspector",
+  "date": "2026-01-07T18:25:21",
+  "languages": {
+    "TypeScript": 2658498,
+    "JavaScript": 28588,
+    "CSS": 18201,
+    "HTML": 13807,
+    "Dockerfile": 3083
+  },
+  "size": 2722177
+}

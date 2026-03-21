@@ -1,0 +1,11 @@
+{
+  "commit": "e098e9fee9f019400db510aa4e809243da69c175",
+  "repo_url": "https://github.com/espressif/esp-now",
+  "date": "2022-03-11T13:23:00",
+  "languages": {
+    "C": 281874,
+    "CMake": 1619,
+    "Shell": 582
+  },
+  "size": 284075
+}

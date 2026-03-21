@@ -1,0 +1,13 @@
+{
+  "commit": "6ec37bd44eedbeff1a378f7dcccd34510611d1d2",
+  "repo_url": "https://github.com/ekacnet/grafanacubism-panel",
+  "date": "2025-06-05T16:07:38",
+  "languages": {
+    "TypeScript": 89176,
+    "SCSS": 17938,
+    "JavaScript": 5348,
+    "Dockerfile": 995,
+    "Shell": 285
+  },
+  "size": 113742
+}

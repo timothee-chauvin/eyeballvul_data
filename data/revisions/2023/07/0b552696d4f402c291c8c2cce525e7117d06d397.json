@@ -1,0 +1,20 @@
+{
+  "commit": "0b552696d4f402c291c8c2cce525e7117d06d397",
+  "repo_url": "https://github.com/gramineproject/gramine",
+  "date": "2023-07-07T11:13:57",
+  "languages": {
+    "C": 3514553,
+    "Python": 229793,
+    "Meson": 75438,
+    "Assembly": 65768,
+    "Makefile": 43163,
+    "Shell": 33098,
+    "C++": 11313,
+    "Dockerfile": 10272,
+    "GDB": 4927,
+    "Rust": 971,
+    "Emacs Lisp": 478,
+    "HTML": 66
+  },
+  "size": 3989840
+}

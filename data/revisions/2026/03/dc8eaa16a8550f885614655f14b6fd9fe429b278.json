@@ -1,0 +1,17 @@
+{
+  "commit": "dc8eaa16a8550f885614655f14b6fd9fe429b278",
+  "repo_url": "https://github.com/homeassistant-ai/ha-mcp",
+  "date": "2026-03-11T02:33:52",
+  "languages": {
+    "Python": 3040713,
+    "Astro": 126945,
+    "Shell": 13627,
+    "TypeScript": 13446,
+    "Dockerfile": 6052,
+    "PowerShell": 6003,
+    "JavaScript": 583,
+    "CSS": 434,
+    "Roff": 194
+  },
+  "size": 3207997
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "4fa81306825341728580f0ecd2733b58a029e53a",
+  "repo_url": "https://github.com/unitycatalog/unitycatalog",
+  "date": "2026-02-11T03:00:47",
+  "languages": {
+    "Java": 1420881,
+    "Python": 893175,
+    "Jupyter Notebook": 481454,
+    "TypeScript": 272585,
+    "Scala": 77811,
+    "Shell": 38598,
+    "Smarty": 7673,
+    "Dockerfile": 2129,
+    "HTML": 1657,
+    "CSS": 108
+  },
+  "size": 3196071
+}

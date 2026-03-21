@@ -1,0 +1,15 @@
+{
+  "commit": "b6eb902d47736923ce716a66bfe3a52bb59bb551",
+  "repo_url": "https://github.com/steveiliop56/tinyauth",
+  "date": "2026-03-08T13:54:50",
+  "languages": {
+    "Go": 226433,
+    "TypeScript": 90851,
+    "CSS": 5104,
+    "Makefile": 2182,
+    "Dockerfile": 1480,
+    "JavaScript": 885,
+    "HTML": 749
+  },
+  "size": 327684
+}

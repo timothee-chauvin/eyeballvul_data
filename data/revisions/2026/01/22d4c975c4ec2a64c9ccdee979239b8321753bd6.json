@@ -1,0 +1,12 @@
+{
+  "commit": "22d4c975c4ec2a64c9ccdee979239b8321753bd6",
+  "repo_url": "https://github.com/emmansun/gmsm",
+  "date": "2026-01-28T03:18:46",
+  "languages": {
+    "Go": 4310945,
+    "Assembly": 1150098,
+    "C": 1095,
+    "Dockerfile": 518
+  },
+  "size": 5462656
+}

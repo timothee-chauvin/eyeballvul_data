@@ -1,0 +1,20 @@
+{
+  "commit": "0e6015c898e8962917d2e80545d8653d7563392b",
+  "repo_url": "https://github.com/nuclio/nuclio",
+  "date": "2026-02-20T14:00:02",
+  "languages": {
+    "Go": 3881856,
+    "JavaScript": 231818,
+    "Python": 192191,
+    "Less": 54725,
+    "Java": 41771,
+    "Makefile": 40231,
+    "C#": 29718,
+    "Dockerfile": 26028,
+    "HTML": 24422,
+    "Shell": 21214,
+    "Ruby": 10301,
+    "Smarty": 5869
+  },
+  "size": 4560144
+}

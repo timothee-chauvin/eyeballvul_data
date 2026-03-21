@@ -1,0 +1,15 @@
+{
+  "commit": "368e819c238f3d04bca66204fd37c826796b256b",
+  "repo_url": "https://github.com/publishpress/publishpress-future",
+  "date": "2025-10-27T15:28:08",
+  "languages": {
+    "JavaScript": 14880224,
+    "PHP": 2189758,
+    "CSS": 67115,
+    "Gherkin": 30656,
+    "Shell": 22840,
+    "Dockerfile": 1759,
+    "Makefile": 1141
+  },
+  "size": 17193493
+}

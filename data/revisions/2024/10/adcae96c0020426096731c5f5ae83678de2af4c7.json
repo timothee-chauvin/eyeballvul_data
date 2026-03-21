@@ -1,0 +1,14 @@
+{
+  "commit": "adcae96c0020426096731c5f5ae83678de2af4c7",
+  "repo_url": "https://github.com/ansible/django-ansible-base",
+  "date": "2024-10-14T13:42:46",
+  "languages": {
+    "Python": 1587764,
+    "HTML": 45730,
+    "Shell": 6085,
+    "Makefile": 2993,
+    "Dockerfile": 738,
+    "CSS": 92
+  },
+  "size": 1643402
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "95d52dd50fc91185928f5ca2ab96478d5f5506d1",
+  "repo_url": "https://github.com/adeptlanguage/adept",
+  "date": "2022-08-27T21:58:43",
+  "languages": {
+    "C": 1880037,
+    "Python": 54466,
+    "CMake": 11754,
+    "Shell": 461
+  },
+  "size": 1946718
+}

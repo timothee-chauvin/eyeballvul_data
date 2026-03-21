@@ -1,0 +1,17 @@
+{
+  "commit": "35b195c346a30fbf74ec915757449d9a019c33cf",
+  "repo_url": "https://github.com/ellanetworks/core",
+  "date": "2026-03-09T16:40:09",
+  "languages": {
+    "Go": 2640328,
+    "TypeScript": 482852,
+    "C": 75147,
+    "Python": 3563,
+    "SCSS": 868,
+    "JavaScript": 478,
+    "HTML": 424,
+    "CMake": 393,
+    "Shell": 341
+  },
+  "size": 3204394
+}

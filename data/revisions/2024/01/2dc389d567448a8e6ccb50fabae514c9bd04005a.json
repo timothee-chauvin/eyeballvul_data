@@ -1,0 +1,14 @@
+{
+  "commit": "2dc389d567448a8e6ccb50fabae514c9bd04005a",
+  "repo_url": "https://github.com/getkirby/demokit",
+  "date": "2024-01-30T15:42:56",
+  "languages": {
+    "PHP": 2099043,
+    "Vue": 26239,
+    "CSS": 14487,
+    "SCSS": 8741,
+    "Hack": 3376,
+    "JavaScript": 3052
+  },
+  "size": 2154938
+}

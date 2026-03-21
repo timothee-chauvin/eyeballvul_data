@@ -1,0 +1,19 @@
+{
+  "commit": "2ef956af8098de7afe168145cdfc529f6f908c3e",
+  "repo_url": "https://github.com/askbot/askbot-devel",
+  "date": "2015-04-22T07:47:01",
+  "languages": {
+    "Python": 8505681,
+    "JavaScript": 1348894,
+    "HTML": 612418,
+    "CSS": 228065,
+    "Less": 161934,
+    "PLSQL": 60607,
+    "SCSS": 60117,
+    "Mustache": 11523,
+    "Makefile": 4594,
+    "Batchfile": 4110,
+    "Shell": 396
+  },
+  "size": 10998339
+}

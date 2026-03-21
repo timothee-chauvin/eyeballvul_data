@@ -1,0 +1,13 @@
+{
+  "commit": "cb79a7414e8b2bff30113bdf2b9ec6d6e93c1146",
+  "repo_url": "https://github.com/supabase/auth",
+  "date": "2026-01-12T09:39:17",
+  "languages": {
+    "Go": 2074477,
+    "PLpgSQL": 6444,
+    "Makefile": 3712,
+    "Shell": 1903,
+    "Dockerfile": 902
+  },
+  "size": 2087438
+}

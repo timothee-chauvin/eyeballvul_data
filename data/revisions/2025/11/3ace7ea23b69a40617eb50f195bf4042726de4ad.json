@@ -1,0 +1,10 @@
+{
+  "commit": "3ace7ea23b69a40617eb50f195bf4042726de4ad",
+  "repo_url": "https://github.com/theupdateframework/go-tuf",
+  "date": "2025-11-04T16:20:07",
+  "languages": {
+    "Go": 312603,
+    "Makefile": 3760
+  },
+  "size": 316363
+}

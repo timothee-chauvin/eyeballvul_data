@@ -1,0 +1,16 @@
+{
+  "commit": "1f1e968269bbd7eaade7955892a6d8c281b91df2",
+  "repo_url": "https://github.com/szukw000/openjpeg",
+  "date": "2016-09-28T18:18:16",
+  "languages": {
+    "C": 4045584,
+    "C++": 313587,
+    "CMake": 115278,
+    "Java": 94654,
+    "Tcl": 28629,
+    "Shell": 19420,
+    "HTML": 14730,
+    "Inno Setup": 1876
+  },
+  "size": 4633758
+}

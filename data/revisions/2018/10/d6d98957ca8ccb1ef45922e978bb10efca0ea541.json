@@ -1,0 +1,21 @@
+{
+  "commit": "d6d98957ca8ccb1ef45922e978bb10efca0ea541",
+  "repo_url": "https://github.com/google/brotli",
+  "date": "2018-10-23T10:24:40",
+  "languages": {
+    "C": 1837891,
+    "C#": 748417,
+    "Java": 474721,
+    "JavaScript": 209973,
+    "Python": 129150,
+    "C++": 126074,
+    "Shell": 18710,
+    "Go": 18563,
+    "Starlark": 18457,
+    "CMake": 16441,
+    "Makefile": 4450,
+    "Lua": 1706,
+    "M4": 321
+  },
+  "size": 3604874
+}

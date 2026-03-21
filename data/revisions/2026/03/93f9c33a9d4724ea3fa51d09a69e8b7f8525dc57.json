@@ -1,0 +1,19 @@
+{
+  "commit": "93f9c33a9d4724ea3fa51d09a69e8b7f8525dc57",
+  "repo_url": "https://github.com/zarf-dev/zarf",
+  "date": "2026-03-03T20:34:51",
+  "languages": {
+    "Go": 2018309,
+    "MDX": 233012,
+    "HTML": 215771,
+    "Makefile": 12678,
+    "CSS": 8575,
+    "JavaScript": 8465,
+    "Astro": 5468,
+    "Mustache": 3250,
+    "TypeScript": 3176,
+    "Shell": 3106,
+    "Dockerfile": 400
+  },
+  "size": 2512210
+}

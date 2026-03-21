@@ -1,0 +1,11 @@
+{
+  "commit": "5ccfaa9d40c201b22aef625984702ea8e4210092",
+  "repo_url": "https://github.com/chainguard-dev/apko",
+  "date": "2026-01-23T14:40:26",
+  "languages": {
+    "Go": 1001907,
+    "Shell": 5432,
+    "Makefile": 4838
+  },
+  "size": 1012177
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "b1dee01ebd4dc1012d2ec768c6d94207d9b5604d",
+  "repo_url": "https://github.com/webreflection/flatted",
+  "date": "2026-03-02T08:46:04",
+  "languages": {
+    "JavaScript": 29669,
+    "Go": 17482,
+    "PHP": 8677,
+    "Python": 5989,
+    "Shell": 1790,
+    "HTML": 415,
+    "Makefile": 265
+  },
+  "size": 64287
+}

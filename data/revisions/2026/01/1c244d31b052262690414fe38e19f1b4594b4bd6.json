@@ -1,0 +1,15 @@
+{
+  "commit": "1c244d31b052262690414fe38e19f1b4594b4bd6",
+  "repo_url": "https://github.com/jellyfin/jellyfin-ios",
+  "date": "2026-01-05T18:51:34",
+  "languages": {
+    "JavaScript": 160946,
+    "TypeScript": 111973,
+    "Objective-C++": 6582,
+    "Ruby": 3878,
+    "Shell": 952,
+    "Objective-C": 391,
+    "Swift": 113
+  },
+  "size": 284835
+}

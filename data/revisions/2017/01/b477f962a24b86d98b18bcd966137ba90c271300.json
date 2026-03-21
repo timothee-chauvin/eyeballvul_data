@@ -1,0 +1,14 @@
+{
+  "commit": "b477f962a24b86d98b18bcd966137ba90c271300",
+  "repo_url": "https://github.com/gstreamer/gst-plugins-ugly",
+  "date": "2017-01-12T14:10:25",
+  "languages": {
+    "C": 1367900,
+    "M4": 88967,
+    "C++": 22639,
+    "Meson": 15790,
+    "Makefile": 14707,
+    "Shell": 6495
+  },
+  "size": 1516498
+}

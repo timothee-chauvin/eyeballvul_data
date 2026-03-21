@@ -1,0 +1,15 @@
+{
+  "commit": "05cd43ff66389b5143259415e6f3fba4e14fc3fe",
+  "repo_url": "https://github.com/jstedfast/mimekit",
+  "date": "2026-02-14T16:10:59",
+  "languages": {
+    "C#": 8005044,
+    "HTML": 2146441,
+    "PowerShell": 7824,
+    "Rich Text Format": 4153,
+    "Shell": 1161,
+    "Dockerfile": 515,
+    "Batchfile": 207
+  },
+  "size": 10165345
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "8e91badbca10f43e78ceeb1ad6daf87ee6e70522",
+  "repo_url": "https://github.com/gmarczynski/odoo-web-progress",
+  "date": "2023-01-29T13:21:41",
+  "languages": {
+    "Python": 38310,
+    "JavaScript": 31155,
+    "HTML": 4753,
+    "CSS": 3757
+  },
+  "size": 77975
+}

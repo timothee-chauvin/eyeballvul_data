@@ -1,0 +1,22 @@
+{
+  "commit": "6f39568ae6550d996ce2a19ad1e5f21904f3ab30",
+  "repo_url": "https://github.com/gpg/gnupg",
+  "date": "2025-05-14T12:49:04",
+  "languages": {
+    "C": 10831847,
+    "Scheme": 383626,
+    "TeX": 272721,
+    "M4": 222706,
+    "Shell": 206107,
+    "Makefile": 137940,
+    "NSIS": 55017,
+    "Awk": 10053,
+    "HTML": 3159,
+    "Perl": 1864,
+    "Python": 938,
+    "PHP": 822,
+    "CSS": 605,
+    "sed": 370
+  },
+  "size": 12127775
+}

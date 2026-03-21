@@ -1,0 +1,21 @@
+{
+  "commit": "2fa2b436eb2c822eb4d3099d57c90fc1bce18997",
+  "repo_url": "https://github.com/openfun/richie",
+  "date": "2025-11-03T10:56:06",
+  "languages": {
+    "Python": 2607559,
+    "TypeScript": 2197765,
+    "SCSS": 317655,
+    "HTML": 274254,
+    "JavaScript": 48050,
+    "Shell": 35112,
+    "Makefile": 21590,
+    "API Blueprint": 9503,
+    "Dockerfile": 7261,
+    "HCL": 7219,
+    "CSS": 7121,
+    "Smarty": 2764,
+    "MDX": 639
+  },
+  "size": 5536492
+}

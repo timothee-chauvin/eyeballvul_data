@@ -1,0 +1,12 @@
+{
+  "commit": "9762cf8b756a0ddf21f18298f0fb1c52c5fbbfca",
+  "repo_url": "https://github.com/pali/igmpproxy",
+  "date": "2022-10-29T10:01:46",
+  "languages": {
+    "C": 137896,
+    "Makefile": 1137,
+    "M4": 923,
+    "Shell": 68
+  },
+  "size": 140024
+}

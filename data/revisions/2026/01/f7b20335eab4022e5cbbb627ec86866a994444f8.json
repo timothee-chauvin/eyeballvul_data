@@ -1,0 +1,15 @@
+{
+  "commit": "f7b20335eab4022e5cbbb627ec86866a994444f8",
+  "repo_url": "https://github.com/appium/appium",
+  "date": "2026-01-26T22:59:26",
+  "languages": {
+    "JavaScript": 1388908,
+    "TypeScript": 586631,
+    "HTML": 19312,
+    "Shell": 1695,
+    "Python": 881,
+    "Ruby": 678,
+    "CSS": 497
+  },
+  "size": 1998602
+}

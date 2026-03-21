@@ -1,0 +1,14 @@
+{
+  "commit": "a104cce5feb6b1b4e4f27a5820d352ccb01ade88",
+  "repo_url": "https://github.com/hyperterse/hyperterse",
+  "date": "2026-03-02T19:00:59",
+  "languages": {
+    "Go": 267746,
+    "TypeScript": 37441,
+    "Shell": 23758,
+    "JavaScript": 4418,
+    "Ruby": 1498,
+    "Makefile": 902
+  },
+  "size": 335763
+}

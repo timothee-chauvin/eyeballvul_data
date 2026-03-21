@@ -1,0 +1,11 @@
+{
+  "commit": "39c7de4af41703108f8b3af7274bc65813c41799",
+  "repo_url": "https://github.com/netbox-community/netbox-docker",
+  "date": "2022-12-15T14:36:27",
+  "languages": {
+    "Shell": 32076,
+    "Python": 30927,
+    "Dockerfile": 4130
+  },
+  "size": 67133
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "295936916b7379c9e3f5727be4dcf055a0c7481c",
+  "repo_url": "https://github.com/stellar/rs-soroban-poseidon",
+  "date": "2026-01-29T23:11:52",
+  "languages": {
+    "Rust": 611487,
+    "Makefile": 1240
+  },
+  "size": 612727
+}

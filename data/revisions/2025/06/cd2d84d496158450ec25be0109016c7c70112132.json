@@ -1,0 +1,18 @@
+{
+  "commit": "cd2d84d496158450ec25be0109016c7c70112132",
+  "repo_url": "https://github.com/openai/codex",
+  "date": "2025-06-29T17:18:50",
+  "languages": {
+    "Rust": 879412,
+    "TypeScript": 792236,
+    "Python": 81383,
+    "JavaScript": 35402,
+    "Shell": 24508,
+    "Jupyter Notebook": 6932,
+    "HTML": 6230,
+    "Nix": 3568,
+    "Dockerfile": 2360,
+    "Just": 433
+  },
+  "size": 1832464
+}

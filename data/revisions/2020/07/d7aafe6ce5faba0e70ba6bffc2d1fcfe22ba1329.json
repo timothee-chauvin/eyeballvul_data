@@ -1,0 +1,18 @@
+{
+  "commit": "d7aafe6ce5faba0e70ba6bffc2d1fcfe22ba1329",
+  "repo_url": "https://github.com/federatedai/fate",
+  "date": "2020-07-21T03:53:19",
+  "languages": {
+    "Python": 4340807,
+    "Java": 698147,
+    "Shell": 73101,
+    "ANTLR": 26880,
+    "Cuda": 17921,
+    "C": 9558,
+    "Dockerfile": 6493,
+    "Cython": 970,
+    "Makefile": 233,
+    "Batchfile": 139
+  },
+  "size": 5174249
+}

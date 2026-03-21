@@ -1,0 +1,24 @@
+{
+  "commit": "d49b854cb0342e7bc744a728d6c397fe1274f45c",
+  "repo_url": "https://github.com/wordpress/gutenberg",
+  "date": "2023-10-11T18:55:41",
+  "languages": {
+    "JavaScript": 12379630,
+    "TypeScript": 2418643,
+    "PHP": 2368958,
+    "HTML": 755661,
+    "SCSS": 735775,
+    "Java": 235073,
+    "Swift": 126466,
+    "Mustache": 23341,
+    "Shell": 17509,
+    "Kotlin": 16486,
+    "CSS": 15961,
+    "PEG.js": 8241,
+    "Objective-C": 7915,
+    "Ruby": 6930,
+    "MDX": 2198,
+    "Starlark": 152
+  },
+  "size": 19118939
+}

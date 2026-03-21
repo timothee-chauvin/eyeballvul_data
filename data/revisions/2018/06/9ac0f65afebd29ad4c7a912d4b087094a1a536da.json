@@ -1,0 +1,12 @@
+{
+  "commit": "9ac0f65afebd29ad4c7a912d4b087094a1a536da",
+  "repo_url": "https://github.com/bytomdao/bytom",
+  "date": "2018-06-19T03:15:10",
+  "languages": {
+    "Go": 5152717,
+    "Makefile": 4724,
+    "Dockerfile": 518,
+    "Shell": 427
+  },
+  "size": 5158386
+}

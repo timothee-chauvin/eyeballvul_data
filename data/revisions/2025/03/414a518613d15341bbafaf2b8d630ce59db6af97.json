@@ -1,0 +1,12 @@
+{
+  "commit": "414a518613d15341bbafaf2b8d630ce59db6af97",
+  "repo_url": "https://github.com/vibrantlabsai/ragas",
+  "date": "2025-03-04T00:43:26",
+  "languages": {
+    "Python": 671745,
+    "Jupyter Notebook": 6963,
+    "Makefile": 2447,
+    "Dockerfile": 199
+  },
+  "size": 681354
+}

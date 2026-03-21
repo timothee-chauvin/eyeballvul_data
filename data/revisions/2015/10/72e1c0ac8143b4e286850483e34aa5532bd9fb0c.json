@@ -1,0 +1,17 @@
+{
+  "commit": "72e1c0ac8143b4e286850483e34aa5532bd9fb0c",
+  "repo_url": "https://github.com/powershell/win32-openssh",
+  "date": "2015-10-14T06:27:13",
+  "languages": {
+    "C": 4247865,
+    "Shell": 276453,
+    "Roff": 261300,
+    "M4": 122133,
+    "C++": 95155,
+    "Makefile": 72935,
+    "Awk": 8608,
+    "KRL": 5167,
+    "Perl": 1616
+  },
+  "size": 5091232
+}

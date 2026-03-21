@@ -1,0 +1,13 @@
+{
+  "commit": "fba4ae632d7eb2e16f7740bf21bb8fef1e5eee30",
+  "repo_url": "https://github.com/lakejason0/mediawiki-skins-lakeus",
+  "date": "2025-01-16T16:23:52",
+  "languages": {
+    "JavaScript": 119369,
+    "Less": 37691,
+    "Mustache": 6505,
+    "CSS": 4421,
+    "PHP": 4031
+  },
+  "size": 172017
+}

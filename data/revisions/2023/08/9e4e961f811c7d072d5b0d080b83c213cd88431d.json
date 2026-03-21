@@ -1,0 +1,17 @@
+{
+  "commit": "9e4e961f811c7d072d5b0d080b83c213cd88431d",
+  "repo_url": "https://github.com/cardano-scaling/hydra",
+  "date": "2023-08-18T09:26:56",
+  "languages": {
+    "Haskell": 1321653,
+    "TeX": 204309,
+    "Shell": 35574,
+    "Nix": 20917,
+    "HCL": 15896,
+    "JavaScript": 2560,
+    "HTML": 1239,
+    "CSS": 1110,
+    "C": 300
+  },
+  "size": 1603558
+}

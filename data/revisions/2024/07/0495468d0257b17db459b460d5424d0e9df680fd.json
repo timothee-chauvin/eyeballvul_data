@@ -1,0 +1,17 @@
+{
+  "commit": "0495468d0257b17db459b460d5424d0e9df680fd",
+  "repo_url": "https://github.com/topjohnwu/magisk",
+  "date": "2024-07-25T06:13:21",
+  "languages": {
+    "C++": 503494,
+    "Kotlin": 405296,
+    "Rust": 227705,
+    "Java": 123422,
+    "Shell": 66496,
+    "Python": 29269,
+    "Makefile": 5436,
+    "C": 699,
+    "AIDL": 255
+  },
+  "size": 1362072
+}

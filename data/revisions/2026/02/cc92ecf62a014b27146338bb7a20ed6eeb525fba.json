@@ -1,0 +1,16 @@
+{
+  "commit": "cc92ecf62a014b27146338bb7a20ed6eeb525fba",
+  "repo_url": "https://github.com/ghostfolio/ghostfolio",
+  "date": "2026-02-23T19:30:53",
+  "languages": {
+    "TypeScript": 2118050,
+    "HTML": 720347,
+    "SCSS": 63237,
+    "JavaScript": 12463,
+    "CSS": 6426,
+    "Dockerfile": 1981,
+    "PLpgSQL": 1966,
+    "Shell": 172
+  },
+  "size": 2924642
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "0e82d22d00e25584e65f819fa18e0c93f37349e1",
+  "repo_url": "https://github.com/tokuhirom/unqlite",
+  "date": "2026-02-25T01:19:42",
+  "languages": {
+    "C": 1934669,
+    "Perl": 12389,
+    "XS": 9763
+  },
+  "size": 1956821
+}

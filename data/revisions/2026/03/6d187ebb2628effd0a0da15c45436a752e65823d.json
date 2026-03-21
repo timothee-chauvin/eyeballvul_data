@@ -1,0 +1,13 @@
+{
+  "commit": "6d187ebb2628effd0a0da15c45436a752e65823d",
+  "repo_url": "https://github.com/django-commons/django-unicorn",
+  "date": "2026-03-02T12:18:23",
+  "languages": {
+    "Python": 456785,
+    "JavaScript": 207645,
+    "HTML": 33880,
+    "Just": 2133,
+    "CSS": 60
+  },
+  "size": 700503
+}

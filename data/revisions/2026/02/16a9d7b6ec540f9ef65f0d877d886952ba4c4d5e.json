@@ -1,0 +1,15 @@
+{
+  "commit": "16a9d7b6ec540f9ef65f0d877d886952ba4c4d5e",
+  "repo_url": "https://github.com/apich-organization/rssn",
+  "date": "2026-02-17T13:55:54",
+  "languages": {
+    "Rust": 8430742,
+    "C++": 2812076,
+    "Python": 22904,
+    "Shell": 16516,
+    "Batchfile": 4820,
+    "Handlebars": 398,
+    "HTML": 271
+  },
+  "size": 11287727
+}

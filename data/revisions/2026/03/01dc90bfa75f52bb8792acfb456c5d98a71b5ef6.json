@@ -1,0 +1,18 @@
+{
+  "commit": "01dc90bfa75f52bb8792acfb456c5d98a71b5ef6",
+  "repo_url": "https://github.com/cleanuparr/cleanuparr",
+  "date": "2026-03-12T20:30:59",
+  "languages": {
+    "C#": 2655085,
+    "TypeScript": 326517,
+    "HTML": 139843,
+    "SCSS": 133575,
+    "Inno Setup": 6201,
+    "Dockerfile": 2323,
+    "Makefile": 1950,
+    "Shell": 1693,
+    "Smalltalk": 141,
+    "JavaScript": 42
+  },
+  "size": 3267370
+}

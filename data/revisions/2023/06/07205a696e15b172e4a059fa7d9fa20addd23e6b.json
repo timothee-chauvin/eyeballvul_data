@@ -1,0 +1,13 @@
+{
+  "commit": "07205a696e15b172e4a059fa7d9fa20addd23e6b",
+  "repo_url": "https://github.com/bluelabsio/records-mover",
+  "date": "2023-06-12T15:43:54",
+  "languages": {
+    "Python": 1638538,
+    "Shell": 18682,
+    "Makefile": 2427,
+    "Dockerfile": 1458,
+    "Ruby": 1365
+  },
+  "size": 1662470
+}

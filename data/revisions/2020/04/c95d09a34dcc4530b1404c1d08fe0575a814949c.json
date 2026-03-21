@@ -1,0 +1,11 @@
+{
+  "commit": "c95d09a34dcc4530b1404c1d08fe0575a814949c",
+  "repo_url": "https://github.com/kata-containers/kata-containers",
+  "date": "2020-04-17T21:55:51",
+  "languages": {
+    "Rust": 1523773,
+    "Shell": 4830,
+    "Makefile": 3236
+  },
+  "size": 1531839
+}

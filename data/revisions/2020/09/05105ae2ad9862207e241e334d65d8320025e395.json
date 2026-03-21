@@ -1,0 +1,10 @@
+{
+  "commit": "05105ae2ad9862207e241e334d65d8320025e395",
+  "repo_url": "https://github.com/ansible-collections/community.crypto",
+  "date": "2020-09-14T20:21:54",
+  "languages": {
+    "Python": 1057008,
+    "Shell": 10283
+  },
+  "size": 1067291
+}
