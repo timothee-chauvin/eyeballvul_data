@@ -1,0 +1,16 @@
+{
+  "commit": "760f97698835604b99bac68a28382f228b868e21",
+  "repo_url": "https://github.com/symless/synergy",
+  "date": "2020-08-11T15:25:45",
+  "languages": {
+    "C": 2790727,
+    "C++": 2652308,
+    "Objective-C++": 57270,
+    "CMake": 48499,
+    "Objective-C": 21144,
+    "QMake": 5919,
+    "Shell": 1218,
+    "Batchfile": 143
+  },
+  "size": 5577228
+}
