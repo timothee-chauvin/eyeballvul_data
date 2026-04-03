@@ -1,0 +1,12 @@
+{
+  "commit": "ae06b4552bfcda5a91089c2f3a71d7897b9205b9",
+  "repo_url": "https://github.com/sequelize/sequelize",
+  "date": "2019-06-12T20:34:06",
+  "languages": {
+    "JavaScript": 3117777,
+    "TypeScript": 31629,
+    "PowerShell": 1527,
+    "Dockerfile": 100
+  },
+  "size": 3151033
+}

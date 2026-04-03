@@ -1,0 +1,14 @@
+{
+  "commit": "72fed3d8cce5bc4840afc471c7e7ee9ab99e60f2",
+  "repo_url": "https://github.com/teamwire/platform",
+  "date": "2022-09-20T12:31:52",
+  "languages": {
+    "Jinja": 70691,
+    "Shell": 70285,
+    "Python": 44983,
+    "Go": 14543,
+    "HCL": 3230,
+    "Vim Script": 13
+  },
+  "size": 203745
+}

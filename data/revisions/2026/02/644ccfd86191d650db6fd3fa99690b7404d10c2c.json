@@ -1,0 +1,14 @@
+{
+  "commit": "644ccfd86191d650db6fd3fa99690b7404d10c2c",
+  "repo_url": "https://github.com/nextcloud/groupfolders",
+  "date": "2026-02-23T13:19:35",
+  "languages": {
+    "PHP": 757050,
+    "JavaScript": 253588,
+    "TypeScript": 158213,
+    "Vue": 17727,
+    "SCSS": 4891,
+    "Makefile": 2275
+  },
+  "size": 1193744
+}

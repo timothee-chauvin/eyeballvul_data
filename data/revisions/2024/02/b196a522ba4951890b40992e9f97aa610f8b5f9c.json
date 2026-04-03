@@ -1,0 +1,18 @@
+{
+  "commit": "b196a522ba4951890b40992e9f97aa610f8b5f9c",
+  "repo_url": "https://github.com/evmos/evmos",
+  "date": "2024-02-02T13:59:37",
+  "languages": {
+    "Go": 6447985,
+    "Python": 233767,
+    "Solidity": 92378,
+    "Shell": 51282,
+    "Nix": 22020,
+    "Makefile": 21846,
+    "JavaScript": 18476,
+    "Jsonnet": 15828,
+    "Batchfile": 2623,
+    "Dockerfile": 2434
+  },
+  "size": 6908639
+}

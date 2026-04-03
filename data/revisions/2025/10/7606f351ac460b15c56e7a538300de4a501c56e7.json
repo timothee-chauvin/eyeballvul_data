@@ -1,0 +1,13 @@
+{
+  "commit": "7606f351ac460b15c56e7a538300de4a501c56e7",
+  "repo_url": "https://github.com/dynaconf/dynaconf",
+  "date": "2025-10-10T19:45:26",
+  "languages": {
+    "Python": 733805,
+    "Shell": 9789,
+    "Makefile": 9736,
+    "HTML": 2867,
+    "HCL": 106
+  },
+  "size": 756303
+}

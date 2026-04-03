@@ -1,0 +1,14 @@
+{
+  "commit": "fc2a4b9b4a6a23b14e24bb51ce46a62e6442cd0e",
+  "repo_url": "https://github.com/basecamp/trix",
+  "date": "2024-05-15T09:07:17",
+  "languages": {
+    "CoffeeScript": 440992,
+    "SCSS": 11594,
+    "Ruby": 4974,
+    "HTML": 3057,
+    "Shell": 2508,
+    "JavaScript": 2486
+  },
+  "size": 465611
+}

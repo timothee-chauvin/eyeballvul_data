@@ -1,0 +1,21 @@
+{
+  "commit": "ce7678eaa13722541f7d1eeda7ffbf8c9f753e20",
+  "repo_url": "https://github.com/datalinkdc/dinky",
+  "date": "2025-11-05T09:55:57",
+  "languages": {
+    "Java": 7534531,
+    "TypeScript": 2267757,
+    "PLpgSQL": 1108922,
+    "Shell": 51264,
+    "Less": 39172,
+    "Python": 23269,
+    "JavaScript": 12618,
+    "CSS": 6115,
+    "FreeMarker": 3801,
+    "Smarty": 1857,
+    "Dockerfile": 1785,
+    "Batchfile": 1197,
+    "Scala": 281
+  },
+  "size": 11052569
+}

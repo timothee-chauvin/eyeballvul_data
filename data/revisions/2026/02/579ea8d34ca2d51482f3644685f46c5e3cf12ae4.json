@@ -1,0 +1,16 @@
+{
+  "commit": "579ea8d34ca2d51482f3644685f46c5e3cf12ae4",
+  "repo_url": "https://github.com/autobrr/qui",
+  "date": "2026-02-23T12:47:46",
+  "languages": {
+    "Go": 4841575,
+    "TypeScript": 3488627,
+    "CSS": 55996,
+    "Python": 9419,
+    "Makefile": 7332,
+    "HTML": 6281,
+    "Dockerfile": 4115,
+    "JavaScript": 1562
+  },
+  "size": 8414907
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "36b1707f13fce633b442aac12c4c8f21b28510e5",
+  "repo_url": "https://github.com/nextcloud/apps",
+  "date": "2019-05-17T20:34:51",
+  "languages": {
+    "JavaScript": 2129813,
+    "CSS": 113851,
+    "PHP": 104193,
+    "HTML": 34118,
+    "Hack": 12968,
+    "Perl": 4815,
+    "Shell": 214
+  },
+  "size": 2399972
+}

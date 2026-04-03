@@ -1,0 +1,14 @@
+{
+  "commit": "581841b85e88489a1804c8cba84f4615c9145698",
+  "repo_url": "https://github.com/libarchive/libarchive",
+  "date": "2013-01-14T01:36:50",
+  "languages": {
+    "C": 5377487,
+    "Roff": 322574,
+    "M4": 84931,
+    "CMake": 84665,
+    "Shell": 39463,
+    "Makefile": 39291
+  },
+  "size": 5948411
+}

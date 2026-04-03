@@ -1,0 +1,14 @@
+{
+  "commit": "e8bb681523f4278ebc096985a3926bf4920930c9",
+  "repo_url": "https://github.com/ckeditor/ckeditor5",
+  "date": "2024-10-15T07:47:40",
+  "languages": {
+    "JavaScript": 14946765,
+    "Rich Text Format": 14464914,
+    "TypeScript": 6345237,
+    "HTML": 4905417,
+    "CSS": 236689,
+    "Shell": 2349
+  },
+  "size": 40901371
+}

@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-42978",
+  "published": "2022-10-26T21:15:00",
+  "modified": "2023-11-08T04:09:40.152948",
+  "details": "Business Logic Errors in GitHub repository ikus060/rdiffweb prior to 2.5.0a7.",
+  "repo_url": "https://github.com/ikus060/rdiffweb",
+  "cwes": [],
+  "commits": [
+    "a1938147896e0421c86388e62171489219c6dc96"
+  ]
+}

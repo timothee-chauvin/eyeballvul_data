@@ -1,0 +1,20 @@
+{
+  "commit": "38be2a268f298977a2aaf34984c311ea0c9a6c19",
+  "repo_url": "https://github.com/dagu-org/dagu",
+  "date": "2026-03-19T09:25:28",
+  "languages": {
+    "Go": 8382111,
+    "TypeScript": 2202900,
+    "CSS": 25757,
+    "Makefile": 17265,
+    "JavaScript": 16433,
+    "Shell": 9555,
+    "PowerShell": 9275,
+    "Batchfile": 4673,
+    "Dockerfile": 3249,
+    "HTML": 2263,
+    "Smarty": 1126,
+    "Zig": 205
+  },
+  "size": 10674812
+}

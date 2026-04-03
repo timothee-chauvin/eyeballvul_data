@@ -1,0 +1,13 @@
+{
+  "commit": "479147a4df05f31be48aeb2b3a9d32dfc35ba877",
+  "repo_url": "https://github.com/sigstore/cosign",
+  "date": "2026-02-19T18:42:21",
+  "languages": {
+    "Go": 1870507,
+    "Shell": 15952,
+    "Makefile": 8976,
+    "PowerShell": 1531,
+    "Dockerfile": 750
+  },
+  "size": 1897716
+}

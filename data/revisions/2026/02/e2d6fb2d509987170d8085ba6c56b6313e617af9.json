@@ -1,0 +1,15 @@
+{
+  "commit": "e2d6fb2d509987170d8085ba6c56b6313e617af9",
+  "repo_url": "https://github.com/lektor/lektor",
+  "date": "2026-02-11T17:38:05",
+  "languages": {
+    "Python": 847293,
+    "TypeScript": 197232,
+    "HTML": 28002,
+    "SCSS": 9852,
+    "CSS": 2475,
+    "Makefile": 804,
+    "JavaScript": 799
+  },
+  "size": 1086457
+}

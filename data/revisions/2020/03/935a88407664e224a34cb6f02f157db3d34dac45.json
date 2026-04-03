@@ -1,0 +1,27 @@
+{
+  "commit": "935a88407664e224a34cb6f02f157db3d34dac45",
+  "repo_url": "https://github.com/crawl/crawl",
+  "date": "2020-03-22T04:55:28",
+  "languages": {
+    "C++": 11797186,
+    "C": 948820,
+    "Lua": 641465,
+    "JavaScript": 321661,
+    "Python": 155357,
+    "Perl": 96446,
+    "Makefile": 72599,
+    "Java": 39258,
+    "Shell": 31976,
+    "TeX": 16143,
+    "HTML": 14602,
+    "Vim Script": 14226,
+    "CSS": 13838,
+    "Objective-C": 11618,
+    "NSIS": 3495,
+    "C#": 1389,
+    "Roff": 1275,
+    "sed": 159,
+    "Batchfile": 132
+  },
+  "size": 14181645
+}

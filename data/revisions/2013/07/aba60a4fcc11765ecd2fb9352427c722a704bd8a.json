@@ -1,0 +1,27 @@
+{
+  "commit": "aba60a4fcc11765ecd2fb9352427c722a704bd8a",
+  "repo_url": "https://github.com/libreswan/libreswan",
+  "date": "2013-07-13T19:51:56",
+  "languages": {
+    "C": 6332620,
+    "Shell": 2958044,
+    "Roff": 532381,
+    "Makefile": 223400,
+    "Assembly": 117832,
+    "Perl": 95490,
+    "Objective-C": 68148,
+    "Python": 58694,
+    "C++": 40617,
+    "Tcl": 26498,
+    "Yacc": 22836,
+    "SWIG": 17107,
+    "Lex": 15212,
+    "sed": 14891,
+    "M4": 14280,
+    "GDB": 5655,
+    "PHP": 3527,
+    "DIGITAL Command Language": 3135,
+    "Emacs Lisp": 117
+  },
+  "size": 10550484
+}

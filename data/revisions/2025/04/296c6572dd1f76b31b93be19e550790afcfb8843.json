@@ -1,0 +1,15 @@
+{
+  "commit": "296c6572dd1f76b31b93be19e550790afcfb8843",
+  "repo_url": "https://github.com/vllm-project/vllm",
+  "date": "2025-04-06T04:10:57",
+  "languages": {
+    "Python": 12873381,
+    "Cuda": 1551177,
+    "C++": 534031,
+    "C": 92703,
+    "Shell": 83237,
+    "CMake": 52773,
+    "Dockerfile": 14193
+  },
+  "size": 15201495
+}

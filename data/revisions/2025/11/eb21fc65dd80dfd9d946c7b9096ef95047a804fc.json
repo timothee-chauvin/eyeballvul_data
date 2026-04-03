@@ -1,0 +1,16 @@
+{
+  "commit": "eb21fc65dd80dfd9d946c7b9096ef95047a804fc",
+  "repo_url": "https://github.com/aapanel/aapanel",
+  "date": "2025-11-21T09:19:27",
+  "languages": {
+    "Python": 15228973,
+    "JavaScript": 5494688,
+    "CSS": 1231369,
+    "HTML": 1042729,
+    "Shell": 145105,
+    "PHP": 10398,
+    "Perl": 38,
+    "Raku": 4
+  },
+  "size": 23153304
+}

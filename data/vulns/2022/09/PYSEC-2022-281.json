@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-281",
+  "published": "2022-09-17T20:15:00",
+  "modified": "2023-11-08T04:09:36.207439",
+  "details": "Cross-Site Request Forgery (CSRF) in GitHub repository ikus060/rdiffweb prior to 2.4.5.",
+  "repo_url": "https://github.com/ikus060/rdiffweb",
+  "cwes": [],
+  "commits": [
+    "a1938147896e0421c86388e62171489219c6dc96"
+  ]
+}

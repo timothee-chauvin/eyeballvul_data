@@ -1,0 +1,23 @@
+{
+  "commit": "fafc7c1efcc9df83893ab28f876f378fa7d092cf",
+  "repo_url": "https://github.com/open-metadata/openmetadata",
+  "date": "2024-05-28T05:29:10",
+  "languages": {
+    "TypeScript": 9655997,
+    "Java": 6050154,
+    "Python": 5858843,
+    "Less": 517896,
+    "FreeMarker": 104277,
+    "JavaScript": 60949,
+    "Shell": 35170,
+    "PLpgSQL": 26903,
+    "HTML": 25311,
+    "Makefile": 16106,
+    "CSS": 15282,
+    "Dockerfile": 13383,
+    "ANTLR": 3904,
+    "LookML": 1580,
+    "Jinja": 285
+  },
+  "size": 22386040
+}

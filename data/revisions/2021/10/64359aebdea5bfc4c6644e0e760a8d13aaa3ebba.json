@@ -1,0 +1,17 @@
+{
+  "commit": "64359aebdea5bfc4c6644e0e760a8d13aaa3ebba",
+  "repo_url": "https://github.com/open-policy-agent/opa",
+  "date": "2021-10-04T11:14:17",
+  "languages": {
+    "Go": 4883583,
+    "C": 890353,
+    "C++": 707511,
+    "Makefile": 20717,
+    "JavaScript": 14451,
+    "Shell": 13968,
+    "Open Policy Agent": 4873,
+    "Python": 4559,
+    "Dockerfile": 2215
+  },
+  "size": 6542230
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "3f1f3fa13835978805f70cbf9269280e281972ce",
+  "repo_url": "https://github.com/dadrus/heimdall",
+  "date": "2026-03-05T09:15:58",
+  "languages": {
+    "Go": 2299859,
+    "Dockerfile": 2044,
+    "Smarty": 1811,
+    "Just": 1659,
+    "Shell": 1503
+  },
+  "size": 2306876
+}

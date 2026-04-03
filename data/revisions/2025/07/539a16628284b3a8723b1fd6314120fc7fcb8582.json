@@ -1,0 +1,17 @@
+{
+  "commit": "539a16628284b3a8723b1fd6314120fc7fcb8582",
+  "repo_url": "https://github.com/rommapp/romm",
+  "date": "2025-07-16T03:52:11",
+  "languages": {
+    "Python": 1261362,
+    "Vue": 627715,
+    "TypeScript": 111873,
+    "CSS": 13614,
+    "Shell": 10853,
+    "Dockerfile": 9333,
+    "JavaScript": 3940,
+    "HTML": 836,
+    "Mako": 510
+  },
+  "size": 2040036
+}

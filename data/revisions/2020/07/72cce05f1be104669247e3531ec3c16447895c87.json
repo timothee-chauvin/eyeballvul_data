@@ -1,0 +1,15 @@
+{
+  "commit": "72cce05f1be104669247e3531ec3c16447895c87",
+  "repo_url": "https://github.com/katex/katex",
+  "date": "2020-07-12T20:47:19",
+  "languages": {
+    "JavaScript": 962830,
+    "HTML": 29812,
+    "Less": 13455,
+    "CSS": 11360,
+    "Shell": 9500,
+    "TeX": 1153,
+    "Dockerfile": 1127
+  },
+  "size": 1029237
+}

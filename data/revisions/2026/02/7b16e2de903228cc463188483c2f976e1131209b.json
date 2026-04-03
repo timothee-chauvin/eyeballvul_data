@@ -1,0 +1,16 @@
+{
+  "commit": "7b16e2de903228cc463188483c2f976e1131209b",
+  "repo_url": "https://github.com/filebrowser/filebrowser",
+  "date": "2026-02-21T17:18:55",
+  "languages": {
+    "Go": 274861,
+    "Vue": 233987,
+    "TypeScript": 62322,
+    "CSS": 51973,
+    "HTML": 9249,
+    "Shell": 1949,
+    "Dockerfile": 1742,
+    "JavaScript": 1063
+  },
+  "size": 637146
+}

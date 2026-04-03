@@ -1,0 +1,10 @@
+{
+  "commit": "d3e1ab2424388b10893b796b0c8e405c5edd03d2",
+  "repo_url": "https://github.com/stellar/rs-soroban-sdk",
+  "date": "2026-03-11T03:48:23",
+  "languages": {
+    "Rust": 2805564,
+    "Makefile": 3239
+  },
+  "size": 2808803
+}

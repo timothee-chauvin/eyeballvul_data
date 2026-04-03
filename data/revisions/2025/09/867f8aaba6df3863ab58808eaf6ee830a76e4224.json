@@ -1,0 +1,14 @@
+{
+  "commit": "867f8aaba6df3863ab58808eaf6ee830a76e4224",
+  "repo_url": "https://github.com/valtimo-platform/valtimo-frontend-libraries",
+  "date": "2025-09-18T10:28:34",
+  "languages": {
+    "TypeScript": 3408385,
+    "JavaScript": 1255628,
+    "HTML": 965091,
+    "CSS": 663010,
+    "SCSS": 499558,
+    "Dockerfile": 379
+  },
+  "size": 6792051
+}

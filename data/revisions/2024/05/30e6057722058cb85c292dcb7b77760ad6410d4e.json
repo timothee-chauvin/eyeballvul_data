@@ -1,0 +1,13 @@
+{
+  "commit": "30e6057722058cb85c292dcb7b77760ad6410d4e",
+  "repo_url": "https://github.com/tpm2-software/tpm2-tss",
+  "date": "2024-05-21T12:43:43",
+  "languages": {
+    "C": 8302309,
+    "Makefile": 52393,
+    "M4": 38676,
+    "Shell": 38055,
+    "Python": 18282
+  },
+  "size": 8449715
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "0a83e0d4370d939d3095a3d46198ebf5882ab7aa",
+  "repo_url": "https://github.com/gstreamer/gst-rtsp-server",
+  "date": "2022-02-02T15:08:18",
+  "languages": {
+    "C": 1483264,
+    "Meson": 15547,
+    "Python": 1619
+  },
+  "size": 1500430
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "5307c7e43f32ff4d3c1b3a742718f6085296fdf6",
+  "repo_url": "https://github.com/openstack/oslo.middleware",
+  "date": "2017-01-17T08:33:55",
+  "languages": {
+    "Python": 190771,
+    "Shell": 1054
+  },
+  "size": 191825
+}

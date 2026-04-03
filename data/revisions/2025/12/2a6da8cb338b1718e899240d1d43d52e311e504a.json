@@ -1,0 +1,15 @@
+{
+  "commit": "2a6da8cb338b1718e899240d1d43d52e311e504a",
+  "repo_url": "https://github.com/libfuse/libfuse",
+  "date": "2025-12-20T23:18:40",
+  "languages": {
+    "C": 895538,
+    "Perl": 239168,
+    "C++": 134762,
+    "Python": 52860,
+    "Meson": 19042,
+    "Shell": 13794,
+    "Emacs Lisp": 2718
+  },
+  "size": 1357882
+}

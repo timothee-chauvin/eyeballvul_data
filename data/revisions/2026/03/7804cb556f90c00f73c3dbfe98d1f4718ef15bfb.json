@@ -1,0 +1,20 @@
+{
+  "commit": "7804cb556f90c00f73c3dbfe98d1f4718ef15bfb",
+  "repo_url": "https://github.com/everest/everest",
+  "date": "2026-03-20T06:39:06",
+  "languages": {
+    "C++": 15209957,
+    "C": 9841079,
+    "Python": 1648996,
+    "CMake": 478157,
+    "Rust": 217941,
+    "BitBake": 141110,
+    "Shell": 114741,
+    "Jinja": 98045,
+    "Starlark": 79854,
+    "Dockerfile": 10735,
+    "JavaScript": 6382,
+    "HTML": 92
+  },
+  "size": 27847089
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "40421915e08ed1a10b5703973116705a94190ab0",
+  "repo_url": "https://github.com/openldap/openldap",
+  "date": "2017-06-01T20:01:07",
+  "languages": {
+    "C": 9894100,
+    "Shell": 1293519,
+    "C++": 431736,
+    "Makefile": 191572,
+    "Roff": 70516,
+    "M4": 33317,
+    "TSQL": 12762,
+    "Perl": 12632,
+    "PLSQL": 12592,
+    "Tcl": 1654,
+    "Batchfile": 907
+  },
+  "size": 11955307
+}

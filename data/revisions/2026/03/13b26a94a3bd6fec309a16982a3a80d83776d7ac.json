@@ -1,0 +1,15 @@
+{
+  "commit": "13b26a94a3bd6fec309a16982a3a80d83776d7ac",
+  "repo_url": "https://github.com/flatpak/flatpak",
+  "date": "2026-03-15T11:13:11",
+  "languages": {
+    "C": 5041759,
+    "Shell": 281535,
+    "Python": 99668,
+    "Meson": 63519,
+    "Yacc": 46057,
+    "Makefile": 1402,
+    "M4": 1366
+  },
+  "size": 5535306
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "029c42a41e85dc78def81682c5aac490a88ef223",
+  "repo_url": "https://github.com/frangoteam/fuxa",
+  "date": "2026-03-05T19:41:07",
+  "languages": {
+    "TypeScript": 1750668,
+    "JavaScript": 1196244,
+    "HTML": 929092,
+    "SCSS": 251281,
+    "CSS": 62855,
+    "Shell": 5788,
+    "Dockerfile": 2122
+  },
+  "size": 4198050
+}

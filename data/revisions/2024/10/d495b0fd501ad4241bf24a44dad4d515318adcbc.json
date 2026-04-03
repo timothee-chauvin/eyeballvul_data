@@ -1,0 +1,20 @@
+{
+  "commit": "d495b0fd501ad4241bf24a44dad4d515318adcbc",
+  "repo_url": "https://github.com/kivitendo/kivitendo-erp",
+  "date": "2024-10-23T17:47:16",
+  "languages": {
+    "Perl": 8486224,
+    "HTML": 3215693,
+    "JavaScript": 883398,
+    "PLpgSQL": 576235,
+    "Less": 349924,
+    "CSS": 336158,
+    "TeX": 253522,
+    "Shell": 9145,
+    "Raku": 7203,
+    "Prolog": 4715,
+    "Python": 2465,
+    "Smarty": 1823
+  },
+  "size": 14126505
+}

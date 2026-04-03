@@ -1,0 +1,13 @@
+{
+  "commit": "7d3cd6e9c24863269e530f7c20fb939c318f6220",
+  "repo_url": "https://github.com/filamentphp/filament",
+  "date": "2025-12-05T14:44:27",
+  "languages": {
+    "PHP": 8605133,
+    "Blade": 614737,
+    "JavaScript": 531391,
+    "CSS": 261592,
+    "Shell": 558
+  },
+  "size": 10013411
+}

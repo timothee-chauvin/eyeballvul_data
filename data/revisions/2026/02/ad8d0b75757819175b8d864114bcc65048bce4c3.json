@@ -1,0 +1,16 @@
+{
+  "commit": "ad8d0b75757819175b8d864114bcc65048bce4c3",
+  "repo_url": "https://github.com/openpmix/openpmix",
+  "date": "2026-02-27T15:44:03",
+  "languages": {
+    "C": 6248368,
+    "Shell": 396379,
+    "C++": 201142,
+    "Cython": 179428,
+    "Makefile": 173596,
+    "Python": 132803,
+    "Perl": 66387,
+    "M4": 45352
+  },
+  "size": 7443455
+}

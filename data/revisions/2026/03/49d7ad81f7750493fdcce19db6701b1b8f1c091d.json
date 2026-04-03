@@ -1,0 +1,11 @@
+{
+  "commit": "49d7ad81f7750493fdcce19db6701b1b8f1c091d",
+  "repo_url": "https://github.com/qiskit/qiskit-ibm-runtime",
+  "date": "2026-03-23T20:46:39",
+  "languages": {
+    "Python": 1817749,
+    "Makefile": 1360,
+    "Shell": 313
+  },
+  "size": 1819422
+}

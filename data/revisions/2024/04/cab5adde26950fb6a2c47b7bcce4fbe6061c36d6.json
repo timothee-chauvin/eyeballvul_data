@@ -1,0 +1,23 @@
+{
+  "commit": "cab5adde26950fb6a2c47b7bcce4fbe6061c36d6",
+  "repo_url": "https://github.com/freerdp/freerdp",
+  "date": "2024-04-16T19:20:04",
+  "languages": {
+    "C": 16609570,
+    "CMake": 556475,
+    "Objective-C": 539972,
+    "C++": 409365,
+    "Java": 373717,
+    "HTML": 99139,
+    "Shell": 49987,
+    "Python": 41314,
+    "Lua": 27390,
+    "Roff": 15122,
+    "Perl": 8044,
+    "C#": 6365,
+    "CSS": 5696,
+    "Makefile": 2342,
+    "Rich Text Format": 937
+  },
+  "size": 18745435
+}

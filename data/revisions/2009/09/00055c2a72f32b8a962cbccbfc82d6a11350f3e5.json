@@ -1,0 +1,16 @@
+{
+  "commit": "00055c2a72f32b8a962cbccbfc82d6a11350f3e5",
+  "repo_url": "https://github.com/pingidentity/ldapsdk",
+  "date": "2009-09-14T15:47:03",
+  "languages": {
+    "Java": 4687688,
+    "XSLT": 277709,
+    "Batchfile": 31943,
+    "Shell": 19578,
+    "Perl": 9821,
+    "HTML": 5930,
+    "Python": 3285,
+    "CSS": 706
+  },
+  "size": 5036660
+}

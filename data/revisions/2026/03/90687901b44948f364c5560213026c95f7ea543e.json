@@ -1,0 +1,13 @@
+{
+  "commit": "90687901b44948f364c5560213026c95f7ea543e",
+  "repo_url": "https://github.com/besu-eth/besu",
+  "date": "2026-03-10T18:34:07",
+  "languages": {
+    "Java": 23410487,
+    "Shell": 48375,
+    "Solidity": 11916,
+    "Dockerfile": 5671,
+    "Batchfile": 43
+  },
+  "size": 23476492
+}

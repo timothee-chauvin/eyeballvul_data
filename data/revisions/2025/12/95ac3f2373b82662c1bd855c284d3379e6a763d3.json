@@ -1,0 +1,11 @@
+{
+  "commit": "95ac3f2373b82662c1bd855c284d3379e6a763d3",
+  "repo_url": "https://github.com/hiyouga/llamafactory",
+  "date": "2025-12-31T14:22:40",
+  "languages": {
+    "Python": 1585338,
+    "Dockerfile": 5220,
+    "Makefile": 741
+  },
+  "size": 1591299
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "f48d0853cc16db3a62e27f0a1bf3522b8044906f",
+  "repo_url": "https://github.com/apache/tomcat-connectors",
+  "date": "2009-08-07T21:35:43",
+  "languages": {
+    "C": 2414481,
+    "Java": 2389032,
+    "Perl": 132144,
+    "M4": 80067,
+    "HTML": 66570,
+    "Makefile": 41325,
+    "XSLT": 35822,
+    "Shell": 16920,
+    "JavaScript": 15883,
+    "VBScript": 9808,
+    "Awk": 5898,
+    "CSS": 3285,
+    "Batchfile": 188
+  },
+  "size": 5211423
+}

@@ -1,0 +1,33 @@
+{
+  "commit": "e687e3815f76c1c5ea9fb52b6558bedfe53ab117",
+  "repo_url": "https://github.com/buildroot/buildroot",
+  "date": "2025-04-22T19:22:37",
+  "languages": {
+    "Makefile": 4289755,
+    "Python": 1113674,
+    "C": 613134,
+    "Shell": 397602,
+    "BitBake": 183832,
+    "C++": 53200,
+    "Perl": 47532,
+    "Yacc": 16797,
+    "Batchfile": 13838,
+    "Lua": 13326,
+    "Tcl": 10998,
+    "Lex": 6706,
+    "CMake": 5478,
+    "Arc": 3365,
+    "M4": 3274,
+    "Java": 2971,
+    "Dockerfile": 2056,
+    "Forth": 1905,
+    "Gnuplot": 492,
+    "JavaScript": 284,
+    "PostScript": 228,
+    "SMT": 211,
+    "ASL": 179,
+    "HTML": 166,
+    "Nushell": 69
+  },
+  "size": 6781072
+}

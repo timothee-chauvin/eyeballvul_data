@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-43000",
+  "published": "2022-11-14T21:15:00",
+  "modified": "2023-11-08T04:09:40.092388",
+  "details": "Insufficient Session Expiration in GitHub repository ikus060/rdiffweb prior to 2.5.0.",
+  "repo_url": "https://github.com/ikus060/rdiffweb",
+  "cwes": [],
+  "commits": [
+    "a1938147896e0421c86388e62171489219c6dc96"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "e6b30e4c2407cd1d2ea93e79f2768e5a4f21d266",
+  "repo_url": "https://github.com/alloy-rs/core",
+  "date": "2026-02-27T11:13:19",
+  "languages": {
+    "Rust": 1906002,
+    "Solidity": 115480,
+    "C": 17126,
+    "Python": 1660,
+    "Shell": 1611
+  },
+  "size": 2041879
+}

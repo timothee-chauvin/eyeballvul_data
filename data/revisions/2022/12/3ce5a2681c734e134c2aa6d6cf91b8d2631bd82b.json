@@ -1,0 +1,10 @@
+{
+  "commit": "3ce5a2681c734e134c2aa6d6cf91b8d2631bd82b",
+  "repo_url": "https://github.com/tokio-rs/tokio",
+  "date": "2022-12-05T23:22:43",
+  "languages": {
+    "Rust": 3782151,
+    "Shell": 4631
+  },
+  "size": 3786782
+}

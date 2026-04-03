@@ -1,0 +1,33 @@
+{
+  "commit": "dd2233fda9e9d752385950d25a0398037860858a",
+  "repo_url": "https://github.com/fleetdm/fleet",
+  "date": "2026-01-06T22:15:33",
+  "languages": {
+    "Go": 25195087,
+    "TypeScript": 7244829,
+    "JavaScript": 5538565,
+    "Augeas": 703542,
+    "Shell": 422414,
+    "SCSS": 388267,
+    "EJS": 357474,
+    "HCL": 213096,
+    "PowerShell": 108595,
+    "Kotlin": 96611,
+    "Less": 80577,
+    "HTML": 60184,
+    "Makefile": 45801,
+    "Ruby": 42872,
+    "Open Policy Agent": 32561,
+    "Perl": 24185,
+    "Python": 21064,
+    "Dockerfile": 10315,
+    "Roff": 5414,
+    "PHP": 5230,
+    "CSS": 3656,
+    "Smarty": 3636,
+    "Puppet": 2310,
+    "Objective-C": 1221,
+    "Jinja": 94
+  },
+  "size": 40607600
+}

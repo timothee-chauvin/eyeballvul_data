@@ -1,0 +1,19 @@
+{
+  "commit": "b66dff8aed161063b41d033774b0c5c95d6b0d86",
+  "repo_url": "https://github.com/gnome/gnome-shell",
+  "date": "2016-09-19T21:18:13",
+  "languages": {
+    "JavaScript": 2085159,
+    "C": 1766949,
+    "CSS": 96755,
+    "Python": 20812,
+    "Makefile": 19540,
+    "Shell": 12524,
+    "M4": 8994,
+    "GLSL": 2558,
+    "Perl": 1095,
+    "SCSS": 596,
+    "Ruby": 23
+  },
+  "size": 4015005
+}

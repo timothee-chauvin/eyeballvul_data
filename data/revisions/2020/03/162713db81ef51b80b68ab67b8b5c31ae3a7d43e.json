@@ -1,0 +1,14 @@
+{
+  "commit": "162713db81ef51b80b68ab67b8b5c31ae3a7d43e",
+  "repo_url": "https://github.com/rra/pam-krb5",
+  "date": "2020-03-23T04:37:08",
+  "languages": {
+    "C": 587318,
+    "Shell": 352281,
+    "Makefile": 97532,
+    "Roff": 54393,
+    "M4": 46185,
+    "Perl": 5446
+  },
+  "size": 1143155
+}

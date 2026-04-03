@@ -1,0 +1,21 @@
+{
+  "commit": "de8fdd8fd7676785f0218bbc81ff65e5e5c00311",
+  "repo_url": "https://github.com/vitejs/vite",
+  "date": "2022-06-26T15:34:59",
+  "languages": {
+    "TypeScript": 1144414,
+    "JavaScript": 141271,
+    "HTML": 66641,
+    "CSS": 21025,
+    "Vue": 19382,
+    "AppleScript": 2356,
+    "Svelte": 2341,
+    "SCSS": 803,
+    "Less": 767,
+    "Stylus": 409,
+    "Sass": 217,
+    "Pug": 165,
+    "Astro": 114
+  },
+  "size": 1399905
+}

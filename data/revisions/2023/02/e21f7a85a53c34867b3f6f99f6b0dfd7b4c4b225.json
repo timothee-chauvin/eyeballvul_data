@@ -1,0 +1,10 @@
+{
+  "commit": "e21f7a85a53c34867b3f6f99f6b0dfd7b4c4b225",
+  "repo_url": "https://github.com/ipfs/boxo",
+  "date": "2023-02-17T17:14:33",
+  "languages": {
+    "Go": 741005,
+    "Makefile": 177
+  },
+  "size": 741182
+}

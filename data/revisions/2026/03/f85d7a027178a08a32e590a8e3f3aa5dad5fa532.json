@@ -1,0 +1,15 @@
+{
+  "commit": "f85d7a027178a08a32e590a8e3f3aa5dad5fa532",
+  "repo_url": "https://github.com/cakephp/cakephp",
+  "date": "2026-03-19T02:50:02",
+  "languages": {
+    "PHP": 12015600,
+    "CSS": 15730,
+    "HTML": 9674,
+    "Makefile": 6878,
+    "Hack": 846,
+    "Shell": 723,
+    "JavaScript": 173
+  },
+  "size": 12049624
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "6272b11fd8de71d190ece4809153bfed58be923e",
+  "repo_url": "https://github.com/genericmappingtools/gmt",
+  "date": "2025-07-23T10:39:53",
+  "languages": {
+    "C": 17751003,
+    "Shell": 1227584,
+    "Makefile": 214338,
+    "CMake": 210439,
+    "PostScript": 57509,
+    "Gnuplot": 12635,
+    "Batchfile": 8390,
+    "Julia": 3932,
+    "MATLAB": 3545,
+    "Perl": 1631,
+    "Fortran": 1527,
+    "LLVM": 79
+  },
+  "size": 19492612
+}

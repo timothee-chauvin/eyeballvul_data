@@ -1,0 +1,13 @@
+{
+  "commit": "dfd0692bfc1fc985103e7583d1d2e655a70dfa4f",
+  "repo_url": "https://github.com/googlecloudplatform/secrets-store-csi-driver-provider-gcp",
+  "date": "2026-03-26T13:11:04",
+  "languages": {
+    "Go": 218227,
+    "Shell": 16958,
+    "Smarty": 3350,
+    "Makefile": 2791,
+    "Dockerfile": 2309
+  },
+  "size": 243635
+}

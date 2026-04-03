@@ -1,0 +1,17 @@
+{
+  "commit": "d43e0c0bc071f7f427c961f540cfb35a60895800",
+  "repo_url": "https://github.com/geotools/geotools",
+  "date": "2026-01-20T22:08:30",
+  "languages": {
+    "Java": 96119970,
+    "PLpgSQL": 3664254,
+    "Scheme": 930080,
+    "HTML": 178489,
+    "CSS": 37887,
+    "Shell": 20305,
+    "Python": 15428,
+    "Scala": 957,
+    "nesC": 83
+  },
+  "size": 100967453
+}

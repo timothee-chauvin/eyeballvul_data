@@ -1,0 +1,16 @@
+{
+  "commit": "71ffac10cc8bf76fcf7afb2d2ae3cbbfea9764ec",
+  "repo_url": "https://github.com/cloudamqp/lavinmq",
+  "date": "2026-03-24T15:06:04",
+  "languages": {
+    "Crystal": 1818023,
+    "JavaScript": 197283,
+    "HTML": 101620,
+    "CSS": 44974,
+    "Makefile": 6389,
+    "Dockerfile": 5398,
+    "Ruby": 4949,
+    "Shell": 3806
+  },
+  "size": 2182442
+}

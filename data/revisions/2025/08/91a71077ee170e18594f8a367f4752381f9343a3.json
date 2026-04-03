@@ -1,0 +1,16 @@
+{
+  "commit": "91a71077ee170e18594f8a367f4752381f9343a3",
+  "repo_url": "https://github.com/ome/bioformats",
+  "date": "2025-08-05T08:57:04",
+  "languages": {
+    "Java": 8124434,
+    "PostScript": 4503321,
+    "MATLAB": 106130,
+    "HTML": 25019,
+    "Python": 12915,
+    "Shell": 10873,
+    "Batchfile": 8340,
+    "Dockerfile": 667
+  },
+  "size": 12791699
+}

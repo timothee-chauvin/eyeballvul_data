@@ -1,0 +1,19 @@
+{
+  "commit": "f2e592a08d82ba185d5d3fb1397b2895e07d637e",
+  "repo_url": "https://github.com/jetkvm/kvm",
+  "date": "2026-03-06T09:45:10",
+  "languages": {
+    "C": 1204106,
+    "TypeScript": 1018840,
+    "Go": 740279,
+    "Shell": 41657,
+    "Makefile": 15862,
+    "Python": 11891,
+    "HTML": 11700,
+    "CSS": 10241,
+    "JavaScript": 4653,
+    "CMake": 2812,
+    "C++": 245
+  },
+  "size": 3062286
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "eb1c0dc249d5106349ee9f85d90942e6ddf681d4",
+  "repo_url": "https://github.com/apache/xmlgraphics-fop",
+  "date": "2025-04-28T07:49:03",
+  "languages": {
+    "Java": 13902875,
+    "XSLT": 145690,
+    "HTML": 70783,
+    "Python": 21418,
+    "Shell": 15679,
+    "JavaScript": 10800,
+    "Batchfile": 7179,
+    "PostScript": 1032
+  },
+  "size": 14175456
+}

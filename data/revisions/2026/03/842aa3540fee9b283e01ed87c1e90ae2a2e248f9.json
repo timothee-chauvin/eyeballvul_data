@@ -1,0 +1,16 @@
+{
+  "commit": "842aa3540fee9b283e01ed87c1e90ae2a2e248f9",
+  "repo_url": "https://github.com/globaleaks/globaleaks-whistleblowing-software",
+  "date": "2026-03-14T07:41:48",
+  "languages": {
+    "Python": 1041554,
+    "TypeScript": 650222,
+    "HTML": 425488,
+    "JavaScript": 32368,
+    "CSS": 19904,
+    "Shell": 13526,
+    "Dockerfile": 1232,
+    "SCSS": 282
+  },
+  "size": 2184576
+}

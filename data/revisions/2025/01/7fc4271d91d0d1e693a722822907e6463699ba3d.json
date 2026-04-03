@@ -1,0 +1,13 @@
+{
+  "commit": "7fc4271d91d0d1e693a722822907e6463699ba3d",
+  "repo_url": "https://github.com/argoproj/argo-events",
+  "date": "2025-01-10T17:56:08",
+  "languages": {
+    "Go": 1641872,
+    "Shell": 15374,
+    "Makefile": 9200,
+    "Smarty": 3292,
+    "Dockerfile": 1240
+  },
+  "size": 1670978
+}

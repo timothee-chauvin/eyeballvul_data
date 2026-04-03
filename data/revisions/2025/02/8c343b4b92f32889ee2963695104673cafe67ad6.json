@@ -1,0 +1,15 @@
+{
+  "commit": "8c343b4b92f32889ee2963695104673cafe67ad6",
+  "repo_url": "https://github.com/invoiceshelf/invoiceshelf",
+  "date": "2025-02-05T10:10:06",
+  "languages": {
+    "PHP": 2193901,
+    "Vue": 1385345,
+    "Blade": 120917,
+    "Makefile": 2637,
+    "Dockerfile": 2105,
+    "Shell": 824,
+    "JavaScript": 391
+  },
+  "size": 3706120
+}

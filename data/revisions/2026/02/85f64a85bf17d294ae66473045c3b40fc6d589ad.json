@@ -1,0 +1,13 @@
+{
+  "commit": "85f64a85bf17d294ae66473045c3b40fc6d589ad",
+  "repo_url": "https://github.com/tuya/arduino-tuyaopen",
+  "date": "2026-02-03T02:26:12",
+  "languages": {
+    "C": 1002046,
+    "C++": 652212,
+    "Python": 40055,
+    "CMake": 3142,
+    "Ruby": 217
+  },
+  "size": 1697672
+}

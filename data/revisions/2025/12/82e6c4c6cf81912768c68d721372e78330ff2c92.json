@@ -1,0 +1,12 @@
+{
+  "commit": "82e6c4c6cf81912768c68d721372e78330ff2c92",
+  "repo_url": "https://github.com/bcrypt-ruby/bcrypt-ruby",
+  "date": "2025-12-31T19:44:24",
+  "languages": {
+    "C": 60740,
+    "Java": 40467,
+    "Ruby": 31290,
+    "Assembly": 4221
+  },
+  "size": 136718
+}

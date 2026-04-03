@@ -1,0 +1,20 @@
+{
+  "commit": "1a5b17626c8486e68e95513fa700f516825962b4",
+  "repo_url": "https://github.com/openethereum/parity-ethereum",
+  "date": "2017-07-21T17:01:49",
+  "languages": {
+    "Rust": 4791032,
+    "JavaScript": 3249793,
+    "CSS": 243133,
+    "Solidity": 38026,
+    "Shell": 10414,
+    "Dockerfile": 10286,
+    "C++": 9875,
+    "Swift": 8822,
+    "NSIS": 8277,
+    "C": 7000,
+    "HTML": 3450,
+    "EJS": 2891
+  },
+  "size": 8382999
+}

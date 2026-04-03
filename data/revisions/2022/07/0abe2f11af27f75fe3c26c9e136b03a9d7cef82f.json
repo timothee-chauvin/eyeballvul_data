@@ -1,0 +1,11 @@
+{
+  "commit": "0abe2f11af27f75fe3c26c9e136b03a9d7cef82f",
+  "repo_url": "https://github.com/xwiki/xwiki-rendering",
+  "date": "2022-07-25T08:11:05",
+  "languages": {
+    "Java": 3143911,
+    "AspectJ": 7630,
+    "Groovy": 2475
+  },
+  "size": 3154016
+}

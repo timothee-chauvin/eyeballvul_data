@@ -1,0 +1,17 @@
+{
+  "commit": "f25b398d897d937a21eda9ae065638f029256e3b",
+  "repo_url": "https://github.com/nhibernate/nhibernate-core",
+  "date": "2024-03-28T19:00:50",
+  "languages": {
+    "C#": 23705666,
+    "TSQL": 935047,
+    "GAP": 44395,
+    "JavaScript": 34059,
+    "Visual Basic .NET": 14311,
+    "Batchfile": 11357,
+    "PowerShell": 7645,
+    "Shell": 4665,
+    "HTML": 1164
+  },
+  "size": 24758309
+}

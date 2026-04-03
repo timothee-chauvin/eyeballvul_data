@@ -1,0 +1,17 @@
+{
+  "commit": "b44f4f9a71762a85a8295f91c5fb4c7cf9c04fce",
+  "repo_url": "https://github.com/eclipse-ee4j/jersey",
+  "date": "2024-08-27T13:29:24",
+  "languages": {
+    "Java": 18704288,
+    "Groovy": 66154,
+    "Shell": 58614,
+    "Lua": 8311,
+    "HTML": 4767,
+    "Gherkin": 148,
+    "Procfile": 71,
+    "Mustache": 14,
+    "FreeMarker": 13
+  },
+  "size": 18842380
+}

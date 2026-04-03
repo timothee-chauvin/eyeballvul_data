@@ -1,0 +1,14 @@
+{
+  "commit": "7b11798a67270471ac2fe39690a36b881d9f33f9",
+  "repo_url": "https://github.com/gnome/nautilus",
+  "date": "2015-06-16T20:11:52",
+  "languages": {
+    "C": 3845380,
+    "Makefile": 29625,
+    "M4": 10639,
+    "Python": 6384,
+    "CSS": 1282,
+    "Shell": 644
+  },
+  "size": 3893954
+}

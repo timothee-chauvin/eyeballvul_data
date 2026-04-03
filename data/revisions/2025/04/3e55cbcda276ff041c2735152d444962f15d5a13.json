@@ -1,0 +1,15 @@
+{
+  "commit": "3e55cbcda276ff041c2735152d444962f15d5a13",
+  "repo_url": "https://github.com/quantumnous/new-api",
+  "date": "2025-04-03T11:01:45",
+  "languages": {
+    "Go": 960908,
+    "JavaScript": 653674,
+    "CSS": 5959,
+    "Shell": 1248,
+    "Dockerfile": 716,
+    "HTML": 689,
+    "Makefile": 377
+  },
+  "size": 1623571
+}

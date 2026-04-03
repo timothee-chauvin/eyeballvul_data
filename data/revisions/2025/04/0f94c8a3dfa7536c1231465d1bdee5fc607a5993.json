@@ -1,0 +1,15 @@
+{
+  "commit": "0f94c8a3dfa7536c1231465d1bdee5fc607a5993",
+  "repo_url": "https://github.com/openvm-org/openvm",
+  "date": "2025-04-16T07:43:29",
+  "languages": {
+    "Rust": 3916747,
+    "Solidity": 145227,
+    "Assembly": 21876,
+    "Python": 9527,
+    "Shell": 4899,
+    "Makefile": 1740,
+    "Just": 1200
+  },
+  "size": 4101216
+}

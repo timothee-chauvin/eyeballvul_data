@@ -1,0 +1,16 @@
+{
+  "commit": "796fd29d370681981a8e495d393fbcae3a65458a",
+  "repo_url": "https://github.com/avo-hq/avo",
+  "date": "2026-03-28T16:28:57",
+  "languages": {
+    "Ruby": 1362066,
+    "HTML": 317562,
+    "JavaScript": 171353,
+    "CSS": 130751,
+    "Shell": 5435,
+    "Dockerfile": 1672,
+    "Vue": 257,
+    "Procfile": 139
+  },
+  "size": 1989235
+}

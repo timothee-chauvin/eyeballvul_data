@@ -1,0 +1,19 @@
+{
+  "commit": "85a554730bb0461b67a31d03c356d7683084702b",
+  "repo_url": "https://github.com/rssnext/folo",
+  "date": "2025-06-29T05:35:23",
+  "languages": {
+    "TypeScript": 5077051,
+    "Swift": 130965,
+    "JavaScript": 30335,
+    "CSS": 23949,
+    "Kotlin": 12826,
+    "HTML": 10038,
+    "Ruby": 3630,
+    "Shell": 2107,
+    "Objective-C": 411,
+    "Python": 194,
+    "C": 102
+  },
+  "size": 5291608
+}

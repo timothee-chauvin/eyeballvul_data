@@ -1,0 +1,16 @@
+{
+  "commit": "f582adab0d5a750affd35a7bef9e00f43772023a",
+  "repo_url": "https://github.com/solidtime-io/solidtime",
+  "date": "2026-02-24T18:38:55",
+  "languages": {
+    "PHP": 1962705,
+    "Vue": 996588,
+    "TypeScript": 786837,
+    "Blade": 49397,
+    "JavaScript": 32910,
+    "CSS": 9394,
+    "Dockerfile": 9374,
+    "Shell": 3711
+  },
+  "size": 3850916
+}

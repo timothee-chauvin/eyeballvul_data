@@ -1,0 +1,14 @@
+{
+  "commit": "ae611aed8fdb1f0e8efeeef92860c719bdf184a5",
+  "repo_url": "https://github.com/apache/jclouds",
+  "date": "2025-01-22T05:19:05",
+  "languages": {
+    "Java": 25546446,
+    "Shell": 123953,
+    "Batchfile": 12999,
+    "HTML": 6031,
+    "Dockerfile": 865,
+    "Emacs Lisp": 852
+  },
+  "size": 25691146
+}

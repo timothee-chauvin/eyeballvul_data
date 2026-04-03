@@ -1,0 +1,17 @@
+{
+  "commit": "785df51e3f5414a1cb8428c531efa1d586d7408d",
+  "repo_url": "https://github.com/sipwise/rtpengine",
+  "date": "2026-03-25T16:25:23",
+  "languages": {
+    "C": 2910017,
+    "Perl": 1702329,
+    "Python": 150324,
+    "Shell": 33800,
+    "Makefile": 23719,
+    "Assembly": 5594,
+    "Roff": 1376,
+    "NASL": 782,
+    "C++": 43
+  },
+  "size": 4827984
+}

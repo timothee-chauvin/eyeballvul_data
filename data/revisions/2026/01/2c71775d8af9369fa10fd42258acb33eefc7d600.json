@@ -1,0 +1,11 @@
+{
+  "commit": "2c71775d8af9369fa10fd42258acb33eefc7d600",
+  "repo_url": "https://github.com/gleam-wisp/wisp",
+  "date": "2026-01-16T10:36:31",
+  "languages": {
+    "Gleam": 141448,
+    "Shell": 223,
+    "Erlang": 149
+  },
+  "size": 141820
+}

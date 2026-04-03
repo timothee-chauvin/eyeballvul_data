@@ -1,0 +1,16 @@
+{
+  "commit": "dac30cc72253f08e374996963c9ee56e079b5a9c",
+  "repo_url": "https://github.com/everest/everest-core",
+  "date": "2025-09-03T11:51:52",
+  "languages": {
+    "C++": 3737142,
+    "Python": 1102722,
+    "CMake": 146660,
+    "Rust": 118070,
+    "C": 90330,
+    "Starlark": 26839,
+    "Shell": 16550,
+    "Dockerfile": 511
+  },
+  "size": 5238824
+}

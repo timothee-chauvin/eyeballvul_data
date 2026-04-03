@@ -1,0 +1,12 @@
+{
+  "commit": "10e3fea5e135ce25ff535c7f3ea2ab9002d9dd53",
+  "repo_url": "https://github.com/openstack/puppet-swift",
+  "date": "2025-10-11T03:05:09",
+  "languages": {
+    "Ruby": 403354,
+    "Puppet": 216338,
+    "Pascal": 46357,
+    "Python": 8503
+  },
+  "size": 674552
+}

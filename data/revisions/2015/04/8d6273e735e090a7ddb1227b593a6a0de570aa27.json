@@ -1,0 +1,15 @@
+{
+  "commit": "8d6273e735e090a7ddb1227b593a6a0de570aa27",
+  "repo_url": "https://github.com/apache/jackrabbit-oak",
+  "date": "2015-04-09T13:16:58",
+  "languages": {
+    "Java": 13131070,
+    "Groovy": 77404,
+    "Rich Text Format": 61728,
+    "JavaScript": 30871,
+    "Shell": 11585,
+    "Perl": 7585,
+    "CSS": 913
+  },
+  "size": 13321156
+}

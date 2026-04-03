@@ -1,0 +1,12 @@
+{
+  "commit": "669e48caf3e16803a379eabb5f96be0146329302",
+  "repo_url": "https://github.com/fedify-dev/hollo",
+  "date": "2026-02-04T21:10:54",
+  "languages": {
+    "TypeScript": 824861,
+    "Emacs Lisp": 1294,
+    "CSS": 833,
+    "Dockerfile": 795
+  },
+  "size": 827783
+}

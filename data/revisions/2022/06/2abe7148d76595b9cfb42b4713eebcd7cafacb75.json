@@ -1,0 +1,14 @@
+{
+  "commit": "2abe7148d76595b9cfb42b4713eebcd7cafacb75",
+  "repo_url": "https://github.com/nuitka/nuitka",
+  "date": "2022-06-07T16:42:21",
+  "languages": {
+    "Python": 11997153,
+    "C": 8127584,
+    "Jinja": 222737,
+    "C++": 94126,
+    "Batchfile": 1878,
+    "Shell": 1516
+  },
+  "size": 20444994
+}

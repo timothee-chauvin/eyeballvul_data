@@ -1,0 +1,12 @@
+{
+  "commit": "62c7535fb3d6f0350f293dce6703974f3d3e4234",
+  "repo_url": "https://github.com/openstack/ironic",
+  "date": "2025-08-01T20:49:49",
+  "languages": {
+    "Python": 9527503,
+    "Shell": 184912,
+    "PowerShell": 1676,
+    "Mako": 349
+  },
+  "size": 9714440
+}

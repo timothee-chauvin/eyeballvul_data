@@ -1,0 +1,12 @@
+{
+  "commit": "e0dc1deebc956ada98c6e9ebab562d45a6736a45",
+  "repo_url": "https://github.com/graphprotocol/contracts",
+  "date": "2026-03-02T21:36:57",
+  "languages": {
+    "Solidity": 2253364,
+    "TypeScript": 2064922,
+    "JavaScript": 79333,
+    "Shell": 62545
+  },
+  "size": 4460164
+}

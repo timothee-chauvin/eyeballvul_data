@@ -1,0 +1,22 @@
+{
+  "commit": "8dd290bb13b269e80427d1c5ac5ba071dd77c211",
+  "repo_url": "https://github.com/gradle/gradle",
+  "date": "2026-01-09T14:25:01",
+  "languages": {
+    "Groovy": 36163766,
+    "Java": 33434565,
+    "Kotlin": 5609004,
+    "C++": 888505,
+    "JavaScript": 77646,
+    "CSS": 15845,
+    "HTML": 15779,
+    "Shell": 12407,
+    "XSLT": 7121,
+    "C": 5785,
+    "Scala": 2819,
+    "Gherkin": 786,
+    "Python": 58,
+    "Brainfuck": 54
+  },
+  "size": 76234140
+}

@@ -1,0 +1,26 @@
+{
+  "commit": "22839697d065dde52c93094f632adb6d569159f6",
+  "repo_url": "https://github.com/nhost/nhost",
+  "date": "2026-03-16T14:44:29",
+  "languages": {
+    "TypeScript": 7473521,
+    "Go": 2091821,
+    "HTML": 239522,
+    "Nix": 191988,
+    "JavaScript": 85830,
+    "PLpgSQL": 58046,
+    "Vue": 43491,
+    "Shell": 36422,
+    "Svelte": 21231,
+    "CUE": 19777,
+    "CSS": 19105,
+    "Makefile": 10906,
+    "Kotlin": 5398,
+    "Objective-C": 4594,
+    "Ruby": 4368,
+    "Python": 3128,
+    "Objective-C++": 2152,
+    "Dockerfile": 203
+  },
+  "size": 10311503
+}

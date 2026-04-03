@@ -1,0 +1,16 @@
+{
+  "commit": "dc6ac7491a97018a4edd2b1d9adae4c573ef719d",
+  "repo_url": "https://github.com/raythahq/raytha",
+  "date": "2025-11-24T19:23:55",
+  "languages": {
+    "JavaScript": 2549273,
+    "C#": 2193473,
+    "CSS": 634145,
+    "HTML": 629748,
+    "TSQL": 93924,
+    "Liquid": 26930,
+    "Dockerfile": 1160,
+    "PLpgSQL": 222
+  },
+  "size": 6128875
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "1455a92363500c0128eacc75785eb4aea5fd0015",
+  "repo_url": "https://github.com/getpatchwork/patchwork",
+  "date": "2024-10-31T22:14:38",
+  "languages": {
+    "Python": 862552,
+    "HTML": 59782,
+    "JavaScript": 9925,
+    "Shell": 9402,
+    "CSS": 9058,
+    "PLpgSQL": 6552,
+    "Dockerfile": 1192
+  },
+  "size": 958463
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "e6892cfe7212fa3c21a17776c07a28cfc219391b",
+  "repo_url": "https://github.com/nextcloud/guests",
+  "date": "2025-10-16T11:54:07",
+  "languages": {
+    "JavaScript": 284767,
+    "PHP": 181824,
+    "Vue": 30519,
+    "TypeScript": 3288,
+    "Shell": 1558,
+    "Gherkin": 1519,
+    "Makefile": 1420
+  },
+  "size": 504895
+}

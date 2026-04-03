@@ -1,0 +1,13 @@
+{
+  "commit": "a4b971888cd8703b5115aca55468c18494cb8651",
+  "repo_url": "https://github.com/mattermost/mattermost-plugin-channel-export",
+  "date": "2021-06-22T14:44:49",
+  "languages": {
+    "Go": 80564,
+    "TypeScript": 39885,
+    "Makefile": 9385,
+    "JavaScript": 5224,
+    "HTML": 97
+  },
+  "size": 135155
+}

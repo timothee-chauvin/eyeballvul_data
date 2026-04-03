@@ -1,0 +1,13 @@
+{
+  "commit": "fc9dc4b39718860966f3772944a8a994b4bbe40e",
+  "repo_url": "https://github.com/hkuds/nanobot",
+  "date": "2026-02-10T03:00:42",
+  "languages": {
+    "Python": 271851,
+    "TypeScript": 7851,
+    "Shell": 7009,
+    "Dockerfile": 1294,
+    "JavaScript": 1256
+  },
+  "size": 289261
+}

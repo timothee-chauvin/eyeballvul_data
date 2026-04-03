@@ -1,0 +1,14 @@
+{
+  "commit": "866b91dba648e13cd9b7d2fdda7aec4e91752ebc",
+  "repo_url": "https://github.com/grails/grails-spring-security-core",
+  "date": "2026-02-12T12:15:27",
+  "languages": {
+    "Groovy": 2375616,
+    "CSS": 205371,
+    "Shell": 30762,
+    "JavaScript": 26109,
+    "Java": 7328,
+    "Dockerfile": 2266
+  },
+  "size": 2647452
+}

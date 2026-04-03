@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-43001",
+  "published": "2022-11-16T13:15:00",
+  "modified": "2023-11-08T04:10:23.041053",
+  "details": "Missing Authentication for Critical Function in GitHub repository ikus060/rdiffweb prior to 2.5.0a6.",
+  "repo_url": "https://github.com/ikus060/rdiffweb",
+  "cwes": [],
+  "commits": [
+    "a1938147896e0421c86388e62171489219c6dc96"
+  ]
+}

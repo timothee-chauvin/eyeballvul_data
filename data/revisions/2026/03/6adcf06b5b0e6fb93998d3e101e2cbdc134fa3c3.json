@@ -1,0 +1,16 @@
+{
+  "commit": "6adcf06b5b0e6fb93998d3e101e2cbdc134fa3c3",
+  "repo_url": "https://github.com/vmware-tanzu/velero",
+  "date": "2026-03-02T09:42:25",
+  "languages": {
+    "Go": 6959917,
+    "Shell": 40959,
+    "HTML": 29686,
+    "SCSS": 27547,
+    "Makefile": 27253,
+    "JavaScript": 10393,
+    "Python": 9809,
+    "Dockerfile": 7158
+  },
+  "size": 7112722
+}

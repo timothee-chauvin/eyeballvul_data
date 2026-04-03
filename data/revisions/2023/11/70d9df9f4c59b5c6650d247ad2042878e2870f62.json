@@ -1,0 +1,15 @@
+{
+  "commit": "70d9df9f4c59b5c6650d247ad2042878e2870f62",
+  "repo_url": "https://github.com/plotly/dash",
+  "date": "2023-11-28T00:30:15",
+  "languages": {
+    "JavaScript": 10470724,
+    "Python": 2425718,
+    "TypeScript": 859819,
+    "HTML": 755735,
+    "Less": 22320,
+    "CSS": 17314,
+    "Shell": 267
+  },
+  "size": 14551897
+}

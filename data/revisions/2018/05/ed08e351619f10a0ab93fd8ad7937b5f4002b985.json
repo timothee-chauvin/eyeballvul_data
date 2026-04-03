@@ -1,0 +1,22 @@
+{
+  "commit": "ed08e351619f10a0ab93fd8ad7937b5f4002b985",
+  "repo_url": "https://github.com/dogtagpki/pki",
+  "date": "2018-05-04T03:04:32",
+  "languages": {
+    "Shell": 20110306,
+    "Java": 20069482,
+    "C++": 2134353,
+    "Python": 1529483,
+    "HTML": 1149233,
+    "C": 948482,
+    "JavaScript": 625617,
+    "Perl": 409466,
+    "Roff": 366368,
+    "CSS": 272881,
+    "CMake": 142142,
+    "Makefile": 50152,
+    "PLSQL": 4821,
+    "eC": 1739
+  },
+  "size": 47814525
+}

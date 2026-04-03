@@ -1,0 +1,13 @@
+{
+  "commit": "8179a560819f2c64ef6ade70e6ae4c73aecaca3c",
+  "repo_url": "https://github.com/prometheus/client_golang",
+  "date": "2025-09-05T14:03:59",
+  "languages": {
+    "Go": 1174790,
+    "Makefile": 3071,
+    "C": 3010,
+    "Dockerfile": 1415,
+    "Shell": 1058
+  },
+  "size": 1183344
+}

@@ -1,0 +1,32 @@
+{
+  "commit": "8de1e90b4b5e4cccfd8f0534d9c141cff938c833",
+  "repo_url": "https://github.com/apache/thrift",
+  "date": "2010-10-28T02:12:01",
+  "languages": {
+    "C++": 1979039,
+    "Java": 599898,
+    "Ruby": 322797,
+    "C#": 149500,
+    "C": 134255,
+    "Erlang": 127846,
+    "Python": 127776,
+    "PHP": 108031,
+    "Perl": 70219,
+    "Objective-C": 64922,
+    "ActionScript": 64738,
+    "M4": 62672,
+    "Makefile": 62548,
+    "Thrift": 47392,
+    "Haskell": 46681,
+    "JavaScript": 36284,
+    "OCaml": 30925,
+    "Yacc": 26282,
+    "Smalltalk": 22944,
+    "Shell": 16257,
+    "Lex": 13434,
+    "HTML": 12251,
+    "Emacs Lisp": 5154,
+    "Vim Script": 2837
+  },
+  "size": 4134682
+}

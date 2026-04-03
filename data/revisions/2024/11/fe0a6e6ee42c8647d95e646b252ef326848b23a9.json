@@ -1,0 +1,15 @@
+{
+  "commit": "fe0a6e6ee42c8647d95e646b252ef326848b23a9",
+  "repo_url": "https://github.com/aio-libs/aiohttp",
+  "date": "2024-11-13T01:52:15",
+  "languages": {
+    "Python": 2113509,
+    "Cython": 41280,
+    "Makefile": 5700,
+    "Gherkin": 351,
+    "Dockerfile": 298,
+    "C": 170,
+    "Shell": 148
+  },
+  "size": 2161456
+}

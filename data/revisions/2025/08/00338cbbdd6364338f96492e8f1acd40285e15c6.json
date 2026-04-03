@@ -1,0 +1,17 @@
+{
+  "commit": "00338cbbdd6364338f96492e8f1acd40285e15c6",
+  "repo_url": "https://github.com/voila-dashboards/voila",
+  "date": "2025-08-25T13:55:30",
+  "languages": {
+    "Python": 226848,
+    "Jupyter Notebook": 121561,
+    "TypeScript": 98340,
+    "Jinja": 17933,
+    "HTML": 9574,
+    "JavaScript": 7468,
+    "Smarty": 1795,
+    "CSS": 1065,
+    "Shell": 285
+  },
+  "size": 484869
+}

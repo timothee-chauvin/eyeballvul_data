@@ -1,0 +1,15 @@
+{
+  "commit": "85eef6350e5a1d5d56f230022f8b8a190dcb2b97",
+  "repo_url": "https://github.com/apache/karaf",
+  "date": "2016-09-19T01:48:44",
+  "languages": {
+    "Java": 5723556,
+    "Shell": 104426,
+    "Batchfile": 44928,
+    "JavaScript": 27869,
+    "CSS": 7639,
+    "XSLT": 5030,
+    "VBScript": 4147
+  },
+  "size": 5917595
+}

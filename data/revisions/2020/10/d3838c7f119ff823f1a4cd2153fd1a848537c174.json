@@ -1,0 +1,20 @@
+{
+  "commit": "d3838c7f119ff823f1a4cd2153fd1a848537c174",
+  "repo_url": "https://github.com/openclinica/openclinica",
+  "date": "2020-10-26T21:46:42",
+  "languages": {
+    "Java": 13549973,
+    "XSLT": 834987,
+    "JavaScript": 556563,
+    "HTML": 154938,
+    "CSS": 151396,
+    "PLpgSQL": 95395,
+    "SCSS": 93997,
+    "Less": 78481,
+    "FreeMarker": 16803,
+    "Rich Text Format": 9248,
+    "Shell": 3262,
+    "Procfile": 162
+  },
+  "size": 15545205
+}

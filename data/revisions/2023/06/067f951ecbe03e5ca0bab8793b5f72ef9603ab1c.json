@@ -1,0 +1,12 @@
+{
+  "commit": "067f951ecbe03e5ca0bab8793b5f72ef9603ab1c",
+  "repo_url": "https://github.com/okta/okta-sdk-java",
+  "date": "2023-06-13T14:46:10",
+  "languages": {
+    "Java": 276644,
+    "Groovy": 231293,
+    "Mustache": 111387,
+    "Shell": 7695
+  },
+  "size": 627019
+}

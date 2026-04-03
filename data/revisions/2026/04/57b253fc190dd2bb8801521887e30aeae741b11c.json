@@ -1,0 +1,12 @@
+{
+  "commit": "57b253fc190dd2bb8801521887e30aeae741b11c",
+  "repo_url": "https://github.com/hyperledger/aries-cloudagent-python",
+  "date": "2026-04-01T23:03:51",
+  "languages": {
+    "Python": 11160184,
+    "Shell": 20149,
+    "Dockerfile": 4708,
+    "JavaScript": 69
+  },
+  "size": 11185110
+}

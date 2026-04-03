@@ -1,0 +1,11 @@
+{
+  "commit": "cf14f97b890dc90c93dc669e8315f6fbd9864b4a",
+  "repo_url": "https://github.com/jenkinsci/global-post-script-plugin",
+  "date": "2020-02-14T04:47:27",
+  "languages": {
+    "Java": 27877,
+    "Groovy": 9758,
+    "Python": 236
+  },
+  "size": 37871
+}

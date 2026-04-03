@@ -1,0 +1,12 @@
+{
+  "commit": "72f93b521a742bd762af01323dd059e616a99f8f",
+  "repo_url": "https://github.com/ezsystems/ezcommerce",
+  "date": "2023-11-03T12:03:22",
+  "languages": {
+    "Shell": 31012,
+    "PHP": 19397,
+    "VCL": 12274,
+    "JavaScript": 3610
+  },
+  "size": 66293
+}

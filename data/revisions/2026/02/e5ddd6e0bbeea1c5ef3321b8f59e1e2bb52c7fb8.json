@@ -1,0 +1,20 @@
+{
+  "commit": "e5ddd6e0bbeea1c5ef3321b8f59e1e2bb52c7fb8",
+  "repo_url": "https://github.com/londonaicentre/flip",
+  "date": "2026-02-25T12:14:58",
+  "languages": {
+    "Python": 1630034,
+    "Vue": 481837,
+    "TypeScript": 325198,
+    "Makefile": 60391,
+    "Shell": 37946,
+    "HCL": 35814,
+    "Dockerfile": 12730,
+    "CSS": 11074,
+    "JavaScript": 7667,
+    "HTML": 4745,
+    "Jinja": 3656,
+    "Batchfile": 437
+  },
+  "size": 2611529
+}

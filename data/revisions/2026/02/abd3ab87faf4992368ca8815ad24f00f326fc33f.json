@@ -1,0 +1,13 @@
+{
+  "commit": "abd3ab87faf4992368ca8815ad24f00f326fc33f",
+  "repo_url": "https://github.com/nextcloud/twofactor_webauthn",
+  "date": "2026-02-19T08:37:31",
+  "languages": {
+    "JavaScript": 141912,
+    "PHP": 107488,
+    "Vue": 13526,
+    "CSS": 692,
+    "Makefile": 292
+  },
+  "size": 263910
+}

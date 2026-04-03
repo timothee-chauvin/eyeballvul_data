@@ -1,0 +1,19 @@
+{
+  "commit": "c2c07517ddddbc187604b800eff733296e93aaad",
+  "repo_url": "https://github.com/varnishcache/varnish-cache",
+  "date": "2022-03-15T13:40:46",
+  "languages": {
+    "C": 2999246,
+    "M4": 106523,
+    "Python": 98263,
+    "Shell": 30555,
+    "Makefile": 23283,
+    "VCL": 13700,
+    "Roff": 7154,
+    "SmPL": 6178,
+    "Awk": 4467,
+    "Dockerfile": 251,
+    "Emacs Lisp": 66
+  },
+  "size": 3289686
+}

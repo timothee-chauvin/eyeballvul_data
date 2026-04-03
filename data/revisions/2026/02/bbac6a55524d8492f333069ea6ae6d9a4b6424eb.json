@@ -1,0 +1,21 @@
+{
+  "commit": "bbac6a55524d8492f333069ea6ae6d9a4b6424eb",
+  "repo_url": "https://github.com/louislam/uptime-kuma",
+  "date": "2026-02-19T05:34:03",
+  "languages": {
+    "JavaScript": 1370448,
+    "Vue": 1045870,
+    "TypeScript": 23708,
+    "SCSS": 15979,
+    "Dockerfile": 4840,
+    "Go": 2699,
+    "HTML": 1102,
+    "Java": 908,
+    "C#": 557,
+    "PowerShell": 387,
+    "Shell": 349,
+    "PHP": 322,
+    "Python": 216
+  },
+  "size": 2467385
+}

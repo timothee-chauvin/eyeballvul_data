@@ -1,0 +1,14 @@
+{
+  "commit": "63d943b3b67ddb25ea670b083a49dbf8772aa797",
+  "repo_url": "https://github.com/linuxdeepin/deepin-compressor",
+  "date": "2025-12-09T01:56:10",
+  "languages": {
+    "C++": 1061256,
+    "CMake": 17609,
+    "C": 6925,
+    "Shell": 4742,
+    "JavaScript": 141,
+    "Rich Text Format": 21
+  },
+  "size": 1090694
+}

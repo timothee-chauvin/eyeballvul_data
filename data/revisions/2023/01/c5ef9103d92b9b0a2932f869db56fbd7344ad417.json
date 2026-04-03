@@ -1,0 +1,17 @@
+{
+  "commit": "c5ef9103d92b9b0a2932f869db56fbd7344ad417",
+  "repo_url": "https://github.com/tailscale/tailscale",
+  "date": "2023-01-04T18:55:26",
+  "languages": {
+    "Go": 4606387,
+    "Shell": 36171,
+    "HTML": 18338,
+    "CSS": 17653,
+    "TypeScript": 15772,
+    "Nix": 4732,
+    "Dockerfile": 2455,
+    "Makefile": 2046,
+    "JavaScript": 176
+  },
+  "size": 4703730
+}

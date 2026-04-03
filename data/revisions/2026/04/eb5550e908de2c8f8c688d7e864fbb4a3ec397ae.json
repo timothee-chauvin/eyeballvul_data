@@ -1,0 +1,15 @@
+{
+  "commit": "eb5550e908de2c8f8c688d7e864fbb4a3ec397ae",
+  "repo_url": "https://github.com/rudderlabs/rudder-server",
+  "date": "2026-04-01T06:37:45",
+  "languages": {
+    "Go": 10393451,
+    "HTML": 1022813,
+    "PLpgSQL": 19138,
+    "Makefile": 8421,
+    "Shell": 4777,
+    "Dockerfile": 3260,
+    "Lua": 1950
+  },
+  "size": 11453810
+}

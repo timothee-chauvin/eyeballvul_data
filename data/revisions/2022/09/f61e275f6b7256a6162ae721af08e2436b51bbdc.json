@@ -1,0 +1,11 @@
+{
+  "commit": "f61e275f6b7256a6162ae721af08e2436b51bbdc",
+  "repo_url": "https://github.com/planetlabs/planet-client-python",
+  "date": "2022-09-01T18:39:39",
+  "languages": {
+    "Python": 203001,
+    "Makefile": 1424,
+    "Shell": 936
+  },
+  "size": 205361
+}

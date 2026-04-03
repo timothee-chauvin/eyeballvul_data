@@ -1,0 +1,14 @@
+{
+  "commit": "fce3bd76840e60cdce3d05d57ed0c5776d6f533a",
+  "repo_url": "https://github.com/slovensko-digital/autogram",
+  "date": "2025-11-29T09:09:32",
+  "languages": {
+    "Java": 783933,
+    "HTML": 147152,
+    "XSLT": 29876,
+    "CSS": 27544,
+    "Shell": 11172,
+    "Dockerfile": 1162
+  },
+  "size": 1000839
+}

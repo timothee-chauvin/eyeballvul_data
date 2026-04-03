@@ -1,0 +1,19 @@
+{
+  "commit": "d0401e4a4487407fec71e4ad7c53cb2d02d4eac0",
+  "repo_url": "https://github.com/openhab/openhab-webui",
+  "date": "2026-01-08T19:15:30",
+  "languages": {
+    "Vue": 2153705,
+    "JavaScript": 1406370,
+    "Java": 726182,
+    "HTML": 299436,
+    "TypeScript": 221420,
+    "SCSS": 46178,
+    "Nearley": 19619,
+    "CSS": 15682,
+    "Stylus": 14989,
+    "Shell": 5417,
+    "Dockerfile": 1359
+  },
+  "size": 4910357
+}

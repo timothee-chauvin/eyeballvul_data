@@ -1,0 +1,19 @@
+{
+  "commit": "5756b609afc4e62a2136eb5b3ad748d8dc1ba200",
+  "repo_url": "https://github.com/bloomberg/memray",
+  "date": "2025-10-15T19:37:57",
+  "languages": {
+    "Python": 1314201,
+    "C++": 362641,
+    "Cython": 96567,
+    "JavaScript": 45486,
+    "HTML": 18017,
+    "Makefile": 7592,
+    "C": 4312,
+    "CSS": 3329,
+    "CMake": 1609,
+    "Dockerfile": 1105,
+    "GDB": 959
+  },
+  "size": 1855818
+}

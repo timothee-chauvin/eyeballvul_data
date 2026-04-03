@@ -1,0 +1,16 @@
+{
+  "commit": "9220140d267b25b7223c7bfa043d529dee1a0ba8",
+  "repo_url": "https://github.com/awslabs/aws-dataall",
+  "date": "2023-08-03T19:58:28",
+  "languages": {
+    "Python": 2305201,
+    "JavaScript": 1368121,
+    "Dockerfile": 7513,
+    "Shell": 5227,
+    "Makefile": 4160,
+    "HTML": 780,
+    "Mako": 494,
+    "Batchfile": 434
+  },
+  "size": 3691930
+}

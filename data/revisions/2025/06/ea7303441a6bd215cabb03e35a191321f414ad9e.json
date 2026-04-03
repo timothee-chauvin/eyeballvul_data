@@ -1,0 +1,17 @@
+{
+  "commit": "ea7303441a6bd215cabb03e35a191321f414ad9e",
+  "repo_url": "https://github.com/gematik/app-authenticator",
+  "date": "2025-06-30T13:02:13",
+  "languages": {
+    "TypeScript": 693950,
+    "Vue": 266392,
+    "JavaScript": 25787,
+    "C#": 6302,
+    "CSS": 5134,
+    "NSIS": 4490,
+    "PowerShell": 3191,
+    "HTML": 1761,
+    "Ruby": 199
+  },
+  "size": 1007206
+}

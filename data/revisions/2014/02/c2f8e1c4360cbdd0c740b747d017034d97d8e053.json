@@ -1,0 +1,12 @@
+{
+  "commit": "c2f8e1c4360cbdd0c740b747d017034d97d8e053",
+  "repo_url": "https://github.com/kanboard/kanboard",
+  "date": "2014-02-16T23:47:11",
+  "languages": {
+    "PHP": 108318,
+    "CSS": 8015,
+    "JavaScript": 5162,
+    "Shell": 480
+  },
+  "size": 121975
+}

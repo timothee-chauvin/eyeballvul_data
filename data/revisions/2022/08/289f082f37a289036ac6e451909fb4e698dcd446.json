@@ -1,0 +1,14 @@
+{
+  "commit": "289f082f37a289036ac6e451909fb4e698dcd446",
+  "repo_url": "https://github.com/dojo/dijit",
+  "date": "2022-08-13T13:26:32",
+  "languages": {
+    "HTML": 3024852,
+    "JavaScript": 1580996,
+    "CSS": 363789,
+    "Less": 132842,
+    "PHP": 22297,
+    "Roff": 228
+  },
+  "size": 5125004
+}

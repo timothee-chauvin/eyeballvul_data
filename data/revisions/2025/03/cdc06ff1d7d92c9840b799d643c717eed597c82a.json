@@ -1,0 +1,13 @@
+{
+  "commit": "cdc06ff1d7d92c9840b799d643c717eed597c82a",
+  "repo_url": "https://github.com/eclipse-bluechi/bluechi",
+  "date": "2025-03-06T15:19:32",
+  "languages": {
+    "C": 773512,
+    "Python": 455419,
+    "Meson": 19263,
+    "Shell": 18036,
+    "Makefile": 1952
+  },
+  "size": 1268182
+}

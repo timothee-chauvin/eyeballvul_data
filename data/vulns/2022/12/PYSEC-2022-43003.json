@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-43003",
+  "published": "2022-12-22T01:15:00",
+  "modified": "2023-11-08T04:10:56.800631",
+  "details": "Open Redirect in GitHub repository ikus060/rdiffweb prior to 2.5.4.",
+  "repo_url": "https://github.com/ikus060/rdiffweb",
+  "cwes": [],
+  "commits": [
+    "a1938147896e0421c86388e62171489219c6dc96"
+  ]
+}

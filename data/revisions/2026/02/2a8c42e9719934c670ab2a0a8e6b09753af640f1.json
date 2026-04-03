@@ -1,0 +1,14 @@
+{
+  "commit": "2a8c42e9719934c670ab2a0a8e6b09753af640f1",
+  "repo_url": "https://github.com/scitokens/scitokens-cpp",
+  "date": "2026-02-19T20:48:54",
+  "languages": {
+    "C++": 379502,
+    "C": 22669,
+    "CMake": 10816,
+    "Shell": 6245,
+    "Python": 5800,
+    "Dockerfile": 1355
+  },
+  "size": 426387
+}

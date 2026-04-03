@@ -1,0 +1,16 @@
+{
+  "commit": "50df21626238a1755802a672481c3b79997e82b2",
+  "repo_url": "https://github.com/jetty/jetty.project",
+  "date": "2021-06-11T14:52:40",
+  "languages": {
+    "Java": 20880352,
+    "JavaScript": 85726,
+    "AMPL": 81392,
+    "HTML": 26802,
+    "Shell": 23892,
+    "Groovy": 17074,
+    "CSS": 6072,
+    "XSLT": 2658
+  },
+  "size": 21123968
+}

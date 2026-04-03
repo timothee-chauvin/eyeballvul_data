@@ -1,0 +1,12 @@
+{
+  "commit": "33e7a3e55d3eea87236400e00736f8f43535befd",
+  "repo_url": "https://github.com/opensearch-project/security-dashboards-plugin",
+  "date": "2026-03-05T17:40:15",
+  "languages": {
+    "TypeScript": 1188342,
+    "JavaScript": 39913,
+    "SCSS": 4331,
+    "Shell": 3096
+  },
+  "size": 1235682
+}

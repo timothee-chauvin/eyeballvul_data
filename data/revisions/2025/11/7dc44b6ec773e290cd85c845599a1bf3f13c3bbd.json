@@ -1,0 +1,18 @@
+{
+  "commit": "7dc44b6ec773e290cd85c845599a1bf3f13c3bbd",
+  "repo_url": "https://github.com/astropy/astropy",
+  "date": "2025-11-25T19:53:07",
+  "languages": {
+    "Python": 13703573,
+    "C": 6333732,
+    "Lex": 185385,
+    "Cython": 73465,
+    "C++": 50911,
+    "M4": 42534,
+    "Makefile": 25262,
+    "Shell": 16281,
+    "HTML": 1172,
+    "TeX": 862
+  },
+  "size": 20433177
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "6df21a6b5ad38b46122cfd8e47d2ff7f9e5a985d",
+  "repo_url": "https://github.com/cocoindex-io/cocoindex",
+  "date": "2026-03-09T20:54:59",
+  "languages": {
+    "Python": 985607,
+    "Rust": 448393,
+    "Shell": 4701,
+    "Handlebars": 1851
+  },
+  "size": 1440552
+}

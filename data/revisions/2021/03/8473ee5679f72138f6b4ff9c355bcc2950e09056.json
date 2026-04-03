@@ -1,0 +1,15 @@
+{
+  "commit": "8473ee5679f72138f6b4ff9c355bcc2950e09056",
+  "repo_url": "https://github.com/nextcloud/spreed",
+  "date": "2021-03-04T13:36:12",
+  "languages": {
+    "JavaScript": 2992510,
+    "PHP": 1464018,
+    "Gherkin": 595612,
+    "Vue": 522230,
+    "Shell": 17959,
+    "SCSS": 17661,
+    "Makefile": 2221
+  },
+  "size": 5612211
+}

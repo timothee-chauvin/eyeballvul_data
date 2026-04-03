@@ -1,0 +1,16 @@
+{
+  "commit": "fece5e1a1286f995d31aa449852cb5ca6a936028",
+  "repo_url": "https://github.com/beckhoff/authelia",
+  "date": "2022-04-13T08:20:58",
+  "languages": {
+    "Go": 1417243,
+    "TypeScript": 193381,
+    "Shell": 30265,
+    "Lua": 26863,
+    "HTML": 10179,
+    "JavaScript": 6322,
+    "Dockerfile": 1895,
+    "CSS": 1259
+  },
+  "size": 1687407
+}

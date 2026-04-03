@@ -1,0 +1,12 @@
+{
+  "commit": "b51ac707cfa420b7bfd4e4d5e510ba8008e822b4",
+  "repo_url": "https://github.com/guzzle/guzzle",
+  "date": "2025-08-23T22:36:01",
+  "languages": {
+    "PHP": 465033,
+    "JavaScript": 8050,
+    "Makefile": 2734,
+    "Dockerfile": 349
+  },
+  "size": 476166
+}

@@ -1,0 +1,24 @@
+{
+  "commit": "2f7bb724a947b9e0d39d2a5241cb3a78d3ef5072",
+  "repo_url": "https://github.com/meteor/meteor",
+  "date": "2025-04-15T15:13:32",
+  "languages": {
+    "JavaScript": 8037165,
+    "TypeScript": 330588,
+    "Shell": 85658,
+    "Java": 72910,
+    "Swift": 72728,
+    "CSS": 49326,
+    "PowerShell": 49323,
+    "HTML": 37498,
+    "CoffeeScript": 30914,
+    "Vue": 22219,
+    "Objective-C": 19579,
+    "Batchfile": 5785,
+    "Ruby": 5498,
+    "Less": 1687,
+    "Stylus": 966,
+    "Svelte": 901
+  },
+  "size": 8822745
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "4a85f30247f4658ff1be29c118177797343cffd9",
+  "repo_url": "https://github.com/api-platform/core",
+  "date": "2025-01-17T10:33:29",
+  "languages": {
+    "PHP": 6238128,
+    "Gherkin": 986428,
+    "CSS": 70893,
+    "JavaScript": 48439,
+    "Blade": 35008,
+    "Twig": 20973,
+    "Shell": 7070,
+    "HTML": 5430
+  },
+  "size": 7412369
+}

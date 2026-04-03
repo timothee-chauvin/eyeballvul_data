@@ -1,0 +1,22 @@
+{
+  "commit": "f3c226747c841f40c7a86c1dd07b478114dfcd6c",
+  "repo_url": "https://github.com/thomasdickey/lynx-snapshots",
+  "date": "2017-07-12T01:17:10",
+  "languages": {
+    "C": 4971474,
+    "HTML": 653742,
+    "C++": 88422,
+    "Roff": 41427,
+    "Perl": 30273,
+    "DIGITAL Command Language": 29248,
+    "Yacc": 26023,
+    "Shell": 18019,
+    "Batchfile": 16578,
+    "Module Management System": 16158,
+    "Inno Setup": 16148,
+    "NSIS": 7093,
+    "Makefile": 5627,
+    "ASL": 2607
+  },
+  "size": 5922839
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "294096eb1c38eabf246e4f3a9cdab704e33a7f4c",
+  "repo_url": "https://github.com/carla-simulator/carla",
+  "date": "2025-09-16T09:24:14",
+  "languages": {
+    "C++": 8603871,
+    "POV-Ray SDL": 4148501,
+    "Python": 1818704,
+    "C": 324973,
+    "Shell": 173449,
+    "Batchfile": 170832,
+    "C#": 38082,
+    "CMake": 35483,
+    "PowerShell": 21730,
+    "Dockerfile": 12092,
+    "Makefile": 10284
+  },
+  "size": 15358001
+}

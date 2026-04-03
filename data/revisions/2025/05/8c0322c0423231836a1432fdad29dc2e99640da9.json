@@ -1,0 +1,22 @@
+{
+  "commit": "8c0322c0423231836a1432fdad29dc2e99640da9",
+  "repo_url": "https://github.com/openbao/openbao",
+  "date": "2025-05-29T19:32:27",
+  "languages": {
+    "Go": 14123384,
+    "JavaScript": 2706884,
+    "MDX": 2606860,
+    "Handlebars": 812301,
+    "SCSS": 140702,
+    "TypeScript": 108135,
+    "Shell": 93683,
+    "HCL": 54298,
+    "Makefile": 33619,
+    "Dockerfile": 9093,
+    "CSS": 7265,
+    "Batchfile": 3105,
+    "HTML": 3079,
+    "Python": 901
+  },
+  "size": 20703309
+}

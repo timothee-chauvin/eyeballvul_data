@@ -1,0 +1,15 @@
+{
+  "commit": "2965c3124e3b141072a2d46c798a327dda710060",
+  "repo_url": "https://github.com/getkirby/kirby",
+  "date": "2024-01-30T15:39:12",
+  "languages": {
+    "PHP": 4523010,
+    "Vue": 913269,
+    "JavaScript": 416084,
+    "CSS": 33380,
+    "HTML": 11440,
+    "Shell": 1881,
+    "Hack": 901
+  },
+  "size": 5899965
+}

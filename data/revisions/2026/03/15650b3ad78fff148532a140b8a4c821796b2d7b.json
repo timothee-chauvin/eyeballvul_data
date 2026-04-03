@@ -1,0 +1,11 @@
+{
+  "commit": "15650b3ad78fff148532a140b8a4c821796b2d7b",
+  "repo_url": "https://github.com/azure/setup-kubectl",
+  "date": "2026-03-25T17:25:33",
+  "languages": {
+    "JavaScript": 1154250,
+    "TypeScript": 16418,
+    "Python": 1925
+  },
+  "size": 1172593
+}

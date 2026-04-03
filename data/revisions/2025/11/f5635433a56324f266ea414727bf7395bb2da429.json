@@ -1,0 +1,18 @@
+{
+  "commit": "f5635433a56324f266ea414727bf7395bb2da429",
+  "repo_url": "https://github.com/ory/keto",
+  "date": "2025-11-07T12:17:30",
+  "languages": {
+    "Go": 1202708,
+    "Mustache": 90479,
+    "Shell": 30223,
+    "JavaScript": 13219,
+    "Makefile": 9318,
+    "TypeScript": 2933,
+    "HTML": 1168,
+    "Dockerfile": 1003,
+    "PLpgSQL": 30,
+    "Jsonnet": 15
+  },
+  "size": 1351096
+}

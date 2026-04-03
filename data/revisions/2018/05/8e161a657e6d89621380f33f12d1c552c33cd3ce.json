@@ -1,0 +1,15 @@
+{
+  "commit": "8e161a657e6d89621380f33f12d1c552c33cd3ce",
+  "repo_url": "https://github.com/labsai/eddi",
+  "date": "2018-05-21T09:48:02",
+  "languages": {
+    "Java": 1036685,
+    "JavaScript": 33891,
+    "HTML": 5698,
+    "CSS": 4822,
+    "Shell": 3251,
+    "Batchfile": 2154,
+    "Dockerfile": 1413
+  },
+  "size": 1087914
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "fa8096ad0117a085515729e12a3758ca26036552",
+  "repo_url": "https://github.com/ossrs/srs",
+  "date": "2024-02-15T13:04:00",
+  "languages": {
+    "C++": 5539530,
+    "JavaScript": 364237,
+    "HTML": 213539,
+    "Shell": 147716,
+    "Go": 37268,
+    "Python": 11773,
+    "NSIS": 5766,
+    "CMake": 4031,
+    "Lua": 2485,
+    "Dockerfile": 2080,
+    "Makefile": 1931,
+    "Batchfile": 855,
+    "CSS": 416
+  },
+  "size": 6331627
+}

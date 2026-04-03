@@ -1,0 +1,12 @@
+{
+  "commit": "66046a1e535d090bfe85398d9730b5389200deb6",
+  "repo_url": "https://github.com/nextcloud/user_oidc",
+  "date": "2024-02-28T10:58:39",
+  "languages": {
+    "PHP": 127651,
+    "Vue": 12184,
+    "JavaScript": 2818,
+    "Hack": 36
+  },
+  "size": 142689
+}

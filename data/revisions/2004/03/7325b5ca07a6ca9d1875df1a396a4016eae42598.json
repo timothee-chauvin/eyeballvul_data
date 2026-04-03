@@ -1,0 +1,14 @@
+{
+  "commit": "7325b5ca07a6ca9d1875df1a396a4016eae42598",
+  "repo_url": "https://github.com/c-ares/c-ares",
+  "date": "2004-03-10T11:28:34",
+  "languages": {
+    "C": 136320,
+    "Roff": 44482,
+    "Makefile": 23248,
+    "Shell": 6260,
+    "M4": 4409,
+    "Perl": 1505
+  },
+  "size": 216224
+}

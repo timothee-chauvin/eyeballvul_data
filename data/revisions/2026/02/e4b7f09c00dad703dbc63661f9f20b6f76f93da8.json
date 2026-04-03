@@ -1,0 +1,14 @@
+{
+  "commit": "e4b7f09c00dad703dbc63661f9f20b6f76f93da8",
+  "repo_url": "https://github.com/coturn/coturn",
+  "date": "2026-02-24T09:12:50",
+  "languages": {
+    "C": 1718369,
+    "CMake": 83295,
+    "Shell": 33480,
+    "C++": 32330,
+    "Makefile": 20261,
+    "Dockerfile": 11589
+  },
+  "size": 1899324
+}

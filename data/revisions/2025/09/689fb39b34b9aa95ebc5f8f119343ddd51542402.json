@@ -1,0 +1,10 @@
+{
+  "commit": "689fb39b34b9aa95ebc5f8f119343ddd51542402",
+  "repo_url": "https://github.com/sonarsource/sonarqube-scan-action",
+  "date": "2025-09-25T12:31:06",
+  "languages": {
+    "Shell": 12305,
+    "JavaScript": 59
+  },
+  "size": 12364
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "5c7a5bc228a0f03a1c87eeb6da00656c824a24d4",
+  "repo_url": "https://github.com/lin-snow/ech0",
+  "date": "2026-03-22T06:50:21",
+  "languages": {
+    "Go": 897336,
+    "Vue": 609089,
+    "TypeScript": 177124,
+    "SCSS": 26618,
+    "Shell": 10150,
+    "HTML": 7856,
+    "JavaScript": 5531,
+    "Dockerfile": 3293,
+    "Makefile": 1965,
+    "Smarty": 1780
+  },
+  "size": 1740742
+}

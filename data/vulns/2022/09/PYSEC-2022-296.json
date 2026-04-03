@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-296",
+  "published": "2022-09-28T21:15:00",
+  "modified": "2025-10-09T08:23:52.714128",
+  "details": "Use of Cache Containing Sensitive Information in GitHub repository ikus060/rdiffweb prior to 2.4.8.",
+  "repo_url": "https://github.com/ikus060/rdiffweb",
+  "cwes": [],
+  "commits": [
+    "a1938147896e0421c86388e62171489219c6dc96"
+  ]
+}

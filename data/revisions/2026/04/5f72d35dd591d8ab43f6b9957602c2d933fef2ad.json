@@ -1,0 +1,14 @@
+{
+  "commit": "5f72d35dd591d8ab43f6b9957602c2d933fef2ad",
+  "repo_url": "https://github.com/academysoftwarefoundation/openimageio",
+  "date": "2026-04-01T05:37:16",
+  "languages": {
+    "C++": 7753122,
+    "Python": 489303,
+    "CMake": 305131,
+    "Shell": 70967,
+    "Makefile": 16665,
+    "PowerShell": 1050
+  },
+  "size": 8636238
+}

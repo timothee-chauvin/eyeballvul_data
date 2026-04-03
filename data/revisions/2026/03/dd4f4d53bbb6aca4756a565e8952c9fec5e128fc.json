@@ -1,0 +1,13 @@
+{
+  "commit": "dd4f4d53bbb6aca4756a565e8952c9fec5e128fc",
+  "repo_url": "https://github.com/damienharper/auditor-bundle",
+  "date": "2026-03-16T09:51:38",
+  "languages": {
+    "PHP": 103528,
+    "Twig": 46292,
+    "Makefile": 4883,
+    "CSS": 644,
+    "Dockerfile": 474
+  },
+  "size": 155821
+}

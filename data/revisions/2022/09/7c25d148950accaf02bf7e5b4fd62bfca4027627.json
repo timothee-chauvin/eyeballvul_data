@@ -1,0 +1,20 @@
+{
+  "commit": "7c25d148950accaf02bf7e5b4fd62bfca4027627",
+  "repo_url": "https://github.com/geonode/geonode",
+  "date": "2022-09-14T11:05:46",
+  "languages": {
+    "JavaScript": 8596419,
+    "Python": 4361231,
+    "HTML": 886989,
+    "CSS": 571300,
+    "XSLT": 67411,
+    "Less": 67218,
+    "Shell": 59541,
+    "Makefile": 4529,
+    "Dockerfile": 3925,
+    "SCSS": 3477,
+    "Scheme": 2179,
+    "Gherkin": 529
+  },
+  "size": 14624748
+}

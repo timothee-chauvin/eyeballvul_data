@@ -1,0 +1,15 @@
+{
+  "commit": "1a6e4656ff163226ed3c2fc9d04f7e95bf7fe890",
+  "repo_url": "https://github.com/nocobase/nocobase",
+  "date": "2026-04-02T11:17:26",
+  "languages": {
+    "TypeScript": 25430160,
+    "JavaScript": 286191,
+    "Smarty": 6637,
+    "Shell": 6065,
+    "Dockerfile": 4255,
+    "Less": 3027,
+    "CSS": 1119
+  },
+  "size": 25737454
+}

@@ -1,0 +1,28 @@
+{
+  "commit": "4b6ba67f51b8723f53bcf7a532fedfda66f4bdbb",
+  "repo_url": "https://github.com/krb5/krb5",
+  "date": "2015-09-18T17:36:32",
+  "languages": {
+    "C": 14398620,
+    "C++": 703513,
+    "Python": 387178,
+    "HTML": 382487,
+    "Roff": 329739,
+    "Makefile": 294476,
+    "Perl": 146063,
+    "Shell": 101630,
+    "NSIS": 94536,
+    "TeX": 65783,
+    "CSS": 43679,
+    "Assembly": 40918,
+    "Yacc": 34610,
+    "M4": 17960,
+    "Awk": 10967,
+    "Emacs Lisp": 6797,
+    "RPC": 5974,
+    "Batchfile": 2734,
+    "Lex": 1395,
+    "sed": 613
+  },
+  "size": 17069672
+}

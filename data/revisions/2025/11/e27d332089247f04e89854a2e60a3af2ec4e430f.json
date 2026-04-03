@@ -1,0 +1,17 @@
+{
+  "commit": "e27d332089247f04e89854a2e60a3af2ec4e430f",
+  "repo_url": "https://github.com/randombit/botan",
+  "date": "2025-11-06T21:48:58",
+  "languages": {
+    "C++": 10705497,
+    "Python": 738458,
+    "C": 222039,
+    "Shell": 22071,
+    "CMake": 12929,
+    "PowerShell": 2222,
+    "Dockerfile": 1627,
+    "Emacs Lisp": 1313,
+    "HTML": 184
+  },
+  "size": 11706340
+}

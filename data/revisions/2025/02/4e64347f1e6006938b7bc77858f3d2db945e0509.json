@@ -1,0 +1,12 @@
+{
+  "commit": "4e64347f1e6006938b7bc77858f3d2db945e0509",
+  "repo_url": "https://github.com/libp2p/py-libp2p",
+  "date": "2025-02-20T16:15:39",
+  "languages": {
+    "Python": 556497,
+    "Go": 5767,
+    "Makefile": 3971,
+    "Shell": 701
+  },
+  "size": 566936
+}

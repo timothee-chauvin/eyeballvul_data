@@ -1,0 +1,14 @@
+{
+  "commit": "1753bb10a6936744f8f64ceda5ffc340bc699d71",
+  "repo_url": "https://github.com/nextcloud/approval",
+  "date": "2026-03-16T17:15:55",
+  "languages": {
+    "JavaScript": 415476,
+    "PHP": 125526,
+    "Vue": 51234,
+    "TypeScript": 7352,
+    "CSS": 2728,
+    "Makefile": 1791
+  },
+  "size": 604107
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "df580b13c5ca55af8816be121e5e44140292520c",
+  "repo_url": "https://github.com/ethyca/fides",
+  "date": "2023-07-05T17:52:26",
+  "languages": {
+    "Python": 5558542,
+    "TypeScript": 2026600,
+    "JavaScript": 24749,
+    "HTML": 22536,
+    "CSS": 15771,
+    "SCSS": 9153,
+    "Dockerfile": 4119,
+    "Jinja": 3618,
+    "Mako": 494
+  },
+  "size": 7665582
+}

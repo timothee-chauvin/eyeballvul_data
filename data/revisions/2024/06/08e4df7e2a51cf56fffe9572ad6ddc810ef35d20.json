@@ -1,0 +1,11 @@
+{
+  "commit": "08e4df7e2a51cf56fffe9572ad6ddc810ef35d20",
+  "repo_url": "https://github.com/adfinis/document-merge-service",
+  "date": "2024-06-12T14:13:05",
+  "languages": {
+    "Python": 104116,
+    "Dockerfile": 1422,
+    "Makefile": 851
+  },
+  "size": 106389
+}

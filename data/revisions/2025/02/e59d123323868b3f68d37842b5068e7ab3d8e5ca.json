@@ -1,0 +1,18 @@
+{
+  "commit": "e59d123323868b3f68d37842b5068e7ab3d8e5ca",
+  "repo_url": "https://github.com/zitadel/zitadel",
+  "date": "2025-02-27T11:54:15",
+  "languages": {
+    "Go": 15427960,
+    "TypeScript": 1884084,
+    "HTML": 759948,
+    "SCSS": 351606,
+    "CSS": 112445,
+    "JavaScript": 29129,
+    "PLpgSQL": 16759,
+    "Makefile": 10706,
+    "Dockerfile": 9249,
+    "Shell": 238
+  },
+  "size": 18602124
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "0c87cdc612e251c637df162ff57794b1c339d120",
+  "repo_url": "https://github.com/ibexa/fieldtype-richtext",
+  "date": "2024-07-31T13:35:10",
+  "languages": {
+    "PHP": 649305,
+    "XSLT": 268854,
+    "JavaScript": 202349,
+    "SCSS": 17874,
+    "Twig": 9872,
+    "Shell": 2308
+  },
+  "size": 1150562
+}

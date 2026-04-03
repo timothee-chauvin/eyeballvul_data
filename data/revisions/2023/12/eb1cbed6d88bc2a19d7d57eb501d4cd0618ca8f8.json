@@ -1,0 +1,13 @@
+{
+  "commit": "eb1cbed6d88bc2a19d7d57eb501d4cd0618ca8f8",
+  "repo_url": "https://github.com/dragonflyoss/dragonfly",
+  "date": "2023-12-11T10:37:04",
+  "languages": {
+    "Go": 2902602,
+    "Shell": 31030,
+    "Roff": 20180,
+    "Makefile": 16545,
+    "Dockerfile": 6086
+  },
+  "size": 2976443
+}

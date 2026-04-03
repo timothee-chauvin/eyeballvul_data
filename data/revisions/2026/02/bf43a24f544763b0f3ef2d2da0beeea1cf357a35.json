@@ -1,0 +1,14 @@
+{
+  "commit": "bf43a24f544763b0f3ef2d2da0beeea1cf357a35",
+  "repo_url": "https://github.com/k3s-io/k3s",
+  "date": "2026-02-27T16:47:09",
+  "languages": {
+    "Go": 1745865,
+    "Shell": 164297,
+    "HCL": 12821,
+    "Ruby": 10911,
+    "Dockerfile": 2491,
+    "Makefile": 2053
+  },
+  "size": 1938438
+}

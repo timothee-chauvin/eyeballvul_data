@@ -1,0 +1,12 @@
+{
+  "commit": "90faf0692313160b1140f96716763227912aec44",
+  "repo_url": "https://github.com/redis/go-redis",
+  "date": "2026-02-16T14:41:48",
+  "languages": {
+    "Go": 3699646,
+    "Shell": 11868,
+    "Makefile": 4636,
+    "Dockerfile": 873
+  },
+  "size": 3717023
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "566127ad605172735b9ac5cc6797261f3dd6c45c",
+  "repo_url": "https://github.com/azure/azure-umqtt-c",
+  "date": "2022-08-09T19:15:18",
+  "languages": {
+    "C": 349582,
+    "Batchfile": 19678,
+    "Shell": 12589,
+    "C++": 10703,
+    "CMake": 9436,
+    "Makefile": 1094
+  },
+  "size": 403082
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "1d386a53086d28a0c4eda138ae9408a418b97b7e",
+  "repo_url": "https://github.com/barebox/barebox",
+  "date": "2026-03-17T13:53:18",
+  "languages": {
+    "C": 40957720,
+    "C++": 404187,
+    "Assembly": 308352,
+    "Makefile": 274970,
+    "Python": 263780,
+    "Perl": 250887,
+    "Shell": 164580,
+    "Roff": 28202,
+    "Yacc": 26989,
+    "Lex": 15481,
+    "Dockerfile": 4102,
+    "SmPL": 816
+  },
+  "size": 42700066
+}

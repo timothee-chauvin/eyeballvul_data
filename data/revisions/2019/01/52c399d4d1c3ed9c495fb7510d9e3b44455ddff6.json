@@ -1,0 +1,16 @@
+{
+  "commit": "52c399d4d1c3ed9c495fb7510d9e3b44455ddff6",
+  "repo_url": "https://github.com/jellyfin/jellyfin",
+  "date": "2019-01-25T20:46:25",
+  "languages": {
+    "C#": 8137670,
+    "HTML": 54317,
+    "Shell": 36396,
+    "PowerShell": 26133,
+    "XSLT": 3575,
+    "Dockerfile": 2420,
+    "Makefile": 572,
+    "Batchfile": 66
+  },
+  "size": 8261149
+}

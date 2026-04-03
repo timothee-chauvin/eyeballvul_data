@@ -1,0 +1,18 @@
+{
+  "commit": "37325484fc0464834bc5fc6cd4370b767feedaf3",
+  "repo_url": "https://github.com/agentgateway/agentgateway",
+  "date": "2026-01-26T23:36:45",
+  "languages": {
+    "Rust": 2148263,
+    "TypeScript": 676642,
+    "Shell": 21196,
+    "PowerShell": 5187,
+    "CSS": 5027,
+    "Dockerfile": 3850,
+    "Makefile": 2905,
+    "jq": 1032,
+    "HTML": 967,
+    "JavaScript": 81
+  },
+  "size": 2865150
+}

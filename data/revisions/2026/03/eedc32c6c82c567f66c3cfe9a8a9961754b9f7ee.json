@@ -1,0 +1,14 @@
+{
+  "commit": "eedc32c6c82c567f66c3cfe9a8a9961754b9f7ee",
+  "repo_url": "https://github.com/zenc-lang/zenc",
+  "date": "2026-03-12T19:59:09",
+  "languages": {
+    "C": 2209263,
+    "Shell": 9273,
+    "Makefile": 8077,
+    "CMake": 6005,
+    "Batchfile": 2367,
+    "Nix": 969
+  },
+  "size": 2235954
+}

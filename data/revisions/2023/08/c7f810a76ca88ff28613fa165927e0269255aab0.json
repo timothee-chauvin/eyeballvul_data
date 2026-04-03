@@ -1,0 +1,18 @@
+{
+  "commit": "c7f810a76ca88ff28613fa165927e0269255aab0",
+  "repo_url": "https://github.com/capnproto/capnproto",
+  "date": "2023-08-22T20:55:23",
+  "languages": {
+    "C++": 7639293,
+    "Cap'n Proto": 203022,
+    "Shell": 61567,
+    "CMake": 52246,
+    "Makefile": 31406,
+    "M4": 30656,
+    "Starlark": 26045,
+    "Python": 3926,
+    "Emacs Lisp": 2197,
+    "C": 1631
+  },
+  "size": 8051989
+}

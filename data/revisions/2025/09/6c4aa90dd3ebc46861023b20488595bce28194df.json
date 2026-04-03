@@ -1,0 +1,11 @@
+{
+  "commit": "6c4aa90dd3ebc46861023b20488595bce28194df",
+  "repo_url": "https://github.com/zhmcclient/zhmc-ansible-modules",
+  "date": "2025-09-24T22:06:30",
+  "languages": {
+    "Python": 1491952,
+    "Makefile": 28546,
+    "Shell": 2269
+  },
+  "size": 1522767
+}

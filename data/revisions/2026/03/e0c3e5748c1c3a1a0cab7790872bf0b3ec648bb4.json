@@ -1,0 +1,16 @@
+{
+  "commit": "e0c3e5748c1c3a1a0cab7790872bf0b3ec648bb4",
+  "repo_url": "https://github.com/pinchtab/pinchtab",
+  "date": "2026-03-17T12:21:37",
+  "languages": {
+    "Go": 1671642,
+    "Shell": 342715,
+    "TypeScript": 318695,
+    "HTML": 79559,
+    "Python": 36055,
+    "JavaScript": 30697,
+    "CSS": 5726,
+    "Dockerfile": 3038
+  },
+  "size": 2488127
+}

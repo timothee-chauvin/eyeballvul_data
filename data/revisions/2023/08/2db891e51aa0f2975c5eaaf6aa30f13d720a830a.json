@@ -1,0 +1,12 @@
+{
+  "commit": "2db891e51aa0f2975c5eaaf6aa30f13d720a830a",
+  "repo_url": "https://github.com/fsevents/fsevents",
+  "date": "2023-08-21T16:21:41",
+  "languages": {
+    "C": 12888,
+    "JavaScript": 11408,
+    "Python": 716,
+    "Shell": 438
+  },
+  "size": 25450
+}

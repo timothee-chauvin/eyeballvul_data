@@ -1,0 +1,14 @@
+{
+  "commit": "dad7b9e60de3c842f323d7215eb40c3dd2ca24d9",
+  "repo_url": "https://github.com/git-lfs/git-lfs",
+  "date": "2020-09-01T17:27:11",
+  "languages": {
+    "Go": 1278444,
+    "Shell": 598304,
+    "Makefile": 23950,
+    "Inno Setup": 5863,
+    "Ruby": 4687,
+    "Batchfile": 107
+  },
+  "size": 1911355
+}

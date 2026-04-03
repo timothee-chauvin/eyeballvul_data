@@ -1,0 +1,30 @@
+{
+  "commit": "85bfabb5acbba31555d043fb0e23823204fd48c7",
+  "repo_url": "https://github.com/yaklang/yaklang",
+  "date": "2026-04-02T07:33:22",
+  "languages": {
+    "Go": 43592002,
+    "PHP": 2931379,
+    "NASL": 2152524,
+    "JavaScript": 880978,
+    "HTML": 602992,
+    "Java": 381649,
+    "ANTLR": 240142,
+    "Shell": 117034,
+    "CSS": 112701,
+    "C": 54037,
+    "Awk": 40892,
+    "Classic ASP": 23867,
+    "Assembly": 16536,
+    "Python": 13651,
+    "Smarty": 7879,
+    "BitBake": 6836,
+    "PowerShell": 2558,
+    "Makefile": 1806,
+    "Batchfile": 1023,
+    "Dockerfile": 967,
+    "C++": 167,
+    "Hack": 121
+  },
+  "size": 51181741
+}

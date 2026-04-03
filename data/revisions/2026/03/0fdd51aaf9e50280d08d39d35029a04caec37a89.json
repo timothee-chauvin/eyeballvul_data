@@ -1,0 +1,11 @@
+{
+  "commit": "0fdd51aaf9e50280d08d39d35029a04caec37a89",
+  "repo_url": "https://github.com/emmett-framework/core",
+  "date": "2026-03-28T18:02:13",
+  "languages": {
+    "Python": 313912,
+    "Rust": 52106,
+    "Makefile": 1216
+  },
+  "size": 367234
+}

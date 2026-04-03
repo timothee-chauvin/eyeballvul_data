@@ -1,0 +1,15 @@
+{
+  "commit": "e004aa656644205318b62c3faf9e6bcf83fd1908",
+  "repo_url": "https://github.com/gallopsled/pwntools",
+  "date": "2020-10-20T15:44:56",
+  "languages": {
+    "Python": 2110160,
+    "Assembly": 1680654,
+    "C": 991010,
+    "Shell": 11318,
+    "Dockerfile": 10237,
+    "Mako": 4126,
+    "Makefile": 1805
+  },
+  "size": 4809310
+}

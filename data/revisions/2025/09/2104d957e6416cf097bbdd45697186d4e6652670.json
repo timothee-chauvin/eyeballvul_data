@@ -1,0 +1,12 @@
+{
+  "commit": "2104d957e6416cf097bbdd45697186d4e6652670",
+  "repo_url": "https://github.com/valtimo-platform/valtimo-backend-libraries",
+  "date": "2025-09-25T13:09:05",
+  "languages": {
+    "Kotlin": 6551168,
+    "Java": 2535362,
+    "PLpgSQL": 816,
+    "HTML": 602
+  },
+  "size": 9087948
+}

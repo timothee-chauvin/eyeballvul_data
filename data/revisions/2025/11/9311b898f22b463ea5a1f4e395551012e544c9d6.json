@@ -1,0 +1,19 @@
+{
+  "commit": "9311b898f22b463ea5a1f4e395551012e544c9d6",
+  "repo_url": "https://github.com/sipeed/nanokvm",
+  "date": "2025-11-26T07:13:51",
+  "languages": {
+    "C++": 550845,
+    "TypeScript": 544193,
+    "C": 312012,
+    "Go": 162597,
+    "Shell": 43685,
+    "CMake": 11795,
+    "JavaScript": 8482,
+    "CSS": 2821,
+    "Python": 2430,
+    "Makefile": 450,
+    "HTML": 358
+  },
+  "size": 1639668
+}

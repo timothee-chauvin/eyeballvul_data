@@ -1,0 +1,17 @@
+{
+  "commit": "36096733dea4bd6f6168209609fa879dc25c0138",
+  "repo_url": "https://github.com/typo3/typo3",
+  "date": "2022-10-04T07:41:13",
+  "languages": {
+    "PHP": 30302941,
+    "JavaScript": 4844872,
+    "TypeScript": 1632269,
+    "HTML": 1336065,
+    "SCSS": 322743,
+    "Shell": 59589,
+    "CSS": 6885,
+    "XSLT": 6766,
+    "Batchfile": 405
+  },
+  "size": 38512535
+}

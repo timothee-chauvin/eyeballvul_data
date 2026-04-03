@@ -1,0 +1,16 @@
+{
+  "commit": "514b1f23e601d7dd2f3f4db4076375e939f059d7",
+  "repo_url": "https://github.com/bagofwords1/bagofwords",
+  "date": "2026-01-18T11:46:25",
+  "languages": {
+    "Python": 3889185,
+    "Vue": 2194795,
+    "TypeScript": 108710,
+    "Dockerfile": 4602,
+    "Shell": 4149,
+    "CSS": 1146,
+    "Mako": 635,
+    "JavaScript": 543
+  },
+  "size": 6203765
+}

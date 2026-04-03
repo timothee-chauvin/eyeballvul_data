@@ -1,0 +1,12 @@
+{
+  "commit": "a89783023ff6b7af5e96c0969f9dbb0c3599945b",
+  "repo_url": "https://github.com/cea-hpc/sshproxy",
+  "date": "2024-05-14T14:04:01",
+  "languages": {
+    "Go": 138193,
+    "Shell": 6541,
+    "Makefile": 2962,
+    "Dockerfile": 2055
+  },
+  "size": 149751
+}

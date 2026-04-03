@@ -1,0 +1,14 @@
+{
+  "commit": "cee0f100f3ee51d9d62cad1f06f4d0759f191f93",
+  "repo_url": "https://github.com/nextauthjs/next-auth",
+  "date": "2021-03-01T20:46:41",
+  "languages": {
+    "JavaScript": 274729,
+    "CSS": 40247,
+    "Dockerfile": 1066,
+    "TSQL": 771,
+    "Shell": 399,
+    "HTML": 53
+  },
+  "size": 317265
+}

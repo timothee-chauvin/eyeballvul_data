@@ -1,0 +1,18 @@
+{
+  "commit": "3a87241015aff96c7a38c1304949908b9588b218",
+  "repo_url": "https://github.com/wordpress/wordpress-develop",
+  "date": "2025-12-02T18:34:26",
+  "languages": {
+    "PHP": 32847508,
+    "CSS": 3455224,
+    "JavaScript": 3154326,
+    "SCSS": 323882,
+    "HTML": 252416,
+    "XSLT": 2137,
+    "Python": 1724,
+    "Shell": 958,
+    "Rich Text Format": 341,
+    "Hack": 245
+  },
+  "size": 40038761
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "4d442e64b705941cf0c41c62fb74b9ace90960a9",
+  "repo_url": "https://github.com/mlc-ai/xgrammar",
+  "date": "2025-03-25T10:59:05",
+  "languages": {
+    "C++": 403566,
+    "Python": 262112,
+    "TypeScript": 52698,
+    "Cuda": 10015,
+    "SCSS": 5494,
+    "CMake": 5010,
+    "Shell": 4988,
+    "HTML": 2077,
+    "JavaScript": 978,
+    "C": 364,
+    "Ruby": 130
+  },
+  "size": 747432
+}

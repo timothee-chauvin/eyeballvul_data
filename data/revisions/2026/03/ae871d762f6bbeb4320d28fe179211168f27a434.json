@@ -1,0 +1,13 @@
+{
+  "commit": "ae871d762f6bbeb4320d28fe179211168f27a434",
+  "repo_url": "https://github.com/rollup/rollup",
+  "date": "2026-03-30T04:13:22",
+  "languages": {
+    "JavaScript": 8382839,
+    "TypeScript": 1147820,
+    "Rust": 206541,
+    "HTML": 5020,
+    "CSS": 37
+  },
+  "size": 9742257
+}

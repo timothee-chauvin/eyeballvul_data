@@ -1,0 +1,16 @@
+{
+  "commit": "2aa588b49ad7a4742e88ea897f1a71f811d07650",
+  "repo_url": "https://github.com/inspektor-gadget/inspektor-gadget",
+  "date": "2026-02-27T14:12:59",
+  "languages": {
+    "C": 5234204,
+    "Go": 2925131,
+    "Rust": 94583,
+    "Makefile": 38423,
+    "Jupyter Notebook": 24268,
+    "Dockerfile": 14236,
+    "Shell": 3892,
+    "Smarty": 3705
+  },
+  "size": 8338442
+}

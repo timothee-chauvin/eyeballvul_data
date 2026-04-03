@@ -1,0 +1,16 @@
+{
+  "commit": "67e69f19404de9c7c56087981d13017ad29289ec",
+  "repo_url": "https://github.com/triliumnext/trilium",
+  "date": "2022-06-19T12:49:48",
+  "languages": {
+    "JavaScript": 8435126,
+    "CSS": 182417,
+    "EJS": 22205,
+    "Shell": 10777,
+    "Dockerfile": 1177,
+    "HTML": 782,
+    "Batchfile": 495,
+    "PowerShell": 202
+  },
+  "size": 8653181
+}

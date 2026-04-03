@@ -1,0 +1,16 @@
+{
+  "commit": "cf865b719e59b790db96d5e9af0069f180618807",
+  "repo_url": "https://github.com/umati/umatigateway",
+  "date": "2026-03-24T03:06:39",
+  "languages": {
+    "C#": 441711,
+    "HTML": 82133,
+    "CSS": 13356,
+    "Python": 5317,
+    "Shell": 1553,
+    "Dockerfile": 1331,
+    "Batchfile": 252,
+    "JavaScript": 227
+  },
+  "size": 545880
+}

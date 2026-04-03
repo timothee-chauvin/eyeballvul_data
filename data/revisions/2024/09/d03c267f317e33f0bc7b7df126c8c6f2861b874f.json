@@ -1,0 +1,14 @@
+{
+  "commit": "d03c267f317e33f0bc7b7df126c8c6f2861b874f",
+  "repo_url": "https://github.com/clinical-genomics/scout",
+  "date": "2024-09-09T06:06:36",
+  "languages": {
+    "HTML": 4345568,
+    "Python": 2680130,
+    "JavaScript": 38796,
+    "CSS": 14975,
+    "Dockerfile": 1681,
+    "Makefile": 1046
+  },
+  "size": 7082196
+}

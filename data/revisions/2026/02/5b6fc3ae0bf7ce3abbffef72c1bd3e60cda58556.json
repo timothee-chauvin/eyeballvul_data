@@ -1,0 +1,13 @@
+{
+  "commit": "5b6fc3ae0bf7ce3abbffef72c1bd3e60cda58556",
+  "repo_url": "https://github.com/flannel-io/flannel",
+  "date": "2026-02-04T17:31:02",
+  "languages": {
+    "Go": 437170,
+    "Shell": 19106,
+    "C": 12112,
+    "Makefile": 10535,
+    "Dockerfile": 3350
+  },
+  "size": 482273
+}

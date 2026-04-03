@@ -1,0 +1,16 @@
+{
+  "commit": "24ab4f5b2782b4511dd93127157cdb2464dfbab6",
+  "repo_url": "https://github.com/zmister2016/mrdoc",
+  "date": "2021-08-30T23:15:59",
+  "languages": {
+    "JavaScript": 17328943,
+    "HTML": 1219750,
+    "CSS": 1028417,
+    "Python": 507112,
+    "XSLT": 5959,
+    "PHP": 5632,
+    "Shell": 1659,
+    "Dockerfile": 789
+  },
+  "size": 20098261
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "49312507982481350059dd48162a1755dce7428e",
+  "repo_url": "https://github.com/mantra-chain/mantrachain",
+  "date": "2026-04-02T06:38:58",
+  "languages": {
+    "Go": 658912,
+    "Makefile": 16714,
+    "Shell": 4694,
+    "Dockerfile": 1935
+  },
+  "size": 682255
+}

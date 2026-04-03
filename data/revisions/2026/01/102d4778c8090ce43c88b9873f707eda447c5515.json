@@ -1,0 +1,13 @@
+{
+  "commit": "102d4778c8090ce43c88b9873f707eda447c5515",
+  "repo_url": "https://github.com/kysely-org/kysely",
+  "date": "2026-01-31T16:19:29",
+  "languages": {
+    "TypeScript": 2422195,
+    "MDX": 71090,
+    "JavaScript": 40100,
+    "CSS": 9669,
+    "HTML": 182
+  },
+  "size": 2543236
+}

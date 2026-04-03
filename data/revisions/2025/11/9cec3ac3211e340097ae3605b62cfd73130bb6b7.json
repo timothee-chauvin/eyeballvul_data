@@ -1,0 +1,18 @@
+{
+  "commit": "9cec3ac3211e340097ae3605b62cfd73130bb6b7",
+  "repo_url": "https://github.com/timescale/timescaledb",
+  "date": "2025-11-13T14:59:52",
+  "languages": {
+    "C": 4671088,
+    "PLpgSQL": 1957914,
+    "Ruby": 150666,
+    "CMake": 123147,
+    "Shell": 87251,
+    "Python": 82750,
+    "Perl": 38747,
+    "SmPL": 9012,
+    "Emacs Lisp": 848,
+    "Batchfile": 774
+  },
+  "size": 7122197
+}

@@ -1,0 +1,27 @@
+{
+  "commit": "aca1dccda2da25a5f93227fa4db006c379a961b0",
+  "repo_url": "https://github.com/krb5/krb5",
+  "date": "1996-12-13T23:15:32",
+  "languages": {
+    "C": 7476123,
+    "Roff": 232917,
+    "TeX": 217153,
+    "M": 189473,
+    "Makefile": 170795,
+    "M4": 138873,
+    "Shell": 125335,
+    "Perl": 41295,
+    "Yacc": 32063,
+    "Python": 10629,
+    "Awk": 10022,
+    "Tcl": 8475,
+    "sed": 6000,
+    "Lex": 5765,
+    "Rez": 5219,
+    "DIGITAL Command Language": 4940,
+    "Batchfile": 2070,
+    "RPC": 881,
+    "Mathematica": 18
+  },
+  "size": 8678046
+}

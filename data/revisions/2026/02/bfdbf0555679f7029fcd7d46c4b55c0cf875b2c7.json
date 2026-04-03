@@ -1,0 +1,17 @@
+{
+  "commit": "bfdbf0555679f7029fcd7d46c4b55c0cf875b2c7",
+  "repo_url": "https://github.com/opensource-workshop/connect-cms",
+  "date": "2026-02-13T09:25:14",
+  "languages": {
+    "PHP": 7056341,
+    "CSS": 4671999,
+    "Blade": 3297143,
+    "JavaScript": 116357,
+    "SCSS": 15568,
+    "Batchfile": 12564,
+    "Shell": 3923,
+    "Dockerfile": 1836,
+    "HTML": 245
+  },
+  "size": 15175976
+}

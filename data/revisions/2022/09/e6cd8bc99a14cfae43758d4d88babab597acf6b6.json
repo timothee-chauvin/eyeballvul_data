@@ -1,0 +1,18 @@
+{
+  "commit": "e6cd8bc99a14cfae43758d4d88babab597acf6b6",
+  "repo_url": "https://github.com/budibase/budibase",
+  "date": "2022-09-16T11:33:30",
+  "languages": {
+    "JavaScript": 1603663,
+    "Svelte": 1366257,
+    "TypeScript": 858782,
+    "Shell": 44036,
+    "Handlebars": 30433,
+    "Dockerfile": 7403,
+    "CSS": 7149,
+    "HTML": 4886,
+    "Smarty": 2199,
+    "TSQL": 1588
+  },
+  "size": 3926396
+}

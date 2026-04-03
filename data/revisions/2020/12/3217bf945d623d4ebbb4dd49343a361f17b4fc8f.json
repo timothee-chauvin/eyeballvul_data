@@ -1,0 +1,14 @@
+{
+  "commit": "3217bf945d623d4ebbb4dd49343a361f17b4fc8f",
+  "repo_url": "https://github.com/snowflakedb/snowflake-connector-python",
+  "date": "2020-12-07T19:34:18",
+  "languages": {
+    "Python": 1211065,
+    "C++": 96234,
+    "Shell": 21692,
+    "Cython": 19601,
+    "Batchfile": 2503,
+    "Dockerfile": 2177
+  },
+  "size": 1353272
+}

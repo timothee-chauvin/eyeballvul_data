@@ -1,0 +1,16 @@
+{
+  "commit": "6fe068527644bc1a51f725434585893d15e28d55",
+  "repo_url": "https://github.com/shoppingflux/module-prestashop",
+  "date": "2022-09-23T12:03:10",
+  "languages": {
+    "PHP": 1451890,
+    "JavaScript": 868144,
+    "CSS": 353639,
+    "Smarty": 97383,
+    "HTML": 14717,
+    "Shell": 7470,
+    "Dockerfile": 778,
+    "Makefile": 189
+  },
+  "size": 2794210
+}

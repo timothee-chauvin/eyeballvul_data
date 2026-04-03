@@ -1,0 +1,22 @@
+{
+  "commit": "ffa2c93487fa9d387b87edf2c243a7fa55cfb2a6",
+  "repo_url": "https://github.com/freeciv/freeciv",
+  "date": "2026-03-20T22:35:48",
+  "languages": {
+    "C": 19083187,
+    "C++": 1683714,
+    "Python": 549255,
+    "M4": 316909,
+    "Shell": 238814,
+    "Makefile": 175095,
+    "Meson": 127402,
+    "Lua": 79579,
+    "Ruby": 32129,
+    "Roff": 20304,
+    "CSS": 10997,
+    "Perl": 9285,
+    "Batchfile": 2741,
+    "sed": 2160
+  },
+  "size": 22331571
+}

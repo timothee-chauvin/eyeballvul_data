@@ -1,0 +1,14 @@
+{
+  "commit": "c58057db1a1ab4447162234b5586eaccaddfedd7",
+  "repo_url": "https://github.com/ibexa/admin-ui",
+  "date": "2024-02-13T14:54:59",
+  "languages": {
+    "PHP": 3216050,
+    "JavaScript": 1038470,
+    "Twig": 748920,
+    "SCSS": 371946,
+    "Gherkin": 107825,
+    "CSS": 246
+  },
+  "size": 5483457
+}

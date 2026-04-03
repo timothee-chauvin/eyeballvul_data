@@ -1,0 +1,12 @@
+{
+  "commit": "60acf6f05be8f121b0d06b65cea484fd30ac7925",
+  "repo_url": "https://github.com/profanity-im/profanity",
+  "date": "2015-09-20T15:46:29",
+  "languages": {
+    "C": 1639246,
+    "M4": 11491,
+    "Makefile": 7984,
+    "Shell": 5431
+  },
+  "size": 1664152
+}

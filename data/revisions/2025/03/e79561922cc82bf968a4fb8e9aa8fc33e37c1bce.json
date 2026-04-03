@@ -1,0 +1,21 @@
+{
+  "commit": "e79561922cc82bf968a4fb8e9aa8fc33e37c1bce",
+  "repo_url": "https://github.com/cisco/openh264",
+  "date": "2025-03-05T07:16:11",
+  "languages": {
+    "C++": 4274828,
+    "Assembly": 1406161,
+    "C": 1151301,
+    "Shell": 100352,
+    "Makefile": 61821,
+    "Objective-C": 42368,
+    "C#": 26488,
+    "Meson": 20533,
+    "Batchfile": 17906,
+    "Python": 15165,
+    "Java": 11295,
+    "Dockerfile": 1660,
+    "JavaScript": 603
+  },
+  "size": 7130481
+}

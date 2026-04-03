@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2023-500",
+  "published": "2023-06-20T14:00:54.163811",
+  "modified": "2023-06-20T14:00:54.164049",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=42525448\n\n```\nCrash type: Heap-buffer-overflow READ 1\nCrash state:\nstbiw__encode_png_line\nstbi_write_png_to_mem\nOgre::STBIImageCodec::encode\n```\n",
+  "summary": "Heap-buffer-overflow in stbiw__encode_png_line",
+  "repo_url": "https://github.com/ogrecave/ogre",
+  "cwes": [],
+  "commits": [
+    "f629d22520e2cf3d380e968e6538c0001631b459"
+  ]
+}

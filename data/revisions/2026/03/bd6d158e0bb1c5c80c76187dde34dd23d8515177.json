@@ -1,0 +1,13 @@
+{
+  "commit": "bd6d158e0bb1c5c80c76187dde34dd23d8515177",
+  "repo_url": "https://github.com/nextcloud/end_to_end_encryption",
+  "date": "2026-03-27T18:27:51",
+  "languages": {
+    "PHP": 402182,
+    "JavaScript": 234050,
+    "TypeScript": 224965,
+    "Vue": 64273,
+    "CSS": 245
+  },
+  "size": 925715
+}

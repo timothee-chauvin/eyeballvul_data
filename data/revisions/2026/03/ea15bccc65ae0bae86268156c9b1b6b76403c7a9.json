@@ -1,0 +1,17 @@
+{
+  "commit": "ea15bccc65ae0bae86268156c9b1b6b76403c7a9",
+  "repo_url": "https://github.com/vitodeploy/vito",
+  "date": "2026-03-07T12:10:27",
+  "languages": {
+    "PHP": 2132625,
+    "TypeScript": 1006323,
+    "Blade": 67532,
+    "Shell": 47764,
+    "JavaScript": 18597,
+    "CSS": 7160,
+    "HTML": 5445,
+    "Dockerfile": 1697,
+    "Makefile": 38
+  },
+  "size": 3287181
+}

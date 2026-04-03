@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-298",
+  "published": "2022-09-29T21:15:00",
+  "modified": "2025-10-09T08:23:53.450355",
+  "details": "Allocation of Resources Without Limits or Throttling in GitHub repository ikus060/rdiffweb prior to 2.5.0a3.",
+  "repo_url": "https://github.com/ikus060/rdiffweb",
+  "cwes": [],
+  "commits": [
+    "a1938147896e0421c86388e62171489219c6dc96"
+  ]
+}

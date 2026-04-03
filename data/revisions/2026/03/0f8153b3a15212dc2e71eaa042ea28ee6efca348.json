@@ -1,0 +1,12 @@
+{
+  "commit": "0f8153b3a15212dc2e71eaa042ea28ee6efca348",
+  "repo_url": "https://github.com/anthropics/anthropic-sdk-typescript",
+  "date": "2026-03-18T18:38:17",
+  "languages": {
+    "TypeScript": 1050446,
+    "Shell": 18423,
+    "JavaScript": 9088,
+    "Ruby": 12
+  },
+  "size": 1077969
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "0e113c3b96354e6565a523e1196204af282bbdee",
+  "repo_url": "https://github.com/quay/claircore",
+  "date": "2021-09-28T17:33:42",
+  "languages": {
+    "Go": 1034466,
+    "Makefile": 2724,
+    "Dockerfile": 557
+  },
+  "size": 1037747
+}

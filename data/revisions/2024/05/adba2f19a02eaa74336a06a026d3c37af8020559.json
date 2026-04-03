@@ -1,0 +1,22 @@
+{
+  "commit": "adba2f19a02eaa74336a06a026d3c37af8020559",
+  "repo_url": "https://github.com/nixos/nix",
+  "date": "2024-05-09T09:28:48",
+  "languages": {
+    "C++": 3816576,
+    "Shell": 456259,
+    "Nix": 256495,
+    "Makefile": 51206,
+    "C": 41860,
+    "M4": 41227,
+    "Perl": 27150,
+    "Yacc": 13861,
+    "XS": 13241,
+    "Rust": 10642,
+    "Lex": 8166,
+    "Python": 1033,
+    "Emacs Lisp": 598,
+    "Ruby": 175
+  },
+  "size": 4738489
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "232d72675e5b2264c4a0fe36cd35034c4d8c9825",
+  "repo_url": "https://github.com/knative/serving",
+  "date": "2023-12-18T22:46:21",
+  "languages": {
+    "Go": 3990461,
+    "Shell": 84910
+  },
+  "size": 4075371
+}

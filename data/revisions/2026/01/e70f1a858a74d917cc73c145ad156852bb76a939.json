@@ -1,0 +1,13 @@
+{
+  "commit": "e70f1a858a74d917cc73c145ad156852bb76a939",
+  "repo_url": "https://github.com/openstack/cinder",
+  "date": "2026-01-16T10:38:06",
+  "languages": {
+    "Python": 27077962,
+    "Smarty": 87765,
+    "Shell": 8078,
+    "Mako": 976,
+    "Jinja": 259
+  },
+  "size": 27175040
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "14c7dba463d1b1a39ac853e5a54f266d5700bbba",
+  "repo_url": "https://github.com/nextcloud/tables",
+  "date": "2024-08-29T10:12:47",
+  "languages": {
+    "JavaScript": 1332625,
+    "PHP": 713548,
+    "Vue": 447918,
+    "TypeScript": 198444,
+    "Gherkin": 64165,
+    "CSS": 10257,
+    "Shell": 6162,
+    "Makefile": 3005,
+    "HTML": 421
+  },
+  "size": 2776545
+}

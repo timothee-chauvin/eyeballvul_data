@@ -1,0 +1,12 @@
+{
+  "commit": "d7c0974ce6ab94ca135b10b2a45308203c0e0c7e",
+  "repo_url": "https://github.com/anthropics/anthropic-sdk-python",
+  "date": "2026-03-18T18:42:06",
+  "languages": {
+    "Python": 2072120,
+    "Shell": 7308,
+    "Dockerfile": 253,
+    "Ruby": 11
+  },
+  "size": 2079692
+}

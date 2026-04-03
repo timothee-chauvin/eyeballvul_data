@@ -1,0 +1,15 @@
+{
+  "commit": "3998b13834d08065b507e48ae3af9aadfa85dee9",
+  "repo_url": "https://github.com/grafana/grafana-image-renderer",
+  "date": "2025-10-06T07:15:36",
+  "languages": {
+    "Go": 146394,
+    "TypeScript": 108973,
+    "JavaScript": 12562,
+    "Dockerfile": 8239,
+    "Shell": 6231,
+    "Makefile": 847,
+    "Jsonnet": 487
+  },
+  "size": 283733
+}

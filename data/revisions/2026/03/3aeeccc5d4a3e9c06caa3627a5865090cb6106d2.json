@@ -1,0 +1,15 @@
+{
+  "commit": "3aeeccc5d4a3e9c06caa3627a5865090cb6106d2",
+  "repo_url": "https://github.com/cryptomator/ios",
+  "date": "2026-03-09T09:34:02",
+  "languages": {
+    "Swift": 1875463,
+    "Shell": 23923,
+    "Ruby": 12712,
+    "Python": 11083,
+    "Objective-C": 6934,
+    "HTML": 4675,
+    "CSS": 604
+  },
+  "size": 1935394
+}

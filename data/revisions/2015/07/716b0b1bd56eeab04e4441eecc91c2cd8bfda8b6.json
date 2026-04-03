@@ -1,0 +1,17 @@
+{
+  "commit": "716b0b1bd56eeab04e4441eecc91c2cd8bfda8b6",
+  "repo_url": "https://github.com/apache/groovy",
+  "date": "2015-07-09T19:06:53",
+  "languages": {
+    "Java": 10576685,
+    "Groovy": 7197023,
+    "GAP": 223240,
+    "CSS": 89499,
+    "HTML": 89380,
+    "Shell": 22145,
+    "Batchfile": 18768,
+    "Smarty": 7699,
+    "JavaScript": 570
+  },
+  "size": 18225009
+}

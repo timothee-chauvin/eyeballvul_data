@@ -1,0 +1,11 @@
+{
+  "commit": "94c8bd004e8632df2a88bd476a761d5e96c757d9",
+  "repo_url": "https://github.com/aws/bedrock-agentcore-starter-toolkit",
+  "date": "2025-09-18T16:08:31",
+  "languages": {
+    "Python": 1138529,
+    "Jinja": 6940,
+    "Shell": 2735
+  },
+  "size": 1148204
+}

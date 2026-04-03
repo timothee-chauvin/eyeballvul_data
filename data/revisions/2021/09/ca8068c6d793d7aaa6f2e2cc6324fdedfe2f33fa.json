@@ -1,0 +1,20 @@
+{
+  "commit": "ca8068c6d793d7aaa6f2e2cc6324fdedfe2f33fa",
+  "repo_url": "https://github.com/gstreamer/gstreamer",
+  "date": "2021-09-23T00:34:50",
+  "languages": {
+    "C": 27842686,
+    "C++": 3481074,
+    "Meson": 268825,
+    "Objective-C": 195147,
+    "Shell": 38574,
+    "GLSL": 23256,
+    "Python": 14155,
+    "Objective-C++": 10027,
+    "Csound": 6381,
+    "Java": 5856,
+    "Makefile": 4158,
+    "CMake": 3063
+  },
+  "size": 31893202
+}

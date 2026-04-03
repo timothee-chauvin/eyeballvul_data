@@ -1,0 +1,11 @@
+{
+  "commit": "85d39df08f69fef0b6a70cd3d450b12d9f88d4a9",
+  "repo_url": "https://github.com/tyktechnologies/tyk-identity-broker",
+  "date": "2020-11-25T22:33:58",
+  "languages": {
+    "Go": 156157,
+    "Shell": 10699,
+    "Dockerfile": 915
+  },
+  "size": 167771
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "364724ff1bac49aa8aef5fb2725f0b3390a6696c",
+  "repo_url": "https://github.com/ultravioletrs/cocos",
+  "date": "2025-10-16T09:34:31",
+  "languages": {
+    "Go": 876951,
+    "Shell": 9355,
+    "Rust": 6307,
+    "Python": 5447,
+    "Makefile": 4483,
+    "Dockerfile": 379
+  },
+  "size": 902922
+}

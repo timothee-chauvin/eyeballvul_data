@@ -1,0 +1,12 @@
+{
+  "commit": "90306f9f3477281f76cecaf84ec538511e00a48c",
+  "repo_url": "https://github.com/rsmarples/dhcpcd",
+  "date": "2009-05-03T06:17:07",
+  "languages": {
+    "C": 252991,
+    "Roff": 29192,
+    "Makefile": 8002,
+    "Shell": 3164
+  },
+  "size": 293349
+}

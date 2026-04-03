@@ -1,0 +1,12 @@
+{
+  "commit": "d7e04247af8cbfa34fe4795ebd0ee25de2e83dca",
+  "repo_url": "https://github.com/clojure/clojure",
+  "date": "2017-11-27T21:22:08",
+  "languages": {
+    "Java": 1835201,
+    "Clojure": 1234127,
+    "HTML": 23294,
+    "Shell": 276
+  },
+  "size": 3092898
+}

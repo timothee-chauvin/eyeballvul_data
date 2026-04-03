@@ -1,0 +1,13 @@
+{
+  "commit": "11d5b23d0a1d843f904ed4f7e5c8cac16d34186e",
+  "repo_url": "https://github.com/simstudioai/sim",
+  "date": "2025-05-08T15:08:05",
+  "languages": {
+    "TypeScript": 4744449,
+    "JavaScript": 12801,
+    "Shell": 11895,
+    "CSS": 6919,
+    "Dockerfile": 1365
+  },
+  "size": 4777429
+}

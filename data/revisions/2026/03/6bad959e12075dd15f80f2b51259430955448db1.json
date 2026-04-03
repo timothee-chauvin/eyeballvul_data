@@ -1,0 +1,12 @@
+{
+  "commit": "6bad959e12075dd15f80f2b51259430955448db1",
+  "repo_url": "https://github.com/openstack/octavia",
+  "date": "2026-03-03T00:38:38",
+  "languages": {
+    "Python": 5838332,
+    "Shell": 108464,
+    "Jinja": 38197,
+    "Mako": 922
+  },
+  "size": 5985915
+}

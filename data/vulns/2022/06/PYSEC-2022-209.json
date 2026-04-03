@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-209",
+  "published": "2022-06-12T14:15:00",
+  "modified": "2026-02-22T22:49:12.673187",
+  "details": "Command Injection in GitHub repository nuitka/nuitka prior to 0.9.",
+  "repo_url": "https://github.com/nuitka/nuitka",
+  "cwes": [],
+  "commits": [
+    "2abe7148d76595b9cfb42b4713eebcd7cafacb75"
+  ]
+}

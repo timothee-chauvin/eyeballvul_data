@@ -1,0 +1,14 @@
+{
+  "commit": "5a3aa1c1340d9a04fb2294503077399ff9dc24e2",
+  "repo_url": "https://github.com/cryptomator/android",
+  "date": "2025-10-06T13:56:22",
+  "languages": {
+    "Kotlin": 1272990,
+    "Java": 472081,
+    "Ruby": 22247,
+    "Dockerfile": 1995,
+    "Shell": 1154,
+    "HTML": 85
+  },
+  "size": 1770552
+}

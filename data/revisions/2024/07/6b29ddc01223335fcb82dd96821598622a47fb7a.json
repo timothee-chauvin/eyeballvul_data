@@ -1,0 +1,12 @@
+{
+  "commit": "6b29ddc01223335fcb82dd96821598622a47fb7a",
+  "repo_url": "https://github.com/oveleon/contao-cookiebar",
+  "date": "2024-07-16T13:28:27",
+  "languages": {
+    "PHP": 178626,
+    "JavaScript": 43957,
+    "SCSS": 9486,
+    "Twig": 3158
+  },
+  "size": 235227
+}

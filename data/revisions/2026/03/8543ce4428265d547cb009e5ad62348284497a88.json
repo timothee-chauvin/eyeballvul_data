@@ -1,0 +1,15 @@
+{
+  "commit": "8543ce4428265d547cb009e5ad62348284497a88",
+  "repo_url": "https://github.com/moby/buildkit",
+  "date": "2026-03-31T07:10:38",
+  "languages": {
+    "Go": 4229513,
+    "Dockerfile": 59019,
+    "Shell": 15168,
+    "HCL": 9951,
+    "Makefile": 2742,
+    "Ruby": 2318,
+    "Assembly": 1691
+  },
+  "size": 4320402
+}

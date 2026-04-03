@@ -1,0 +1,11 @@
+{
+  "commit": "61a8f675286f1bd6568f7240753654ffbaeaa026",
+  "repo_url": "https://github.com/tillitis/tkeyclient",
+  "date": "2025-07-17T12:22:19",
+  "languages": {
+    "Go": 20198,
+    "Shell": 1814,
+    "Makefile": 57
+  },
+  "size": 22069
+}

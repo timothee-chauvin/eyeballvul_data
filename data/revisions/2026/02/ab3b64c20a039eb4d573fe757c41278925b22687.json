@@ -1,0 +1,13 @@
+{
+  "commit": "ab3b64c20a039eb4d573fe757c41278925b22687",
+  "repo_url": "https://github.com/effect-ts/effect",
+  "date": "2026-02-21T11:12:21",
+  "languages": {
+    "TypeScript": 21035919,
+    "JavaScript": 9963,
+    "Shell": 2886,
+    "HTML": 1942,
+    "Nix": 630
+  },
+  "size": 21051340
+}

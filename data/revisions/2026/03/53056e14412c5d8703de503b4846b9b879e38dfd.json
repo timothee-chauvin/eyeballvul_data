@@ -1,0 +1,13 @@
+{
+  "commit": "53056e14412c5d8703de503b4846b9b879e38dfd",
+  "repo_url": "https://github.com/microsoft/xmlnotepad",
+  "date": "2026-03-27T20:53:39",
+  "languages": {
+    "C#": 1529275,
+    "HTML": 42904,
+    "XSLT": 29123,
+    "Batchfile": 9292,
+    "CSS": 1032
+  },
+  "size": 1611626
+}

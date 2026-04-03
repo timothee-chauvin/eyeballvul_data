@@ -1,0 +1,13 @@
+{
+  "commit": "2e15d81753880554c8178ab2955d949651c5a35e",
+  "repo_url": "https://github.com/trifectatechfoundation/sudo-rs",
+  "date": "2025-10-03T13:17:20",
+  "languages": {
+    "Rust": 1208627,
+    "Shell": 11755,
+    "Dockerfile": 2937,
+    "Makefile": 1186,
+    "C": 31
+  },
+  "size": 1224536
+}

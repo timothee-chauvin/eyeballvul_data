@@ -1,0 +1,12 @@
+{
+  "commit": "e288d8deffd70f64c6d49a3a7c1a2d97f6c2b32d",
+  "repo_url": "https://github.com/vshakitskiy/ewe",
+  "date": "2026-03-13T19:36:27",
+  "languages": {
+    "Gleam": 131093,
+    "Erlang": 3250,
+    "Makefile": 565,
+    "TypeScript": 476
+  },
+  "size": 135384
+}
