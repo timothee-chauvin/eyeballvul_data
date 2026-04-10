@@ -1,0 +1,11 @@
+{
+  "commit": "1923cff38c1a75eb488a31fcee92c1c869e157d3",
+  "repo_url": "https://github.com/grafana/grafana-json-datasource",
+  "date": "2024-05-14T11:31:10",
+  "languages": {
+    "TypeScript": 71876,
+    "JavaScript": 4323,
+    "Dockerfile": 725
+  },
+  "size": 76924
+}

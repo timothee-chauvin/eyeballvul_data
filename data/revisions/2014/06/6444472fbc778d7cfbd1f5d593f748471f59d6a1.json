@@ -1,0 +1,12 @@
+{
+  "commit": "6444472fbc778d7cfbd1f5d593f748471f59d6a1",
+  "repo_url": "https://github.com/kde/kauth",
+  "date": "2014-06-01T10:37:48",
+  "languages": {
+    "C++": 179205,
+    "CMake": 31364,
+    "C": 2284,
+    "Shell": 256
+  },
+  "size": 213109
+}

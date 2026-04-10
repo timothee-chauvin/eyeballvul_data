@@ -1,0 +1,12 @@
+{
+  "commit": "066d213de31e4bf3cd63b786762ede60a4e330af",
+  "repo_url": "https://github.com/jenkinsci/google-compute-engine-plugin",
+  "date": "2019-06-20T20:43:03",
+  "languages": {
+    "Java": 294283,
+    "HTML": 22584,
+    "PowerShell": 4713,
+    "Makefile": 955
+  },
+  "size": 322535
+}

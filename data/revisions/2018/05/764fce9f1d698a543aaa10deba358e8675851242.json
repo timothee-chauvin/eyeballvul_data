@@ -1,0 +1,16 @@
+{
+  "commit": "764fce9f1d698a543aaa10deba358e8675851242",
+  "repo_url": "https://github.com/mitmproxy/mitmproxy",
+  "date": "2018-05-16T22:02:16",
+  "languages": {
+    "Python": 1741401,
+    "JavaScript": 276327,
+    "Less": 17370,
+    "HTML": 14747,
+    "Shell": 4425,
+    "CSS": 3571,
+    "Kaitai Struct": 1912,
+    "PowerShell": 495
+  },
+  "size": 2060248
+}

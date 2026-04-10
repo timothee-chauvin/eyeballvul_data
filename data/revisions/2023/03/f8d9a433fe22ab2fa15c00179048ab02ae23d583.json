@@ -1,0 +1,13 @@
+{
+  "commit": "f8d9a433fe22ab2fa15c00179048ab02ae23d583",
+  "repo_url": "https://github.com/dlundquist/sniproxy",
+  "date": "2023-03-17T04:57:26",
+  "languages": {
+    "C": 246624,
+    "Perl": 69931,
+    "M4": 35727,
+    "Shell": 4981,
+    "Makefile": 4024
+  },
+  "size": 361287
+}

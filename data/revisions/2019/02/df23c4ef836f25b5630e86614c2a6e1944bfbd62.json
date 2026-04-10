@@ -1,0 +1,14 @@
+{
+  "commit": "df23c4ef836f25b5630e86614c2a6e1944bfbd62",
+  "repo_url": "https://github.com/eclipse/hawkbit",
+  "date": "2019-02-01T13:18:38",
+  "languages": {
+    "Java": 6482013,
+    "SCSS": 79985,
+    "Dockerfile": 18356,
+    "Shell": 4425,
+    "HTML": 1449,
+    "Vim Snippet": 360
+  },
+  "size": 6586588
+}

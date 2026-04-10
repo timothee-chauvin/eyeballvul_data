@@ -1,0 +1,15 @@
+{
+  "commit": "6c166592760b6877d7b3e3bd1165c006ea719324",
+  "repo_url": "https://github.com/eclipse-ee4j/angus-mail",
+  "date": "2023-01-26T09:12:54",
+  "languages": {
+    "Java": 2867926,
+    "HTML": 144813,
+    "Standard ML": 79859,
+    "Shell": 9905,
+    "C": 4809,
+    "Dockerfile": 930,
+    "Ruby": 129
+  },
+  "size": 3108371
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "d4dbedec98e5347b2ee6fe88192bce034436f4e5",
+  "repo_url": "https://github.com/apache/jackrabbit",
+  "date": "2023-03-30T18:01:21",
+  "languages": {
+    "Java": 23141333,
+    "XSLT": 49729,
+    "Rich Text Format": 30864,
+    "JavaScript": 7188,
+    "CSS": 2538,
+    "Shell": 1817
+  },
+  "size": 23233469
+}

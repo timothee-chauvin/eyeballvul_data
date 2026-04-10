@@ -1,0 +1,19 @@
+{
+  "commit": "0a26473cabfd243d6cea2bbc09e5295e72749449",
+  "repo_url": "https://github.com/droolsjbpm/jbpm",
+  "date": "2021-03-09T08:25:43",
+  "languages": {
+    "Java": 16870749,
+    "TSQL": 140497,
+    "FreeMarker": 24447,
+    "StringTemplate": 24277,
+    "SQLPL": 16482,
+    "HTML": 16250,
+    "PLpgSQL": 14147,
+    "PLSQL": 5187,
+    "Visual Basic 6.0": 2545,
+    "Shell": 98,
+    "JavaScript": 20
+  },
+  "size": 17114699
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "9bd402698cfa299b79b9144f8d7744c308a4e085",
+  "repo_url": "https://github.com/godotengine/godot",
+  "date": "2018-01-29T18:15:56",
+  "languages": {
+    "C++": 19544161,
+    "Java": 495481,
+    "Python": 343521,
+    "C#": 176395,
+    "Objective-C++": 174189,
+    "GLSL": 142668,
+    "C": 50004,
+    "Shell": 19610,
+    "JavaScript": 14680,
+    "AIDL": 10294,
+    "Objective-C": 2645,
+    "Makefile": 451
+  },
+  "size": 20974099
+}

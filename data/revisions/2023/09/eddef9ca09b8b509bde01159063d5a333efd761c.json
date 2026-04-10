@@ -1,0 +1,14 @@
+{
+  "commit": "eddef9ca09b8b509bde01159063d5a333efd761c",
+  "repo_url": "https://github.com/vantage6/vantage6",
+  "date": "2023-09-18T08:24:55",
+  "languages": {
+    "Python": 1201872,
+    "HTML": 37010,
+    "Makefile": 8974,
+    "Dockerfile": 4973,
+    "Jinja": 4752,
+    "Shell": 2428
+  },
+  "size": 1260009
+}

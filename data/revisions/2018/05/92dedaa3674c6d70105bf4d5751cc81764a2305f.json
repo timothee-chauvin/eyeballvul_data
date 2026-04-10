@@ -1,0 +1,14 @@
+{
+  "commit": "92dedaa3674c6d70105bf4d5751cc81764a2305f",
+  "repo_url": "https://github.com/yubico/libu2f-host",
+  "date": "2018-05-15T11:20:42",
+  "languages": {
+    "C": 132453,
+    "M4": 118342,
+    "Makefile": 110992,
+    "C++": 56343,
+    "Shell": 4369,
+    "CMake": 3264
+  },
+  "size": 425763
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "5931355022bc3966d35241427e553e292ef650ec",
+  "repo_url": "https://github.com/mdjnelson/moodle-mod_customcert",
+  "date": "2025-12-18T12:03:24",
+  "languages": {
+    "PHP": 800393,
+    "Gherkin": 52558,
+    "Mustache": 21354,
+    "JavaScript": 11816,
+    "CSS": 2140
+  },
+  "size": 888261
+}

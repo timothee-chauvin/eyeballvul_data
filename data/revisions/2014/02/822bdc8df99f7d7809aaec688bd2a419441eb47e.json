@@ -1,0 +1,17 @@
+{
+  "commit": "822bdc8df99f7d7809aaec688bd2a419441eb47e",
+  "repo_url": "https://github.com/apache/spamassassin",
+  "date": "2014-02-11T13:39:53",
+  "languages": {
+    "Perl": 3600099,
+    "C": 193327,
+    "Shell": 161552,
+    "Roff": 51729,
+    "DIGITAL Command Language": 41450,
+    "Python": 7334,
+    "Makefile": 4687,
+    "PLpgSQL": 3722,
+    "CSS": 2676
+  },
+  "size": 4066576
+}

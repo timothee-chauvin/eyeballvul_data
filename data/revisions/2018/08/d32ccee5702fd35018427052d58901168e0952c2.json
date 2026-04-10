@@ -1,0 +1,24 @@
+{
+  "commit": "d32ccee5702fd35018427052d58901168e0952c2",
+  "repo_url": "https://github.com/sparkdevnetwork/rock",
+  "date": "2018-08-29T19:11:27",
+  "languages": {
+    "C#": 38835477,
+    "TSQL": 16624090,
+    "JavaScript": 4031346,
+    "Inno Setup": 3054186,
+    "ASP.NET": 2477098,
+    "Less": 900523,
+    "HTML": 301177,
+    "CSS": 200076,
+    "ActionScript": 75785,
+    "PowerShell": 43357,
+    "SCSS": 15454,
+    "Classic ASP": 4785,
+    "Shell": 3561,
+    "Batchfile": 1307,
+    "Gherkin": 970,
+    "Makefile": 570
+  },
+  "size": 66569762
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "e3edf0139a04734f8654525f080ee469a239a845",
+  "repo_url": "https://github.com/matrix-org/matrix-rust-sdk",
+  "date": "2022-06-13T12:30:10",
+  "languages": {
+    "Rust": 2365523,
+    "JavaScript": 31624,
+    "Shell": 5314,
+    "Python": 2599,
+    "Swift": 2008,
+    "Perl": 782,
+    "Makefile": 455,
+    "Objective-C": 123
+  },
+  "size": 2408428
+}

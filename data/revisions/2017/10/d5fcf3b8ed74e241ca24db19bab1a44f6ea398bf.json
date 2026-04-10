@@ -1,0 +1,20 @@
+{
+  "commit": "d5fcf3b8ed74e241ca24db19bab1a44f6ea398bf",
+  "repo_url": "https://github.com/paritytech/parity",
+  "date": "2017-10-25T10:06:04",
+  "languages": {
+    "Rust": 5653917,
+    "JavaScript": 3939933,
+    "CSS": 276942,
+    "Solidity": 38017,
+    "Shell": 11324,
+    "C++": 9875,
+    "Swift": 8610,
+    "Dockerfile": 8193,
+    "NSIS": 8145,
+    "C": 7000,
+    "EJS": 2925,
+    "HTML": 2392
+  },
+  "size": 9967273
+}

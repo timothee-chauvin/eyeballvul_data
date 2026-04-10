@@ -1,0 +1,18 @@
+{
+  "commit": "ab0f174c82674bc87f07e7ec8ad429ca7372a12a",
+  "repo_url": "https://github.com/chaskiq/chaskiq",
+  "date": "2021-10-02T18:14:19",
+  "languages": {
+    "TypeScript": 1611561,
+    "Ruby": 1171612,
+    "CSS": 783011,
+    "HTML": 157865,
+    "JavaScript": 137390,
+    "Haml": 46671,
+    "Shell": 1848,
+    "Dockerfile": 1738,
+    "Procfile": 259,
+    "SCSS": 253
+  },
+  "size": 3912208
+}

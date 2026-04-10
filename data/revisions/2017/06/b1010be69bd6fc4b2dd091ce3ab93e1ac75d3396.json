@@ -1,0 +1,15 @@
+{
+  "commit": "b1010be69bd6fc4b2dd091ce3ab93e1ac75d3396",
+  "repo_url": "https://github.com/mantisbt/mantisbt",
+  "date": "2017-06-04T18:39:39",
+  "languages": {
+    "PHP": 3965468,
+    "CSS": 606189,
+    "JavaScript": 213146,
+    "XSLT": 91868,
+    "Shell": 5844,
+    "Makefile": 5561,
+    "HTML": 4721
+  },
+  "size": 4892797
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "4fa16668fac187f255f63eb730bcbb6bc402ddd9",
+  "repo_url": "https://github.com/3scale/apicast",
+  "date": "2016-03-22T14:29:41",
+  "languages": {
+    "Dockerfile": 2085,
+    "Shell": 1845
+  },
+  "size": 3930
+}

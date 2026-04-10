@@ -1,0 +1,19 @@
+{
+  "commit": "f2a0f52862cf1388edd3c29f72602af0f8b5ad86",
+  "repo_url": "https://github.com/naver/ngrinder",
+  "date": "2016-05-24T08:45:34",
+  "languages": {
+    "Java": 1751151,
+    "JavaScript": 583859,
+    "FreeMarker": 236154,
+    "CSS": 63870,
+    "Roff": 51750,
+    "HTML": 15768,
+    "Groovy": 7593,
+    "Python": 4757,
+    "Shell": 3010,
+    "Batchfile": 1483,
+    "Dockerfile": 834
+  },
+  "size": 2720229
+}

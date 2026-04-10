@@ -1,0 +1,12 @@
+{
+  "commit": "ebbee208e9ec348e12dfe23c3f6400d25bca3b50",
+  "repo_url": "https://github.com/opensearch-project/dashboards-reporting",
+  "date": "2024-06-11T16:46:37",
+  "languages": {
+    "HTML": 1064440,
+    "TypeScript": 493233,
+    "JavaScript": 57230,
+    "SCSS": 570
+  },
+  "size": 1615473
+}

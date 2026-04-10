@@ -1,0 +1,13 @@
+{
+  "commit": "a4b8424c1e12a3e7bbaf5fad72e368fd4c2490d4",
+  "repo_url": "https://github.com/sipcapture/homer-app",
+  "date": "2021-11-05T09:23:38",
+  "languages": {
+    "Go": 598253,
+    "Shell": 10918,
+    "Dockerfile": 938,
+    "Ragel": 624,
+    "Makefile": 478
+  },
+  "size": 611211
+}

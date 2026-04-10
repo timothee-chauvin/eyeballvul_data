@@ -1,0 +1,17 @@
+{
+  "commit": "a37f2600d5d762d8c40fd0f090a9bef0947f039f",
+  "repo_url": "https://github.com/brave/browser-laptop",
+  "date": "2017-01-25T17:57:51",
+  "languages": {
+    "JavaScript": 2079289,
+    "Less": 204064,
+    "NSIS": 32880,
+    "HTML": 18818,
+    "Python": 10004,
+    "PowerShell": 5172,
+    "Shell": 4108,
+    "Smarty": 2757,
+    "CSS": 86
+  },
+  "size": 2357178
+}

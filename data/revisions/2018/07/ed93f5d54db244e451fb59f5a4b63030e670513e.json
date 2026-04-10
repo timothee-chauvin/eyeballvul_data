@@ -1,0 +1,17 @@
+{
+  "commit": "ed93f5d54db244e451fb59f5a4b63030e670513e",
+  "repo_url": "https://github.com/thingsboard/thingsboard",
+  "date": "2018-07-19T13:06:32",
+  "languages": {
+    "Java": 3412250,
+    "JavaScript": 2031067,
+    "HTML": 847218,
+    "SCSS": 160805,
+    "Shell": 27101,
+    "Python": 7686,
+    "Dockerfile": 5971,
+    "Batchfile": 5187,
+    "Makefile": 1370
+  },
+  "size": 6498655
+}

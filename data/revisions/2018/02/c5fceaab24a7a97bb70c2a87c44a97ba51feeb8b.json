@@ -1,0 +1,19 @@
+{
+  "commit": "c5fceaab24a7a97bb70c2a87c44a97ba51feeb8b",
+  "repo_url": "https://github.com/sinatra/sinatra",
+  "date": "2018-02-12T14:47:04",
+  "languages": {
+    "Ruby": 626725,
+    "HTML": 1614,
+    "Haml": 547,
+    "Shell": 454,
+    "Slim": 439,
+    "Sass": 72,
+    "Liquid": 70,
+    "Less": 65,
+    "SCSS": 35,
+    "Stylus": 16,
+    "CoffeeScript": 13
+  },
+  "size": 630050
+}

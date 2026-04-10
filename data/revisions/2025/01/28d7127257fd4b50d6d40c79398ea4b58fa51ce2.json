@@ -1,0 +1,17 @@
+{
+  "commit": "28d7127257fd4b50d6d40c79398ea4b58fa51ce2",
+  "repo_url": "https://github.com/openhands/openhands",
+  "date": "2025-01-29T17:24:17",
+  "languages": {
+    "Python": 2304010,
+    "TypeScript": 568406,
+    "Shell": 59477,
+    "Makefile": 13744,
+    "Jinja": 13374,
+    "JavaScript": 11288,
+    "Dockerfile": 8755,
+    "CSS": 1976,
+    "HTML": 1849
+  },
+  "size": 2982879
+}

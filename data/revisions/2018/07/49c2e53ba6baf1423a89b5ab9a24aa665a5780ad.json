@@ -1,0 +1,20 @@
+{
+  "commit": "49c2e53ba6baf1423a89b5ab9a24aa665a5780ad",
+  "repo_url": "https://github.com/apache/syncope",
+  "date": "2018-07-05T15:04:12",
+  "languages": {
+    "Java": 10226394,
+    "HTML": 451593,
+    "CSS": 270742,
+    "JavaScript": 172657,
+    "Groovy": 69242,
+    "XSLT": 24640,
+    "Shell": 23344,
+    "PLpgSQL": 20311,
+    "TSQL": 11583,
+    "Dockerfile": 4358,
+    "Batchfile": 3111,
+    "ANTLR": 1932
+  },
+  "size": 11279907
+}

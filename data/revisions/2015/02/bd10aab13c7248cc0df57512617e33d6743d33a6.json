@@ -1,0 +1,14 @@
+{
+  "commit": "bd10aab13c7248cc0df57512617e33d6743d33a6",
+  "repo_url": "https://github.com/seccomp/libseccomp",
+  "date": "2015-02-11T20:57:11",
+  "languages": {
+    "C": 407001,
+    "Shell": 48036,
+    "Python": 44674,
+    "Cython": 29189,
+    "Makefile": 10084,
+    "M4": 4018
+  },
+  "size": 543002
+}

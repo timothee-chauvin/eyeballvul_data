@@ -1,0 +1,15 @@
+{
+  "commit": "f8bd39ad32780a5ed629debddba1f99d84da9ef0",
+  "repo_url": "https://github.com/apache/directory-studio",
+  "date": "2010-03-30T13:45:56",
+  "languages": {
+    "Java": 10467895,
+    "HTML": 62074,
+    "CSS": 39542,
+    "XSLT": 38987,
+    "NSIS": 19098,
+    "Shell": 4249,
+    "Inno Setup": 2347
+  },
+  "size": 10634192
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "4091a5dfb41072b0a8b95500582febe15e0cdae9",
+  "repo_url": "https://github.com/lilypond/lilypond",
+  "date": "2017-07-15T10:41:46",
+  "languages": {
+    "C++": 3603301,
+    "Scheme": 1856592,
+    "LilyPond": 1116294,
+    "Python": 990578,
+    "TeX": 419076,
+    "Makefile": 131205,
+    "Emacs Lisp": 104728,
+    "PostScript": 70232,
+    "Perl": 54862,
+    "Shell": 43011,
+    "Tcl": 17353,
+    "Vim Script": 6514,
+    "Hack": 4106,
+    "HTML": 1151
+  },
+  "size": 8419003
+}

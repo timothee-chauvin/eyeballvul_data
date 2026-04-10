@@ -1,0 +1,22 @@
+{
+  "commit": "24e9739746b6f5bf2bca15ccdb47210a76153a77",
+  "repo_url": "https://github.com/mchehab/zbar",
+  "date": "2021-02-14T16:03:07",
+  "languages": {
+    "C": 1247238,
+    "C++": 196772,
+    "Objective-C": 196373,
+    "Python": 51692,
+    "Perl": 42041,
+    "Java": 41900,
+    "M4": 33851,
+    "XS": 24078,
+    "Shell": 23357,
+    "Makefile": 13984,
+    "BitBake": 10427,
+    "NSIS": 9885,
+    "HTML": 3946,
+    "PHP": 230
+  },
+  "size": 1895774
+}

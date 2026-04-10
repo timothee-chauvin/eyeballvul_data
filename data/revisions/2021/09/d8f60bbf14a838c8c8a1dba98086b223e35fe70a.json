@@ -1,0 +1,13 @@
+{
+  "commit": "d8f60bbf14a838c8c8a1dba98086b223e35fe70a",
+  "repo_url": "https://github.com/cobbler/cobbler",
+  "date": "2021-09-20T14:55:41",
+  "languages": {
+    "Python": 1593810,
+    "Shell": 27410,
+    "Dockerfile": 11698,
+    "Makefile": 6389,
+    "KerboScript": 53
+  },
+  "size": 1639360
+}

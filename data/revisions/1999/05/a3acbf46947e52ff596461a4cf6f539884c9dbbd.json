@@ -1,0 +1,17 @@
+{
+  "commit": "a3acbf46947e52ff596461a4cf6f539884c9dbbd",
+  "repo_url": "https://github.com/cygwin/cygwin",
+  "date": "1999-05-03T07:29:06",
+  "languages": {
+    "C": 1155807,
+    "Shell": 248006,
+    "C++": 88790,
+    "M4": 64149,
+    "Makefile": 57787,
+    "Emacs Lisp": 21698,
+    "sed": 9561,
+    "Batchfile": 798,
+    "DIGITAL Command Language": 220
+  },
+  "size": 1646816
+}

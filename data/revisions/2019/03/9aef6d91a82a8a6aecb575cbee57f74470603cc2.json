@@ -1,0 +1,13 @@
+{
+  "commit": "9aef6d91a82a8a6aecb575cbee57f74470603cc2",
+  "repo_url": "https://github.com/mdadams/jasper",
+  "date": "2019-03-12T18:04:35",
+  "languages": {
+    "C": 1356442,
+    "Shell": 72836,
+    "CMake": 35546,
+    "Roff": 2120,
+    "Batchfile": 1790
+  },
+  "size": 1468734
+}

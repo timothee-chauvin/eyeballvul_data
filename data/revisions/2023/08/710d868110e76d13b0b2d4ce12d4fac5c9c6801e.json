@@ -1,0 +1,24 @@
+{
+  "commit": "710d868110e76d13b0b2d4ce12d4fac5c9c6801e",
+  "repo_url": "https://github.com/apache/storm",
+  "date": "2023-08-02T20:53:48",
+  "languages": {
+    "Java": 13739090,
+    "Python": 1228183,
+    "HTML": 699754,
+    "Clojure": 306463,
+    "C": 291010,
+    "JavaScript": 75293,
+    "Thrift": 32736,
+    "Shell": 28651,
+    "CSS": 12597,
+    "Ruby": 8253,
+    "Fancy": 6234,
+    "PowerShell": 3518,
+    "FreeMarker": 3512,
+    "Makefile": 1522,
+    "M4": 1522,
+    "XSLT": 1365
+  },
+  "size": 16439703
+}

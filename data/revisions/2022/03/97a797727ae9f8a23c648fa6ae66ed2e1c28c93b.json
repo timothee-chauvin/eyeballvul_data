@@ -1,0 +1,16 @@
+{
+  "commit": "97a797727ae9f8a23c648fa6ae66ed2e1c28c93b",
+  "repo_url": "https://github.com/open-formulieren/open-forms",
+  "date": "2022-03-10T15:41:52",
+  "languages": {
+    "Python": 2587953,
+    "JavaScript": 409341,
+    "SCSS": 89168,
+    "HTML": 65234,
+    "Shell": 6419,
+    "Dockerfile": 4344,
+    "EJS": 1794,
+    "Smarty": 930
+  },
+  "size": 3165183
+}

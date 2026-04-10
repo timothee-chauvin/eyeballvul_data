@@ -1,0 +1,28 @@
+{
+  "commit": "4679b8907c03248eebbdf2f0c8d4a09fc0676459",
+  "repo_url": "https://github.com/deeplearning4j/deeplearning4j",
+  "date": "2022-02-25T21:47:56",
+  "languages": {
+    "Java": 34829002,
+    "C++": 17699604,
+    "Cuda": 2414856,
+    "Kotlin": 1925130,
+    "JavaScript": 296767,
+    "C": 165340,
+    "CMake": 101228,
+    "Shell": 88017,
+    "TypeScript": 81217,
+    "FreeMarker": 77257,
+    "Python": 76788,
+    "HTML": 18609,
+    "CSS": 12974,
+    "PureBasic": 12254,
+    "Cython": 12094,
+    "Ruby": 4558,
+    "Batchfile": 1458,
+    "Scala": 1026,
+    "Smarty": 975,
+    "Starlark": 931
+  },
+  "size": 57820085
+}

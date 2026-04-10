@@ -1,0 +1,15 @@
+{
+  "commit": "e4728d68876f34f791c7dea4a1078f922b7a39ea",
+  "repo_url": "https://github.com/sysadminsmedia/homebox",
+  "date": "2025-05-06T14:00:01",
+  "languages": {
+    "Go": 443552,
+    "Vue": 398187,
+    "TypeScript": 127342,
+    "CSS": 30350,
+    "HTML": 14508,
+    "JavaScript": 5515,
+    "Dockerfile": 3011
+  },
+  "size": 1022465
+}

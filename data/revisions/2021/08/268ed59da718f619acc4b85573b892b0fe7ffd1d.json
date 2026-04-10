@@ -1,0 +1,17 @@
+{
+  "commit": "268ed59da718f619acc4b85573b892b0fe7ffd1d",
+  "repo_url": "https://github.com/mate-desktop/atril",
+  "date": "2021-08-06T10:44:48",
+  "languages": {
+    "C": 2661621,
+    "C++": 98615,
+    "Makefile": 71373,
+    "M4": 26958,
+    "Python": 5091,
+    "Perl": 4060,
+    "Roff": 3659,
+    "CSS": 772,
+    "Shell": 752
+  },
+  "size": 2872901
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "69053245f18b7a6899ffc4622890580fa8b8c87c",
+  "repo_url": "https://github.com/openhab/openhab-addons",
+  "date": "2019-12-15T17:21:48",
+  "languages": {
+    "Java": 25785104,
+    "HTML": 53864,
+    "JavaScript": 40490,
+    "C++": 18428,
+    "C": 17148,
+    "Awk": 9404,
+    "CSS": 7735,
+    "Shell": 4594,
+    "Batchfile": 1439,
+    "XSLT": 313
+  },
+  "size": 25938519
+}

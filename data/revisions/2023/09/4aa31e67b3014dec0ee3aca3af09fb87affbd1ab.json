@@ -1,0 +1,14 @@
+{
+  "commit": "4aa31e67b3014dec0ee3aca3af09fb87affbd1ab",
+  "repo_url": "https://github.com/lumieducation/h5p-nodejs-library",
+  "date": "2023-09-20T06:45:30",
+  "languages": {
+    "TypeScript": 1492666,
+    "JavaScript": 49711,
+    "Shell": 5991,
+    "CSS": 1884,
+    "HTML": 1694,
+    "Dockerfile": 204
+  },
+  "size": 1552150
+}

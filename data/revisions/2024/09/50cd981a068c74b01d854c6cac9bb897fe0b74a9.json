@@ -1,0 +1,11 @@
+{
+  "commit": "50cd981a068c74b01d854c6cac9bb897fe0b74a9",
+  "repo_url": "https://github.com/pydicom/pydicom",
+  "date": "2024-09-22T01:57:27",
+  "languages": {
+    "Python": 7444088,
+    "Shell": 6555,
+    "Makefile": 684
+  },
+  "size": 7451327
+}

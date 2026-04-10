@@ -1,0 +1,16 @@
+{
+  "commit": "a311acb02115271fbda6953734d0b4f52aa85892",
+  "repo_url": "https://github.com/endojs/endo",
+  "date": "2022-06-28T20:40:06",
+  "languages": {
+    "JavaScript": 47822323,
+    "Shell": 11336,
+    "TypeScript": 9650,
+    "HTML": 7570,
+    "Python": 5061,
+    "CSS": 1021,
+    "Batchfile": 819,
+    "Makefile": 584
+  },
+  "size": 47858364
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "9e53e7e8366a13e44079f252ee8e5d5000803fe2",
+  "repo_url": "https://github.com/shopify/ruby-lsp",
+  "date": "2026-03-25T18:23:34",
+  "languages": {
+    "Ruby": 1443060,
+    "TypeScript": 435178,
+    "JavaScript": 2689,
+    "HTML": 419,
+    "Shell": 175,
+    "Dockerfile": 159,
+    "SCSS": 133
+  },
+  "size": 1881813
+}

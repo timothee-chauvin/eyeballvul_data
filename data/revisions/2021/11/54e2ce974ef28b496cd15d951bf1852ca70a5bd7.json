@@ -1,0 +1,12 @@
+{
+  "commit": "54e2ce974ef28b496cd15d951bf1852ca70a5bd7",
+  "repo_url": "https://github.com/invoiceninja/invoiceninja",
+  "date": "2021-11-19T06:22:46",
+  "languages": {
+    "PHP": 13770655,
+    "Blade": 684502,
+    "HTML": 142427,
+    "Shell": 1703
+  },
+  "size": 14599287
+}

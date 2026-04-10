@@ -1,0 +1,21 @@
+{
+  "commit": "ec5189f9c41b5630b4811e3bf12ff698985a4b8c",
+  "repo_url": "https://github.com/milvus-io/milvus",
+  "date": "2025-11-05T02:55:33",
+  "languages": {
+    "Go": 19426074,
+    "C++": 6056567,
+    "Python": 5705594,
+    "Shell": 259011,
+    "Groovy": 173925,
+    "CMake": 74166,
+    "C": 63098,
+    "Dockerfile": 36710,
+    "Makefile": 33686,
+    "HTML": 10591,
+    "ANTLR": 7065,
+    "Batchfile": 3999,
+    "Assembly": 2644
+  },
+  "size": 31853130
+}

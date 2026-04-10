@@ -1,0 +1,18 @@
+{
+  "commit": "90dea2966b0c4b746078bf80848576e13769d0f9",
+  "repo_url": "https://github.com/mapfish/mapfish-print",
+  "date": "2020-10-21T08:51:15",
+  "languages": {
+    "Java": 2363730,
+    "Scheme": 44064,
+    "HTML": 19158,
+    "Shell": 7046,
+    "CSS": 5744,
+    "Python": 3234,
+    "Dockerfile": 2651,
+    "Batchfile": 2618,
+    "XSLT": 1877,
+    "Makefile": 1225
+  },
+  "size": 2451347
+}

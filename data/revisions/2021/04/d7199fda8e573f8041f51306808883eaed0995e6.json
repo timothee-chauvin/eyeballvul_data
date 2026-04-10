@@ -1,0 +1,17 @@
+{
+  "commit": "d7199fda8e573f8041f51306808883eaed0995e6",
+  "repo_url": "https://github.com/lensapp/lens",
+  "date": "2021-04-28T16:43:31",
+  "languages": {
+    "TypeScript": 1699606,
+    "SCSS": 135099,
+    "Harbour": 16850,
+    "JavaScript": 9990,
+    "HTML": 4467,
+    "Makefile": 3705,
+    "Jsonnet": 1278,
+    "Dockerfile": 763,
+    "NSIS": 605
+  },
+  "size": 1872363
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "36ae70a119f48bce34ea21e5ce99bd4e3b4856f6",
+  "repo_url": "https://github.com/netgen/tagsbundle",
+  "date": "2021-11-12T14:59:24",
+  "languages": {
+    "PHP": 742264,
+    "JavaScript": 74719,
+    "CSS": 73418,
+    "Twig": 50303,
+    "SCSS": 23253
+  },
+  "size": 963957
+}

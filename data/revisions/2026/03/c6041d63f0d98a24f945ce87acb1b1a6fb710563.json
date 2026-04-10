@@ -1,0 +1,22 @@
+{
+  "commit": "c6041d63f0d98a24f945ce87acb1b1a6fb710563",
+  "repo_url": "https://github.com/themactep/thingino-firmware",
+  "date": "2026-03-08T11:18:19",
+  "languages": {
+    "Shell": 734464,
+    "JavaScript": 431730,
+    "Makefile": 393347,
+    "HTML": 281714,
+    "C": 273739,
+    "C++": 71855,
+    "Python": 35661,
+    "Perl": 14810,
+    "CSS": 14285,
+    "Nim": 6569,
+    "Ruby": 5996,
+    "Awk": 2336,
+    "Meson": 2180,
+    "Dockerfile": 1886
+  },
+  "size": 2270572
+}

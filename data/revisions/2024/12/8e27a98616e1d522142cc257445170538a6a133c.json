@@ -1,0 +1,12 @@
+{
+  "commit": "8e27a98616e1d522142cc257445170538a6a133c",
+  "repo_url": "https://github.com/astronomer/dag-factory",
+  "date": "2024-12-06T16:28:27",
+  "languages": {
+    "Python": 166618,
+    "Shell": 1560,
+    "Makefile": 1175,
+    "Dockerfile": 141
+  },
+  "size": 169494
+}

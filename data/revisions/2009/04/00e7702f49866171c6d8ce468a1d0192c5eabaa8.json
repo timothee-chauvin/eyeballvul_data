@@ -1,0 +1,16 @@
+{
+  "commit": "00e7702f49866171c6d8ce468a1d0192c5eabaa8",
+  "repo_url": "https://github.com/apache/ode",
+  "date": "2009-04-29T21:27:12",
+  "languages": {
+    "Java": 4566144,
+    "JavaScript": 250034,
+    "Ruby": 52112,
+    "HTML": 45053,
+    "CSS": 39892,
+    "Shell": 6022,
+    "Batchfile": 4072,
+    "XSLT": 3211
+  },
+  "size": 4966540
+}

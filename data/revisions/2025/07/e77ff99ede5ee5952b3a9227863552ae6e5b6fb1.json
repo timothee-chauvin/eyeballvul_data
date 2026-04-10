@@ -1,0 +1,17 @@
+{
+  "commit": "e77ff99ede5ee5952b3a9227863552ae6e5b6fb1",
+  "repo_url": "https://github.com/moby/moby",
+  "date": "2025-07-09T10:33:03",
+  "languages": {
+    "Go": 10224678,
+    "Shell": 158639,
+    "Dockerfile": 54686,
+    "PowerShell": 31839,
+    "Makefile": 10124,
+    "Python": 7179,
+    "C": 4815,
+    "HCL": 4023,
+    "Assembly": 81
+  },
+  "size": 10496064
+}

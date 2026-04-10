@@ -1,0 +1,13 @@
+{
+  "commit": "5241b46610f2491efdf9d1c85f1ddf5b02f6d962",
+  "repo_url": "https://github.com/docker/docker-credential-helpers",
+  "date": "2018-06-27T12:33:29",
+  "languages": {
+    "Go": 55454,
+    "C": 12643,
+    "Makefile": 2534,
+    "Shell": 1655,
+    "Dockerfile": 367
+  },
+  "size": 72653
+}

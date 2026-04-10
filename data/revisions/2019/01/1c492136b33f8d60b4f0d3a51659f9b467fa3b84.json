@@ -1,0 +1,13 @@
+{
+  "commit": "1c492136b33f8d60b4f0d3a51659f9b467fa3b84",
+  "repo_url": "https://github.com/nextcloud/talk-android",
+  "date": "2019-01-16T11:53:44",
+  "languages": {
+    "Java": 1011710,
+    "Kotlin": 6840,
+    "Ruby": 6580,
+    "Shell": 4400,
+    "Python": 3664
+  },
+  "size": 1033194
+}

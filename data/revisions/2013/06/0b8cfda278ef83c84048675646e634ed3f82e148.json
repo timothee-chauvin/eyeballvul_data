@@ -1,0 +1,28 @@
+{
+  "commit": "0b8cfda278ef83c84048675646e634ed3f82e148",
+  "repo_url": "https://github.com/commsy/commsy",
+  "date": "2013-06-26T09:38:41",
+  "languages": {
+    "JavaScript": 24793085,
+    "PHP": 20619951,
+    "HTML": 11520269,
+    "CSS": 2667830,
+    "Smarty": 835637,
+    "Less": 531413,
+    "ActionScript": 334390,
+    "Classic ASP": 139036,
+    "Java": 131065,
+    "C": 125475,
+    "XSLT": 104085,
+    "Shell": 21189,
+    "Perl": 6881,
+    "sed": 2859,
+    "Batchfile": 2721,
+    "Python": 1386,
+    "Ruby": 911,
+    "XQuery": 799,
+    "Roff": 684,
+    "Hack": 330
+  },
+  "size": 61839996
+}

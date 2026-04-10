@@ -1,0 +1,14 @@
+{
+  "commit": "d5df49c276dacd0f5e50a04c12def4ca22dfc3aa",
+  "repo_url": "https://github.com/vendure-ecommerce/vendure",
+  "date": "2021-12-13T15:40:32",
+  "languages": {
+    "TypeScript": 6938057,
+    "HTML": 408831,
+    "SCSS": 121363,
+    "JavaScript": 30686,
+    "Handlebars": 14588,
+    "Shell": 1021
+  },
+  "size": 7514546
+}

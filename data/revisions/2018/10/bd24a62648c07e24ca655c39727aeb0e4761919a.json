@@ -1,0 +1,19 @@
+{
+  "commit": "bd24a62648c07e24ca655c39727aeb0e4761919a",
+  "repo_url": "https://github.com/istio/istio",
+  "date": "2018-10-20T03:41:24",
+  "languages": {
+    "Go": 7008749,
+    "Shell": 315236,
+    "HTML": 222238,
+    "Python": 78658,
+    "Makefile": 59316,
+    "JavaScript": 35544,
+    "CSS": 20388,
+    "Mustache": 15253,
+    "Smarty": 6889,
+    "Jinja": 5750,
+    "Dockerfile": 4376
+  },
+  "size": 7772397
+}

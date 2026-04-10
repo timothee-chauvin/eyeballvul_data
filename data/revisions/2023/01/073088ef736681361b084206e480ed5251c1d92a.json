@@ -1,0 +1,16 @@
+{
+  "commit": "073088ef736681361b084206e480ed5251c1d92a",
+  "repo_url": "https://github.com/viewvc/viewvc",
+  "date": "2023-01-04T14:48:34",
+  "languages": {
+    "Python": 669112,
+    "HTML": 31356,
+    "C++": 24877,
+    "CSS": 19538,
+    "Shell": 2993,
+    "C": 2542,
+    "Makefile": 221,
+    "JavaScript": 49
+  },
+  "size": 750688
+}

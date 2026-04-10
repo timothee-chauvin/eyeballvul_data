@@ -1,0 +1,18 @@
+{
+  "commit": "71dcb13a7192bfdf311ee276d54ea54a12653ee7",
+  "repo_url": "https://github.com/umputun/remark42",
+  "date": "2020-04-25T17:15:26",
+  "languages": {
+    "Go": 840826,
+    "TypeScript": 305550,
+    "SCSS": 31477,
+    "HTML": 20663,
+    "JavaScript": 16627,
+    "EJS": 8615,
+    "CSS": 3298,
+    "Dockerfile": 3050,
+    "Makefile": 1539,
+    "Shell": 580
+  },
+  "size": 1232225
+}

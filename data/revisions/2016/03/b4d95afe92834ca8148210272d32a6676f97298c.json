@@ -1,0 +1,10 @@
+{
+  "commit": "b4d95afe92834ca8148210272d32a6676f97298c",
+  "repo_url": "https://github.com/openstack/ceilometer",
+  "date": "2016-03-23T13:48:49",
+  "languages": {
+    "Python": 3016908,
+    "Shell": 9344
+  },
+  "size": 3026252
+}

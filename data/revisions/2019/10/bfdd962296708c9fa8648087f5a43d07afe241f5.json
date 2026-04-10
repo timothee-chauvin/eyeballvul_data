@@ -1,0 +1,12 @@
+{
+  "commit": "bfdd962296708c9fa8648087f5a43d07afe241f5",
+  "repo_url": "https://github.com/konveyor/mig-controller",
+  "date": "2019-10-25T21:52:36",
+  "languages": {
+    "Go": 318452,
+    "Shell": 3908,
+    "Makefile": 1499,
+    "Dockerfile": 500
+  },
+  "size": 324359
+}

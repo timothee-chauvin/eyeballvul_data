@@ -1,0 +1,14 @@
+{
+  "commit": "c74bd4d617ea0a187e4caa59b58bf5a662ba5e3f",
+  "repo_url": "https://github.com/sap/openui5",
+  "date": "2019-01-15T11:40:30",
+  "languages": {
+    "JavaScript": 44439294,
+    "HTML": 17447069,
+    "Less": 2764586,
+    "Java": 83088,
+    "CSS": 83037,
+    "Gherkin": 17351
+  },
+  "size": 64834425
+}

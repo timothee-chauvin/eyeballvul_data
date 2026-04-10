@@ -1,0 +1,25 @@
+{
+  "commit": "b2172cbaaa56377cacf0dfb33243261715fae7bf",
+  "repo_url": "https://github.com/openreplay/openreplay",
+  "date": "2023-07-11T08:55:21",
+  "languages": {
+    "TypeScript": 2671451,
+    "Python": 2371120,
+    "JavaScript": 1429121,
+    "Go": 515916,
+    "PLpgSQL": 348843,
+    "Jupyter Notebook": 296069,
+    "Mustache": 272633,
+    "CSS": 196542,
+    "HTML": 139925,
+    "Cython": 85255,
+    "Shell": 73237,
+    "Smarty": 69157,
+    "Ruby": 17368,
+    "Dockerfile": 10338,
+    "Makefile": 3309,
+    "Swift": 3122,
+    "SCSS": 761
+  },
+  "size": 8504167
+}

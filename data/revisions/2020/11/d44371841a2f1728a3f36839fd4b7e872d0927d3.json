@@ -1,0 +1,17 @@
+{
+  "commit": "d44371841a2f1728a3f36839fd4b7e872d0927d3",
+  "repo_url": "https://github.com/lz4/lz4",
+  "date": "2020-11-16T04:59:35",
+  "languages": {
+    "C": 777940,
+    "Makefile": 56345,
+    "C++": 49503,
+    "Python": 38032,
+    "Meson": 17126,
+    "Roff": 9077,
+    "CMake": 8448,
+    "Shell": 4816,
+    "Dockerfile": 644
+  },
+  "size": 961931
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "1c5d75be91b6cca4ffc385e89ce3aa9c92abbd1c",
+  "repo_url": "https://github.com/cert-manager/cert-manager",
+  "date": "2025-12-09T12:55:55",
+  "languages": {
+    "Go": 5060940,
+    "Makefile": 157670,
+    "Shell": 66500,
+    "Mustache": 8874,
+    "Dockerfile": 5532
+  },
+  "size": 5299516
+}

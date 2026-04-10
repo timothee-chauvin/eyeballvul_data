@@ -1,0 +1,12 @@
+{
+  "commit": "f52cf78ebfa1916da406f8b6210d8f7764ec1185",
+  "repo_url": "https://github.com/containers/image",
+  "date": "2019-03-21T20:26:17",
+  "languages": {
+    "Go": 1256369,
+    "Makefile": 4120,
+    "Shell": 1308,
+    "Dockerfile": 384
+  },
+  "size": 1262181
+}

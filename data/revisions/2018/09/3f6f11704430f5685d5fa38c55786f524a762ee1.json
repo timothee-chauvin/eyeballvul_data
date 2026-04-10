@@ -1,0 +1,16 @@
+{
+  "commit": "3f6f11704430f5685d5fa38c55786f524a762ee1",
+  "repo_url": "https://github.com/concourse/concourse",
+  "date": "2018-09-17T18:04:45",
+  "languages": {
+    "Shell": 73592,
+    "Go": 48988,
+    "PowerShell": 4360,
+    "HTML": 3315,
+    "Dockerfile": 1037,
+    "Batchfile": 601,
+    "Makefile": 156,
+    "Procfile": 48
+  },
+  "size": 132097
+}

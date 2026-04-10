@@ -1,0 +1,11 @@
+{
+  "commit": "0a00422a3c9ab0bc6e2cf2c96b0064bce364c509",
+  "repo_url": "https://github.com/folio-org/mod-remote-storage",
+  "date": "2023-02-23T05:30:28",
+  "languages": {
+    "Java": 314273,
+    "Shell": 878,
+    "Dockerfile": 444
+  },
+  "size": 315595
+}

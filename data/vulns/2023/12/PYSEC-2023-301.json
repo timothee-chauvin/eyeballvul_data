@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-301",
+  "published": "2023-12-20T17:15:00",
+  "modified": "2024-11-21T14:57:00.944028",
+  "details": "Deserialization of Untrusted Data in GitHub repository huggingface/transformers prior to 4.36.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/huggingface/transformers",
+  "cwes": [],
+  "commits": [
+    "fedabcd1545839798004b2b468f191ec2244442f"
+  ]
+}

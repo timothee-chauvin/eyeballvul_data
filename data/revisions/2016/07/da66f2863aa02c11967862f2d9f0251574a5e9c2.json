@@ -1,0 +1,20 @@
+{
+  "commit": "da66f2863aa02c11967862f2d9f0251574a5e9c2",
+  "repo_url": "https://github.com/pocoproject/poco",
+  "date": "2016-07-20T12:25:10",
+  "languages": {
+    "C": 14703075,
+    "C++": 9699458,
+    "CMake": 102247,
+    "JavaScript": 78749,
+    "Makefile": 63866,
+    "Shell": 36334,
+    "Batchfile": 20627,
+    "HTML": 12917,
+    "PowerShell": 11387,
+    "CSS": 9956,
+    "DIGITAL Command Language": 9403,
+    "Perl": 1048
+  },
+  "size": 24749067
+}

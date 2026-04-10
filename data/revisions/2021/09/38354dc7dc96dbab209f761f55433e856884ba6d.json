@@ -1,0 +1,17 @@
+{
+  "commit": "38354dc7dc96dbab209f761f55433e856884ba6d",
+  "repo_url": "https://github.com/yoast/wordpress-seo",
+  "date": "2021-09-28T07:16:28",
+  "languages": {
+    "JavaScript": 9189349,
+    "PHP": 4810268,
+    "HTML": 3515999,
+    "TypeScript": 281396,
+    "CSS": 59175,
+    "SCSS": 49898,
+    "EJS": 11360,
+    "XSLT": 4267,
+    "Shell": 2435
+  },
+  "size": 17924147
+}

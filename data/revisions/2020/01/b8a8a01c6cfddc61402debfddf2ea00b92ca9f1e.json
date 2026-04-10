@@ -1,0 +1,14 @@
+{
+  "commit": "b8a8a01c6cfddc61402debfddf2ea00b92ca9f1e",
+  "repo_url": "https://github.com/containers/buildah",
+  "date": "2020-01-31T00:45:10",
+  "languages": {
+    "Go": 890898,
+    "Shell": 301355,
+    "Dockerfile": 9947,
+    "Makefile": 6690,
+    "Awk": 512,
+    "Roff": 427
+  },
+  "size": 1209829
+}

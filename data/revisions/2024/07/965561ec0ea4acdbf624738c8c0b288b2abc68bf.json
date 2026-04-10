@@ -1,0 +1,17 @@
+{
+  "commit": "965561ec0ea4acdbf624738c8c0b288b2abc68bf",
+  "repo_url": "https://github.com/openrefine/openrefine",
+  "date": "2024-07-08T17:36:08",
+  "languages": {
+    "Java": 5297616,
+    "JavaScript": 1743716,
+    "HTML": 672687,
+    "CSS": 152066,
+    "Shell": 24758,
+    "Batchfile": 9834,
+    "Python": 4899,
+    "Inno Setup": 4432,
+    "mIRC Script": 762
+  },
+  "size": 7910770
+}

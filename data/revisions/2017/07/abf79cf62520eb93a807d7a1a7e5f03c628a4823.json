@@ -1,0 +1,17 @@
+{
+  "commit": "abf79cf62520eb93a807d7a1a7e5f03c628a4823",
+  "repo_url": "https://gitlab.com/soundtouch/soundtouch",
+  "date": "2017-07-30T10:12:17",
+  "languages": {
+    "C++": 323440,
+    "C#": 33680,
+    "Pascal": 18091,
+    "Makefile": 13650,
+    "M4": 11610,
+    "C": 10818,
+    "HTML": 8620,
+    "Java": 8416,
+    "Batchfile": 2680
+  },
+  "size": 431005
+}

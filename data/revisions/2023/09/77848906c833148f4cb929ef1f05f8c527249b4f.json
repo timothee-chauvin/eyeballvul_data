@@ -1,0 +1,12 @@
+{
+  "commit": "77848906c833148f4cb929ef1f05f8c527249b4f",
+  "repo_url": "https://github.com/sagernet/sing-box",
+  "date": "2023-09-25T10:29:39",
+  "languages": {
+    "Go": 1310040,
+    "Makefile": 5847,
+    "Shell": 2363,
+    "Dockerfile": 953
+  },
+  "size": 1319203
+}

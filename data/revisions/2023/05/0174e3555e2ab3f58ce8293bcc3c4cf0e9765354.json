@@ -1,0 +1,14 @@
+{
+  "commit": "0174e3555e2ab3f58ce8293bcc3c4cf0e9765354",
+  "repo_url": "https://github.com/pimcore/admin-ui-classic-bundle",
+  "date": "2023-05-16T15:35:28",
+  "languages": {
+    "JavaScript": 3622446,
+    "PHP": 1344511,
+    "CSS": 816930,
+    "Twig": 109772,
+    "SCSS": 10777,
+    "Shell": 409
+  },
+  "size": 5904845
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "81bf030a28aa1afe517ea1a83145d6fefe9a1a59",
+  "repo_url": "https://github.com/apptainer/singularity",
+  "date": "2017-10-12T02:13:18",
+  "languages": {
+    "C": 424778,
+    "Shell": 292646,
+    "Python": 199837,
+    "Makefile": 30786,
+    "M4": 14057
+  },
+  "size": 962104
+}

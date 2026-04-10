@@ -1,0 +1,15 @@
+{
+  "commit": "aa38f1591fbd934992e415270ec4ca1b80f68ba9",
+  "repo_url": "https://github.com/opensmtpd/opensmtpd",
+  "date": "2017-07-31T21:09:00",
+  "languages": {
+    "C": 1165513,
+    "Roff": 75741,
+    "M4": 59274,
+    "Yacc": 57684,
+    "Makefile": 17079,
+    "Awk": 9897,
+    "Shell": 4142
+  },
+  "size": 1389330
+}

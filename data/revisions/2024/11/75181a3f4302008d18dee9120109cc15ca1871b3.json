@@ -1,0 +1,13 @@
+{
+  "commit": "75181a3f4302008d18dee9120109cc15ca1871b3",
+  "repo_url": "https://github.com/joelbutcher/socialstream",
+  "date": "2024-11-22T14:18:54",
+  "languages": {
+    "PHP": 317967,
+    "Blade": 90918,
+    "Vue": 88063,
+    "TypeScript": 33804,
+    "JavaScript": 33581
+  },
+  "size": 564333
+}

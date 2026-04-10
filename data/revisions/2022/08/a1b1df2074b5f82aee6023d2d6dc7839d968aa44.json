@@ -1,0 +1,19 @@
+{
+  "commit": "a1b1df2074b5f82aee6023d2d6dc7839d968aa44",
+  "repo_url": "https://github.com/scylladb/scylla",
+  "date": "2022-08-07T13:24:51",
+  "languages": {
+    "C++": 17390131,
+    "Python": 2057677,
+    "GAP": 98594,
+    "Shell": 73377,
+    "Thrift": 40394,
+    "CMake": 26122,
+    "Hack": 15100,
+    "Assembly": 14822,
+    "Nix": 5400,
+    "Ragel": 3572,
+    "Dockerfile": 707
+  },
+  "size": 19725896
+}

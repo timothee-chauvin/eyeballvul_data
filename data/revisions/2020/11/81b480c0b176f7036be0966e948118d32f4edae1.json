@@ -1,0 +1,27 @@
+{
+  "commit": "81b480c0b176f7036be0966e948118d32f4edae1",
+  "repo_url": "https://github.com/marcelvanherk/conquest-dicom-server",
+  "date": "2020-11-02T22:20:41",
+  "languages": {
+    "C": 10944565,
+    "C++": 2756182,
+    "Pascal": 959861,
+    "Lua": 905995,
+    "Rich Text Format": 421217,
+    "Shell": 138498,
+    "Roff": 30984,
+    "PHP": 25139,
+    "JavaScript": 19263,
+    "SAS": 13756,
+    "Batchfile": 13639,
+    "WebAssembly": 13560,
+    "Module Management System": 13253,
+    "Assembly": 8314,
+    "Makefile": 7978,
+    "Smalltalk": 6201,
+    "HTML": 4745,
+    "StringTemplate": 4329,
+    "CSS": 1241
+  },
+  "size": 16288720
+}

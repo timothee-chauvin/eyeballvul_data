@@ -1,0 +1,14 @@
+{
+  "commit": "617422e1de48e780fd53ee7228e6058cb6f528da",
+  "repo_url": "https://github.com/ag-grid/ag-grid",
+  "date": "2017-11-02T15:12:33",
+  "languages": {
+    "TypeScript": 1327789,
+    "SCSS": 80532,
+    "Stylus": 39026,
+    "JavaScript": 25921,
+    "sed": 401,
+    "Shell": 157
+  },
+  "size": 1473826
+}

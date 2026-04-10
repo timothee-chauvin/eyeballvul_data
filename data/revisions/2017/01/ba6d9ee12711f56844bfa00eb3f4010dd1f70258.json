@@ -1,0 +1,15 @@
+{
+  "commit": "ba6d9ee12711f56844bfa00eb3f4010dd1f70258",
+  "repo_url": "https://github.com/s9y/serendipity",
+  "date": "2017-01-26T10:50:15",
+  "languages": {
+    "PHP": 12845799,
+    "Smarty": 884985,
+    "CSS": 461465,
+    "JavaScript": 389596,
+    "HTML": 71732,
+    "Less": 14949,
+    "Shell": 5295
+  },
+  "size": 14673821
+}

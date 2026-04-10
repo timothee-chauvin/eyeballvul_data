@@ -1,0 +1,15 @@
+{
+  "commit": "fc00e6e94e953516ec741663a01c7457f344c72e",
+  "repo_url": "https://github.com/thomas-tsai/partclone",
+  "date": "2015-08-24T06:55:12",
+  "languages": {
+    "C": 1379290,
+    "Makefile": 419319,
+    "Shell": 97815,
+    "M4": 95415,
+    "Perl": 4976,
+    "Assembly": 2289,
+    "sed": 370
+  },
+  "size": 1999474
+}

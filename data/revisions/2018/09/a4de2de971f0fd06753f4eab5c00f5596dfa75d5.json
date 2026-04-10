@@ -1,0 +1,17 @@
+{
+  "commit": "a4de2de971f0fd06753f4eab5c00f5596dfa75d5",
+  "repo_url": "https://github.com/apache/jmeter",
+  "date": "2018-09-18T08:13:12",
+  "languages": {
+    "Java": 8247740,
+    "HTML": 93493,
+    "Groovy": 90513,
+    "XSLT": 60736,
+    "JavaScript": 36223,
+    "Batchfile": 24763,
+    "CSS": 23109,
+    "Shell": 22701,
+    "Less": 6310
+  },
+  "size": 8605588
+}

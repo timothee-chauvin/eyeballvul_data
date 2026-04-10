@@ -1,0 +1,15 @@
+{
+  "commit": "c44180fe5d17e41f3aa22bdea42c073b344bcaac",
+  "repo_url": "https://github.com/aws/aws-sdk-go",
+  "date": "2019-04-24T21:36:18",
+  "languages": {
+    "Go": 3922950,
+    "HTML": 40067,
+    "JavaScript": 26094,
+    "CSS": 17113,
+    "Makefile": 8058,
+    "Ruby": 7322,
+    "Roff": 1450
+  },
+  "size": 4023054
+}

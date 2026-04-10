@@ -1,0 +1,21 @@
+{
+  "commit": "9af1fc18f507d0e94e0e6f34f4d8d4be4bda0112",
+  "repo_url": "https://github.com/tencent/weknora",
+  "date": "2026-01-05T09:04:47",
+  "languages": {
+    "Go": 2161640,
+    "Vue": 1271782,
+    "TypeScript": 506294,
+    "Python": 330059,
+    "Shell": 60656,
+    "PLpgSQL": 30129,
+    "Less": 13193,
+    "Makefile": 8550,
+    "Smarty": 5164,
+    "HTML": 1276,
+    "Dockerfile": 882,
+    "CSS": 153,
+    "JavaScript": 148
+  },
+  "size": 4389926
+}

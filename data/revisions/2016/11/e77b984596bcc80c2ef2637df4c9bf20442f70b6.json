@@ -1,0 +1,13 @@
+{
+  "commit": "e77b984596bcc80c2ef2637df4c9bf20442f70b6",
+  "repo_url": "https://github.com/pterodactyl/panel",
+  "date": "2016-11-05T02:01:30",
+  "languages": {
+    "PHP": 686507,
+    "Blade": 477645,
+    "JavaScript": 28173,
+    "CSS": 26196,
+    "Shell": 11195
+  },
+  "size": 1229716
+}

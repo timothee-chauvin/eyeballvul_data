@@ -1,0 +1,14 @@
+{
+  "commit": "7b8346f4eac27121543e36c17237b919e03ec058",
+  "repo_url": "https://github.com/openfheorg/openfhe-development",
+  "date": "2024-10-30T22:02:12",
+  "languages": {
+    "C++": 6107437,
+    "C": 76596,
+    "CMake": 49350,
+    "Shell": 6671,
+    "Dockerfile": 1338,
+    "Makefile": 177
+  },
+  "size": 6241569
+}

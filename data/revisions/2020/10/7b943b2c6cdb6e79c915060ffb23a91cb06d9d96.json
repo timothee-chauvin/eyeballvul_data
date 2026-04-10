@@ -1,0 +1,21 @@
+{
+  "commit": "7b943b2c6cdb6e79c915060ffb23a91cb06d9d96",
+  "repo_url": "https://github.com/julianhille/muhammarajs",
+  "date": "2020-10-10T17:09:03",
+  "languages": {
+    "C": 10922068,
+    "C++": 2520768,
+    "Shell": 349358,
+    "Makefile": 160534,
+    "Python": 138448,
+    "CMake": 84764,
+    "Assembly": 79368,
+    "JavaScript": 70779,
+    "M4": 46659,
+    "Perl": 13048,
+    "HTML": 7311,
+    "Batchfile": 4641,
+    "Awk": 3962
+  },
+  "size": 14401708
+}

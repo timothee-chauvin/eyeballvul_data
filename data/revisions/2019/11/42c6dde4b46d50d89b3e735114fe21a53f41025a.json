@@ -1,0 +1,11 @@
+{
+  "commit": "42c6dde4b46d50d89b3e735114fe21a53f41025a",
+  "repo_url": "https://github.com/pivotal/credhub-release",
+  "date": "2019-11-26T14:36:52",
+  "languages": {
+    "Ruby": 93293,
+    "Shell": 22730,
+    "HTML": 20152
+  },
+  "size": 136175
+}

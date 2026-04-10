@@ -1,0 +1,12 @@
+{
+  "commit": "6c09bdd7c0aff4bb48d9524b9e46d94d1830e9da",
+  "repo_url": "https://github.com/pypa/pip",
+  "date": "2021-01-23T14:42:04",
+  "languages": {
+    "Python": 5716127,
+    "HTML": 2625,
+    "Shell": 2481,
+    "PowerShell": 2137
+  },
+  "size": 5723370
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "fab9a994247347d957e10e9f79aac00d6b5ec72c",
+  "repo_url": "https://github.com/jenkinsci/templating-engine-plugin",
+  "date": "2021-01-29T16:08:01",
+  "languages": {
+    "Groovy": 438401,
+    "Java": 5069,
+    "JavaScript": 2177,
+    "Makefile": 1006,
+    "HTML": 646,
+    "CSS": 291
+  },
+  "size": 447590
+}

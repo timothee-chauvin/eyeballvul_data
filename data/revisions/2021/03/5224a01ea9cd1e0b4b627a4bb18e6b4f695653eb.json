@@ -1,0 +1,13 @@
+{
+  "commit": "5224a01ea9cd1e0b4b627a4bb18e6b4f695653eb",
+  "repo_url": "https://github.com/matrix-org/matrix-appservice-irc",
+  "date": "2021-03-05T17:31:22",
+  "languages": {
+    "TypeScript": 599630,
+    "JavaScript": 332953,
+    "Python": 8487,
+    "Dockerfile": 1087,
+    "Shell": 579
+  },
+  "size": 942736
+}

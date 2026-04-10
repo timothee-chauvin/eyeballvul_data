@@ -1,0 +1,12 @@
+{
+  "commit": "ded031bc0642875daa47946d10e974318a5c95c4",
+  "repo_url": "https://github.com/eclipse/tinydtls",
+  "date": "2015-02-27T14:12:58",
+  "languages": {
+    "C": 611081,
+    "Makefile": 15372,
+    "Perl": 13289,
+    "M4": 3904
+  },
+  "size": 643646
+}

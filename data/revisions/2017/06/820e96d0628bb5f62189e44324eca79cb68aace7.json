@@ -1,0 +1,17 @@
+{
+  "commit": "820e96d0628bb5f62189e44324eca79cb68aace7",
+  "repo_url": "https://github.com/powershell/powershell",
+  "date": "2017-06-01T19:29:09",
+  "languages": {
+    "C#": 33998470,
+    "PowerShell": 2358968,
+    "C++": 291328,
+    "Shell": 28767,
+    "CMake": 23967,
+    "Dockerfile": 15576,
+    "XSLT": 14407,
+    "C": 4721,
+    "JavaScript": 1747
+  },
+  "size": 36737951
+}

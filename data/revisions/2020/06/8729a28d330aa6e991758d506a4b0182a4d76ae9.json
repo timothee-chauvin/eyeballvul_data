@@ -1,0 +1,21 @@
+{
+  "commit": "8729a28d330aa6e991758d506a4b0182a4d76ae9",
+  "repo_url": "https://github.com/belledonnecommunications/belle-sip",
+  "date": "2020-06-23T15:21:41",
+  "languages": {
+    "C": 10729285,
+    "GAP": 111622,
+    "C++": 81937,
+    "CMake": 41680,
+    "C#": 19099,
+    "M4": 10280,
+    "Makefile": 7310,
+    "Python": 5542,
+    "Shell": 4303,
+    "Objective-C++": 2415,
+    "Objective-C": 2086,
+    "Ruby": 586,
+    "Batchfile": 199
+  },
+  "size": 11016344
+}

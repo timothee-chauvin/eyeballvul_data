@@ -1,0 +1,23 @@
+{
+  "commit": "3b3e3f8bdfe0910d942c0c7eb6ffbcf745ee296a",
+  "repo_url": "https://github.com/microsoft/chakracore",
+  "date": "2018-02-13T21:15:52",
+  "languages": {
+    "JavaScript": 48991344,
+    "C++": 34362299,
+    "C": 5724020,
+    "WebAssembly": 2616413,
+    "Assembly": 183162,
+    "Roff": 162085,
+    "Batchfile": 95342,
+    "CMake": 84608,
+    "Shell": 51802,
+    "PowerShell": 50433,
+    "Python": 45966,
+    "Perl": 29562,
+    "Groovy": 13787,
+    "Pawn": 2016,
+    "CSS": 1575
+  },
+  "size": 92414414
+}

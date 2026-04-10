@@ -1,0 +1,15 @@
+{
+  "commit": "5555b0417c749a72fa485301068fb149fae09cfb",
+  "repo_url": "https://github.com/spree/spree",
+  "date": "2020-03-02T09:11:13",
+  "languages": {
+    "Ruby": 2662853,
+    "HTML": 505519,
+    "JavaScript": 251716,
+    "SCSS": 144825,
+    "CSS": 6791,
+    "Shell": 3205,
+    "Dockerfile": 416
+  },
+  "size": 3575325
+}

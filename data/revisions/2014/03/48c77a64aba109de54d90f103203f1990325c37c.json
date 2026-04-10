@@ -1,0 +1,17 @@
+{
+  "commit": "48c77a64aba109de54d90f103203f1990325c37c",
+  "repo_url": "https://github.com/numpy/numpy",
+  "date": "2014-03-13T22:34:07",
+  "languages": {
+    "C": 7745961,
+    "Python": 5444262,
+    "Cython": 171609,
+    "C++": 41065,
+    "JavaScript": 16917,
+    "Shell": 10936,
+    "Fortran": 6033,
+    "sed": 5741,
+    "Makefile": 4179
+  },
+  "size": 13446703
+}

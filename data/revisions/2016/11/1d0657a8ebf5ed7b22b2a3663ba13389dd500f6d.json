@@ -1,0 +1,16 @@
+{
+  "commit": "1d0657a8ebf5ed7b22b2a3663ba13389dd500f6d",
+  "repo_url": "https://github.com/foosel/octoprint",
+  "date": "2016-11-30T10:24:50",
+  "languages": {
+    "G-code": 1651045,
+    "JavaScript": 1442446,
+    "Python": 1192931,
+    "Jinja": 185751,
+    "HTML": 47161,
+    "Less": 22784,
+    "CSS": 6114,
+    "Shell": 3287
+  },
+  "size": 4551519
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "0264280230aa6a828247b5f05bf57e33f1994581",
+  "repo_url": "https://github.com/freertos/freertos-kernel",
+  "date": "2023-08-17T17:14:08",
+  "languages": {
+    "C": 12008235,
+    "Assembly": 1383955,
+    "CMake": 64508,
+    "Python": 9718,
+    "Batchfile": 6591
+  },
+  "size": 13473007
+}

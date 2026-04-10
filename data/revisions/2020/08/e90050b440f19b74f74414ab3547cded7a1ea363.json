@@ -1,0 +1,11 @@
+{
+  "commit": "e90050b440f19b74f74414ab3547cded7a1ea363",
+  "repo_url": "https://github.com/nextcloud/nextcloud-dialogs",
+  "date": "2020-08-27T11:33:58",
+  "languages": {
+    "TypeScript": 8706,
+    "JavaScript": 2533,
+    "SCSS": 2400
+  },
+  "size": 13639
+}

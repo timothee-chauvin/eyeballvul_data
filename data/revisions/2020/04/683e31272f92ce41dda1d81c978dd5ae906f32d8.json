@@ -1,0 +1,12 @@
+{
+  "commit": "683e31272f92ce41dda1d81c978dd5ae906f32d8",
+  "repo_url": "https://github.com/kong/docker-kong",
+  "date": "2020-04-07T14:30:40",
+  "languages": {
+    "Shell": 13869,
+    "Lua": 9720,
+    "Dockerfile": 4887,
+    "Makefile": 300
+  },
+  "size": 28776
+}

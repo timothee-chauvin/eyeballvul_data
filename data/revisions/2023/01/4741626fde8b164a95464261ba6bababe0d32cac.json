@@ -1,0 +1,13 @@
+{
+  "commit": "4741626fde8b164a95464261ba6bababe0d32cac",
+  "repo_url": "https://gitlab.com/amavis/amavis",
+  "date": "2023-01-06T15:58:28",
+  "languages": {
+    "Perl": 1920693,
+    "HTML": 115056,
+    "CSS": 3976,
+    "Shell": 2569,
+    "Dockerfile": 1176
+  },
+  "size": 2043470
+}

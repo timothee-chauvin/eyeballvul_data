@@ -1,0 +1,21 @@
+{
+  "commit": "b7a9e898163b8362e092ebfa5536c29032d2a93f",
+  "repo_url": "https://github.com/exist-db/exist",
+  "date": "2019-07-29T18:05:00",
+  "languages": {
+    "Java": 18063152,
+    "XQuery": 521795,
+    "GAP": 172369,
+    "HTML": 64365,
+    "XSLT": 47246,
+    "Shell": 17404,
+    "CSS": 16169,
+    "JavaScript": 8609,
+    "Perl": 5036,
+    "AMPL": 4949,
+    "Dockerfile": 2716,
+    "Batchfile": 1592,
+    "Python": 740
+  },
+  "size": 18926142
+}

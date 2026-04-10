@@ -1,0 +1,19 @@
+{
+  "commit": "96ca710b6546a8a97ac612567c53537d16290013",
+  "repo_url": "https://github.com/nlnetlabs/ldns",
+  "date": "2014-01-03T12:48:05",
+  "languages": {
+    "C": 1365452,
+    "SWIG": 345807,
+    "Python": 274120,
+    "M4": 97836,
+    "Makefile": 94095,
+    "Shell": 49559,
+    "Roff": 36029,
+    "Vim Script": 19597,
+    "Lua": 9777,
+    "Perl": 1834,
+    "Emacs Lisp": 125
+  },
+  "size": 2294231
+}

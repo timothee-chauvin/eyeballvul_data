@@ -1,0 +1,21 @@
+{
+  "commit": "e22acc0f451805e9ceef588561b5877be0fb1614",
+  "repo_url": "https://github.com/tendermint/tendermint",
+  "date": "2020-05-28T10:41:32",
+  "languages": {
+    "Go": 3014308,
+    "C": 666194,
+    "Shell": 102656,
+    "Python": 60074,
+    "Java": 30290,
+    "Sage": 30192,
+    "Assembly": 28456,
+    "M4": 25931,
+    "Makefile": 24158,
+    "Jinja": 13466,
+    "Dockerfile": 3300,
+    "HCL": 2065,
+    "HTML": 849
+  },
+  "size": 4001939
+}

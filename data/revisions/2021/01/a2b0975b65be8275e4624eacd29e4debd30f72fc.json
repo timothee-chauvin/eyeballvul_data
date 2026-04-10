@@ -1,0 +1,14 @@
+{
+  "commit": "a2b0975b65be8275e4624eacd29e4debd30f72fc",
+  "repo_url": "https://github.com/publify/publify",
+  "date": "2021-01-17T15:41:23",
+  "languages": {
+    "Ruby": 746256,
+    "JavaScript": 210512,
+    "Less": 189139,
+    "HTML": 153898,
+    "SCSS": 153568,
+    "CSS": 23771
+  },
+  "size": 1477144
+}

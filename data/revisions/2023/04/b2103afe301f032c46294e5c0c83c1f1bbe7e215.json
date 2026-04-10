@@ -1,0 +1,15 @@
+{
+  "commit": "b2103afe301f032c46294e5c0c83c1f1bbe7e215",
+  "repo_url": "https://github.com/sabnzbd/sabnzbd",
+  "date": "2023-04-19T14:51:05",
+  "languages": {
+    "Python": 1871655,
+    "JavaScript": 226048,
+    "CSS": 78385,
+    "NSIS": 29928,
+    "HTML": 10824,
+    "Shell": 1323,
+    "Batchfile": 545
+  },
+  "size": 2218708
+}

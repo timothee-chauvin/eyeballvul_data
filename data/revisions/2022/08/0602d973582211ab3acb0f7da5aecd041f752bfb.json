@@ -1,0 +1,21 @@
+{
+  "commit": "0602d973582211ab3acb0f7da5aecd041f752bfb",
+  "repo_url": "https://github.com/bitwarden/clients",
+  "date": "2022-08-10T14:25:39",
+  "languages": {
+    "TypeScript": 4131129,
+    "HTML": 995409,
+    "SCSS": 185930,
+    "JavaScript": 127816,
+    "MDX": 25098,
+    "Rust": 14008,
+    "Swift": 10106,
+    "PowerShell": 8201,
+    "CSS": 7765,
+    "Shell": 2454,
+    "Dockerfile": 410,
+    "NSIS": 226,
+    "Batchfile": 183
+  },
+  "size": 5508735
+}

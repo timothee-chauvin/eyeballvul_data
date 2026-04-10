@@ -1,0 +1,19 @@
+{
+  "commit": "9533a1ac3cea046d6c94e5ed27976dd3153f2adb",
+  "repo_url": "https://github.com/ganga-devs/ganga",
+  "date": "2022-04-04T09:13:48",
+  "languages": {
+    "Python": 5799786,
+    "Shell": 307682,
+    "CSS": 164410,
+    "HTML": 100271,
+    "JavaScript": 38575,
+    "Roff": 30076,
+    "Dockerfile": 2426,
+    "Makefile": 942,
+    "Jupyter Notebook": 837,
+    "C++": 560,
+    "C": 549
+  },
+  "size": 6446114
+}

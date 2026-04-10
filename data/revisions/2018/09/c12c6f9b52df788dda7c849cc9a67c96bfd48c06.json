@@ -1,0 +1,11 @@
+{
+  "commit": "c12c6f9b52df788dda7c849cc9a67c96bfd48c06",
+  "repo_url": "https://github.com/getsentry/sentry-python",
+  "date": "2018-09-03T08:07:11",
+  "languages": {
+    "Python": 102790,
+    "Shell": 1101,
+    "Makefile": 347
+  },
+  "size": 104238
+}

@@ -1,0 +1,28 @@
+{
+  "commit": "c6907c53946dc54df7d9b2e9b5326fa3133604ec",
+  "repo_url": "https://github.com/spinnaker/spinnaker",
+  "date": "2025-11-06T03:03:06",
+  "languages": {
+    "Java": 20966401,
+    "Groovy": 13794866,
+    "TypeScript": 7288526,
+    "Kotlin": 6666347,
+    "JavaScript": 1879488,
+    "HTML": 1071189,
+    "Go": 346919,
+    "Scala": 243383,
+    "Less": 226600,
+    "Shell": 76492,
+    "FreeMarker": 33360,
+    "Slim": 10402,
+    "HCL": 10384,
+    "PowerShell": 8688,
+    "CSS": 7158,
+    "MDX": 3928,
+    "Python": 2981,
+    "Jinja": 2613,
+    "Makefile": 1358,
+    "Dockerfile": 1354
+  },
+  "size": 52642437
+}

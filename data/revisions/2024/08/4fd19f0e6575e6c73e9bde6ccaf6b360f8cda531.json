@@ -1,0 +1,15 @@
+{
+  "commit": "4fd19f0e6575e6c73e9bde6ccaf6b360f8cda531",
+  "repo_url": "https://github.com/onesoft-sudo/sudobot",
+  "date": "2024-08-29T10:01:50",
+  "languages": {
+    "TypeScript": 1673196,
+    "JavaScript": 43985,
+    "C": 39522,
+    "Shell": 7022,
+    "PowerShell": 3226,
+    "Makefile": 1739,
+    "Dockerfile": 937
+  },
+  "size": 1769627
+}

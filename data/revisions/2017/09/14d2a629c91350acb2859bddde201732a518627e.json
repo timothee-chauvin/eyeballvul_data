@@ -1,0 +1,15 @@
+{
+  "commit": "14d2a629c91350acb2859bddde201732a518627e",
+  "repo_url": "https://github.com/pbatard/rufus",
+  "date": "2017-09-12T09:48:10",
+  "languages": {
+    "C": 2006488,
+    "Makefile": 199562,
+    "Shell": 20888,
+    "Assembly": 14616,
+    "Batchfile": 3257,
+    "M4": 3132,
+    "sed": 589
+  },
+  "size": 2248532
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "3f1b57cadb77dc38fe0c78e984865638175dde86",
+  "repo_url": "https://github.com/thehive-project/cortex",
+  "date": "2017-02-01T15:31:00",
+  "languages": {
+    "JavaScript": 40406,
+    "Scala": 37350,
+    "HTML": 26924,
+    "Shell": 3528,
+    "CSS": 2210
+  },
+  "size": 110418
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "42aa437ac2ed23d5f1486aa7e9d16940c706cc1b",
+  "repo_url": "https://github.com/fiveai/cachet",
+  "date": "2016-05-31T18:31:34",
+  "languages": {
+    "PHP": 1680021,
+    "Blade": 219529,
+    "JavaScript": 17206
+  },
+  "size": 1916756
+}

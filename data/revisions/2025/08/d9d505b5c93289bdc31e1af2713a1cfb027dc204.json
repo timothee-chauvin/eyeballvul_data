@@ -1,0 +1,17 @@
+{
+  "commit": "d9d505b5c93289bdc31e1af2713a1cfb027dc204",
+  "repo_url": "https://github.com/linshenkx/prompt-optimizer",
+  "date": "2025-08-07T15:46:02",
+  "languages": {
+    "TypeScript": 830444,
+    "Vue": 315752,
+    "JavaScript": 189749,
+    "CSS": 57123,
+    "Shell": 3574,
+    "Dockerfile": 1989,
+    "Batchfile": 1291,
+    "PowerShell": 856,
+    "HTML": 832
+  },
+  "size": 1401610
+}

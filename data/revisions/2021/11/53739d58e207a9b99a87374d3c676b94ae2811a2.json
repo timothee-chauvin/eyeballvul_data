@@ -1,0 +1,12 @@
+{
+  "commit": "53739d58e207a9b99a87374d3c676b94ae2811a2",
+  "repo_url": "https://github.com/ruby/date",
+  "date": "2021-11-15T08:07:38",
+  "languages": {
+    "C": 369831,
+    "Ruby": 183833,
+    "Makefile": 244,
+    "Shell": 131
+  },
+  "size": 554039
+}

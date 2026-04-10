@@ -1,0 +1,21 @@
+{
+  "commit": "4d261254c3ac43a3bd13ce974e91ce4303a83998",
+  "repo_url": "https://github.com/apache/accumulo",
+  "date": "2020-08-27T15:56:15",
+  "languages": {
+    "Java": 22969222,
+    "C++": 2278222,
+    "Python": 1006249,
+    "Ruby": 272511,
+    "JavaScript": 249594,
+    "Shell": 209778,
+    "Thrift": 62085,
+    "Perl": 28190,
+    "HTML": 11186,
+    "CSS": 5933,
+    "Makefile": 2865,
+    "C": 2423,
+    "Groovy": 1385
+  },
+  "size": 27099643
+}

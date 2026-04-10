@@ -1,0 +1,11 @@
+{
+  "commit": "e548649d705daadfc1306f5c6db3b0e81d50b001",
+  "repo_url": "https://github.com/azuread/azure-activedirectory-library-for-dotnet",
+  "date": "2019-08-14T18:17:01",
+  "languages": {
+    "C#": 4803596,
+    "Batchfile": 11486,
+    "PowerShell": 4961
+  },
+  "size": 4820043
+}

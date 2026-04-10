@@ -1,0 +1,14 @@
+{
+  "commit": "0b1b3556d9c043857f9bb789197f6d012876e484",
+  "repo_url": "https://github.com/verdaccio/verdaccio",
+  "date": "2019-05-09T20:20:26",
+  "languages": {
+    "JavaScript": 510409,
+    "SCSS": 10852,
+    "Perl": 2795,
+    "Dockerfile": 1575,
+    "Shell": 871,
+    "HTML": 584
+  },
+  "size": 527086
+}

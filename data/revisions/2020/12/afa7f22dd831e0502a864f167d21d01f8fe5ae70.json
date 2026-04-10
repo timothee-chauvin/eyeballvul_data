@@ -1,0 +1,17 @@
+{
+  "commit": "afa7f22dd831e0502a864f167d21d01f8fe5ae70",
+  "repo_url": "https://github.com/go-gitea/gitea",
+  "date": "2020-12-28T17:36:22",
+  "languages": {
+    "Go": 5682705,
+    "Roff": 676737,
+    "Shell": 373367,
+    "Less": 165727,
+    "JavaScript": 164064,
+    "Perl": 41252,
+    "Makefile": 28748,
+    "Vue": 5584,
+    "Dockerfile": 1284
+  },
+  "size": 7139468
+}

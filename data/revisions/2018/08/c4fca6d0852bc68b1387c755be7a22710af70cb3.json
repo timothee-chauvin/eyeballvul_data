@@ -1,0 +1,19 @@
+{
+  "commit": "c4fca6d0852bc68b1387c755be7a22710af70cb3",
+  "repo_url": "https://github.com/facebook/folly",
+  "date": "2018-08-09T01:51:58",
+  "languages": {
+    "C++": 10267577,
+    "CMake": 88009,
+    "M4": 85970,
+    "Python": 79690,
+    "C": 62594,
+    "Makefile": 39600,
+    "Shell": 17496,
+    "Cython": 6818,
+    "Assembly": 4324,
+    "Ruby": 1531,
+    "CSS": 165
+  },
+  "size": 10653774
+}

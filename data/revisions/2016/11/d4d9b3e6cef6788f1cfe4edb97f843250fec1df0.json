@@ -1,0 +1,16 @@
+{
+  "commit": "d4d9b3e6cef6788f1cfe4edb97f843250fec1df0",
+  "repo_url": "https://github.com/admidio/admidio",
+  "date": "2016-11-05T21:22:48",
+  "languages": {
+    "PHP": 5386199,
+    "JavaScript": 5267112,
+    "HTML": 227057,
+    "CSS": 76371,
+    "Python": 18943,
+    "Smarty": 15653,
+    "CoffeeScript": 4263,
+    "Dockerfile": 996
+  },
+  "size": 10996594
+}

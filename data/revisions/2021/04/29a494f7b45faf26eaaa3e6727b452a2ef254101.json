@@ -1,0 +1,24 @@
+{
+  "commit": "29a494f7b45faf26eaaa3e6727b452a2ef254101",
+  "repo_url": "https://github.com/vitessio/vitess",
+  "date": "2021-04-06T13:14:19",
+  "languages": {
+    "Go": 22619566,
+    "JavaScript": 3887295,
+    "Java": 987201,
+    "TypeScript": 306452,
+    "Shell": 130152,
+    "Yacc": 101708,
+    "Smarty": 85631,
+    "Jsonnet": 39185,
+    "CSS": 31624,
+    "Dockerfile": 27171,
+    "HTML": 26248,
+    "Makefile": 17510,
+    "SCSS": 17265,
+    "Python": 1955,
+    "HCL": 959,
+    "Assembly": 198
+  },
+  "size": 28280120
+}

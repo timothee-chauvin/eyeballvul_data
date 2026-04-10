@@ -1,0 +1,16 @@
+{
+  "commit": "56b1a197b265bc13b8fb8c6df85556185b188f9b",
+  "repo_url": "https://github.com/webmproject/libvpx",
+  "date": "2021-03-05T02:43:29",
+  "languages": {
+    "C": 10933357,
+    "C++": 1337461,
+    "Assembly": 969551,
+    "Makefile": 203352,
+    "Shell": 168163,
+    "Perl": 160144,
+    "Python": 64774,
+    "Processing": 26539
+  },
+  "size": 13863341
+}

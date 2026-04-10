@@ -1,0 +1,19 @@
+{
+  "commit": "fadf64824036d9c570c7a98a559f92989639f47a",
+  "repo_url": "https://github.com/deepjavalibrary/djl",
+  "date": "2019-11-29T20:36:40",
+  "languages": {
+    "Java": 2105764,
+    "C": 141294,
+    "Jupyter Notebook": 63363,
+    "Python": 20158,
+    "ANTLR": 17988,
+    "C++": 15247,
+    "HTML": 10624,
+    "Shell": 4335,
+    "JavaScript": 2201,
+    "CSS": 1466,
+    "Dockerfile": 811
+  },
+  "size": 2383251
+}

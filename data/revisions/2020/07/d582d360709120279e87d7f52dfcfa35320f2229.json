@@ -1,0 +1,14 @@
+{
+  "commit": "d582d360709120279e87d7f52dfcfa35320f2229",
+  "repo_url": "https://github.com/enms-automation/enms",
+  "date": "2020-07-08T09:20:42",
+  "languages": {
+    "Python": 348606,
+    "JavaScript": 148041,
+    "HTML": 106242,
+    "CSS": 18087,
+    "Shell": 7169,
+    "Batchfile": 98
+  },
+  "size": 628243
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "c6c9112b2357f062712930b810c3dee462f7576f",
+  "repo_url": "https://github.com/tlsfuzzer/tlslite-ng",
+  "date": "2020-06-17T11:22:31",
+  "languages": {
+    "Python": 2127325,
+    "Makefile": 4231,
+    "HTML": 152,
+    "Shell": 113
+  },
+  "size": 2131821
+}

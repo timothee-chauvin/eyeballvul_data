@@ -1,0 +1,12 @@
+{
+  "commit": "41fce5f553dcaad1aa025664e66b1b03682fd936",
+  "repo_url": "https://github.com/colinbourassa/crasm",
+  "date": "2015-06-21T18:58:09",
+  "languages": {
+    "C": 108738,
+    "HTML": 16367,
+    "Roff": 11844,
+    "Makefile": 744
+  },
+  "size": 137693
+}

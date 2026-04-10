@@ -1,0 +1,15 @@
+{
+  "commit": "a6c9e0baea1a1030241fe00b0431e5ab454c5fa3",
+  "repo_url": "https://github.com/krb5/krb5-appl",
+  "date": "2011-12-27T17:14:35",
+  "languages": {
+    "C": 1359974,
+    "M": 76704,
+    "Roff": 46827,
+    "Makefile": 17689,
+    "M4": 14657,
+    "Shell": 9827,
+    "Raku": 5464
+  },
+  "size": 1531142
+}

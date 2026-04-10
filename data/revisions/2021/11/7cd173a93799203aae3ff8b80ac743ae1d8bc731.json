@@ -1,0 +1,16 @@
+{
+  "commit": "7cd173a93799203aae3ff8b80ac743ae1d8bc731",
+  "repo_url": "https://github.com/haiwen/seafile-server",
+  "date": "2021-11-19T07:55:30",
+  "languages": {
+    "C": 1963557,
+    "Python": 377024,
+    "Go": 264353,
+    "Shell": 221253,
+    "M4": 27465,
+    "Vala": 14267,
+    "Makefile": 9516,
+    "Batchfile": 1435
+  },
+  "size": 2878870
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "551b069953a837f6e702ee8bb2ed47383f2aa4a3",
+  "repo_url": "https://github.com/combust/mleap",
+  "date": "2023-06-23T21:37:25",
+  "languages": {
+    "Scala": 1556189,
+    "Python": 207597,
+    "Java": 28124,
+    "Makefile": 1756,
+    "Shell": 1550
+  },
+  "size": 1795216
+}

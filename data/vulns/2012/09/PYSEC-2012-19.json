@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2012-19",
+  "published": "2012-09-05T23:55:00",
+  "modified": "2025-10-09T05:18:28.079731",
+  "details": "OpenStack Keystone, as used in OpenStack Folsom before folsom-rc1 and OpenStack Essex (2012.1), allows remote attackers to add an arbitrary user to an arbitrary tenant via a request to update the user's default tenant to the administrative API.  NOTE: this identifier was originally incorrectly assigned to an open redirect issue, but the correct identifier for that issue is CVE-2012-3540.",
+  "repo_url": "https://github.com/openstack/keystone",
+  "cwes": [],
+  "commits": [
+    "f47e635b8041542faa05e64606e66d2fbbc5f284"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "f8bea6eefee8b60f2d1f5a93bca95aef764f12d3",
+  "repo_url": "https://github.com/taxopress/taxopress",
+  "date": "2025-06-03T13:37:14",
+  "languages": {
+    "PHP": 1608532,
+    "JavaScript": 194578,
+    "CSS": 70285,
+    "Shell": 23058,
+    "Makefile": 704,
+    "Dockerfile": 472
+  },
+  "size": 1897629
+}

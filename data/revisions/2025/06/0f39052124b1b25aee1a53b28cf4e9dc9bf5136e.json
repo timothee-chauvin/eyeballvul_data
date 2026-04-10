@@ -1,0 +1,27 @@
+{
+  "commit": "0f39052124b1b25aee1a53b28cf4e9dc9bf5136e",
+  "repo_url": "https://github.com/saltstack/salt",
+  "date": "2025-06-04T10:19:46",
+  "languages": {
+    "Python": 42489335,
+    "Shell": 546343,
+    "PowerShell": 165386,
+    "NSIS": 82370,
+    "C#": 50610,
+    "Jinja": 42566,
+    "SaltStack": 30236,
+    "HTML": 7935,
+    "Rich Text Format": 4077,
+    "XSLT": 4042,
+    "Makefile": 3422,
+    "Batchfile": 2591,
+    "HCL": 2338,
+    "Cython": 1458,
+    "Scilab": 1147,
+    "Scheme": 895,
+    "C": 493,
+    "Roff": 192,
+    "Dockerfile": 183
+  },
+  "size": 43435619
+}

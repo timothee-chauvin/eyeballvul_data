@@ -1,0 +1,13 @@
+{
+  "commit": "478d9b51fac1492f20bb23e03708c621a47dff86",
+  "repo_url": "https://github.com/containers/storage",
+  "date": "2020-08-12T14:40:06",
+  "languages": {
+    "Go": 1489157,
+    "Shell": 134111,
+    "C": 8810,
+    "Makefile": 5488,
+    "Awk": 512
+  },
+  "size": 1638078
+}

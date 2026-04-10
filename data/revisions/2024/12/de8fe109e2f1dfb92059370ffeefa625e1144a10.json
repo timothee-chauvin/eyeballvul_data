@@ -1,0 +1,14 @@
+{
+  "commit": "de8fe109e2f1dfb92059370ffeefa625e1144a10",
+  "repo_url": "https://github.com/icinga/icingaweb2-module-director",
+  "date": "2024-12-12T12:20:10",
+  "languages": {
+    "PHP": 2702492,
+    "PowerShell": 158713,
+    "Less": 34678,
+    "JavaScript": 29913,
+    "Shell": 9717,
+    "HTML": 582
+  },
+  "size": 2936095
+}

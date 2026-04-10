@@ -1,0 +1,21 @@
+{
+  "commit": "23e248b5d19ffddd4e836773044123ca977d09ef",
+  "repo_url": "https://github.com/owncloud/client",
+  "date": "2015-02-13T15:08:39",
+  "languages": {
+    "C++": 1314473,
+    "C": 435501,
+    "Objective-C": 367670,
+    "CMake": 165329,
+    "NSIS": 142135,
+    "Perl": 72555,
+    "Python": 26115,
+    "HTML": 11069,
+    "Ruby": 9029,
+    "Shell": 6932,
+    "Objective-C++": 5253,
+    "QMake": 454,
+    "AppleScript": 337
+  },
+  "size": 2556852
+}

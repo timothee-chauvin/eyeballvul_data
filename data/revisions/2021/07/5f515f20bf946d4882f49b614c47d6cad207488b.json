@@ -1,0 +1,14 @@
+{
+  "commit": "5f515f20bf946d4882f49b614c47d6cad207488b",
+  "repo_url": "https://github.com/openimageio/oiio",
+  "date": "2021-07-15T19:07:24",
+  "languages": {
+    "C++": 6487504,
+    "Python": 232885,
+    "CMake": 214295,
+    "C": 146082,
+    "Shell": 52632,
+    "Makefile": 19092
+  },
+  "size": 7152490
+}

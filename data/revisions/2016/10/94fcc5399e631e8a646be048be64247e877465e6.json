@@ -1,0 +1,17 @@
+{
+  "commit": "94fcc5399e631e8a646be048be64247e877465e6",
+  "repo_url": "https://github.com/falcosecurity/falco",
+  "date": "2016-10-25T16:58:12",
+  "languages": {
+    "C++": 70163,
+    "Lua": 33064,
+    "Shell": 24301,
+    "CMake": 13823,
+    "Python": 8136,
+    "Dockerfile": 3854,
+    "R": 2190,
+    "C": 132,
+    "Makefile": 62
+  },
+  "size": 155725
+}

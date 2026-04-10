@@ -1,0 +1,12 @@
+{
+  "commit": "95aeb560bc7510f20761123c6c713d7376dd4477",
+  "repo_url": "https://github.com/containers/aardvark-dns",
+  "date": "2024-08-01T17:39:10",
+  "languages": {
+    "Rust": 87540,
+    "Shell": 59913,
+    "Makefile": 3814,
+    "Python": 115
+  },
+  "size": 151382
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "a4131e9a0b69f26722b553379cb53ef2fb5e31b2",
+  "repo_url": "https://github.com/openedx/openedx-translations",
+  "date": "2026-03-06T13:36:25",
+  "languages": {
+    "Python": 51819,
+    "Makefile": 2406,
+    "Shell": 1375
+  },
+  "size": 55600
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "6ee5cf214c961a8e41313027292f5e41bffd790d",
+  "repo_url": "https://github.com/longturn/freeciv21",
+  "date": "2025-08-10T18:39:27",
+  "languages": {
+    "C++": 9753018,
+    "C": 922322,
+    "Python": 465414,
+    "CMake": 102056,
+    "Lua": 77882,
+    "Shell": 26603,
+    "Perl": 9285,
+    "Ruby": 7591,
+    "Nix": 1848
+  },
+  "size": 11366019
+}

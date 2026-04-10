@@ -1,0 +1,15 @@
+{
+  "commit": "d27a19ab74308830b0286812434f4f7749a09dd6",
+  "repo_url": "https://github.com/sovware/directorist",
+  "date": "2021-11-14T13:40:09",
+  "languages": {
+    "JavaScript": 5803611,
+    "PHP": 3279011,
+    "CSS": 1835756,
+    "Vue": 474537,
+    "SCSS": 473245,
+    "Hack": 1575,
+    "HTML": 250
+  },
+  "size": 11867985
+}

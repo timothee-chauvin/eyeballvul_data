@@ -1,0 +1,13 @@
+{
+  "commit": "38c461757a38089f7fc705f1122f9f15177c7e9b",
+  "repo_url": "https://github.com/nodejs/llhttp",
+  "date": "2022-09-01T12:34:19",
+  "languages": {
+    "TypeScript": 60642,
+    "C": 15418,
+    "Makefile": 1499,
+    "Python": 1447,
+    "JavaScript": 455
+  },
+  "size": 79461
+}

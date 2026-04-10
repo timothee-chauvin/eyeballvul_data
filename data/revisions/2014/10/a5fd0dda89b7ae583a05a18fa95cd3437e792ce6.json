@@ -1,0 +1,19 @@
+{
+  "commit": "a5fd0dda89b7ae583a05a18fa95cd3437e792ce6",
+  "repo_url": "https://github.com/shannah/xataface",
+  "date": "2014-10-13T17:30:38",
+  "languages": {
+    "HTML": 46966416,
+    "PHP": 9838176,
+    "JavaScript": 3564136,
+    "CSS": 275419,
+    "ColdFusion": 14554,
+    "Smarty": 10237,
+    "Perl": 7448,
+    "Batchfile": 4554,
+    "Shell": 3517,
+    "Java": 1496,
+    "Hack": 47
+  },
+  "size": 60686000
+}

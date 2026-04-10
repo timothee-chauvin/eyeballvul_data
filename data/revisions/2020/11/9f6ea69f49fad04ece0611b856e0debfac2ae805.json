@@ -1,0 +1,13 @@
+{
+  "commit": "9f6ea69f49fad04ece0611b856e0debfac2ae805",
+  "repo_url": "https://github.com/python-babel/babel",
+  "date": "2020-11-12T09:20:23",
+  "languages": {
+    "Python": 700209,
+    "JavaScript": 4751,
+    "Batchfile": 1837,
+    "Makefile": 1337,
+    "Shell": 453
+  },
+  "size": 708587
+}

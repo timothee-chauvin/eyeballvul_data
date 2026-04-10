@@ -1,0 +1,13 @@
+{
+  "commit": "c37bec5b9cd6a28f2ae1b090ea70290db9b2f893",
+  "repo_url": "https://github.com/cocos/cocos-engine",
+  "date": "2019-05-10T06:34:27",
+  "languages": {
+    "JavaScript": 3839900,
+    "TypeScript": 3213362,
+    "HTML": 50783,
+    "CSS": 4754,
+    "Shell": 335
+  },
+  "size": 7109134
+}

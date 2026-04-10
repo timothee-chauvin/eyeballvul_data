@@ -1,0 +1,16 @@
+{
+  "commit": "7b7253432a4e5cf17388feddca663ac1f8c398db",
+  "repo_url": "https://github.com/woocommerce/woocommerce-gutenberg-products-block",
+  "date": "2023-09-19T17:15:00",
+  "languages": {
+    "TypeScript": 2376932,
+    "PHP": 1601844,
+    "JavaScript": 808117,
+    "SCSS": 202766,
+    "HTML": 60199,
+    "Shell": 40675,
+    "CSS": 913,
+    "Dockerfile": 500
+  },
+  "size": 5091946
+}

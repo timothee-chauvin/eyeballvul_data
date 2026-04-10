@@ -1,0 +1,14 @@
+{
+  "commit": "95a47a5ddd589e32cb3b8b1b8bb8c9d7f78962ba",
+  "repo_url": "https://github.com/dicebear/dicebear",
+  "date": "2026-02-21T13:02:56",
+  "languages": {
+    "TypeScript": 2647989,
+    "Vue": 247035,
+    "JavaScript": 86094,
+    "SCSS": 26396,
+    "HTML": 935,
+    "Shell": 374
+  },
+  "size": 3008823
+}

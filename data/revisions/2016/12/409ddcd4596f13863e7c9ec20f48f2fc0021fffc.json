@@ -1,0 +1,23 @@
+{
+  "commit": "409ddcd4596f13863e7c9ec20f48f2fc0021fffc",
+  "repo_url": "https://github.com/unicode-org/icu",
+  "date": "2016-12-08T22:36:02",
+  "languages": {
+    "Java": 20950434,
+    "C++": 19656891,
+    "C": 10038460,
+    "Makefile": 455218,
+    "Perl": 377454,
+    "HTML": 235045,
+    "M4": 65303,
+    "Roff": 62805,
+    "Shell": 57600,
+    "CSS": 37757,
+    "Python": 25145,
+    "Batchfile": 15038,
+    "XSLT": 2400,
+    "sed": 2214,
+    "Emacs Lisp": 809
+  },
+  "size": 51982573
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "1ef2cca0b0ac6b224287298889dca98d3d4a8621",
+  "repo_url": "https://github.com/mobsf/owasp-mstg",
+  "date": "2017-06-15T10:29:23",
+  "languages": {
+    "HTML": 92257,
+    "Ruby": 3017,
+    "Shell": 1977
+  },
+  "size": 97251
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "5f2ba110cfdd0083dcfb217a8218c6428c5f140d",
+  "repo_url": "https://github.com/apache/uima-ducc",
+  "date": "2019-04-02T18:32:07",
+  "languages": {
+    "Java": 6762559,
+    "HTML": 3580745,
+    "TeX": 763510,
+    "Python": 624939,
+    "JavaScript": 518893,
+    "Roff": 126403,
+    "CSS": 95914,
+    "C": 32003,
+    "Shell": 27134,
+    "PHP": 23949,
+    "SCSS": 11587,
+    "Makefile": 4577,
+    "Clojure": 3009
+  },
+  "size": 12575222
+}

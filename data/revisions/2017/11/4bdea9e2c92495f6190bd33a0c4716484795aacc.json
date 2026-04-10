@@ -1,0 +1,12 @@
+{
+  "commit": "4bdea9e2c92495f6190bd33a0c4716484795aacc",
+  "repo_url": "https://github.com/apache/skywalking",
+  "date": "2017-11-06T14:45:00",
+  "languages": {
+    "Java": 3004392,
+    "Shell": 4179,
+    "Dockerfile": 876,
+    "Batchfile": 717
+  },
+  "size": 3010164
+}

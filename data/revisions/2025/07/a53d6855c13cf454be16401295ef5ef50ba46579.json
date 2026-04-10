@@ -1,0 +1,17 @@
+{
+  "commit": "a53d6855c13cf454be16401295ef5ef50ba46579",
+  "repo_url": "https://github.com/andrii-kryvoviaz/slink",
+  "date": "2025-07-18T18:33:26",
+  "languages": {
+    "PHP": 811691,
+    "Svelte": 315085,
+    "TypeScript": 204031,
+    "CSS": 10096,
+    "Dockerfile": 6502,
+    "Shell": 1065,
+    "JavaScript": 969,
+    "Makefile": 541,
+    "HTML": 466
+  },
+  "size": 1350446
+}

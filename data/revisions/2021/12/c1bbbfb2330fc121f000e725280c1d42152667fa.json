@@ -1,0 +1,15 @@
+{
+  "commit": "c1bbbfb2330fc121f000e725280c1d42152667fa",
+  "repo_url": "https://github.com/enonic/xp",
+  "date": "2021-12-21T08:25:03",
+  "languages": {
+    "Java": 10865212,
+    "JavaScript": 448876,
+    "HTML": 13379,
+    "Shell": 12294,
+    "XSLT": 3336,
+    "Batchfile": 2827,
+    "CSS": 642
+  },
+  "size": 11346566
+}

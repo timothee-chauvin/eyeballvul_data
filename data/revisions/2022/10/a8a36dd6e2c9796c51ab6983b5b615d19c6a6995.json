@@ -1,0 +1,14 @@
+{
+  "commit": "a8a36dd6e2c9796c51ab6983b5b615d19c6a6995",
+  "repo_url": "https://github.com/bishopfox/sliver",
+  "date": "2022-10-17T21:04:25",
+  "languages": {
+    "Go": 2567852,
+    "Shell": 12440,
+    "Makefile": 6549,
+    "Python": 3785,
+    "Dockerfile": 2317,
+    "C": 1793
+  },
+  "size": 2594736
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "636c0bcd1e4f428d167699891bc12b404d2d1b41",
+  "repo_url": "https://github.com/davisking/dlib",
+  "date": "2025-03-03T13:25:09",
+  "languages": {
+    "C++": 17349625,
+    "Python": 127512,
+    "Cuda": 119151,
+    "CMake": 107980,
+    "C": 41063,
+    "XSLT": 14385,
+    "Java": 6840,
+    "Makefile": 4661,
+    "Shell": 1156,
+    "Batchfile": 851,
+    "Perl": 554,
+    "MATLAB": 354
+  },
+  "size": 17774132
+}

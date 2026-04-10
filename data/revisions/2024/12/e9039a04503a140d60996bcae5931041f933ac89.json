@@ -1,0 +1,15 @@
+{
+  "commit": "e9039a04503a140d60996bcae5931041f933ac89",
+  "repo_url": "https://github.com/fabric8io/kubernetes-client",
+  "date": "2024-12-03T10:48:00",
+  "languages": {
+    "Java": 33040866,
+    "Groovy": 128938,
+    "Go": 75351,
+    "Mustache": 13713,
+    "Shell": 4798,
+    "Batchfile": 3390,
+    "Makefile": 2766
+  },
+  "size": 33269822
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "cca7cc02341efd2d93ebfcee8762378d254fb13d",
+  "repo_url": "https://github.com/mcjack123/craftos2",
+  "date": "2024-04-22T21:01:23",
+  "languages": {
+    "C++": 925708,
+    "Java": 202706,
+    "Objective-C++": 74975,
+    "Lua": 36059,
+    "M4": 15662,
+    "Makefile": 7793,
+    "JavaScript": 1364,
+    "Shell": 638,
+    "CMake": 635,
+    "C": 482
+  },
+  "size": 1266022
+}

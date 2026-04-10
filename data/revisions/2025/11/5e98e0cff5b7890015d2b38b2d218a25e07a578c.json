@@ -1,0 +1,20 @@
+{
+  "commit": "5e98e0cff5b7890015d2b38b2d218a25e07a578c",
+  "repo_url": "https://github.com/victoriametrics/victoriametrics",
+  "date": "2025-11-04T10:15:37",
+  "languages": {
+    "Go": 6692339,
+    "TypeScript": 803267,
+    "SCSS": 132227,
+    "Makefile": 75894,
+    "Shell": 48043,
+    "HTML": 7635,
+    "Dockerfile": 5901,
+    "JavaScript": 5720,
+    "HCL": 3457,
+    "CSS": 1710,
+    "Smarty": 537,
+    "Perl": 447
+  },
+  "size": 7777177
+}

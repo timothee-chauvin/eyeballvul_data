@@ -1,0 +1,15 @@
+{
+  "commit": "c63acc6476fc1a32eacad1fdf8b66fa81a6e0023",
+  "repo_url": "https://github.com/jberet/jsr352",
+  "date": "2023-12-17T16:52:03",
+  "languages": {
+    "Java": 1365057,
+    "JavaScript": 23850,
+    "Groovy": 1759,
+    "Python": 1580,
+    "Ruby": 1548,
+    "Scala": 782,
+    "PHP": 536
+  },
+  "size": 1395112
+}

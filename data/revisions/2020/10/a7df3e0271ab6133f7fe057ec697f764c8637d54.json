@@ -1,0 +1,12 @@
+{
+  "commit": "a7df3e0271ab6133f7fe057ec697f764c8637d54",
+  "repo_url": "https://github.com/nvidia/nemo",
+  "date": "2020-10-05T16:55:52",
+  "languages": {
+    "Python": 1452342,
+    "Jupyter Notebook": 1054028,
+    "Shell": 3641,
+    "Dockerfile": 2610
+  },
+  "size": 2512621
+}

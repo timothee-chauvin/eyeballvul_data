@@ -1,0 +1,14 @@
+{
+  "commit": "768127df473777d4272fb59948ac0c34a959f4ec",
+  "repo_url": "https://github.com/kde/kconfig",
+  "date": "2019-08-03T19:51:54",
+  "languages": {
+    "C++": 809047,
+    "CMake": 27949,
+    "Python": 12852,
+    "C": 1901,
+    "Perl": 1455,
+    "Shell": 258
+  },
+  "size": 853462
+}

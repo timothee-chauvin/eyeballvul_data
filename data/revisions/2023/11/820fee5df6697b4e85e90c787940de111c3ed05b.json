@@ -1,0 +1,11 @@
+{
+  "commit": "820fee5df6697b4e85e90c787940de111c3ed05b",
+  "repo_url": "https://github.com/geekan/metagpt",
+  "date": "2023-11-17T08:50:46",
+  "languages": {
+    "Python": 551883,
+    "Dockerfile": 976,
+    "Shell": 263
+  },
+  "size": 553122
+}

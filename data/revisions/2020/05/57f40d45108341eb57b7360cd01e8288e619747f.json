@@ -1,0 +1,15 @@
+{
+  "commit": "57f40d45108341eb57b7360cd01e8288e619747f",
+  "repo_url": "https://github.com/pantsel/konga",
+  "date": "2020-05-16T16:35:03",
+  "languages": {
+    "JavaScript": 1230434,
+    "HTML": 461462,
+    "SCSS": 267368,
+    "EJS": 90821,
+    "Mustache": 1039,
+    "Shell": 695,
+    "Dockerfile": 569
+  },
+  "size": 2052388
+}

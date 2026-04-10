@@ -1,0 +1,15 @@
+{
+  "commit": "ac71e0e872e3f4aed093c86952dd68903a06be8d",
+  "repo_url": "https://github.com/beautify-web/js-beautify",
+  "date": "2021-04-13T17:51:12",
+  "languages": {
+    "JavaScript": 2344355,
+    "Python": 916030,
+    "HTML": 668248,
+    "Mustache": 49015,
+    "Shell": 47791,
+    "Makefile": 5402,
+    "CSS": 1326
+  },
+  "size": 4032167
+}

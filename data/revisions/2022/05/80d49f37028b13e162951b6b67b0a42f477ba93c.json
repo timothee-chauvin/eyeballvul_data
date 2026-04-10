@@ -1,0 +1,18 @@
+{
+  "commit": "80d49f37028b13e162951b6b67b0a42f477ba93c",
+  "repo_url": "https://github.com/ethereum/solidity",
+  "date": "2022-05-17T11:55:13",
+  "languages": {
+    "C++": 6457423,
+    "Solidity": 3214011,
+    "Yul": 707392,
+    "Python": 260596,
+    "Shell": 239733,
+    "CMake": 81333,
+    "C": 63412,
+    "Dockerfile": 14868,
+    "JavaScript": 13961,
+    "PowerShell": 3581
+  },
+  "size": 11056310
+}

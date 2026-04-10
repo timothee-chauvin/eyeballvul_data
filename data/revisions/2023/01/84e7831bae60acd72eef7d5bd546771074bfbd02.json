@@ -1,0 +1,13 @@
+{
+  "commit": "84e7831bae60acd72eef7d5bd546771074bfbd02",
+  "repo_url": "https://github.com/awslabs/aws-deployment-framework",
+  "date": "2023-01-24T08:56:26",
+  "languages": {
+    "Python": 706734,
+    "Shell": 6597,
+    "Makefile": 2361,
+    "Jinja": 1262,
+    "JavaScript": 161
+  },
+  "size": 717115
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "3be28f8458be059432d547f0d0de24253d6b3d54",
+  "repo_url": "https://github.com/auth0/wordpress",
+  "date": "2020-01-17T22:12:11",
+  "languages": {
+    "PHP": 867712,
+    "JavaScript": 64172,
+    "Stylus": 55548,
+    "CSS": 8482,
+    "Shell": 5191,
+    "Less": 222
+  },
+  "size": 1001327
+}

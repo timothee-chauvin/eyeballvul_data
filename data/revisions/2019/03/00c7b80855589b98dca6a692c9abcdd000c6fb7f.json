@@ -1,0 +1,13 @@
+{
+  "commit": "00c7b80855589b98dca6a692c9abcdd000c6fb7f",
+  "repo_url": "https://github.com/the-control-group/voyager",
+  "date": "2019-03-09T18:54:39",
+  "languages": {
+    "PHP": 3036180,
+    "SCSS": 336814,
+    "HTML": 64966,
+    "CSS": 25588,
+    "Less": 14542
+  },
+  "size": 3478090
+}

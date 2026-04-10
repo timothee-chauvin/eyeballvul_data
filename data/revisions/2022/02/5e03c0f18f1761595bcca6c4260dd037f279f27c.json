@@ -1,0 +1,21 @@
+{
+  "commit": "5e03c0f18f1761595bcca6c4260dd037f279f27c",
+  "repo_url": "https://github.com/gravitee-io/gravitee-api-management",
+  "date": "2022-02-03T10:30:06",
+  "languages": {
+    "Java": 12953119,
+    "TypeScript": 3766862,
+    "HTML": 1346233,
+    "CSS": 137102,
+    "SCSS": 125541,
+    "JavaScript": 32507,
+    "Shell": 18015,
+    "Makefile": 13290,
+    "ASP.NET": 7629,
+    "Dockerfile": 7325,
+    "Batchfile": 4866,
+    "Scala": 1346,
+    "Lua": 547
+  },
+  "size": 18414382
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "c3f75fad36938284d5437f0cbe232dfc9f7eda3c",
+  "repo_url": "https://github.com/redistimeseries/redistimeseries",
+  "date": "2024-09-04T09:00:14",
+  "languages": {
+    "C": 528476,
+    "Python": 379891,
+    "Shell": 38964,
+    "Makefile": 26623,
+    "CMake": 8316,
+    "Dockerfile": 679,
+    "C++": 187
+  },
+  "size": 983136
+}

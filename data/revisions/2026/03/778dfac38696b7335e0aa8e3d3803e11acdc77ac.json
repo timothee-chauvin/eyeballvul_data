@@ -1,0 +1,13 @@
+{
+  "commit": "778dfac38696b7335e0aa8e3d3803e11acdc77ac",
+  "repo_url": "https://github.com/hapifhir/org.hl7.fhir.core",
+  "date": "2026-03-01T18:11:32",
+  "languages": {
+    "Java": 233114395,
+    "Batchfile": 790,
+    "Python": 661,
+    "XSLT": 226,
+    "Visual Basic 6.0": 9
+  },
+  "size": 233116081
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "e06fc44a638346c8225cce3a7ac947e23d10300b",
+  "repo_url": "https://github.com/aws/amazon-ecs-agent",
+  "date": "2025-07-07T20:14:44",
+  "languages": {
+    "Go": 7963396,
+    "Shell": 89478,
+    "PowerShell": 33332,
+    "Makefile": 30593,
+    "Dockerfile": 21832,
+    "Roff": 3197,
+    "C": 1742,
+    "Python": 1466,
+    "Smarty": 106
+  },
+  "size": 8145142
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "73b405107fd772419132f122b6a5625f47f5119b",
+  "repo_url": "https://github.com/intel/haxm",
+  "date": "2018-09-19T06:46:57",
+  "languages": {
+    "C": 833800,
+    "C++": 54356,
+    "Assembly": 23667,
+    "Makefile": 119
+  },
+  "size": 911942
+}

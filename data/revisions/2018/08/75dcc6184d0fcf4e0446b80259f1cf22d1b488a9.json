@@ -1,0 +1,14 @@
+{
+  "commit": "75dcc6184d0fcf4e0446b80259f1cf22d1b488a9",
+  "repo_url": "https://github.com/codelibs/fess",
+  "date": "2018-08-09T08:31:46",
+  "languages": {
+    "Java": 11232335,
+    "JavaScript": 95566,
+    "Shell": 21684,
+    "Batchfile": 12207,
+    "CSS": 11623,
+    "Handlebars": 648
+  },
+  "size": 11374063
+}

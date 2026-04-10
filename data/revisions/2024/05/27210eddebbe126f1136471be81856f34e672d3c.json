@@ -1,0 +1,16 @@
+{
+  "commit": "27210eddebbe126f1136471be81856f34e672d3c",
+  "repo_url": "https://github.com/mikekazakov/nimble-commander",
+  "date": "2024-05-14T19:26:38",
+  "languages": {
+    "C++": 3346325,
+    "Objective-C++": 3210659,
+    "Objective-C": 206356,
+    "Rich Text Format": 25403,
+    "Shell": 18250,
+    "C": 11614,
+    "Dockerfile": 5516,
+    "Python": 1429
+  },
+  "size": 6825552
+}

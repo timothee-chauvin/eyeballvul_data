@@ -1,0 +1,18 @@
+{
+  "commit": "115ec97a79eb49681d5a107af819d555ebd85a19",
+  "repo_url": "https://github.com/goldendict/goldendict",
+  "date": "2025-05-20T20:03:53",
+  "languages": {
+    "C++": 2979380,
+    "C": 2931646,
+    "HTML": 100782,
+    "CSS": 83237,
+    "NSIS": 25983,
+    "Objective-C++": 23249,
+    "QMake": 19850,
+    "Shell": 6886,
+    "Batchfile": 2926,
+    "Makefile": 2623
+  },
+  "size": 6176562
+}

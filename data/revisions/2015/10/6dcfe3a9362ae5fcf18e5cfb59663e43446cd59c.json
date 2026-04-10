@@ -1,0 +1,11 @@
+{
+  "commit": "6dcfe3a9362ae5fcf18e5cfb59663e43446cd59c",
+  "repo_url": "https://github.com/openstack/neutron",
+  "date": "2015-10-13T15:26:23",
+  "languages": {
+    "Python": 7702149,
+    "Shell": 41746,
+    "Mako": 1047
+  },
+  "size": 7744942
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "d027438011aacbe400083c31d44b4b5519043113",
+  "repo_url": "https://github.com/tikiorg/tiki",
+  "date": "2017-01-21T15:19:49",
+  "languages": {
+    "PHP": 106213445,
+    "CSS": 6648087,
+    "Smarty": 3741808,
+    "Less": 1154549,
+    "JavaScript": 618109,
+    "C++": 50846,
+    "Shell": 37103,
+    "HTML": 8892,
+    "ActionScript": 2430,
+    "Yacc": 825
+  },
+  "size": 118476094
+}

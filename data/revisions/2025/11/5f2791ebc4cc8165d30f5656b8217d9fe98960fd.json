@@ -1,0 +1,16 @@
+{
+  "commit": "5f2791ebc4cc8165d30f5656b8217d9fe98960fd",
+  "repo_url": "https://github.com/pommee/goaway",
+  "date": "2025-11-13T19:49:19",
+  "languages": {
+    "TypeScript": 470027,
+    "Go": 264667,
+    "CSS": 6463,
+    "Shell": 4071,
+    "Makefile": 1303,
+    "JavaScript": 734,
+    "Dockerfile": 529,
+    "HTML": 357
+  },
+  "size": 748151
+}

@@ -1,0 +1,25 @@
+{
+  "commit": "d5abd89f9c73efa93196efc485941f64eaa27535",
+  "repo_url": "https://github.com/winscp/winscp",
+  "date": "2018-01-25T15:45:44",
+  "languages": {
+    "C": 12168312,
+    "C++": 9792262,
+    "Pascal": 6258115,
+    "Shell": 605745,
+    "HTML": 529135,
+    "Makefile": 231449,
+    "C#": 228987,
+    "Roff": 134605,
+    "Assembly": 127177,
+    "M4": 58133,
+    "Inno Setup": 53153,
+    "CMake": 7546,
+    "XSLT": 3325,
+    "Batchfile": 2697,
+    "CSS": 2415,
+    "Module Management System": 2080,
+    "PowerShell": 254
+  },
+  "size": 30205390
+}

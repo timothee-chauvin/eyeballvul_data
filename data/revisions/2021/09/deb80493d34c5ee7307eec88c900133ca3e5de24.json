@@ -1,0 +1,11 @@
+{
+  "commit": "deb80493d34c5ee7307eec88c900133ca3e5de24",
+  "repo_url": "https://github.com/bitbank2/pngdec",
+  "date": "2021-09-07T11:00:29",
+  "languages": {
+    "C": 298322,
+    "C++": 52278,
+    "Makefile": 887
+  },
+  "size": 351487
+}

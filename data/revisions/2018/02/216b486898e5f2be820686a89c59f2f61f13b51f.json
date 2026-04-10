@@ -1,0 +1,18 @@
+{
+  "commit": "216b486898e5f2be820686a89c59f2f61f13b51f",
+  "repo_url": "https://github.com/vanilla/vanilla",
+  "date": "2018-02-14T18:00:51",
+  "languages": {
+    "PHP": 6035363,
+    "JavaScript": 3493479,
+    "HTML": 1638260,
+    "CSS": 959989,
+    "SCSS": 357970,
+    "Hack": 65725,
+    "Smarty": 22293,
+    "Less": 18160,
+    "Shell": 4255,
+    "TypeScript": 600
+  },
+  "size": 12596094
+}

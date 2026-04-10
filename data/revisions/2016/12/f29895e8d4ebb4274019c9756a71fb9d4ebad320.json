@@ -1,0 +1,19 @@
+{
+  "commit": "f29895e8d4ebb4274019c9756a71fb9d4ebad320",
+  "repo_url": "https://github.com/droolsjbpm/drools",
+  "date": "2016-12-06T12:54:27",
+  "languages": {
+    "Java": 28071508,
+    "GAP": 196924,
+    "Standard ML": 82260,
+    "XSLT": 24302,
+    "ASL": 10374,
+    "HTML": 9298,
+    "Python": 4555,
+    "Batchfile": 2554,
+    "CSS": 1412,
+    "Shell": 1120,
+    "Ruby": 491
+  },
+  "size": 28404798
+}

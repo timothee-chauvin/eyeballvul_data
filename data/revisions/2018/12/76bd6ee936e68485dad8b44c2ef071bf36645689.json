@@ -1,0 +1,14 @@
+{
+  "commit": "76bd6ee936e68485dad8b44c2ef071bf36645689",
+  "repo_url": "https://github.com/helm/chartmuseum",
+  "date": "2018-12-07T17:25:51",
+  "languages": {
+    "Go": 169745,
+    "Python": 11486,
+    "Shell": 6324,
+    "RobotFramework": 3688,
+    "Makefile": 2192,
+    "Dockerfile": 190
+  },
+  "size": 193625
+}

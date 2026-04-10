@@ -1,0 +1,11 @@
+{
+  "commit": "0496d7c3de3e09da37ba492081c86159806ebb07",
+  "repo_url": "https://github.com/plougher/squashfs-tools",
+  "date": "2021-07-22T20:11:24",
+  "languages": {
+    "C": 1113656,
+    "Roff": 74669,
+    "Makefile": 12169
+  },
+  "size": 1200494
+}

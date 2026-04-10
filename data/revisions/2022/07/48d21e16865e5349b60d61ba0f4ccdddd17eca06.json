@@ -1,0 +1,14 @@
+{
+  "commit": "48d21e16865e5349b60d61ba0f4ccdddd17eca06",
+  "repo_url": "https://github.com/nsrr/sleepdata.org",
+  "date": "2022-07-17T17:30:29",
+  "languages": {
+    "Ruby": 649792,
+    "Haml": 459419,
+    "SCSS": 94396,
+    "CoffeeScript": 42440,
+    "HTML": 17612,
+    "JavaScript": 8371
+  },
+  "size": 1272030
+}

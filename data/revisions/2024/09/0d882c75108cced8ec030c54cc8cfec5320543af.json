@@ -1,0 +1,12 @@
+{
+  "commit": "0d882c75108cced8ec030c54cc8cfec5320543af",
+  "repo_url": "https://github.com/authzed/spicedb",
+  "date": "2024-09-26T12:39:23",
+  "languages": {
+    "Go": 4198101,
+    "JavaScript": 16612,
+    "HTML": 3663,
+    "Dockerfile": 1578
+  },
+  "size": 4219954
+}

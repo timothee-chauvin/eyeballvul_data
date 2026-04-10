@@ -1,0 +1,13 @@
+{
+  "commit": "1415efdcd838cf482072ef08e765a8ce960bfdde",
+  "repo_url": "https://github.com/gohugoio/hugo",
+  "date": "2020-11-27T09:06:36",
+  "languages": {
+    "Go": 3880546,
+    "HTML": 21195,
+    "Python": 12558,
+    "Shell": 2207,
+    "Dockerfile": 1086
+  },
+  "size": 3917592
+}

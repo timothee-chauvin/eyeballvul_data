@@ -1,0 +1,17 @@
+{
+  "commit": "957666612a54e4046d626c8b729b3f3ac0d6ce5f",
+  "repo_url": "https://github.com/eventespresso/event-espresso-core",
+  "date": "2020-09-08T20:41:42",
+  "languages": {
+    "PHP": 15404364,
+    "JavaScript": 1673960,
+    "CSS": 484758,
+    "HTML": 131793,
+    "Hack": 31117,
+    "Less": 10944,
+    "Shell": 8898,
+    "Handlebars": 3843,
+    "VBScript": 2202
+  },
+  "size": 17751879
+}

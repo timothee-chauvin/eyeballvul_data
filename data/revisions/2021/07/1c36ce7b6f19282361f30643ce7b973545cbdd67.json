@@ -1,0 +1,13 @@
+{
+  "commit": "1c36ce7b6f19282361f30643ce7b973545cbdd67",
+  "repo_url": "https://github.com/oracle/helidon",
+  "date": "2021-07-02T23:46:55",
+  "languages": {
+    "Java": 10016775,
+    "Shell": 37324,
+    "Lua": 6617,
+    "Groovy": 4372,
+    "CSS": 1428
+  },
+  "size": 10066516
+}

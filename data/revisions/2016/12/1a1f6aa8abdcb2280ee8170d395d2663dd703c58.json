@@ -1,0 +1,18 @@
+{
+  "commit": "1a1f6aa8abdcb2280ee8170d395d2663dd703c58",
+  "repo_url": "https://github.com/clickhouse/clickhouse",
+  "date": "2016-12-12T18:33:47",
+  "languages": {
+    "C++": 44466688,
+    "C": 2889655,
+    "CMake": 124655,
+    "Shell": 73083,
+    "Python": 43466,
+    "HTML": 22381,
+    "Perl": 4092,
+    "Makefile": 1492,
+    "Dockerfile": 939,
+    "Vim Script": 71
+  },
+  "size": 47626522
+}

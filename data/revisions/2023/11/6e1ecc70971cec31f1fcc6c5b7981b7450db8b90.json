@@ -1,0 +1,12 @@
+{
+  "commit": "6e1ecc70971cec31f1fcc6c5b7981b7450db8b90",
+  "repo_url": "https://github.com/coreos/zincati",
+  "date": "2023-11-08T20:57:35",
+  "languages": {
+    "Rust": 223489,
+    "Shell": 10802,
+    "Jsonnet": 3273,
+    "Makefile": 997
+  },
+  "size": 238561
+}

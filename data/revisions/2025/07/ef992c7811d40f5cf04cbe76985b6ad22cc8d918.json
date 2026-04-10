@@ -1,0 +1,16 @@
+{
+  "commit": "ef992c7811d40f5cf04cbe76985b6ad22cc8d918",
+  "repo_url": "https://github.com/ory/polis",
+  "date": "2025-07-15T09:57:38",
+  "languages": {
+    "TypeScript": 1232135,
+    "JavaScript": 64799,
+    "MDX": 24541,
+    "CSS": 2548,
+    "Dockerfile": 2270,
+    "Smarty": 1782,
+    "Shell": 1069,
+    "Procfile": 14
+  },
+  "size": 1329158
+}

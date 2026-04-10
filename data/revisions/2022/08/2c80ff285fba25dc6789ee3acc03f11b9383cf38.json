@@ -1,0 +1,24 @@
+{
+  "commit": "2c80ff285fba25dc6789ee3acc03f11b9383cf38",
+  "repo_url": "https://github.com/ethereum-optimism/optimism",
+  "date": "2022-08-25T21:41:36",
+  "languages": {
+    "Go": 11018700,
+    "TypeScript": 1417896,
+    "Solidity": 792363,
+    "C": 673780,
+    "JavaScript": 451700,
+    "Assembly": 63614,
+    "Shell": 47455,
+    "Java": 30290,
+    "Sage": 30192,
+    "Makefile": 28004,
+    "M4": 25931,
+    "NSIS": 23234,
+    "Python": 15597,
+    "HTML": 12722,
+    "Dockerfile": 10895,
+    "Ruby": 818
+  },
+  "size": 14643191
+}

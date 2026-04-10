@@ -1,0 +1,11 @@
+{
+  "commit": "daf9b40b84a1397f58b869b9da894ac40f4e0899",
+  "repo_url": "https://github.com/cervantessec/cervantes",
+  "date": "2023-04-03T17:53:25",
+  "languages": {
+    "C#": 1063966,
+    "SCSS": 4981,
+    "Dockerfile": 1222
+  },
+  "size": 1070169
+}

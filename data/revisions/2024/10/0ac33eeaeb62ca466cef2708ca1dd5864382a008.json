@@ -1,0 +1,11 @@
+{
+  "commit": "0ac33eeaeb62ca466cef2708ca1dd5864382a008",
+  "repo_url": "https://github.com/sigstore/sigstore-python",
+  "date": "2024-10-25T14:56:32",
+  "languages": {
+    "Python": 347682,
+    "Makefile": 4428,
+    "Standard ML": 846
+  },
+  "size": 352956
+}

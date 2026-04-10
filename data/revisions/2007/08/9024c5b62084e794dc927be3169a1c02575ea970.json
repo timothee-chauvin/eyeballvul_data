@@ -1,0 +1,12 @@
+{
+  "commit": "9024c5b62084e794dc927be3169a1c02575ea970",
+  "repo_url": "https://github.com/deluge-torrent/deluge",
+  "date": "2007-08-05T16:37:47",
+  "languages": {
+    "C++": 2382717,
+    "Python": 463347,
+    "Makefile": 40090,
+    "Shell": 54
+  },
+  "size": 2886208
+}

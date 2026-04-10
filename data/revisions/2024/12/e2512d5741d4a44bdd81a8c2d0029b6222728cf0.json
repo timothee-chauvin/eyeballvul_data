@@ -1,0 +1,14 @@
+{
+  "commit": "e2512d5741d4a44bdd81a8c2d0029b6222728cf0",
+  "repo_url": "https://github.com/shadow-maint/shadow",
+  "date": "2024-12-25T22:32:40",
+  "languages": {
+    "Shell": 1668390,
+    "C": 1263088,
+    "M4": 27473,
+    "Yacc": 22719,
+    "Makefile": 17253,
+    "Perl": 3114
+  },
+  "size": 3002037
+}

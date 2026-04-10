@@ -1,0 +1,10 @@
+{
+  "commit": "216b7a5cd50bb0ef10edfeb6b551b75b083952ae",
+  "repo_url": "https://github.com/openstack-archive/nova-lxd",
+  "date": "2016-12-07T15:18:08",
+  "languages": {
+    "Python": 279657,
+    "Shell": 20402
+  },
+  "size": 300059
+}

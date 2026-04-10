@@ -1,0 +1,13 @@
+{
+  "commit": "9571fa86dfc7719ac1915c103abd4693b8e77b43",
+  "repo_url": "https://github.com/wireui/wireui",
+  "date": "2024-09-07T17:46:58",
+  "languages": {
+    "PHP": 573595,
+    "TypeScript": 202189,
+    "Blade": 91835,
+    "JavaScript": 5303,
+    "CSS": 59
+  },
+  "size": 872981
+}

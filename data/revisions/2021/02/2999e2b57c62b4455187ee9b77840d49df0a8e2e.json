@@ -1,0 +1,12 @@
+{
+  "commit": "2999e2b57c62b4455187ee9b77840d49df0a8e2e",
+  "repo_url": "https://github.com/pi-hole/ftl",
+  "date": "2021-02-16T19:36:43",
+  "languages": {
+    "C": 12237122,
+    "Shell": 55138,
+    "CMake": 23562,
+    "Python": 2536
+  },
+  "size": 12318358
+}

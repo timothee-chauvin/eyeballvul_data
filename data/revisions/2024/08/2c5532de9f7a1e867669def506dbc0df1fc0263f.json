@@ -1,0 +1,24 @@
+{
+  "commit": "2c5532de9f7a1e867669def506dbc0df1fc0263f",
+  "repo_url": "https://github.com/zabbix/zabbix",
+  "date": "2024-08-12T13:52:45",
+  "languages": {
+    "PHP": 25471713,
+    "C": 18844890,
+    "Go": 1557039,
+    "JavaScript": 1391242,
+    "CSS": 1112720,
+    "SCSS": 267537,
+    "Makefile": 249200,
+    "M4": 222427,
+    "C++": 138938,
+    "Java": 76536,
+    "Perl": 59354,
+    "Shell": 39166,
+    "BitBake": 6631,
+    "EJS": 4715,
+    "PLpgSQL": 4240,
+    "XSLT": 456
+  },
+  "size": 49446804
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "4d61593f35efedf129fefe37525c116ef35a3737",
+  "repo_url": "https://github.com/vivo-project/vitro",
+  "date": "2018-07-06T23:17:53",
+  "languages": {
+    "Java": 7463857,
+    "JavaScript": 2116331,
+    "FreeMarker": 398028,
+    "CSS": 163394,
+    "HTML": 121562,
+    "XSLT": 29864,
+    "ActionScript": 22844,
+    "Ruby": 19385,
+    "Shell": 6153
+  },
+  "size": 10341418
+}

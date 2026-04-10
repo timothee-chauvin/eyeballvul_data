@@ -1,0 +1,20 @@
+{
+  "commit": "32a346e82042e99336732056e2ec81ebc27f075e",
+  "repo_url": "https://github.com/apache/cxf",
+  "date": "2016-10-14T18:06:12",
+  "languages": {
+    "Java": 35618010,
+    "JavaScript": 104924,
+    "XSLT": 84444,
+    "HTML": 73923,
+    "Shell": 52467,
+    "Batchfile": 29355,
+    "GAP": 20125,
+    "Perl": 6602,
+    "CSS": 5733,
+    "Rich Text Format": 3410,
+    "Groovy": 1843,
+    "Ruby": 951
+  },
+  "size": 36001787
+}

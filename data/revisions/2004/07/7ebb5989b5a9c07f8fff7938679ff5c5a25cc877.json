@@ -1,0 +1,25 @@
+{
+  "commit": "7ebb5989b5a9c07f8fff7938679ff5c5a25cc877",
+  "repo_url": "https://github.com/gnuplot/gnuplot",
+  "date": "2004-07-01T17:10:35",
+  "languages": {
+    "C": 4114405,
+    "Emacs Lisp": 223375,
+    "Objective-C": 124039,
+    "Shell": 49760,
+    "C++": 42236,
+    "TeX": 36638,
+    "Makefile": 32965,
+    "IGOR Pro": 16336,
+    "Assembly": 14389,
+    "Awk": 11145,
+    "DIGITAL Command Language": 8101,
+    "Smalltalk": 5439,
+    "GAP": 3833,
+    "M4": 2345,
+    "Gnuplot": 2168,
+    "Roff": 1529,
+    "GDB": 118
+  },
+  "size": 4688821
+}

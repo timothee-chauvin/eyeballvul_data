@@ -1,0 +1,17 @@
+{
+  "commit": "0d6742664b7a5f111013bc6392bf3fda5e2c8a7c",
+  "repo_url": "https://github.com/actualbudget/actual",
+  "date": "2026-02-02T12:12:46",
+  "languages": {
+    "TypeScript": 5666915,
+    "JavaScript": 633232,
+    "Shell": 9544,
+    "Dockerfile": 7952,
+    "CSS": 6921,
+    "PEG.js": 6252,
+    "HTML": 3367,
+    "MDX": 853,
+    "SCSS": 462
+  },
+  "size": 6335498
+}

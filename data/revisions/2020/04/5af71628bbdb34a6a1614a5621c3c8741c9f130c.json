@@ -1,0 +1,14 @@
+{
+  "commit": "5af71628bbdb34a6a1614a5621c3c8741c9f130c",
+  "repo_url": "https://github.com/blueman-project/blueman",
+  "date": "2020-04-28T08:20:19",
+  "languages": {
+    "Python": 457493,
+    "C": 26540,
+    "Makefile": 19821,
+    "M4": 13829,
+    "Roff": 2005,
+    "Shell": 967
+  },
+  "size": 520655
+}

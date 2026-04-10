@@ -1,0 +1,18 @@
+{
+  "commit": "6e4b3869b5ae78ede48eeb0960beb3634652cf26",
+  "repo_url": "https://github.com/siderolabs/omni",
+  "date": "2025-04-03T13:08:24",
+  "languages": {
+    "Go": 3629987,
+    "Vue": 775713,
+    "TypeScript": 252673,
+    "Dockerfile": 30452,
+    "CSS": 22312,
+    "Shell": 15873,
+    "Makefile": 15770,
+    "JavaScript": 2754,
+    "Smarty": 832,
+    "HTML": 587
+  },
+  "size": 4746953
+}

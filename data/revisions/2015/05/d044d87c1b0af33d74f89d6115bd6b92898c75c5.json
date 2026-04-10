@@ -1,0 +1,11 @@
+{
+  "commit": "d044d87c1b0af33d74f89d6115bd6b92898c75c5",
+  "repo_url": "https://github.com/sfackler/rust-openssl",
+  "date": "2015-05-01T17:43:54",
+  "languages": {
+    "Rust": 182289,
+    "Shell": 1405,
+    "C": 1375
+  },
+  "size": 185069
+}

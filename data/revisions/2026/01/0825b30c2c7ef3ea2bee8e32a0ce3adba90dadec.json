@@ -1,0 +1,11 @@
+{
+  "commit": "0825b30c2c7ef3ea2bee8e32a0ce3adba90dadec",
+  "repo_url": "https://github.com/apollographql/apollo-server",
+  "date": "2026-01-21T11:45:08",
+  "languages": {
+    "TypeScript": 998565,
+    "JavaScript": 753579,
+    "Shell": 6813
+  },
+  "size": 1758957
+}

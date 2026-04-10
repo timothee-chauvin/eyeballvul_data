@@ -1,0 +1,15 @@
+{
+  "commit": "2af7e382b121f2eae16dd1f7ace621d31028b319",
+  "repo_url": "https://github.com/oobabooga/text-generation-webui",
+  "date": "2023-11-09T18:02:13",
+  "languages": {
+    "Python": 788176,
+    "CSS": 28948,
+    "JavaScript": 16251,
+    "Shell": 11950,
+    "Batchfile": 5852,
+    "Jupyter Notebook": 4966,
+    "Dockerfile": 2979
+  },
+  "size": 859122
+}

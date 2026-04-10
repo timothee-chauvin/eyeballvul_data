@@ -1,0 +1,13 @@
+{
+  "commit": "c4a2ae07a80343a45439d07f338b36b1a600c9fc",
+  "repo_url": "https://github.com/google/osv-scalibr",
+  "date": "2025-04-23T11:19:05",
+  "languages": {
+    "Go": 2731619,
+    "Dockerfile": 7154,
+    "Shell": 1729,
+    "Makefile": 562,
+    "PowerShell": 242
+  },
+  "size": 2741306
+}

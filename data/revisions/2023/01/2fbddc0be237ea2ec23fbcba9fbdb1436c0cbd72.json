@@ -1,0 +1,16 @@
+{
+  "commit": "2fbddc0be237ea2ec23fbcba9fbdb1436c0cbd72",
+  "repo_url": "https://github.com/nerves-hub/nerves_hub_web.git",
+  "date": "2023-01-02T21:04:06",
+  "languages": {
+    "Elixir": 780949,
+    "HTML": 110777,
+    "CSS": 95424,
+    "SCSS": 46471,
+    "Shell": 9575,
+    "JavaScript": 6270,
+    "Makefile": 1055,
+    "Dockerfile": 798
+  },
+  "size": 1051319
+}

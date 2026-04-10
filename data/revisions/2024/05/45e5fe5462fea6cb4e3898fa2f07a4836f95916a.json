@@ -1,0 +1,16 @@
+{
+  "commit": "45e5fe5462fea6cb4e3898fa2f07a4836f95916a",
+  "repo_url": "https://github.com/grpc/grpc-node",
+  "date": "2024-05-15T16:17:41",
+  "languages": {
+    "TypeScript": 1634090,
+    "JavaScript": 253519,
+    "C++": 30527,
+    "Shell": 20464,
+    "CMake": 2907,
+    "Batchfile": 2711,
+    "Dockerfile": 2548,
+    "PowerShell": 2270
+  },
+  "size": 1949036
+}

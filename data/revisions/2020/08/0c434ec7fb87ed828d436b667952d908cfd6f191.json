@@ -1,0 +1,16 @@
+{
+  "commit": "0c434ec7fb87ed828d436b667952d908cfd6f191",
+  "repo_url": "https://github.com/scalyr/scalyr-agent-2",
+  "date": "2020-08-04T01:24:30",
+  "languages": {
+    "Python": 6171330,
+    "Shell": 121215,
+    "C": 39207,
+    "Dockerfile": 5927,
+    "JavaScript": 2191,
+    "Batchfile": 1877,
+    "PowerShell": 1161,
+    "XSLT": 1082
+  },
+  "size": 6343990
+}

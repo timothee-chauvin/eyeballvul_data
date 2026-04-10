@@ -1,0 +1,14 @@
+{
+  "commit": "2392cdaec8c39f7710285acaa3bf1be31abc846c",
+  "repo_url": "https://github.com/nroduit/weasis",
+  "date": "2024-08-15T17:19:00",
+  "languages": {
+    "Java": 4909177,
+    "Shell": 20460,
+    "GLSL": 18417,
+    "Dockerfile": 2836,
+    "Batchfile": 188,
+    "Rich Text Format": 144
+  },
+  "size": 4951222
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "0d5c691f36baae183349c51c47228da45278c50a",
+  "repo_url": "https://github.com/wycats/handlebars.js",
+  "date": "2019-10-02T20:12:55",
+  "languages": {
+    "JavaScript": 377136,
+    "HTML": 14863,
+    "Lex": 5119,
+    "Yacc": 4267,
+    "TypeScript": 4232,
+    "Shell": 2073,
+    "Ruby": 943,
+    "Handlebars": 331,
+    "Mustache": 260
+  },
+  "size": 409224
+}

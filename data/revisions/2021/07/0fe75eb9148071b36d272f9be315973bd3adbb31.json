@@ -1,0 +1,16 @@
+{
+  "commit": "0fe75eb9148071b36d272f9be315973bd3adbb31",
+  "repo_url": "https://github.com/tremor-rs/tremor-runtime",
+  "date": "2021-07-08T11:52:47",
+  "languages": {
+    "Rust": 2694571,
+    "Erlang": 93711,
+    "Shell": 30363,
+    "Emacs Lisp": 12224,
+    "Makefile": 7766,
+    "Dockerfile": 4844,
+    "C": 1906,
+    "Reason": 112
+  },
+  "size": 2845497
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "a76e88059ebb6d0110931244575ec6626c5fbcb1",
+  "repo_url": "https://github.com/openconext/openconext-engineblock",
+  "date": "2018-06-27T07:13:01",
+  "languages": {
+    "PHP": 1527597,
+    "Gherkin": 76296,
+    "Twig": 53923,
+    "JavaScript": 40467,
+    "Sass": 27499,
+    "Shell": 10691,
+    "XSLT": 3812,
+    "SCSS": 1209,
+    "HTML": 189
+  },
+  "size": 1741683
+}

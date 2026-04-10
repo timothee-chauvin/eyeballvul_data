@@ -1,0 +1,15 @@
+{
+  "commit": "7bc687b6bfa5f79687275d0585f14c054060c3c3",
+  "repo_url": "https://github.com/outline/outline",
+  "date": "2025-02-15T14:33:07",
+  "languages": {
+    "TypeScript": 4583274,
+    "JavaScript": 194110,
+    "HTML": 3688,
+    "Dockerfile": 1358,
+    "Makefile": 635,
+    "Shell": 320,
+    "Procfile": 134
+  },
+  "size": 4783519
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "5ab708db1cad4c35a5fee8442fbd16bea6bc91e0",
+  "repo_url": "https://github.com/kiali/kiali",
+  "date": "2018-11-12T15:06:50",
+  "languages": {
+    "Go": 974580,
+    "Shell": 49668,
+    "Python": 24616,
+    "Makefile": 12405,
+    "Dockerfile": 314
+  },
+  "size": 1061583
+}

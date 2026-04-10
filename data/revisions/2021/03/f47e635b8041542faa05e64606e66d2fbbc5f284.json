@@ -1,0 +1,11 @@
+{
+  "commit": "f47e635b8041542faa05e64606e66d2fbbc5f284",
+  "repo_url": "https://github.com/openstack/keystone",
+  "date": "2021-03-29T19:19:09",
+  "languages": {
+    "Python": 6493429,
+    "Shell": 26895,
+    "HTML": 665
+  },
+  "size": 6520989
+}

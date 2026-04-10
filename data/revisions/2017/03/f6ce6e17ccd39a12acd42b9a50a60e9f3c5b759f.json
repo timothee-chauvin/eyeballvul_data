@@ -1,0 +1,24 @@
+{
+  "commit": "f6ce6e17ccd39a12acd42b9a50a60e9f3c5b759f",
+  "repo_url": "https://github.com/xtraball/siberiancms",
+  "date": "2017-03-22T11:41:45",
+  "languages": {
+    "PHP": 20660124,
+    "JavaScript": 7719630,
+    "HTML": 5733095,
+    "Objective-C": 2352872,
+    "CSS": 1259823,
+    "C++": 1085814,
+    "Java": 1054922,
+    "SCSS": 307286,
+    "Swift": 170718,
+    "Objective-C++": 90224,
+    "Batchfile": 21404,
+    "C": 15858,
+    "Shell": 3854,
+    "TSQL": 1167,
+    "PowerShell": 1028,
+    "Hack": 1
+  },
+  "size": 40477820
+}

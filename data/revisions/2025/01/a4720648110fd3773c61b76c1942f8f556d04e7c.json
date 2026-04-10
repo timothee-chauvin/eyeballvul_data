@@ -1,0 +1,12 @@
+{
+  "commit": "a4720648110fd3773c61b76c1942f8f556d04e7c",
+  "repo_url": "https://github.com/polytope-labs/hyperbridge",
+  "date": "2025-01-22T17:19:49",
+  "languages": {
+    "Rust": 4205464,
+    "Solidity": 261193,
+    "Shell": 3361,
+    "Dockerfile": 740
+  },
+  "size": 4470758
+}

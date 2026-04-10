@@ -1,0 +1,12 @@
+{
+  "commit": "f56b5d895f97f4cc3bd787c600a3ee67ba56d4db",
+  "repo_url": "https://github.com/alibaba/fastjson",
+  "date": "2022-03-24T01:18:45",
+  "languages": {
+    "Java": 7492863,
+    "Kotlin": 5407,
+    "JavaScript": 3661,
+    "Shell": 414
+  },
+  "size": 7502345
+}

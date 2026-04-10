@@ -1,0 +1,10 @@
+{
+  "commit": "6c5cab25287b330c82580159cbf27b1aa52809a0",
+  "repo_url": "https://github.com/aiven-open/bigquery-connector-for-apache-kafka",
+  "date": "2025-11-19T09:58:35",
+  "languages": {
+    "Java": 1151360,
+    "Shell": 1440
+  },
+  "size": 1152800
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "a83f7a6fde61c0f5ab1207dddc6978ec71a5e5fa",
+  "repo_url": "https://github.com/agentejo/cockpit",
+  "date": "2018-03-21T13:27:59",
+  "languages": {
+    "PHP": 1196361,
+    "JavaScript": 1125305,
+    "Less": 485293,
+    "Hack": 215179,
+    "CSS": 22728,
+    "Dockerfile": 725
+  },
+  "size": 3045591
+}

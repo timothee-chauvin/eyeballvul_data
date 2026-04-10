@@ -1,0 +1,10 @@
+{
+  "commit": "7296a5302b00bd066ddf6b14c7d5a9afb3b88e70",
+  "repo_url": "https://github.com/openstack/glance",
+  "date": "2015-12-18T15:00:44",
+  "languages": {
+    "Python": 4014411,
+    "Shell": 7971
+  },
+  "size": 4022382
+}

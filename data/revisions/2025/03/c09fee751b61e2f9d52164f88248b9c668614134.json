@@ -1,0 +1,29 @@
+{
+  "commit": "c09fee751b61e2f9d52164f88248b9c668614134",
+  "repo_url": "https://github.com/parcel-bundler/parcel",
+  "date": "2025-03-29T20:56:26",
+  "languages": {
+    "JavaScript": 4229551,
+    "Rust": 678784,
+    "TypeScript": 47433,
+    "HTML": 36518,
+    "CSS": 17874,
+    "Vue": 3977,
+    "Shell": 2319,
+    "SCSS": 1592,
+    "Elm": 1362,
+    "Less": 1141,
+    "Pug": 1044,
+    "GLSL": 827,
+    "XSLT": 780,
+    "MDX": 546,
+    "Stylus": 478,
+    "Makefile": 392,
+    "Sass": 307,
+    "CoffeeScript": 71,
+    "SugarSS": 69,
+    "Kotlin": 63,
+    "Reason": 23
+  },
+  "size": 5025151
+}

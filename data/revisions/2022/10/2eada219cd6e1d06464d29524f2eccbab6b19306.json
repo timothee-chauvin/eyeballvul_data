@@ -1,0 +1,15 @@
+{
+  "commit": "2eada219cd6e1d06464d29524f2eccbab6b19306",
+  "repo_url": "https://github.com/blakeblackshear/frigate",
+  "date": "2022-10-08T02:15:12",
+  "languages": {
+    "Python": 365824,
+    "JavaScript": 226689,
+    "TypeScript": 24338,
+    "Dockerfile": 6028,
+    "Makefile": 1677,
+    "HTML": 1186,
+    "CSS": 1032
+  },
+  "size": 626774
+}

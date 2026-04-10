@@ -1,0 +1,17 @@
+{
+  "commit": "2e53fba68f8c51f9aca97615944fdbdeba94ff62",
+  "repo_url": "https://github.com/handlebars-lang/handlebars.js",
+  "date": "2019-10-08T20:05:35",
+  "languages": {
+    "JavaScript": 385651,
+    "HTML": 14863,
+    "TypeScript": 6533,
+    "Lex": 5119,
+    "Yacc": 4267,
+    "Shell": 2073,
+    "Ruby": 943,
+    "Handlebars": 331,
+    "Mustache": 260
+  },
+  "size": 420040
+}

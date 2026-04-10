@@ -1,0 +1,13 @@
+{
+  "commit": "1e97870ccc900b4431c91f229e83c65f17d8376f",
+  "repo_url": "https://github.com/nxp-mcuxpresso/mcux-sdk",
+  "date": "2021-07-27T14:10:48",
+  "languages": {
+    "C": 503080992,
+    "Assembly": 7312044,
+    "C++": 4358360,
+    "CMake": 716262,
+    "Shell": 1748
+  },
+  "size": 515469406
+}

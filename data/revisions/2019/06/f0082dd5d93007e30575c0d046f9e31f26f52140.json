@@ -1,0 +1,12 @@
+{
+  "commit": "f0082dd5d93007e30575c0d046f9e31f26f52140",
+  "repo_url": "https://github.com/openstack/tripleo-heat-templates",
+  "date": "2019-06-17T17:48:33",
+  "languages": {
+    "Python": 183459,
+    "Shell": 71728,
+    "Jinja": 36876,
+    "Puppet": 1157
+  },
+  "size": 293220
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "ecf35bd9c5830fdabd94153f0621e0b99fbfd38b",
+  "repo_url": "https://github.com/openexr/openexr",
+  "date": "2013-11-25T21:18:55",
+  "languages": {
+    "C++": 5162102,
+    "C": 1363900,
+    "Python": 198910,
+    "M4": 139256,
+    "Makefile": 41062,
+    "CMake": 29539,
+    "HTML": 10257,
+    "Shell": 7284,
+    "Batchfile": 6373,
+    "Rez": 1917
+  },
+  "size": 6960600
+}

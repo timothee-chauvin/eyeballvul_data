@@ -1,0 +1,28 @@
+{
+  "commit": "d7d5e53f2bad69cdb3dffae35eef1f3f1090a22c",
+  "repo_url": "https://github.com/openapitools/openapi-generator",
+  "date": "2020-12-21T05:04:11",
+  "languages": {
+    "Java": 6003721,
+    "TypeScript": 127904,
+    "Shell": 100270,
+    "PHP": 79715,
+    "Kotlin": 79206,
+    "JavaScript": 34898,
+    "Ruby": 30990,
+    "Apex": 26879,
+    "ActionScript": 21554,
+    "Handlebars": 11259,
+    "CSS": 10452,
+    "Rust": 7820,
+    "HTML": 5382,
+    "Scala": 5228,
+    "Dockerfile": 4794,
+    "Groovy": 3245,
+    "Blade": 2953,
+    "Batchfile": 1522,
+    "Dart": 473,
+    "SCSS": 3
+  },
+  "size": 6558268
+}

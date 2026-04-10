@@ -1,0 +1,14 @@
+{
+  "commit": "71a96c4e797d9d043ee187346be1ea57e6009df8",
+  "repo_url": "https://github.com/ezsystems/ezpublish-kernel",
+  "date": "2019-12-18T15:44:26",
+  "languages": {
+    "PHP": 26579141,
+    "XSLT": 296124,
+    "Twig": 59821,
+    "PLpgSQL": 22769,
+    "Gherkin": 20448,
+    "Shell": 5746
+  },
+  "size": 26984049
+}

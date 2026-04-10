@@ -1,0 +1,21 @@
+{
+  "commit": "bbe9c7eeb520b0a67e92d133dfc137a3688dc7f2",
+  "repo_url": "https://github.com/sgl-project/sglang",
+  "date": "2026-02-23T05:10:33",
+  "languages": {
+    "Python": 25881359,
+    "Rust": 3035844,
+    "Cuda": 1660814,
+    "C++": 1370798,
+    "Shell": 160137,
+    "C": 128264,
+    "Go": 105506,
+    "Dockerfile": 80798,
+    "CMake": 32098,
+    "Makefile": 23168,
+    "Jupyter Notebook": 7306,
+    "Jinja": 1205,
+    "Vim Script": 914
+  },
+  "size": 32488211
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "8154b7673827f8707065ff61306b8dad89571be3",
+  "repo_url": "https://github.com/pcmacdon/jsish",
+  "date": "2016-07-09T00:12:30",
+  "languages": {
+    "C": 10022381,
+    "JavaScript": 240711,
+    "HTML": 77238,
+    "Perl": 62626,
+    "CMake": 42932,
+    "Yacc": 34302,
+    "Shell": 13967,
+    "CSS": 12060,
+    "Makefile": 8944
+  },
+  "size": 10515161
+}

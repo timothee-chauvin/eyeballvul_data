@@ -1,0 +1,15 @@
+{
+  "commit": "e4cfe0ab847ff22fc0d8e97a3aad0475440c21b6",
+  "repo_url": "https://github.com/solidusio/solidus",
+  "date": "2018-09-14T08:14:02",
+  "languages": {
+    "Ruby": 2846153,
+    "HTML": 446671,
+    "JavaScript": 119661,
+    "SCSS": 108506,
+    "Handlebars": 13335,
+    "Shell": 1954,
+    "CSS": 1399
+  },
+  "size": 3537679
+}

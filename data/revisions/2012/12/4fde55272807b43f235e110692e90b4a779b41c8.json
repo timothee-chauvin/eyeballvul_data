@@ -1,0 +1,13 @@
+{
+  "commit": "4fde55272807b43f235e110692e90b4a779b41c8",
+  "repo_url": "https://github.com/openslides/openslides",
+  "date": "2012-12-10T20:41:50",
+  "languages": {
+    "Python": 315486,
+    "JavaScript": 126404,
+    "HTML": 119494,
+    "CSS": 21935,
+    "C": 2460
+  },
+  "size": 585779
+}

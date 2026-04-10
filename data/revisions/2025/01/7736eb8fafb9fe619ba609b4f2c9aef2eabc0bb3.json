@@ -1,0 +1,18 @@
+{
+  "commit": "7736eb8fafb9fe619ba609b4f2c9aef2eabc0bb3",
+  "repo_url": "https://github.com/wildrikku/octoprint-spoolmanager",
+  "date": "2025-01-04T23:41:50",
+  "languages": {
+    "JavaScript": 2200593,
+    "HTML": 295605,
+    "CSS": 211342,
+    "Python": 203155,
+    "Jinja": 122618,
+    "Less": 61691,
+    "PHP": 35519,
+    "Smarty": 31072,
+    "SCSS": 30954,
+    "Twig": 3998
+  },
+  "size": 3196547
+}

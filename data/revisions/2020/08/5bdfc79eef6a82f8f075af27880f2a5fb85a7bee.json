@@ -1,0 +1,14 @@
+{
+  "commit": "5bdfc79eef6a82f8f075af27880f2a5fb85a7bee",
+  "repo_url": "https://github.com/directus/directus",
+  "date": "2020-08-03T19:49:24",
+  "languages": {
+    "PHP": 1926298,
+    "Twig": 4281,
+    "Shell": 2172,
+    "CSS": 2000,
+    "HTML": 831,
+    "JavaScript": 155
+  },
+  "size": 1935737
+}

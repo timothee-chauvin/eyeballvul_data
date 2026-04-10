@@ -1,0 +1,15 @@
+{
+  "commit": "065cd904e2e4211a3356b531b0dbcfebbd408903",
+  "repo_url": "https://github.com/lxml/lxml",
+  "date": "2018-06-22T18:43:35",
+  "languages": {
+    "Python": 1205734,
+    "Cython": 869875,
+    "XSLT": 153355,
+    "C": 16051,
+    "HTML": 15198,
+    "Makefile": 5337,
+    "Shell": 1804
+  },
+  "size": 2267354
+}

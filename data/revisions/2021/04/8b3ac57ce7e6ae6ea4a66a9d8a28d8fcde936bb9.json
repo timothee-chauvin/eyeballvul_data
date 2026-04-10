@@ -1,0 +1,13 @@
+{
+  "commit": "8b3ac57ce7e6ae6ea4a66a9d8a28d8fcde936bb9",
+  "repo_url": "https://github.com/mermaid-js/mermaid",
+  "date": "2021-04-25T11:24:35",
+  "languages": {
+    "JavaScript": 1097409,
+    "HTML": 389107,
+    "Yacc": 78641,
+    "SCSS": 17808,
+    "Python": 9205
+  },
+  "size": 1592170
+}

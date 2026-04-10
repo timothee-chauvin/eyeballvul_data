@@ -1,0 +1,22 @@
+{
+  "commit": "0b23e32f8305b835d19df0c9bc3a0295f488b1b5",
+  "repo_url": "https://gitlab.com/fetchmail/fetchmail",
+  "date": "2019-08-24T10:38:53",
+  "languages": {
+    "C": 1225672,
+    "HTML": 279627,
+    "Roff": 157382,
+    "Python": 132200,
+    "Perl": 97085,
+    "Shell": 44749,
+    "M4": 37401,
+    "Yacc": 18076,
+    "C++": 11945,
+    "Makefile": 10827,
+    "Lex": 7315,
+    "Emacs Lisp": 5808,
+    "Awk": 4596,
+    "CSS": 3142
+  },
+  "size": 2035825
+}

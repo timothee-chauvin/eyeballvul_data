@@ -1,0 +1,10 @@
+{
+  "commit": "14690d058ff47b2fa9f155d69dbd3e1fb5695bbe",
+  "repo_url": "https://github.com/reviewdog/action-ast-grep",
+  "date": "2026-03-31T13:14:00",
+  "languages": {
+    "Shell": 1953,
+    "jq": 1175
+  },
+  "size": 3128
+}

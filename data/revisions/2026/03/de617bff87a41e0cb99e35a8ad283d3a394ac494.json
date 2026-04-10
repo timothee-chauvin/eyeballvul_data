@@ -1,0 +1,19 @@
+{
+  "commit": "de617bff87a41e0cb99e35a8ad283d3a394ac494",
+  "repo_url": "https://github.com/sbt/sbt",
+  "date": "2026-03-16T02:39:04",
+  "languages": {
+    "Scala": 3611957,
+    "Java": 118229,
+    "Shell": 44918,
+    "Batchfile": 35532,
+    "Roff": 7306,
+    "Makefile": 4356,
+    "HTML": 3232,
+    "Python": 1030,
+    "C": 971,
+    "C++": 508,
+    "PowerShell": 408
+  },
+  "size": 3828447
+}

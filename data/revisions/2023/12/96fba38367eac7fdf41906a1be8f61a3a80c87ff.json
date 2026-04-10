@@ -1,0 +1,25 @@
+{
+  "commit": "96fba38367eac7fdf41906a1be8f61a3a80c87ff",
+  "repo_url": "https://github.com/tine-groupware/tine",
+  "date": "2023-12-07T07:24:36",
+  "languages": {
+    "HTML": 25185938,
+    "PHP": 19348094,
+    "JavaScript": 16274850,
+    "CSS": 1199908,
+    "Shell": 104971,
+    "Less": 77731,
+    "Vue": 57736,
+    "Dockerfile": 24658,
+    "Twig": 8559,
+    "Jinja": 8040,
+    "CoffeeScript": 5981,
+    "Python": 4186,
+    "SCSS": 3733,
+    "Hack": 3514,
+    "Smarty": 1016,
+    "Makefile": 977,
+    "Rich Text Format": 502
+  },
+  "size": 62310394
+}

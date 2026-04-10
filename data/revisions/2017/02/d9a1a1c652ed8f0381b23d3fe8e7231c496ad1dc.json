@@ -1,0 +1,16 @@
+{
+  "commit": "d9a1a1c652ed8f0381b23d3fe8e7231c496ad1dc",
+  "repo_url": "https://github.com/eclipse/rdf4j",
+  "date": "2017-02-02T00:42:04",
+  "languages": {
+    "Java": 9448105,
+    "JavaScript": 375102,
+    "XSLT": 122449,
+    "TypeScript": 51473,
+    "HTML": 43593,
+    "Ruby": 36236,
+    "CSS": 26768,
+    "Shell": 1324
+  },
+  "size": 10105050
+}

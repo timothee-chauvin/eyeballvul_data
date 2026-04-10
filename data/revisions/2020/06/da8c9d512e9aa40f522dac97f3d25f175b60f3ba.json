@@ -1,0 +1,16 @@
+{
+  "commit": "da8c9d512e9aa40f522dac97f3d25f175b60f3ba",
+  "repo_url": "https://github.com/nozbe/watermelondb",
+  "date": "2020-06-03T12:08:38",
+  "languages": {
+    "JavaScript": 512301,
+    "Objective-C": 188009,
+    "Swift": 41755,
+    "Kotlin": 28374,
+    "Starlark": 1746,
+    "Shell": 923,
+    "Ruby": 281,
+    "C": 104
+  },
+  "size": 773493
+}

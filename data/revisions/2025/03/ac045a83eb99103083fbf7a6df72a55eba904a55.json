@@ -1,0 +1,15 @@
+{
+  "commit": "ac045a83eb99103083fbf7a6df72a55eba904a55",
+  "repo_url": "https://gitlab.com/esaqa/psono/psono-client",
+  "date": "2025-03-02T08:59:59",
+  "languages": {
+    "JavaScript": 3033869,
+    "HTML": 37419,
+    "Shell": 13746,
+    "Python": 9612,
+    "CSS": 8620,
+    "PowerShell": 3990,
+    "Dockerfile": 468
+  },
+  "size": 3107724
+}

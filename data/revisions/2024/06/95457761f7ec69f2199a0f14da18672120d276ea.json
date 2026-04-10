@@ -1,0 +1,23 @@
+{
+  "commit": "95457761f7ec69f2199a0f14da18672120d276ea",
+  "repo_url": "https://github.com/woocommerce/woocommerce",
+  "date": "2024-06-04T12:50:04",
+  "languages": {
+    "PHP": 17542496,
+    "TypeScript": 7773861,
+    "JavaScript": 6031539,
+    "CSS": 1382638,
+    "SCSS": 1189526,
+    "HTML": 423690,
+    "Shell": 79251,
+    "Mustache": 35739,
+    "EJS": 14944,
+    "Handlebars": 11949,
+    "Gherkin": 9169,
+    "MDX": 7292,
+    "Roff": 3489,
+    "Dockerfile": 1004,
+    "Batchfile": 155
+  },
+  "size": 34506742
+}

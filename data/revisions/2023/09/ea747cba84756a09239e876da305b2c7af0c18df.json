@@ -1,0 +1,18 @@
+{
+  "commit": "ea747cba84756a09239e876da305b2c7af0c18df",
+  "repo_url": "https://github.com/openvpn/openvpn3",
+  "date": "2023-09-13T13:02:35",
+  "languages": {
+    "C++": 3915622,
+    "C": 87713,
+    "Shell": 39668,
+    "CMake": 29860,
+    "HTML": 24578,
+    "Java": 17371,
+    "Roff": 4227,
+    "Common Lisp": 3712,
+    "SWIG": 2133,
+    "Python": 1032
+  },
+  "size": 4125916
+}

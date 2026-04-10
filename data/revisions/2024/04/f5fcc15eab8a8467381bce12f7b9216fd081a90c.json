@@ -1,0 +1,17 @@
+{
+  "commit": "f5fcc15eab8a8467381bce12f7b9216fd081a90c",
+  "repo_url": "https://github.com/danswer-ai/danswer",
+  "date": "2024-04-17T06:27:47",
+  "languages": {
+    "Python": 1375431,
+    "TypeScript": 893097,
+    "JavaScript": 8483,
+    "Dockerfile": 5790,
+    "Shell": 5539,
+    "Smarty": 1842,
+    "CSS": 1281,
+    "HTML": 705,
+    "Mako": 510
+  },
+  "size": 2292678
+}

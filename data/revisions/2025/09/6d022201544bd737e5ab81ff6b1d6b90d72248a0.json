@@ -1,0 +1,24 @@
+{
+  "commit": "6d022201544bd737e5ab81ff6b1d6b90d72248a0",
+  "repo_url": "https://github.com/questdb/questdb",
+  "date": "2025-09-15T13:46:53",
+  "languages": {
+    "Java": 45903270,
+    "C++": 2337728,
+    "Rust": 1210603,
+    "Assembly": 333093,
+    "C": 264375,
+    "Python": 33319,
+    "JavaScript": 31109,
+    "CMake": 23939,
+    "Shell": 23403,
+    "Go": 16779,
+    "C#": 16645,
+    "PHP": 11038,
+    "HTML": 5333,
+    "Dockerfile": 4445,
+    "R": 3087,
+    "Makefile": 1116
+  },
+  "size": 50219282
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "12d9064bef02f152df233fab2f4bd863f0c28820",
+  "repo_url": "https://github.com/trusteddomainproject/opendmarc",
+  "date": "2018-05-31T03:25:32",
+  "languages": {
+    "C": 441593,
+    "HTML": 111791,
+    "Perl": 65783,
+    "Roff": 28417,
+    "M4": 24591,
+    "Lua": 8699,
+    "Makefile": 7701,
+    "Shell": 6465,
+    "Python": 4375
+  },
+  "size": 699415
+}

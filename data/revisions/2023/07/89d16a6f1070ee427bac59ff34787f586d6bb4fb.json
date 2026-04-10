@@ -1,0 +1,14 @@
+{
+  "commit": "89d16a6f1070ee427bac59ff34787f586d6bb4fb",
+  "repo_url": "https://github.com/envoyproxy/gateway",
+  "date": "2023-07-26T21:02:36",
+  "languages": {
+    "Go": 1136239,
+    "Makefile": 34297,
+    "Shell": 11547,
+    "Python": 7764,
+    "Smarty": 6774,
+    "Dockerfile": 319
+  },
+  "size": 1196940
+}

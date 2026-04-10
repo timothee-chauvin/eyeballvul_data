@@ -1,0 +1,13 @@
+{
+  "commit": "b2519b298068aaad586347b543ae939cd169fa56",
+  "repo_url": "https://github.com/graphql-hive/graphql-modules",
+  "date": "2026-01-16T14:38:28",
+  "languages": {
+    "TypeScript": 223960,
+    "MDX": 79628,
+    "Shell": 9710,
+    "JavaScript": 3510,
+    "Dockerfile": 2898
+  },
+  "size": 319706
+}

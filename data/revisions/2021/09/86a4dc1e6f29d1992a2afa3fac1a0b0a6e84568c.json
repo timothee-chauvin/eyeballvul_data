@@ -1,0 +1,27 @@
+{
+  "commit": "86a4dc1e6f29d1992a2afa3fac1a0b0a6e84568c",
+  "repo_url": "https://github.com/postgres/postgres",
+  "date": "2021-09-27T20:57:41",
+  "languages": {
+    "C": 42178898,
+    "PLpgSQL": 2756134,
+    "Perl": 1309667,
+    "Yacc": 635609,
+    "Makefile": 333445,
+    "Lex": 225292,
+    "Ruby": 203721,
+    "M4": 192816,
+    "Shell": 82523,
+    "PLSQL": 53661,
+    "Python": 43508,
+    "C++": 31146,
+    "Batchfile": 10548,
+    "XS": 7034,
+    "Emacs Lisp": 4164,
+    "DTrace": 3451,
+    "Assembly": 3266,
+    "Roff": 1895,
+    "sed": 1253
+  },
+  "size": 48078031
+}

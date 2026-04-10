@@ -1,0 +1,12 @@
+{
+  "commit": "9e4ff8ce78c586ec19c1ae7ef1ccff29d08a1c39",
+  "repo_url": "https://github.com/npgsql/npgsql",
+  "date": "2024-02-09T18:25:26",
+  "languages": {
+    "C#": 4067931,
+    "Shell": 1147,
+    "Python": 480,
+    "Dockerfile": 117
+  },
+  "size": 4069675
+}

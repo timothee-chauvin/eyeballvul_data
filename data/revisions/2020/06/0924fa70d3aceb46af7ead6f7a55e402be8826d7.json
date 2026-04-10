@@ -1,0 +1,15 @@
+{
+  "commit": "0924fa70d3aceb46af7ead6f7a55e402be8826d7",
+  "repo_url": "https://github.com/firebase/firebase-js-sdk",
+  "date": "2020-06-18T21:49:00",
+  "languages": {
+    "TypeScript": 4532790,
+    "JavaScript": 3848348,
+    "HTML": 45549,
+    "CSS": 40600,
+    "Shell": 12454,
+    "Handlebars": 6892,
+    "Python": 6779
+  },
+  "size": 8493412
+}

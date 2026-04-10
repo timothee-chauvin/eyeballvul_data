@@ -1,0 +1,18 @@
+{
+  "commit": "8029124511fa40657385bc1887af3f3cb5bb7bb2",
+  "repo_url": "https://github.com/podman-desktop/podman-desktop",
+  "date": "2026-01-19T16:59:12",
+  "languages": {
+    "TypeScript": 8714955,
+    "Svelte": 1693953,
+    "JavaScript": 140415,
+    "Shell": 14815,
+    "CSS": 10357,
+    "Dockerfile": 2771,
+    "PowerShell": 2330,
+    "Mustache": 1083,
+    "HTML": 470,
+    "NSIS": 264
+  },
+  "size": 10581413
+}

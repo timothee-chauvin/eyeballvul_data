@@ -1,0 +1,13 @@
+{
+  "commit": "93935553dbf9339f24bb6f8fd2eb5f1e1d54a532",
+  "repo_url": "https://github.com/opencloud-eu/reva",
+  "date": "2026-02-05T10:25:29",
+  "languages": {
+    "Go": 6798932,
+    "Makefile": 8647,
+    "TypeScript": 3126,
+    "Gherkin": 2395,
+    "PHP": 1128
+  },
+  "size": 6814228
+}

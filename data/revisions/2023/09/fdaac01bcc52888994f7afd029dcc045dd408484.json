@@ -1,0 +1,13 @@
+{
+  "commit": "fdaac01bcc52888994f7afd029dcc045dd408484",
+  "repo_url": "https://github.com/libigl/libigl",
+  "date": "2023-09-27T01:39:36",
+  "languages": {
+    "C++": 6186704,
+    "C": 92769,
+    "CMake": 77645,
+    "Shell": 305,
+    "MATLAB": 299
+  },
+  "size": 6357722
+}

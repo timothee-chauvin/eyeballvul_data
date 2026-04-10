@@ -1,0 +1,11 @@
+{
+  "commit": "bd96b66fb5698f04678ccc76f97c14ab75510246",
+  "repo_url": "https://github.com/libp2p/rust-libp2p",
+  "date": "2019-05-15T14:50:43",
+  "languages": {
+    "Rust": 1611153,
+    "Shell": 2414,
+    "Dockerfile": 50
+  },
+  "size": 1613617
+}

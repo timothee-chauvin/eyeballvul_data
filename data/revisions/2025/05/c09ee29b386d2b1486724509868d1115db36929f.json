@@ -1,0 +1,12 @@
+{
+  "commit": "c09ee29b386d2b1486724509868d1115db36929f",
+  "repo_url": "https://github.com/risc0/risc0-ethereum",
+  "date": "2025-05-13T16:30:26",
+  "languages": {
+    "Rust": 594100,
+    "Solidity": 163664,
+    "Shell": 12552,
+    "Python": 7351
+  },
+  "size": 777667
+}

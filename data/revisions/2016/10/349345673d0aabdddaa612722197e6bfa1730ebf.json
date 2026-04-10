@@ -1,0 +1,13 @@
+{
+  "commit": "349345673d0aabdddaa612722197e6bfa1730ebf",
+  "repo_url": "https://github.com/support-project/knowledge",
+  "date": "2016-10-31T22:29:44",
+  "languages": {
+    "Java": 2300998,
+    "JavaScript": 128650,
+    "CSS": 24801,
+    "HTML": 2403,
+    "Procfile": 87
+  },
+  "size": 2456939
+}

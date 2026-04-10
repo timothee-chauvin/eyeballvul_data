@@ -1,0 +1,11 @@
+{
+  "commit": "922979a6d407f458efbe64054dcfd97ee924cde8",
+  "repo_url": "https://github.com/openmrs/openmrs-module-fhir2",
+  "date": "2025-04-23T12:03:26",
+  "languages": {
+    "Java": 5630139,
+    "HTML": 151478,
+    "Dockerfile": 107
+  },
+  "size": 5781724
+}

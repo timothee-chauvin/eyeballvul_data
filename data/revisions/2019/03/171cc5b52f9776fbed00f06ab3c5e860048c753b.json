@@ -1,0 +1,12 @@
+{
+  "commit": "171cc5b52f9776fbed00f06ab3c5e860048c753b",
+  "repo_url": "https://github.com/openstack/ironic-inspector",
+  "date": "2019-03-18T15:35:35",
+  "languages": {
+    "Python": 753260,
+    "Shell": 27155,
+    "Mako": 972,
+    "Roff": 757
+  },
+  "size": 782144
+}

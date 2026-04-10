@@ -1,0 +1,12 @@
+{
+  "commit": "65c3da4bf166ebeee5937d4b5e46a495606fab4f",
+  "repo_url": "https://github.com/open-amt-cloud-toolkit/open-amt-cloud-toolkit",
+  "date": "2022-03-29T21:54:34",
+  "languages": {
+    "Mustache": 1967,
+    "PowerShell": 635,
+    "Makefile": 585,
+    "Dockerfile": 305
+  },
+  "size": 3492
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "21f2982f3a0e10533ea62e9c06b2915b63e8d8f3",
+  "repo_url": "https://github.com/opendreambox/opendreambox",
+  "date": "2012-03-30T20:45:41",
+  "languages": {
+    "BitBake": 160848,
+    "Shell": 144197,
+    "Makefile": 15018,
+    "M4": 13625,
+    "Python": 2872,
+    "HTML": 560,
+    "C++": 31
+  },
+  "size": 337151
+}

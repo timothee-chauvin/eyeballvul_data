@@ -1,0 +1,20 @@
+{
+  "commit": "3403a6fd9c71ddf0ed8a7177a3214dc56b336aa6",
+  "repo_url": "https://github.com/swi-prolog/swipl-devel",
+  "date": "2015-08-25T11:11:51",
+  "languages": {
+    "C": 3550926,
+    "Prolog": 2658226,
+    "Makefile": 62812,
+    "Shell": 55241,
+    "Roff": 34797,
+    "NSIS": 33801,
+    "Batchfile": 22007,
+    "Scilab": 16584,
+    "TeX": 6145,
+    "M4": 3733,
+    "HTML": 3508,
+    "Perl": 1324
+  },
+  "size": 6449104
+}

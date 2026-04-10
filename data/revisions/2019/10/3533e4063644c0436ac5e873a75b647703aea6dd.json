@@ -1,0 +1,13 @@
+{
+  "commit": "3533e4063644c0436ac5e873a75b647703aea6dd",
+  "repo_url": "https://github.com/quartz-scheduler/quartz",
+  "date": "2019-10-23T16:28:13",
+  "languages": {
+    "Java": 3144016,
+    "TSQL": 20284,
+    "Batchfile": 15359,
+    "Shell": 10891,
+    "HTML": 4082
+  },
+  "size": 3194632
+}

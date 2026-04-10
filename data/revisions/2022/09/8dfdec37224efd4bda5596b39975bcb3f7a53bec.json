@@ -1,0 +1,17 @@
+{
+  "commit": "8dfdec37224efd4bda5596b39975bcb3f7a53bec",
+  "repo_url": "https://github.com/freedomofpress/securedrop",
+  "date": "2022-09-28T16:01:19",
+  "languages": {
+    "Python": 1616470,
+    "CSS": 122554,
+    "Shell": 110738,
+    "HTML": 75521,
+    "JavaScript": 64762,
+    "Jinja": 46564,
+    "Makefile": 21589,
+    "Dockerfile": 8224,
+    "Mako": 510
+  },
+  "size": 2066932
+}

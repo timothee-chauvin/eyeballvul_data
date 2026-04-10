@@ -1,0 +1,13 @@
+{
+  "commit": "e7b91f204062ea10dd166ede246ee0a777d09bbc",
+  "repo_url": "https://github.com/appwrite/appwrite",
+  "date": "2022-01-07T14:18:26",
+  "languages": {
+    "JavaScript": 527650,
+    "PHP": 213829,
+    "Less": 211423,
+    "Dockerfile": 9541,
+    "Shell": 4622
+  },
+  "size": 967065
+}

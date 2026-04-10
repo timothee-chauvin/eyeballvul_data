@@ -1,0 +1,14 @@
+{
+  "commit": "f4e45d8e81f1e381d78bbd5390684eed05bb6090",
+  "repo_url": "https://github.com/getdokan/dokan",
+  "date": "2017-03-16T16:10:25",
+  "languages": {
+    "PHP": 846750,
+    "JavaScript": 159523,
+    "Less": 142431,
+    "Hack": 2400,
+    "CSS": 2332,
+    "Shell": 2137
+  },
+  "size": 1155573
+}

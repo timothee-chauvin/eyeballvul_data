@@ -1,0 +1,13 @@
+{
+  "commit": "cc0c25e71c57df1245beb7f545773ccb4653be90",
+  "repo_url": "https://github.com/mistio/mist-ce",
+  "date": "2022-07-31T11:27:47",
+  "languages": {
+    "Python": 11842,
+    "Shell": 2085,
+    "Dockerfile": 1704,
+    "HTML": 1562,
+    "Mustache": 1419
+  },
+  "size": 18612
+}

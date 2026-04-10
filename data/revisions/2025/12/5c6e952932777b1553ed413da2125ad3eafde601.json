@@ -1,0 +1,22 @@
+{
+  "commit": "5c6e952932777b1553ed413da2125ad3eafde601",
+  "repo_url": "https://github.com/wasmedge/wasmedge",
+  "date": "2025-12-11T07:56:10",
+  "languages": {
+    "C++": 7105604,
+    "C": 216656,
+    "CMake": 192937,
+    "Shell": 70925,
+    "Python": 60940,
+    "Rust": 15711,
+    "WebAssembly": 11799,
+    "HCL": 6111,
+    "Makefile": 1839,
+    "Kotlin": 1732,
+    "Nix": 1453,
+    "Objective-C++": 840,
+    "JavaScript": 290,
+    "Dockerfile": 30
+  },
+  "size": 7686867
+}

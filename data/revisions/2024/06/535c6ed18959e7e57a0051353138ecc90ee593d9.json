@@ -1,0 +1,11 @@
+{
+  "commit": "535c6ed18959e7e57a0051353138ecc90ee593d9",
+  "repo_url": "https://github.com/lif-platforms/new-ringer-server",
+  "date": "2024-06-02T01:00:17",
+  "languages": {
+    "Python": 21288,
+    "Dockerfile": 567,
+    "HTML": 15
+  },
+  "size": 21870
+}

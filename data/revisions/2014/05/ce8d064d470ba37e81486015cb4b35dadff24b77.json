@@ -1,0 +1,11 @@
+{
+  "commit": "ce8d064d470ba37e81486015cb4b35dadff24b77",
+  "repo_url": "https://github.com/jenkinsci/reverse-proxy-auth-plugin",
+  "date": "2014-05-27T11:47:17",
+  "languages": {
+    "Java": 53582,
+    "Groovy": 6326,
+    "HTML": 853
+  },
+  "size": 60761
+}

@@ -1,0 +1,33 @@
+{
+  "commit": "669129e21bacbcff05d8ef47f43dd2be160f964c",
+  "repo_url": "https://github.com/payara/payara",
+  "date": "2022-10-26T10:05:07",
+  "languages": {
+    "Java": 64912764,
+    "HTML": 6772657,
+    "Roff": 1207908,
+    "CSS": 798764,
+    "C": 509087,
+    "GAP": 350375,
+    "Python": 273369,
+    "Shell": 208882,
+    "C++": 194183,
+    "JavaScript": 146337,
+    "NASL": 129772,
+    "PHP": 103785,
+    "Batchfile": 64575,
+    "FreeMarker": 55182,
+    "Ruby": 40961,
+    "VBScript": 31593,
+    "SourcePawn": 29725,
+    "Groovy": 17820,
+    "Makefile": 14121,
+    "Pawn": 8773,
+    "C#": 8335,
+    "PLSQL": 8069,
+    "Dockerfile": 7717,
+    "DIGITAL Command Language": 3784,
+    "Module Management System": 1548
+  },
+  "size": 75900086
+}

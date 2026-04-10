@@ -1,0 +1,12 @@
+{
+  "commit": "e5b172627a2dd36cfae5893ab673f62ace513d93",
+  "repo_url": "https://github.com/icewhaletech/casaos",
+  "date": "2023-07-10T06:59:46",
+  "languages": {
+    "Go": 302039,
+    "Shell": 34677,
+    "HTML": 628,
+    "Makefile": 269
+  },
+  "size": 337613
+}

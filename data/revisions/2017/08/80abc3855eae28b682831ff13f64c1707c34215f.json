@@ -1,0 +1,21 @@
+{
+  "commit": "80abc3855eae28b682831ff13f64c1707c34215f",
+  "repo_url": "https://github.com/icinga/icinga2",
+  "date": "2017-08-02T13:58:38",
+  "languages": {
+    "C++": 3350396,
+    "Python": 121904,
+    "CMake": 101781,
+    "PLpgSQL": 71062,
+    "Yacc": 42906,
+    "Shell": 27212,
+    "C#": 21945,
+    "C": 15153,
+    "LLVM": 14141,
+    "Vim Script": 10736,
+    "Tcl": 2512,
+    "PowerShell": 1008,
+    "Makefile": 290
+  },
+  "size": 3781046
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "4d8a5efe57d847ab2adb59ad026ddca076c60ca1",
+  "repo_url": "https://github.com/apache/bookkeeper",
+  "date": "2021-02-18T07:47:12",
+  "languages": {
+    "Java": 14385296,
+    "Python": 244487,
+    "Shell": 171196,
+    "Groovy": 96013,
+    "Roff": 39396,
+    "JavaScript": 33860,
+    "C++": 17844,
+    "HTML": 17156,
+    "Dockerfile": 13492,
+    "Makefile": 7325,
+    "Sass": 6334,
+    "C": 4163,
+    "CSS": 3631,
+    "Thrift": 1473,
+    "Ruby": 792
+  },
+  "size": 15042458
+}

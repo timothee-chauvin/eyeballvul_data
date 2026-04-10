@@ -1,0 +1,20 @@
+{
+  "commit": "cc894fa49465aacb9f5b7453a99d6a100995cc63",
+  "repo_url": "https://github.com/bokeh/bokeh",
+  "date": "2020-03-09T03:55:28",
+  "languages": {
+    "Python": 3993868,
+    "TypeScript": 2209900,
+    "HTML": 63750,
+    "Less": 26672,
+    "JavaScript": 25160,
+    "CSS": 7403,
+    "Jinja": 5055,
+    "Dockerfile": 3788,
+    "Batchfile": 1329,
+    "Makefile": 886,
+    "Shell": 799,
+    "Roff": 495
+  },
+  "size": 6339105
+}

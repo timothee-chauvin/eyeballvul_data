@@ -1,0 +1,12 @@
+{
+  "commit": "ca84455a92e228cd93d878f46488fcc479273817",
+  "repo_url": "https://github.com/openstack/mistral",
+  "date": "2018-08-08T14:36:47",
+  "languages": {
+    "Python": 2377298,
+    "Shell": 28813,
+    "Dockerfile": 2086,
+    "Mako": 951
+  },
+  "size": 2409148
+}

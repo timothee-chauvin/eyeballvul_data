@@ -1,0 +1,21 @@
+{
+  "commit": "b7377c0419ae5c1ce91e8298f075b3ff15636c54",
+  "repo_url": "https://github.com/crystal-lang/crystal",
+  "date": "2022-04-22T18:57:50",
+  "languages": {
+    "Crystal": 10760485,
+    "JavaScript": 58236,
+    "Shell": 33285,
+    "HTML": 28862,
+    "C++": 22291,
+    "CSS": 15239,
+    "PowerShell": 9856,
+    "Makefile": 7988,
+    "Nix": 3805,
+    "Python": 2124,
+    "C": 1865,
+    "Ruby": 133,
+    "Batchfile": 98
+  },
+  "size": 10944267
+}

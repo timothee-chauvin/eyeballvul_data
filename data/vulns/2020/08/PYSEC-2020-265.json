@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-265",
+  "published": "2020-08-21T17:15:00",
+  "modified": "2026-02-22T22:49:33.778985",
+  "details": "In Red Discord Bot before version 3.3.11, a RCE exploit has been discovered in the Trivia module: this exploit allows Discord users with specifically crafted usernames to inject code into the Trivia module's leaderboard command. By abusing this exploit, it's possible to perform destructive actions and/or access sensitive information. This critical exploit has been fixed on version 3.3.11.",
+  "repo_url": "https://github.com/cog-creators/red-discordbot",
+  "cwes": [],
+  "commits": [
+    "0cd3bede0dc8c28810f6ef060aa8cfafaaf466d4"
+  ]
+}

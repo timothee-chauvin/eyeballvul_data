@@ -1,0 +1,18 @@
+{
+  "commit": "ce24b1fa5f4ab2d128329b233d50c474cee1d3c0",
+  "repo_url": "https://github.com/kiwix/libkiwix",
+  "date": "2022-02-02T15:06:18",
+  "languages": {
+    "C++": 647897,
+    "JavaScript": 120155,
+    "Java": 29412,
+    "CSS": 16913,
+    "HTML": 11564,
+    "Meson": 10031,
+    "Python": 6292,
+    "Shell": 2891,
+    "C": 1689,
+    "Roff": 557
+  },
+  "size": 847401
+}

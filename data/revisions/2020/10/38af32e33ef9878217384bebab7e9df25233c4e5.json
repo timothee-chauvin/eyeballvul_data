@@ -1,0 +1,10 @@
+{
+  "commit": "38af32e33ef9878217384bebab7e9df25233c4e5",
+  "repo_url": "https://github.com/pyo3/pyo3",
+  "date": "2020-10-12T15:18:25",
+  "languages": {
+    "Rust": 1108832,
+    "Makefile": 723
+  },
+  "size": 1109555
+}

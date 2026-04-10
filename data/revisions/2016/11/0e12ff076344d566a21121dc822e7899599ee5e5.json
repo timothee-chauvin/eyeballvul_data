@@ -1,0 +1,18 @@
+{
+  "commit": "0e12ff076344d566a21121dc822e7899599ee5e5",
+  "repo_url": "https://github.com/opencats/opencats",
+  "date": "2016-11-22T20:14:17",
+  "languages": {
+    "PHP": 4916433,
+    "Smarty": 1046939,
+    "HTML": 741746,
+    "JavaScript": 485113,
+    "Gherkin": 173975,
+    "CSS": 83914,
+    "Shell": 25085,
+    "Awk": 1916,
+    "Dockerfile": 1076,
+    "Rich Text Format": 267
+  },
+  "size": 7476464
+}

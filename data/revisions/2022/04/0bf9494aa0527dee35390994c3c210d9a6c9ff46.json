@@ -1,0 +1,19 @@
+{
+  "commit": "0bf9494aa0527dee35390994c3c210d9a6c9ff46",
+  "repo_url": "https://github.com/bytebase/bytebase",
+  "date": "2022-04-28T09:24:27",
+  "languages": {
+    "Go": 1516172,
+    "Vue": 1273598,
+    "TypeScript": 445589,
+    "PLpgSQL": 119530,
+    "Shell": 11494,
+    "JavaScript": 9281,
+    "CSS": 7480,
+    "Dockerfile": 2709,
+    "BitBake": 1572,
+    "HTML": 472,
+    "Smarty": 290
+  },
+  "size": 3388187
+}

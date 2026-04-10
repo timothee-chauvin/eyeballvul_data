@@ -1,0 +1,17 @@
+{
+  "commit": "10da1157cb27216d89e651a43750686bb9ea5ea4",
+  "repo_url": "https://github.com/thethingsnetwork/lorawan-stack",
+  "date": "2022-01-12T12:02:26",
+  "languages": {
+    "Go": 8090063,
+    "JavaScript": 2932875,
+    "Stylus": 216820,
+    "Lua": 10215,
+    "CSS": 4741,
+    "Shell": 2208,
+    "Makefile": 2093,
+    "Dockerfile": 1480,
+    "HTML": 270
+  },
+  "size": 11260765
+}

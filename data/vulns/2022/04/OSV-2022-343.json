@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2022-343",
+  "published": "2022-04-15T00:01:30.888554",
+  "modified": "2022-08-03T00:19:59.503915",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=46696\n\n```\nCrash type: Uncaught exception\nCrash state:\ncom.alibaba.fastjson.JSONPath.getPropertyValue\njava.base/jdk.internal.math.FDBigInteger.multByPow52\njava.base/jdk.internal.math.FloatingDecimal$ASCIIToBinaryBuffer.floatValue\n```\n",
+  "summary": "Uncaught exception in com.alibaba.fastjson.JSONPath.getPropertyValue",
+  "repo_url": "https://github.com/alibaba/fastjson",
+  "cwes": [],
+  "commits": [
+    "f56b5d895f97f4cc3bd787c600a3ee67ba56d4db"
+  ]
+}

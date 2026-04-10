@@ -1,0 +1,15 @@
+{
+  "commit": "bd65af5487657d8e42cb5063732e3e58cf14e674",
+  "repo_url": "https://github.com/facebook/lexical",
+  "date": "2023-03-24T18:06:12",
+  "languages": {
+    "JavaScript": 3223716,
+    "TypeScript": 2591012,
+    "HTML": 429075,
+    "CSS": 74413,
+    "Shell": 13957,
+    "PowerShell": 4150,
+    "MDX": 439
+  },
+  "size": 6336762
+}

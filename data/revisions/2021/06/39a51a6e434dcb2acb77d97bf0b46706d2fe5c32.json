@@ -1,0 +1,14 @@
+{
+  "commit": "39a51a6e434dcb2acb77d97bf0b46706d2fe5c32",
+  "repo_url": "https://github.com/gorhill/ublock",
+  "date": "2021-06-19T15:22:50",
+  "languages": {
+    "JavaScript": 1877749,
+    "CSS": 117043,
+    "WebAssembly": 71118,
+    "HTML": 69938,
+    "Shell": 14656,
+    "Python": 8879
+  },
+  "size": 2159383
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "aa1b6c0c31c4b3b703e16e554a15ed2a019aad47",
+  "repo_url": "https://github.com/kubernetes-retired/dashboard",
+  "date": "2018-08-23T20:20:34",
+  "languages": {
+    "JavaScript": 1550679,
+    "Go": 1106695,
+    "HTML": 497681,
+    "SCSS": 76033,
+    "Shell": 7622,
+    "Dockerfile": 2985,
+    "XSLT": 2532
+  },
+  "size": 3244227
+}

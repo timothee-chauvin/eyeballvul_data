@@ -1,0 +1,25 @@
+{
+  "commit": "9fef06e59ca1268a1877cc2a83389d4980a5d9f3",
+  "repo_url": "https://github.com/apple/swift",
+  "date": "2017-12-04T14:04:29",
+  "languages": {
+    "C++": 27400008,
+    "Swift": 21669934,
+    "Python": 1031588,
+    "CMake": 427173,
+    "Objective-C": 321015,
+    "Objective-C++": 248026,
+    "Shell": 198679,
+    "C": 100313,
+    "LLVM": 62046,
+    "Emacs Lisp": 57055,
+    "Vim Script": 15610,
+    "DTrace": 2438,
+    "Perl": 2211,
+    "Ruby": 2091,
+    "Makefile": 1841,
+    "D": 1107,
+    "Batchfile": 34
+  },
+  "size": 51541169
+}

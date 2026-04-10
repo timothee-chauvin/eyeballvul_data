@@ -1,0 +1,14 @@
+{
+  "commit": "8583a856079b9273c97d1b7826dcf5c8ab311ce5",
+  "repo_url": "https://github.com/lemmynet/lemmy",
+  "date": "2023-12-18T19:20:42",
+  "languages": {
+    "Rust": 1467130,
+    "PLpgSQL": 324147,
+    "TypeScript": 102375,
+    "Shell": 27952,
+    "Dockerfile": 3753,
+    "JavaScript": 70
+  },
+  "size": 1925427
+}

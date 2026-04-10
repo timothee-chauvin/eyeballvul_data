@@ -1,0 +1,16 @@
+{
+  "commit": "26c6f51348ced7225996a2144c7fd725310b84a5",
+  "repo_url": "https://github.com/pyinstaller/pyinstaller",
+  "date": "2015-10-04T14:58:58",
+  "languages": {
+    "Python": 1723439,
+    "C": 501451,
+    "Shell": 4461,
+    "PowerShell": 2749,
+    "TeX": 2191,
+    "Batchfile": 1908,
+    "QML": 249,
+    "VBScript": 166
+  },
+  "size": 2236614
+}

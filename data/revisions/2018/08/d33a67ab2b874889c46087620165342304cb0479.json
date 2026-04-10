@@ -1,0 +1,11 @@
+{
+  "commit": "d33a67ab2b874889c46087620165342304cb0479",
+  "repo_url": "https://github.com/jenkinsci/jira-plugin",
+  "date": "2018-08-22T08:01:02",
+  "languages": {
+    "Java": 445688,
+    "HTML": 14253,
+    "Groovy": 8637
+  },
+  "size": 468578
+}

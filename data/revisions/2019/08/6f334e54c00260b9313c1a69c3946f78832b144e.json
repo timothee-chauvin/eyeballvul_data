@@ -1,0 +1,12 @@
+{
+  "commit": "6f334e54c00260b9313c1a69c3946f78832b144e",
+  "repo_url": "https://github.com/keycloak/keycloak-nodejs-connect",
+  "date": "2019-08-20T12:03:56",
+  "languages": {
+    "JavaScript": 144582,
+    "Shell": 3345,
+    "HTML": 1976,
+    "Makefile": 170
+  },
+  "size": 150073
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "42bfa2616ba9c0562716681a084e385449269e0d",
+  "repo_url": "https://github.com/redisearch/redisearch",
+  "date": "2024-08-22T07:13:30",
+  "languages": {
+    "C": 3054210,
+    "Python": 1352228,
+    "C++": 351510,
+    "Shell": 62281,
+    "Yacc": 47608,
+    "Makefile": 22872,
+    "Ragel": 19498,
+    "CMake": 15788
+  },
+  "size": 4925995
+}

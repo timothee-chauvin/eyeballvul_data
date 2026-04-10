@@ -1,0 +1,12 @@
+{
+  "commit": "fe5800393453e864b60de3be1486a511a5b7cf8a",
+  "repo_url": "https://github.com/python-poetry/poetry",
+  "date": "2020-10-06T19:58:11",
+  "languages": {
+    "Python": 1115517,
+    "HTML": 234384,
+    "Makefile": 1852,
+    "Shell": 658
+  },
+  "size": 1352411
+}

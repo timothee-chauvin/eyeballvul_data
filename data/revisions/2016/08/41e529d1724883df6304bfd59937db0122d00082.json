@@ -1,0 +1,17 @@
+{
+  "commit": "41e529d1724883df6304bfd59937db0122d00082",
+  "repo_url": "https://github.com/apache/couchdb",
+  "date": "2016-08-11T21:18:08",
+  "languages": {
+    "JavaScript": 684096,
+    "Shell": 29229,
+    "Python": 26586,
+    "Ruby": 23957,
+    "Erlang": 10923,
+    "Makefile": 10642,
+    "PowerShell": 8550,
+    "Batchfile": 1075,
+    "Dockerfile": 808
+  },
+  "size": 795866
+}

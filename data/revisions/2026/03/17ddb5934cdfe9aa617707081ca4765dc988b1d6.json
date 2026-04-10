@@ -1,0 +1,20 @@
+{
+  "commit": "17ddb5934cdfe9aa617707081ca4765dc988b1d6",
+  "repo_url": "https://github.com/roadiz/core-bundle-dev-app",
+  "date": "2026-03-19T10:36:20",
+  "languages": {
+    "PHP": 4040544,
+    "Twig": 610429,
+    "JavaScript": 316822,
+    "Less": 280384,
+    "TypeScript": 88531,
+    "CSS": 84838,
+    "Vue": 76302,
+    "Dockerfile": 8276,
+    "HTML": 7017,
+    "VCL": 7001,
+    "Makefile": 3931,
+    "Shell": 299
+  },
+  "size": 5524374
+}

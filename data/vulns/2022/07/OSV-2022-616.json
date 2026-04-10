@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2022-616",
+  "published": "2022-07-24T00:01:38.754389",
+  "modified": "2022-07-24T00:01:38.754608",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=49401\n\n```\nCrash type: Timeout\nCrash state:\nJsonFuzzer\n```\n",
+  "summary": "Timeout in JsonFuzzer",
+  "repo_url": "https://github.com/alibaba/fastjson",
+  "cwes": [],
+  "commits": [
+    "f56b5d895f97f4cc3bd787c600a3ee67ba56d4db"
+  ]
+}

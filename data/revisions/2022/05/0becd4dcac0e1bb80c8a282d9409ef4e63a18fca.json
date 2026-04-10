@@ -1,0 +1,11 @@
+{
+  "commit": "0becd4dcac0e1bb80c8a282d9409ef4e63a18fca",
+  "repo_url": "https://github.com/opensearch-project/opensearch-ruby",
+  "date": "2022-05-26T23:07:17",
+  "languages": {
+    "Ruby": 1858534,
+    "Shell": 2624,
+    "Makefile": 1505
+  },
+  "size": 1862663
+}

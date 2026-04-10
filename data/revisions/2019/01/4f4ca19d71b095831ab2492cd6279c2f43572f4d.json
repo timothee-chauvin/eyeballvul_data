@@ -1,0 +1,13 @@
+{
+  "commit": "4f4ca19d71b095831ab2492cd6279c2f43572f4d",
+  "repo_url": "https://github.com/apache/shardingsphere",
+  "date": "2019-01-03T15:13:37",
+  "languages": {
+    "Java": 4051910,
+    "ANTLR": 107455,
+    "Shell": 1939,
+    "Batchfile": 837,
+    "Dockerfile": 232
+  },
+  "size": 4162373
+}

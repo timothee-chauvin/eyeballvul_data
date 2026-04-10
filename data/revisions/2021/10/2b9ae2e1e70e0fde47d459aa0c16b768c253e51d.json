@@ -1,0 +1,16 @@
+{
+  "commit": "2b9ae2e1e70e0fde47d459aa0c16b768c253e51d",
+  "repo_url": "https://github.com/stevenweathers/thunderdome-planning-poker",
+  "date": "2021-10-28T23:27:07",
+  "languages": {
+    "Svelte": 285762,
+    "Go": 173194,
+    "PLpgSQL": 48169,
+    "JavaScript": 30845,
+    "CSS": 3826,
+    "Makefile": 2102,
+    "Dockerfile": 2081,
+    "HTML": 1645
+  },
+  "size": 547624
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "245c54796f790cb70703f069bc429a8b9c5e0e49",
+  "repo_url": "https://github.com/openstack/nova",
+  "date": "2017-02-03T18:08:56",
+  "languages": {
+    "Python": 18791432,
+    "Smarty": 307162,
+    "Shell": 44572,
+    "C++": 3325
+  },
+  "size": 19146491
+}

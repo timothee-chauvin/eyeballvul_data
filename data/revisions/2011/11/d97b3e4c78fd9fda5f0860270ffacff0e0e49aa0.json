@@ -1,0 +1,15 @@
+{
+  "commit": "d97b3e4c78fd9fda5f0860270ffacff0e0e49aa0",
+  "repo_url": "https://github.com/dotclear/dotclear",
+  "date": "2011-11-13T14:15:42",
+  "languages": {
+    "PHP": 1291075,
+    "HTML": 903995,
+    "JavaScript": 416563,
+    "CSS": 101230,
+    "Shell": 4025,
+    "Makefile": 3583,
+    "XSLT": 3296
+  },
+  "size": 2723767
+}

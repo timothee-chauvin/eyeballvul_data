@@ -1,0 +1,12 @@
+{
+  "commit": "60858110276cb95d52d2af03a1af9950e52b2c4d",
+  "repo_url": "https://github.com/spring-cloud/spring-cloud-config",
+  "date": "2019-03-05T16:17:47",
+  "languages": {
+    "Java": 942936,
+    "Shell": 65638,
+    "Ruby": 488,
+    "Groovy": 140
+  },
+  "size": 1009202
+}

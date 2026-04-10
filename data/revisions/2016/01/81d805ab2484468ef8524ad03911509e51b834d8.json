@@ -1,0 +1,17 @@
+{
+  "commit": "81d805ab2484468ef8524ad03911509e51b834d8",
+  "repo_url": "https://github.com/podlove/podlove-publisher",
+  "date": "2016-01-08T00:38:08",
+  "languages": {
+    "PHP": 1036571,
+    "JavaScript": 396615,
+    "CSS": 36869,
+    "Twig": 12747,
+    "Ruby": 5084,
+    "Shell": 3681,
+    "Makefile": 1805,
+    "HTML": 1113,
+    "Hack": 348
+  },
+  "size": 1494833
+}

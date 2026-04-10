@@ -1,0 +1,12 @@
+{
+  "commit": "2291f610ae73533e6e0749d4ef1e360149b1e46b",
+  "repo_url": "https://github.com/docker/cli",
+  "date": "2020-12-22T17:32:20",
+  "languages": {
+    "Go": 2576734,
+    "Shell": 308859,
+    "PowerShell": 10115,
+    "Makefile": 9769
+  },
+  "size": 2905477
+}

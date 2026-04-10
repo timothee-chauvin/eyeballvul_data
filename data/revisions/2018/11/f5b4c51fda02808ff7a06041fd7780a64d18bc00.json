@@ -1,0 +1,17 @@
+{
+  "commit": "f5b4c51fda02808ff7a06041fd7780a64d18bc00",
+  "repo_url": "https://github.com/videolan/vlc-ios",
+  "date": "2018-11-18T16:49:37",
+  "languages": {
+    "Objective-C": 1438027,
+    "HTML": 209167,
+    "Swift": 71306,
+    "JavaScript": 32721,
+    "CSS": 19477,
+    "Python": 15341,
+    "C": 13014,
+    "Ruby": 7759,
+    "Shell": 1001
+  },
+  "size": 1807813
+}

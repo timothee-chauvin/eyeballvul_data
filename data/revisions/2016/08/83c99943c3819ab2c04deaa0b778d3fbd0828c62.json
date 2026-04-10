@@ -1,0 +1,12 @@
+{
+  "commit": "83c99943c3819ab2c04deaa0b778d3fbd0828c62",
+  "repo_url": "https://github.com/borgbackup/borg",
+  "date": "2016-08-27T22:17:24",
+  "languages": {
+    "Python": 747820,
+    "Cython": 41967,
+    "C": 25406,
+    "Shell": 2060
+  },
+  "size": 817253
+}

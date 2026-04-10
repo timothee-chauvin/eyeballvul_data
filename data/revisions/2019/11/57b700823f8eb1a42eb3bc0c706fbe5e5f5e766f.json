@@ -1,0 +1,14 @@
+{
+  "commit": "57b700823f8eb1a42eb3bc0c706fbe5e5f5e766f",
+  "repo_url": "https://github.com/d4software/querytree",
+  "date": "2019-11-23T07:17:27",
+  "languages": {
+    "JavaScript": 644903,
+    "C#": 391922,
+    "HTML": 305379,
+    "CSS": 275255,
+    "Less": 11138,
+    "Dockerfile": 522
+  },
+  "size": 1629119
+}

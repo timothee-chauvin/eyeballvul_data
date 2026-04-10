@@ -1,0 +1,14 @@
+{
+  "commit": "ffe1fb35ca4317b7de53688222f6f8877deaee52",
+  "repo_url": "https://github.com/podofo/podofo",
+  "date": "2021-01-09T15:23:54",
+  "languages": {
+    "C++": 3649175,
+    "CMake": 79327,
+    "C": 17126,
+    "HTML": 13283,
+    "Lua": 6137,
+    "Shell": 1712
+  },
+  "size": 3766760
+}

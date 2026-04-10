@@ -1,0 +1,15 @@
+{
+  "commit": "38b0f0eedd07197e504a8668fb60d1235cc8d34f",
+  "repo_url": "https://github.com/desktop/desktop",
+  "date": "2018-10-26T17:02:01",
+  "languages": {
+    "TypeScript": 2215063,
+    "SCSS": 150972,
+    "Shell": 2603,
+    "JavaScript": 2044,
+    "HTML": 1436,
+    "PowerShell": 634,
+    "Batchfile": 533
+  },
+  "size": 2373285
+}

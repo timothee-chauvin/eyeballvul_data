@@ -1,0 +1,12 @@
+{
+  "commit": "80a8a1ba10c5743f072bd4c7a041b0ff25a64a2d",
+  "repo_url": "https://github.com/kovah/linkace",
+  "date": "2022-05-02T07:39:18",
+  "languages": {
+    "PHP": 763140,
+    "Blade": 303571,
+    "Dockerfile": 8636,
+    "Shell": 2189
+  },
+  "size": 1077536
+}

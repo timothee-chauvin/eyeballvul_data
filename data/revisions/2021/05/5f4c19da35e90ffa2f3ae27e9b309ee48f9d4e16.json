@@ -1,0 +1,14 @@
+{
+  "commit": "5f4c19da35e90ffa2f3ae27e9b309ee48f9d4e16",
+  "repo_url": "https://github.com/kong/insomnia",
+  "date": "2021-05-12T06:35:00",
+  "languages": {
+    "JavaScript": 4849337,
+    "TypeScript": 2998620,
+    "Less": 95804,
+    "HTML": 29320,
+    "CSS": 11256,
+    "Shell": 4083
+  },
+  "size": 7988420
+}

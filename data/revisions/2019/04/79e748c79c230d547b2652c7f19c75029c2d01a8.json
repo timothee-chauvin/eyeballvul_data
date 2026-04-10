@@ -1,0 +1,10 @@
+{
+  "commit": "79e748c79c230d547b2652c7f19c75029c2d01a8",
+  "repo_url": "https://github.com/jenkinsci/google-kubernetes-engine-plugin",
+  "date": "2019-04-05T19:37:48",
+  "languages": {
+    "Java": 166972,
+    "Dockerfile": 925
+  },
+  "size": 167897
+}

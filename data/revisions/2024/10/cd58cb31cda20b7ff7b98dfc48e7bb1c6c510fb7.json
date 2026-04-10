@@ -1,0 +1,16 @@
+{
+  "commit": "cd58cb31cda20b7ff7b98dfc48e7bb1c6c510fb7",
+  "repo_url": "https://github.com/directus/directus",
+  "date": "2024-10-08T20:42:25",
+  "languages": {
+    "TypeScript": 4998253,
+    "Vue": 1856163,
+    "SCSS": 55344,
+    "Liquid": 28677,
+    "CSS": 27313,
+    "JavaScript": 26281,
+    "Dockerfile": 1684,
+    "HTML": 1189
+  },
+  "size": 6994904
+}

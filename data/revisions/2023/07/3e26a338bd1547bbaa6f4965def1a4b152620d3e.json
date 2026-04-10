@@ -1,0 +1,12 @@
+{
+  "commit": "3e26a338bd1547bbaa6f4965def1a4b152620d3e",
+  "repo_url": "https://github.com/freertos/freertos-plus-tcp",
+  "date": "2023-07-19T10:55:19",
+  "languages": {
+    "C": 8020055,
+    "CMake": 310365,
+    "Python": 91556,
+    "Makefile": 611
+  },
+  "size": 8422587
+}

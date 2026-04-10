@@ -1,0 +1,10 @@
+{
+  "commit": "0067090d6a0d4dbcd28bfc565a706b488bd85395",
+  "repo_url": "https://github.com/emqx/emqx",
+  "date": "2017-06-13T14:21:16",
+  "languages": {
+    "Erlang": 642452,
+    "Makefile": 1508
+  },
+  "size": 643960
+}

@@ -1,0 +1,25 @@
+{
+  "commit": "802da016d6637efe16ea894e6b97321827d3a58c",
+  "repo_url": "https://github.com/mullvad/mullvadvpn-app",
+  "date": "2023-03-03T13:43:19",
+  "languages": {
+    "Rust": 2197403,
+    "Swift": 1101827,
+    "TypeScript": 990385,
+    "Kotlin": 670001,
+    "C++": 268554,
+    "Shell": 104790,
+    "JavaScript": 26231,
+    "NSIS": 23827,
+    "Python": 22326,
+    "C": 15908,
+    "Go": 15062,
+    "Dockerfile": 8174,
+    "Ruby": 6238,
+    "Objective-C": 2642,
+    "CSS": 2503,
+    "Makefile": 1230,
+    "HTML": 986
+  },
+  "size": 5458087
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "4ee7dd2e6e59953cefce80cc2fd63627a9ecbc36",
+  "repo_url": "https://github.com/dsb/mysqldumper",
+  "date": "2011-06-10T22:58:43",
+  "languages": {
+    "PHP": 1099555,
+    "Hack": 111131,
+    "Perl": 43374,
+    "Smarty": 32357,
+    "JavaScript": 24717,
+    "CSS": 20306,
+    "HTML": 179
+  },
+  "size": 1331619
+}

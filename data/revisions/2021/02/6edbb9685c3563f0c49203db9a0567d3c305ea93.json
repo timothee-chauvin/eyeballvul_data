@@ -1,0 +1,14 @@
+{
+  "commit": "6edbb9685c3563f0c49203db9a0567d3c305ea93",
+  "repo_url": "https://github.com/jeedom/core",
+  "date": "2021-02-01T13:40:33",
+  "languages": {
+    "PHP": 2217569,
+    "JavaScript": 905457,
+    "CSS": 345323,
+    "HTML": 200956,
+    "Shell": 22967,
+    "Dockerfile": 173
+  },
+  "size": 3692445
+}

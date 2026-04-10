@@ -1,0 +1,14 @@
+{
+  "commit": "2b1a33346cb545d4c12b59ff4f8618f6e05a1b04",
+  "repo_url": "https://github.com/surrealdb/surrealdb",
+  "date": "2025-04-29T12:12:18",
+  "languages": {
+    "Rust": 5892600,
+    "Nix": 12993,
+    "Dockerfile": 2418,
+    "Makefile": 1095,
+    "Shell": 1006,
+    "DTrace": 733
+  },
+  "size": 5910845
+}

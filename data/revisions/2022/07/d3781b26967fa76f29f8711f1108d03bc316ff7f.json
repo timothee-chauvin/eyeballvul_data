@@ -1,0 +1,15 @@
+{
+  "commit": "d3781b26967fa76f29f8711f1108d03bc316ff7f",
+  "repo_url": "https://github.com/zulip/zulip-mobile",
+  "date": "2022-07-02T00:15:50",
+  "languages": {
+    "JavaScript": 2110053,
+    "Kotlin": 67750,
+    "Shell": 63512,
+    "Java": 21018,
+    "CSS": 15609,
+    "Objective-C": 8339,
+    "Ruby": 1247
+  },
+  "size": 2287528
+}

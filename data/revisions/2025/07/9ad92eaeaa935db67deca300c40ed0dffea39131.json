@@ -1,0 +1,19 @@
+{
+  "commit": "9ad92eaeaa935db67deca300c40ed0dffea39131",
+  "repo_url": "http://github.com/langflow-ai/langflow",
+  "date": "2025-07-08T11:41:53",
+  "languages": {
+    "Python": 4813122,
+    "JavaScript": 2855241,
+    "TypeScript": 2729869,
+    "CSS": 79499,
+    "Dockerfile": 19719,
+    "Makefile": 17057,
+    "Shell": 11751,
+    "PowerShell": 2645,
+    "Batchfile": 1965,
+    "HTML": 1151,
+    "Mako": 789
+  },
+  "size": 10532808
+}

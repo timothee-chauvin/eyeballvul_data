@@ -1,0 +1,23 @@
+{
+  "commit": "3f572f0a3568ad21d7a1175ecde007b222c74cf4",
+  "repo_url": "https://github.com/apache/zookeeper",
+  "date": "2016-07-20T17:03:01",
+  "languages": {
+    "Java": 4044502,
+    "C++": 660471,
+    "C": 535303,
+    "JavaScript": 239387,
+    "Perl": 149434,
+    "Python": 128354,
+    "Shell": 73210,
+    "XS": 66352,
+    "M4": 46802,
+    "HTML": 40639,
+    "Mako": 13678,
+    "Makefile": 10886,
+    "XSLT": 6024,
+    "Batchfile": 4965,
+    "CSS": 4016
+  },
+  "size": 6024023
+}

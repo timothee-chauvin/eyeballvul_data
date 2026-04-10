@@ -1,0 +1,22 @@
+{
+  "commit": "b7b77646e6e2f0b4f785275ed22de147c04f6bc1",
+  "repo_url": "https://github.com/streetwriters/notesnook",
+  "date": "2026-02-16T09:36:42",
+  "languages": {
+    "TypeScript": 6494872,
+    "JavaScript": 993475,
+    "Java": 56962,
+    "CSS": 53055,
+    "HTML": 25900,
+    "Swift": 14672,
+    "Objective-C": 4372,
+    "Ruby": 3742,
+    "Objective-C++": 2813,
+    "OpenEdge ABL": 2720,
+    "Dockerfile": 1037,
+    "Kotlin": 985,
+    "C": 312,
+    "Shell": 79
+  },
+  "size": 7654996
+}

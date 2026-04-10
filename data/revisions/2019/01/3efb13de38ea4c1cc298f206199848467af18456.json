@@ -1,0 +1,12 @@
+{
+  "commit": "3efb13de38ea4c1cc298f206199848467af18456",
+  "repo_url": "https://gitlab.com/davical-project/awl",
+  "date": "2019-01-30T21:54:15",
+  "languages": {
+    "PHP": 424778,
+    "PLpgSQL": 4146,
+    "Makefile": 1889,
+    "Shell": 1544
+  },
+  "size": 432357
+}

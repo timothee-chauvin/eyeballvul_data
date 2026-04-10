@@ -1,0 +1,11 @@
+{
+  "commit": "0f6c831ec1df25bc3dc81d25faae0ed0bac15a96",
+  "repo_url": "https://github.com/nats-io/nats-server",
+  "date": "2026-03-09T15:35:53",
+  "languages": {
+    "Go": 11406671,
+    "Shell": 33808,
+    "PowerShell": 1678
+  },
+  "size": 11442157
+}

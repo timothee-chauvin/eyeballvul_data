@@ -1,0 +1,13 @@
+{
+  "commit": "04b3fc0268c29d4e6f1112eb9ce3145ef7f65997",
+  "repo_url": "https://github.com/apache/cordova-android",
+  "date": "2014-04-30T22:09:54",
+  "languages": {
+    "Java": 839945,
+    "JavaScript": 66276,
+    "HTML": 56922,
+    "Batchfile": 26679,
+    "CSS": 9113
+  },
+  "size": 998935
+}

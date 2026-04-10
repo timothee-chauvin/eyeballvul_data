@@ -1,0 +1,18 @@
+{
+  "commit": "ebd912ef14fc55c2452337643eb9425f13794397",
+  "repo_url": "https://github.com/crmeb/crmeb",
+  "date": "2019-08-05T03:13:34",
+  "languages": {
+    "JavaScript": 6702372,
+    "PHP": 3402349,
+    "Limbo": 1050372,
+    "HTML": 697185,
+    "Hack": 689458,
+    "CSS": 477759,
+    "Smarty": 32252,
+    "Roff": 4068,
+    "PLpgSQL": 3807,
+    "Shell": 317
+  },
+  "size": 13059939
+}

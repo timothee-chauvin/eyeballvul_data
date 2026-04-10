@@ -1,0 +1,16 @@
+{
+  "commit": "6ccb1acc5a9094ec9137f39bc881143d7f51f0b0",
+  "repo_url": "https://github.com/edusoho/edusoho",
+  "date": "2022-10-27T09:46:08",
+  "languages": {
+    "JavaScript": 19103078,
+    "PHP": 17621084,
+    "Twig": 5224340,
+    "Less": 1276135,
+    "CSS": 1004455,
+    "Vue": 834937,
+    "HTML": 51316,
+    "Shell": 9581
+  },
+  "size": 45124926
+}

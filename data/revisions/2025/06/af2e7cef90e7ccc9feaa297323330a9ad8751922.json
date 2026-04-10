@@ -1,0 +1,11 @@
+{
+  "commit": "af2e7cef90e7ccc9feaa297323330a9ad8751922",
+  "repo_url": "https://github.com/isaacs/node-glob",
+  "date": "2025-06-12T20:23:16",
+  "languages": {
+    "TypeScript": 134397,
+    "JavaScript": 22109,
+    "Shell": 8939
+  },
+  "size": 165445
+}

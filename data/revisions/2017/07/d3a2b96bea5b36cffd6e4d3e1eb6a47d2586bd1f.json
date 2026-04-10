@@ -1,0 +1,16 @@
+{
+  "commit": "d3a2b96bea5b36cffd6e4d3e1eb6a47d2586bd1f",
+  "repo_url": "https://github.com/jabberd2/jabberd2",
+  "date": "2017-07-01T15:28:05",
+  "languages": {
+    "C": 1828038,
+    "M4": 52777,
+    "Perl": 42432,
+    "Shell": 17610,
+    "Makefile": 16989,
+    "PLpgSQL": 11999,
+    "Ruby": 4526,
+    "QMake": 1254
+  },
+  "size": 1975625
+}

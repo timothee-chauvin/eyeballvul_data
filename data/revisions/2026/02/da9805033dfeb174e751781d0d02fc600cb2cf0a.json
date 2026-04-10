@@ -1,0 +1,14 @@
+{
+  "commit": "da9805033dfeb174e751781d0d02fc600cb2cf0a",
+  "repo_url": "https://github.com/cloudnativelabs/kube-router",
+  "date": "2026-02-13T22:31:16",
+  "languages": {
+    "Go": 1126820,
+    "Makefile": 12078,
+    "Shell": 4620,
+    "Dockerfile": 2963,
+    "Python": 1025,
+    "Vim Script": 38
+  },
+  "size": 1147544
+}

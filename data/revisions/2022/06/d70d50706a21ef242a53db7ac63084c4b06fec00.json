@@ -1,0 +1,17 @@
+{
+  "commit": "d70d50706a21ef242a53db7ac63084c4b06fec00",
+  "repo_url": "https://github.com/opensearch-project/reporting",
+  "date": "2022-06-27T21:47:21",
+  "languages": {
+    "HTML": 1079417,
+    "TypeScript": 442755,
+    "Kotlin": 404241,
+    "JavaScript": 49637,
+    "Java": 15993,
+    "Shell": 6594,
+    "CSS": 5225,
+    "Python": 1680,
+    "SCSS": 570
+  },
+  "size": 2006112
+}

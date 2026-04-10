@@ -1,0 +1,15 @@
+{
+  "commit": "ccd27f203d7aed5b40f5952c1027418e4791c7cb",
+  "repo_url": "https://github.com/portainer/portainer",
+  "date": "2015-02-01T23:16:43",
+  "languages": {
+    "JavaScript": 67829,
+    "HTML": 42941,
+    "CSS": 3465,
+    "Go": 1927,
+    "Makefile": 453,
+    "Dockerfile": 144,
+    "Procfile": 48
+  },
+  "size": 116807
+}

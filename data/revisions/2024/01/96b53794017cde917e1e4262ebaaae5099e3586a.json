@@ -1,0 +1,16 @@
+{
+  "commit": "96b53794017cde917e1e4262ebaaae5099e3586a",
+  "repo_url": "https://github.com/mautic/mautic",
+  "date": "2024-01-09T11:54:32",
+  "languages": {
+    "PHP": 16666968,
+    "JavaScript": 2281579,
+    "Twig": 1926624,
+    "CSS": 946469,
+    "Less": 345400,
+    "HTML": 340539,
+    "Shell": 4563,
+    "TypeScript": 3272
+  },
+  "size": 22515414
+}

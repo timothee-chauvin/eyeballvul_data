@@ -1,0 +1,14 @@
+{
+  "commit": "590b38889df0d64e212bc1e878ec913dd9f56d33",
+  "repo_url": "https://github.com/kde/messagelib",
+  "date": "2019-07-13T12:17:09",
+  "languages": {
+    "C++": 4632755,
+    "HTML": 351977,
+    "CMake": 128549,
+    "CSS": 13763,
+    "C": 10953,
+    "Shell": 1652
+  },
+  "size": 5139649
+}

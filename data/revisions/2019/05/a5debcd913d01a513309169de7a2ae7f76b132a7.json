@@ -1,0 +1,13 @@
+{
+  "commit": "a5debcd913d01a513309169de7a2ae7f76b132a7",
+  "repo_url": "https://github.com/acinq/eclair",
+  "date": "2019-05-09T17:11:36",
+  "languages": {
+    "Scala": 2466491,
+    "Java": 18611,
+    "CSS": 8465,
+    "Shell": 3870,
+    "Dockerfile": 2517
+  },
+  "size": 2499954
+}

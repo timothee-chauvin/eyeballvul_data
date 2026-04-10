@@ -1,0 +1,10 @@
+{
+  "commit": "484b9f31ec32608d11edb577c307741f364e3cff",
+  "repo_url": "https://github.com/protocolbuffers/protobuf-go",
+  "date": "2023-03-08T15:14:08",
+  "languages": {
+    "Go": 2241632,
+    "Shell": 5930
+  },
+  "size": 2247562
+}

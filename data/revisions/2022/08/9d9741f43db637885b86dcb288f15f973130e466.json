@@ -1,0 +1,14 @@
+{
+  "commit": "9d9741f43db637885b86dcb288f15f973130e466",
+  "repo_url": "https://github.com/apptainer/apptainer",
+  "date": "2022-08-17T11:47:34",
+  "languages": {
+    "Go": 2801545,
+    "Shell": 100693,
+    "C": 84607,
+    "Awk": 15526,
+    "Makefile": 14920,
+    "Python": 4739
+  },
+  "size": 3022030
+}

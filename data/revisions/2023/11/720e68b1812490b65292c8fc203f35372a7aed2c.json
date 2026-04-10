@@ -1,0 +1,14 @@
+{
+  "commit": "720e68b1812490b65292c8fc203f35372a7aed2c",
+  "repo_url": "https://github.com/decidim-ice/decidim-module-decidim_awesome",
+  "date": "2023-11-21T11:45:46",
+  "languages": {
+    "Ruby": 652329,
+    "JavaScript": 69564,
+    "HTML": 62947,
+    "SCSS": 15376,
+    "Shell": 1282,
+    "Dockerfile": 298
+  },
+  "size": 801796
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "5e60136449d678948520085985d7e7f91f9e601c",
+  "repo_url": "https://github.com/eclipse-mosquitto/mosquitto",
+  "date": "2018-05-03T06:55:45",
+  "languages": {
+    "C": 890592,
+    "Python": 248495,
+    "C++": 50428,
+    "Makefile": 40608,
+    "CMake": 13626,
+    "NSIS": 11500,
+    "HTML": 11256,
+    "Shell": 7069,
+    "Perl": 3244,
+    "Dockerfile": 2334,
+    "Ruby": 1368
+  },
+  "size": 1280520
+}

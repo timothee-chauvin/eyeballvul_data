@@ -1,0 +1,19 @@
+{
+  "commit": "67ee529ecf35984c478ab6d6067c999c55da59da",
+  "repo_url": "https://github.com/openfeign/querydsl",
+  "date": "2024-12-13T19:29:22",
+  "languages": {
+    "Java": 7240717,
+    "Kotlin": 137057,
+    "Scala": 135801,
+    "XSLT": 35687,
+    "HTML": 4898,
+    "CSS": 3436,
+    "Shell": 3378,
+    "Clojure": 1890,
+    "Puppet": 1212,
+    "Dockerfile": 662,
+    "Ruby": 389
+  },
+  "size": 7565127
+}

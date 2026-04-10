@@ -1,0 +1,16 @@
+{
+  "commit": "4efae96b1042132ec57cd7c212a3c6a142cec474",
+  "repo_url": "https://github.com/skalenetwork/sgxwallet",
+  "date": "2020-08-27T11:10:52",
+  "languages": {
+    "Shell": 975446,
+    "C++": 838985,
+    "C": 98941,
+    "Makefile": 42396,
+    "M4": 21210,
+    "Python": 9800,
+    "CMake": 2385,
+    "Dockerfile": 319
+  },
+  "size": 1989482
+}

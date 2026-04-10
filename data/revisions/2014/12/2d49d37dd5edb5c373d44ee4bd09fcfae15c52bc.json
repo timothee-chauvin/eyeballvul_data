@@ -1,0 +1,26 @@
+{
+  "commit": "2d49d37dd5edb5c373d44ee4bd09fcfae15c52bc",
+  "repo_url": "https://github.com/simogeo/filemanager",
+  "date": "2014-12-10T12:28:55",
+  "languages": {
+    "JavaScript": 1124080,
+    "HTML": 329020,
+    "PHP": 214167,
+    "CSS": 136264,
+    "Java": 121587,
+    "CoffeeScript": 109703,
+    "ColdFusion": 36893,
+    "C#": 27366,
+    "ActionScript": 20185,
+    "ASP.NET": 14489,
+    "Python": 13862,
+    "Classic ASP": 12587,
+    "Perl": 8745,
+    "Stylus": 7850,
+    "Lasso": 2741,
+    "C++": 2689,
+    "SourcePawn": 1035,
+    "Shell": 853
+  },
+  "size": 2184116
+}

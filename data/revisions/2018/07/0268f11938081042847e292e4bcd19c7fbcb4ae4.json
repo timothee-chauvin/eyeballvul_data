@@ -1,0 +1,23 @@
+{
+  "commit": "0268f11938081042847e292e4bcd19c7fbcb4ae4",
+  "repo_url": "https://github.com/diviproject/divi",
+  "date": "2018-07-09T21:03:07",
+  "languages": {
+    "C++": 4826554,
+    "C": 1058560,
+    "Makefile": 1006156,
+    "Shell": 436792,
+    "Rich Text Format": 369179,
+    "Python": 257055,
+    "M4": 160287,
+    "HTML": 50621,
+    "CSS": 44474,
+    "QMake": 26189,
+    "Roff": 17857,
+    "Assembly": 7639,
+    "Objective-C++": 7276,
+    "Dockerfile": 4043,
+    "Java": 2100
+  },
+  "size": 8274782
+}

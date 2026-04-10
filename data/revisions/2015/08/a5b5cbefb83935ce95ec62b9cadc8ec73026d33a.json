@@ -1,0 +1,18 @@
+{
+  "commit": "a5b5cbefb83935ce95ec62b9cadc8ec73026d33a",
+  "repo_url": "https://github.com/stedolan/jq",
+  "date": "2015-08-18T04:25:04",
+  "languages": {
+    "Roff": 1364811,
+    "C": 626587,
+    "Shell": 365137,
+    "Makefile": 65172,
+    "Yacc": 20996,
+    "M4": 18133,
+    "Lex": 4236,
+    "Dockerfile": 1307,
+    "jq": 1113,
+    "Python": 1026
+  },
+  "size": 2468518
+}

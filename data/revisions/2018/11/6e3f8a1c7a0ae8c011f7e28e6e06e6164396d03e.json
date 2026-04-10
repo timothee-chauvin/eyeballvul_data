@@ -1,0 +1,14 @@
+{
+  "commit": "6e3f8a1c7a0ae8c011f7e28e6e06e6164396d03e",
+  "repo_url": "https://github.com/weaveworks/weave",
+  "date": "2018-11-05T15:34:36",
+  "languages": {
+    "Go": 742659,
+    "Shell": 215693,
+    "Makefile": 19283,
+    "Dockerfile": 5296,
+    "Ruby": 1545,
+    "Python": 1057
+  },
+  "size": 985533
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "62e50fc0d03a0e4a8fc31d638947f1375f837e8e",
+  "repo_url": "https://github.com/intel/openlldp",
+  "date": "2015-01-20T18:42:56",
+  "languages": {
+    "C": 1594948,
+    "Shell": 138581,
+    "Roff": 22664,
+    "Lex": 19662,
+    "Makefile": 5745,
+    "M4": 2447
+  },
+  "size": 1784047
+}

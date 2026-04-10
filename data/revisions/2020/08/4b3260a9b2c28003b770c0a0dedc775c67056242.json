@@ -1,0 +1,19 @@
+{
+  "commit": "4b3260a9b2c28003b770c0a0dedc775c67056242",
+  "repo_url": "https://github.com/brave/brave-ios",
+  "date": "2020-08-05T18:37:11",
+  "languages": {
+    "Swift": 3752539,
+    "C++": 467841,
+    "Objective-C": 185252,
+    "JavaScript": 100540,
+    "HTML": 71187,
+    "Python": 19873,
+    "CSS": 19236,
+    "Shell": 16305,
+    "Ruby": 9484,
+    "C": 4722,
+    "Objective-C++": 1295
+  },
+  "size": 4648274
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "d32356c0e46eefecd164c55899f532c2fed2df57",
+  "repo_url": "https://github.com/celery/celery",
+  "date": "2021-11-16T14:55:01",
+  "languages": {
+    "Python": 2491668,
+    "Shell": 28731,
+    "Dockerfile": 4296,
+    "Makefile": 4110,
+    "Batchfile": 2383
+  },
+  "size": 2531188
+}

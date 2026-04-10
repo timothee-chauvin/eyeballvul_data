@@ -1,0 +1,14 @@
+{
+  "commit": "e57b04ed9410e10ace1a67db09032239a4b6ed53",
+  "repo_url": "https://github.com/volcano-sh/volcano",
+  "date": "2025-04-29T13:39:32",
+  "languages": {
+    "Go": 3079995,
+    "Shell": 117321,
+    "Makefile": 7782,
+    "Dockerfile": 7579,
+    "Python": 498,
+    "Smarty": 410
+  },
+  "size": 3213585
+}

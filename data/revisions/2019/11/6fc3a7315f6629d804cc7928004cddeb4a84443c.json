@@ -1,0 +1,13 @@
+{
+  "commit": "6fc3a7315f6629d804cc7928004cddeb4a84443c",
+  "repo_url": "https://github.com/obgm/libcoap",
+  "date": "2019-11-05T20:09:06",
+  "languages": {
+    "C": 929163,
+    "M4": 42466,
+    "Makefile": 12092,
+    "Shell": 8495,
+    "Dockerfile": 136
+  },
+  "size": 992352
+}

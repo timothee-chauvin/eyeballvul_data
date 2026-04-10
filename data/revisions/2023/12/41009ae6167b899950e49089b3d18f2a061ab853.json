@@ -1,0 +1,15 @@
+{
+  "commit": "41009ae6167b899950e49089b3d18f2a061ab853",
+  "repo_url": "https://github.com/bmaltais/kohya_ss",
+  "date": "2023-12-21T00:07:19",
+  "languages": {
+    "Python": 2352187,
+    "Shell": 26369,
+    "JavaScript": 5682,
+    "PowerShell": 2926,
+    "Dockerfile": 2566,
+    "Batchfile": 1824,
+    "CSS": 530
+  },
+  "size": 2392084
+}

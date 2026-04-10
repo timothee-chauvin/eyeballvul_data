@@ -1,0 +1,13 @@
+{
+  "commit": "f67c0513a9ba84764fdae6afde5aa7fa4627ed63",
+  "repo_url": "https://github.com/urbanadventurer/whatweb",
+  "date": "2017-11-23T12:31:15",
+  "languages": {
+    "Ruby": 2709523,
+    "Shell": 33000,
+    "Roff": 8006,
+    "XSLT": 5475,
+    "Makefile": 1268
+  },
+  "size": 2757272
+}

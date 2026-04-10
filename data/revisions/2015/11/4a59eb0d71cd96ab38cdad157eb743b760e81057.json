@@ -1,0 +1,27 @@
+{
+  "commit": "4a59eb0d71cd96ab38cdad157eb743b760e81057",
+  "repo_url": "https://github.com/firebirdsql/firebird",
+  "date": "2015-11-11T13:45:30",
+  "languages": {
+    "C++": 11223433,
+    "C": 10043020,
+    "Fortran": 416999,
+    "Shell": 267927,
+    "Yacc": 155803,
+    "Pascal": 154687,
+    "Batchfile": 72588,
+    "Inno Setup": 58278,
+    "Makefile": 44049,
+    "HTML": 26012,
+    "BASIC": 17361,
+    "M4": 10201,
+    "SQLPL": 7516,
+    "Assembly": 4412,
+    "Csound Score": 4031,
+    "mupad": 3181,
+    "Clarion": 1797,
+    "MATLAB": 966,
+    "sed": 937
+  },
+  "size": 22513198
+}

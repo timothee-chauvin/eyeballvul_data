@@ -1,0 +1,30 @@
+{
+  "commit": "3a2c1b12f841f6ab2e3d2208fa9f46a55d5129f3",
+  "repo_url": "https://gitlab.com/samba-team/samba",
+  "date": "2022-03-08T14:47:32",
+  "languages": {
+    "C": 54631902,
+    "Python": 10249611,
+    "Shell": 1808441,
+    "Perl": 977633,
+    "XSLT": 69437,
+    "Yacc": 52562,
+    "Makefile": 19376,
+    "TeX": 12122,
+    "SWIG": 10821,
+    "Dockerfile": 8172,
+    "HTML": 6935,
+    "Lex": 4540,
+    "RPC": 3854,
+    "Batchfile": 2954,
+    "sed": 2625,
+    "Awk": 2592,
+    "Roff": 2581,
+    "BitBake": 2287,
+    "M4": 1668,
+    "PHP": 1060,
+    "CSS": 873,
+    "VBScript": 308
+  },
+  "size": 67872354
+}

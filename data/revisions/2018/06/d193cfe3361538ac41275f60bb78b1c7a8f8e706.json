@@ -1,0 +1,15 @@
+{
+  "commit": "d193cfe3361538ac41275f60bb78b1c7a8f8e706",
+  "repo_url": "https://github.com/cdrummond/cantata",
+  "date": "2018-06-05T18:04:41",
+  "languages": {
+    "C++": 3533785,
+    "CMake": 136110,
+    "Perl": 52052,
+    "C": 23722,
+    "Python": 6913,
+    "Shell": 4847,
+    "Objective-C++": 2849
+  },
+  "size": 3760278
+}

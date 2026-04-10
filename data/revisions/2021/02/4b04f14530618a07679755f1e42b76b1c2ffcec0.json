@@ -1,0 +1,15 @@
+{
+  "commit": "4b04f14530618a07679755f1e42b76b1c2ffcec0",
+  "repo_url": "https://github.com/cerebrate-project/cerebrate",
+  "date": "2021-02-11T09:47:25",
+  "languages": {
+    "PHP": 541064,
+    "CSS": 236062,
+    "JavaScript": 28083,
+    "Shell": 2243,
+    "Batchfile": 862,
+    "Hack": 136,
+    "SCSS": 39
+  },
+  "size": 808489
+}

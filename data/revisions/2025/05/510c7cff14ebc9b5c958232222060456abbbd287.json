@@ -1,0 +1,29 @@
+{
+  "commit": "510c7cff14ebc9b5c958232222060456abbbd287",
+  "repo_url": "https://github.com/sakaiproject/sakai",
+  "date": "2025-05-29T18:55:04",
+  "languages": {
+    "Java": 54805163,
+    "HTML": 6131835,
+    "JavaScript": 4041512,
+    "SCSS": 719475,
+    "PLSQL": 565808,
+    "CSS": 319957,
+    "XSLT": 241147,
+    "Vue": 133527,
+    "Handlebars": 94680,
+    "Rich Text Format": 45969,
+    "Perl": 12934,
+    "Shell": 8157,
+    "PHP": 3086,
+    "Lasso": 2327,
+    "Batchfile": 2299,
+    "C++": 2216,
+    "Classic ASP": 1675,
+    "Ruby": 1276,
+    "ASP.NET": 1018,
+    "Jupyter Notebook": 906,
+    "Python": 852
+  },
+  "size": 67135819
+}

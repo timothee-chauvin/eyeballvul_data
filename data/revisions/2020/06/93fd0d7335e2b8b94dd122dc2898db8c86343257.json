@@ -1,0 +1,16 @@
+{
+  "commit": "93fd0d7335e2b8b94dd122dc2898db8c86343257",
+  "repo_url": "https://github.com/highlightjs/highlight.js",
+  "date": "2020-06-16T16:20:09",
+  "languages": {
+    "JavaScript": 1029693,
+    "CSS": 110406,
+    "HTML": 4087,
+    "Groovy": 2694,
+    "Hy": 911,
+    "Scheme": 612,
+    "Dockerfile": 265,
+    "Shell": 253
+  },
+  "size": 1148921
+}

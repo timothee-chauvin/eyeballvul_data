@@ -1,0 +1,12 @@
+{
+  "commit": "b92af6d64241883d7154a58808c966a790d3c594",
+  "repo_url": "https://github.com/owncloud/android",
+  "date": "2019-10-10T12:29:23",
+  "languages": {
+    "Java": 1917490,
+    "Kotlin": 785595,
+    "Python": 9744,
+    "Shell": 430
+  },
+  "size": 2713259
+}

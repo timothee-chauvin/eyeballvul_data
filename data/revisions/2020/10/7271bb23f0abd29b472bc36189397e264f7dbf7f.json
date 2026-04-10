@@ -1,0 +1,12 @@
+{
+  "commit": "7271bb23f0abd29b472bc36189397e264f7dbf7f",
+  "repo_url": "https://github.com/coreos/coreos-installer",
+  "date": "2020-10-21T19:44:35",
+  "languages": {
+    "Rust": 275409,
+    "Shell": 4731,
+    "Makefile": 1141,
+    "Dockerfile": 428
+  },
+  "size": 281709
+}

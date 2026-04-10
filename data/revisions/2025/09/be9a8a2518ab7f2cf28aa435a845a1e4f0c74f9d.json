@@ -1,0 +1,16 @@
+{
+  "commit": "be9a8a2518ab7f2cf28aa435a845a1e4f0c74f9d",
+  "repo_url": "https://github.com/antrea-io/antrea",
+  "date": "2025-09-16T02:41:12",
+  "languages": {
+    "Go": 11253686,
+    "Shell": 545815,
+    "PowerShell": 78468,
+    "Makefile": 27591,
+    "Dockerfile": 12514,
+    "Jinja": 10085,
+    "Smarty": 5781,
+    "HCL": 5085
+  },
+  "size": 11939025
+}

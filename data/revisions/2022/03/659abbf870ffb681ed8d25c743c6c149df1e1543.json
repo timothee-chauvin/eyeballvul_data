@@ -1,0 +1,18 @@
+{
+  "commit": "659abbf870ffb681ed8d25c743c6c149df1e1543",
+  "repo_url": "https://github.com/rtxteam/rtx",
+  "date": "2022-03-30T21:02:29",
+  "languages": {
+    "Python": 4175728,
+    "Jupyter Notebook": 651399,
+    "JavaScript": 287438,
+    "Shell": 58416,
+    "HTML": 36783,
+    "CSS": 22144,
+    "Dockerfile": 4264,
+    "Smarty": 3494,
+    "Perl": 2679,
+    "TeX": 1802
+  },
+  "size": 5244147
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "78ce24f2ac690c4087dc1e2afed7114110a90a6e",
+  "repo_url": "https://github.com/aiven-open/pghoard",
+  "date": "2022-08-19T11:48:02",
+  "languages": {
+    "Python": 591464,
+    "Go": 4937,
+    "Makefile": 1853,
+    "Shell": 152
+  },
+  "size": 598406
+}
