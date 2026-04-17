@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-341",
+  "published": "2026-03-03T00:17:38.109294",
+  "modified": "2026-03-03T00:17:38.109635",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=488745540\n\n```\nCrash type: Security exception\nCrash state:\ncom.code_intelligence.jazzer.sanitizers.RegexInjection.hookInternal\ncom.code_intelligence.jazzer.sanitizers.RegexInjection.patternHook\norg.flywaydb.core.api.locations.LocationParser.parseWildcardLocation\n```\n",
+  "summary": "Security exception in com.code_intelligence.jazzer.sanitizers.RegexInjection.hookInternal",
+  "repo_url": "https://github.com/flyway/flyway",
+  "cwes": [],
+  "commits": [
+    "c5fc596a73f1d75e600e8707c72b92a47aad3095"
+  ]
+}

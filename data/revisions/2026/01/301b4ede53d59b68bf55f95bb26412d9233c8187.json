@@ -1,0 +1,16 @@
+{
+  "commit": "301b4ede53d59b68bf55f95bb26412d9233c8187",
+  "repo_url": "https://github.com/google/shaderc",
+  "date": "2026-01-23T16:57:47",
+  "languages": {
+    "C++": 544102,
+    "Python": 348441,
+    "C": 52339,
+    "CMake": 28936,
+    "Shell": 25170,
+    "Makefile": 7586,
+    "Batchfile": 4390,
+    "Dockerfile": 1170
+  },
+  "size": 1012134
+}
