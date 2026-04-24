@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-595",
+  "published": "2026-04-20T00:05:53.121612",
+  "modified": "2026-04-20T00:05:53.121886",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=504141064\n\n```\nCrash type: UNKNOWN WRITE\nCrash state:\nstd::__1::istreambuf_iterator<char, std::__1::char_traits<char>> std::__1::num_g\nstd::__1::basic_istream<char, std::__1::char_traits<char>>& std::__1::__input_ar\nigl::MshLoader::parse_element_field\n```\n",
+  "summary": "UNKNOWN WRITE in std::__1::istreambuf_iterator<char, std::__1::char_traits<char>> std::__1::num_g",
+  "repo_url": "https://github.com/libigl/libigl",
+  "cwes": [],
+  "commits": [
+    "fdaac01bcc52888994f7afd029dcc045dd408484"
+  ]
+}

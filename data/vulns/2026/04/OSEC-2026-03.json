@@ -1,7 +1,7 @@
 {
   "id": "OSEC-2026-03",
   "published": "2026-04-15T22:00:00",
-  "modified": "2026-04-16T07:00:09.204244",
+  "modified": "2026-04-16T21:00:00",
   "details": "## Summary\n\n`.install` files do not validate whether they are inside the package area, and so can bypass sandboxing.\n\n## Exploit\n\nIn a `package.install` file, this installs a file as ``~/.bashrc`:\n```\nbin: [\n  \"payload.sh\" {\"../../../.bashrc\"}\n]\n```\n\n## Timeline\n\n- 2026-04-11: Anil forwarded the issue from Andrew Nesbitt to the OCaml security team\n- 2026-04-11: Kate developed a fix\n- 2026-04-15: opam 2.5.1 was released with the fix",
   "summary": "opam install sandbox escape",
   "severity": [
