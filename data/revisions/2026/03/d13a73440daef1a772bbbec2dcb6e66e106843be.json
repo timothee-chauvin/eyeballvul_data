@@ -1,0 +1,11 @@
+{
+  "commit": "d13a73440daef1a772bbbec2dcb6e66e106843be",
+  "repo_url": "https://github.com/hexpm/hex.git",
+  "date": "2026-03-24T18:39:30",
+  "languages": {
+    "Elixir": 690064,
+    "Erlang": 377313,
+    "Shell": 12550
+  },
+  "size": 1079927
+}

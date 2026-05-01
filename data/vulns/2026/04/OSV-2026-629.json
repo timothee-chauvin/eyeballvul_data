@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-629",
+  "published": "2026-04-26T00:19:19.237477",
+  "modified": "2026-04-28T14:18:36.402139",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=506318134\n\n```\nCrash type: Security exception\nCrash state:\norg.apache.thrift.protocol.TProtocolUtil.skip\norg.apache.thrift.protocol.TCompactProtocol.readByte\norg.apache.thrift.protocol.TCompactProtocol.readFieldBegin\n```\n",
+  "summary": "Security exception in org.apache.thrift.protocol.TProtocolUtil.skip",
+  "repo_url": "https://github.com/apache/thrift.git",
+  "cwes": [],
+  "commits": [
+    "e4b684f5ff4f9c3a42cd7ec0a667c3d9bd7f6ac1"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2020-1611",
+  "published": "2020-08-14T00:01:51.615528",
+  "modified": "2026-04-30T14:15:18.316508",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=24869\n\n```\nCrash type: Heap-buffer-overflow READ 4\nCrash state:\nyaml_emitter_emit_flow_mapping_key\nyaml_emitter_state_machine\nyaml_emitter_emit\n```\n",
+  "summary": "Heap-buffer-overflow in yaml_emitter_emit_flow_mapping_key",
+  "repo_url": "https://github.com/yaml/libyaml",
+  "cwes": [],
+  "commits": [
+    "9aa92d0e2d9a78e9b6e8f79e36bdfb2b784f7e57"
+  ]
+}
