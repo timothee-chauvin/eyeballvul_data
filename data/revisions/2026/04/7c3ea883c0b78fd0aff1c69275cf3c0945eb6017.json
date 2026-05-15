@@ -1,0 +1,16 @@
+{
+  "commit": "7c3ea883c0b78fd0aff1c69275cf3c0945eb6017",
+  "repo_url": "https://github.com/flyway/flyway",
+  "date": "2026-04-27T10:36:08",
+  "languages": {
+    "Java": 3159784,
+    "Python": 28668,
+    "HTML": 8268,
+    "Dockerfile": 5948,
+    "Shell": 5061,
+    "Batchfile": 1093,
+    "Makefile": 695,
+    "JavaScript": 42
+  },
+  "size": 3209559
+}

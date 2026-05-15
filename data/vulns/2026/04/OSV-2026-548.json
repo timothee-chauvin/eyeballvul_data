@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-548",
+  "published": "2026-04-09T00:10:28.664573",
+  "modified": "2026-04-09T00:10:28.665122",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=500177411\n\n```\nCrash type: UNKNOWN\nCrash state:\nojph::local::precinct::parse\nojph::local::resolution::parse_one_precinct\nojph::local::tile::parse_tile_header\n```\n",
+  "summary": "UNKNOWN in ojph::local::precinct::parse",
+  "repo_url": "https://github.com/aous72/openjph.git",
+  "cwes": [],
+  "commits": [
+    "c3a6d8eb28b04393260c8778fc88bac653e449a0"
+  ]
+}
