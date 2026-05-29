@@ -1,0 +1,11 @@
+{
+  "commit": "a7c80c68bee7ecbc5f6edb9cc01ce294487dc20c",
+  "repo_url": "https://github.com/mirage/ocaml-tar",
+  "date": "2026-05-22T06:50:19",
+  "languages": {
+    "OCaml": 173473,
+    "Perl": 1711,
+    "Makefile": 156
+  },
+  "size": 175340
+}

@@ -1,29 +1,29 @@
 {
-  "commit": "20b3389388a4e6a10880deebdf0e764b9189b9d7",
+  "commit": "368e49ffd1f0376d7665838138ea6d3d7d16b082",
   "repo_url": "https://github.com/nuxeo/nuxeo",
   "date": "2019-04-24T12:33:54",
   "languages": {
-    "Java": 33982135,
-    "JavaScript": 4605057,
-    "HTML": 2406319,
+    "Java": 34487436,
+    "JavaScript": 4592522,
+    "HTML": 2405279,
     "Python": 752895,
-    "CSS": 505174,
-    "FreeMarker": 394838,
+    "CSS": 539692,
+    "FreeMarker": 360537,
     "Less": 129728,
     "XSLT": 106250,
     "C": 73424,
-    "Shell": 63360,
+    "Shell": 58069,
     "Batchfile": 17519,
     "TSQL": 10971,
     "Groovy": 10457,
+    "Lex": 10065,
     "Rich Text Format": 9666,
-    "Lex": 8943,
     "PHP": 6124,
     "Makefile": 5780,
-    "Fluent": 4710,
+    "Fluent": 5334,
     "Smarty": 1830,
-    "PLpgSQL": 866,
-    "Lua": 607
+    "Lua": 1369,
+    "PLpgSQL": 866
   },
-  "size": 43096653
+  "size": 43585813
 }
