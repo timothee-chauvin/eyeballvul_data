@@ -1,0 +1,17 @@
+{
+  "commit": "11a87982bb518f57ac013f0b258c283655e1ea1d",
+  "repo_url": "https://github.com/iupac-inchi/inchi",
+  "date": "2026-02-17T12:12:19",
+  "languages": {
+    "C": 8549319,
+    "HTML": 162439,
+    "Python": 145319,
+    "C++": 107692,
+    "Makefile": 37684,
+    "CMake": 17119,
+    "Shell": 10709,
+    "Batchfile": 9448,
+    "Dockerfile": 1658
+  },
+  "size": 9041387
+}

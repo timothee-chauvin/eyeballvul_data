@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-324",
+  "published": "2026-02-28T00:03:36.847525",
+  "modified": "2026-02-28T00:03:36.847810",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=488130836\n\n```\nCrash type: Security exception\nCrash state:\njava.base/java.util.Arrays.copyOfRange\njava.base/java.lang.StringUTF16.newString\njava.base/java.lang.StringBuilder.toString\n```\n",
+  "summary": "Security exception in java.base/java.util.Arrays.copyOfRange",
+  "repo_url": "https://github.com/apache/maven",
+  "cwes": [],
+  "commits": [
+    "fb3ecaef88106acb40467a450248dfdbd75f3b35"
+  ]
+}
