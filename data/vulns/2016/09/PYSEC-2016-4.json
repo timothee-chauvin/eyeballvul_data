@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2016-4",
+  "published": "2016-09-01T23:59:00",
+  "modified": "2026-06-10T17:01:21.807427",
+  "details": "The _Rsa15 class in the RSA 1.5 algorithm implementation in jwa.py in jwcrypto before 0.3.2 lacks the Random Filling protection mechanism, which makes it easier for remote attackers to obtain cleartext data via a Million Message Attack (MMA).",
+  "repo_url": "https://github.com/latchset/jwcrypto",
+  "cwes": [],
+  "commits": [
+    "d8c4783fe099f56ae8c0ecb87048ded99ba72020"
+  ]
+}

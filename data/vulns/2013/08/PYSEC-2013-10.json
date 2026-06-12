@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2013-10",
+  "published": "2013-08-06T02:52:00",
+  "modified": "2026-06-10T17:01:42.141562",
+  "details": "pyshop before 0.7.1 uses HTTP to retrieve packages from the PyPI repository, and does not perform integrity checks on package contents, which allows man-in-the-middle attackers to execute arbitrary code via a crafted response to a download operation.",
+  "repo_url": "https://github.com/mardiros/pyshop",
+  "cwes": [],
+  "commits": [
+    "9706151be08dcc72bdffe29a6c83da9925ee4f19"
+  ]
+}

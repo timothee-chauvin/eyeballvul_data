@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2015-2",
+  "published": "2015-06-16T16:59:00",
+  "modified": "2026-06-10T17:00:43.005563",
+  "details": "ceph-deploy before 1.5.23 uses weak permissions (644) for ceph/ceph.client.admin.keyring, which allows local users to obtain sensitive information by reading the file.",
+  "repo_url": "https://github.com/ceph/ceph-deploy",
+  "cwes": [],
+  "commits": [
+    "cf9ece96837fa30bc1f8050e810da64bae67b8ee"
+  ]
+}

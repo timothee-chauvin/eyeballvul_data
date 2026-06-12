@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2022-43157",
   "published": "2022-10-06T18:16:00",
-  "modified": "2024-11-21T14:56:54.062246",
+  "modified": "2026-06-10T17:02:34.600422",
   "details": "Weak Password Requirements in GitHub repository ikus060/rdiffweb prior to 2.5.0a4.",
   "severity": [
     {

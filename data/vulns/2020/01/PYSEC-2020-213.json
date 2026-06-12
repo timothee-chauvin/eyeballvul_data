@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-213",
+  "published": "2020-01-24T18:15:00",
+  "modified": "2026-06-10T17:02:44.825142",
+  "details": "Tornado before 3.2.2 sends arbitrary responses that contain a fixed CSRF token and may be sent with HTTP compression, which makes it easier for remote attackers to conduct a BREACH attack and determine this token via a series of crafted requests.",
+  "repo_url": "https://github.com/tornadoweb/tornado",
+  "cwes": [],
+  "commits": [
+    "76a6987a20b9b7b72d20cc479b8ad971a45095fd"
+  ]
+}

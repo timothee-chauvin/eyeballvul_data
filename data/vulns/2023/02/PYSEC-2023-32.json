@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2023-32",
   "published": "2023-02-10T19:15:00",
-  "modified": "2023-11-08T04:11:11.281532",
+  "modified": "2026-06-10T17:02:22.090453",
   "details": "Authentication Bypass by Primary Weakness in GitHub repository modoboa/modoboa prior to 2.0.4.",
   "repo_url": "https://github.com/modoboa/modoboa",
   "cwes": [],

@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2016-37",
   "published": "2016-02-03T18:59:00",
-  "modified": "2024-04-29T17:11:23.172001",
+  "modified": "2026-06-10T17:01:49.002822",
   "details": "Radicale before 1.1 allows remote authenticated users to bypass owner_write and owner_only limitations via regex metacharacters in the user name, as demonstrated by \".*\".",
   "repo_url": "https://github.com/unrud/radicale",
   "cwes": [],

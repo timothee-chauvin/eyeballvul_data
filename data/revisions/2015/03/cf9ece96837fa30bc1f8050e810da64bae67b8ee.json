@@ -1,0 +1,10 @@
+{
+  "commit": "cf9ece96837fa30bc1f8050e810da64bae67b8ee",
+  "repo_url": "https://github.com/ceph/ceph-deploy",
+  "date": "2015-03-09T15:14:20",
+  "languages": {
+    "Python": 265578,
+    "Shell": 7086
+  },
+  "size": 272664
+}

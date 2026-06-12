@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-36",
+  "published": "2017-10-24T17:29:00",
+  "modified": "2026-06-10T17:02:50.017635",
+  "details": "Directory traversal vulnerability in minion id validation in SaltStack Salt before 2016.3.8, 2016.11.x before 2016.11.8, and 2017.7.x before 2017.7.2 allows remote minions with incorrect credentials to authenticate to a master via a crafted minion ID.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2017-12791.",
+  "repo_url": "https://github.com/saltstack/salt",
+  "cwes": [],
+  "commits": [
+    "146930e02124dff706b8100008ef410c83c157e1"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2022-286",
   "published": "2022-09-21T10:15:00",
-  "modified": "2023-11-08T04:09:05.118788",
+  "modified": "2026-06-10T17:02:26.068119",
   "details": "Unrestricted Upload of File with Dangerous Type in GitHub repository octoprint/octoprint prior to 1.8.3.",
   "repo_url": "https://github.com/octoprint/octoprint",
   "cwes": [],

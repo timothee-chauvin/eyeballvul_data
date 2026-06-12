@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2023-300",
   "published": "2023-12-19T13:15:00",
-  "modified": "2024-11-21T14:56:59.794753",
+  "modified": "2026-06-10T17:02:48.312827",
   "details": "Deserialization of Untrusted Data in GitHub repository huggingface/transformers prior to 4.36.",
   "severity": [
     {
@@ -12,6 +12,6 @@
   "repo_url": "https://github.com/huggingface/transformers",
   "cwes": [],
   "commits": [
-    "fedabcd1545839798004b2b468f191ec2244442f"
+    "f87db5e412f561c089e70ab2b15bfa070c2b07f5"
   ]
 }

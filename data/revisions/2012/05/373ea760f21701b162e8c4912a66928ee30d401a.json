@@ -1,0 +1,12 @@
+{
+  "commit": "373ea760f21701b162e8c4912a66928ee30d401a",
+  "repo_url": "https://github.com/dlitz/pycrypto",
+  "date": "2012-05-24T12:51:04",
+  "languages": {
+    "Python": 848054,
+    "C": 675899,
+    "M4": 1377,
+    "Shell": 92
+  },
+  "size": 1525422
+}

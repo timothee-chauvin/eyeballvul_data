@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-23",
+  "published": "2023-02-22T23:15:00",
+  "modified": "2026-06-10T17:02:03.233399",
+  "details": "Denial of service could be caused to the command line interface of markdown-it-py, before v2.2.0, if an attacker was allowed to use invalid UTF-8 characters as input.",
+  "repo_url": "https://github.com/executablebooks/markdown-it-py",
+  "cwes": [],
+  "commits": [
+    "7e677c4e7b4573eaf406a13882f3fee4b19b97f4"
+  ]
+}

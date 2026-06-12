@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2021-860",
+  "published": "2021-11-22T21:15:00",
+  "modified": "2026-06-10T17:00:33.535184",
+  "details": "Croatia Control Asterix 2.8.1 (python_v0.7.2) has a heap-based buffer over-read, with additional details to be disclosed at a later date.",
+  "repo_url": "https://github.com/croatiacontrolltd/asterix",
+  "cwes": [],
+  "commits": [
+    "a47f4ae3e1af678b77a217a66ebd27cbe1d2c518"
+  ]
+}

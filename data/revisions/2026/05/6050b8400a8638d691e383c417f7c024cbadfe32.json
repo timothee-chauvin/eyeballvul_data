@@ -1,0 +1,16 @@
+{
+  "commit": "6050b8400a8638d691e383c417f7c024cbadfe32",
+  "repo_url": "https://github.com/elixir-lang/elixir.git",
+  "date": "2026-05-13T14:15:18",
+  "languages": {
+    "Elixir": 8554869,
+    "Erlang": 603981,
+    "Makefile": 12608,
+    "Shell": 10208,
+    "Batchfile": 9405,
+    "NSIS": 8639,
+    "Kotlin": 2987,
+    "PowerShell": 706
+  },
+  "size": 9203403
+}

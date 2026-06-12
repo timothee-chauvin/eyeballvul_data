@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-255",
+  "published": "2023-12-14T14:15:00",
+  "modified": "2026-06-10T17:01:08.470572",
+  "details": "Command Injection in GitHub repository gradio-app/gradio prior to main.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/gradio-app/gradio",
+  "cwes": [],
+  "commits": [
+    "79a34636f82bc9d807196b45835783c800119f98"
+  ]
+}

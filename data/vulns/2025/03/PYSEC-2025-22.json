@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2025-22",
+  "published": "2025-03-10T14:15:24",
+  "modified": "2026-06-10T17:02:31.557145",
+  "details": "A vulnerability, that could result in Remote Code Execution (RCE), has been found in PlotAI. Lack of validation of LLM-generated output allows attacker to execute arbitrary Python code.\nVendor commented out vulnerable line, further usage of the software requires uncommenting it and thus accepting the risk. The vendor does not plan to release a patch to fix this vulnerability.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/mljar/plotai",
+  "cwes": [],
+  "commits": [
+    "7a95b06812af120141c84f6bc28551ac5586f9b9"
+  ]
+}

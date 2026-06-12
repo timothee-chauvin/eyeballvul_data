@@ -1,0 +1,23 @@
+{
+  "commit": "661356a3647cd5880ce7ccf335d9e9dd8640c3de",
+  "repo_url": "https://github.com/scipy/scipy",
+  "date": "2001-08-14T17:39:02",
+  "languages": {
+    "Fortran": 6063212,
+    "C": 3774206,
+    "Python": 1921578,
+    "PostScript": 1869672,
+    "JavaScript": 69567,
+    "Gnuplot": 37411,
+    "TeX": 36748,
+    "C++": 27288,
+    "HTML": 24201,
+    "SWIG": 22361,
+    "Makefile": 17404,
+    "GLSL": 14136,
+    "Roff": 11598,
+    "BitBake": 1172,
+    "Shell": 262
+  },
+  "size": 13890816
+}

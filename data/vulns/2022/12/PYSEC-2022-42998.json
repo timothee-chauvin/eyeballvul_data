@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2022-42998",
+  "published": "2022-12-06T20:15:00",
+  "modified": "2026-06-10T17:01:39.992769",
+  "details": "A directory traversal vulnerability in the SevenZipFile.extractall() function of the python library py7zr v0.20.0 and earlier allows attackers to write arbitrary files via extracting a crafted 7z file.",
+  "repo_url": "https://github.com/miurahr/py7zr",
+  "cwes": [],
+  "commits": [
+    "d4eca67852b3e384b369aa47739b2376792bc9a0"
+  ]
+}

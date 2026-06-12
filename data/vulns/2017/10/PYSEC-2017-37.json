@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-37",
+  "published": "2017-10-24T17:29:00",
+  "modified": "2026-06-10T17:02:50.029565",
+  "details": "SaltStack Salt before 2016.3.8, 2016.11.x before 2016.11.8, and 2017.7.x before 2017.7.2 allows remote attackers to cause a denial of service via a crafted authentication request.",
+  "repo_url": "https://github.com/saltstack/salt",
+  "cwes": [],
+  "commits": [
+    "146930e02124dff706b8100008ef410c83c157e1"
+  ]
+}

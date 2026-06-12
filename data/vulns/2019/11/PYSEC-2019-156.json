@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2019-156",
+  "published": "2019-11-04T20:15:00",
+  "modified": "2026-06-10T17:02:46.015942",
+  "details": "The scipy.weave component in SciPy before 0.12.1 creates insecure temporary directories.",
+  "repo_url": "https://github.com/scipy/scipy",
+  "cwes": [],
+  "commits": [
+    "661356a3647cd5880ce7ccf335d9e9dd8640c3de"
+  ]
+}

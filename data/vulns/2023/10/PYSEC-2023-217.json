@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2023-217",
   "published": "2023-10-20T17:15:00",
-  "modified": "2023-11-08T04:13:48.057328",
+  "modified": "2026-06-10T17:02:21.549661",
   "details": "Cross-Site Request Forgery (CSRF) in GitHub repository modoboa/modoboa prior to 2.2.2.",
   "severity": [
     {

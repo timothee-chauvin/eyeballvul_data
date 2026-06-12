@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2015-17",
+  "published": "2015-03-18T16:59:00",
+  "modified": "2026-06-10T17:02:37.461577",
+  "details": "The resolve_redirects function in sessions.py in requests 2.1.0 through 2.5.3 allows remote attackers to conduct session fixation attacks via a cookie without a host value in a redirect.",
+  "repo_url": "https://github.com/kennethreitz/requests",
+  "cwes": [],
+  "commits": [
+    "d8be2473d1a586a3673d728d49e10fd4286e3b0e"
+  ]
+}

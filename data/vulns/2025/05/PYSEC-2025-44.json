@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2025-44",
   "published": "2025-05-31T01:15:19",
-  "modified": "2025-06-04T02:12:10.723839",
+  "modified": "2026-06-10T17:00:50.146431",
   "details": "django-helpdesk before 1.0.0 allows Sensitive Data Exposure because of os.umask(0) in models.py.",
   "repo_url": "https://github.com/django-helpdesk/django-helpdesk",
   "cwes": [],

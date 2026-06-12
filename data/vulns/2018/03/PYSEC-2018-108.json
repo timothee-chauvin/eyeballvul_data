@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2018-108",
+  "published": "2018-03-12T19:29:00",
+  "modified": "2026-06-10T17:00:10.905276",
+  "details": "The SSH server implementation of AsyncSSH before 1.12.1 does not properly check whether authentication is completed before processing other requests. A customized SSH client can simply skip the authentication step.",
+  "repo_url": "https://github.com/ronf/asyncssh",
+  "cwes": [],
+  "commits": [
+    "0267f2e98c60dd77f3fff8b6572ed50389b14751"
+  ]
+}

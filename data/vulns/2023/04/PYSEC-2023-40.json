@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2023-40",
+  "published": "2023-04-20T21:15:00",
+  "modified": "2026-06-10T17:01:44.279579",
+  "details": "pretalx 2.3.1 before 2.3.2 allows path traversal in HTML export (a non-default feature). Organizers can trigger the overwriting (with the standard pretalx 404 page content) of an arbitrary file.",
+  "repo_url": "https://github.com/pretalx/pretalx",
+  "cwes": [],
+  "commits": [
+    "01bfe30e2185215f3f89626efe6d305afc1e1396"
+  ]
+}

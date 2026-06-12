@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2024-115",
+  "published": "2024-11-05T16:04:14",
+  "modified": "2026-06-10T17:01:58.487495",
+  "details": "A vulnerability in the GraphCypherQAChain class of langchain-ai/langchain-community version 0.2.5 allows for SQL injection through prompt injection. This vulnerability can lead to unauthorized data manipulation, data exfiltration, denial of service (DoS) by deleting all data, breaches in multi-tenant security environments, and data integrity issues. Attackers can create, update, or delete nodes and relationships without proper authorization, extract sensitive data, disrupt services, access data across different tenants, and compromise the integrity of the database.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/langchain-ai/langchain",
+  "cwes": [],
+  "commits": [
+    "3cb460d5d888866a83f737034bcc78daf0d6fe4a"
+  ]
+}

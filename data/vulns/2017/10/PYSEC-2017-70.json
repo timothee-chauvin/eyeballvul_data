@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2017-70",
+  "published": "2017-10-10T16:29:00",
+  "modified": "2026-06-10T17:02:50.013660",
+  "details": "salt before 2015.5.5 leaks git usernames and passwords to the log.",
+  "repo_url": "https://github.com/saltstack/salt",
+  "cwes": [],
+  "commits": [
+    "146930e02124dff706b8100008ef410c83c157e1"
+  ]
+}

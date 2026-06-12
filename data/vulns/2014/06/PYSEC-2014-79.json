@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2014-79",
+  "published": "2014-06-16T18:55:00",
+  "modified": "2026-06-10T17:01:15.595823",
+  "details": "Cross-site scripting (XSS) vulnerability in gravatars/templatetags/gravatars.py in Djblets before 0.7.30 and 0.8.x before 0.8.3 for Django allows remote attackers to inject arbitrary web script or HTML via a user display name.",
+  "repo_url": "https://github.com/djblets/djblets",
+  "cwes": [],
+  "commits": [
+    "05d6a9bcf01c98ade4b36d9723d15ad046e4320c"
+  ]
+}

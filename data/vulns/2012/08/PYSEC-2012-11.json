@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2012-11",
   "published": "2012-08-26T20:55:00",
-  "modified": "2024-05-01T11:41:30.941604",
+  "modified": "2026-06-10T17:01:43.688409",
   "details": "Buffer overflow in the fribidi_utf8_to_unicode function in PyFriBidi before 0.11.0 allows remote attackers to cause a denial of service (application crash) via a 4-byte utf-8 sequence.",
   "repo_url": "https://github.com/pediapress/pyfribidi",
   "cwes": [],

@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2022-43159",
   "published": "2022-10-14T12:15:00",
-  "modified": "2024-11-21T14:57:25.175314",
+  "modified": "2026-06-10T17:02:34.698621",
   "details": "Allocation of Resources Without Limits or Throttling in GitHub repository ikus060/rdiffweb prior to 2.5.0.",
   "severity": [
     {

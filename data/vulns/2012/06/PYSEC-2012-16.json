@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2012-16",
+  "published": "2012-06-17T03:41:00",
+  "modified": "2026-06-10T17:02:31.636782",
+  "details": "PyCrypto before 2.6 does not produce appropriate prime numbers when using an ElGamal scheme to generate a key, which reduces the signature space or public key space and makes it easier for attackers to conduct brute force attacks to obtain the private key.",
+  "repo_url": "https://github.com/legrandin/pycrypto",
+  "cwes": [],
+  "commits": [
+    "9e9641d0a9b88f09683b5f26d3b99c4a2e148da5"
+  ]
+}

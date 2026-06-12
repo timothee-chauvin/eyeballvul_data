@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2024-170",
   "published": "2024-06-06T19:15:53",
-  "modified": "2025-01-18T19:56:49.753460",
+  "modified": "2026-06-10T17:02:51.547046",
   "details": "A stored Cross-Site Scripting (XSS) vulnerability was identified in the zenml-io/zenml repository, specifically within the 'logo_url' field. By injecting malicious payloads into this field, an attacker could send harmful messages to other users, potentially compromising their accounts. The vulnerability affects version 0.55.3 and was fixed in version 0.56.2. The impact of exploiting this vulnerability could lead to user account compromise.",
   "severity": [
     {

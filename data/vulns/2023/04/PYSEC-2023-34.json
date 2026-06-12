@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2023-34",
   "published": "2023-04-18T16:15:00",
-  "modified": "2023-11-08T04:11:33.719881",
+  "modified": "2026-06-10T17:02:22.258022",
   "details": "Weak Password Requirements in GitHub repository modoboa/modoboa prior to 2.1.0.",
   "repo_url": "https://github.com/modoboa/modoboa",
   "cwes": [],

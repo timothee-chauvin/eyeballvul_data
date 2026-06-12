@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2023-194",
+  "published": "2023-10-09T20:15:00",
+  "modified": "2026-06-10T17:01:55.547991",
+  "details": "langchain_experimental 0.0.14 allows an attacker to bypass the CVE-2023-36258 fix and execute arbitrary code via the PALChain in the python exec method.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/langchain-ai/langchain",
+  "cwes": [],
+  "commits": [
+    "3cb460d5d888866a83f737034bcc78daf0d6fe4a"
+  ]
+}

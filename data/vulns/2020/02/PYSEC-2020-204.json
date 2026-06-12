@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-204",
+  "published": "2020-02-18T15:15:00",
+  "modified": "2026-06-10T17:00:20.747861",
+  "details": "Ansible before 1.6.7 does not prevent inventory data with \"{{\" and \"lookup\" substrings, and does not prevent remote data with \"{{\" substrings, which allows remote attackers to execute arbitrary code via (1) crafted lookup('pipe') calls or (2) crafted Jinja2 data.",
+  "repo_url": "https://github.com/ansible/ansible",
+  "cwes": [],
+  "commits": [
+    "f67c13f8f10a6f8e0343a3c3d4e8ad7737ed28ab"
+  ]
+}

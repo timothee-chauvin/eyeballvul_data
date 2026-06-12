@@ -1,0 +1,17 @@
+{
+  "id": "PYSEC-2024-223",
+  "published": "2024-02-23T18:15:50",
+  "modified": "2026-06-10T17:02:27.493311",
+  "details": "Versions of the package onnx before and including 1.15.0 are vulnerable to Out-of-bounds Read as the ONNX_ASSERT and ONNX_ASSERTM functions have an off by one string copy.\n",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/onnx/onnx",
+  "cwes": [],
+  "commits": [
+    "bae6333e149a59a3faa9c4d9c44974373dcf5256"
+  ]
+}

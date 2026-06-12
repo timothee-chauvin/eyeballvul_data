@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2024-39",
+  "published": "2024-02-24T05:15:00",
+  "modified": "2026-06-10T17:01:16.815475",
+  "details": "Versions of the package fastecdsa before 2.3.2 are vulnerable to Use of Uninitialized Variable on the stack, via the curvemath_mul function in src/curveMath.c, due to being used and interpreted as user-defined type. Depending on the variable's actual value it could be arbitrary free(), arbitrary realloc(), null pointer dereference and other. Since the stack can be controlled by the attacker, the vulnerability could be used to corrupt allocator structure, leading to possible heap exploitation. The attacker could cause denial of service by exploiting this vulnerability.",
+  "repo_url": "https://github.com/antonkueltz/fastecdsa",
+  "cwes": [],
+  "commits": [
+    "7b64e3efaa806b4daaf73bb5172af3581812f8de"
+  ]
+}
