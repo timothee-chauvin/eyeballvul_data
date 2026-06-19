@@ -1,0 +1,20 @@
+{
+  "id": "OSEC-2026-04",
+  "published": "2026-06-18T13:20:00",
+  "modified": "2026-06-18T13:45:08.000133",
+  "details": "The function `caml_ba_reshape`, part of the OCaml runtime (in runtime/bigarray.c), had a missing check for integer overflow when computing the size to be allocated. This leads to a segmentation fault.\n\nAny application using `Bigarray.reshape` (or `reshape_N`) with untrusted and unchecked input can result in a segmentation fault.\n\n## Timeline\n\n- 2026-06-18 security advisory released\n- 2026-06-15 OCaml 4.14.4 released\n- 2026-04-16 Florian Angeletti backported the fix to the 4.14 branch\n- 2026-04-15 Stephen Dolan proposed fix https://github.com/ocaml/ocaml/pull/14691\n- 2026-03-18 Andriy Sultanov reported https://github.com/ocaml/ocaml/issues/14655",
+  "summary": "Bigarray.reshape integer overflow",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "cwes": [],
+  "commits": [
+    "16aab59a09dc5ecf61e47fc8091d1994cbba33bc",
+    "7de17eaeccfe555eb2629af7e1048b0e5d492f01",
+    "bee55c46e931fb987f9ecae60c891939e8208506"
+  ]
+}

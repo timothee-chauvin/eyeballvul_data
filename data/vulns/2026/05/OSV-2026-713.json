@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-713",
+  "published": "2026-05-11T00:16:48.157731",
+  "modified": "2026-05-11T00:16:48.158024",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=511443006\n\n```\nCrash type: Use-of-uninitialized-value\nCrash state:\nojph::local::tile::pull\nojph::local::codestream::pull\nojph_expand_fuzz_target.cpp\n```\n",
+  "summary": "Use-of-uninitialized-value in ojph::local::tile::pull",
+  "repo_url": "https://github.com/aous72/openjph.git",
+  "cwes": [],
+  "commits": [
+    "c3a6d8eb28b04393260c8778fc88bac653e449a0"
+  ]
+}

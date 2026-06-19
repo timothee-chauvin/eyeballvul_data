@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-710",
+  "published": "2026-05-11T00:02:40.922013",
+  "modified": "2026-05-11T00:02:40.922314",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=511393472\n\n```\nCrash type: UNKNOWN WRITE\nCrash state:\nojph::local::precinct::parse\nojph::local::resolution::parse_one_precinct\nojph::local::tile::parse_tile_header\n```\n",
+  "summary": "UNKNOWN WRITE in ojph::local::precinct::parse",
+  "repo_url": "https://github.com/aous72/openjph.git",
+  "cwes": [],
+  "commits": [
+    "c3a6d8eb28b04393260c8778fc88bac653e449a0"
+  ]
+}
