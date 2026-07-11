@@ -1,0 +1,19 @@
+{
+  "commit": "66d09507725b07ccada31ea3f97adb3393c12256",
+  "repo_url": "https://github.com/dotclear/dotclear",
+  "date": "2016-12-29T14:35:02",
+  "languages": {
+    "JavaScript": 2578325,
+    "PHP": 1877696,
+    "HTML": 1194962,
+    "CSS": 587581,
+    "SCSS": 178499,
+    "XSLT": 9692,
+    "Shell": 5559,
+    "Smarty": 4558,
+    "Makefile": 3969,
+    "Gherkin": 3488,
+    "Ruby": 1330
+  },
+  "size": 6445659
+}

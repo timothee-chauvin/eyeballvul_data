@@ -1,0 +1,11 @@
+{
+  "commit": "621d94a6d389f043ecb00bcea5e75e7a1783d34e",
+  "repo_url": "https://github.com/dsully/perl-crypt-openssl-pkcs12",
+  "date": "2024-10-01T14:31:52",
+  "languages": {
+    "Perl": 96582,
+    "XS": 43385,
+    "Raku": 129
+  },
+  "size": 140096
+}

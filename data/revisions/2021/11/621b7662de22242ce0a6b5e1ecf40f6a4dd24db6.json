@@ -1,0 +1,13 @@
+{
+  "commit": "621b7662de22242ce0a6b5e1ecf40f6a4dd24db6",
+  "repo_url": "https://github.com/thautwarm/vscode-diana",
+  "date": "2021-11-10T07:52:58",
+  "languages": {
+    "C#": 226397,
+    "ANTLR": 55288,
+    "TypeScript": 25461,
+    "Python": 1312,
+    "JavaScript": 536
+  },
+  "size": 308994
+}

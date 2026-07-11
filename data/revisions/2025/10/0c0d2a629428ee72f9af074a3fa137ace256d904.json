@@ -1,0 +1,15 @@
+{
+  "commit": "0c0d2a629428ee72f9af074a3fa137ace256d904",
+  "repo_url": "https://github.com/usememos/memos",
+  "date": "2025-10-24T00:15:32",
+  "languages": {
+    "TypeScript": 1413221,
+    "Go": 700848,
+    "CSS": 17821,
+    "JavaScript": 1386,
+    "Shell": 1141,
+    "Dockerfile": 879,
+    "HTML": 638
+  },
+  "size": 2135934
+}

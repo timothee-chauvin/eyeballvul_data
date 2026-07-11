@@ -1,0 +1,22 @@
+{
+  "commit": "e7f90de551e8df682f3cc99067d204d8b90d27ad",
+  "repo_url": "https://github.com/supranational/blst",
+  "date": "2025-09-19T17:50:05",
+  "languages": {
+    "Assembly": 2584738,
+    "C": 499985,
+    "Go": 203484,
+    "Rust": 166463,
+    "Python": 98559,
+    "C++": 59771,
+    "C#": 47297,
+    "Shell": 12116,
+    "TypeScript": 6165,
+    "JavaScript": 2378,
+    "Java": 2220,
+    "Batchfile": 2073,
+    "HTML": 1534,
+    "Makefile": 1338
+  },
+  "size": 3688121
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "558fe3b40aa6cc71075048445410d1f540a9cf97",
+  "repo_url": "https://github.com/plack/plack",
+  "date": "2026-04-28T23:00:25",
+  "languages": {
+    "Perl": 500010,
+    "HTML": 212,
+    "Shell": 102,
+    "CSS": 25,
+    "JavaScript": 17
+  },
+  "size": 500366
+}

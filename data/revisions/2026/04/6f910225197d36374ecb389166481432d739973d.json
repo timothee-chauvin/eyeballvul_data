@@ -1,0 +1,11 @@
+{
+  "commit": "6f910225197d36374ecb389166481432d739973d",
+  "repo_url": "https://github.com/swivid/f5-tts",
+  "date": "2026-04-20T07:28:10",
+  "languages": {
+    "Python": 495179,
+    "Shell": 11548,
+    "Dockerfile": 865
+  },
+  "size": 507592
+}

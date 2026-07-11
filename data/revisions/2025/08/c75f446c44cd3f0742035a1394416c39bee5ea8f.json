@@ -1,0 +1,17 @@
+{
+  "commit": "c75f446c44cd3f0742035a1394416c39bee5ea8f",
+  "repo_url": "https://github.com/hashcat/hashcat",
+  "date": "2025-08-23T08:43:56",
+  "languages": {
+    "C": 52065423,
+    "Perl": 1030861,
+    "Shell": 219605,
+    "Python": 163766,
+    "Objective-C": 59199,
+    "C++": 53868,
+    "Makefile": 50612,
+    "Rust": 18762,
+    "Batchfile": 191
+  },
+  "size": 53662287
+}

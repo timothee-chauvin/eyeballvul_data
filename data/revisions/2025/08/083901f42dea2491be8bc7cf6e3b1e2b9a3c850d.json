@@ -1,0 +1,12 @@
+{
+  "commit": "083901f42dea2491be8bc7cf6e3b1e2b9a3c850d",
+  "repo_url": "https://github.com/rui314/mold",
+  "date": "2025-08-17T01:32:35",
+  "languages": {
+    "C++": 1066001,
+    "Shell": 277576,
+    "CMake": 21331,
+    "C": 3638
+  },
+  "size": 1368546
+}

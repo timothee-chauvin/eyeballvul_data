@@ -1,0 +1,14 @@
+{
+  "commit": "0a21d77cae660cc3b5730f290803cdac5c2debb4",
+  "repo_url": "https://github.com/vllm-project/aibrix",
+  "date": "2025-02-19T07:14:34",
+  "languages": {
+    "Jupyter Notebook": 1055739,
+    "Go": 619686,
+    "Python": 478755,
+    "Makefile": 34301,
+    "Shell": 23065,
+    "Dockerfile": 2414
+  },
+  "size": 2213960
+}

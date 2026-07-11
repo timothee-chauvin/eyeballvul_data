@@ -1,0 +1,21 @@
+{
+  "commit": "a5b7f9dc9011ac1a79dd3fdae622e68d2119d6a4",
+  "repo_url": "https://github.com/blender/blender",
+  "date": "2021-12-14T16:35:31",
+  "languages": {
+    "C": 57491861,
+    "C++": 19599932,
+    "Python": 5114613,
+    "CMake": 1239138,
+    "GLSL": 941922,
+    "Shell": 177041,
+    "Objective-C++": 148861,
+    "Cuda": 40924,
+    "Batchfile": 34060,
+    "Objective-C": 20108,
+    "Makefile": 18678,
+    "Slash": 5643,
+    "AppleScript": 912
+  },
+  "size": 84833693
+}

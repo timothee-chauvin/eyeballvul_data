@@ -1,0 +1,17 @@
+{
+  "commit": "b49f9ec76f0590cc5f1eb4e22e99b01f55b75061",
+  "repo_url": "https://github.com/cybergarage/mupnp",
+  "date": "2015-09-03T04:19:25",
+  "languages": {
+    "C": 1362830,
+    "Makefile": 628224,
+    "Objective-C": 131400,
+    "C++": 61311,
+    "Shell": 52373,
+    "M4": 16926,
+    "CMake": 6247,
+    "Roff": 3049,
+    "Perl": 2718
+  },
+  "size": 2265078
+}

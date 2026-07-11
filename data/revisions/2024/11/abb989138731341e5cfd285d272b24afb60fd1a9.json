@@ -1,0 +1,17 @@
+{
+  "commit": "abb989138731341e5cfd285d272b24afb60fd1a9",
+  "repo_url": "https://gitlab.com/gnuwget/wget",
+  "date": "2024-11-10T21:29:04",
+  "languages": {
+    "C": 1610584,
+    "Python": 292255,
+    "Perl": 228688,
+    "Shell": 88727,
+    "Module Management System": 60592,
+    "M4": 40984,
+    "Makefile": 27866,
+    "DIGITAL Command Language": 5652,
+    "Lex": 5421
+  },
+  "size": 2360769
+}

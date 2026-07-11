@@ -1,0 +1,13 @@
+{
+  "commit": "11ed0a5110c1920b85b7d24d9414f480983e0f16",
+  "repo_url": "https://github.com/msgpack/msgpack-python",
+  "date": "2026-06-11T03:29:41",
+  "languages": {
+    "Python": 92743,
+    "C": 53656,
+    "Cython": 33469,
+    "Makefile": 1376,
+    "Shell": 1027
+  },
+  "size": 182271
+}

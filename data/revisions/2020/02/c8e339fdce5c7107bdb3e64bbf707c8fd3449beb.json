@@ -1,0 +1,17 @@
+{
+  "commit": "c8e339fdce5c7107bdb3e64bbf707c8fd3449beb",
+  "repo_url": "https://github.com/jarikomppa/soloud",
+  "date": "2020-02-07T20:56:48",
+  "languages": {
+    "C": 3115219,
+    "C++": 1003717,
+    "Mermaid": 204415,
+    "Python": 98793,
+    "Lua": 19825,
+    "CMake": 19304,
+    "TeX": 9085,
+    "CSS": 3697,
+    "Batchfile": 304
+  },
+  "size": 4474359
+}

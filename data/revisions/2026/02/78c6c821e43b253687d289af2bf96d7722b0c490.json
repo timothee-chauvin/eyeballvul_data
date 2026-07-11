@@ -1,0 +1,10 @@
+{
+  "commit": "78c6c821e43b253687d289af2bf96d7722b0c490",
+  "repo_url": "https://github.com/amazon-mq/rabbitmq-aws",
+  "date": "2026-02-16T19:33:08",
+  "languages": {
+    "Erlang": 60257,
+    "Makefile": 541
+  },
+  "size": 60798
+}

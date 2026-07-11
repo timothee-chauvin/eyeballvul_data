@@ -1,0 +1,12 @@
+{
+  "commit": "e8450e88ba4405c6727c5e78fabd0cfb96cb86e6",
+  "repo_url": "https://github.com/growilabs/growi",
+  "date": "2017-03-31T17:35:09",
+  "languages": {
+    "JavaScript": 373003,
+    "HTML": 131032,
+    "SCSS": 78820,
+    "Procfile": 17
+  },
+  "size": 582872
+}

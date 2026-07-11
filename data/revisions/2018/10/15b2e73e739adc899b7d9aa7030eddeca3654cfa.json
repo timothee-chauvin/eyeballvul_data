@@ -1,0 +1,14 @@
+{
+  "commit": "15b2e73e739adc899b7d9aa7030eddeca3654cfa",
+  "repo_url": "https://github.com/gnuboard/gnuboard5",
+  "date": "2018-10-17T10:41:16",
+  "languages": {
+    "PHP": 4824008,
+    "JavaScript": 2760662,
+    "CSS": 1063216,
+    "HTML": 847500,
+    "Shell": 398,
+    "Hack": 115
+  },
+  "size": 9495899
+}

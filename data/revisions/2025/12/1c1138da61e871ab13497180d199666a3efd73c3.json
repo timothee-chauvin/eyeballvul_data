@@ -1,0 +1,13 @@
+{
+  "commit": "1c1138da61e871ab13497180d199666a3efd73c3",
+  "repo_url": "https://github.com/kantorge/yaffa",
+  "date": "2025-12-20T11:41:14",
+  "languages": {
+    "PHP": 2402957,
+    "Vue": 399172,
+    "Blade": 199347,
+    "Dockerfile": 1822,
+    "Shell": 675
+  },
+  "size": 3003973
+}

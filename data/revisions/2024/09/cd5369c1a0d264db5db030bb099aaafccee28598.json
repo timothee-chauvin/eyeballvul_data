@@ -1,0 +1,14 @@
+{
+  "commit": "cd5369c1a0d264db5db030bb099aaafccee28598",
+  "repo_url": "https://github.com/pyo3/pyo3",
+  "date": "2024-09-15T20:39:09",
+  "languages": {
+    "Rust": 2880986,
+    "Python": 69770,
+    "Shell": 4591,
+    "Makefile": 2794,
+    "HTML": 1425,
+    "C": 93
+  },
+  "size": 2959659
+}

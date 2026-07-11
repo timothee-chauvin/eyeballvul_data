@@ -1,0 +1,15 @@
+{
+  "commit": "85865323fc3a31f946635a3244ab425ae75f0553",
+  "repo_url": "https://github.com/kubev2v/migration-planner-ui-app",
+  "date": "2026-05-28T09:56:33",
+  "languages": {
+    "TypeScript": 1275103,
+    "CSS": 240514,
+    "Shell": 17538,
+    "Makefile": 15046,
+    "JavaScript": 8462,
+    "Dockerfile": 1739,
+    "HTML": 775
+  },
+  "size": 1559177
+}

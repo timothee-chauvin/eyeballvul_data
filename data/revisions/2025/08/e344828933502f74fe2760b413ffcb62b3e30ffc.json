@@ -1,0 +1,23 @@
+{
+  "commit": "e344828933502f74fe2760b413ffcb62b3e30ffc",
+  "repo_url": "https://github.com/coze-dev/coze-studio",
+  "date": "2025-08-11T06:30:18",
+  "languages": {
+    "TypeScript": 28690647,
+    "Go": 4131022,
+    "Less": 947679,
+    "Thrift": 485696,
+    "JavaScript": 339249,
+    "HCL": 88636,
+    "Shell": 40374,
+    "MDX": 21245,
+    "Python": 18671,
+    "CSS": 12094,
+    "Makefile": 4638,
+    "Handlebars": 4425,
+    "Dockerfile": 4015,
+    "Smarty": 1563,
+    "HTML": 936
+  },
+  "size": 34790890
+}

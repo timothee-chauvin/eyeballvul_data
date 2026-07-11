@@ -1,0 +1,29 @@
+{
+  "commit": "de6eb7aaf21daca305904fef7c0866fc1da9de42",
+  "repo_url": "https://github.com/molotovcherry/android-imagemagick7",
+  "date": "2025-11-30T18:49:56",
+  "languages": {
+    "C": 71969156,
+    "C++": 25061260,
+    "Makefile": 2689550,
+    "Assembly": 1642692,
+    "Shell": 804355,
+    "Roff": 363828,
+    "Python": 308674,
+    "Perl": 186486,
+    "HTML": 126958,
+    "Pascal": 123885,
+    "M4": 110344,
+    "Fortran": 55112,
+    "CMake": 21921,
+    "Java": 16739,
+    "Batchfile": 16481,
+    "XSLT": 13709,
+    "PowerShell": 9705,
+    "CSS": 1750,
+    "sed": 908,
+    "Emacs Lisp": 809,
+    "Dockerfile": 478
+  },
+  "size": 103524800
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "0244b45ffae9966a3603666ce2945cce9b9d8467",
+  "repo_url": "https://github.com/nopsolutions/nopcommerce",
+  "date": "2021-04-09T12:40:05",
+  "languages": {
+    "C#": 13059691,
+    "HTML": 3553675,
+    "TSQL": 2379032,
+    "JavaScript": 1364910,
+    "Less": 521117,
+    "CSS": 440730,
+    "Dockerfile": 3385,
+    "Batchfile": 2818,
+    "Shell": 82
+  },
+  "size": 21325440
+}

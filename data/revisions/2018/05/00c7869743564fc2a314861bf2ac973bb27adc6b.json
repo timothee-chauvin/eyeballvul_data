@@ -1,0 +1,17 @@
+{
+  "commit": "00c7869743564fc2a314861bf2ac973bb27adc6b",
+  "repo_url": "https://github.com/eosio/eos",
+  "date": "2018-05-25T23:36:41",
+  "languages": {
+    "C++": 6836477,
+    "WebAssembly": 6269741,
+    "CMake": 353938,
+    "C": 295256,
+    "Python": 199919,
+    "Shell": 137278,
+    "HTML": 72284,
+    "Perl": 8836,
+    "Dockerfile": 6639
+  },
+  "size": 14180368
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "485a7ee9256c8e25de87a5d69d538e318e49b56d",
+  "repo_url": "https://github.com/presire/qsnapper",
+  "date": "2026-04-13T06:40:10",
+  "languages": {
+    "C++": 220330,
+    "QML": 116139,
+    "CMake": 21273,
+    "Makefile": 4347,
+    "Shell": 725
+  },
+  "size": 362814
+}

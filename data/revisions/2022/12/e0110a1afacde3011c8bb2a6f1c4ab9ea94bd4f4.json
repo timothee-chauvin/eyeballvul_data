@@ -1,0 +1,13 @@
+{
+  "commit": "e0110a1afacde3011c8bb2a6f1c4ab9ea94bd4f4",
+  "repo_url": "https://github.com/potatosalad/erlang-jose",
+  "date": "2022-12-16T18:34:57",
+  "languages": {
+    "Erlang": 1192675,
+    "Elixir": 191816,
+    "Makefile": 1899,
+    "Dockerfile": 1140,
+    "Shell": 611
+  },
+  "size": 1388141
+}

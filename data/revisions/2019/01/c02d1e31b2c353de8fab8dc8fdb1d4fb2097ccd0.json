@@ -1,0 +1,17 @@
+{
+  "commit": "c02d1e31b2c353de8fab8dc8fdb1d4fb2097ccd0",
+  "repo_url": "https://github.com/thinkcmf/thinkcmf",
+  "date": "2019-01-11T09:41:03",
+  "languages": {
+    "PHP": 2133422,
+    "JavaScript": 1379850,
+    "HTML": 667896,
+    "CSS": 180390,
+    "PLpgSQL": 45559,
+    "Smarty": 32252,
+    "Vue": 567,
+    "SCSS": 274,
+    "Roff": 53
+  },
+  "size": 4440263
+}

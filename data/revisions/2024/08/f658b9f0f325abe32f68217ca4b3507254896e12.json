@@ -1,0 +1,13 @@
+{
+  "commit": "f658b9f0f325abe32f68217ca4b3507254896e12",
+  "repo_url": "https://github.com/kubernetes-sigs/secrets-store-sync-controller",
+  "date": "2024-08-23T17:05:44",
+  "languages": {
+    "Go": 149811,
+    "Shell": 14323,
+    "Makefile": 13751,
+    "Smarty": 6678,
+    "Dockerfile": 1190
+  },
+  "size": 185753
+}

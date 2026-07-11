@@ -1,0 +1,12 @@
+{
+  "commit": "8b4a6046deaeddeb093e2a46e36a1b3c2b4b7c13",
+  "repo_url": "https://github.com/dbashford/textract",
+  "date": "2018-08-03T21:06:41",
+  "languages": {
+    "HTML": 148889,
+    "JavaScript": 94555,
+    "Rich Text Format": 26788,
+    "CSS": 16
+  },
+  "size": 270248
+}

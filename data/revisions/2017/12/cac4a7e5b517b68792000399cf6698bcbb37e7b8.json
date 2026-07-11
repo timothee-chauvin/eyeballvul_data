@@ -1,0 +1,25 @@
+{
+  "commit": "cac4a7e5b517b68792000399cf6698bcbb37e7b8",
+  "repo_url": "https://github.com/opencv/opencv",
+  "date": "2017-12-15T22:30:43",
+  "languages": {
+    "C++": 26938944,
+    "Cuda": 1696449,
+    "C": 1309565,
+    "CMake": 761363,
+    "Java": 681111,
+    "Python": 539381,
+    "Objective-C++": 211900,
+    "JavaScript": 92039,
+    "Perl": 15867,
+    "Shell": 15330,
+    "PowerShell": 14589,
+    "Objective-C": 7348,
+    "Batchfile": 4597,
+    "HTML": 2852,
+    "AIDL": 1987,
+    "TeX": 1320,
+    "Makefile": 385
+  },
+  "size": 32295027
+}

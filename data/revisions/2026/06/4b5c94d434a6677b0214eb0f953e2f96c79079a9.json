@@ -1,0 +1,25 @@
+{
+  "commit": "4b5c94d434a6677b0214eb0f953e2f96c79079a9",
+  "repo_url": "https://github.com/warpdotdev/warp",
+  "date": "2026-06-09T05:51:36",
+  "languages": {
+    "Rust": 52783283,
+    "Shell": 380506,
+    "Python": 199041,
+    "Objective-C": 141245,
+    "PowerShell": 79372,
+    "HTML": 52633,
+    "JavaScript": 35236,
+    "Scheme": 23605,
+    "WGSL": 23252,
+    "Metal": 17100,
+    "Inno Setup": 15806,
+    "Nix": 11205,
+    "Dockerfile": 8853,
+    "TypeScript": 5597,
+    "C": 1193,
+    "Makefile": 711,
+    "Handlebars": 410
+  },
+  "size": 53779048
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "1e2ca7401692ba94d7405de6e9dd1d1e73ca880f",
+  "repo_url": "https://github.com/kohler/gifsicle",
+  "date": "2019-04-18T20:09:42",
+  "languages": {
+    "C": 616393,
+    "Perl": 54855,
+    "Roff": 40150,
+    "M4": 9936,
+    "Makefile": 2454,
+    "Shell": 24
+  },
+  "size": 723812
+}

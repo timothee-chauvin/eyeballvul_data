@@ -1,0 +1,15 @@
+{
+  "commit": "dce690a07d0e25530a50d1c0dcbad312af0cf1ed",
+  "repo_url": "https://github.com/metal3-io/ip-address-manager",
+  "date": "2026-03-19T11:05:37",
+  "languages": {
+    "Go": 260297,
+    "Shell": 33059,
+    "Makefile": 13614,
+    "Python": 10565,
+    "Dockerfile": 2468,
+    "Smarty": 2197,
+    "Starlark": 1094
+  },
+  "size": 323294
+}

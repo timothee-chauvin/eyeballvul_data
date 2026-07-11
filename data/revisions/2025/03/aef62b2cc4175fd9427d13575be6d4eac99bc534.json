@@ -1,0 +1,13 @@
+{
+  "commit": "aef62b2cc4175fd9427d13575be6d4eac99bc534",
+  "repo_url": "https://github.com/thu-pacman/chitu",
+  "date": "2025-03-14T02:19:31",
+  "languages": {
+    "Python": 455228,
+    "Shell": 4965,
+    "Cuda": 4681,
+    "C++": 3136,
+    "Dockerfile": 1215
+  },
+  "size": 469225
+}

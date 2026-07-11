@@ -1,0 +1,16 @@
+{
+  "commit": "27d3bc6e5d5cd758f0237c0a510d4563eba521b0",
+  "repo_url": "https://github.com/projectcontour/contour",
+  "date": "2024-04-10T14:41:22",
+  "languages": {
+    "Go": 5052760,
+    "HTML": 4186429,
+    "Shell": 46277,
+    "SCSS": 33371,
+    "Makefile": 14850,
+    "Smarty": 3855,
+    "Dockerfile": 1206,
+    "JavaScript": 566
+  },
+  "size": 9339314
+}

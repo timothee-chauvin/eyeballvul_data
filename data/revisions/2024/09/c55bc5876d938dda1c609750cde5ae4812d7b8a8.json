@@ -1,0 +1,18 @@
+{
+  "commit": "c55bc5876d938dda1c609750cde5ae4812d7b8a8",
+  "repo_url": "https://github.com/libplctag/libplctag",
+  "date": "2024-09-03T17:37:53",
+  "languages": {
+    "C": 2265229,
+    "C++": 44068,
+    "Java": 32367,
+    "Python": 31978,
+    "CMake": 26795,
+    "Pascal": 23416,
+    "JetBrains MPS": 16726,
+    "Shell": 11145,
+    "Go": 10871,
+    "Makefile": 2417
+  },
+  "size": 2465012
+}

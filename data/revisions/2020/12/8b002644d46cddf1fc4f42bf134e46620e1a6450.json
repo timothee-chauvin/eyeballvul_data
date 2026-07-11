@@ -1,0 +1,12 @@
+{
+  "commit": "8b002644d46cddf1fc4f42bf134e46620e1a6450",
+  "repo_url": "https://github.com/mix-php/mix",
+  "date": "2020-12-14T08:08:11",
+  "languages": {
+    "PHP": 705525,
+    "Go": 20888,
+    "Shell": 1871,
+    "PLpgSQL": 1735
+  },
+  "size": 730019
+}

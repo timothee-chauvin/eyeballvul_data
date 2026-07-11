@@ -1,0 +1,17 @@
+{
+  "commit": "d2b7c3783ae28c5d7dc1bd4e940f5e34436faca9",
+  "repo_url": "https://github.com/webdriverio/webdriverio",
+  "date": "2026-02-01T06:48:10",
+  "languages": {
+    "TypeScript": 6276916,
+    "JavaScript": 210016,
+    "EJS": 78737,
+    "CSS": 38791,
+    "Dockerfile": 21157,
+    "Gherkin": 4129,
+    "Vue": 328,
+    "Svelte": 228,
+    "HTML": 21
+  },
+  "size": 6630323
+}

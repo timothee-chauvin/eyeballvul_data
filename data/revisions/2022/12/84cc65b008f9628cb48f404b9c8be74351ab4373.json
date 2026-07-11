@@ -1,0 +1,13 @@
+{
+  "commit": "84cc65b008f9628cb48f404b9c8be74351ab4373",
+  "repo_url": "https://github.com/kimai/kimai",
+  "date": "2022-12-17T00:43:45",
+  "languages": {
+    "PHP": 4596273,
+    "Twig": 569044,
+    "JavaScript": 115283,
+    "SCSS": 43598,
+    "CSS": 29133
+  },
+  "size": 5353331
+}

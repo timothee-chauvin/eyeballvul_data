@@ -1,0 +1,15 @@
+{
+  "commit": "8016b821a260840ccb81ef520f2804b9482f3820",
+  "repo_url": "https://github.com/aquasecurity/trivy",
+  "date": "2024-05-04T05:34:54",
+  "languages": {
+    "Go": 5418642,
+    "Mustache": 55365,
+    "Smarty": 20321,
+    "Shell": 12914,
+    "Open Policy Agent": 4279,
+    "Yacc": 1260,
+    "Dockerfile": 143
+  },
+  "size": 5512924
+}

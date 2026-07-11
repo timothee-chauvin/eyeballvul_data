@@ -1,0 +1,15 @@
+{
+  "commit": "cc7b676c8a439641c98ee04dca6115e7348bb39b",
+  "repo_url": "https://github.com/apify/crawlee-python",
+  "date": "2026-04-27T16:33:03",
+  "languages": {
+    "Python": 2203533,
+    "MDX": 507836,
+    "JavaScript": 113713,
+    "CSS": 58584,
+    "Lua": 4424,
+    "Dockerfile": 4406,
+    "Shell": 94
+  },
+  "size": 2892590
+}

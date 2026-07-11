@@ -1,0 +1,14 @@
+{
+  "commit": "cbf8247e6eb6fd3177701125fab867f38cc64722",
+  "repo_url": "https://github.com/cog-creators/red-discordbot",
+  "date": "2024-04-21T02:04:51",
+  "languages": {
+    "Python": 2793914,
+    "PLpgSQL": 25564,
+    "PowerShell": 2738,
+    "Makefile": 1730,
+    "Batchfile": 1281,
+    "HTML": 454
+  },
+  "size": 2825681
+}

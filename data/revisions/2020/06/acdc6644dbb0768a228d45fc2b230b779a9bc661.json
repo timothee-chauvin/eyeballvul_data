@@ -1,0 +1,14 @@
+{
+  "commit": "acdc6644dbb0768a228d45fc2b230b779a9bc661",
+  "repo_url": "https://github.com/motioneye-project/motioneye",
+  "date": "2020-06-06T09:47:54",
+  "languages": {
+    "Python": 387320,
+    "JavaScript": 228148,
+    "HTML": 110860,
+    "CSS": 36420,
+    "Shell": 6023,
+    "Dockerfile": 1945
+  },
+  "size": 770716
+}

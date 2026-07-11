@@ -1,0 +1,19 @@
+{
+  "commit": "455dc524303d96acf2788c5f94078d2e35dc53fe",
+  "repo_url": "https://github.com/microsoft/powertoys",
+  "date": "2026-04-26T13:05:06",
+  "languages": {
+    "C#": 13470172,
+    "C++": 8474182,
+    "PowerShell": 304919,
+    "C": 161560,
+    "Python": 158074,
+    "JavaScript": 32132,
+    "HTML": 9959,
+    "Rich Text Format": 9666,
+    "Batchfile": 3686,
+    "HLSL": 3261,
+    "Makefile": 1408
+  },
+  "size": 22629019
+}

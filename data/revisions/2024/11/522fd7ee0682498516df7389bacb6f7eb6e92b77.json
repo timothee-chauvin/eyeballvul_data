@@ -1,0 +1,16 @@
+{
+  "commit": "522fd7ee0682498516df7389bacb6f7eb6e92b77",
+  "repo_url": "https://github.com/slab/quill",
+  "date": "2024-11-30T12:19:20",
+  "languages": {
+    "TypeScript": 582079,
+    "MDX": 169366,
+    "JavaScript": 79455,
+    "SCSS": 41676,
+    "Stylus": 17007,
+    "CSS": 12696,
+    "HTML": 5394,
+    "Shell": 520
+  },
+  "size": 908193
+}

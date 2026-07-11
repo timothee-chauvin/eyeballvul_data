@@ -1,0 +1,18 @@
+{
+  "commit": "9e6fd1e0be243c3782bd523ffa20395e138dfc45",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-cpp",
+  "date": "2022-07-30T17:53:30",
+  "languages": {
+    "C++": 2683117,
+    "CMake": 115381,
+    "Starlark": 80970,
+    "Shell": 43863,
+    "Batchfile": 26333,
+    "C": 24972,
+    "PowerShell": 9340,
+    "Dockerfile": 8258,
+    "Jinja": 3214,
+    "Python": 191
+  },
+  "size": 2995639
+}

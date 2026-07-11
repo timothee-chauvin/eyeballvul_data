@@ -1,0 +1,13 @@
+{
+  "commit": "3b4de1409c5caf0657c606bd3185085b154404fc",
+  "repo_url": "https://github.com/ktorio/ktor",
+  "date": "2022-08-10T15:09:50",
+  "languages": {
+    "Kotlin": 5731884,
+    "Python": 948,
+    "JavaScript": 775,
+    "HTML": 317,
+    "Mustache": 77
+  },
+  "size": 5734001
+}

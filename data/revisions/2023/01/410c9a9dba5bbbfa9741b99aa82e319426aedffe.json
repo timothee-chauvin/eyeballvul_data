@@ -1,0 +1,17 @@
+{
+  "commit": "410c9a9dba5bbbfa9741b99aa82e319426aedffe",
+  "repo_url": "https://github.com/eldy/awstats",
+  "date": "2023-01-17T12:56:35",
+  "languages": {
+    "Perl": 1567908,
+    "Raku": 399541,
+    "Java": 13105,
+    "XSLT": 9294,
+    "Promela": 9267,
+    "JavaScript": 7555,
+    "CSS": 5158,
+    "Shell": 3760,
+    "PHP": 967
+  },
+  "size": 2016555
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "6e0d24067e57572254471e0460bcc10931740c40",
+  "repo_url": "https://github.com/openc3/cosmos",
+  "date": "2024-12-17T22:05:17",
+  "languages": {
+    "Ruby": 4482858,
+    "Python": 2581069,
+    "Vue": 1038523,
+    "JavaScript": 967014,
+    "TypeScript": 302198,
+    "C": 137505,
+    "Shell": 42526,
+    "SCSS": 39431,
+    "Dockerfile": 16924,
+    "CSS": 16213,
+    "Batchfile": 13257,
+    "HTML": 11345,
+    "Svelte": 1117
+  },
+  "size": 9649980
+}

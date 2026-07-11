@@ -1,0 +1,14 @@
+{
+  "commit": "0f6f1e1d86ce13ae501b8bab1e13d586873f9af1",
+  "repo_url": "https://github.com/uasoft-indonesia/badaso",
+  "date": "2022-10-19T00:20:48",
+  "languages": {
+    "Vue": 713247,
+    "PHP": 708149,
+    "JavaScript": 149814,
+    "SCSS": 68251,
+    "Blade": 14615,
+    "Shell": 22
+  },
+  "size": 1654098
+}

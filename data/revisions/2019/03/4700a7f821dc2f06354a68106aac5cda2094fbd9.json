@@ -1,0 +1,15 @@
+{
+  "commit": "4700a7f821dc2f06354a68106aac5cda2094fbd9",
+  "repo_url": "https://github.com/bolt/bolt",
+  "date": "2019-03-07T15:18:59",
+  "languages": {
+    "PHP": 3250536,
+    "JavaScript": 582023,
+    "Twig": 397013,
+    "CSS": 161157,
+    "SCSS": 92948,
+    "HTML": 12303,
+    "Shell": 2618
+  },
+  "size": 4498598
+}

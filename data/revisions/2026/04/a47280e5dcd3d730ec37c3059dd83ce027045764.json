@@ -1,0 +1,15 @@
+{
+  "commit": "a47280e5dcd3d730ec37c3059dd83ce027045764",
+  "repo_url": "https://github.com/jkroepke/openvpn-auth-oauth2",
+  "date": "2026-04-01T14:33:38",
+  "languages": {
+    "Go": 618360,
+    "C": 27388,
+    "CSS": 6284,
+    "Makefile": 2538,
+    "Shell": 2300,
+    "Dockerfile": 1846,
+    "JavaScript": 323
+  },
+  "size": 659039
+}

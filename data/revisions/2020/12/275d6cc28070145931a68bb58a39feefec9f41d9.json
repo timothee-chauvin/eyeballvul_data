@@ -1,0 +1,13 @@
+{
+  "commit": "275d6cc28070145931a68bb58a39feefec9f41d9",
+  "repo_url": "https://github.com/hacs/integration",
+  "date": "2020-12-15T00:16:15",
+  "languages": {
+    "Python": 300775,
+    "Makefile": 1943,
+    "Shell": 545,
+    "Dockerfile": 169,
+    "JavaScript": 47
+  },
+  "size": 303479
+}

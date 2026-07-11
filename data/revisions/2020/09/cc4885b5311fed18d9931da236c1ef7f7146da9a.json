@@ -1,0 +1,15 @@
+{
+  "commit": "cc4885b5311fed18d9931da236c1ef7f7146da9a",
+  "repo_url": "https://github.com/ckeditor/ckeditor4",
+  "date": "2020-09-07T07:12:03",
+  "languages": {
+    "Rich Text Format": 40532597,
+    "HTML": 23796299,
+    "JavaScript": 11028898,
+    "PHP": 3345441,
+    "CSS": 364209,
+    "Shell": 9807,
+    "Python": 2422
+  },
+  "size": 79079673
+}

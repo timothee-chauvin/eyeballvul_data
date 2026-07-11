@@ -1,0 +1,13 @@
+{
+  "commit": "ba75c68467cd77274f79d091a6427ac0af71f162",
+  "repo_url": "https://github.com/halo-dev/halo",
+  "date": "2019-03-13T14:10:30",
+  "languages": {
+    "Java": 1152799,
+    "FreeMarker": 534900,
+    "SCSS": 10431,
+    "Shell": 1489,
+    "Dockerfile": 550
+  },
+  "size": 1700169
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "0d8438f27890fbd4e4aa3a3bc3b2fd8ea5bef1db",
+  "repo_url": "https://github.com/hashicorp/next-mdx-remote",
+  "date": "2024-05-22T18:36:17",
+  "languages": {
+    "TypeScript": 28397,
+    "JavaScript": 6409,
+    "MDX": 746
+  },
+  "size": 35552
+}

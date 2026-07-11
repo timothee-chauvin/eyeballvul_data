@@ -1,0 +1,15 @@
+{
+  "commit": "490e0fc9771a8ba824f198f2fc252639b85a432d",
+  "repo_url": "https://github.com/stackstorm/st2",
+  "date": "2022-05-05T17:31:55",
+  "languages": {
+    "Python": 6376262,
+    "Jinja": 174405,
+    "Makefile": 77082,
+    "Shell": 75689,
+    "PowerShell": 856,
+    "JavaScript": 444,
+    "HTML": 198
+  },
+  "size": 6704936
+}

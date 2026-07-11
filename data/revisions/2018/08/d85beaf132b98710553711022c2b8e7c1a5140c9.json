@@ -1,0 +1,14 @@
+{
+  "commit": "d85beaf132b98710553711022c2b8e7c1a5140c9",
+  "repo_url": "https://github.com/busyorg/busy",
+  "date": "2018-08-14T10:41:02",
+  "languages": {
+    "JavaScript": 799138,
+    "Less": 124987,
+    "Handlebars": 3964,
+    "HTML": 1964,
+    "Dockerfile": 146,
+    "Procfile": 72
+  },
+  "size": 930271
+}

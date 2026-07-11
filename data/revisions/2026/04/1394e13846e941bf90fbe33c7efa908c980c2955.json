@@ -1,0 +1,12 @@
+{
+  "commit": "1394e13846e941bf90fbe33c7efa908c980c2955",
+  "repo_url": "https://github.com/oviva-ag/epa4all-client",
+  "date": "2026-04-22T18:36:20",
+  "languages": {
+    "Java": 628719,
+    "Dockerfile": 1383,
+    "Makefile": 1140,
+    "Shell": 972
+  },
+  "size": 632214
+}

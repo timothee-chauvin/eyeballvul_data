@@ -1,0 +1,15 @@
+{
+  "commit": "0500b86f0cd2203c93973decb4b80523379ff29e",
+  "repo_url": "https://github.com/sbpp/sourcebans-pp",
+  "date": "2025-11-02T18:58:37",
+  "languages": {
+    "PHP": 769849,
+    "JavaScript": 403774,
+    "Smarty": 318388,
+    "SourcePawn": 236253,
+    "HTML": 73755,
+    "CSS": 31641,
+    "Hack": 4143
+  },
+  "size": 1837803
+}

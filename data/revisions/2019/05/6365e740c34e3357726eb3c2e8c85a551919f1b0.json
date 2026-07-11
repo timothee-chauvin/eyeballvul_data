@@ -1,0 +1,18 @@
+{
+  "commit": "6365e740c34e3357726eb3c2e8c85a551919f1b0",
+  "repo_url": "https://github.com/apache/teaclave-sgx-sdk",
+  "date": "2019-05-10T17:49:33",
+  "languages": {
+    "Rust": 2968878,
+    "WebAssembly": 2322607,
+    "C": 688028,
+    "C++": 380939,
+    "Makefile": 343459,
+    "Shell": 264413,
+    "Java": 26452,
+    "M4": 12876,
+    "Go": 10530,
+    "Awk": 647
+  },
+  "size": 7018829
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "dd520d06ac8229fa8b584a3759887d61f0e6019b",
+  "repo_url": "https://github.com/scoder/lupa",
+  "date": "2025-10-24T05:52:35",
+  "languages": {
+    "Python": 136148,
+    "Cython": 118895,
+    "Makefile": 2811
+  },
+  "size": 257854
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "dbbf52a20e29c9b0f81512cfe7f2fee7a76b9368",
+  "repo_url": "https://github.com/oban-bg/oban_web",
+  "date": "2026-05-11T10:15:58",
+  "languages": {
+    "Elixir": 636335,
+    "JavaScript": 82595,
+    "Python": 6612,
+    "HTML": 5633,
+    "CSS": 2258,
+    "Dockerfile": 1295
+  },
+  "size": 734728
+}

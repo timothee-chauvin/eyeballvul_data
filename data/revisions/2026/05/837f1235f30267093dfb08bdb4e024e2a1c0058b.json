@@ -1,0 +1,14 @@
+{
+  "commit": "837f1235f30267093dfb08bdb4e024e2a1c0058b",
+  "repo_url": "https://github.com/rancher/rancher-ai-agent",
+  "date": "2026-05-13T13:03:40",
+  "languages": {
+    "Python": 544227,
+    "Go": 3855,
+    "HTML": 3787,
+    "Dockerfile": 1769,
+    "Makefile": 787,
+    "Smarty": 185
+  },
+  "size": 554610
+}

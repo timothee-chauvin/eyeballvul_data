@@ -1,0 +1,15 @@
+{
+  "commit": "fd17b26a97c1333d6d58f7f41106c619b62ad4ab",
+  "repo_url": "https://github.com/flask-dashboard/flask-monitoringdashboard",
+  "date": "2025-10-27T21:25:40",
+  "languages": {
+    "Python": 275429,
+    "JavaScript": 75232,
+    "HTML": 68676,
+    "CSS": 15457,
+    "SCSS": 332,
+    "Shell": 135,
+    "Procfile": 85
+  },
+  "size": 435346
+}

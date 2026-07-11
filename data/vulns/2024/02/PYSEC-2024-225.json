@@ -12,8 +12,8 @@
   "repo_url": "https://github.com/pyca/cryptography",
   "cwes": [],
   "commits": [
-    "338a65a7df74e189f6b5d1d3a6315ffa911b21c2",
     "c0ee738a8460dc3551758400772978ed62a84d46",
-    "d02de9f26e9a2353e89427c1cea8b9ed2bae969e"
+    "c4d494fd3ee907316bd846e90cbf4a8df75a25ac",
+    "c9e65222c91df8b6f61650a3460e30232962c1e0"
   ]
 }

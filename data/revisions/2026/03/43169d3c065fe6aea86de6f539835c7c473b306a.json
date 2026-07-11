@@ -1,0 +1,13 @@
+{
+  "commit": "43169d3c065fe6aea86de6f539835c7c473b306a",
+  "repo_url": "https://github.com/minecanton209/novumos",
+  "date": "2026-03-08T18:50:40",
+  "languages": {
+    "Zig": 589515,
+    "Assembly": 20011,
+    "C": 4984,
+    "Batchfile": 4787,
+    "Shell": 2321
+  },
+  "size": 621618
+}

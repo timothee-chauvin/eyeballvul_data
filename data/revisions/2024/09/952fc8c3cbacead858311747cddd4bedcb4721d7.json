@@ -1,0 +1,15 @@
+{
+  "commit": "952fc8c3cbacead858311747cddd4bedcb4721d7",
+  "repo_url": "https://github.com/gaizhenbiao/chuanhuchatgpt",
+  "date": "2024-09-18T04:33:02",
+  "languages": {
+    "Python": 430300,
+    "JavaScript": 90826,
+    "CSS": 63571,
+    "HTML": 52103,
+    "Shell": 1338,
+    "Dockerfile": 1275,
+    "Batchfile": 464
+  },
+  "size": 639877
+}

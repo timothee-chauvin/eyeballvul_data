@@ -1,0 +1,17 @@
+{
+  "commit": "fd13d0b4d9e397c3b8554bc572cae6e5a7f70858",
+  "repo_url": "https://github.com/enhavo/enhavo",
+  "date": "2023-09-21T14:55:49",
+  "languages": {
+    "PHP": 3740086,
+    "TypeScript": 428477,
+    "Twig": 174234,
+    "Vue": 126414,
+    "JavaScript": 125551,
+    "SCSS": 91679,
+    "Gherkin": 13222,
+    "Handlebars": 670,
+    "Shell": 286
+  },
+  "size": 4700619
+}

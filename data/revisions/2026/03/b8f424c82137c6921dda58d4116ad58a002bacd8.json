@@ -1,0 +1,12 @@
+{
+  "commit": "b8f424c82137c6921dda58d4116ad58a002bacd8",
+  "repo_url": "https://github.com/apache/skywalking-mcp",
+  "date": "2026-03-23T03:48:05",
+  "languages": {
+    "Go": 158849,
+    "Shell": 8584,
+    "Makefile": 4534,
+    "Dockerfile": 1970
+  },
+  "size": 173937
+}

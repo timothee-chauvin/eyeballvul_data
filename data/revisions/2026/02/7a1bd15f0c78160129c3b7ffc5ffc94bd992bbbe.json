@@ -1,0 +1,18 @@
+{
+  "commit": "7a1bd15f0c78160129c3b7ffc5ffc94bd992bbbe",
+  "repo_url": "https://github.com/aider-ai/aider",
+  "date": "2026-02-12T00:42:25",
+  "languages": {
+    "Python": 1329280,
+    "CSS": 67532,
+    "Shell": 66468,
+    "Scheme": 64347,
+    "JavaScript": 60909,
+    "HTML": 44976,
+    "PowerShell": 19648,
+    "Dockerfile": 4405,
+    "SCSS": 1957,
+    "Ruby": 196
+  },
+  "size": 1659718
+}

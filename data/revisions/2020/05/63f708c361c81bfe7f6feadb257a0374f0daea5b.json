@@ -1,0 +1,17 @@
+{
+  "commit": "63f708c361c81bfe7f6feadb257a0374f0daea5b",
+  "repo_url": "https://github.com/siteserver/cms",
+  "date": "2020-05-31T04:21:41",
+  "languages": {
+    "C#": 5663544,
+    "JavaScript": 4970365,
+    "HTML": 928803,
+    "ASP.NET": 597807,
+    "CSS": 515543,
+    "Roff": 37139,
+    "Smalltalk": 12262,
+    "PowerShell": 551,
+    "Dockerfile": 224
+  },
+  "size": 12726238
+}

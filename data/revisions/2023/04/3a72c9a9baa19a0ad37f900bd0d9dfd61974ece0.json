@@ -1,0 +1,13 @@
+{
+  "commit": "3a72c9a9baa19a0ad37f900bd0d9dfd61974ece0",
+  "repo_url": "https://github.com/movim/movim",
+  "date": "2023-04-13T21:11:31",
+  "languages": {
+    "JavaScript": 1711416,
+    "PHP": 1398231,
+    "Smarty": 412415,
+    "CSS": 119222,
+    "Shell": 6463
+  },
+  "size": 3647747
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "b985101d9a24558c0c7aeffeb7f05e7031d4a2a0",
+  "repo_url": "https://github.com/apache/atlas",
+  "date": "2026-04-07T03:39:29",
+  "languages": {
+    "Java": 14465150,
+    "JavaScript": 2599174,
+    "TypeScript": 1446467,
+    "Python": 451309,
+    "SCSS": 237652,
+    "HTML": 227874,
+    "Shell": 130496,
+    "XSLT": 8466,
+    "Smarty": 8113,
+    "CSS": 7334,
+    "ANTLR": 6201,
+    "Dockerfile": 2279,
+    "Makefile": 1158
+  },
+  "size": 19591673
+}

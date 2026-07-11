@@ -1,0 +1,14 @@
+{
+  "commit": "ea106e704833f60a19684cc27b3f2ec94064173e",
+  "repo_url": "https://github.com/oroinc/crm",
+  "date": "2023-03-31T09:11:18",
+  "languages": {
+    "PHP": 3295370,
+    "Gherkin": 278726,
+    "Twig": 186445,
+    "JavaScript": 68061,
+    "SCSS": 11401,
+    "HTML": 3833
+  },
+  "size": 3843836
+}

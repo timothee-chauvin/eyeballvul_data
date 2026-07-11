@@ -1,0 +1,13 @@
+{
+  "commit": "935ee117a6339278587a3a0559e29f677a52ea46",
+  "repo_url": "https://github.com/fccview/jotty",
+  "date": "2026-03-20T10:38:55",
+  "languages": {
+    "TypeScript": 2872588,
+    "CSS": 59972,
+    "JavaScript": 8159,
+    "Shell": 4150,
+    "Dockerfile": 1593
+  },
+  "size": 2946462
+}

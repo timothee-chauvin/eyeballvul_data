@@ -1,0 +1,14 @@
+{
+  "commit": "f9fe3b0a5343f7fbb3f5c74196bd0fce88df39d5",
+  "repo_url": "https://github.com/stephane/libmodbus",
+  "date": "2019-07-31T21:17:38",
+  "languages": {
+    "C": 206819,
+    "M4": 6401,
+    "JavaScript": 4773,
+    "Makefile": 2584,
+    "Shell": 668,
+    "Emacs Lisp": 96
+  },
+  "size": 221341
+}

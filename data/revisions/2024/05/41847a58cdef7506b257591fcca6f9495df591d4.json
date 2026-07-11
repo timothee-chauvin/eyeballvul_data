@@ -1,0 +1,15 @@
+{
+  "commit": "41847a58cdef7506b257591fcca6f9495df591d4",
+  "repo_url": "https://github.com/sparkle-project/sparkle",
+  "date": "2024-05-06T04:25:08",
+  "languages": {
+    "Objective-C": 643387,
+    "Swift": 244771,
+    "Shell": 17427,
+    "Ruby": 1313,
+    "Makefile": 1268,
+    "Python": 1258,
+    "CSS": 231
+  },
+  "size": 909655
+}

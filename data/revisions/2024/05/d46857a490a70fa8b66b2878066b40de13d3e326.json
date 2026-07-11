@@ -1,0 +1,12 @@
+{
+  "commit": "d46857a490a70fa8b66b2878066b40de13d3e326",
+  "repo_url": "https://github.com/joblib/joblib",
+  "date": "2024-05-02T12:10:55",
+  "languages": {
+    "Python": 678306,
+    "Shell": 4943,
+    "Cython": 390,
+    "Makefile": 363
+  },
+  "size": 684002
+}

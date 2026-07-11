@@ -1,0 +1,13 @@
+{
+  "commit": "9b3f618f52c806a87fe5af887e614e2aeb53540d",
+  "repo_url": "https://github.com/yoda-digital/mcp-gitlab-server",
+  "date": "2026-05-05T13:22:46",
+  "languages": {
+    "TypeScript": 225586,
+    "JavaScript": 64862,
+    "Smarty": 1403,
+    "Dockerfile": 1096,
+    "Shell": 1007
+  },
+  "size": 293954
+}

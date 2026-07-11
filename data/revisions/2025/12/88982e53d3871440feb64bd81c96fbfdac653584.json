@@ -1,0 +1,16 @@
+{
+  "commit": "88982e53d3871440feb64bd81c96fbfdac653584",
+  "repo_url": "https://github.com/garlic-signage/garlic-hub",
+  "date": "2025-12-04T00:01:09",
+  "languages": {
+    "PHP": 3049439,
+    "JavaScript": 330181,
+    "Mustache": 63095,
+    "CSS": 33280,
+    "Shell": 2944,
+    "Dockerfile": 1337,
+    "HTML": 492,
+    "Edge": 149
+  },
+  "size": 3480917
+}

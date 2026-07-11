@@ -1,0 +1,15 @@
+{
+  "commit": "f4ccb819137d13996de23392d5607bb5ade0a246",
+  "repo_url": "https://github.com/continuwuity/continuwuity",
+  "date": "2025-12-22T00:23:20",
+  "languages": {
+    "Rust": 2194307,
+    "Nix": 24572,
+    "Dockerfile": 15167,
+    "Shell": 10404,
+    "CSS": 5311,
+    "TypeScript": 4742,
+    "Jinja": 2312
+  },
+  "size": 2256815
+}

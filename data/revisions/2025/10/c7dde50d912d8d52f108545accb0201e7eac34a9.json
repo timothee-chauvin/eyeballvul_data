@@ -1,0 +1,14 @@
+{
+  "commit": "c7dde50d912d8d52f108545accb0201e7eac34a9",
+  "repo_url": "https://github.com/litmuschaos/litmus",
+  "date": "2025-10-16T10:46:13",
+  "languages": {
+    "Go": 1018031,
+    "SCSS": 155125,
+    "Makefile": 10847,
+    "Shell": 6227,
+    "Dockerfile": 3851,
+    "JavaScript": 718
+  },
+  "size": 1194799
+}

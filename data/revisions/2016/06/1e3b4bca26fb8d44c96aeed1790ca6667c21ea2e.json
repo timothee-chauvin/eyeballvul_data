@@ -1,0 +1,12 @@
+{
+  "commit": "1e3b4bca26fb8d44c96aeed1790ca6667c21ea2e",
+  "repo_url": "https://github.com/inveniosoftware/invenio-communities",
+  "date": "2016-06-16T08:17:18",
+  "languages": {
+    "Python": 110786,
+    "HTML": 51567,
+    "JavaScript": 9703,
+    "Shell": 1206
+  },
+  "size": 173262
+}

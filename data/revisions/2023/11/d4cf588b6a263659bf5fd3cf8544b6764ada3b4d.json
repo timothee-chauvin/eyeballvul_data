@@ -1,0 +1,12 @@
+{
+  "commit": "d4cf588b6a263659bf5fd3cf8544b6764ada3b4d",
+  "repo_url": "https://github.com/piccolo-orm/piccolo",
+  "date": "2023-11-03T15:10:31",
+  "languages": {
+    "Python": 1282100,
+    "Jinja": 17290,
+    "Shell": 3173,
+    "CSS": 1056
+  },
+  "size": 1303619
+}

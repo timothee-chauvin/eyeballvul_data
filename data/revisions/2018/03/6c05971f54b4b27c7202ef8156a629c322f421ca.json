@@ -1,0 +1,17 @@
+{
+  "commit": "6c05971f54b4b27c7202ef8156a629c322f421ca",
+  "repo_url": "https://github.com/suse/portus",
+  "date": "2018-03-02T14:09:19",
+  "languages": {
+    "Ruby": 868671,
+    "Slim": 115198,
+    "JavaScript": 79824,
+    "Roff": 21394,
+    "SCSS": 19050,
+    "HTML": 16134,
+    "Vue": 15049,
+    "Shell": 11136,
+    "Dockerfile": 1264
+  },
+  "size": 1147720
+}

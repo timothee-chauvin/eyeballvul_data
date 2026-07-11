@@ -1,0 +1,11 @@
+{
+  "commit": "5db779cbb473b0bda684e428562d49c70ffdd8bb",
+  "repo_url": "https://github.com/cyclonedx/cyclonedx-node-npm",
+  "date": "2026-03-09T09:06:20",
+  "languages": {
+    "JavaScript": 72182,
+    "TypeScript": 55901,
+    "Shell": 913
+  },
+  "size": 128996
+}

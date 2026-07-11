@@ -1,0 +1,12 @@
+{
+  "commit": "0489fc8f6d74f4a26736ac1913e02b4027d33e79",
+  "repo_url": "https://github.com/parzivalhack/pyspector",
+  "date": "2026-02-11T14:44:09",
+  "languages": {
+    "Python": 97258,
+    "Rust": 76518,
+    "Shell": 3091,
+    "Dockerfile": 1580
+  },
+  "size": 178447
+}

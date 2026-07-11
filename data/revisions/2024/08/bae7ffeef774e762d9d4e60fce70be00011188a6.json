@@ -1,0 +1,12 @@
+{
+  "commit": "bae7ffeef774e762d9d4e60fce70be00011188a6",
+  "repo_url": "https://github.com/zilliztech/gptcache",
+  "date": "2024-08-01T11:24:53",
+  "languages": {
+    "Python": 582250,
+    "Shell": 1224,
+    "Makefile": 593,
+    "Dockerfile": 197
+  },
+  "size": 584264
+}

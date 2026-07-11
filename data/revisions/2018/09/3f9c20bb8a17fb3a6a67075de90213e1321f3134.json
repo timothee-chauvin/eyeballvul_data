@@ -1,0 +1,10 @@
+{
+  "commit": "3f9c20bb8a17fb3a6a67075de90213e1321f3134",
+  "repo_url": "https://github.com/pivotal-cf/on-demand-services-sdk",
+  "date": "2018-09-17T08:49:13",
+  "languages": {
+    "Go": 186576,
+    "Shell": 1709
+  },
+  "size": 188285
+}

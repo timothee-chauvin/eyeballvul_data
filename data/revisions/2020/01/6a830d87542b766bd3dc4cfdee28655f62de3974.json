@@ -1,0 +1,25 @@
+{
+  "commit": "6a830d87542b766bd3dc4cfdee28655f62de3974",
+  "repo_url": "https://github.com/apache/hbase",
+  "date": "2020-01-10T10:15:13",
+  "languages": {
+    "Java": 35473117,
+    "Ruby": 664447,
+    "Perl": 383739,
+    "Shell": 250388,
+    "Python": 111956,
+    "Thrift": 52568,
+    "CSS": 37063,
+    "Batchfile": 25343,
+    "C++": 19768,
+    "HTML": 17275,
+    "PHP": 8385,
+    "XSLT": 6764,
+    "Dockerfile": 6263,
+    "C": 4041,
+    "JavaScript": 2694,
+    "CMake": 1437,
+    "Makefile": 1359
+  },
+  "size": 37066607
+}

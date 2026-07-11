@@ -1,0 +1,11 @@
+{
+  "commit": "4628afe29312e0fa09517ce54cd3403443d119d9",
+  "repo_url": "https://github.com/sammycage/lunasvg",
+  "date": "2024-10-12T08:10:57",
+  "languages": {
+    "C++": 268599,
+    "CMake": 3209,
+    "Meson": 1645
+  },
+  "size": 273453
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "e8866ee7dff79a42155e8208eecea9eed4450550",
+  "repo_url": "https://github.com/openamp/open-amp",
+  "date": "2025-11-03T09:51:10",
+  "languages": {
+    "C": 276001,
+    "Perl": 193549,
+    "Python": 22541,
+    "CMake": 12569,
+    "Shell": 941
+  },
+  "size": 505601
+}

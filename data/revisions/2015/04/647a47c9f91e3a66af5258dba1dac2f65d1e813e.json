@@ -1,0 +1,13 @@
+{
+  "commit": "647a47c9f91e3a66af5258dba1dac2f65d1e813e",
+  "repo_url": "https://github.com/tonycoz/imager",
+  "date": "2015-04-03T01:13:24",
+  "languages": {
+    "Perl": 1382535,
+    "C": 1052619,
+    "XS": 128259,
+    "HTML": 20682,
+    "Shell": 325
+  },
+  "size": 2584420
+}

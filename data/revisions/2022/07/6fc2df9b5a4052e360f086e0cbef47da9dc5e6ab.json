@@ -1,0 +1,16 @@
+{
+  "commit": "6fc2df9b5a4052e360f086e0cbef47da9dc5e6ab",
+  "repo_url": "https://github.com/201206030/novel-plus",
+  "date": "2022-07-14T03:34:25",
+  "languages": {
+    "Java": 11185304,
+    "Less": 105997,
+    "SCSS": 79489,
+    "Hack": 46840,
+    "Vue": 7515,
+    "Shell": 4970,
+    "PHP": 3876,
+    "Dockerfile": 799
+  },
+  "size": 11434790
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "1a84d1ca22b8651f180aea5058429216ee1fb990",
+  "repo_url": "https://github.com/micropyramid/django-crm",
+  "date": "2019-02-02T05:42:19",
+  "languages": {
+    "HTML": 563607,
+    "Python": 313872,
+    "JavaScript": 73089,
+    "SCSS": 17501,
+    "Shell": 201,
+    "Dockerfile": 162
+  },
+  "size": 968432
+}

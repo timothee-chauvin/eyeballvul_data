@@ -1,0 +1,14 @@
+{
+  "commit": "1d1347e38a55e657dcc4c8f1c77bb3a26bfc9ff3",
+  "repo_url": "https://github.com/artifexsoftware/jbig2dec",
+  "date": "2023-08-30T11:34:46",
+  "languages": {
+    "C": 627089,
+    "Python": 12143,
+    "Shell": 5735,
+    "Makefile": 5125,
+    "C++": 4531,
+    "Roff": 2056
+  },
+  "size": 656679
+}

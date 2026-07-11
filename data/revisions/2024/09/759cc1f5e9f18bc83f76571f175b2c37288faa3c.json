@@ -1,0 +1,13 @@
+{
+  "commit": "759cc1f5e9f18bc83f76571f175b2c37288faa3c",
+  "repo_url": "https://github.com/guardrails-ai/guardrails",
+  "date": "2024-09-12T17:32:30",
+  "languages": {
+    "Python": 1275873,
+    "Jupyter Notebook": 572867,
+    "JavaScript": 15074,
+    "Makefile": 1731,
+    "Batchfile": 804
+  },
+  "size": 1866349
+}

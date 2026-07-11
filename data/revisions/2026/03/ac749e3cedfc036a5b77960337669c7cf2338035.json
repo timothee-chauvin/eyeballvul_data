@@ -1,0 +1,13 @@
+{
+  "commit": "ac749e3cedfc036a5b77960337669c7cf2338035",
+  "repo_url": "https://github.com/modelcontextprotocol/rust-sdk",
+  "date": "2026-03-26T15:31:13",
+  "languages": {
+    "Rust": 1441725,
+    "Shell": 15643,
+    "JavaScript": 5156,
+    "Python": 1193,
+    "Just": 787
+  },
+  "size": 1464504
+}

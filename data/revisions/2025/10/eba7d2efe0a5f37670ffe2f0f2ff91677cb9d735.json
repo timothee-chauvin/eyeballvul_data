@@ -1,0 +1,12 @@
+{
+  "commit": "eba7d2efe0a5f37670ffe2f0f2ff91677cb9d735",
+  "repo_url": "https://github.com/lupinlin1/jimeng-web-mcp",
+  "date": "2025-10-04T18:12:43",
+  "languages": {
+    "TypeScript": 632125,
+    "JavaScript": 2909,
+    "Shell": 2106,
+    "Dockerfile": 733
+  },
+  "size": 637873
+}

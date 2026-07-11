@@ -1,0 +1,16 @@
+{
+  "commit": "43af3a6aecdece4923ee74b108853f7b9c51ed12",
+  "repo_url": "https://github.com/yogeshojha/rengine",
+  "date": "2021-10-13T02:48:18",
+  "languages": {
+    "JavaScript": 1365172,
+    "CSS": 667028,
+    "HTML": 464916,
+    "Python": 363650,
+    "Shell": 10881,
+    "Dockerfile": 3237,
+    "Makefile": 2239,
+    "Batchfile": 1767
+  },
+  "size": 2878890
+}

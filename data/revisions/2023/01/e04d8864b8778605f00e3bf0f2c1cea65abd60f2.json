@@ -1,0 +1,16 @@
+{
+  "commit": "e04d8864b8778605f00e3bf0f2c1cea65abd60f2",
+  "repo_url": "https://github.com/strukturag/libheif",
+  "date": "2023-01-06T15:33:57",
+  "languages": {
+    "C++": 1420012,
+    "C": 101836,
+    "Go": 47892,
+    "Shell": 39866,
+    "CMake": 28356,
+    "M4": 20742,
+    "JavaScript": 9650,
+    "Makefile": 7343
+  },
+  "size": 1675697
+}

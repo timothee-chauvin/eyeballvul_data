@@ -1,0 +1,13 @@
+{
+  "commit": "6c6d4f6eeec3b3a4c441e0c0cbd3734500fb9e68",
+  "repo_url": "https://github.com/portainer/agent",
+  "date": "2021-12-01T03:37:53",
+  "languages": {
+    "Go": 177607,
+    "Shell": 17010,
+    "Dockerfile": 1039,
+    "HTML": 467,
+    "CSS": 279
+  },
+  "size": 196402
+}

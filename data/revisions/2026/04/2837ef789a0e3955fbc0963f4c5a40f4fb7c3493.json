@@ -1,0 +1,22 @@
+{
+  "commit": "2837ef789a0e3955fbc0963f4c5a40f4fb7c3493",
+  "repo_url": "https://github.com/hoppscotch/hoppscotch",
+  "date": "2026-04-10T08:22:32",
+  "languages": {
+    "TypeScript": 5544682,
+    "Vue": 1994498,
+    "Rust": 342533,
+    "JavaScript": 322770,
+    "SCSS": 41897,
+    "Handlebars": 24416,
+    "Go": 21433,
+    "Dockerfile": 11958,
+    "Nix": 10781,
+    "PLpgSQL": 4718,
+    "HTML": 2420,
+    "Svelte": 1717,
+    "CSS": 1547,
+    "Shell": 789
+  },
+  "size": 8326159
+}

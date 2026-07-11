@@ -1,0 +1,17 @@
+{
+  "commit": "7e85cf71bd271d552576b2ba23ec1fb72bdcaaa1",
+  "repo_url": "https://github.com/danny-avila/librechat",
+  "date": "2026-03-04T14:28:20",
+  "languages": {
+    "TypeScript": 9221093,
+    "JavaScript": 3800474,
+    "CSS": 78945,
+    "Handlebars": 57022,
+    "Shell": 15061,
+    "Smarty": 3871,
+    "Python": 3487,
+    "Dockerfile": 2113,
+    "HTML": 2052
+  },
+  "size": 13184118
+}

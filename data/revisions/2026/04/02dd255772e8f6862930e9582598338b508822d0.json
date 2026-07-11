@@ -1,0 +1,21 @@
+{
+  "commit": "02dd255772e8f6862930e9582598338b508822d0",
+  "repo_url": "https://github.com/microsoft/kiota",
+  "date": "2026-04-10T18:17:00",
+  "languages": {
+    "C#": 4602408,
+    "TypeScript": 296644,
+    "PowerShell": 47666,
+    "JavaScript": 16357,
+    "Go": 5719,
+    "Smalltalk": 4894,
+    "Java": 3984,
+    "Ruby": 3654,
+    "Python": 3527,
+    "CSS": 2210,
+    "Dockerfile": 2033,
+    "Dart": 926,
+    "PHP": 598
+  },
+  "size": 4990620
+}

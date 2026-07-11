@@ -1,0 +1,14 @@
+{
+  "commit": "3bb32dc4a3778dedd4e269f0d9e45d426bb4a909",
+  "repo_url": "https://github.com/sachinchoolur/lightgallery",
+  "date": "2021-09-04T07:14:11",
+  "languages": {
+    "TypeScript": 366298,
+    "JavaScript": 88020,
+    "CSS": 78164,
+    "SCSS": 66942,
+    "Vue": 9160,
+    "HTML": 7187
+  },
+  "size": 615771
+}

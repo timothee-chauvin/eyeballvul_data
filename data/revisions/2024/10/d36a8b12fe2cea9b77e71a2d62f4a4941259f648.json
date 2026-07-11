@@ -1,0 +1,14 @@
+{
+  "commit": "d36a8b12fe2cea9b77e71a2d62f4a4941259f648",
+  "repo_url": "https://github.com/nokonoko/uguu",
+  "date": "2024-10-05T11:02:27",
+  "languages": {
+    "PHP": 46577,
+    "CSS": 13790,
+    "JavaScript": 9342,
+    "EJS": 9090,
+    "Makefile": 5794,
+    "Shell": 396
+  },
+  "size": 84989
+}

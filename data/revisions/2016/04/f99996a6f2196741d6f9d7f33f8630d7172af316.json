@@ -1,0 +1,11 @@
+{
+  "commit": "f99996a6f2196741d6f9d7f33f8630d7172af316",
+  "repo_url": "https://github.com/servo/rust-url",
+  "date": "2016-04-13T11:50:57",
+  "languages": {
+    "Rust": 653648,
+    "Python": 3424,
+    "Makefile": 604
+  },
+  "size": 657676
+}

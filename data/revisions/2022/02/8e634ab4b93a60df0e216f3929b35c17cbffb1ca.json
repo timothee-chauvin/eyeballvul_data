@@ -1,0 +1,13 @@
+{
+  "commit": "8e634ab4b93a60df0e216f3929b35c17cbffb1ca",
+  "repo_url": "https://github.com/blogifierdotnet/blogifier",
+  "date": "2022-02-15T18:27:56",
+  "languages": {
+    "JavaScript": 402215,
+    "HTML": 266560,
+    "C#": 160259,
+    "SCSS": 96179,
+    "Dockerfile": 389
+  },
+  "size": 925602
+}

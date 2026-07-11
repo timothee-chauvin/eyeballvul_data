@@ -1,0 +1,13 @@
+{
+  "commit": "a6b9b43c822fc8169ee78ef7cba5400d3f1d39aa",
+  "repo_url": "https://github.com/geopython/pygeoapi",
+  "date": "2026-03-25T11:22:11",
+  "languages": {
+    "Python": 1695761,
+    "HTML": 98230,
+    "Shell": 5313,
+    "Dockerfile": 5288,
+    "CSS": 1031
+  },
+  "size": 1805623
+}

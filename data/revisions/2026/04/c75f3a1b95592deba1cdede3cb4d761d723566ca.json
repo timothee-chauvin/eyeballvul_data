@@ -1,0 +1,18 @@
+{
+  "commit": "c75f3a1b95592deba1cdede3cb4d761d723566ca",
+  "repo_url": "https://github.com/orthanc-server/orthanc-explorer-2",
+  "date": "2026-04-23T08:27:15",
+  "languages": {
+    "Vue": 511123,
+    "C": 333238,
+    "C++": 226381,
+    "JavaScript": 96320,
+    "CMake": 74723,
+    "Python": 19284,
+    "CSS": 6004,
+    "Shell": 3056,
+    "HTML": 1945,
+    "Dockerfile": 1258
+  },
+  "size": 1273332
+}

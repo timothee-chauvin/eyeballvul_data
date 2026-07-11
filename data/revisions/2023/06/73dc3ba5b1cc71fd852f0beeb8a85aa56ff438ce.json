@@ -1,0 +1,15 @@
+{
+  "commit": "73dc3ba5b1cc71fd852f0beeb8a85aa56ff438ce",
+  "repo_url": "https://github.com/opendatahub-io/odh-dashboard",
+  "date": "2023-06-02T16:33:43",
+  "languages": {
+    "TypeScript": 1630671,
+    "JavaScript": 32383,
+    "SCSS": 19547,
+    "Shell": 2016,
+    "Dockerfile": 1656,
+    "Makefile": 1369,
+    "HTML": 392
+  },
+  "size": 1688034
+}

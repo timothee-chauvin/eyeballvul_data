@@ -1,0 +1,18 @@
+{
+  "commit": "46c28bd495126a46629721f1dfc2403506d6c686",
+  "repo_url": "https://github.com/volmarg/personal-management-system",
+  "date": "2024-08-18T07:39:36",
+  "languages": {
+    "CSS": 6004047,
+    "PHP": 2303116,
+    "TypeScript": 623729,
+    "SCSS": 513680,
+    "Twig": 444440,
+    "JavaScript": 296231,
+    "Vue": 16540,
+    "HTML": 1222,
+    "Dockerfile": 831,
+    "Shell": 213
+  },
+  "size": 10204049
+}

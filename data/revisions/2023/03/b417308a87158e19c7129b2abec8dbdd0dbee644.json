@@ -1,0 +1,21 @@
+{
+  "commit": "b417308a87158e19c7129b2abec8dbdd0dbee644",
+  "repo_url": "https://github.com/libressl/openbsd",
+  "date": "2023-03-18T13:04:04",
+  "languages": {
+    "C": 13138297,
+    "Roff": 4123186,
+    "Perl": 1644721,
+    "Shell": 157853,
+    "Makefile": 149624,
+    "Go": 110235,
+    "Assembly": 53823,
+    "M4": 48994,
+    "Raku": 34074,
+    "Python": 32006,
+    "Awk": 6151,
+    "C++": 5366,
+    "eC": 48
+  },
+  "size": 19504378
+}

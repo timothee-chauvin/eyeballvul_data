@@ -1,0 +1,14 @@
+{
+  "commit": "7212b1e9620c36bf806e444f6931cf5f379c68ff",
+  "repo_url": "https://github.com/laravel/framework",
+  "date": "2017-01-24T15:59:31",
+  "languages": {
+    "PHP": 4037492,
+    "Blade": 12422,
+    "Shell": 9447,
+    "HTML": 7710,
+    "CSS": 4413,
+    "Hack": 37
+  },
+  "size": 4071521
+}

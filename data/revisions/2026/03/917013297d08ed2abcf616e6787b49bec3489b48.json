@@ -1,0 +1,12 @@
+{
+  "commit": "917013297d08ed2abcf616e6787b49bec3489b48",
+  "repo_url": "https://github.com/fusesource/jansi",
+  "date": "2026-03-27T13:05:16",
+  "languages": {
+    "Java": 214840,
+    "C": 69657,
+    "Shell": 24582,
+    "Makefile": 8746
+  },
+  "size": 317825
+}

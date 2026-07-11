@@ -1,0 +1,16 @@
+{
+  "commit": "522eafd42c66065c48c2968e4204ae5dd2d8d2a2",
+  "repo_url": "https://github.com/0din-ai/ai-scanner",
+  "date": "2026-04-08T22:36:14",
+  "languages": {
+    "Ruby": 1379647,
+    "HTML": 420982,
+    "Python": 398197,
+    "JavaScript": 358746,
+    "Shell": 29664,
+    "CSS": 17513,
+    "Dockerfile": 11250,
+    "TypeScript": 4649
+  },
+  "size": 2620648
+}

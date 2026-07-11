@@ -1,0 +1,13 @@
+{
+  "commit": "c31d6f9a7244e61eb58db8065b29174c0c5188d8",
+  "repo_url": "https://github.com/rhobs/observability-operator",
+  "date": "2025-05-19T12:18:31",
+  "languages": {
+    "Go": 321031,
+    "Shell": 26068,
+    "Makefile": 10650,
+    "Dockerfile": 2696,
+    "JavaScript": 495
+  },
+  "size": 360940
+}

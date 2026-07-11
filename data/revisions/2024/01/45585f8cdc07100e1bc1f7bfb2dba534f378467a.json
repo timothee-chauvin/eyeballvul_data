@@ -1,0 +1,14 @@
+{
+  "commit": "45585f8cdc07100e1bc1f7bfb2dba534f378467a",
+  "repo_url": "https://github.com/jenkinsci/openshift-sync-plugin",
+  "date": "2024-01-18T16:12:38",
+  "languages": {
+    "Java": 332958,
+    "Go": 77048,
+    "Shell": 14876,
+    "Dockerfile": 1150,
+    "HTML": 395,
+    "Makefile": 170
+  },
+  "size": 426597
+}

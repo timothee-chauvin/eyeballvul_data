@@ -1,0 +1,13 @@
+{
+  "commit": "3a9d42668f45387fa566845be5a3e61579823d35",
+  "repo_url": "https://github.com/caryll/otfcc",
+  "date": "2020-04-12T02:36:40",
+  "languages": {
+    "C": 1080097,
+    "Lua": 65132,
+    "Makefile": 8965,
+    "JavaScript": 3719,
+    "Batchfile": 957
+  },
+  "size": 1158870
+}

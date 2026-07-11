@@ -1,0 +1,19 @@
+{
+  "commit": "2a620c705e84db10dcc337f727a10d4226d89066",
+  "repo_url": "https://github.com/ovirt/ovirt-engine",
+  "date": "2023-12-01T07:54:17",
+  "languages": {
+    "Java": 38597885,
+    "CSS": 3589885,
+    "PLpgSQL": 1052343,
+    "Python": 975677,
+    "JavaScript": 490658,
+    "Shell": 205484,
+    "SCSS": 51493,
+    "Makefile": 31027,
+    "Roff": 16010,
+    "Jinja": 2383,
+    "HTML": 2344
+  },
+  "size": 45015189
+}

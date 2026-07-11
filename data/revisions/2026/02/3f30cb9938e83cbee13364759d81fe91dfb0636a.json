@@ -1,0 +1,19 @@
+{
+  "commit": "3f30cb9938e83cbee13364759d81fe91dfb0636a",
+  "repo_url": "https://github.com/mathesar-foundation/mathesar",
+  "date": "2026-02-10T21:07:51",
+  "languages": {
+    "Svelte": 1328772,
+    "TypeScript": 1146202,
+    "Python": 787450,
+    "PLpgSQL": 619926,
+    "SCSS": 91910,
+    "Shell": 41731,
+    "HTML": 29049,
+    "JavaScript": 9066,
+    "MDX": 5282,
+    "Dockerfile": 3702,
+    "CSS": 511
+  },
+  "size": 4063601
+}

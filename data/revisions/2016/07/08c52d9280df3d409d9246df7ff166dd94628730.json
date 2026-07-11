@@ -1,0 +1,16 @@
+{
+  "commit": "08c52d9280df3d409d9246df7ff166dd94628730",
+  "repo_url": "https://github.com/dropbox/lepton",
+  "date": "2016-07-17T23:09:10",
+  "languages": {
+    "C++": 914432,
+    "Makefile": 16555,
+    "Hack": 12460,
+    "Python": 10945,
+    "CMake": 9649,
+    "Shell": 4796,
+    "M4": 2458,
+    "Perl": 1098
+  },
+  "size": 972393
+}

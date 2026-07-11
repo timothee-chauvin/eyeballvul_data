@@ -1,0 +1,15 @@
+{
+  "commit": "620c1b269fafa29068e35b93c0c3e83de4ccf920",
+  "repo_url": "https://github.com/3scale/apicast",
+  "date": "2018-10-05T09:43:25",
+  "languages": {
+    "Lua": 769003,
+    "Perl": 367422,
+    "Shell": 11529,
+    "Makefile": 9919,
+    "Liquid": 5715,
+    "Ruby": 1560,
+    "Raku": 1125
+  },
+  "size": 1166273
+}

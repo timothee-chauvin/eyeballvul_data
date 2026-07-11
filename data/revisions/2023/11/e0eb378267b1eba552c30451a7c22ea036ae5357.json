@@ -1,0 +1,13 @@
+{
+  "commit": "e0eb378267b1eba552c30451a7c22ea036ae5357",
+  "repo_url": "https://github.com/marudor/libxmljs2",
+  "date": "2023-11-04T16:27:37",
+  "languages": {
+    "C++": 141936,
+    "JavaScript": 92675,
+    "Python": 3230,
+    "Makefile": 207,
+    "TypeScript": 28
+  },
+  "size": 238076
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "4b615b990a3278b7bf0831fc49abb86644f6e7ad",
+  "repo_url": "https://github.com/simpleble/simpleble",
+  "date": "2026-02-12T07:50:43",
+  "languages": {
+    "C++": 1026897,
+    "C": 79885,
+    "Python": 73449,
+    "Objective-C++": 56642,
+    "CMake": 51595,
+    "Rust": 41061,
+    "Java": 30115,
+    "Shell": 29048,
+    "Kotlin": 18526,
+    "Objective-C": 2521,
+    "PowerShell": 1943,
+    "Batchfile": 91
+  },
+  "size": 1411773
+}

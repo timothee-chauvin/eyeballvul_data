@@ -1,0 +1,18 @@
+{
+  "commit": "fa308c07a6fa04a727212d793e761460e41049c3",
+  "repo_url": "https://github.com/apple/swift-crypto",
+  "date": "2026-03-02T13:29:52",
+  "languages": {
+    "Assembly": 4532738,
+    "C": 3528582,
+    "C++": 3328824,
+    "Swift": 1985825,
+    "Pawn": 537971,
+    "NASL": 182259,
+    "SourcePawn": 46881,
+    "Python": 45272,
+    "Shell": 26223,
+    "CMake": 20333
+  },
+  "size": 14234908
+}

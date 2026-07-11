@@ -1,0 +1,14 @@
+{
+  "commit": "0feb720168359e62576d7d71eec556369df68fbd",
+  "repo_url": "https://github.com/miguelgrinberg/microdot",
+  "date": "2026-03-08T12:56:25",
+  "languages": {
+    "Python": 433247,
+    "Shell": 1930,
+    "Dockerfile": 673,
+    "CSS": 4,
+    "HTML": 4,
+    "JavaScript": 4
+  },
+  "size": 435862
+}

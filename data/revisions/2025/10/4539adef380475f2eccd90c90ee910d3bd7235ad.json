@@ -1,0 +1,16 @@
+{
+  "commit": "4539adef380475f2eccd90c90ee910d3bd7235ad",
+  "repo_url": "https://github.com/ufrisk/memprocfs",
+  "date": "2025-10-05T20:09:57",
+  "languages": {
+    "C": 14768546,
+    "C#": 614523,
+    "Rust": 430540,
+    "Java": 187122,
+    "PowerShell": 118444,
+    "Python": 85659,
+    "C++": 45651,
+    "Makefile": 9460
+  },
+  "size": 16259945
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "adb2cd24a85d394bdc2e57dec41b0c2110792640",
+  "repo_url": "https://github.com/tuxera/ntfs-3g",
+  "date": "2017-03-23T09:39:59",
+  "languages": {
+    "C": 3347733,
+    "Roff": 121078,
+    "C++": 109069,
+    "M4": 20646,
+    "Makefile": 11804,
+    "Shell": 866
+  },
+  "size": 3611196
+}

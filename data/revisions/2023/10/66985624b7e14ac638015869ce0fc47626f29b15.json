@@ -1,0 +1,11 @@
+{
+  "commit": "66985624b7e14ac638015869ce0fc47626f29b15",
+  "repo_url": "https://github.com/akka/alpakka-kafka",
+  "date": "2023-10-09T09:19:47",
+  "languages": {
+    "Scala": 1054996,
+    "Java": 166553,
+    "Shell": 461
+  },
+  "size": 1222010
+}

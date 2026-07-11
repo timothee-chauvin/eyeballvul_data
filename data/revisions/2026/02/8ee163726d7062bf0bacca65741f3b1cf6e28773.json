@@ -1,0 +1,16 @@
+{
+  "commit": "8ee163726d7062bf0bacca65741f3b1cf6e28773",
+  "repo_url": "https://github.com/alextselegidis/plainpad",
+  "date": "2026-02-03T15:21:18",
+  "languages": {
+    "PHP": 197841,
+    "JavaScript": 197276,
+    "SCSS": 10920,
+    "Blade": 10601,
+    "Shell": 4593,
+    "HTML": 2770,
+    "Dockerfile": 1424,
+    "CSS": 1
+  },
+  "size": 425426
+}

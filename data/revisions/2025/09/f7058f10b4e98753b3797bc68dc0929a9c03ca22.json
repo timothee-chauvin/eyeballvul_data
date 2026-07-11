@@ -1,0 +1,28 @@
+{
+  "commit": "f7058f10b4e98753b3797bc68dc0929a9c03ca22",
+  "repo_url": "https://github.com/webmin/webmin",
+  "date": "2025-09-16T17:11:26",
+  "languages": {
+    "HTML": 16652174,
+    "Perl": 11512475,
+    "Raku": 184349,
+    "JavaScript": 132037,
+    "Prolog": 127293,
+    "CSS": 101638,
+    "Shell": 80156,
+    "NewLisp": 75879,
+    "Ruby": 48715,
+    "C#": 48396,
+    "Roff": 31065,
+    "MAXScript": 26438,
+    "SystemVerilog": 15404,
+    "C": 15176,
+    "Emacs Lisp": 12692,
+    "Python": 11513,
+    "Batchfile": 3160,
+    "Smalltalk": 1547,
+    "Erlang": 527,
+    "Makefile": 255
+  },
+  "size": 29080889
+}

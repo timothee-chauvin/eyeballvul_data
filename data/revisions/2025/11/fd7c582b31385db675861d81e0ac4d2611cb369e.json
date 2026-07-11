@@ -1,0 +1,12 @@
+{
+  "commit": "fd7c582b31385db675861d81e0ac4d2611cb369e",
+  "repo_url": "https://github.com/google/clasp",
+  "date": "2025-11-19T01:56:17",
+  "languages": {
+    "TypeScript": 428101,
+    "JavaScript": 1119,
+    "Nix": 470,
+    "Shell": 108
+  },
+  "size": 429798
+}

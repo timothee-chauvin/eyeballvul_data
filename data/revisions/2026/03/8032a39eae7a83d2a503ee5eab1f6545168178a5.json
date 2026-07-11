@@ -1,0 +1,14 @@
+{
+  "commit": "8032a39eae7a83d2a503ee5eab1f6545168178a5",
+  "repo_url": "https://github.com/remnawave/backend",
+  "date": "2026-03-30T00:01:52",
+  "languages": {
+    "TypeScript": 2451562,
+    "JavaScript": 24667,
+    "EJS": 5455,
+    "Dockerfile": 3589,
+    "Makefile": 1366,
+    "Shell": 405
+  },
+  "size": 2487044
+}

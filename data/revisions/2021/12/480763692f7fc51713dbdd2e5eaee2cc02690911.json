@@ -1,0 +1,16 @@
+{
+  "commit": "480763692f7fc51713dbdd2e5eaee2cc02690911",
+  "repo_url": "https://github.com/mysql/mysql-shell",
+  "date": "2021-12-07T21:46:59",
+  "languages": {
+    "C++": 11751160,
+    "JavaScript": 5824140,
+    "Python": 3237239,
+    "CMake": 331065,
+    "C": 227422,
+    "NASL": 72567,
+    "Makefile": 2831,
+    "Dockerfile": 1285
+  },
+  "size": 21447709
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "d1c751463a5646f1a8092e432b13377a264d132f",
+  "repo_url": "https://github.com/libxmp/libxmp",
+  "date": "2025-01-01T00:11:02",
+  "languages": {
+    "C": 3308877,
+    "Makefile": 55158,
+    "CMake": 40179,
+    "M4": 21207,
+    "Shell": 16581,
+    "Python": 3695,
+    "Roff": 1266
+  },
+  "size": 3446963
+}

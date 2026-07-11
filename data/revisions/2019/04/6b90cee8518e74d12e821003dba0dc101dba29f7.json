@@ -1,0 +1,14 @@
+{
+  "commit": "6b90cee8518e74d12e821003dba0dc101dba29f7",
+  "repo_url": "https://github.com/espocrm/espocrm",
+  "date": "2019-04-09T08:11:01",
+  "languages": {
+    "JavaScript": 4773052,
+    "PHP": 4518034,
+    "Less": 418796,
+    "Smarty": 277239,
+    "CSS": 74535,
+    "HTML": 4192
+  },
+  "size": 10065848
+}

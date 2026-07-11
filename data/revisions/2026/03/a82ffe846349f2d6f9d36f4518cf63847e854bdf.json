@@ -1,0 +1,18 @@
+{
+  "commit": "a82ffe846349f2d6f9d36f4518cf63847e854bdf",
+  "repo_url": "https://github.com/ultradagcom/core",
+  "date": "2026-03-11T17:22:10",
+  "languages": {
+    "Rust": 1175558,
+    "HTML": 369902,
+    "Shell": 208922,
+    "Python": 66658,
+    "JavaScript": 41023,
+    "TypeScript": 39661,
+    "Go": 37520,
+    "TLA": 16743,
+    "CSS": 13004,
+    "Dockerfile": 702
+  },
+  "size": 1969693
+}

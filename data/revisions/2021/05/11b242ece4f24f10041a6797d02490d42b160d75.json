@@ -1,0 +1,17 @@
+{
+  "commit": "11b242ece4f24f10041a6797d02490d42b160d75",
+  "repo_url": "https://github.com/fkie-cad/fact_core",
+  "date": "2021-05-21T14:18:23",
+  "languages": {
+    "Python": 1266559,
+    "HTML": 306532,
+    "YARA": 25706,
+    "Shell": 15955,
+    "JavaScript": 5478,
+    "CSS": 1080,
+    "Dockerfile": 961,
+    "Makefile": 637,
+    "Lua": 148
+  },
+  "size": 1623056
+}

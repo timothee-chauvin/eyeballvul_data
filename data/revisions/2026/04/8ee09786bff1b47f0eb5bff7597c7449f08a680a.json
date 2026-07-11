@@ -1,0 +1,16 @@
+{
+  "commit": "8ee09786bff1b47f0eb5bff7597c7449f08a680a",
+  "repo_url": "https://github.com/elie222/inbox-zero",
+  "date": "2026-04-01T10:12:31",
+  "languages": {
+    "TypeScript": 8488278,
+    "JavaScript": 92682,
+    "Shell": 31208,
+    "MDX": 18539,
+    "CSS": 6704,
+    "PLpgSQL": 5110,
+    "Dockerfile": 1441,
+    "Ruby": 1251
+  },
+  "size": 8645213
+}

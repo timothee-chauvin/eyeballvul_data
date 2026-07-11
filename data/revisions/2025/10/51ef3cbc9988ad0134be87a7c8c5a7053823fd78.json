@@ -1,0 +1,15 @@
+{
+  "commit": "51ef3cbc9988ad0134be87a7c8c5a7053823fd78",
+  "repo_url": "https://github.com/wedevsofficial/wedocs-plugin",
+  "date": "2025-10-22T09:46:24",
+  "languages": {
+    "JavaScript": 556486,
+    "PHP": 258220,
+    "CSS": 209513,
+    "Less": 37915,
+    "SCSS": 12706,
+    "Shell": 5284,
+    "Hack": 82
+  },
+  "size": 1080206
+}

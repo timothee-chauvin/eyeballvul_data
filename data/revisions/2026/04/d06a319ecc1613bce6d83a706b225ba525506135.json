@@ -1,0 +1,18 @@
+{
+  "commit": "d06a319ecc1613bce6d83a706b225ba525506135",
+  "repo_url": "https://github.com/vexa-ai/vexa",
+  "date": "2026-04-19T11:37:07",
+  "languages": {
+    "TypeScript": 1973182,
+    "Python": 1502050,
+    "C++": 568021,
+    "Shell": 363764,
+    "JavaScript": 68828,
+    "Makefile": 68296,
+    "Jupyter Notebook": 51013,
+    "Dockerfile": 17476,
+    "CSS": 7213,
+    "Smarty": 3840
+  },
+  "size": 4623683
+}

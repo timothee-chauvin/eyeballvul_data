@@ -1,0 +1,14 @@
+{
+  "commit": "b10d55efe635b3613dc2b21a3c2aa133f508a809",
+  "repo_url": "https://github.com/fluxcd/notification-controller",
+  "date": "2026-03-12T12:02:39",
+  "languages": {
+    "Go": 653305,
+    "Makefile": 6830,
+    "Smarty": 4952,
+    "Shell": 1901,
+    "Dockerfile": 800,
+    "Ruby": 459
+  },
+  "size": 668247
+}

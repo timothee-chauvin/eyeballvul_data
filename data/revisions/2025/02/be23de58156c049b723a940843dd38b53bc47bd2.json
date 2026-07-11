@@ -1,0 +1,16 @@
+{
+  "commit": "be23de58156c049b723a940843dd38b53bc47bd2",
+  "repo_url": "https://github.com/ubuntu/adsys",
+  "date": "2025-02-03T15:20:59",
+  "languages": {
+    "Go": 1183366,
+    "Python": 123642,
+    "C": 19292,
+    "Shell": 5855,
+    "PowerShell": 4922,
+    "Inno Setup": 2327,
+    "Dockerfile": 355,
+    "Batchfile": 224
+  },
+  "size": 1339983
+}

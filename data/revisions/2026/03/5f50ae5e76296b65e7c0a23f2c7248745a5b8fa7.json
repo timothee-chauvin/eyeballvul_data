@@ -1,0 +1,17 @@
+{
+  "commit": "5f50ae5e76296b65e7c0a23f2c7248745a5b8fa7",
+  "repo_url": "https://github.com/sipeed/picoclaw",
+  "date": "2026-03-25T09:06:36",
+  "languages": {
+    "Go": 3574378,
+    "TypeScript": 402636,
+    "Makefile": 17208,
+    "Shell": 11554,
+    "CSS": 5248,
+    "Inno Setup": 2647,
+    "JavaScript": 1618,
+    "Dockerfile": 1104,
+    "HTML": 629
+  },
+  "size": 4017022
+}

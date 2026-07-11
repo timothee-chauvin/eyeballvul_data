@@ -1,0 +1,12 @@
+{
+  "commit": "f3e96fa41325ea978de6bb3eabbd8d0742f33d0c",
+  "repo_url": "https://github.com/netease-youdao/qanything",
+  "date": "2024-08-30T09:21:51",
+  "languages": {
+    "Python": 1069857,
+    "Shell": 12906,
+    "HTML": 7693,
+    "Dockerfile": 1029
+  },
+  "size": 1091485
+}

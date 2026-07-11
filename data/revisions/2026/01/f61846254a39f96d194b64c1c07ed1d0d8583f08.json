@@ -1,0 +1,18 @@
+{
+  "commit": "f61846254a39f96d194b64c1c07ed1d0d8583f08",
+  "repo_url": "https://github.com/electric-sql/electric",
+  "date": "2026-01-27T16:18:44",
+  "languages": {
+    "Elixir": 2782494,
+    "TypeScript": 602818,
+    "Vue": 125225,
+    "JavaScript": 29590,
+    "CSS": 21936,
+    "Shell": 9600,
+    "Dockerfile": 2146,
+    "HTML": 828,
+    "Makefile": 174,
+    "Euphoria": 135
+  },
+  "size": 3574946
+}

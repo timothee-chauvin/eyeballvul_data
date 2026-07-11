@@ -1,0 +1,18 @@
+{
+  "commit": "c45e9396f8ddc0054fd2619809136c75864ad126",
+  "repo_url": "https://github.com/johnhuang316/code-index-mcp",
+  "date": "2026-03-02T01:07:05",
+  "languages": {
+    "Python": 561657,
+    "TypeScript": 70277,
+    "JavaScript": 53042,
+    "Java": 52284,
+    "Go": 42514,
+    "Zig": 25464,
+    "Objective-C": 2982,
+    "C#": 1634,
+    "Kotlin": 1549,
+    "Dockerfile": 611
+  },
+  "size": 812014
+}

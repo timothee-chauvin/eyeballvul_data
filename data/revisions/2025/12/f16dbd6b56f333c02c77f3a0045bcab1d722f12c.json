@@ -1,0 +1,16 @@
+{
+  "commit": "f16dbd6b56f333c02c77f3a0045bcab1d722f12c",
+  "repo_url": "https://github.com/ansible-collections/community.general",
+  "date": "2025-12-01T20:22:38",
+  "languages": {
+    "Python": 10453933,
+    "Shell": 32867,
+    "HCL": 18065,
+    "Jinja": 6630,
+    "DIGITAL Command Language": 1202,
+    "C": 354,
+    "Dockerfile": 114,
+    "JavaScript": 42
+  },
+  "size": 10513207
+}

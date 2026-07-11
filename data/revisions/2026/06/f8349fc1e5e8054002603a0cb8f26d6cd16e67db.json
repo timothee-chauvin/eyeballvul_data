@@ -1,0 +1,15 @@
+{
+  "commit": "f8349fc1e5e8054002603a0cb8f26d6cd16e67db",
+  "repo_url": "https://github.com/hkuds/deeptutor",
+  "date": "2026-06-19T12:05:19",
+  "languages": {
+    "Python": 6655200,
+    "TypeScript": 3089335,
+    "CSS": 26014,
+    "JavaScript": 20660,
+    "Dockerfile": 15451,
+    "HTML": 3730,
+    "Batchfile": 1027
+  },
+  "size": 9811417
+}

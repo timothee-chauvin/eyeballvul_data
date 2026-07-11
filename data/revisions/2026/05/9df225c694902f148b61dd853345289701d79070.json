@@ -1,0 +1,17 @@
+{
+  "commit": "9df225c694902f148b61dd853345289701d79070",
+  "repo_url": "https://github.com/markmhendrickson/neotoma",
+  "date": "2026-05-06T07:30:57",
+  "languages": {
+    "HTML": 244247162,
+    "TypeScript": 8811178,
+    "JavaScript": 3189802,
+    "Shell": 140247,
+    "Python": 92685,
+    "Objective-C++": 13791,
+    "CSS": 13589,
+    "C++": 13364,
+    "Dockerfile": 1479
+  },
+  "size": 256523297
+}

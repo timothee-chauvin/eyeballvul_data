@@ -1,0 +1,16 @@
+{
+  "commit": "946ebe7fbb124877f86dbca88dcdcfb889f7058f",
+  "repo_url": "https://github.com/openconnect/openconnect",
+  "date": "2020-04-29T13:21:06",
+  "languages": {
+    "C": 1129745,
+    "M4": 104464,
+    "Shell": 74651,
+    "Makefile": 36490,
+    "Python": 34780,
+    "Roff": 19552,
+    "Java": 18833,
+    "CSS": 2984
+  },
+  "size": 1421499
+}

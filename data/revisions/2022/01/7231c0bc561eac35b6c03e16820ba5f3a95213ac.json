@@ -1,0 +1,13 @@
+{
+  "commit": "7231c0bc561eac35b6c03e16820ba5f3a95213ac",
+  "repo_url": "https://github.com/cla-assistant/cla-assistant",
+  "date": "2022-01-24T10:10:21",
+  "languages": {
+    "JavaScript": 685244,
+    "HTML": 77518,
+    "SCSS": 22828,
+    "Dockerfile": 261,
+    "EJS": 24
+  },
+  "size": 785875
+}

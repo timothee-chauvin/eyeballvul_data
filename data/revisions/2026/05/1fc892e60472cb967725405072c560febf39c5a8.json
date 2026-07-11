@@ -1,0 +1,15 @@
+{
+  "commit": "1fc892e60472cb967725405072c560febf39c5a8",
+  "repo_url": "https://github.com/hmbown/codewhale",
+  "date": "2026-05-08T16:20:03",
+  "languages": {
+    "Rust": 6783432,
+    "TypeScript": 236791,
+    "JavaScript": 72329,
+    "HTML": 35809,
+    "Shell": 10869,
+    "CSS": 9689,
+    "Dockerfile": 3897
+  },
+  "size": 7152816
+}

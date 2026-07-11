@@ -1,0 +1,14 @@
+{
+  "commit": "1927615fb9deb856b7f322f7de4c3309e9151f9f",
+  "repo_url": "https://github.com/libbitcoin/libbitcoin-explorer",
+  "date": "2018-01-05T23:04:35",
+  "languages": {
+    "C++": 1457606,
+    "M4": 76675,
+    "Shell": 26152,
+    "Makefile": 18008,
+    "Batchfile": 6979,
+    "C": 814
+  },
+  "size": 1586234
+}

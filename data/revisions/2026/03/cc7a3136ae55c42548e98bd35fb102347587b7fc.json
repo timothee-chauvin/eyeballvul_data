@@ -1,0 +1,14 @@
+{
+  "commit": "cc7a3136ae55c42548e98bd35fb102347587b7fc",
+  "repo_url": "https://github.com/mrmn2/pdfding",
+  "date": "2026-03-14T14:23:00",
+  "languages": {
+    "Python": 649404,
+    "HTML": 261862,
+    "CSS": 15176,
+    "JavaScript": 5100,
+    "Dockerfile": 3797,
+    "Shell": 734
+  },
+  "size": 936073
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "e1a4fcf995eaedc3b465632bbcc44ec8a15fc70b",
+  "repo_url": "https://github.com/wandb/weave",
+  "date": "2024-07-01T18:40:47",
+  "languages": {
+    "TypeScript": 4698083,
+    "Python": 3821070,
+    "C": 2243355,
+    "Jupyter Notebook": 406886,
+    "HTML": 105744,
+    "CSS": 73515,
+    "JavaScript": 68495,
+    "Less": 62405,
+    "Shell": 3582,
+    "Rust": 3262,
+    "Dockerfile": 2334,
+    "C++": 865,
+    "Makefile": 333
+  },
+  "size": 11489929
+}

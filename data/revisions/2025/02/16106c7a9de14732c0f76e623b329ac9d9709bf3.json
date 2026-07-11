@@ -1,0 +1,12 @@
+{
+  "commit": "16106c7a9de14732c0f76e623b329ac9d9709bf3",
+  "repo_url": "https://github.com/apollographql/federation",
+  "date": "2025-02-13T20:51:00",
+  "languages": {
+    "TypeScript": 3616655,
+    "Gherkin": 185342,
+    "JavaScript": 5813,
+    "Shell": 4561
+  },
+  "size": 3812371
+}

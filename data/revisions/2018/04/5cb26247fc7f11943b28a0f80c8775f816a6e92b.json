@@ -1,0 +1,14 @@
+{
+  "commit": "5cb26247fc7f11943b28a0f80c8775f816a6e92b",
+  "repo_url": "https://github.com/gitbucket/gitbucket",
+  "date": "2018-04-09T17:38:06",
+  "languages": {
+    "Scala": 910010,
+    "HTML": 415959,
+    "CSS": 35122,
+    "JavaScript": 24139,
+    "Java": 11134,
+    "Shell": 7462
+  },
+  "size": 1403826
+}

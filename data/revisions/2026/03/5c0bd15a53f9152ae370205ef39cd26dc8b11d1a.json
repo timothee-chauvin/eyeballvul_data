@@ -1,0 +1,15 @@
+{
+  "commit": "5c0bd15a53f9152ae370205ef39cd26dc8b11d1a",
+  "repo_url": "https://github.com/deepractice/promptx",
+  "date": "2026-03-28T16:40:35",
+  "languages": {
+    "TypeScript": 1427938,
+    "JavaScript": 1129792,
+    "HTML": 47707,
+    "Shell": 6383,
+    "Gherkin": 5437,
+    "CSS": 4879,
+    "Dockerfile": 840
+  },
+  "size": 2622976
+}

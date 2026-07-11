@@ -1,0 +1,13 @@
+{
+  "commit": "42d8a0bfe90b58b31932d2ef2f2192d729c2e103",
+  "repo_url": "https://github.com/maziyarpanahi/openmed",
+  "date": "2026-05-19T20:20:39",
+  "languages": {
+    "Python": 1064028,
+    "Swift": 624886,
+    "Shell": 5883,
+    "Makefile": 2184,
+    "Dockerfile": 610
+  },
+  "size": 1697591
+}

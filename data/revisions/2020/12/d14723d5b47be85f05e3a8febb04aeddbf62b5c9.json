@@ -1,0 +1,12 @@
+{
+  "commit": "d14723d5b47be85f05e3a8febb04aeddbf62b5c9",
+  "repo_url": "https://github.com/ceph/ceph-ansible",
+  "date": "2020-12-01T14:53:26",
+  "languages": {
+    "Python": 242729,
+    "Jinja": 48164,
+    "Shell": 22640,
+    "Makefile": 3369
+  },
+  "size": 316902
+}

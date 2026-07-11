@@ -1,0 +1,15 @@
+{
+  "commit": "b8b0dd3fa04cdd13884b995d56e5e89cc03933ab",
+  "repo_url": "https://github.com/donknap/dpanel",
+  "date": "2025-02-26T06:06:10",
+  "languages": {
+    "Go": 415847,
+    "Makefile": 3352,
+    "Smarty": 1816,
+    "Dockerfile": 1306,
+    "JavaScript": 1070,
+    "HTML": 862,
+    "Shell": 703
+  },
+  "size": 424956
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "6dac4d407483202a80e142d1e08d9bf1d4fc128b",
+  "repo_url": "https://github.com/uutils/coreutils",
+  "date": "2026-01-17T10:33:24",
+  "languages": {
+    "Rust": 6866941,
+    "Fluent": 442201,
+    "Shell": 82858,
+    "Python": 45148,
+    "Makefile": 11991,
+    "Batchfile": 6977,
+    "Nushell": 4588,
+    "Nix": 2033,
+    "Dockerfile": 818
+  },
+  "size": 7463555
+}

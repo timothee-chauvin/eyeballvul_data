@@ -1,0 +1,15 @@
+{
+  "commit": "272233ae623fb25da697ec6ee697a16766abe330",
+  "repo_url": "https://github.com/tale/headplane",
+  "date": "2026-04-10T02:42:51",
+  "languages": {
+    "TypeScript": 584740,
+    "Go": 24338,
+    "Nix": 22121,
+    "Shell": 5733,
+    "CSS": 4008,
+    "Dockerfile": 2627,
+    "JavaScript": 993
+  },
+  "size": 644560
+}

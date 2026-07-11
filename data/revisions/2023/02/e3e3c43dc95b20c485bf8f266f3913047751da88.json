@@ -1,0 +1,14 @@
+{
+  "commit": "e3e3c43dc95b20c485bf8f266f3913047751da88",
+  "repo_url": "https://github.com/sveltejs/kit",
+  "date": "2023-02-21T15:33:27",
+  "languages": {
+    "JavaScript": 756837,
+    "TypeScript": 137257,
+    "Svelte": 81262,
+    "HTML": 3231,
+    "CSS": 2585,
+    "Shell": 1002
+  },
+  "size": 982174
+}

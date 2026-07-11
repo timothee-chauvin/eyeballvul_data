@@ -1,0 +1,12 @@
+{
+  "commit": "d7d80c850010a9c5a3d2be59254c19b9eb0e25dd",
+  "repo_url": "https://github.com/aegra/aegra",
+  "date": "2026-04-29T17:05:44",
+  "languages": {
+    "Python": 1769097,
+    "Makefile": 4218,
+    "Dockerfile": 2315,
+    "Mako": 510
+  },
+  "size": 1776140
+}

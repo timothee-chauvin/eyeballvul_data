@@ -1,0 +1,14 @@
+{
+  "commit": "10fefdd4433fd2a423295441481b4b2bd3bddc32",
+  "repo_url": "https://github.com/implem/implem.pleasanter",
+  "date": "2023-05-29T09:52:02",
+  "languages": {
+    "C#": 15547200,
+    "CSS": 628634,
+    "JavaScript": 237674,
+    "HTML": 6065,
+    "Dockerfile": 3986,
+    "Python": 2571
+  },
+  "size": 16426130
+}

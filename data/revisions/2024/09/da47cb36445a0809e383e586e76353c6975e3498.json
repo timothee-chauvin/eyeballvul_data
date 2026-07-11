@@ -1,0 +1,18 @@
+{
+  "commit": "da47cb36445a0809e383e586e76353c6975e3498",
+  "repo_url": "https://github.com/parisneo/lollms-webui",
+  "date": "2024-09-01T01:28:43",
+  "languages": {
+    "Vue": 1026168,
+    "Python": 291865,
+    "JavaScript": 131905,
+    "CSS": 69885,
+    "HTML": 39303,
+    "Shell": 28578,
+    "Batchfile": 20933,
+    "Inno Setup": 16851,
+    "Jupyter Notebook": 3623,
+    "Dockerfile": 1246
+  },
+  "size": 1630357
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "a5abe51cc5475ee44c604012a4ec4a3e13f9ee71",
+  "repo_url": "https://github.com/nesquena/hermes-webui",
+  "date": "2026-04-14T06:25:26",
+  "languages": {
+    "Python": 892089,
+    "JavaScript": 338403,
+    "CSS": 89739,
+    "HTML": 60154,
+    "Shell": 12224,
+    "Dockerfile": 2743
+  },
+  "size": 1395352
+}

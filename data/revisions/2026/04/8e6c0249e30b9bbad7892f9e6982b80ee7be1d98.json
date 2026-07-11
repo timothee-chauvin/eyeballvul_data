@@ -1,0 +1,14 @@
+{
+  "commit": "8e6c0249e30b9bbad7892f9e6982b80ee7be1d98",
+  "repo_url": "https://github.com/omnifaces/omnifaces",
+  "date": "2026-04-14T11:38:29",
+  "languages": {
+    "Java": 3205021,
+    "TypeScript": 219978,
+    "HTML": 116942,
+    "JavaScript": 19205,
+    "CSS": 5915,
+    "XSLT": 3785
+  },
+  "size": 3570846
+}

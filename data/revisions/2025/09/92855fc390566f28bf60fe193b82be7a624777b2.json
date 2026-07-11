@@ -1,0 +1,13 @@
+{
+  "commit": "92855fc390566f28bf60fe193b82be7a624777b2",
+  "repo_url": "https://github.com/eclipse-kuksa/kuksa-databroker",
+  "date": "2025-09-24T12:06:12",
+  "languages": {
+    "Rust": 1271548,
+    "Python": 366804,
+    "Gherkin": 36917,
+    "Shell": 16087,
+    "Dockerfile": 4007
+  },
+  "size": 1695363
+}

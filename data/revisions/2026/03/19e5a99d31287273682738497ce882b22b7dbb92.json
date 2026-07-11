@@ -1,0 +1,18 @@
+{
+  "commit": "19e5a99d31287273682738497ce882b22b7dbb92",
+  "repo_url": "https://github.com/star7th/showdoc",
+  "date": "2026-03-20T14:47:52",
+  "languages": {
+    "PHP": 2730273,
+    "JavaScript": 1457414,
+    "Vue": 1262017,
+    "CSS": 662821,
+    "TypeScript": 316826,
+    "SCSS": 48071,
+    "Smarty": 8478,
+    "Shell": 8107,
+    "HTML": 4149,
+    "Dockerfile": 297
+  },
+  "size": 6498453
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "dba776697b17b564f5cd9c6f2597adbc9b698724",
+  "repo_url": "https://github.com/ruby-concurrency/concurrent-ruby",
+  "date": "2025-12-13T12:12:59",
+  "languages": {
+    "Ruby": 1460329,
+    "Java": 405693,
+    "C": 11809,
+    "CSS": 2279,
+    "HTML": 1595
+  },
+  "size": 1881705
+}

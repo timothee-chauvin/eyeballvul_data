@@ -1,0 +1,14 @@
+{
+  "commit": "0c68457d68ae5741013ee30623525303860a8b22",
+  "repo_url": "https://github.com/openbao/openbao-plugins",
+  "date": "2026-06-18T08:22:03",
+  "languages": {
+    "Go": 2244159,
+    "Shell": 39618,
+    "HCL": 27334,
+    "Makefile": 15278,
+    "Python": 2134,
+    "Dockerfile": 336
+  },
+  "size": 2328859
+}

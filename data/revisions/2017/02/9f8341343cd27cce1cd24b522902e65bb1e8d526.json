@@ -1,0 +1,14 @@
+{
+  "commit": "9f8341343cd27cce1cd24b522902e65bb1e8d526",
+  "repo_url": "https://github.com/wbce/wbce_cms",
+  "date": "2017-02-12T11:49:44",
+  "languages": {
+    "PHP": 4588126,
+    "JavaScript": 2048084,
+    "CSS": 205449,
+    "HTML": 78409,
+    "Twig": 19962,
+    "Hack": 3363
+  },
+  "size": 6943393
+}

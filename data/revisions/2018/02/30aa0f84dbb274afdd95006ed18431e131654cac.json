@@ -1,0 +1,17 @@
+{
+  "commit": "30aa0f84dbb274afdd95006ed18431e131654cac",
+  "repo_url": "https://github.com/418sec/mjs",
+  "date": "2018-02-08T13:19:10",
+  "languages": {
+    "C": 1268455,
+    "Assembly": 109412,
+    "Python": 104094,
+    "Makefile": 24585,
+    "JavaScript": 14596,
+    "C++": 6591,
+    "Batchfile": 3468,
+    "Go": 658,
+    "Shell": 440
+  },
+  "size": 1532299
+}

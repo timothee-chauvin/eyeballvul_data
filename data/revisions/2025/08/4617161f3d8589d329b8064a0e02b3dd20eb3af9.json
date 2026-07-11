@@ -1,0 +1,20 @@
+{
+  "commit": "4617161f3d8589d329b8064a0e02b3dd20eb3af9",
+  "repo_url": "https://github.com/midoks/mdserver-web",
+  "date": "2025-08-19T11:48:15",
+  "languages": {
+    "Python": 2585834,
+    "JavaScript": 2359843,
+    "Shell": 1081009,
+    "CSS": 463444,
+    "HTML": 308252,
+    "C": 205919,
+    "PHP": 141128,
+    "Lua": 129340,
+    "Smarty": 37262,
+    "Perl": 4765,
+    "Dockerfile": 2218,
+    "VCL": 508
+  },
+  "size": 7319522
+}

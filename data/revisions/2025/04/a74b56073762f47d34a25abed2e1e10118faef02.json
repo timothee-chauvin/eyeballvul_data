@@ -1,0 +1,13 @@
+{
+  "commit": "a74b56073762f47d34a25abed2e1e10118faef02",
+  "repo_url": "https://github.com/shepherdwind/velocity.js",
+  "date": "2025-04-23T04:10:55",
+  "languages": {
+    "TypeScript": 97414,
+    "Yacc": 9943,
+    "Lex": 7843,
+    "JavaScript": 1885,
+    "Makefile": 550
+  },
+  "size": 117635
+}

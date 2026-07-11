@@ -1,0 +1,20 @@
+{
+  "commit": "388aad082c5e45575e7d1f866e6fe7acf562e45e",
+  "repo_url": "https://github.com/lighttpd/lighttpd1.4",
+  "date": "2022-06-07T23:23:53",
+  "languages": {
+    "C": 3814019,
+    "C++": 212065,
+    "Perl": 86275,
+    "M4": 54919,
+    "CMake": 48010,
+    "Meson": 39097,
+    "Python": 34866,
+    "Yacc": 23223,
+    "Makefile": 19799,
+    "Shell": 14046,
+    "HTML": 4365,
+    "Ruby": 44
+  },
+  "size": 4350728
+}

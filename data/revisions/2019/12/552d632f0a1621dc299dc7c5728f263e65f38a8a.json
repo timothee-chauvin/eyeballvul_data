@@ -1,0 +1,22 @@
+{
+  "commit": "552d632f0a1621dc299dc7c5728f263e65f38a8a",
+  "repo_url": "https://github.com/marcihm/yabasic",
+  "date": "2019-12-12T05:04:05",
+  "languages": {
+    "HTML": 1786716,
+    "C": 821242,
+    "Shell": 777036,
+    "Roff": 254712,
+    "Makefile": 52359,
+    "Yacc": 40608,
+    "Ruby": 19121,
+    "Lex": 16372,
+    "CSS": 7205,
+    "M4": 4276,
+    "XSLT": 2403,
+    "JavaScript": 599,
+    "Perl": 305,
+    "Rich Text Format": 289
+  },
+  "size": 3783243
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "5432ae41ccab80a0f5b6af17e3bda9c290aaee94",
+  "repo_url": "https://github.com/tgstation/tgstation-server",
+  "date": "2020-07-10T17:54:17",
+  "languages": {
+    "C#": 1706313,
+    "DM": 68711,
+    "Shell": 6953,
+    "TypeScript": 5231,
+    "Dockerfile": 3096,
+    "HTML": 2299,
+    "PowerShell": 2198,
+    "Smalltalk": 1316,
+    "Batchfile": 88,
+    "CSS": 63
+  },
+  "size": 1796268
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "96cea2beeb7717ba86b35dff7824e22063115a77",
+  "repo_url": "https://github.com/fedml-ai/fedml",
+  "date": "2023-10-27T16:59:24",
+  "languages": {
+    "Python": 6647569,
+    "Jupyter Notebook": 1487534,
+    "Java": 292477,
+    "Shell": 174590,
+    "C++": 140497,
+    "Dockerfile": 41399,
+    "Batchfile": 16685,
+    "Smarty": 13554,
+    "CMake": 11242,
+    "C": 1722,
+    "PowerShell": 1182
+  },
+  "size": 8828451
+}

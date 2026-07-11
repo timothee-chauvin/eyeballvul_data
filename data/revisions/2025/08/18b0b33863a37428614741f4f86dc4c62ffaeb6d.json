@@ -1,0 +1,15 @@
+{
+  "commit": "18b0b33863a37428614741f4f86dc4c62ffaeb6d",
+  "repo_url": "https://github.com/qgis/qwc2",
+  "date": "2025-08-07T22:10:34",
+  "languages": {
+    "JavaScript": 2089396,
+    "CSS": 153228,
+    "Python": 36668,
+    "Nearley": 11243,
+    "HTML": 3121,
+    "Shell": 2306,
+    "Batchfile": 141
+  },
+  "size": 2296103
+}

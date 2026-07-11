@@ -1,0 +1,17 @@
+{
+  "commit": "ea2a7e088080cf7ab0f9df723782fba152371343",
+  "repo_url": "https://github.com/pelicanplatform/pelican",
+  "date": "2026-04-08T20:06:13",
+  "languages": {
+    "Go": 3917943,
+    "TypeScript": 555704,
+    "Shell": 47560,
+    "Dockerfile": 27418,
+    "Java": 13812,
+    "CSS": 8483,
+    "Makefile": 4234,
+    "Python": 1290,
+    "JavaScript": 796
+  },
+  "size": 4577240
+}

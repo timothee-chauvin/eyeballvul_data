@@ -1,0 +1,14 @@
+{
+  "commit": "f188e23bc141f7b61954fe1d5e65f22a28ee25ac",
+  "repo_url": "https://github.com/maxsite/cms",
+  "date": "2021-05-07T09:14:06",
+  "languages": {
+    "PHP": 3841833,
+    "JavaScript": 244665,
+    "SCSS": 231673,
+    "Less": 126097,
+    "HTML": 90134,
+    "CSS": 32284
+  },
+  "size": 4566686
+}

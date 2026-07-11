@@ -1,0 +1,17 @@
+{
+  "commit": "d2ca06930a5156ad784c7b2c2083e8468c9c2e88",
+  "repo_url": "https://github.com/koji-project/koji",
+  "date": "2024-09-17T11:03:47",
+  "languages": {
+    "Python": 5255246,
+    "PLpgSQL": 116431,
+    "Makefile": 18296,
+    "CSS": 6464,
+    "Shell": 5458,
+    "JavaScript": 5316,
+    "HTML": 4603,
+    "Vim Script": 4392,
+    "Smarty": 507
+  },
+  "size": 5416713
+}

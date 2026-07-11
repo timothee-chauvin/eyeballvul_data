@@ -1,0 +1,18 @@
+{
+  "commit": "347d11a4a83c7eac055356f68131bbbaa7d9e108",
+  "repo_url": "https://github.com/impresscms/impresscms",
+  "date": "2018-12-08T02:29:51",
+  "languages": {
+    "PHP": 26389710,
+    "JavaScript": 2084184,
+    "HTML": 1361542,
+    "CSS": 410677,
+    "Smarty": 46125,
+    "Python": 10525,
+    "Perl": 8721,
+    "ColdFusion": 7938,
+    "Shell": 4106,
+    "Hack": 2521
+  },
+  "size": 30326049
+}

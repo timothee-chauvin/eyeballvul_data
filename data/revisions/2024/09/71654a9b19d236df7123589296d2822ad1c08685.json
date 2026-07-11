@@ -1,0 +1,15 @@
+{
+  "commit": "71654a9b19d236df7123589296d2822ad1c08685",
+  "repo_url": "https://github.com/openbullet/openbullet2",
+  "date": "2024-09-07T17:38:02",
+  "languages": {
+    "C#": 2996279,
+    "TypeScript": 520578,
+    "HTML": 464690,
+    "SCSS": 48162,
+    "CSS": 4178,
+    "Dockerfile": 2064,
+    "Smalltalk": 532
+  },
+  "size": 4036483
+}

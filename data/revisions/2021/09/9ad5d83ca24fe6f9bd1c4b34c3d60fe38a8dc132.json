@@ -1,0 +1,15 @@
+{
+  "commit": "9ad5d83ca24fe6f9bd1c4b34c3d60fe38a8dc132",
+  "repo_url": "https://github.com/nystudio107/craft-seomatic",
+  "date": "2021-09-26T04:38:32",
+  "languages": {
+    "PHP": 10206740,
+    "Twig": 321495,
+    "JavaScript": 53361,
+    "CSS": 25979,
+    "Vue": 20583,
+    "Makefile": 879,
+    "Dockerfile": 119
+  },
+  "size": 10629156
+}

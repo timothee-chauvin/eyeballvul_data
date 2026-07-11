@@ -1,0 +1,14 @@
+{
+  "commit": "5bcb8a816bea7b739deea30c0f3bf0d472eae623",
+  "repo_url": "https://github.com/flatcore/flatcore-cms",
+  "date": "2017-04-21T08:13:37",
+  "languages": {
+    "PHP": 2375203,
+    "Less": 142729,
+    "JavaScript": 112582,
+    "CSS": 53953,
+    "Smarty": 36385,
+    "HTML": 6307
+  },
+  "size": 2727159
+}

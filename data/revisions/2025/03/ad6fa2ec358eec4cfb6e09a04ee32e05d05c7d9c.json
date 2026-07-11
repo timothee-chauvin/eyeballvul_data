@@ -1,0 +1,13 @@
+{
+  "commit": "ad6fa2ec358eec4cfb6e09a04ee32e05d05c7d9c",
+  "repo_url": "https://github.com/bytedance/infinistore",
+  "date": "2025-03-20T23:04:57",
+  "languages": {
+    "C++": 124310,
+    "Python": 63506,
+    "C": 5924,
+    "Makefile": 1370,
+    "Shell": 817
+  },
+  "size": 195927
+}

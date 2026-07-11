@@ -1,0 +1,13 @@
+{
+  "commit": "2dce633368727c6fde5dfe8941c6b68821f994a1",
+  "repo_url": "https://github.com/openidc/liboauth2",
+  "date": "2026-04-02T12:45:19",
+  "languages": {
+    "C": 751722,
+    "M4": 16643,
+    "Makefile": 6736,
+    "Dockerfile": 1585,
+    "Shell": 62
+  },
+  "size": 776748
+}

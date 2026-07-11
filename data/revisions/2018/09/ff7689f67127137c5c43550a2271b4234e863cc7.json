@@ -1,0 +1,14 @@
+{
+  "commit": "ff7689f67127137c5c43550a2271b4234e863cc7",
+  "repo_url": "https://github.com/openshift/cluster-monitoring-operator",
+  "date": "2018-09-24T19:19:20",
+  "languages": {
+    "Go": 145934,
+    "Jsonnet": 40637,
+    "Shell": 10929,
+    "Makefile": 4142,
+    "Python": 3007,
+    "Dockerfile": 1615
+  },
+  "size": 206264
+}

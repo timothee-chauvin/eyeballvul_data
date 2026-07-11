@@ -1,0 +1,12 @@
+{
+  "commit": "e0641a3ed4657a9151281fc981a06b476b1f9e7e",
+  "repo_url": "https://github.com/pulp/pulpcore",
+  "date": "2024-07-23T18:57:53",
+  "languages": {
+    "Python": 2011687,
+    "HTML": 13960,
+    "Shell": 4798,
+    "Jinja": 4169
+  },
+  "size": 2034614
+}

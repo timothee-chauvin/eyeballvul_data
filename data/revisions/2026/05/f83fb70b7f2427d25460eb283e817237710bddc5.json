@@ -1,0 +1,13 @@
+{
+  "commit": "f83fb70b7f2427d25460eb283e817237710bddc5",
+  "repo_url": "https://github.com/steipete/codexbar",
+  "date": "2026-05-28T22:11:46",
+  "languages": {
+    "Swift": 9538006,
+    "Shell": 62576,
+    "JavaScript": 6367,
+    "Python": 4372,
+    "Makefile": 804
+  },
+  "size": 9612125
+}

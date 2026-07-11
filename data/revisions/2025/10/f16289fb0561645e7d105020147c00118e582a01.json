@@ -1,0 +1,18 @@
+{
+  "commit": "f16289fb0561645e7d105020147c00118e582a01",
+  "repo_url": "https://github.com/ndsev/zserio",
+  "date": "2025-10-02T14:13:36",
+  "languages": {
+    "Java": 4626285,
+    "C++": 4605120,
+    "Python": 1722434,
+    "FreeMarker": 766903,
+    "Shell": 322377,
+    "CMake": 183010,
+    "ZenScript": 102018,
+    "ANTLR": 16180,
+    "C": 1002,
+    "HTML": 669
+  },
+  "size": 12345998
+}

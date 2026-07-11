@@ -1,0 +1,17 @@
+{
+  "commit": "550f76c4aa1f21fc9370bb46ed634c3e8ddca1e6",
+  "repo_url": "https://github.com/openshift/console",
+  "date": "2018-04-24T01:27:24",
+  "languages": {
+    "JavaScript": 638903,
+    "TypeScript": 412661,
+    "Go": 97533,
+    "SCSS": 54670,
+    "Shell": 14328,
+    "CSS": 10730,
+    "HTML": 2833,
+    "Dockerfile": 958,
+    "Procfile": 76
+  },
+  "size": 1232692
+}

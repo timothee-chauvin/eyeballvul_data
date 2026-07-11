@@ -1,0 +1,21 @@
+{
+  "commit": "a75ec16357795dffdf79c25b27b96db14e2ad67d",
+  "repo_url": "https://github.com/wso2/product-ei",
+  "date": "2018-09-17T22:37:41",
+  "languages": {
+    "Java": 7630022,
+    "JavaScript": 5975769,
+    "Shell": 374288,
+    "CSS": 229412,
+    "Batchfile": 161417,
+    "Handlebars": 78596,
+    "XSLT": 38219,
+    "HTML": 28231,
+    "PLSQL": 16320,
+    "Ruby": 11897,
+    "TSQL": 11805,
+    "PLpgSQL": 10826,
+    "Dockerfile": 1865
+  },
+  "size": 14568667
+}

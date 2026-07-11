@@ -1,0 +1,28 @@
+{
+  "commit": "7326bb7d6641500ecb285c291a54a662cb1e76cf",
+  "repo_url": "https://github.com/yosyshq/yosys",
+  "date": "2026-02-04T04:19:10",
+  "languages": {
+    "C++": 7139035,
+    "Verilog": 6229408,
+    "Python": 593998,
+    "SystemVerilog": 189712,
+    "Yacc": 125475,
+    "Makefile": 90149,
+    "Shell": 80483,
+    "C": 70195,
+    "Lex": 26185,
+    "HTML": 14511,
+    "Perl": 13071,
+    "Pawn": 12927,
+    "Tcl": 9518,
+    "JavaScript": 9478,
+    "VHDL": 5028,
+    "OpenSCAD": 1952,
+    "Nix": 1751,
+    "Dockerfile": 975,
+    "CMake": 361,
+    "Ruby": 189
+  },
+  "size": 14614401
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "23eae00cd7aad82978397798dd27b600eb25ae3d",
+  "repo_url": "https://github.com/cloudnative-pg/cloudnative-pg",
+  "date": "2026-04-01T10:25:37",
+  "languages": {
+    "Go": 5653573,
+    "Shell": 103171,
+    "Makefile": 17237,
+    "HCL": 4632,
+    "jq": 974,
+    "Dockerfile": 692
+  },
+  "size": 5780279
+}

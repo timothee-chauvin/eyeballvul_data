@@ -1,0 +1,15 @@
+{
+  "commit": "79fb87cf493d82a6f702a2110ad5500b55d108d4",
+  "repo_url": "https://github.com/openedx/edx-enterprise",
+  "date": "2026-04-15T21:43:45",
+  "languages": {
+    "Python": 5705344,
+    "HTML": 95485,
+    "JavaScript": 36447,
+    "SCSS": 14714,
+    "Makefile": 10024,
+    "Dockerfile": 2741,
+    "Shell": 604
+  },
+  "size": 5865359
+}

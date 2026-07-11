@@ -1,0 +1,11 @@
+{
+  "commit": "b2bcefba834db04c1ebca034ab62fe1b6e7519e2",
+  "repo_url": "https://github.com/rschupp/module-scandeps",
+  "date": "2023-11-05T12:46:19",
+  "languages": {
+    "Perl": 153142,
+    "C": 16,
+    "Raku": 14
+  },
+  "size": 153172
+}

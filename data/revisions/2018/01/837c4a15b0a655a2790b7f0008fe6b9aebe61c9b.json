@@ -1,0 +1,15 @@
+{
+  "commit": "837c4a15b0a655a2790b7f0008fe6b9aebe61c9b",
+  "repo_url": "https://github.com/jbroadway/elefant",
+  "date": "2018-01-25T11:19:51",
+  "languages": {
+    "PHP": 2343206,
+    "JavaScript": 1987325,
+    "HTML": 585816,
+    "CSS": 185267,
+    "SCSS": 39308,
+    "PLpgSQL": 18754,
+    "CoffeeScript": 2266
+  },
+  "size": 5161942
+}

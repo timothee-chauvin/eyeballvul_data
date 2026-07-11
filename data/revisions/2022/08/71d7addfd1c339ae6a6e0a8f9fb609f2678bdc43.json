@@ -1,0 +1,11 @@
+{
+  "commit": "71d7addfd1c339ae6a6e0a8f9fb609f2678bdc43",
+  "repo_url": "https://github.com/theforeman/puppet-foreman",
+  "date": "2022-08-26T09:37:09",
+  "languages": {
+    "Ruby": 202444,
+    "Puppet": 83750,
+    "HTML": 10649
+  },
+  "size": 296843
+}

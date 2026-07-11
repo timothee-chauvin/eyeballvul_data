@@ -1,0 +1,23 @@
+{
+  "commit": "0ebbbedb239d6fffb7e1c8c2d36970a3ab1d9300",
+  "repo_url": "https://github.com/open-cascade-sas/occt",
+  "date": "2026-04-05T20:10:53",
+  "languages": {
+    "C++": 91949357,
+    "C": 1504752,
+    "CMake": 861295,
+    "Tcl": 357054,
+    "Python": 288161,
+    "GLSL": 114737,
+    "Objective-C++": 64776,
+    "Batchfile": 54490,
+    "Shell": 48817,
+    "F#": 35114,
+    "Forth": 32002,
+    "Yacc": 13038,
+    "Lex": 10333,
+    "HTML": 3629,
+    "TeX": 3502
+  },
+  "size": 95341057
+}

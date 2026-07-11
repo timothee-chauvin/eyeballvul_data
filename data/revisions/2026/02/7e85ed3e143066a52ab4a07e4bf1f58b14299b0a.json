@@ -1,0 +1,14 @@
+{
+  "commit": "7e85ed3e143066a52ab4a07e4bf1f58b14299b0a",
+  "repo_url": "https://github.com/zeecka/aperisolve",
+  "date": "2026-02-21T00:07:17",
+  "languages": {
+    "Python": 87433,
+    "JavaScript": 33730,
+    "HTML": 31006,
+    "CSS": 16905,
+    "Dockerfile": 3283,
+    "Shell": 316
+  },
+  "size": 172673
+}

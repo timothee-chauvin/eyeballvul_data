@@ -1,0 +1,32 @@
+{
+  "commit": "8173b858dd1bff6be465bca2e2bbfc4eabd189b4",
+  "repo_url": "https://github.com/apache/incubator-mxnet",
+  "date": "2021-11-04T20:30:01",
+  "languages": {
+    "Python": 10183096,
+    "C++": 10002750,
+    "Jupyter Notebook": 3660357,
+    "Perl": 1567306,
+    "Scala": 1304587,
+    "Cuda": 1295752,
+    "Clojure": 622654,
+    "Shell": 448109,
+    "Julia": 443933,
+    "R": 357974,
+    "C": 238236,
+    "Java": 205166,
+    "CMake": 183174,
+    "Groovy": 163383,
+    "SWIG": 162792,
+    "Makefile": 139879,
+    "Dockerfile": 107653,
+    "Smalltalk": 36967,
+    "MATLAB": 34903,
+    "Cython": 26662,
+    "Batchfile": 13130,
+    "PowerShell": 9244,
+    "StringTemplate": 6807,
+    "ANTLR": 1731
+  },
+  "size": 31216245
+}

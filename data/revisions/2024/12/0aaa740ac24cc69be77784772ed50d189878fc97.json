@@ -1,0 +1,13 @@
+{
+  "commit": "0aaa740ac24cc69be77784772ed50d189878fc97",
+  "repo_url": "https://github.com/snowflakedb/snowflake-connector-nodejs",
+  "date": "2024-12-13T13:29:40",
+  "languages": {
+    "JavaScript": 1481938,
+    "Shell": 21718,
+    "Python": 5171,
+    "Batchfile": 2430,
+    "Dockerfile": 955
+  },
+  "size": 1512212
+}

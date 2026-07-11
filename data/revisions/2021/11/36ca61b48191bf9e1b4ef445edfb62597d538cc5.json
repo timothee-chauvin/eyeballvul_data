@@ -1,0 +1,16 @@
+{
+  "commit": "36ca61b48191bf9e1b4ef445edfb62597d538cc5",
+  "repo_url": "https://github.com/mozilla/rhino",
+  "date": "2021-11-18T22:00:40",
+  "languages": {
+    "C++": 8671293,
+    "Java": 6070030,
+    "JavaScript": 1686124,
+    "C": 164261,
+    "Perl": 146094,
+    "Shell": 58062,
+    "HTML": 23881,
+    "Makefile": 4255
+  },
+  "size": 16824000
+}

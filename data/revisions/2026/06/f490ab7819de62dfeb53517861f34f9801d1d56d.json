@@ -1,0 +1,13 @@
+{
+  "commit": "f490ab7819de62dfeb53517861f34f9801d1d56d",
+  "repo_url": "https://github.com/rtk-ai/rtk",
+  "date": "2026-06-03T12:43:24",
+  "languages": {
+    "Rust": 2260280,
+    "Shell": 127622,
+    "TypeScript": 40202,
+    "Python": 21264,
+    "Ruby": 1171
+  },
+  "size": 2450539
+}

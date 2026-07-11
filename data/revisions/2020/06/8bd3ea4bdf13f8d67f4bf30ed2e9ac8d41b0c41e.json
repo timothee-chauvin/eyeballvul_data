@@ -1,0 +1,12 @@
+{
+  "commit": "8bd3ea4bdf13f8d67f4bf30ed2e9ac8d41b0c41e",
+  "repo_url": "https://github.com/nextcloud/preferred_providers",
+  "date": "2020-06-16T04:17:24",
+  "languages": {
+    "JavaScript": 104285,
+    "PHP": 73447,
+    "Makefile": 701,
+    "CSS": 248
+  },
+  "size": 178681
+}

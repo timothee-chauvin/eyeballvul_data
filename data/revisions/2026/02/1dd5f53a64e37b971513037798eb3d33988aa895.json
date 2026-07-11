@@ -1,0 +1,19 @@
+{
+  "commit": "1dd5f53a64e37b971513037798eb3d33988aa895",
+  "repo_url": "https://github.com/noir-lang/noir",
+  "date": "2026-02-16T20:04:57",
+  "languages": {
+    "Rust": 11688597,
+    "Roff": 1835728,
+    "TypeScript": 214773,
+    "Shell": 40596,
+    "JavaScript": 14373,
+    "CSS": 7116,
+    "Just": 6483,
+    "Ruby": 3332,
+    "Python": 1381,
+    "Dockerfile": 626,
+    "Gnuplot": 199
+  },
+  "size": 13813204
+}

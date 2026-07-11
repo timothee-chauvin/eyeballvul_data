@@ -1,0 +1,14 @@
+{
+  "commit": "95446c5f08fc43993fad5e2b581743ffcce50c35",
+  "repo_url": "https://github.com/pagekit/pagekit",
+  "date": "2020-01-20T14:57:35",
+  "languages": {
+    "PHP": 2633202,
+    "JavaScript": 164724,
+    "Vue": 161125,
+    "Less": 118716,
+    "CSS": 33774,
+    "HTML": 6669
+  },
+  "size": 3118210
+}

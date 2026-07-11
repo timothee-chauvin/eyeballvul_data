@@ -1,0 +1,13 @@
+{
+  "commit": "f3c64ec2d713c053b20bcf90e962cd7fb161370c",
+  "repo_url": "https://github.com/dotnet/core",
+  "date": "2017-08-14T15:42:55",
+  "languages": {
+    "Python": 37350,
+    "Dockerfile": 9611,
+    "Shell": 5074,
+    "C#": 2788,
+    "Groovy": 2782
+  },
+  "size": 57605
+}

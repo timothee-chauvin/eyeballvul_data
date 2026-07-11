@@ -1,0 +1,15 @@
+{
+  "commit": "fda4dda04aa7228fcaba162804891806cf5a1375",
+  "repo_url": "https://github.com/oracle/macaron",
+  "date": "2026-02-25T02:49:59",
+  "languages": {
+    "Python": 2470039,
+    "HTML": 140667,
+    "Shell": 59108,
+    "Makefile": 20394,
+    "Go": 18938,
+    "CUE": 4224,
+    "Dockerfile": 996
+  },
+  "size": 2714366
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "034297c35b9859f40c7d37e4de3ebdc6d55b3472",
+  "repo_url": "https://github.com/monetr/monetr",
+  "date": "2026-04-02T00:31:49",
+  "languages": {
+    "Go": 2150315,
+    "TypeScript": 853897,
+    "CMake": 74676,
+    "Assembly": 54131,
+    "SCSS": 52983,
+    "PLpgSQL": 46297,
+    "Makefile": 5079,
+    "Shell": 3606,
+    "PLSQL": 2782,
+    "CSS": 2013,
+    "Dockerfile": 1920,
+    "HTML": 1156
+  },
+  "size": 3248855
+}

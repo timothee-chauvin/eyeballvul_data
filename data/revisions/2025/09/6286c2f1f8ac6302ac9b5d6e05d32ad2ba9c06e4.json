@@ -1,0 +1,16 @@
+{
+  "commit": "6286c2f1f8ac6302ac9b5d6e05d32ad2ba9c06e4",
+  "repo_url": "https://github.com/mysteriumnetwork/node",
+  "date": "2025-09-22T12:33:21",
+  "languages": {
+    "Go": 5654757,
+    "Shell": 51464,
+    "Dockerfile": 3480,
+    "C": 1753,
+    "HTML": 642,
+    "Makefile": 349,
+    "JavaScript": 253,
+    "Assembly": 69
+  },
+  "size": 5712767
+}

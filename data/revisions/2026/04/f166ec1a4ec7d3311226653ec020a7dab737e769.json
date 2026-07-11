@@ -1,0 +1,13 @@
+{
+  "commit": "f166ec1a4ec7d3311226653ec020a7dab737e769",
+  "repo_url": "https://github.com/gitlawb/openclaude",
+  "date": "2026-04-20T00:30:58",
+  "languages": {
+    "TypeScript": 19308190,
+    "JavaScript": 177919,
+    "Python": 46320,
+    "Dockerfile": 1086,
+    "Shell": 967
+  },
+  "size": 19534482
+}

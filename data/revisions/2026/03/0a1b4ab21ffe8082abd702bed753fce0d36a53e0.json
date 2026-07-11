@@ -1,0 +1,17 @@
+{
+  "commit": "0a1b4ab21ffe8082abd702bed753fce0d36a53e0",
+  "repo_url": "https://github.com/fatedier/frp",
+  "date": "2026-03-20T05:56:28",
+  "languages": {
+    "Go": 1217243,
+    "Vue": 225961,
+    "TypeScript": 48098,
+    "CSS": 13884,
+    "Shell": 4582,
+    "SCSS": 2794,
+    "Makefile": 1977,
+    "JavaScript": 1769,
+    "HTML": 510
+  },
+  "size": 1516818
+}

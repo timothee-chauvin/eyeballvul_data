@@ -1,0 +1,16 @@
+{
+  "commit": "58bd1753c9a9c59a69e467b28a2feeea43f17072",
+  "repo_url": "https://github.com/airsonic/airsonic",
+  "date": "2019-02-19T03:37:19",
+  "languages": {
+    "Java": 2186597,
+    "JavaScript": 971974,
+    "CSS": 92162,
+    "Shell": 1130,
+    "Dockerfile": 848,
+    "Gherkin": 405,
+    "PLSQL": 205,
+    "HTML": 106
+  },
+  "size": 3253427
+}

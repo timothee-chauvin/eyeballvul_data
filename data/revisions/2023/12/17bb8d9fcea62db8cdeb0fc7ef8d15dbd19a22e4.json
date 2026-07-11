@@ -1,0 +1,17 @@
+{
+  "commit": "17bb8d9fcea62db8cdeb0fc7ef8d15dbd19a22e4",
+  "repo_url": "https://github.com/strukturag/libde265",
+  "date": "2023-12-20T10:43:49",
+  "languages": {
+    "C++": 1870934,
+    "C": 80421,
+    "Assembly": 38960,
+    "M4": 29355,
+    "Shell": 15993,
+    "Makefile": 9560,
+    "CMake": 7892,
+    "Python": 6826,
+    "Batchfile": 984
+  },
+  "size": 2060925
+}

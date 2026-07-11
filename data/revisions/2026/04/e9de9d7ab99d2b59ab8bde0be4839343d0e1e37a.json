@@ -1,0 +1,11 @@
+{
+  "commit": "e9de9d7ab99d2b59ab8bde0be4839343d0e1e37a",
+  "repo_url": "https://github.com/azure/kafka-sink-azure-kusto",
+  "date": "2026-04-10T10:51:18",
+  "languages": {
+    "Java": 247466,
+    "Shell": 8155,
+    "Dockerfile": 1623
+  },
+  "size": 257244
+}

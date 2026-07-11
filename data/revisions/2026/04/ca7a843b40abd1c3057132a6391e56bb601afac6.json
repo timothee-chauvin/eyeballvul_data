@@ -1,0 +1,13 @@
+{
+  "commit": "ca7a843b40abd1c3057132a6391e56bb601afac6",
+  "repo_url": "https://github.com/icip-cas/pptagent",
+  "date": "2026-04-12T15:35:13",
+  "languages": {
+    "Python": 459805,
+    "JavaScript": 133111,
+    "TypeScript": 47417,
+    "Dockerfile": 8795,
+    "Shell": 917
+  },
+  "size": 650045
+}

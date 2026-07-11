@@ -1,0 +1,19 @@
+{
+  "commit": "0b34e30c34b7c31ebb84ca6b3b686c1b3e7b19af",
+  "repo_url": "https://github.com/apache/accumulo",
+  "date": "2019-07-29T19:51:48",
+  "languages": {
+    "Java": 18367812,
+    "JavaScript": 71414,
+    "Shell": 61812,
+    "FreeMarker": 56486,
+    "Thrift": 40490,
+    "C++": 36999,
+    "Python": 7337,
+    "CSS": 6421,
+    "HTML": 5408,
+    "Makefile": 2865,
+    "C": 2423
+  },
+  "size": 18659467
+}

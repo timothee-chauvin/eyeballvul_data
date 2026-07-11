@@ -1,0 +1,20 @@
+{
+  "commit": "702c27a8d2c21103079a43fc1e1b1d91f25c96df",
+  "repo_url": "https://github.com/kilo-org/kilocode",
+  "date": "2026-03-13T12:45:52",
+  "languages": {
+    "TypeScript": 11425616,
+    "CSS": 440741,
+    "Rust": 92930,
+    "JavaScript": 46847,
+    "Scheme": 40669,
+    "Shell": 18163,
+    "Nix": 13758,
+    "HTML": 2831,
+    "Dockerfile": 2748,
+    "Python": 1659,
+    "PHP": 633,
+    "Go": 166
+  },
+  "size": 12086761
+}

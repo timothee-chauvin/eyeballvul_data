@@ -1,0 +1,15 @@
+{
+  "commit": "5e83ed8eb0755af831ad36f114300299cc703615",
+  "repo_url": "https://github.com/lldap/lldap",
+  "date": "2025-08-17T22:06:44",
+  "languages": {
+    "Rust": 977456,
+    "Shell": 29916,
+    "HTML": 4443,
+    "Dockerfile": 3259,
+    "CSS": 1041,
+    "JavaScript": 256,
+    "Makefile": 168
+  },
+  "size": 1016539
+}

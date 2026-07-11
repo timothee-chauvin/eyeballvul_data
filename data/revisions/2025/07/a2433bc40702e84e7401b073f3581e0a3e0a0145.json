@@ -1,0 +1,14 @@
+{
+  "commit": "a2433bc40702e84e7401b073f3581e0a3e0a0145",
+  "repo_url": "https://github.com/in2code-de/powermail",
+  "date": "2025-07-11T09:52:55",
+  "languages": {
+    "PHP": 1048821,
+    "HTML": 133266,
+    "Gherkin": 113719,
+    "JavaScript": 50394,
+    "SCSS": 22253,
+    "Shell": 1630
+  },
+  "size": 1370083
+}

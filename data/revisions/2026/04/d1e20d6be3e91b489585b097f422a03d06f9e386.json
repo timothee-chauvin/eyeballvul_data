@@ -1,0 +1,11 @@
+{
+  "commit": "d1e20d6be3e91b489585b097f422a03d06f9e386",
+  "repo_url": "https://github.com/cohere-ai/cohere-terrarium",
+  "date": "2026-04-22T15:29:56",
+  "languages": {
+    "Python": 23135,
+    "TypeScript": 19928,
+    "Dockerfile": 371
+  },
+  "size": 43434
+}

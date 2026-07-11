@@ -1,0 +1,17 @@
+{
+  "commit": "667bfb32c9f1865b72c7082762e120bf4cf9a2fa",
+  "repo_url": "https://github.com/craigk5n/webcalendar",
+  "date": "2019-03-15T14:17:28",
+  "languages": {
+    "PHP": 2015533,
+    "JavaScript": 169675,
+    "Java": 140356,
+    "HTML": 104549,
+    "CSS": 79389,
+    "Perl": 37897,
+    "Makefile": 2546,
+    "Shell": 716,
+    "Hack": 229
+  },
+  "size": 2550890
+}

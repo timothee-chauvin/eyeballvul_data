@@ -1,0 +1,15 @@
+{
+  "commit": "ed0274a504a35fe298e7787ac412419f625d4016",
+  "repo_url": "https://github.com/evoweb/sf_register",
+  "date": "2026-05-01T12:47:34",
+  "languages": {
+    "PHP": 444788,
+    "Shell": 93099,
+    "HTML": 63410,
+    "TypeScript": 12082,
+    "JavaScript": 4175,
+    "CSS": 2803,
+    "Makefile": 669
+  },
+  "size": 621026
+}

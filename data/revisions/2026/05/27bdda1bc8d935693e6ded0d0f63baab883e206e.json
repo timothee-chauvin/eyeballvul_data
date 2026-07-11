@@ -1,0 +1,14 @@
+{
+  "commit": "27bdda1bc8d935693e6ded0d0f63baab883e206e",
+  "repo_url": "https://github.com/murtaza-nasir/speakr",
+  "date": "2026-05-04T05:03:03",
+  "languages": {
+    "Python": 1782490,
+    "HTML": 1397705,
+    "JavaScript": 718547,
+    "CSS": 126155,
+    "Shell": 17703,
+    "Dockerfile": 3292
+  },
+  "size": 4045892
+}

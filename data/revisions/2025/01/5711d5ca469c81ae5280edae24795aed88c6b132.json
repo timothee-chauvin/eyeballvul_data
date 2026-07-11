@@ -1,0 +1,15 @@
+{
+  "commit": "5711d5ca469c81ae5280edae24795aed88c6b132",
+  "repo_url": "https://github.com/emqx/neuron",
+  "date": "2025-01-08T05:56:32",
+  "languages": {
+    "C": 2136514,
+    "Python": 368903,
+    "C++": 43215,
+    "CMake": 24203,
+    "Shell": 5580,
+    "PLpgSQL": 2187,
+    "Smarty": 1613
+  },
+  "size": 2582215
+}

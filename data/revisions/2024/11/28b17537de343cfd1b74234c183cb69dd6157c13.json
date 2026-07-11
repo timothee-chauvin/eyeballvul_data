@@ -1,0 +1,12 @@
+{
+  "commit": "28b17537de343cfd1b74234c183cb69dd6157c13",
+  "repo_url": "https://github.com/skupperproject/skupper",
+  "date": "2024-11-06T13:45:17",
+  "languages": {
+    "Go": 3093464,
+    "Gherkin": 17979,
+    "Makefile": 13885,
+    "Shell": 8056
+  },
+  "size": 3133384
+}

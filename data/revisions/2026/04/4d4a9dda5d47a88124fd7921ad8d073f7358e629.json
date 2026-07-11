@@ -1,0 +1,15 @@
+{
+  "commit": "4d4a9dda5d47a88124fd7921ad8d073f7358e629",
+  "repo_url": "https://github.com/georgringer/news",
+  "date": "2026-04-17T13:41:07",
+  "languages": {
+    "PHP": 720947,
+    "HTML": 88724,
+    "Shell": 28287,
+    "JavaScript": 12026,
+    "CSS": 4214,
+    "Less": 3015,
+    "Makefile": 513
+  },
+  "size": 857726
+}

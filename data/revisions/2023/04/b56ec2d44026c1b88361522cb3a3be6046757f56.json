@@ -1,0 +1,17 @@
+{
+  "commit": "b56ec2d44026c1b88361522cb3a3be6046757f56",
+  "repo_url": "https://github.com/zmops/argusdbm",
+  "date": "2023-04-28T06:42:46",
+  "languages": {
+    "Java": 1180070,
+    "TypeScript": 205033,
+    "JavaScript": 58800,
+    "HTML": 51540,
+    "Vue": 35634,
+    "CSS": 24993,
+    "Shell": 8049,
+    "Batchfile": 3305,
+    "Dockerfile": 227
+  },
+  "size": 1567651
+}

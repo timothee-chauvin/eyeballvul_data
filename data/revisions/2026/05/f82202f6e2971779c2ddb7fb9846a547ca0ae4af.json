@@ -1,0 +1,13 @@
+{
+  "commit": "f82202f6e2971779c2ddb7fb9846a547ca0ae4af",
+  "repo_url": "https://github.com/stanfordnlp/stanza",
+  "date": "2026-05-28T02:03:43",
+  "languages": {
+    "Python": 4103413,
+    "JavaScript": 57416,
+    "Jinja": 8424,
+    "Shell": 5118,
+    "CSS": 1376
+  },
+  "size": 4175747
+}

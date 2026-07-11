@@ -1,0 +1,14 @@
+{
+  "commit": "66143340b6a184e4e402053b8545c51f1e5bbe61",
+  "repo_url": "https://github.com/leejet/stable-diffusion.cpp",
+  "date": "2026-04-19T09:52:56",
+  "languages": {
+    "C++": 134059253,
+    "C": 11833,
+    "CMake": 9014,
+    "Python": 3320,
+    "Dockerfile": 541,
+    "Shell": 508
+  },
+  "size": 134084469
+}

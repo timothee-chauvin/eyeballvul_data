@@ -1,0 +1,13 @@
+{
+  "commit": "74eddb0638e88179df0a109706d7b7364f03a38f",
+  "repo_url": "https://github.com/docmost/docmost",
+  "date": "2026-03-16T13:49:50",
+  "languages": {
+    "TypeScript": 2284895,
+    "CSS": 71293,
+    "JavaScript": 2412,
+    "Dockerfile": 1209,
+    "HTML": 1076
+  },
+  "size": 2360885
+}

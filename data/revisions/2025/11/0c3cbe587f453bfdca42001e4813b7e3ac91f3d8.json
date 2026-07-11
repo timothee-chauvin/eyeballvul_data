@@ -1,0 +1,15 @@
+{
+  "commit": "0c3cbe587f453bfdca42001e4813b7e3ac91f3d8",
+  "repo_url": "https://github.com/onesignal/onesignal-wordpress-plugin",
+  "date": "2025-11-13T23:47:02",
+  "languages": {
+    "SCSS": 740084,
+    "PHP": 192563,
+    "JavaScript": 27488,
+    "CSS": 13366,
+    "Shell": 8371,
+    "HTML": 854,
+    "Hack": 457
+  },
+  "size": 983183
+}

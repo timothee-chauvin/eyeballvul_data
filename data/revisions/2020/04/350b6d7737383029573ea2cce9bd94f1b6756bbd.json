@@ -1,0 +1,16 @@
+{
+  "commit": "350b6d7737383029573ea2cce9bd94f1b6756bbd",
+  "repo_url": "https://github.com/dbry/wavpack",
+  "date": "2020-04-16T21:42:19",
+  "languages": {
+    "C": 1482280,
+    "Assembly": 424145,
+    "C++": 235524,
+    "CMake": 30321,
+    "M4": 8657,
+    "NSIS": 4212,
+    "Makefile": 3921,
+    "Shell": 3502
+  },
+  "size": 2192562
+}

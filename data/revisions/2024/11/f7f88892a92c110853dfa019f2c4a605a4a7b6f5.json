@@ -1,0 +1,15 @@
+{
+  "commit": "f7f88892a92c110853dfa019f2c4a605a4a7b6f5",
+  "repo_url": "https://github.com/ragapp/ragapp",
+  "date": "2024-11-04T06:23:22",
+  "languages": {
+    "TypeScript": 218724,
+    "Python": 168082,
+    "CSS": 3576,
+    "Shell": 3514,
+    "Makefile": 2443,
+    "Dockerfile": 2153,
+    "JavaScript": 1464
+  },
+  "size": 399956
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "e29e799043e03340b92a675c50d645568d08c9c9",
+  "repo_url": "https://github.com/leandrocp/mdex",
+  "date": "2026-04-22T23:32:31",
+  "languages": {
+    "Elixir": 574218,
+    "Rust": 125764,
+    "Dockerfile": 356,
+    "Just": 129
+  },
+  "size": 700467
+}

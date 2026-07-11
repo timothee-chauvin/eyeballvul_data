@@ -1,0 +1,14 @@
+{
+  "commit": "8a8d399df7ee2775d14636b32f74621eb37b874b",
+  "repo_url": "https://github.com/kde/arianna",
+  "date": "2026-04-09T20:17:20",
+  "languages": {
+    "JavaScript": 316785,
+    "C++": 140839,
+    "QML": 54486,
+    "HTML": 11420,
+    "CMake": 7112,
+    "Shell": 186
+  },
+  "size": 530828
+}

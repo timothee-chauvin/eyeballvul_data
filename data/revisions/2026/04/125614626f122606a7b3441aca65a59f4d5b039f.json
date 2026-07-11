@@ -1,0 +1,16 @@
+{
+  "commit": "125614626f122606a7b3441aca65a59f4d5b039f",
+  "repo_url": "https://github.com/usagi-org/ai-goofish-monitor",
+  "date": "2026-04-27T10:49:02",
+  "languages": {
+    "Python": 473871,
+    "Vue": 224636,
+    "TypeScript": 111506,
+    "Shell": 16385,
+    "JavaScript": 12860,
+    "HTML": 4741,
+    "CSS": 2867,
+    "Dockerfile": 2184
+  },
+  "size": 849050
+}

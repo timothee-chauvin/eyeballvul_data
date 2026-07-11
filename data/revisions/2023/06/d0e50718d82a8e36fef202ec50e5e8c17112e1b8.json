@@ -1,0 +1,13 @@
+{
+  "commit": "d0e50718d82a8e36fef202ec50e5e8c17112e1b8",
+  "repo_url": "https://github.com/pivotx/pivotx",
+  "date": "2023-06-22T14:17:13",
+  "languages": {
+    "PHP": 2937611,
+    "Smarty": 277543,
+    "JavaScript": 226635,
+    "HTML": 174460,
+    "CSS": 135208
+  },
+  "size": 3751457
+}

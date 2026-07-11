@@ -1,0 +1,17 @@
+{
+  "commit": "9258f57dceab19d52a1a0bdac54eb38576c29187",
+  "repo_url": "https://github.com/khoj-ai/khoj",
+  "date": "2026-03-26T03:33:47",
+  "languages": {
+    "Python": 1636530,
+    "TypeScript": 1166849,
+    "CSS": 132322,
+    "HTML": 105509,
+    "Emacs Lisp": 76457,
+    "JavaScript": 72494,
+    "Shell": 14889,
+    "Dockerfile": 10523,
+    "Java": 2689
+  },
+  "size": 3218262
+}

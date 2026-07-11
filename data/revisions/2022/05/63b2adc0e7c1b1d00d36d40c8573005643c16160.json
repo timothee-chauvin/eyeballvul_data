@@ -1,0 +1,29 @@
+{
+  "commit": "63b2adc0e7c1b1d00d36d40c8573005643c16160",
+  "repo_url": "https://github.com/mistertea/eternalterminal",
+  "date": "2022-05-05T15:20:44",
+  "languages": {
+    "C++": 13761392,
+    "CMake": 1066580,
+    "C": 1021525,
+    "PowerShell": 218935,
+    "Python": 158888,
+    "Shell": 67242,
+    "Makefile": 48350,
+    "HTML": 29233,
+    "Objective-C++": 6690,
+    "QMake": 3618,
+    "Batchfile": 3173,
+    "Ruby": 3173,
+    "Roff": 3012,
+    "NASL": 2063,
+    "Dockerfile": 1962,
+    "Qt Script": 1661,
+    "Objective-C": 1592,
+    "Nix": 923,
+    "CSS": 896,
+    "Meson": 552,
+    "Starlark": 436
+  },
+  "size": 16401896
+}

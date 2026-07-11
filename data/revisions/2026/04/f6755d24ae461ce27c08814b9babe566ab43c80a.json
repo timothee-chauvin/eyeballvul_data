@@ -1,0 +1,15 @@
+{
+  "commit": "f6755d24ae461ce27c08814b9babe566ab43c80a",
+  "repo_url": "https://github.com/iina/iina",
+  "date": "2026-04-16T17:16:11",
+  "languages": {
+    "Swift": 1777099,
+    "Objective-C": 38980,
+    "Ruby": 12578,
+    "Shell": 9996,
+    "Rich Text Format": 8624,
+    "JavaScript": 4812,
+    "HTML": 3674
+  },
+  "size": 1855763
+}

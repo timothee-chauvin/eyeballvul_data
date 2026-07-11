@@ -1,0 +1,13 @@
+{
+  "commit": "56c2347212142194415cd0d400c59c1424fa9d2b",
+  "repo_url": "https://github.com/broadleafcommerce/broadleafcommerce",
+  "date": "2022-08-08T19:22:36",
+  "languages": {
+    "Java": 13419970,
+    "JavaScript": 1364543,
+    "CSS": 562857,
+    "Groovy": 323546,
+    "HTML": 193569
+  },
+  "size": 15864485
+}

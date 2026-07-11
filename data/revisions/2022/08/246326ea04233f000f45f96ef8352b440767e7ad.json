@@ -1,0 +1,13 @@
+{
+  "commit": "246326ea04233f000f45f96ef8352b440767e7ad",
+  "repo_url": "https://github.com/vertex-app/vertex",
+  "date": "2022-08-04T05:31:19",
+  "languages": {
+    "JavaScript": 391851,
+    "Vue": 282528,
+    "Shell": 3940,
+    "Dockerfile": 1109,
+    "HTML": 1046
+  },
+  "size": 680474
+}

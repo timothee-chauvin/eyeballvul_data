@@ -1,0 +1,14 @@
+{
+  "commit": "d05ea751d9b4dd106d02c7e1ed497bac3c77549e",
+  "repo_url": "https://github.com/magicmirrororg/magicmirror",
+  "date": "2026-04-01T10:35:16",
+  "languages": {
+    "JavaScript": 799409,
+    "HTML": 85355,
+    "CSS": 55524,
+    "Nunjucks": 15078,
+    "TypeScript": 1130,
+    "Shell": 69
+  },
+  "size": 956565
+}

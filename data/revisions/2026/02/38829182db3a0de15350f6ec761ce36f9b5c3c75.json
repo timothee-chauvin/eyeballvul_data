@@ -1,0 +1,11 @@
+{
+  "commit": "38829182db3a0de15350f6ec761ce36f9b5c3c75",
+  "repo_url": "https://github.com/omec-project/amf",
+  "date": "2026-02-04T21:53:24",
+  "languages": {
+    "Go": 1048904,
+    "Makefile": 5955,
+    "Dockerfile": 1812
+  },
+  "size": 1056671
+}

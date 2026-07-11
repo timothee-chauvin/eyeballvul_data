@@ -1,0 +1,16 @@
+{
+  "commit": "886676b3e80e01324f95970dc8b95873df3a7a51",
+  "repo_url": "https://github.com/humhub/humhub",
+  "date": "2019-02-22T10:24:56",
+  "languages": {
+    "PHP": 13013261,
+    "JavaScript": 981530,
+    "Less": 116748,
+    "CSS": 95329,
+    "HTML": 7289,
+    "Shell": 2174,
+    "Batchfile": 1030,
+    "Hack": 516
+  },
+  "size": 14217877
+}

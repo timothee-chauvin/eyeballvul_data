@@ -1,0 +1,16 @@
+{
+  "commit": "eea886842486b511f27032642c55c127668ebf32",
+  "repo_url": "https://github.com/opencart/opencart",
+  "date": "2023-07-08T22:31:33",
+  "languages": {
+    "PHP": 3562891,
+    "Twig": 1993363,
+    "JavaScript": 880672,
+    "SCSS": 664353,
+    "HTML": 352437,
+    "CSS": 80581,
+    "Shell": 680,
+    "Makefile": 285
+  },
+  "size": 7535262
+}

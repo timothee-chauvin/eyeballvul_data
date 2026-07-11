@@ -1,0 +1,17 @@
+{
+  "commit": "0d47cc248d59b68e0b85ee4f5cd8cd3c6c573d92",
+  "repo_url": "https://github.com/blossom-editor/blossom",
+  "date": "2025-08-24T09:01:31",
+  "languages": {
+    "Java": 964753,
+    "Vue": 838259,
+    "TypeScript": 229542,
+    "SCSS": 84145,
+    "HTML": 67267,
+    "CSS": 63154,
+    "JavaScript": 3358,
+    "Dockerfile": 1851,
+    "Shell": 434
+  },
+  "size": 2252763
+}

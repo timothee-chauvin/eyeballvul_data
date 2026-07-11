@@ -1,0 +1,15 @@
+{
+  "commit": "118d635650f07b20ac6404afff30da99ef4e4c49",
+  "repo_url": "https://github.com/iv-org/invidious",
+  "date": "2026-02-07T20:47:19",
+  "languages": {
+    "Crystal": 754429,
+    "HTML": 132170,
+    "JavaScript": 83370,
+    "CSS": 26216,
+    "Shell": 10867,
+    "Dockerfile": 2848,
+    "Makefile": 2476
+  },
+  "size": 1012376
+}

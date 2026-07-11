@@ -1,0 +1,13 @@
+{
+  "commit": "b2a84251c83840e016aaaabc5ca82fafc91ee5ef",
+  "repo_url": "https://github.com/cross-signature/cross-implementation",
+  "date": "2025-07-31T15:11:39",
+  "languages": {
+    "C": 420165,
+    "Sage": 29204,
+    "Python": 11358,
+    "CMake": 9398,
+    "Shell": 468
+  },
+  "size": 470593
+}

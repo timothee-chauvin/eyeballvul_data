@@ -1,0 +1,11 @@
+{
+  "commit": "850022dd819d1ec8176ac3ac38af71a4205ea8f0",
+  "repo_url": "https://github.com/aws/aws-cli",
+  "date": "2026-04-09T18:18:09",
+  "languages": {
+    "Python": 4414201,
+    "Shell": 1808,
+    "Batchfile": 1432
+  },
+  "size": 4417441
+}

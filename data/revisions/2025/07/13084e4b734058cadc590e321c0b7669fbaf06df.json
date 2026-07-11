@@ -1,0 +1,20 @@
+{
+  "commit": "13084e4b734058cadc590e321c0b7669fbaf06df",
+  "repo_url": "https://github.com/samsung/one",
+  "date": "2025-07-02T01:15:21",
+  "languages": {
+    "C++": 29416245,
+    "Python": 2687493,
+    "C": 1888211,
+    "CMake": 1016205,
+    "Shell": 901285,
+    "MLIR": 43488,
+    "Roff": 40251,
+    "Dockerfile": 31171,
+    "Makefile": 29655,
+    "Assembly": 26090,
+    "C#": 16541,
+    "Java": 16257
+  },
+  "size": 36112892
+}

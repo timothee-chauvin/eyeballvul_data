@@ -1,0 +1,19 @@
+{
+  "commit": "6da09c33683ec40cb4af2687fdd7447cdae5abbd",
+  "repo_url": "https://github.com/friendica/friendica",
+  "date": "2024-03-22T15:07:52",
+  "languages": {
+    "PHP": 12712185,
+    "Smarty": 812710,
+    "JavaScript": 644674,
+    "CSS": 625594,
+    "Less": 52052,
+    "Shell": 23853,
+    "HTML": 9792,
+    "SCSS": 5137,
+    "Python": 4611,
+    "Makefile": 1337,
+    "Batchfile": 125
+  },
+  "size": 14892070
+}

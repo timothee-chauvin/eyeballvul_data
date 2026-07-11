@@ -1,0 +1,10 @@
+{
+  "commit": "910b33c6151a53cf49c85def867bf5792fed9695",
+  "repo_url": "https://github.com/iskorotkov/avro",
+  "date": "2026-04-29T07:33:44",
+  "languages": {
+    "Go": 775225,
+    "Makefile": 386
+  },
+  "size": 775611
+}

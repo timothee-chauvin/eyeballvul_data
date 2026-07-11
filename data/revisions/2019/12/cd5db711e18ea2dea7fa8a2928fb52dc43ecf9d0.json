@@ -1,0 +1,28 @@
+{
+  "commit": "cd5db711e18ea2dea7fa8a2928fb52dc43ecf9d0",
+  "repo_url": "https://github.com/gnuplot/gnuplot",
+  "date": "2019-12-10T06:59:54",
+  "languages": {
+    "C": 6055364,
+    "C++": 515739,
+    "Makefile": 128470,
+    "JavaScript": 127269,
+    "Lua": 82360,
+    "Shell": 61910,
+    "M4": 58873,
+    "PostScript": 44611,
+    "Objective-C": 32495,
+    "Inno Setup": 22076,
+    "TeX": 21949,
+    "IGOR Pro": 15108,
+    "DIGITAL Command Language": 8092,
+    "Gnuplot": 4609,
+    "GAP": 3768,
+    "Batchfile": 2350,
+    "Rich Text Format": 1692,
+    "HTML": 1468,
+    "CSS": 1148,
+    "QMake": 335
+  },
+  "size": 7189686
+}

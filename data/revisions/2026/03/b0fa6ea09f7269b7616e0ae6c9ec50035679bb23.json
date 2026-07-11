@@ -1,0 +1,12 @@
+{
+  "commit": "b0fa6ea09f7269b7616e0ae6c9ec50035679bb23",
+  "repo_url": "https://github.com/icinga/ipl-web",
+  "date": "2026-03-24T23:43:30",
+  "languages": {
+    "PHP": 447982,
+    "JavaScript": 157263,
+    "Less": 58103,
+    "CSS": 1493
+  },
+  "size": 664841
+}

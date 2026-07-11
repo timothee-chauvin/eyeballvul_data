@@ -1,0 +1,12 @@
+{
+  "commit": "8c19851163c23c9a172183de8b4e29c8be5f6ca1",
+  "repo_url": "https://github.com/chendotjs/lotos",
+  "date": "2018-02-07T14:41:18",
+  "languages": {
+    "C": 102007,
+    "HTML": 1078,
+    "Makefile": 1040,
+    "CMake": 807
+  },
+  "size": 104932
+}

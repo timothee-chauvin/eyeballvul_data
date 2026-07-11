@@ -1,0 +1,16 @@
+{
+  "commit": "fb64d7f15a209b60acd4c5d8ed4603d39c2e95e8",
+  "repo_url": "https://github.com/eclipse-4diac/4diac-forte",
+  "date": "2026-03-09T19:41:04",
+  "languages": {
+    "C++": 9980753,
+    "CMake": 359133,
+    "C": 276011,
+    "HTML": 62916,
+    "Shell": 32996,
+    "Lua": 11641,
+    "Python": 4987,
+    "Makefile": 2803
+  },
+  "size": 10731240
+}

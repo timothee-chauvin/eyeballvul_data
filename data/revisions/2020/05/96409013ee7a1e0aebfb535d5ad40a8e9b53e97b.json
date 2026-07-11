@@ -1,0 +1,16 @@
+{
+  "commit": "96409013ee7a1e0aebfb535d5ad40a8e9b53e97b",
+  "repo_url": "https://github.com/riscv-boom/riscv-boom",
+  "date": "2020-05-31T22:30:50",
+  "languages": {
+    "Scala": 743275,
+    "C": 69480,
+    "Shell": 40770,
+    "Python": 12873,
+    "Verilog": 4596,
+    "Assembly": 4235,
+    "C++": 2134,
+    "Makefile": 267
+  },
+  "size": 877630
+}

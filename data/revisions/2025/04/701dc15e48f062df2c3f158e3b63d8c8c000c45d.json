@@ -1,0 +1,14 @@
+{
+  "commit": "701dc15e48f062df2c3f158e3b63d8c8c000c45d",
+  "repo_url": "https://github.com/ansible/ansible-rulebook",
+  "date": "2025-04-11T18:15:44",
+  "languages": {
+    "Python": 564506,
+    "Makefile": 2471,
+    "Dockerfile": 1398,
+    "Jinja": 890,
+    "Shell": 725,
+    "JavaScript": 181
+  },
+  "size": 570171
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "8c4c5fd612e79dc61eb50641f037719bee3d986a",
+  "repo_url": "https://github.com/zowe/api-layer",
+  "date": "2024-01-10T13:02:20",
+  "languages": {
+    "Java": 5522792,
+    "JavaScript": 860346,
+    "CSS": 199503,
+    "Shell": 101878,
+    "TypeScript": 70314,
+    "SCSS": 63701,
+    "HTML": 34496,
+    "Dockerfile": 9208,
+    "JCL": 4106,
+    "C": 2161,
+    "Batchfile": 521
+  },
+  "size": 6869026
+}

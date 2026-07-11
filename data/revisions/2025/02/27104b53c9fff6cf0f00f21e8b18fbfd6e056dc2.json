@@ -1,0 +1,12 @@
+{
+  "commit": "27104b53c9fff6cf0f00f21e8b18fbfd6e056dc2",
+  "repo_url": "https://github.com/grafana/tempo-operator",
+  "date": "2025-02-24T15:06:51",
+  "languages": {
+    "Go": 1127805,
+    "Makefile": 22511,
+    "Shell": 18537,
+    "Dockerfile": 5180
+  },
+  "size": 1174033
+}

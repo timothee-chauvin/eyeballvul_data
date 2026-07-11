@@ -1,0 +1,19 @@
+{
+  "commit": "e1fda1a1137590fe3a3e42e39cb562201626d7c3",
+  "repo_url": "https://github.com/loomio/loomio",
+  "date": "2024-02-22T03:11:11",
+  "languages": {
+    "Ruby": 1577454,
+    "Vue": 636719,
+    "JavaScript": 413033,
+    "Haml": 157462,
+    "CSS": 41424,
+    "HTML": 29468,
+    "SCSS": 15129,
+    "CoffeeScript": 10236,
+    "Dockerfile": 1052,
+    "Shell": 161,
+    "Procfile": 73
+  },
+  "size": 2882211
+}

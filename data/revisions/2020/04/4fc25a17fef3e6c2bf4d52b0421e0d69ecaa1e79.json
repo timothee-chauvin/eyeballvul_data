@@ -1,0 +1,17 @@
+{
+  "commit": "4fc25a17fef3e6c2bf4d52b0421e0d69ecaa1e79",
+  "repo_url": "https://github.com/teeworlds/teeworlds",
+  "date": "2020-04-19T20:23:41",
+  "languages": {
+    "C++": 2106510,
+    "C": 174455,
+    "Python": 145809,
+    "CMake": 69729,
+    "Lua": 34460,
+    "Objective-C": 3278,
+    "Objective-C++": 2680,
+    "Shell": 286,
+    "Batchfile": 36
+  },
+  "size": 2537243
+}

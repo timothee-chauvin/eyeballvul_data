@@ -1,0 +1,20 @@
+{
+  "commit": "32105e4ef16a6bd55fa2c35044a8994d999e3a87",
+  "repo_url": "https://github.com/cortezaproject/corteza",
+  "date": "2026-04-10T13:41:09",
+  "languages": {
+    "Go": 6435361,
+    "Vue": 2703078,
+    "TypeScript": 936274,
+    "CSS": 466592,
+    "JavaScript": 449267,
+    "SCSS": 397672,
+    "Smarty": 213518,
+    "CUE": 190499,
+    "Makefile": 30539,
+    "HTML": 13099,
+    "Dockerfile": 5039,
+    "Shell": 3037
+  },
+  "size": 11843975
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "486c162ec8bdbc8b8c1c61b36b53dee71fdf7034",
+  "repo_url": "https://github.com/mongo-express/mongo-express",
+  "date": "2023-02-05T13:30:31",
+  "languages": {
+    "JavaScript": 120636,
+    "HTML": 47631,
+    "CSS": 1883,
+    "Dockerfile": 1362
+  },
+  "size": 171512
+}

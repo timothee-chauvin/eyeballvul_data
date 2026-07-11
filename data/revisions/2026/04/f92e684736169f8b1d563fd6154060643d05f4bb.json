@@ -1,0 +1,11 @@
+{
+  "commit": "f92e684736169f8b1d563fd6154060643d05f4bb",
+  "repo_url": "https://github.com/nitrojs/nitro",
+  "date": "2026-04-29T11:32:49",
+  "languages": {
+    "TypeScript": 809905,
+    "JavaScript": 24909,
+    "HTML": 299
+  },
+  "size": 835113
+}

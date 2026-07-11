@@ -1,0 +1,13 @@
+{
+  "commit": "504faa73a82638c4b2fe66f5696330da38637c96",
+  "repo_url": "https://github.com/dmlc/ps-lite",
+  "date": "2015-10-11T20:09:23",
+  "languages": {
+    "C++": 206047,
+    "C": 32957,
+    "CMake": 6156,
+    "Makefile": 5036,
+    "Shell": 2495
+  },
+  "size": 252691
+}

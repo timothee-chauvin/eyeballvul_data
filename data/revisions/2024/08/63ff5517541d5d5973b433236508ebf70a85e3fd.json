@@ -1,0 +1,18 @@
+{
+  "commit": "63ff5517541d5d5973b433236508ebf70a85e3fd",
+  "repo_url": "https://github.com/ultimaker/cura",
+  "date": "2024-08-28T15:34:17",
+  "languages": {
+    "Python": 3569418,
+    "QML": 1336203,
+    "GLSL": 73976,
+    "Rich Text Format": 47231,
+    "Jinja": 23523,
+    "NSIS": 5308,
+    "HTML": 2677,
+    "XSLT": 2158,
+    "Shell": 1348,
+    "CMake": 1238
+  },
+  "size": 5063080
+}

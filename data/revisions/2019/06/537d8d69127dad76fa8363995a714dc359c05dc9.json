@@ -1,0 +1,13 @@
+{
+  "commit": "537d8d69127dad76fa8363995a714dc359c05dc9",
+  "repo_url": "https://github.com/ilchcms/ilch-2.0",
+  "date": "2019-06-28T06:22:13",
+  "languages": {
+    "PHP": 3888808,
+    "JavaScript": 1289894,
+    "CSS": 373946,
+    "Hack": 61870,
+    "Shell": 5847
+  },
+  "size": 5620365
+}

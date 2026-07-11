@@ -1,0 +1,14 @@
+{
+  "commit": "e508b9ff6d04bb752eca1063cd93eaeb9ee04498",
+  "repo_url": "https://github.com/lawnchairlauncher/lawnchair",
+  "date": "2025-12-25T09:58:14",
+  "languages": {
+    "Java": 16732330,
+    "Kotlin": 6067160,
+    "AIDL": 63930,
+    "Python": 30823,
+    "Makefile": 3820,
+    "Shell": 770
+  },
+  "size": 22898833
+}

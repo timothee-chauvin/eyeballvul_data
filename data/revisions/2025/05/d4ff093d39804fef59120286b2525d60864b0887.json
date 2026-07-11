@@ -1,0 +1,19 @@
+{
+  "commit": "d4ff093d39804fef59120286b2525d60864b0887",
+  "repo_url": "https://github.com/seriawei/zkeacms",
+  "date": "2025-05-01T09:28:58",
+  "languages": {
+    "JavaScript": 1810314,
+    "C#": 1699803,
+    "CSS": 683584,
+    "TSQL": 566372,
+    "HTML": 536657,
+    "PowerShell": 51547,
+    "Less": 31944,
+    "Batchfile": 6248,
+    "Shell": 2764,
+    "Dockerfile": 1151,
+    "Smarty": 585
+  },
+  "size": 5390969
+}

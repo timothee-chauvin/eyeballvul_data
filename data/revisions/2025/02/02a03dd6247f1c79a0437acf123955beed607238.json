@@ -1,0 +1,14 @@
+{
+  "commit": "02a03dd6247f1c79a0437acf123955beed607238",
+  "repo_url": "https://github.com/csprousers/csweb",
+  "date": "2025-02-10T22:39:23",
+  "languages": {
+    "PHP": 765952,
+    "Twig": 356461,
+    "JavaScript": 40903,
+    "Less": 6310,
+    "Hack": 1262,
+    "Batchfile": 137
+  },
+  "size": 1171025
+}

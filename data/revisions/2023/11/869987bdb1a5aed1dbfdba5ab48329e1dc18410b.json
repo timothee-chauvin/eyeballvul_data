@@ -1,0 +1,13 @@
+{
+  "commit": "869987bdb1a5aed1dbfdba5ab48329e1dc18410b",
+  "repo_url": "https://github.com/vexorian/dizquetv",
+  "date": "2023-11-29T03:23:45",
+  "languages": {
+    "JavaScript": 552575,
+    "HTML": 184479,
+    "CSS": 7425,
+    "Shell": 882,
+    "Dockerfile": 492
+  },
+  "size": 745853
+}

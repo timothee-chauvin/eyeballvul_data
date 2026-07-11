@@ -1,0 +1,15 @@
+{
+  "commit": "0b4d21d002b14dab0b038c24ea8b6b1bbd1c5f1a",
+  "repo_url": "https://github.com/camelot-os/sentry-kernel",
+  "date": "2026-02-04T09:24:58",
+  "languages": {
+    "C": 802554,
+    "Rust": 169489,
+    "Meson": 121583,
+    "C++": 29799,
+    "RobotFramework": 9675,
+    "Python": 2181,
+    "Shell": 345
+  },
+  "size": 1135626
+}

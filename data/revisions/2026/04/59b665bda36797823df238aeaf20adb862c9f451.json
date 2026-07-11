@@ -1,0 +1,14 @@
+{
+  "commit": "59b665bda36797823df238aeaf20adb862c9f451",
+  "repo_url": "https://github.com/czlonkowski/n8n-mcp",
+  "date": "2026-04-20T21:39:54",
+  "languages": {
+    "TypeScript": 6381377,
+    "JavaScript": 467468,
+    "Shell": 75974,
+    "HTML": 17979,
+    "Dockerfile": 3629,
+    "CSS": 1147
+  },
+  "size": 6947574
+}

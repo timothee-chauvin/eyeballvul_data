@@ -1,0 +1,24 @@
+{
+  "commit": "99c40407ffd7ac184e2d7b4b293f36f10fe561ef",
+  "repo_url": "https://github.com/px4/px4-autopilot",
+  "date": "2025-02-07T04:41:28",
+  "languages": {
+    "C++": 17418827,
+    "C": 14639013,
+    "CMake": 1585320,
+    "Python": 1306278,
+    "Shell": 406062,
+    "Groovy": 61892,
+    "EmberScript": 40872,
+    "Makefile": 28594,
+    "HTML": 18185,
+    "Jupyter Notebook": 16723,
+    "Perl": 11401,
+    "MATLAB": 9938,
+    "Jinja": 4643,
+    "Nix": 1437,
+    "Dockerfile": 290,
+    "GDB": 41
+  },
+  "size": 35549516
+}

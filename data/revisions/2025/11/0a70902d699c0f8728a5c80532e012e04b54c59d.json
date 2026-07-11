@@ -1,0 +1,20 @@
+{
+  "commit": "0a70902d699c0f8728a5c80532e012e04b54c59d",
+  "repo_url": "https://github.com/aliasvault/aliasvault",
+  "date": "2025-11-30T16:47:58",
+  "languages": {
+    "TypeScript": 1930124,
+    "C#": 1576685,
+    "HTML": 1454126,
+    "Kotlin": 497784,
+    "Swift": 438977,
+    "Shell": 226986,
+    "CSS": 149255,
+    "JavaScript": 71664,
+    "Dockerfile": 17847,
+    "Objective-C++": 13069,
+    "Ruby": 3552,
+    "Objective-C": 381
+  },
+  "size": 6380450
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "156e22d6102a6e9eb8f727a09f3735ffb7f4e38b",
+  "repo_url": "https://github.com/compose-spec/compose-go",
+  "date": "2024-10-24T10:27:51",
+  "languages": {
+    "Go": 658882,
+    "Makefile": 1653,
+    "Dockerfile": 938,
+    "Shell": 912
+  },
+  "size": 662385
+}

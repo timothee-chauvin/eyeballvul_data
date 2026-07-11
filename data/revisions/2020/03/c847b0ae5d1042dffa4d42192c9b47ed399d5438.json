@@ -1,0 +1,13 @@
+{
+  "commit": "c847b0ae5d1042dffa4d42192c9b47ed399d5438",
+  "repo_url": "https://github.com/jenkinsci/dependency-check-plugin",
+  "date": "2020-03-10T19:11:19",
+  "languages": {
+    "Java": 93599,
+    "CSS": 15775,
+    "JavaScript": 7874,
+    "HTML": 1760,
+    "Shell": 221
+  },
+  "size": 119229
+}

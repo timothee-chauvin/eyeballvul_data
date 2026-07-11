@@ -1,0 +1,17 @@
+{
+  "commit": "3f7915fb64b4be9d7280e3167219a08348c128f2",
+  "repo_url": "https://github.com/sbabic/swupdate",
+  "date": "2025-12-03T11:32:03",
+  "languages": {
+    "C": 2460010,
+    "Python": 471949,
+    "C++": 132717,
+    "Lua": 130179,
+    "Makefile": 39875,
+    "Shell": 17714,
+    "JavaScript": 9873,
+    "HTML": 5540,
+    "CSS": 641
+  },
+  "size": 3268498
+}

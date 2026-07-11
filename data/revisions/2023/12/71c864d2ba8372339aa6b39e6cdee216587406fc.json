@@ -1,0 +1,14 @@
+{
+  "commit": "71c864d2ba8372339aa6b39e6cdee216587406fc",
+  "repo_url": "https://github.com/owen2345/camaleon-cms",
+  "date": "2023-12-08T23:02:20",
+  "languages": {
+    "JavaScript": 645686,
+    "Ruby": 643075,
+    "HTML": 363304,
+    "SCSS": 303139,
+    "CSS": 76987,
+    "Dockerfile": 1086
+  },
+  "size": 2033277
+}

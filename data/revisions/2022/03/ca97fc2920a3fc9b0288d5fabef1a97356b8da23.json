@@ -1,0 +1,15 @@
+{
+  "commit": "ca97fc2920a3fc9b0288d5fabef1a97356b8da23",
+  "repo_url": "https://github.com/vuejs/vue-cli",
+  "date": "2022-03-22T14:23:34",
+  "languages": {
+    "JavaScript": 985446,
+    "Vue": 301182,
+    "TypeScript": 11497,
+    "Stylus": 6237,
+    "HTML": 3548,
+    "Shell": 3482,
+    "AppleScript": 2356
+  },
+  "size": 1313748
+}

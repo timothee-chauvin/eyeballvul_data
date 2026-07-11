@@ -1,0 +1,14 @@
+{
+  "commit": "c9383d545ef94be96f3c8aecb1299108bf06c82f",
+  "repo_url": "https://github.com/yubico/java-webauthn-server",
+  "date": "2026-01-19T15:56:53",
+  "languages": {
+    "Scala": 1558387,
+    "Java": 1221798,
+    "JavaScript": 103886,
+    "HTML": 18073,
+    "Groovy": 2229,
+    "CSS": 1218
+  },
+  "size": 2905591
+}

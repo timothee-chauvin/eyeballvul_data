@@ -1,0 +1,12 @@
+{
+  "commit": "9463e4c4ed0054f74a4caad541ca0c3812dd5df9",
+  "repo_url": "https://github.com/startreedata/mcp-pinot",
+  "date": "2026-03-17T01:31:01",
+  "languages": {
+    "Python": 227629,
+    "Shell": 8378,
+    "Smarty": 2739,
+    "Dockerfile": 916
+  },
+  "size": 239662
+}

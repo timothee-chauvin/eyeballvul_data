@@ -1,0 +1,17 @@
+{
+  "commit": "109f8e7b40ffc5cdd29c7b1d5adc4bcf7ebc224b",
+  "repo_url": "https://github.com/opengoofy/hippo4j",
+  "date": "2022-11-06T08:27:27",
+  "languages": {
+    "Java": 1826262,
+    "Vue": 520672,
+    "JavaScript": 84988,
+    "SCSS": 20770,
+    "HTML": 6062,
+    "Shell": 4353,
+    "Batchfile": 1834,
+    "Dockerfile": 1564,
+    "CSS": 825
+  },
+  "size": 2467330
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "1f4f2160bcef66bb6eaeb2af851b348f81705ff6",
+  "repo_url": "https://github.com/rancher/rke",
+  "date": "2024-05-29T07:24:34",
+  "languages": {
+    "Go": 861087,
+    "Shell": 21033,
+    "Makefile": 308
+  },
+  "size": 882428
+}

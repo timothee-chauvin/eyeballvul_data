@@ -1,0 +1,16 @@
+{
+  "commit": "1b80f9a74b3db1fe9b35978e38d2e62fcb6a7246",
+  "repo_url": "https://github.com/crocodilestick/calibre-web-automated",
+  "date": "2026-02-04T23:27:27",
+  "languages": {
+    "JavaScript": 5207348,
+    "Python": 2907871,
+    "Fluent": 1486513,
+    "HTML": 824516,
+    "CSS": 210493,
+    "Lua": 42968,
+    "Shell": 30516,
+    "Dockerfile": 11331
+  },
+  "size": 10721556
+}

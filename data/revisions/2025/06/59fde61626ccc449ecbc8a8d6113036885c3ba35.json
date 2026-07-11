@@ -1,0 +1,13 @@
+{
+  "commit": "59fde61626ccc449ecbc8a8d6113036885c3ba35",
+  "repo_url": "https://github.com/zavy86/wikidocs",
+  "date": "2025-06-16T17:26:39",
+  "languages": {
+    "JavaScript": 1573291,
+    "PHP": 276677,
+    "CSS": 56140,
+    "Dockerfile": 4732,
+    "Makefile": 1181
+  },
+  "size": 1912021
+}

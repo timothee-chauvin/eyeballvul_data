@@ -1,0 +1,18 @@
+{
+  "commit": "fb8c9aec0f9e83f95783659a5ce9c4478cf62cb9",
+  "repo_url": "https://github.com/vercel/turborepo",
+  "date": "2026-05-14T19:53:50",
+  "languages": {
+    "Rust": 6769410,
+    "TypeScript": 1851747,
+    "MDX": 935554,
+    "JavaScript": 124705,
+    "CSS": 39639,
+    "Makefile": 8009,
+    "Shell": 4515,
+    "Dockerfile": 3016,
+    "Cap'n Proto": 1255,
+    "Handlebars": 278
+  },
+  "size": 9738128
+}

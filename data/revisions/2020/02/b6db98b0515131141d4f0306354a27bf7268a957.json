@@ -1,0 +1,16 @@
+{
+  "commit": "b6db98b0515131141d4f0306354a27bf7268a957",
+  "repo_url": "https://github.com/idoubi/douchat",
+  "date": "2020-02-06T04:39:08",
+  "languages": {
+    "PHP": 1364421,
+    "JavaScript": 804139,
+    "HTML": 261659,
+    "CSS": 171709,
+    "Less": 147629,
+    "SCSS": 74297,
+    "Smarty": 11224,
+    "Shell": 526
+  },
+  "size": 2835604
+}

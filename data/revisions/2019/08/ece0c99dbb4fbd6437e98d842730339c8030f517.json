@@ -1,0 +1,15 @@
+{
+  "commit": "ece0c99dbb4fbd6437e98d842730339c8030f517",
+  "repo_url": "https://github.com/firefly-iii/firefly-iii",
+  "date": "2019-08-02T18:59:23",
+  "languages": {
+    "PHP": 9576890,
+    "Twig": 1030921,
+    "Vue": 34455,
+    "Shell": 13336,
+    "Cap'n Proto": 8739,
+    "Dockerfile": 2509,
+    "Procfile": 59
+  },
+  "size": 10666909
+}

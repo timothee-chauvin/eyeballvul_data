@@ -1,0 +1,18 @@
+{
+  "commit": "4e9757217f58aa3373c29a2c4035a1dbe2cc4d79",
+  "repo_url": "https://github.com/jflyfox/jfinal_cms",
+  "date": "2019-06-10T05:28:43",
+  "languages": {
+    "JavaScript": 3808686,
+    "HTML": 1236483,
+    "Java": 1143228,
+    "CSS": 721800,
+    "SCSS": 139868,
+    "Less": 138094,
+    "CoffeeScript": 109703,
+    "ActionScript": 20185,
+    "Stylus": 7850,
+    "Shell": 853
+  },
+  "size": 7326750
+}

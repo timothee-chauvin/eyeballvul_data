@@ -1,0 +1,11 @@
+{
+  "commit": "7061182f722bf29de4e321dd8b4c0aba8d26bba0",
+  "repo_url": "https://github.com/percona/pmm",
+  "date": "2019-12-17T12:55:58",
+  "languages": {
+    "Go": 21125,
+    "Makefile": 3008,
+    "HTML": 1815
+  },
+  "size": 25948
+}

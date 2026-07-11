@@ -1,0 +1,13 @@
+{
+  "commit": "e71140334ed0d309413512462b2c35c6f513b832",
+  "repo_url": "https://github.com/bettercap/bettercap",
+  "date": "2025-12-15T13:26:34",
+  "languages": {
+    "Go": 4029995,
+    "Objective-C": 2621,
+    "Python": 2173,
+    "Makefile": 934,
+    "HTML": 643
+  },
+  "size": 4036366
+}

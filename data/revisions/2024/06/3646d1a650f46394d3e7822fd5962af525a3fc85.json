@@ -1,0 +1,12 @@
+{
+  "commit": "3646d1a650f46394d3e7822fd5962af525a3fc85",
+  "repo_url": "https://github.com/submariner-io/submariner-operator",
+  "date": "2024-06-28T15:33:47",
+  "languages": {
+    "Go": 465901,
+    "Shell": 21610,
+    "Makefile": 10653,
+    "Dockerfile": 897
+  },
+  "size": 499061
+}

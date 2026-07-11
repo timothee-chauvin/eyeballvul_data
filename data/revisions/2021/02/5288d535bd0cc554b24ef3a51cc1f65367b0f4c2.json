@@ -1,0 +1,14 @@
+{
+  "commit": "5288d535bd0cc554b24ef3a51cc1f65367b0f4c2",
+  "repo_url": "https://github.com/apache/oozie",
+  "date": "2021-02-08T09:38:40",
+  "languages": {
+    "Java": 11564708,
+    "JavaScript": 143424,
+    "Shell": 123213,
+    "CSS": 27303,
+    "HTML": 11359,
+    "Python": 5717
+  },
+  "size": 11875724
+}

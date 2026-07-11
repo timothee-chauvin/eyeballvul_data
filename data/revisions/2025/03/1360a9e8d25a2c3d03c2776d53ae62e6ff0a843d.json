@@ -1,0 +1,14 @@
+{
+  "commit": "1360a9e8d25a2c3d03c2776d53ae62e6ff0a843d",
+  "repo_url": "https://github.com/docker/buildx",
+  "date": "2025-03-03T16:10:32",
+  "languages": {
+    "Go": 1231028,
+    "Dockerfile": 15825,
+    "Shell": 10278,
+    "HCL": 5408,
+    "Makefile": 1354,
+    "Ruby": 1148
+  },
+  "size": 1265041
+}

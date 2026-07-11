@@ -1,0 +1,14 @@
+{
+  "commit": "bdb6e7d12b05f3e08fdd54f265dc2a8bff1de36e",
+  "repo_url": "https://github.com/oxen-io/session-android",
+  "date": "2023-12-11T06:52:31",
+  "languages": {
+    "Java": 2391204,
+    "Kotlin": 2139608,
+    "C++": 77447,
+    "Groovy": 3245,
+    "CMake": 2095,
+    "Makefile": 184
+  },
+  "size": 4613783
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "b7ea480b33ef0de4f78a5b5dd893729a70f6e64a",
+  "repo_url": "https://github.com/zhinst/laboneq",
+  "date": "2026-04-08T08:55:31",
+  "languages": {
+    "Python": 2497874,
+    "HTML": 1443040,
+    "Rust": 1194835,
+    "Jupyter Notebook": 35269
+  },
+  "size": 5171018
+}

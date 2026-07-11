@@ -1,0 +1,27 @@
+{
+  "commit": "b45cf6c37314490115dd6b88ddf0739e7766cfb6",
+  "repo_url": "https://github.com/siliconlabssoftware/sisdk-release",
+  "date": "2026-01-22T19:14:42",
+  "languages": {
+    "C": 338957792,
+    "Python": 108905422,
+    "HTML": 5240385,
+    "Jupyter Notebook": 4509949,
+    "ZAP": 2004758,
+    "C++": 858486,
+    "Jinja": 730520,
+    "JavaScript": 428236,
+    "C#": 314097,
+    "Assembly": 304158,
+    "CMake": 218909,
+    "Lua": 192018,
+    "CSS": 73517,
+    "Shell": 50166,
+    "Makefile": 37397,
+    "Perl": 16684,
+    "Batchfile": 15493,
+    "PowerShell": 13492,
+    "XSLT": 682
+  },
+  "size": 462872161
+}

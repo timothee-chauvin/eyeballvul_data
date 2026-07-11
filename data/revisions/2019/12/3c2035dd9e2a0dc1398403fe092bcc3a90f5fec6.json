@@ -1,0 +1,16 @@
+{
+  "commit": "3c2035dd9e2a0dc1398403fe092bcc3a90f5fec6",
+  "repo_url": "https://github.com/wikimedia/mediawiki-extensions-abusefilter",
+  "date": "2019-12-04T17:47:13",
+  "languages": {
+    "PHP": 690023,
+    "JavaScript": 32318,
+    "PLpgSQL": 11357,
+    "Raku": 7481,
+    "Perl": 4708,
+    "CSS": 3726,
+    "Terra": 997,
+    "Turing": 345
+  },
+  "size": 750955
+}

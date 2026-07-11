@@ -1,0 +1,15 @@
+{
+  "commit": "899c2546cfa28a08f4e41540f3e911a3ece3c4b4",
+  "repo_url": "https://github.com/casdoor/casdoor",
+  "date": "2026-03-17T12:41:34",
+  "languages": {
+    "Go": 2084329,
+    "HTML": 5882,
+    "Makefile": 4238,
+    "Less": 2457,
+    "Dockerfile": 2136,
+    "CSS": 1194,
+    "Shell": 741
+  },
+  "size": 2100977
+}

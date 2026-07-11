@@ -1,0 +1,11 @@
+{
+  "commit": "d3b8aaa16337993bbad4d91db1ffac5a7568756b",
+  "repo_url": "https://github.com/conventional-changelog/conventional-changelog",
+  "date": "2024-05-06T14:46:45",
+  "languages": {
+    "TypeScript": 266455,
+    "JavaScript": 192833,
+    "Handlebars": 13233
+  },
+  "size": 472521
+}

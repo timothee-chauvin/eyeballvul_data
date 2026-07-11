@@ -1,0 +1,15 @@
+{
+  "commit": "48e49ca0c1c062989120c41bcce9ee1db8b172dd",
+  "repo_url": "https://github.com/voidzero-dev/vite-plus",
+  "date": "2026-04-14T03:45:51",
+  "languages": {
+    "Rust": 1557121,
+    "TypeScript": 847965,
+    "JavaScript": 46729,
+    "Shell": 31849,
+    "PowerShell": 24091,
+    "Just": 2217,
+    "HTML": 708
+  },
+  "size": 2510680
+}

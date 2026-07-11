@@ -1,0 +1,14 @@
+{
+  "commit": "bf1c63962ac44f13300b19e7b8cbabb192f7c7bb",
+  "repo_url": "https://github.com/invoiceplane/invoiceplane",
+  "date": "2022-12-04T18:54:02",
+  "languages": {
+    "PHP": 1843521,
+    "SCSS": 181887,
+    "JavaScript": 15542,
+    "Dockerfile": 3052,
+    "HTML": 2395,
+    "CSS": 540
+  },
+  "size": 2046937
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "86622f61126c9b5440399c08b43005773f0f1a25",
+  "repo_url": "https://github.com/quay/quay",
+  "date": "2023-11-02T08:17:16",
+  "languages": {
+    "Python": 5016214,
+    "JavaScript": 1108219,
+    "HTML": 755892,
+    "TypeScript": 728570,
+    "CSS": 456346,
+    "Go": 312776,
+    "Shell": 20236,
+    "Makefile": 10055,
+    "Dockerfile": 9006,
+    "SCSS": 866,
+    "Mako": 425,
+    "Genshi": 16
+  },
+  "size": 8418621
+}

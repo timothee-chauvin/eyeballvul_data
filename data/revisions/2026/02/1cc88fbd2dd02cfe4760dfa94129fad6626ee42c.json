@@ -1,0 +1,20 @@
+{
+  "commit": "1cc88fbd2dd02cfe4760dfa94129fad6626ee42c",
+  "repo_url": "https://github.com/databendlabs/databend",
+  "date": "2026-02-09T13:56:26",
+  "languages": {
+    "Rust": 26912738,
+    "Shell": 601071,
+    "Python": 548610,
+    "C": 39300,
+    "Jinja": 35169,
+    "Lua": 10011,
+    "Dockerfile": 9266,
+    "Java": 6896,
+    "Smarty": 4770,
+    "Makefile": 4300,
+    "HTML": 2069,
+    "JavaScript": 231
+  },
+  "size": 28174431
+}

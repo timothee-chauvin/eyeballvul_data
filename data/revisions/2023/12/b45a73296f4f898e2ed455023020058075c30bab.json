@@ -1,0 +1,20 @@
+{
+  "commit": "b45a73296f4f898e2ed455023020058075c30bab",
+  "repo_url": "https://github.com/obsproject/obs-studio",
+  "date": "2023-12-10T20:03:25",
+  "languages": {
+    "C": 6135754,
+    "C++": 4120475,
+    "CMake": 639563,
+    "Objective-C++": 198121,
+    "Objective-C": 152101,
+    "Shell": 28165,
+    "M": 26123,
+    "Swift": 18870,
+    "Lua": 15045,
+    "Python": 7238,
+    "Batchfile": 3177,
+    "AppleScript": 2406
+  },
+  "size": 11347038
+}

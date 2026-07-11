@@ -1,0 +1,22 @@
+{
+  "commit": "fc019c4009e30874981f343fa105ef45565b1517",
+  "repo_url": "https://github.com/gunet/openeclass",
+  "date": "2021-12-16T10:20:37",
+  "languages": {
+    "PHP": 12101486,
+    "JavaScript": 6054614,
+    "HTML": 3886530,
+    "CSS": 673344,
+    "SCSS": 250534,
+    "XSLT": 99640,
+    "Less": 95378,
+    "Blade": 68160,
+    "CoffeeScript": 3296,
+    "Ruby": 1783,
+    "Hack": 1742,
+    "Shell": 967,
+    "Dockerfile": 926,
+    "Batchfile": 332
+  },
+  "size": 23238732
+}

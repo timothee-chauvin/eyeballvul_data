@@ -1,0 +1,11 @@
+{
+  "commit": "99cbd480bcf9f3b937f4bb3ddfd34389de5dd3b7",
+  "repo_url": "https://github.com/houseabsolute/list-someutils-xs",
+  "date": "2018-06-08T15:34:04",
+  "languages": {
+    "Perl": 59674,
+    "XS": 37924,
+    "C": 4541
+  },
+  "size": 102139
+}

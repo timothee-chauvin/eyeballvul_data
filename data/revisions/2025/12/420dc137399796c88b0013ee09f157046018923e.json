@@ -1,0 +1,27 @@
+{
+  "commit": "420dc137399796c88b0013ee09f157046018923e",
+  "repo_url": "https://github.com/bluekitchen/btstack",
+  "date": "2025-12-26T17:58:18",
+  "languages": {
+    "C": 121268892,
+    "CSS": 2720987,
+    "Assembly": 1735190,
+    "C++": 970463,
+    "HTML": 763580,
+    "Makefile": 615586,
+    "Python": 438245,
+    "CMake": 215666,
+    "Java": 121262,
+    "Objective-C": 32947,
+    "Shell": 19364,
+    "TeX": 18404,
+    "SmPL": 16409,
+    "M4": 9375,
+    "sed": 7750,
+    "JavaScript": 6958,
+    "Batchfile": 1453,
+    "GDB": 356,
+    "Dockerfile": 150
+  },
+  "size": 128963037
+}

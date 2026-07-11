@@ -1,0 +1,18 @@
+{
+  "commit": "b09f76e927f60dc0bc59458242760674b0adce4a",
+  "repo_url": "https://github.com/qd-today/qd",
+  "date": "2023-08-20T14:11:30",
+  "languages": {
+    "JavaScript": 505828,
+    "Python": 486660,
+    "HTML": 242176,
+    "CSS": 122548,
+    "CoffeeScript": 65303,
+    "Shell": 14639,
+    "TypeScript": 6146,
+    "Less": 5427,
+    "Dockerfile": 3020,
+    "Procfile": 19
+  },
+  "size": 1451766
+}

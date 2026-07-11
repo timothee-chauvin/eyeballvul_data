@@ -1,0 +1,14 @@
+{
+  "commit": "a574aa5e3fc92919cbbeb04f3e4a6a439a30c0aa",
+  "repo_url": "https://github.com/cherryhq/cherry-studio",
+  "date": "2026-05-15T11:45:51",
+  "languages": {
+    "TypeScript": 11297837,
+    "JavaScript": 166489,
+    "Python": 89786,
+    "HTML": 79723,
+    "CSS": 54023,
+    "NSIS": 5338
+  },
+  "size": 11693196
+}

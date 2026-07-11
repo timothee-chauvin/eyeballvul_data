@@ -1,0 +1,10 @@
+{
+  "commit": "5e237dea5cd4deb47097105d7be28e0f28490a2e",
+  "repo_url": "https://github.com/uniswap/universal-router",
+  "date": "2022-11-17T19:49:01",
+  "languages": {
+    "TypeScript": 211724,
+    "Solidity": 73485
+  },
+  "size": 285209
+}

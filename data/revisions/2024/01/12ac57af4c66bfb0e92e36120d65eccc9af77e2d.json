@@ -1,0 +1,11 @@
+{
+  "commit": "12ac57af4c66bfb0e92e36120d65eccc9af77e2d",
+  "repo_url": "https://github.com/foundationagents/metagpt",
+  "date": "2024-01-08T12:54:52",
+  "languages": {
+    "Python": 1070924,
+    "Dockerfile": 977,
+    "Shell": 401
+  },
+  "size": 1072302
+}

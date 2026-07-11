@@ -1,0 +1,13 @@
+{
+  "commit": "cb80383df8a3fef56bcffcc011cfc50ff14d6468",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-java",
+  "date": "2022-03-04T08:20:21",
+  "languages": {
+    "Java": 4360714,
+    "Kotlin": 18563,
+    "Jinja": 4280,
+    "Shell": 2633,
+    "Dockerfile": 580
+  },
+  "size": 4386770
+}

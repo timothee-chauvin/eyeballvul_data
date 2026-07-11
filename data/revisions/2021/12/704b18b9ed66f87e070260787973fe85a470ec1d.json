@@ -1,0 +1,19 @@
+{
+  "commit": "704b18b9ed66f87e070260787973fe85a470ec1d",
+  "repo_url": "https://github.com/tytso/e2fsprogs",
+  "date": "2021-12-30T05:54:33",
+  "languages": {
+    "C": 4590548,
+    "Roff": 758923,
+    "Shell": 434298,
+    "Makefile": 235058,
+    "TeX": 231166,
+    "M4": 53360,
+    "Awk": 13617,
+    "sed": 6327,
+    "Perl": 6239,
+    "Python": 627,
+    "Scilab": 554
+  },
+  "size": 6330717
+}

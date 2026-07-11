@@ -1,0 +1,13 @@
+{
+  "commit": "04a80c7060e58e2ab1d8abdaff86ee8c2da7060a",
+  "repo_url": "https://github.com/enquirer/enquirer",
+  "date": "2023-07-26T19:23:38",
+  "languages": {
+    "JavaScript": 280836,
+    "SCSS": 44500,
+    "Handlebars": 6093,
+    "TypeScript": 3948,
+    "CSS": 919
+  },
+  "size": 336296
+}

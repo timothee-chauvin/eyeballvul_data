@@ -1,0 +1,18 @@
+{
+  "commit": "d54fd16ec58cb4aaf37f372501f8b0069909ec65",
+  "repo_url": "https://github.com/martialbe/one-hub",
+  "date": "2025-12-06T07:25:29",
+  "languages": {
+    "Go": 1444336,
+    "JavaScript": 1406555,
+    "SCSS": 7496,
+    "Lua": 6801,
+    "CSS": 4947,
+    "Python": 2006,
+    "Shell": 1720,
+    "Dockerfile": 775,
+    "HTML": 716,
+    "Makefile": 399
+  },
+  "size": 2875751
+}

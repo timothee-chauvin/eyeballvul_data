@@ -1,0 +1,11 @@
+{
+  "commit": "5b8e6fbe9dbeb372965157789d11bd09a09be462",
+  "repo_url": "https://github.com/digitalocean/droplet-agent",
+  "date": "2025-12-09T14:29:36",
+  "languages": {
+    "Go": 319255,
+    "Shell": 13284,
+    "Makefile": 3230
+  },
+  "size": 335769
+}

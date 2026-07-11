@@ -1,0 +1,17 @@
+{
+  "commit": "6ff498f503db118d5b6c190b35bd937b38b80a77",
+  "repo_url": "https://github.com/processwire/processwire",
+  "date": "2023-01-06T18:28:52",
+  "languages": {
+    "PHP": 8870266,
+    "JavaScript": 2356758,
+    "CSS": 667751,
+    "Less": 632888,
+    "SCSS": 342410,
+    "Sass": 32158,
+    "HTML": 19608,
+    "POV-Ray SDL": 8979,
+    "Shell": 544
+  },
+  "size": 12931362
+}

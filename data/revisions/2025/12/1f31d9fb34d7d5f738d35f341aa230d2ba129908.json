@@ -1,0 +1,15 @@
+{
+  "commit": "1f31d9fb34d7d5f738d35f341aa230d2ba129908",
+  "repo_url": "https://github.com/xenocrat/chyrp-lite",
+  "date": "2025-12-13T10:46:16",
+  "languages": {
+    "PHP": 2073325,
+    "CSS": 967405,
+    "Twig": 316399,
+    "Dockerfile": 929,
+    "Shell": 804,
+    "JavaScript": 87,
+    "TypeScript": 44
+  },
+  "size": 3358993
+}

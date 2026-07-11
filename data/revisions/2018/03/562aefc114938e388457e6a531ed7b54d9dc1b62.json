@@ -1,0 +1,15 @@
+{
+  "commit": "562aefc114938e388457e6a531ed7b54d9dc1b62",
+  "repo_url": "https://github.com/jbeder/yaml-cpp",
+  "date": "2018-03-06T04:56:23",
+  "languages": {
+    "C++": 4111465,
+    "Python": 458660,
+    "CMake": 43946,
+    "C": 38118,
+    "Shell": 26543,
+    "Makefile": 25787,
+    "M4": 25387
+  },
+  "size": 4729906
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "62d590c23a54459f1241b7b0fd31b2523087527a",
+  "repo_url": "https://github.com/cotonti/cotonti",
+  "date": "2024-01-29T14:13:10",
+  "languages": {
+    "PHP": 3115387,
+    "Smarty": 328462,
+    "JavaScript": 196390,
+    "CSS": 90840,
+    "HTML": 12368
+  },
+  "size": 3743447
+}

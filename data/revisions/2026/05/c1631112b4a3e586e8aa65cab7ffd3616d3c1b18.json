@@ -1,0 +1,12 @@
+{
+  "commit": "c1631112b4a3e586e8aa65cab7ffd3616d3c1b18",
+  "repo_url": "https://github.com/ccfos/nightingale",
+  "date": "2026-05-23T06:09:04",
+  "languages": {
+    "Go": 3220746,
+    "Python": 66152,
+    "Makefile": 1414,
+    "Shell": 1044
+  },
+  "size": 3289356
+}

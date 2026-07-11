@@ -1,0 +1,12 @@
+{
+  "commit": "abdf52879fcf0e0f534ad977931f6935f5d1dce3",
+  "repo_url": "https://github.com/npm/cli",
+  "date": "2020-05-04T15:55:16",
+  "languages": {
+    "JavaScript": 1557305,
+    "Shell": 20415,
+    "Makefile": 4120,
+    "Batchfile": 1326
+  },
+  "size": 1583166
+}

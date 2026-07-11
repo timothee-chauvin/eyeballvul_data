@@ -1,0 +1,16 @@
+{
+  "commit": "7a91a9be2ef7f11b24ad845276658f4bcad965f8",
+  "repo_url": "https://github.com/cline/cline",
+  "date": "2026-04-02T03:09:42",
+  "languages": {
+    "TypeScript": 17033702,
+    "JavaScript": 204322,
+    "Python": 56549,
+    "Shell": 51177,
+    "CSS": 23205,
+    "Roff": 13268,
+    "Ruby": 793,
+    "HTML": 503
+  },
+  "size": 17383519
+}

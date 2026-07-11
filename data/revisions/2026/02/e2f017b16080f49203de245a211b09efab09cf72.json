@@ -1,0 +1,17 @@
+{
+  "commit": "e2f017b16080f49203de245a211b09efab09cf72",
+  "repo_url": "https://github.com/valhalla/valhalla",
+  "date": "2026-02-19T10:31:45",
+  "languages": {
+    "C++": 10006715,
+    "Python": 218959,
+    "CMake": 125222,
+    "Lua": 97089,
+    "Shell": 61304,
+    "JavaScript": 37984,
+    "Dockerfile": 4175,
+    "C": 113,
+    "Emacs Lisp": 96
+  },
+  "size": 10551657
+}

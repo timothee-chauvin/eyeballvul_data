@@ -1,0 +1,17 @@
+{
+  "commit": "304d1da6a1bae861be9dbf2f6a299cf1c47f383d",
+  "repo_url": "https://github.com/openxiangshan/nemu",
+  "date": "2025-12-03T02:12:15",
+  "languages": {
+    "C": 1953315,
+    "C++": 120780,
+    "Makefile": 19089,
+    "Yacc": 15694,
+    "Shell": 15134,
+    "Python": 11875,
+    "Lex": 9320,
+    "Assembly": 6139,
+    "Dockerfile": 847
+  },
+  "size": 2152193
+}

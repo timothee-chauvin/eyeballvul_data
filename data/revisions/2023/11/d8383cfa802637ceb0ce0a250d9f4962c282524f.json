@@ -1,0 +1,14 @@
+{
+  "commit": "d8383cfa802637ceb0ce0a250d9f4962c282524f",
+  "repo_url": "https://github.com/bookstackapp/bookstack",
+  "date": "2023-11-07T15:22:34",
+  "languages": {
+    "PHP": 6883746,
+    "Blade": 418264,
+    "JavaScript": 310634,
+    "SCSS": 116725,
+    "Dockerfile": 1125,
+    "Shell": 317
+  },
+  "size": 7730811
+}

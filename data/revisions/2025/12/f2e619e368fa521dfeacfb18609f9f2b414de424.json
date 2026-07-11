@@ -1,0 +1,12 @@
+{
+  "commit": "f2e619e368fa521dfeacfb18609f9f2b414de424",
+  "repo_url": "https://github.com/web-auth/webauthn-framework",
+  "date": "2025-12-20T10:54:02",
+  "languages": {
+    "PHP": 928549,
+    "Twig": 89160,
+    "TypeScript": 14634,
+    "JavaScript": 6044
+  },
+  "size": 1038387
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "03a77db6ca41ab48a198f36c1dfab48d18ade624",
+  "repo_url": "https://github.com/apache/couchdb",
+  "date": "2020-02-20T00:01:32",
+  "languages": {
+    "Erlang": 4271186,
+    "JavaScript": 932445,
+    "Elixir": 396324,
+    "Python": 224245,
+    "C": 74396,
+    "C++": 45979,
+    "Shell": 41514,
+    "Groovy": 27045,
+    "Ruby": 23957,
+    "Makefile": 17973,
+    "PowerShell": 9146,
+    "Batchfile": 743
+  },
+  "size": 6064953
+}

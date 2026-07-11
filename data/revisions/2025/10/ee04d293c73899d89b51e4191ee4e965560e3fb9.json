@@ -1,0 +1,13 @@
+{
+  "commit": "ee04d293c73899d89b51e4191ee4e965560e3fb9",
+  "repo_url": "https://github.com/openvpn/ovpn-dco-win",
+  "date": "2025-10-09T13:02:41",
+  "languages": {
+    "C++": 248579,
+    "C": 66536,
+    "Batchfile": 4826,
+    "PowerShell": 1829,
+    "CMake": 873
+  },
+  "size": 322643
+}

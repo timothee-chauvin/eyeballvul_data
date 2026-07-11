@@ -1,0 +1,16 @@
+{
+  "commit": "724b7fe1af41123949bf69482b799411e22edc36",
+  "repo_url": "https://github.com/wavelog/wavelog",
+  "date": "2024-09-06T17:34:13",
+  "languages": {
+    "PHP": 6723094,
+    "JavaScript": 3981235,
+    "CSS": 142024,
+    "HTML": 11588,
+    "Shell": 9815,
+    "XSLT": 3033,
+    "Dockerfile": 1851,
+    "Hack": 252
+  },
+  "size": 10872892
+}

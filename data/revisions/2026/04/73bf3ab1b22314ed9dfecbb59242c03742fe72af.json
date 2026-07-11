@@ -1,0 +1,21 @@
+{
+  "commit": "73bf3ab1b22314ed9dfecbb59242c03742fe72af",
+  "repo_url": "https://github.com/nousresearch/hermes-agent",
+  "date": "2026-04-30T18:31:01",
+  "languages": {
+    "Python": 25224759,
+    "TypeScript": 2491990,
+    "TeX": 434546,
+    "Shell": 127022,
+    "Nix": 90981,
+    "HTML": 87167,
+    "JavaScript": 49579,
+    "PowerShell": 35628,
+    "CSS": 30166,
+    "Dockerfile": 3326,
+    "Ruby": 1585,
+    "Batchfile": 1250,
+    "Makefile": 1054
+  },
+  "size": 28579053
+}

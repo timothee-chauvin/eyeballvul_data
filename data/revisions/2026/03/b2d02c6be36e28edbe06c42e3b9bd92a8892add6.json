@@ -1,0 +1,18 @@
+{
+  "commit": "b2d02c6be36e28edbe06c42e3b9bd92a8892add6",
+  "repo_url": "https://github.com/openziti/zrok",
+  "date": "2026-03-23T17:18:24",
+  "languages": {
+    "Go": 1579732,
+    "Python": 1547797,
+    "TypeScript": 1031830,
+    "MDX": 411715,
+    "Shell": 155224,
+    "HTML": 86217,
+    "JavaScript": 17292,
+    "CSS": 13066,
+    "Jupyter Notebook": 2336,
+    "Dockerfile": 2262
+  },
+  "size": 4847471
+}

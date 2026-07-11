@@ -1,0 +1,15 @@
+{
+  "commit": "7ce5e8adda99c2887238e56608baca7570a687b8",
+  "repo_url": "https://github.com/binwiederhier/ntfy",
+  "date": "2026-03-30T20:39:02",
+  "languages": {
+    "Go": 1669699,
+    "JavaScript": 646579,
+    "Makefile": 13683,
+    "Shell": 6952,
+    "HTML": 2475,
+    "CSS": 993,
+    "Dockerfile": 638
+  },
+  "size": 2341019
+}

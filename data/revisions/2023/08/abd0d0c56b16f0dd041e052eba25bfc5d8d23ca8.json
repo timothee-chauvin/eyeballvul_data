@@ -1,0 +1,13 @@
+{
+  "commit": "abd0d0c56b16f0dd041e052eba25bfc5d8d23ca8",
+  "repo_url": "https://github.com/squinky86/stigqter",
+  "date": "2023-08-07T18:56:44",
+  "languages": {
+    "C++": 545401,
+    "QMake": 4224,
+    "Shell": 3172,
+    "C": 1826,
+    "NSIS": 1254
+  },
+  "size": 555877
+}

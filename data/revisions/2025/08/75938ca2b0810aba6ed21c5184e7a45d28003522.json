@@ -1,0 +1,15 @@
+{
+  "commit": "75938ca2b0810aba6ed21c5184e7a45d28003522",
+  "repo_url": "https://github.com/wolfssl/wolftpm",
+  "date": "2025-08-01T21:29:23",
+  "languages": {
+    "C": 1162895,
+    "M4": 174238,
+    "C#": 99256,
+    "CMake": 87712,
+    "Shell": 8571,
+    "FreeMarker": 4333,
+    "Makefile": 2527
+  },
+  "size": 1539532
+}

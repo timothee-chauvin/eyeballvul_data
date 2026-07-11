@@ -1,0 +1,15 @@
+{
+  "commit": "0a72b4c9ab89244ec3bd3d7fa0b765850cc9afd7",
+  "repo_url": "https://github.com/esiclivre/esiclivre",
+  "date": "2020-02-16T13:40:49",
+  "languages": {
+    "JavaScript": 5611498,
+    "PHP": 1096083,
+    "CSS": 279271,
+    "SCSS": 26517,
+    "HTML": 13518,
+    "Sass": 1905,
+    "Hack": 174
+  },
+  "size": 7028966
+}

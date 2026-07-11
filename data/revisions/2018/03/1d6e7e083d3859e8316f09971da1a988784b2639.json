@@ -1,0 +1,25 @@
+{
+  "commit": "1d6e7e083d3859e8316f09971da1a988784b2639",
+  "repo_url": "https://github.com/mohawk2/archive-unzip-burst",
+  "date": "2018-03-16T20:34:18",
+  "languages": {
+    "C": 2776031,
+    "C++": 232022,
+    "Makefile": 139306,
+    "Roff": 96674,
+    "Assembly": 74842,
+    "Module Management System": 55710,
+    "C#": 52558,
+    "Visual Basic 6.0": 39777,
+    "DIGITAL Command Language": 39493,
+    "WebAssembly": 16685,
+    "Perl": 15357,
+    "RUNOFF": 13531,
+    "Batchfile": 7505,
+    "XS": 5215,
+    "Shell": 4345,
+    "Max": 2726,
+    "IDL": 409
+  },
+  "size": 3572186
+}

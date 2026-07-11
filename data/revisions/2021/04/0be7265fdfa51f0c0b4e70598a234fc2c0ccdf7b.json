@@ -1,0 +1,15 @@
+{
+  "commit": "0be7265fdfa51f0c0b4e70598a234fc2c0ccdf7b",
+  "repo_url": "https://github.com/nationalsecurityagency/emissary",
+  "date": "2021-04-07T13:41:12",
+  "languages": {
+    "Java": 3001841,
+    "Shell": 11564,
+    "HTML": 8022,
+    "Mustache": 7369,
+    "JavaScript": 2515,
+    "CSS": 1970,
+    "Dockerfile": 613
+  },
+  "size": 3033894
+}

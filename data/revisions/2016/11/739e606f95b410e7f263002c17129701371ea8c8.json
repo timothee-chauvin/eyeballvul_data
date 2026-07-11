@@ -1,0 +1,10 @@
+{
+  "commit": "739e606f95b410e7f263002c17129701371ea8c8",
+  "repo_url": "https://github.com/wikimedia/mediawiki-extensions-i18ntags",
+  "date": "2016-11-10T22:30:05",
+  "languages": {
+    "PHP": 9843,
+    "JavaScript": 401
+  },
+  "size": 10244
+}

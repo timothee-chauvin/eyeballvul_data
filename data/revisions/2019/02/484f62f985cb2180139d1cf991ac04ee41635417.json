@@ -1,0 +1,15 @@
+{
+  "commit": "484f62f985cb2180139d1cf991ac04ee41635417",
+  "repo_url": "https://github.com/webassembly/binaryen",
+  "date": "2019-02-04T19:14:04",
+  "languages": {
+    "WebAssembly": 6707077,
+    "C++": 2896174,
+    "JavaScript": 2830100,
+    "C": 172016,
+    "Python": 143874,
+    "Shell": 29983,
+    "CMake": 13728
+  },
+  "size": 12792952
+}

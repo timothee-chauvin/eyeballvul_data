@@ -1,0 +1,11 @@
+{
+  "commit": "8868e83562d9178e316097489440158b487be5fd",
+  "repo_url": "https://github.com/webonyx/graphql-php",
+  "date": "2026-04-02T07:20:06",
+  "languages": {
+    "PHP": 2810768,
+    "Makefile": 1978,
+    "Dockerfile": 702
+  },
+  "size": 2813448
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "0c65c8c3446059491a95edf38cb73d70321eccbc",
+  "repo_url": "https://github.com/tribalsystems/zenario",
+  "date": "2022-01-06T17:42:10",
+  "languages": {
+    "PHP": 12528927,
+    "JavaScript": 7436729,
+    "CSS": 1225185,
+    "CoffeeScript": 854372,
+    "HTML": 676115,
+    "SCSS": 14583,
+    "Python": 9091,
+    "Less": 7356,
+    "Shell": 2793,
+    "Makefile": 849,
+    "Batchfile": 525
+  },
+  "size": 22756525
+}

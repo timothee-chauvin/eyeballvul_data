@@ -1,0 +1,21 @@
+{
+  "commit": "fa77dacc165d9e7532d30a89d4e1452776192f27",
+  "repo_url": "https://github.com/openremote/openremote",
+  "date": "2026-04-07T13:36:59",
+  "languages": {
+    "Java": 6575436,
+    "TypeScript": 2774657,
+    "Groovy": 1924969,
+    "Shell": 131841,
+    "JavaScript": 38983,
+    "CSS": 36118,
+    "MDX": 28219,
+    "PLpgSQL": 13619,
+    "HTML": 10144,
+    "Dockerfile": 9156,
+    "Smarty": 8127,
+    "XSLT": 5935,
+    "Python": 2047
+  },
+  "size": 11559251
+}

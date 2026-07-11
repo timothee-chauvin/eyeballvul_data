@@ -1,0 +1,14 @@
+{
+  "commit": "43fc20a53cef36d3f34e124b81874b86029d930f",
+  "repo_url": "https://github.com/chainlit/chainlit",
+  "date": "2025-11-07T22:10:51",
+  "languages": {
+    "Python": 662007,
+    "TypeScript": 640214,
+    "CSS": 24061,
+    "JavaScript": 11430,
+    "HTML": 1567,
+    "C++": 110
+  },
+  "size": 1339389
+}

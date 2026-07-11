@@ -1,0 +1,11 @@
+{
+  "commit": "c0d27ad225aba782722bf4d0b586e1714b7eab41",
+  "repo_url": "https://github.com/awslabs/tough",
+  "date": "2025-04-22T00:11:36",
+  "languages": {
+    "Rust": 665765,
+    "Makefile": 1730,
+    "Dockerfile": 169
+  },
+  "size": 667664
+}

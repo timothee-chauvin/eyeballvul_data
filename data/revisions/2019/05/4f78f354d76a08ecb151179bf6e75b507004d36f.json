@@ -1,0 +1,12 @@
+{
+  "commit": "4f78f354d76a08ecb151179bf6e75b507004d36f",
+  "repo_url": "https://github.com/canonical/apport",
+  "date": "2019-05-16T19:15:34",
+  "languages": {
+    "Python": 1191877,
+    "Shell": 18716,
+    "Java": 3342,
+    "CMake": 485
+  },
+  "size": 1214420
+}

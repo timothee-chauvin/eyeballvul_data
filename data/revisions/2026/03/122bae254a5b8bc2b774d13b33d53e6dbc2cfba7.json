@@ -1,0 +1,31 @@
+{
+  "commit": "122bae254a5b8bc2b774d13b33d53e6dbc2cfba7",
+  "repo_url": "https://github.com/vowpalwabbit/vowpal_wabbit",
+  "date": "2026-03-04T14:27:07",
+  "languages": {
+    "C++": 5445631,
+    "C#": 1401443,
+    "PLSQL": 968442,
+    "Python": 521329,
+    "Jupyter Notebook": 245292,
+    "CMake": 193576,
+    "Java": 163006,
+    "Perl": 97693,
+    "C": 52027,
+    "JavaScript": 38372,
+    "TypeScript": 37208,
+    "Shell": 33144,
+    "R": 26552,
+    "Makefile": 18866,
+    "HTML": 17681,
+    "Scala": 8266,
+    "Batchfile": 6732,
+    "Ruby": 5219,
+    "Nix": 4846,
+    "CSS": 3570,
+    "Handlebars": 2157,
+    "ANTLR": 753,
+    "Tcl": 182
+  },
+  "size": 9291987
+}

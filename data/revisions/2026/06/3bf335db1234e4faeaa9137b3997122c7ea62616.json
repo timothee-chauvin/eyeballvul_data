@@ -1,0 +1,16 @@
+{
+  "commit": "3bf335db1234e4faeaa9137b3997122c7ea62616",
+  "repo_url": "https://github.com/canboat/canboat",
+  "date": "2026-06-24T03:42:00",
+  "languages": {
+    "C": 1100584,
+    "XSLT": 39531,
+    "Python": 37195,
+    "Makefile": 31595,
+    "PHP": 17480,
+    "Perl": 13150,
+    "Shell": 1017,
+    "Dockerfile": 231
+  },
+  "size": 1240783
+}

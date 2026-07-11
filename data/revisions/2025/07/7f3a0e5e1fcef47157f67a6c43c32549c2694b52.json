@@ -1,0 +1,12 @@
+{
+  "commit": "7f3a0e5e1fcef47157f67a6c43c32549c2694b52",
+  "repo_url": "https://github.com/cpan-authors/text-csv_xs",
+  "date": "2025-07-26T13:43:38",
+  "languages": {
+    "Perl": 514009,
+    "XS": 122787,
+    "Shell": 1336,
+    "Vim Script": 31
+  },
+  "size": 638163
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "06ced3c1292baf55f07b1e3b27266917782a62ba",
+  "repo_url": "https://github.com/codiad/codiad",
+  "date": "2017-07-26T06:11:18",
+  "languages": {
+    "PHP": 493960,
+    "JavaScript": 325322,
+    "CSS": 63712,
+    "Hack": 24394
+  },
+  "size": 907388
+}

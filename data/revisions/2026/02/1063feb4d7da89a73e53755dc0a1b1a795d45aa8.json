@@ -1,0 +1,15 @@
+{
+  "commit": "1063feb4d7da89a73e53755dc0a1b1a795d45aa8",
+  "repo_url": "https://github.com/lukevella/rallly",
+  "date": "2026-02-13T15:43:28",
+  "languages": {
+    "TypeScript": 1499917,
+    "MDX": 61693,
+    "CSS": 9164,
+    "PLpgSQL": 5505,
+    "JavaScript": 2551,
+    "Dockerfile": 2257,
+    "Shell": 2240
+  },
+  "size": 1583327
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "c43a93d29ac680fddc6ba1e63e63d52fc747e654",
+  "repo_url": "https://github.com/liweiyi/chestnutcms",
+  "date": "2025-12-27T12:17:14",
+  "languages": {
+    "Java": 4251227,
+    "JavaScript": 1712931,
+    "Vue": 1598767,
+    "CSS": 115462,
+    "HTML": 100792,
+    "SCSS": 18616,
+    "Shell": 2384,
+    "Dockerfile": 1571,
+    "Batchfile": 368
+  },
+  "size": 7802118
+}

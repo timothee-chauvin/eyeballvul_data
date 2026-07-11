@@ -1,0 +1,22 @@
+{
+  "commit": "74ce8b1dcb9156f2b7365a3b74478034114e1873",
+  "repo_url": "https://github.com/3scale/porta",
+  "date": "2023-11-08T22:47:01",
+  "languages": {
+    "Ruby": 6750825,
+    "JavaScript": 810507,
+    "TypeScript": 692826,
+    "Gherkin": 619993,
+    "SCSS": 329361,
+    "HTML": 302358,
+    "Slim": 211503,
+    "Liquid": 142527,
+    "CSS": 29510,
+    "CoffeeScript": 28299,
+    "Makefile": 10131,
+    "Dockerfile": 4871,
+    "Shell": 2987,
+    "Procfile": 177
+  },
+  "size": 9935875
+}

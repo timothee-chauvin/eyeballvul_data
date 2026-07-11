@@ -1,0 +1,15 @@
+{
+  "commit": "f93b2faeb2a344f1dcd41c6ee9edd8c926d2ea62",
+  "repo_url": "https://github.com/shelf-nu/shelf.nu",
+  "date": "2026-02-25T11:58:39",
+  "languages": {
+    "TypeScript": 6336519,
+    "JavaScript": 22163,
+    "CSS": 21901,
+    "Python": 7888,
+    "PLpgSQL": 5203,
+    "Dockerfile": 1662,
+    "Shell": 672
+  },
+  "size": 6396008
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "74716bfa6440c2130cd19ed30219189565f897bd",
+  "repo_url": "https://github.com/crate/crate",
+  "date": "2023-11-30T11:35:29",
+  "languages": {
+    "Java": 32517440,
+    "Python": 71924,
+    "ANTLR": 47027,
+    "Shell": 8467
+  },
+  "size": 32644858
+}

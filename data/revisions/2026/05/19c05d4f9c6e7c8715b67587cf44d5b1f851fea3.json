@@ -1,0 +1,13 @@
+{
+  "commit": "19c05d4f9c6e7c8715b67587cf44d5b1f851fea3",
+  "repo_url": "https://github.com/hyperledger/fabric-chaincode-java",
+  "date": "2026-05-07T12:53:50",
+  "languages": {
+    "Java": 689682,
+    "Shell": 17008,
+    "HTML": 2506,
+    "Dockerfile": 2188,
+    "Makefile": 1193
+  },
+  "size": 712577
+}

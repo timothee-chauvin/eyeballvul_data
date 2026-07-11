@@ -1,0 +1,12 @@
+{
+  "commit": "8209ac20a7191cb5c0618f77858bfbc0839e6da3",
+  "repo_url": "https://github.com/offlineimap/offlineimap3",
+  "date": "2026-04-11T12:49:10",
+  "languages": {
+    "Python": 553283,
+    "Shell": 12654,
+    "Makefile": 2312,
+    "Dockerfile": 1074
+  },
+  "size": 569323
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "834842503e97fceeba2c22f56bb001aba5adcbfe",
+  "repo_url": "https://github.com/emqx/cocoamqtt",
+  "date": "2026-03-02T04:59:35",
+  "languages": {
+    "Swift": 327362,
+    "Ruby": 1373,
+    "Objective-C": 504,
+    "Shell": 126
+  },
+  "size": 329365
+}

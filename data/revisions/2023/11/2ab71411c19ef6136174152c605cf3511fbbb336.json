@@ -1,0 +1,11 @@
+{
+  "commit": "2ab71411c19ef6136174152c605cf3511fbbb336",
+  "repo_url": "https://github.com/cloudflare/boring",
+  "date": "2023-11-16T18:50:55",
+  "languages": {
+    "Rust": 834916,
+    "Shell": 787,
+    "CMake": 270
+  },
+  "size": 835973
+}

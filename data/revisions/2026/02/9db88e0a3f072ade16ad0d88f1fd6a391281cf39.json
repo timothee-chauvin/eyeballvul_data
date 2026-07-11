@@ -1,0 +1,14 @@
+{
+  "commit": "9db88e0a3f072ade16ad0d88f1fd6a391281cf39",
+  "repo_url": "https://github.com/tektoncd/pipeline",
+  "date": "2026-02-26T16:14:20",
+  "languages": {
+    "Go": 7606875,
+    "Shell": 52501,
+    "Makefile": 7125,
+    "Smarty": 3940,
+    "Mustache": 1078,
+    "Dockerfile": 282
+  },
+  "size": 7671801
+}

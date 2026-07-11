@@ -1,0 +1,11 @@
+{
+  "commit": "5d50b223b1f97c36382754ecf2849a119d8ce226",
+  "repo_url": "https://github.com/ruby/zlib",
+  "date": "2025-10-29T06:29:57",
+  "languages": {
+    "C": 138660,
+    "Ruby": 49608,
+    "Shell": 131
+  },
+  "size": 188399
+}

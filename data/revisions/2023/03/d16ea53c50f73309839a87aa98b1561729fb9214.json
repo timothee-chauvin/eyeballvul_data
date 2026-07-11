@@ -1,0 +1,18 @@
+{
+  "commit": "d16ea53c50f73309839a87aa98b1561729fb9214",
+  "repo_url": "https://github.com/apiman/apiman",
+  "date": "2023-03-21T19:55:07",
+  "languages": {
+    "Java": 5985428,
+    "TypeScript": 832729,
+    "HTML": 531604,
+    "CSS": 72167,
+    "SCSS": 47912,
+    "Shell": 22382,
+    "JavaScript": 20452,
+    "Dockerfile": 9755,
+    "PLpgSQL": 4507,
+    "Batchfile": 878
+  },
+  "size": 7527814
+}

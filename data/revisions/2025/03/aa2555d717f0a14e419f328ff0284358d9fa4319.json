@@ -1,0 +1,14 @@
+{
+  "commit": "aa2555d717f0a14e419f328ff0284358d9fa4319",
+  "repo_url": "https://github.com/piranhacms/piranha.core",
+  "date": "2025-03-22T11:42:28",
+  "languages": {
+    "C#": 2359867,
+    "JavaScript": 907358,
+    "HTML": 239105,
+    "Vue": 106447,
+    "SCSS": 71280,
+    "Shell": 2898
+  },
+  "size": 3686955
+}

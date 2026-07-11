@@ -1,0 +1,18 @@
+{
+  "commit": "8f3c052db16e9fc6b3022c5ca5e3b419d10c6983",
+  "repo_url": "https://github.com/langchain-ai/langchain",
+  "date": "2024-07-24T20:13:58",
+  "languages": {
+    "Jupyter Notebook": 31715763,
+    "Python": 18787294,
+    "Makefile": 61084,
+    "MDX": 56545,
+    "Shell": 46222,
+    "XSLT": 19446,
+    "HTML": 9026,
+    "Dockerfile": 5137,
+    "TeX": 2242,
+    "JavaScript": 471
+  },
+  "size": 50703230
+}

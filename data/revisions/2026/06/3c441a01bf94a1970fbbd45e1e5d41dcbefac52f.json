@@ -1,0 +1,23 @@
+{
+  "commit": "3c441a01bf94a1970fbbd45e1e5d41dcbefac52f",
+  "repo_url": "https://github.com/librephotos/librephotos",
+  "date": "2026-06-21T10:55:26",
+  "languages": {
+    "Python": 2192006,
+    "TypeScript": 1505566,
+    "JavaScript": 79557,
+    "CSS": 29932,
+    "Java": 14776,
+    "Dockerfile": 10160,
+    "Shell": 9699,
+    "Gherkin": 9357,
+    "C++": 7309,
+    "Objective-C++": 4454,
+    "Objective-C": 2405,
+    "Starlark": 1930,
+    "HTML": 1091,
+    "Ruby": 911,
+    "CMake": 273
+  },
+  "size": 3869426
+}

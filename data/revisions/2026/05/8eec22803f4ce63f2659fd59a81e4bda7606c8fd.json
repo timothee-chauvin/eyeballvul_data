@@ -1,0 +1,12 @@
+{
+  "commit": "8eec22803f4ce63f2659fd59a81e4bda7606c8fd",
+  "repo_url": "https://github.com/pretix/pretix-mollie",
+  "date": "2026-05-27T15:05:58",
+  "languages": {
+    "Python": 88993,
+    "HTML": 9339,
+    "Shell": 568,
+    "Makefile": 272
+  },
+  "size": 99172
+}

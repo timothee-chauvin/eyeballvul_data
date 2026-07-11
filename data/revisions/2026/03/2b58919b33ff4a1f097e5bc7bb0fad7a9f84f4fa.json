@@ -1,0 +1,15 @@
+{
+  "commit": "2b58919b33ff4a1f097e5bc7bb0fad7a9f84f4fa",
+  "repo_url": "https://github.com/projectsend/projectsend",
+  "date": "2026-03-17T23:36:16",
+  "languages": {
+    "PHP": 2508322,
+    "SCSS": 497295,
+    "JavaScript": 386701,
+    "Less": 293380,
+    "CSS": 83932,
+    "HTML": 45693,
+    "Shell": 7110
+  },
+  "size": 3822433
+}

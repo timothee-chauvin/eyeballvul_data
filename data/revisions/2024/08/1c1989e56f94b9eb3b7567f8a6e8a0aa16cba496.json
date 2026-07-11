@@ -1,0 +1,14 @@
+{
+  "commit": "1c1989e56f94b9eb3b7567f8a6e8a0aa16cba496",
+  "repo_url": "https://github.com/flatpak/xdg-dbus-proxy",
+  "date": "2024-08-22T14:42:11",
+  "languages": {
+    "C": 134236,
+    "M4": 23587,
+    "Makefile": 7186,
+    "Meson": 5199,
+    "Shell": 772,
+    "BitBake": 533
+  },
+  "size": 171513
+}

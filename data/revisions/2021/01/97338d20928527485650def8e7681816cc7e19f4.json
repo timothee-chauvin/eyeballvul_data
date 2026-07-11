@@ -1,0 +1,16 @@
+{
+  "commit": "97338d20928527485650def8e7681816cc7e19f4",
+  "repo_url": "https://github.com/linlinjava/litemall",
+  "date": "2021-01-10T10:04:52",
+  "languages": {
+    "Java": 3949916,
+    "JavaScript": 907624,
+    "Vue": 474865,
+    "SCSS": 17089,
+    "CSS": 12039,
+    "Shell": 7032,
+    "HTML": 1191,
+    "Dockerfile": 170
+  },
+  "size": 5369926
+}

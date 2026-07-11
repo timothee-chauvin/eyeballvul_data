@@ -1,0 +1,10 @@
+{
+  "commit": "6d1e9fe25dc7e23193331affbad57e7f87c2ee69",
+  "repo_url": "https://github.com/gopro/gpmf-parser",
+  "date": "2019-08-23T19:12:51",
+  "languages": {
+    "C": 38967,
+    "CMake": 249
+  },
+  "size": 39216
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "3f9cf0341c44621a7282c0ca6203ae5849313701",
+  "repo_url": "https://github.com/bigsweetpotatostudio/hyperchat",
+  "date": "2025-08-18T06:46:41",
+  "languages": {
+    "TypeScript": 1449118,
+    "JavaScript": 110872,
+    "CSS": 12356,
+    "HTML": 4056,
+    "Shell": 2642,
+    "Dockerfile": 1957
+  },
+  "size": 1581001
+}

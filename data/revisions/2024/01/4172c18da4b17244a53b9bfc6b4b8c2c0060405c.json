@@ -1,0 +1,23 @@
+{
+  "commit": "4172c18da4b17244a53b9bfc6b4b8c2c0060405c",
+  "repo_url": "https://github.com/malaterre/gdcm",
+  "date": "2024-01-10T09:52:59",
+  "languages": {
+    "C++": 9971761,
+    "C": 4103781,
+    "SWIG": 1043458,
+    "CMake": 377743,
+    "HTML": 318749,
+    "XSLT": 203465,
+    "Python": 139008,
+    "Java": 57320,
+    "Shell": 34555,
+    "C#": 31765,
+    "Lex": 30298,
+    "Roff": 18875,
+    "Batchfile": 1985,
+    "PHP": 1657,
+    "CSS": 1340
+  },
+  "size": 16335760
+}

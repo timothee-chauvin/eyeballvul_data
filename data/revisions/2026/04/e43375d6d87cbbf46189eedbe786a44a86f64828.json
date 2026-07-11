@@ -1,0 +1,21 @@
+{
+  "commit": "e43375d6d87cbbf46189eedbe786a44a86f64828",
+  "repo_url": "https://github.com/apache/polaris",
+  "date": "2026-04-14T20:06:09",
+  "languages": {
+    "Java": 7238230,
+    "Python": 521225,
+    "Shell": 162610,
+    "Kotlin": 83662,
+    "HTML": 72639,
+    "Jupyter Notebook": 58313,
+    "Mustache": 20252,
+    "Makefile": 19456,
+    "Smarty": 16463,
+    "Dockerfile": 9169,
+    "SCSS": 3652,
+    "Mermaid": 2918,
+    "JavaScript": 875
+  },
+  "size": 8209464
+}

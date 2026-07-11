@@ -1,0 +1,13 @@
+{
+  "commit": "23260be3b917e7a2e8381927721ed3de815c0a99",
+  "repo_url": "https://github.com/xorbitsai/inference",
+  "date": "2025-04-03T13:26:30",
+  "languages": {
+    "Python": 1861603,
+    "JavaScript": 272497,
+    "CSS": 6767,
+    "Dockerfile": 3952,
+    "HTML": 1722
+  },
+  "size": 2146541
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "2327a461e1afce862c22269b80d3517801103c1b",
+  "repo_url": "https://github.com/tukaani-project/xz",
+  "date": "2020-03-17T14:27:42",
+  "languages": {
+    "C": 1253289,
+    "M4": 77098,
+    "Roff": 74573,
+    "CMake": 40823,
+    "Makefile": 29418,
+    "Shell": 27984,
+    "Assembly": 13989,
+    "C++": 9866
+  },
+  "size": 1527040
+}

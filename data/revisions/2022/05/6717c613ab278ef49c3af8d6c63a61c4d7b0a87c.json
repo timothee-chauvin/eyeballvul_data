@@ -1,0 +1,15 @@
+{
+  "commit": "6717c613ab278ef49c3af8d6c63a61c4d7b0a87c",
+  "repo_url": "https://github.com/getgridea/gridea",
+  "date": "2022-05-17T13:36:38",
+  "languages": {
+    "Less": 134479,
+    "TypeScript": 133765,
+    "Vue": 132451,
+    "EJS": 46815,
+    "JavaScript": 26864,
+    "HTML": 9833,
+    "CSS": 285
+  },
+  "size": 484492
+}

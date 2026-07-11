@@ -1,0 +1,18 @@
+{
+  "commit": "6bad017d8078c94e80d6c6fe8abd693910bf55cf",
+  "repo_url": "https://github.com/netflix/genie",
+  "date": "2024-05-07T20:13:05",
+  "languages": {
+    "Java": 4404139,
+    "Groovy": 1423492,
+    "CSS": 121414,
+    "JavaScript": 79577,
+    "PLpgSQL": 49173,
+    "Shell": 21652,
+    "Python": 21239,
+    "Dockerfile": 3309,
+    "HTML": 1891,
+    "Vim Snippet": 296
+  },
+  "size": 6126182
+}

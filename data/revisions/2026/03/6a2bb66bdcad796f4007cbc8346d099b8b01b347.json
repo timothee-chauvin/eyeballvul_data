@@ -1,0 +1,18 @@
+{
+  "commit": "6a2bb66bdcad796f4007cbc8346d099b8b01b347",
+  "repo_url": "https://github.com/kanidm/kanidm",
+  "date": "2026-03-13T05:25:15",
+  "languages": {
+    "Rust": 7400622,
+    "Python": 2751722,
+    "HTML": 83436,
+    "Shell": 33868,
+    "Makefile": 15405,
+    "JavaScript": 10374,
+    "Dockerfile": 9795,
+    "C": 4946,
+    "CSS": 4098,
+    "Nix": 605
+  },
+  "size": 10314871
+}

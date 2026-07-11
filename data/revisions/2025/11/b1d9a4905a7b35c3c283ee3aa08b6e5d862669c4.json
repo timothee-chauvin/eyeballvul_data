@@ -1,0 +1,16 @@
+{
+  "commit": "b1d9a4905a7b35c3c283ee3aa08b6e5d862669c4",
+  "repo_url": "https://github.com/authelia/authelia",
+  "date": "2025-11-29T11:03:00",
+  "languages": {
+    "Go": 5084209,
+    "TypeScript": 545996,
+    "Shell": 44106,
+    "HTML": 42006,
+    "Lua": 30395,
+    "JavaScript": 10058,
+    "Dockerfile": 1597,
+    "CSS": 1259
+  },
+  "size": 5759626
+}

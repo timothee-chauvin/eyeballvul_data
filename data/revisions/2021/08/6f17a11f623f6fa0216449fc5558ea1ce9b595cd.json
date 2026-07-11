@@ -1,0 +1,14 @@
+{
+  "commit": "6f17a11f623f6fa0216449fc5558ea1ce9b595cd",
+  "repo_url": "https://github.com/pyrocms/pyrocms",
+  "date": "2021-08-25T14:16:12",
+  "languages": {
+    "PHP": 106754,
+    "Blade": 10129,
+    "JavaScript": 1126,
+    "SCSS": 957,
+    "Vue": 559,
+    "Procfile": 98
+  },
+  "size": 119623
+}

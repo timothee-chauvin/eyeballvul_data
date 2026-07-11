@@ -1,0 +1,19 @@
+{
+  "commit": "3bd14995019ff26afb9176ca1a8dcb58e263e25f",
+  "repo_url": "https://github.com/wocommunity/wonder",
+  "date": "2011-07-13T03:51:14",
+  "languages": {
+    "Java": 13449713,
+    "JavaScript": 4097237,
+    "HTML": 1005460,
+    "C": 592952,
+    "Objective-C": 437603,
+    "CSS": 249498,
+    "Perl": 112069,
+    "Ruby": 36731,
+    "Rich Text Format": 22072,
+    "Shell": 15482,
+    "Makefile": 11622
+  },
+  "size": 20030439
+}

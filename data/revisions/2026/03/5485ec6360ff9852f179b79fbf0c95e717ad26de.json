@@ -1,0 +1,14 @@
+{
+  "commit": "5485ec6360ff9852f179b79fbf0c95e717ad26de",
+  "repo_url": "https://github.com/aws/graph-explorer",
+  "date": "2026-03-05T02:27:15",
+  "languages": {
+    "TypeScript": 1932305,
+    "Shell": 13228,
+    "CSS": 6143,
+    "JavaScript": 4122,
+    "HTML": 3799,
+    "Dockerfile": 2059
+  },
+  "size": 1961656
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "c25fc8e5fd3e7716f416571cd53b34247c94ddbe",
+  "repo_url": "https://github.com/tinyhumansai/openhuman",
+  "date": "2026-05-19T06:30:30",
+  "languages": {
+    "Rust": 15579811,
+    "TypeScript": 7410783,
+    "JavaScript": 568761,
+    "Shell": 397113,
+    "CSS": 46217,
+    "HTML": 31186,
+    "PowerShell": 12289,
+    "Dockerfile": 4567,
+    "Ruby": 2254
+  },
+  "size": 24052981
+}

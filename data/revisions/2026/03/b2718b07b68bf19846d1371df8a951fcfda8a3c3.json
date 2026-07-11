@@ -1,0 +1,18 @@
+{
+  "commit": "b2718b07b68bf19846d1371df8a951fcfda8a3c3",
+  "repo_url": "https://github.com/astrbotdevs/astrbot",
+  "date": "2026-03-25T16:03:23",
+  "languages": {
+    "Python": 4331150,
+    "Vue": 1540357,
+    "TypeScript": 205603,
+    "JavaScript": 106746,
+    "CSS": 19005,
+    "Shell": 15779,
+    "SCSS": 13754,
+    "HTML": 12555,
+    "Makefile": 1107,
+    "Dockerfile": 834
+  },
+  "size": 6246890
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "ba32f9b6beec903ddafcfe0a28a09dbd39fd9bf9",
+  "repo_url": "https://github.com/js8call-improved/js8call-improved",
+  "date": "2026-03-21T01:46:48",
+  "languages": {
+    "C++": 16118989,
+    "CMake": 78107,
+    "Shell": 38067,
+    "Python": 4969,
+    "C": 2844,
+    "Dockerfile": 2480
+  },
+  "size": 16245456
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "59597e962d6b2929d3ec81269e3056e9b54f1a2e",
+  "repo_url": "https://github.com/sismics/docs",
+  "date": "2023-03-12T12:58:03",
+  "languages": {
+    "JavaScript": 1797407,
+    "Java": 1313682,
+    "HTML": 173694,
+    "Less": 11500,
+    "CSS": 4825,
+    "Dockerfile": 1703,
+    "FreeMarker": 1490,
+    "Shell": 419
+  },
+  "size": 3304720
+}

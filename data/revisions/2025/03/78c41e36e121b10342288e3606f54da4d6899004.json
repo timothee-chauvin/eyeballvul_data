@@ -1,0 +1,18 @@
+{
+  "commit": "78c41e36e121b10342288e3606f54da4d6899004",
+  "repo_url": "https://github.com/requarks/wiki",
+  "date": "2025-03-24T01:31:22",
+  "languages": {
+    "Vue": 885886,
+    "JavaScript": 785330,
+    "SCSS": 93552,
+    "HTML": 37190,
+    "Shell": 31046,
+    "Pug": 14489,
+    "Go": 3549,
+    "CSS": 3199,
+    "Dockerfile": 3028,
+    "Mustache": 2944
+  },
+  "size": 1860213
+}

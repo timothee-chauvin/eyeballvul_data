@@ -1,0 +1,20 @@
+{
+  "commit": "055acba8778702eb06ba3de8dd208efabccde92a",
+  "repo_url": "https://github.com/michaelrsweet/htmldoc",
+  "date": "2024-02-12T00:54:12",
+  "languages": {
+    "C++": 824525,
+    "C": 196724,
+    "HTML": 48239,
+    "M4": 11572,
+    "Makefile": 8658,
+    "PostScript": 7914,
+    "Shell": 7446,
+    "Java": 2899,
+    "PHP": 1544,
+    "Batchfile": 698,
+    "Python": 431,
+    "Perl": 367
+  },
+  "size": 1111017
+}

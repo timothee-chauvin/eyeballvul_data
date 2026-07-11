@@ -1,0 +1,15 @@
+{
+  "commit": "1462a01f42b0c666f6784220b576506eff1cce5f",
+  "repo_url": "https://github.com/croogo/croogo",
+  "date": "2020-10-30T11:40:58",
+  "languages": {
+    "PHP": 2015791,
+    "JavaScript": 208076,
+    "CSS": 25935,
+    "SCSS": 18184,
+    "Makefile": 8667,
+    "Twig": 3839,
+    "HTML": 176
+  },
+  "size": 2280668
+}

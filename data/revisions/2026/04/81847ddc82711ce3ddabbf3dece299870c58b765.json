@@ -1,0 +1,13 @@
+{
+  "commit": "81847ddc82711ce3ddabbf3dece299870c58b765",
+  "repo_url": "https://github.com/safedep/gryph",
+  "date": "2026-04-01T17:18:32",
+  "languages": {
+    "Go": 968898,
+    "JavaScript": 9664,
+    "TypeScript": 5655,
+    "Shell": 4101,
+    "Makefile": 1743
+  },
+  "size": 990061
+}

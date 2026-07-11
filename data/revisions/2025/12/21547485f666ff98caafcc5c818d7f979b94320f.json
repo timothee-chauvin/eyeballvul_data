@@ -1,0 +1,14 @@
+{
+  "commit": "21547485f666ff98caafcc5c818d7f979b94320f",
+  "repo_url": "https://github.com/dfir-orc/dfir-orc",
+  "date": "2025-12-04T08:57:38",
+  "languages": {
+    "C++": 10565345,
+    "CMake": 106186,
+    "PowerShell": 68146,
+    "C": 20330,
+    "Assembly": 1363,
+    "YARA": 595
+  },
+  "size": 10761965
+}

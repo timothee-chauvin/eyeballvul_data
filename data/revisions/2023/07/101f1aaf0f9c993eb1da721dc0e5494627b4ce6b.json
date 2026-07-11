@@ -1,0 +1,15 @@
+{
+  "commit": "101f1aaf0f9c993eb1da721dc0e5494627b4ce6b",
+  "repo_url": "https://github.com/helidon-io/helidon",
+  "date": "2023-07-12T18:45:22",
+  "languages": {
+    "Java": 19940727,
+    "Mustache": 161376,
+    "Shell": 87344,
+    "Lua": 6617,
+    "Dockerfile": 1874,
+    "CSS": 1413,
+    "HTML": 15
+  },
+  "size": 20199366
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "f0ecc68b6948bd1a9d559a4644a7775cea8b9de9",
+  "repo_url": "https://github.com/abrt/abrt",
+  "date": "2024-02-18T13:55:16",
+  "languages": {
+    "C": 762687,
+    "Shell": 441646,
+    "Python": 326452,
+    "Makefile": 42320,
+    "M4": 15701,
+    "Augeas": 4085,
+    "Logos": 1957,
+    "Emacs Lisp": 294
+  },
+  "size": 1595142
+}

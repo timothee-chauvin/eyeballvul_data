@@ -1,0 +1,13 @@
+{
+  "commit": "5dcae5b3cee0f5ebfcc3c65c196bc5f89c6a1a68",
+  "repo_url": "https://github.com/modelcontextprotocol/registry",
+  "date": "2026-04-29T18:05:09",
+  "languages": {
+    "Go": 1019221,
+    "PLpgSQL": 39473,
+    "HTML": 23511,
+    "Shell": 18829,
+    "Makefile": 6456
+  },
+  "size": 1107490
+}

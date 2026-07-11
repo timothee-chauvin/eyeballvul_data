@@ -1,0 +1,19 @@
+{
+  "commit": "019fc15646227bf6d2b849ed987a98a7db9f0577",
+  "repo_url": "https://gitlab.com/tortoisegit/tortoisegit",
+  "date": "2025-10-31T22:17:18",
+  "languages": {
+    "C++": 11080859,
+    "C": 5480977,
+    "Objective-C": 119410,
+    "C#": 38937,
+    "Makefile": 34632,
+    "Python": 32781,
+    "JavaScript": 28661,
+    "VBScript": 15549,
+    "Batchfile": 4685,
+    "Shell": 3037,
+    "Rich Text Format": 2211
+  },
+  "size": 16841739
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "0c7af6c4262e670a85cbfcef37fc2ae3e18fb471",
+  "repo_url": "https://github.com/alchemycms/alchemy_cms",
+  "date": "2025-12-24T11:04:23",
+  "languages": {
+    "Ruby": 1623760,
+    "SCSS": 524472,
+    "JavaScript": 344579,
+    "HTML": 199228,
+    "Haml": 1316,
+    "Slim": 1314,
+    "Handlebars": 349,
+    "CSS": 302,
+    "Shell": 225
+  },
+  "size": 2695545
+}

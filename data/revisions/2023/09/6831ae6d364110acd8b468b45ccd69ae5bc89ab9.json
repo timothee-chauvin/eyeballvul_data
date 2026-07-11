@@ -1,0 +1,14 @@
+{
+  "commit": "6831ae6d364110acd8b468b45ccd69ae5bc89ab9",
+  "repo_url": "https://github.com/enms-automation/enms",
+  "date": "2023-09-08T07:29:48",
+  "languages": {
+    "Python": 470869,
+    "JavaScript": 228808,
+    "HTML": 124066,
+    "CSS": 22221,
+    "Shell": 7741,
+    "Jinja": 1715
+  },
+  "size": 855420
+}

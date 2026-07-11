@@ -1,0 +1,11 @@
+{
+  "commit": "53a6b3c1cf3023e51cf81763b1ccf048edcd1c64",
+  "repo_url": "https://github.com/mz-automation/lib60870",
+  "date": "2022-12-30T12:53:39",
+  "languages": {
+    "C": 1454972,
+    "CMake": 20784,
+    "Makefile": 14137
+  },
+  "size": 1489893
+}

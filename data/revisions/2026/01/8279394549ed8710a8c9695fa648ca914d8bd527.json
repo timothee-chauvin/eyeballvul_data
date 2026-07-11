@@ -1,0 +1,27 @@
+{
+  "commit": "8279394549ed8710a8c9695fa648ca914d8bd527",
+  "repo_url": "https://github.com/remotion-dev/remotion",
+  "date": "2026-01-22T11:58:00",
+  "languages": {
+    "TypeScript": 31287601,
+    "PHP": 5723823,
+    "MDX": 2817194,
+    "Rust": 154375,
+    "JavaScript": 121342,
+    "Python": 79849,
+    "CSS": 65044,
+    "Go": 25235,
+    "Ruby": 11585,
+    "C++": 10014,
+    "Nix": 2460,
+    "HCL": 1826,
+    "Dockerfile": 1777,
+    "Shell": 1691,
+    "Rich Text Format": 1361,
+    "HTML": 1330,
+    "Astro": 686,
+    "Swift": 210,
+    "SCSS": 56
+  },
+  "size": 40307459
+}

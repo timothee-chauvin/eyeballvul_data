@@ -1,0 +1,12 @@
+{
+  "commit": "4810ee813f903223f6df5642f1de2e3c3da6b8a0",
+  "repo_url": "https://github.com/snowflakedb/terraform-provider-snowflake",
+  "date": "2026-05-28T18:16:29",
+  "languages": {
+    "Go": 14278425,
+    "HCL": 68187,
+    "Makefile": 14567,
+    "Dockerfile": 800
+  },
+  "size": 14361979
+}

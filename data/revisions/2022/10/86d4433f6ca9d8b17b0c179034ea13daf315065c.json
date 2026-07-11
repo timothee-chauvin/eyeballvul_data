@@ -1,0 +1,12 @@
+{
+  "commit": "86d4433f6ca9d8b17b0c179034ea13daf315065c",
+  "repo_url": "https://github.com/kubernetes-csi/csi-proxy",
+  "date": "2022-10-28T22:22:52",
+  "languages": {
+    "Go": 175319,
+    "Shell": 92470,
+    "Makefile": 15078,
+    "Python": 6252
+  },
+  "size": 289119
+}

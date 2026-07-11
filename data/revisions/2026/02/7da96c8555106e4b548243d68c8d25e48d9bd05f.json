@@ -1,0 +1,13 @@
+{
+  "commit": "7da96c8555106e4b548243d68c8d25e48d9bd05f",
+  "repo_url": "https://github.com/nextcloud/files_lock",
+  "date": "2026-02-18T11:06:54",
+  "languages": {
+    "PHP": 132305,
+    "JavaScript": 80177,
+    "TypeScript": 17899,
+    "Makefile": 2088,
+    "CSS": 370
+  },
+  "size": 232839
+}

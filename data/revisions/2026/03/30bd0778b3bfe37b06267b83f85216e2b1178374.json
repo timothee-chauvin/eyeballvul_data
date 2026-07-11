@@ -1,0 +1,17 @@
+{
+  "commit": "30bd0778b3bfe37b06267b83f85216e2b1178374",
+  "repo_url": "https://github.com/papra-hq/papra",
+  "date": "2026-03-26T13:55:40",
+  "languages": {
+    "TypeScript": 3773849,
+    "MDX": 159737,
+    "Astro": 97667,
+    "Rich Text Format": 34979,
+    "JavaScript": 8811,
+    "CSS": 7137,
+    "HTML": 4127,
+    "Dockerfile": 3242,
+    "Shell": 120
+  },
+  "size": 4089669
+}

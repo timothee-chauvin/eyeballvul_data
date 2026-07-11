@@ -1,0 +1,13 @@
+{
+  "commit": "482083b31c094fbf0f403ec4ce27b9c19a32e74a",
+  "repo_url": "https://github.com/phachon/mm-wiki",
+  "date": "2020-09-16T06:24:58",
+  "languages": {
+    "Go": 3488332,
+    "Less": 20352,
+    "Shell": 5463,
+    "Batchfile": 1014,
+    "Dockerfile": 812
+  },
+  "size": 3515973
+}

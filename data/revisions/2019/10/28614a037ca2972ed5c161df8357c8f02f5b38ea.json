@@ -1,0 +1,15 @@
+{
+  "commit": "28614a037ca2972ed5c161df8357c8f02f5b38ea",
+  "repo_url": "https://github.com/opcfoundation/ua-.netstandard",
+  "date": "2019-10-03T13:57:44",
+  "languages": {
+    "C#": 27182311,
+    "C": 1320068,
+    "C++": 1062726,
+    "TSQL": 7723,
+    "Batchfile": 6318,
+    "Shell": 3663,
+    "Dockerfile": 270
+  },
+  "size": 29583079
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "6faea0e53dc21f473005859add0aa1617538ac2a",
+  "repo_url": "https://github.com/bidingcc/buildingai",
+  "date": "2026-04-02T07:43:46",
+  "languages": {
+    "TypeScript": 7154083,
+    "JavaScript": 242013,
+    "CSS": 211360,
+    "HTML": 36171,
+    "Python": 17674,
+    "Shell": 11441,
+    "Rust": 710
+  },
+  "size": 7673452
+}

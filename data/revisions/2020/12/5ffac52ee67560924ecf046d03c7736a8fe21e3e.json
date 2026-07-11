@@ -1,0 +1,17 @@
+{
+  "commit": "5ffac52ee67560924ecf046d03c7736a8fe21e3e",
+  "repo_url": "https://github.com/milkytracker/milkytracker",
+  "date": "2020-12-09T22:58:14",
+  "languages": {
+    "C++": 9595224,
+    "C": 177297,
+    "Objective-C++": 74039,
+    "CMake": 60012,
+    "Objective-C": 35289,
+    "HTML": 20552,
+    "Python": 11304,
+    "Shell": 1852,
+    "AppleScript": 1628
+  },
+  "size": 9977197
+}

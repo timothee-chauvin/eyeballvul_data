@@ -1,0 +1,12 @@
+{
+  "commit": "b4734d819228b0c16a7c4eed48a45b72703f8ce7",
+  "repo_url": "https://github.com/getrebuild/rebuild",
+  "date": "2023-02-13T13:35:27",
+  "languages": {
+    "Java": 8343568,
+    "HTML": 977809,
+    "CSS": 672765,
+    "Shell": 472
+  },
+  "size": 9994614
+}

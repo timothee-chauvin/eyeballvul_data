@@ -1,0 +1,13 @@
+{
+  "commit": "8ba7f3180bcaa27b9d316ad54914a779244b7fe6",
+  "repo_url": "https://github.com/homematic-community/hm-print",
+  "date": "2017-02-23T20:14:16",
+  "languages": {
+    "CSS": 118400,
+    "JavaScript": 36114,
+    "Shell": 12430,
+    "HTML": 5109,
+    "Tcl": 2615
+  },
+  "size": 174668
+}

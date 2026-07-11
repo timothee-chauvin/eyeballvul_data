@@ -1,0 +1,21 @@
+{
+  "commit": "ccd2d5c542c27c53f8dd547c817303845c7ca6dc",
+  "repo_url": "https://github.com/netwide-assembler/nasm",
+  "date": "2018-07-06T10:14:31",
+  "languages": {
+    "C": 1705392,
+    "Assembly": 1685592,
+    "Perl": 155207,
+    "Makefile": 42028,
+    "NSIS": 21283,
+    "AGS Script": 12353,
+    "Shell": 10917,
+    "M4": 9645,
+    "Slash": 9562,
+    "Roff": 4873,
+    "Python": 3289,
+    "Batchfile": 308,
+    "sed": 91
+  },
+  "size": 3660540
+}

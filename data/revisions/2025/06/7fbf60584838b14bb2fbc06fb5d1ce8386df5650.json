@@ -1,0 +1,14 @@
+{
+  "commit": "7fbf60584838b14bb2fbc06fb5d1ce8386df5650",
+  "repo_url": "https://github.com/starcitizentools/mediawiki-skins-citizen",
+  "date": "2025-06-07T20:46:06",
+  "languages": {
+    "Less": 1077691,
+    "JavaScript": 227184,
+    "PHP": 109164,
+    "Vue": 47677,
+    "Mustache": 21412,
+    "Shell": 177
+  },
+  "size": 1483305
+}

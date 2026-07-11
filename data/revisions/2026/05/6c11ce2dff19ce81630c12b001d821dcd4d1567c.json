@@ -1,0 +1,14 @@
+{
+  "commit": "6c11ce2dff19ce81630c12b001d821dcd4d1567c",
+  "repo_url": "https://github.com/vanhauser-thc/thc-hydra",
+  "date": "2026-05-03T20:14:45",
+  "languages": {
+    "C": 1123754,
+    "Shell": 10851,
+    "Makefile": 8833,
+    "Roff": 6845,
+    "Dockerfile": 2344,
+    "M4": 331
+  },
+  "size": 1152958
+}

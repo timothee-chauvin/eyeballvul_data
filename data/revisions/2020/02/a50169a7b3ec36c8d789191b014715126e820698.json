@@ -1,0 +1,18 @@
+{
+  "commit": "a50169a7b3ec36c8d789191b014715126e820698",
+  "repo_url": "https://github.com/ntop/ndpi",
+  "date": "2020-02-20T09:15:44",
+  "languages": {
+    "C": 1865488,
+    "POV-Ray SDL": 617316,
+    "Python": 83795,
+    "Lua": 44508,
+    "M4": 20816,
+    "Makefile": 11670,
+    "Objective-C": 7388,
+    "Shell": 4813,
+    "Ruby": 1119,
+    "C++": 164
+  },
+  "size": 2657077
+}

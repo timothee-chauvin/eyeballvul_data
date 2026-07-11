@@ -1,0 +1,16 @@
+{
+  "commit": "a7a5aae277c99b7df068f413ab818854ed5c7af5",
+  "repo_url": "https://github.com/flatpak/flatpak-builder",
+  "date": "2025-10-20T14:09:23",
+  "languages": {
+    "C": 871851,
+    "Shell": 58562,
+    "M4": 34751,
+    "Makefile": 9364,
+    "Meson": 7722,
+    "Pawn": 2788,
+    "Assembly": 1537,
+    "Python": 111
+  },
+  "size": 986686
+}

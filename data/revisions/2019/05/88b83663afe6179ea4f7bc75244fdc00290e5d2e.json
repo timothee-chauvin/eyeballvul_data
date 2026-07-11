@@ -1,0 +1,16 @@
+{
+  "commit": "88b83663afe6179ea4f7bc75244fdc00290e5d2e",
+  "repo_url": "https://github.com/jenkinsci/warnings-ng-plugin",
+  "date": "2019-05-07T11:48:40",
+  "languages": {
+    "Java": 1512771,
+    "HTML": 68762,
+    "JavaScript": 21795,
+    "CSS": 18259,
+    "Groovy": 2146,
+    "Pascal": 1927,
+    "Shell": 1777,
+    "C#": 1013
+  },
+  "size": 1628450
+}

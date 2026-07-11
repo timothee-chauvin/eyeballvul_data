@@ -1,0 +1,17 @@
+{
+  "commit": "a5252b26a65528c130b40cb9e1930c8ae1853042",
+  "repo_url": "https://github.com/o2oa/o2oa",
+  "date": "2024-04-02T15:24:47",
+  "languages": {
+    "JavaScript": 29530435,
+    "Java": 26832944,
+    "HTML": 4824148,
+    "CSS": 1459087,
+    "Vue": 535643,
+    "Shell": 42951,
+    "EJS": 15908,
+    "PHP": 10711,
+    "Batchfile": 4900
+  },
+  "size": 63256727
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "d0d5dd11912a806b25dfa36250e9f931212581c8",
+  "repo_url": "https://github.com/rancher/local-path-provisioner",
+  "date": "2026-03-10T06:17:15",
+  "languages": {
+    "Go": 49335,
+    "Shell": 3709,
+    "Mustache": 2680,
+    "Dockerfile": 639,
+    "Makefile": 312
+  },
+  "size": 56675
+}

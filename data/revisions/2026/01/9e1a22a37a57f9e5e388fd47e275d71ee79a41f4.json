@@ -1,0 +1,10 @@
+{
+  "commit": "9e1a22a37a57f9e5e388fd47e275d71ee79a41f4",
+  "repo_url": "https://github.com/dbt-labs/actions",
+  "date": "2026-01-22T14:37:29",
+  "languages": {
+    "Python": 29148,
+    "Dockerfile": 1514
+  },
+  "size": 30662
+}

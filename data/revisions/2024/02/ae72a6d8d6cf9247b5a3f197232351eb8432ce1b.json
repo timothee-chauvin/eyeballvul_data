@@ -1,0 +1,13 @@
+{
+  "commit": "ae72a6d8d6cf9247b5a3f197232351eb8432ce1b",
+  "repo_url": "https://github.com/getsimplecms-ce/getsimplecms-ce",
+  "date": "2024-02-24T15:05:22",
+  "languages": {
+    "PHP": 980746,
+    "JavaScript": 911235,
+    "CSS": 203952,
+    "HTML": 84387,
+    "Hack": 34949
+  },
+  "size": 2215269
+}

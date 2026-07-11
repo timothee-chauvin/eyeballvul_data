@@ -1,0 +1,12 @@
+{
+  "commit": "2460630129d4b4c92e5fe829b6573d7455756c30",
+  "repo_url": "https://github.com/stephen-kruger/bluebox",
+  "date": "2016-11-02T13:41:27",
+  "languages": {
+    "Java": 782830,
+    "CSS": 3443,
+    "Shell": 3083,
+    "Dockerfile": 223
+  },
+  "size": 789579
+}

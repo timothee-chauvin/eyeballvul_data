@@ -1,0 +1,16 @@
+{
+  "commit": "ef1e2db1c79ba6d2db5b130932f5cb88d1d2e256",
+  "repo_url": "https://github.com/apache/apisix-dashboard",
+  "date": "2021-10-08T05:48:01",
+  "languages": {
+    "Go": 1106261,
+    "TypeScript": 706432,
+    "JavaScript": 249179,
+    "Shell": 31375,
+    "Less": 26447,
+    "EJS": 6455,
+    "Dockerfile": 4494,
+    "Makefile": 4313
+  },
+  "size": 2134956
+}

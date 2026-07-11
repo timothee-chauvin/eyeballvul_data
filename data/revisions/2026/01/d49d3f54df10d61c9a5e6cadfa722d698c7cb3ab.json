@@ -1,0 +1,12 @@
+{
+  "commit": "d49d3f54df10d61c9a5e6cadfa722d698c7cb3ab",
+  "repo_url": "https://github.com/apollographql/apollo-mcp-server",
+  "date": "2026-01-23T20:20:00",
+  "languages": {
+    "Rust": 905774,
+    "Shell": 9502,
+    "PowerShell": 3499,
+    "Dockerfile": 1150
+  },
+  "size": 919925
+}

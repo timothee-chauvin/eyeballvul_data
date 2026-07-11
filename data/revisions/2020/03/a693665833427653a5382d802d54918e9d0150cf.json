@@ -1,0 +1,18 @@
+{
+  "commit": "a693665833427653a5382d802d54918e9d0150cf",
+  "repo_url": "https://github.com/intel/confidential-computing.tee.dcap",
+  "date": "2020-03-12T03:23:43",
+  "languages": {
+    "C": 2225805,
+    "C++": 2041724,
+    "JavaScript": 195180,
+    "Makefile": 126263,
+    "Shell": 84918,
+    "CMake": 50539,
+    "Python": 45231,
+    "Assembly": 15068,
+    "Batchfile": 14499,
+    "PowerShell": 3272
+  },
+  "size": 4802499
+}

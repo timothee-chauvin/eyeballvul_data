@@ -1,0 +1,14 @@
+{
+  "commit": "f5ed6a16b5e4bf463aea6306fbda881b05bef07d",
+  "repo_url": "https://github.com/storaged-project/libblockdev",
+  "date": "2025-02-13T13:14:50",
+  "languages": {
+    "C": 1489703,
+    "Python": 798823,
+    "Shell": 29257,
+    "Makefile": 23792,
+    "M4": 18628,
+    "Dockerfile": 1689
+  },
+  "size": 2361892
+}

@@ -1,0 +1,27 @@
+{
+  "commit": "1a9148dfd8e03835dc7617cee696dd18c0000e99",
+  "repo_url": "https://github.com/gregkh/linux",
+  "date": "2022-12-21T16:32:08",
+  "languages": {
+    "C": 868884936,
+    "Assembly": 9463633,
+    "Shell": 2504534,
+    "Makefile": 2152430,
+    "Perl": 1138395,
+    "Python": 1136512,
+    "C++": 235285,
+    "Roff": 172913,
+    "SmPL": 158894,
+    "Yacc": 120529,
+    "Lex": 63134,
+    "Awk": 45941,
+    "UnrealScript": 17732,
+    "Gherkin": 8336,
+    "Raku": 3859,
+    "M4": 3325,
+    "Clojure": 1462,
+    "XS": 1239,
+    "sed": 379
+  },
+  "size": 886113468
+}

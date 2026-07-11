@@ -1,0 +1,16 @@
+{
+  "commit": "258c6fbd3a351a155ba4249990c654d229abc2b5",
+  "repo_url": "https://github.com/complianz/complianz-gdpr",
+  "date": "2026-03-16T15:08:41",
+  "languages": {
+    "PHP": 1480461,
+    "JavaScript": 683378,
+    "CSS": 164748,
+    "SCSS": 131306,
+    "HTML": 52181,
+    "Less": 31960,
+    "Shell": 6004,
+    "Hack": 223
+  },
+  "size": 2550261
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "bfca0820cab1bfe60ee91f0a7d2d2ef5cb90522f",
+  "repo_url": "https://github.com/yunaiv/ruoyi-vue-pro",
+  "date": "2026-05-31T13:27:07",
+  "languages": {
+    "Java": 15520706,
+    "PLpgSQL": 4988150,
+    "TSQL": 1315156,
+    "Python": 34599,
+    "Vue": 6942,
+    "Shell": 6039,
+    "TypeScript": 5883,
+    "Dockerfile": 736
+  },
+  "size": 21878211
+}

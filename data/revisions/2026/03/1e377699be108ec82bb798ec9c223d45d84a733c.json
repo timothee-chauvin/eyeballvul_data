@@ -1,0 +1,17 @@
+{
+  "commit": "1e377699be108ec82bb798ec9c223d45d84a733c",
+  "repo_url": "https://github.com/opensuse/libsolv",
+  "date": "2026-03-12T09:13:53",
+  "languages": {
+    "C": 2197093,
+    "SWIG": 136023,
+    "CMake": 82491,
+    "Perl": 80710,
+    "Raku": 53714,
+    "C++": 8255,
+    "Shell": 480,
+    "Batchfile": 353,
+    "Emacs Lisp": 236
+  },
+  "size": 2559355
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "fbb7b60363336f78b90fa151f7fd186403d54f46",
+  "repo_url": "https://github.com/libwww-perl/html-parser",
+  "date": "2024-07-30T16:42:45",
+  "languages": {
+    "Perl": 211566,
+    "C": 61785,
+    "XS": 14124,
+    "HTML": 3646
+  },
+  "size": 291121
+}

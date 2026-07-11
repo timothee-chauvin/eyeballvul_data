@@ -1,0 +1,13 @@
+{
+  "commit": "adf64a0bde0494425a88aca4289f5ebea119f067",
+  "repo_url": "https://github.com/operator-framework/catalogd",
+  "date": "2024-11-26T21:20:30",
+  "languages": {
+    "Go": 187652,
+    "Makefile": 16021,
+    "Shell": 10974,
+    "Starlark": 468,
+    "Dockerfile": 252
+  },
+  "size": 215367
+}

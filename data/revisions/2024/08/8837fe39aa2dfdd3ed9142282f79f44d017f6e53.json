@@ -1,0 +1,14 @@
+{
+  "commit": "8837fe39aa2dfdd3ed9142282f79f44d017f6e53",
+  "repo_url": "https://github.com/rrweb-io/rrweb",
+  "date": "2024-08-02T11:30:46",
+  "languages": {
+    "TypeScript": 1203226,
+    "JavaScript": 78058,
+    "HTML": 63826,
+    "Svelte": 23529,
+    "CSS": 3575,
+    "Shell": 395
+  },
+  "size": 1372609
+}

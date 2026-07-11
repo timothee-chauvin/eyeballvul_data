@@ -1,0 +1,14 @@
+{
+  "commit": "52dcb789af7efe86eafa3daa4c79e8df320fb17b",
+  "repo_url": "https://github.com/montferret/ferret",
+  "date": "2026-03-27T20:32:35",
+  "languages": {
+    "Go": 2804515,
+    "HTML": 322682,
+    "JavaScript": 31567,
+    "ANTLR": 21034,
+    "Makefile": 2350,
+    "CSS": 69
+  },
+  "size": 3182217
+}

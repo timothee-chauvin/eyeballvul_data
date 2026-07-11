@@ -1,0 +1,12 @@
+{
+  "commit": "0dd6943057f3fa9a425ea3e1d5e6bd23f5840fd9",
+  "repo_url": "https://github.com/freertos/coremqtt",
+  "date": "2026-03-11T15:49:16",
+  "languages": {
+    "C": 1976537,
+    "Makefile": 157436,
+    "CMake": 21708,
+    "Python": 19901
+  },
+  "size": 2175582
+}

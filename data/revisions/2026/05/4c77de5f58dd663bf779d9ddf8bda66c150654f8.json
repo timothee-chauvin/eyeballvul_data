@@ -1,0 +1,16 @@
+{
+  "commit": "4c77de5f58dd663bf779d9ddf8bda66c150654f8",
+  "repo_url": "https://github.com/grafana/grafana-operator",
+  "date": "2026-05-21T13:17:48",
+  "languages": {
+    "Go": 737406,
+    "Jsonnet": 126085,
+    "Makefile": 25772,
+    "Shell": 3205,
+    "Smarty": 2152,
+    "Lua": 1856,
+    "HTML": 891,
+    "SCSS": 23
+  },
+  "size": 897390
+}

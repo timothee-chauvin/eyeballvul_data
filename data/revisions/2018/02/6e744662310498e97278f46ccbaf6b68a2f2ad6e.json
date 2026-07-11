@@ -1,0 +1,19 @@
+{
+  "commit": "6e744662310498e97278f46ccbaf6b68a2f2ad6e",
+  "repo_url": "https://github.com/nghttp2/nghttp2",
+  "date": "2018-02-27T12:18:50",
+  "languages": {
+    "C++": 2013956,
+    "C": 1515599,
+    "Go": 132464,
+    "Python": 103087,
+    "M4": 81012,
+    "Cython": 71745,
+    "CMake": 46098,
+    "Makefile": 25477,
+    "Shell": 9513,
+    "Dockerfile": 4929,
+    "Ruby": 559
+  },
+  "size": 4004439
+}

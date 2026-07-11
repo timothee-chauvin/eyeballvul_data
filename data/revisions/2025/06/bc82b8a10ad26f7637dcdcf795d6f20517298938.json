@@ -1,0 +1,14 @@
+{
+  "commit": "bc82b8a10ad26f7637dcdcf795d6f20517298938",
+  "repo_url": "https://github.com/mattermost/mattermost-plugin-confluence",
+  "date": "2025-06-04T12:43:29",
+  "languages": {
+    "Go": 217096,
+    "JavaScript": 42858,
+    "Makefile": 11108,
+    "CSS": 4215,
+    "HTML": 2970,
+    "TypeScript": 219
+  },
+  "size": 278466
+}

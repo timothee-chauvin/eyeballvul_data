@@ -1,0 +1,18 @@
+{
+  "commit": "4a25fa0efc03a4e71740efc748c24b93152b1807",
+  "repo_url": "https://github.com/vadz/libtiff",
+  "date": "2017-05-21T19:10:50",
+  "languages": {
+    "C": 2687407,
+    "Makefile": 518002,
+    "HTML": 500554,
+    "Shell": 411018,
+    "CMake": 95724,
+    "M4": 76379,
+    "DIGITAL Command Language": 36534,
+    "C++": 32309,
+    "Python": 8051,
+    "Ruby": 2155
+  },
+  "size": 4368133
+}

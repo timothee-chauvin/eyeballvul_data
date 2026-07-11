@@ -1,0 +1,19 @@
+{
+  "commit": "be7d1b7b1701d225379bc1665487ed0871b592a5",
+  "repo_url": "https://github.com/vda-linux/busybox_mirror",
+  "date": "2024-09-26T21:31:15",
+  "languages": {
+    "C": 7842993,
+    "Shell": 367917,
+    "Assembly": 79969,
+    "Makefile": 55631,
+    "C++": 41130,
+    "Yacc": 14198,
+    "HTML": 8280,
+    "Lex": 6389,
+    "Perl": 5810,
+    "Python": 4733,
+    "Awk": 941
+  },
+  "size": 8427991
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "33fb5fd4efaa3cd3e92e5dfaab8c5112124e575d",
+  "repo_url": "https://github.com/bx33661/wireshark-mcp",
+  "date": "2026-04-18T10:05:41",
+  "languages": {
+    "Python": 321827,
+    "Dockerfile": 865,
+    "Shell": 242
+  },
+  "size": 322934
+}

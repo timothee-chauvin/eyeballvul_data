@@ -1,0 +1,15 @@
+{
+  "commit": "f613841a1b443819421b4ee2b734102e4afdbb0a",
+  "repo_url": "https://github.com/rhymix/rhymix",
+  "date": "2025-03-27T07:40:40",
+  "languages": {
+    "PHP": 5392378,
+    "JavaScript": 1988789,
+    "HTML": 1543331,
+    "CSS": 735496,
+    "Blade": 19020,
+    "SCSS": 17094,
+    "Less": 11514
+  },
+  "size": 9707622
+}

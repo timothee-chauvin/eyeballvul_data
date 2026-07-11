@@ -1,0 +1,12 @@
+{
+  "commit": "9a9da0955f053dffb0db24b77993a1ed49b6e2c1",
+  "repo_url": "https://github.com/pdfcpu/pdfcpu",
+  "date": "2025-05-28T13:23:49",
+  "languages": {
+    "Go": 3313928,
+    "Shell": 50344,
+    "Dockerfile": 1183,
+    "HTML": 937
+  },
+  "size": 3366392
+}

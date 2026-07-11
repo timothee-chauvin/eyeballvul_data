@@ -1,0 +1,16 @@
+{
+  "commit": "52f7f77d35a42fc66be544ae10b9337ecd1c8739",
+  "repo_url": "https://github.com/apache/shenyu",
+  "date": "2023-01-30T02:07:20",
+  "languages": {
+    "Java": 8970448,
+    "Dockerfile": 38412,
+    "Shell": 33987,
+    "Lua": 7258,
+    "Python": 3722,
+    "Makefile": 3704,
+    "Batchfile": 3604,
+    "HTML": 1401
+  },
+  "size": 9062536
+}

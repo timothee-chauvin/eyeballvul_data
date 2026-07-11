@@ -1,0 +1,11 @@
+{
+  "commit": "e9b1b4c22abb00a262b8847d0ce39929df5ed4d0",
+  "repo_url": "https://github.com/home-assistant-ecosystem/home-assistant-cli",
+  "date": "2022-10-24T22:29:16",
+  "languages": {
+    "Python": 149547,
+    "Shell": 3361,
+    "Dockerfile": 298
+  },
+  "size": 153206
+}

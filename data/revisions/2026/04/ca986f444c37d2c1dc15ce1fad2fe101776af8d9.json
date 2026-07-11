@@ -1,0 +1,15 @@
+{
+  "commit": "ca986f444c37d2c1dc15ce1fad2fe101776af8d9",
+  "repo_url": "https://github.com/skim-rs/skim",
+  "date": "2026-04-14T11:52:54",
+  "languages": {
+    "Rust": 1075783,
+    "Shell": 75812,
+    "Vim Script": 29043,
+    "Nushell": 9167,
+    "Nix": 2114,
+    "Just": 1996,
+    "Dockerfile": 210
+  },
+  "size": 1194125
+}

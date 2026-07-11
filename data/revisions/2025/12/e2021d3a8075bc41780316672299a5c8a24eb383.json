@@ -1,0 +1,22 @@
+{
+  "commit": "e2021d3a8075bc41780316672299a5c8a24eb383",
+  "repo_url": "https://github.com/iqss/dataverse",
+  "date": "2025-12-18T19:24:14",
+  "languages": {
+    "Java": 13845554,
+    "HTML": 1492785,
+    "JavaScript": 463302,
+    "Shell": 202846,
+    "Python": 110717,
+    "XSLT": 82075,
+    "CSS": 69705,
+    "R": 38280,
+    "Perl": 29981,
+    "Dockerfile": 25235,
+    "PLpgSQL": 7131,
+    "Jupyter Notebook": 6789,
+    "Makefile": 5305,
+    "Ruby": 1670
+  },
+  "size": 16381375
+}

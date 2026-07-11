@@ -1,0 +1,19 @@
+{
+  "commit": "5045efab3fdb6e309eabc07ac489f86eb7737fa7",
+  "repo_url": "https://github.com/ever-co/ever-gauzy",
+  "date": "2023-04-05T21:18:33",
+  "languages": {
+    "TypeScript": 11823710,
+    "HTML": 1406424,
+    "SCSS": 978814,
+    "Gherkin": 205531,
+    "JavaScript": 21007,
+    "Dockerfile": 14652,
+    "Handlebars": 4125,
+    "Shell": 3610,
+    "CSS": 150,
+    "Batchfile": 62,
+    "Sass": 1
+  },
+  "size": 14458086
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "5c8847105358e379c169e64cc81f4da2d17b4732",
+  "repo_url": "https://github.com/openclaw/crabbox",
+  "date": "2026-05-09T05:41:30",
+  "languages": {
+    "Go": 1275175,
+    "TypeScript": 608712,
+    "JavaScript": 57015,
+    "Shell": 11398
+  },
+  "size": 1952300
+}

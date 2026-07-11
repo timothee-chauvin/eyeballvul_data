@@ -1,0 +1,25 @@
+{
+  "commit": "8b8b7364f8735a1ed64d367319581674a949d0c5",
+  "repo_url": "https://github.com/x-wrt/luci",
+  "date": "2023-03-05T02:59:48",
+  "languages": {
+    "JavaScript": 2235399,
+    "C": 1709998,
+    "Lua": 1093360,
+    "HTML": 455437,
+    "CSS": 200541,
+    "Makefile": 145552,
+    "Shell": 97268,
+    "UnrealScript": 71720,
+    "Perl": 57773,
+    "Java": 49574,
+    "C#": 42820,
+    "Visual Basic .NET": 33030,
+    "Yacc": 17409,
+    "Lex": 7173,
+    "CMake": 1240,
+    "Python": 1165,
+    "Terra": 499
+  },
+  "size": 6219958
+}

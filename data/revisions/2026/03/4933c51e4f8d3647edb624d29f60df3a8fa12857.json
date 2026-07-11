@@ -1,0 +1,12 @@
+{
+  "commit": "4933c51e4f8d3647edb624d29f60df3a8fa12857",
+  "repo_url": "https://github.com/anyproto/anytype-cli",
+  "date": "2026-03-09T22:20:27",
+  "languages": {
+    "Go": 121189,
+    "Shell": 7511,
+    "Makefile": 6150,
+    "Dockerfile": 2032
+  },
+  "size": 136882
+}

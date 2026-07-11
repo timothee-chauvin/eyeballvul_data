@@ -1,0 +1,15 @@
+{
+  "commit": "7a3637ff5a800b8bcbad20ae7f668d8c8449b014",
+  "repo_url": "https://github.com/upx/upx",
+  "date": "2018-08-26T02:58:09",
+  "languages": {
+    "C": 6291087,
+    "C++": 1351398,
+    "Assembly": 1192040,
+    "Makefile": 72901,
+    "Python": 53121,
+    "AGS Script": 52084,
+    "Shell": 3739
+  },
+  "size": 9016370
+}

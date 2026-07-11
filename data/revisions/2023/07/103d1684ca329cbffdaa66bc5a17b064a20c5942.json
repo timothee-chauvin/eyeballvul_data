@@ -1,0 +1,19 @@
+{
+  "commit": "103d1684ca329cbffdaa66bc5a17b064a20c5942",
+  "repo_url": "https://github.com/owncast/owncast",
+  "date": "2023-07-28T12:26:39",
+  "languages": {
+    "TypeScript": 720660,
+    "Go": 691616,
+    "JavaScript": 115610,
+    "MDX": 58141,
+    "SCSS": 41060,
+    "CSS": 36940,
+    "Shell": 25736,
+    "Less": 9447,
+    "Earthly": 5473,
+    "Dockerfile": 1316,
+    "VCL": 816
+  },
+  "size": 1706815
+}

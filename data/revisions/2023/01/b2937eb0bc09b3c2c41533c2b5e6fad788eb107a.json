@@ -1,0 +1,22 @@
+{
+  "commit": "b2937eb0bc09b3c2c41533c2b5e6fad788eb107a",
+  "repo_url": "https://github.com/opnsense/core",
+  "date": "2023-01-25T09:40:07",
+  "languages": {
+    "PHP": 6234458,
+    "JavaScript": 850781,
+    "Volt": 775912,
+    "Python": 695019,
+    "SCSS": 229905,
+    "CSS": 217757,
+    "Shell": 187864,
+    "HTML": 55497,
+    "Makefile": 24424,
+    "Roff": 21410,
+    "Perl": 3686,
+    "Lua": 1891,
+    "D": 1724,
+    "Less": 294
+  },
+  "size": 9300622
+}

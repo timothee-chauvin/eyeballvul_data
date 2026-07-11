@@ -1,0 +1,19 @@
+{
+  "commit": "0364041b95ac1245577d4750d2751cfb04dbb4c7",
+  "repo_url": "https://github.com/icinga/icinga2",
+  "date": "2020-11-24T14:37:34",
+  "languages": {
+    "C++": 2784772,
+    "CMake": 83114,
+    "PLpgSQL": 71074,
+    "Yacc": 44420,
+    "C#": 23195,
+    "Shell": 19948,
+    "Vim Script": 17138,
+    "LLVM": 11914,
+    "PowerShell": 9445,
+    "Python": 1943,
+    "C": 1367
+  },
+  "size": 3068330
+}

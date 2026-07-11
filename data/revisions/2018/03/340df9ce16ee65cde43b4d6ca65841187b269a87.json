@@ -1,0 +1,16 @@
+{
+  "commit": "340df9ce16ee65cde43b4d6ca65841187b269a87",
+  "repo_url": "https://github.com/leanote/leanote",
+  "date": "2018-03-08T03:21:05",
+  "languages": {
+    "JavaScript": 9709051,
+    "Go": 681213,
+    "CSS": 612739,
+    "Less": 552776,
+    "HTML": 389205,
+    "SCSS": 55558,
+    "Shell": 4979,
+    "Batchfile": 568
+  },
+  "size": 12006089
+}

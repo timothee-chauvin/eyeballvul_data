@@ -1,0 +1,17 @@
+{
+  "commit": "945c3ef2de54ad20f1d40c6c6ddce690a417a87a",
+  "repo_url": "https://github.com/zaproxy/zaproxy",
+  "date": "2022-03-14T10:12:11",
+  "languages": {
+    "Java": 11705695,
+    "HTML": 3964026,
+    "Python": 157217,
+    "JavaScript": 9841,
+    "Shell": 8370,
+    "Lex": 5179,
+    "Perl": 3832,
+    "XSLT": 3054,
+    "Kotlin": 2684
+  },
+  "size": 15859898
+}

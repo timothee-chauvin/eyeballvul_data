@@ -1,0 +1,16 @@
+{
+  "commit": "b9ba8792dd2edce1c0eb2e3dc577c1818b086eb5",
+  "repo_url": "https://github.com/slajerek/retrodebugger",
+  "date": "2024-12-24T20:37:49",
+  "languages": {
+    "C": 41726439,
+    "C++": 7236108,
+    "Assembly": 129187,
+    "CMake": 107565,
+    "SWIG": 57642,
+    "Ruby": 37519,
+    "JavaScript": 4054,
+    "Shell": 781
+  },
+  "size": 49299295
+}

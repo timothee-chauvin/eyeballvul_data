@@ -1,0 +1,11 @@
+{
+  "commit": "1bc4916d66db5f19a023092959515114e7a55a97",
+  "repo_url": "https://github.com/pretix/pretix-widget-wordpress",
+  "date": "2024-02-14T07:21:52",
+  "languages": {
+    "PHP": 79802,
+    "JavaScript": 15529,
+    "CSS": 5446
+  },
+  "size": 100777
+}

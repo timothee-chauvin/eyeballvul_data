@@ -1,0 +1,14 @@
+{
+  "commit": "8508af42c695f9848c1a35d8284bb7992260ff6c",
+  "repo_url": "https://github.com/gerstrong/commander-genius",
+  "date": "2020-06-28T17:06:39",
+  "languages": {
+    "C++": 4767328,
+    "C": 1309211,
+    "CMake": 248237,
+    "Shell": 8758,
+    "Python": 6809,
+    "Objective-C": 6380
+  },
+  "size": 6346723
+}

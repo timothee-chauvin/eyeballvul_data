@@ -1,0 +1,19 @@
+{
+  "commit": "a64f4dd413377f002c074761d451f4ef61153ea4",
+  "repo_url": "https://github.com/bitwarden/server",
+  "date": "2020-06-29T14:17:09",
+  "languages": {
+    "C#": 1582732,
+    "TSQL": 531113,
+    "Handlebars": 90347,
+    "HTML": 64958,
+    "Shell": 33181,
+    "PowerShell": 13671,
+    "PLpgSQL": 9508,
+    "Dockerfile": 4979,
+    "JavaScript": 2293,
+    "SCSS": 928,
+    "CSS": 258
+  },
+  "size": 2333968
+}

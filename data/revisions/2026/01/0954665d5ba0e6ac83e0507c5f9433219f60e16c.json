@@ -1,0 +1,16 @@
+{
+  "commit": "0954665d5ba0e6ac83e0507c5f9433219f60e16c",
+  "repo_url": "https://github.com/linuxdeepin/dde-control-center",
+  "date": "2026-01-23T02:20:02",
+  "languages": {
+    "C++": 2013140,
+    "QML": 960511,
+    "HTML": 45964,
+    "CMake": 39957,
+    "C": 4995,
+    "Shell": 2924,
+    "JavaScript": 1223,
+    "CSS": 497
+  },
+  "size": 3069211
+}

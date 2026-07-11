@@ -1,0 +1,14 @@
+{
+  "commit": "8d99e54427774ff2b7ea8a32008c49e6a0ab4e88",
+  "repo_url": "https://github.com/michaelrsweet/codedoc",
+  "date": "2024-03-23T01:55:19",
+  "languages": {
+    "C": 314403,
+    "C++": 9991,
+    "M4": 7175,
+    "Shell": 5997,
+    "Roff": 4185,
+    "Makefile": 3485
+  },
+  "size": 345236
+}

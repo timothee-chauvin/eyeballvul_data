@@ -1,0 +1,13 @@
+{
+  "commit": "875ed27ad949c7a5e6db90cc8700761e8602a636",
+  "repo_url": "https://github.com/vuestorefront/vue-storefront-api",
+  "date": "2019-12-20T13:21:37",
+  "languages": {
+    "JavaScript": 171549,
+    "TypeScript": 11330,
+    "Dockerfile": 858,
+    "Shell": 106,
+    "Procfile": 15
+  },
+  "size": 183858
+}

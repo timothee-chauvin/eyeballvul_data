@@ -1,0 +1,21 @@
+{
+  "commit": "1a887969548b58e77f7853fedca922fc1cb5c6aa",
+  "repo_url": "https://github.com/ruvnet/ruflo",
+  "date": "2026-06-30T02:43:58",
+  "languages": {
+    "TypeScript": 21934481,
+    "JavaScript": 2843159,
+    "Shell": 1107897,
+    "Svelte": 395174,
+    "Rust": 153454,
+    "PLpgSQL": 120942,
+    "Dockerfile": 14604,
+    "PowerShell": 14271,
+    "HTML": 10589,
+    "CSS": 9895,
+    "Batchfile": 3366,
+    "Makefile": 2818,
+    "Smarty": 534
+  },
+  "size": 26611184
+}

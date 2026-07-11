@@ -1,0 +1,17 @@
+{
+  "commit": "1e535ff309c2bf6d4a74d176944353da97b9bed5",
+  "repo_url": "https://github.com/antiwork/gumroad",
+  "date": "2026-07-06T12:49:37",
+  "languages": {
+    "Ruby": 21626489,
+    "TypeScript": 3926507,
+    "HTML": 1529567,
+    "Shell": 65080,
+    "SCSS": 33523,
+    "JavaScript": 22618,
+    "Makefile": 9922,
+    "Dockerfile": 8023,
+    "CSS": 5888
+  },
+  "size": 27227617
+}

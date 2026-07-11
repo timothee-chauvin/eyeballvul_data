@@ -1,0 +1,15 @@
+{
+  "commit": "191170923a459afa003c846bd8501190a14f52d5",
+  "repo_url": "https://github.com/documenso/documenso",
+  "date": "2026-05-13T12:21:57",
+  "languages": {
+    "TypeScript": 10087242,
+    "MDX": 867913,
+    "JavaScript": 39012,
+    "Shell": 17764,
+    "CSS": 15713,
+    "PLpgSQL": 5293,
+    "Dockerfile": 4825
+  },
+  "size": 11037762
+}

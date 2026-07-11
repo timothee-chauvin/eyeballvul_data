@@ -1,0 +1,17 @@
+{
+  "commit": "06b79b3860c92b58d2e2b677138f0ffa03dd213b",
+  "repo_url": "https://github.com/sagredo-dev/qmail",
+  "date": "2026-04-02T18:45:53",
+  "languages": {
+    "C": 909787,
+    "Roff": 191919,
+    "Shell": 119030,
+    "C++": 114210,
+    "Makefile": 76237,
+    "Perl": 31858,
+    "Python": 26353,
+    "HTML": 11392,
+    "GAP": 464
+  },
+  "size": 1481250
+}

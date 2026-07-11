@@ -1,0 +1,17 @@
+{
+  "commit": "1d928bffdb65e827c3e7d17ece0e123b4a70ec6c",
+  "repo_url": "https://github.com/libsndfile/libsndfile",
+  "date": "2017-04-02T08:52:51",
+  "languages": {
+    "C": 2134450,
+    "Smarty": 176642,
+    "M4": 53886,
+    "Python": 41744,
+    "C++": 41526,
+    "Shell": 30464,
+    "Makefile": 23620,
+    "CMake": 22245,
+    "MATLAB": 6242
+  },
+  "size": 2530819
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "915065c1f155006587e8f62ed0e23a991db9973c",
+  "repo_url": "https://github.com/falktx/cadence",
+  "date": "2019-11-17T20:34:05",
+  "languages": {
+    "C": 2163160,
+    "Python": 752527,
+    "C++": 294045,
+    "Shell": 18335,
+    "Makefile": 16355,
+    "QMake": 1145
+  },
+  "size": 3245567
+}

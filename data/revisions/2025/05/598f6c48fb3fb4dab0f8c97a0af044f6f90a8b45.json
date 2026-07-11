@@ -1,0 +1,16 @@
+{
+  "commit": "598f6c48fb3fb4dab0f8c97a0af044f6f90a8b45",
+  "repo_url": "https://github.com/yangjian102621/geekai",
+  "date": "2025-05-29T03:39:55",
+  "languages": {
+    "Vue": 821812,
+    "Go": 527311,
+    "Stylus": 121530,
+    "JavaScript": 82197,
+    "CSS": 62103,
+    "Shell": 10418,
+    "HTML": 1219,
+    "Makefile": 341
+  },
+  "size": 1626931
+}

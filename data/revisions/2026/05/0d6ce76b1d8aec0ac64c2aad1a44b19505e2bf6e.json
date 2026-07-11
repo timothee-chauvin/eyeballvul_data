@@ -1,0 +1,13 @@
+{
+  "commit": "0d6ce76b1d8aec0ac64c2aad1a44b19505e2bf6e",
+  "repo_url": "https://github.com/cloakhq/cloakbrowser",
+  "date": "2026-05-06T16:32:41",
+  "languages": {
+    "Python": 490320,
+    "TypeScript": 403446,
+    "JavaScript": 30204,
+    "Dockerfile": 1784,
+    "Shell": 269
+  },
+  "size": 926023
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "5d8e9823d4e07d086a39675d8964b42e6a4dd338",
+  "repo_url": "https://github.com/microsoft/ufo",
+  "date": "2025-11-09T10:47:59",
+  "languages": {
+    "Python": 3927601,
+    "TypeScript": 156034,
+    "CSS": 5043,
+    "JavaScript": 3454,
+    "HTML": 592
+  },
+  "size": 4092724
+}

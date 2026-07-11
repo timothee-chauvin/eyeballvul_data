@@ -1,0 +1,15 @@
+{
+  "commit": "58bdcf0ce35594df30bf5cfbba3be8b454799cc0",
+  "repo_url": "https://github.com/quickjs-ng/quickjs",
+  "date": "2026-02-12T21:13:02",
+  "languages": {
+    "C": 3137643,
+    "JavaScript": 214060,
+    "CMake": 17369,
+    "Meson": 15756,
+    "Makefile": 4690,
+    "Shell": 483,
+    "C++": 94
+  },
+  "size": 3390095
+}

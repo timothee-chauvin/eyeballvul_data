@@ -1,0 +1,20 @@
+{
+  "commit": "a7aba3f61d235809a471132e4baa67f3bbed76a2",
+  "repo_url": "https://github.com/jdx/mise",
+  "date": "2026-03-13T18:39:53",
+  "languages": {
+    "Rust": 3620727,
+    "Shell": 812533,
+    "Lua": 195214,
+    "TypeScript": 140212,
+    "PowerShell": 27814,
+    "Python": 17189,
+    "Xonsh": 5036,
+    "Dockerfile": 2836,
+    "Nix": 2647,
+    "Ruby": 1553,
+    "JavaScript": 1294,
+    "Batchfile": 15
+  },
+  "size": 4827070
+}

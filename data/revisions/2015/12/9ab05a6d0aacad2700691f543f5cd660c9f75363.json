@@ -1,0 +1,11 @@
+{
+  "commit": "9ab05a6d0aacad2700691f543f5cd660c9f75363",
+  "repo_url": "https://github.com/cloudfoundry/java-buildpack",
+  "date": "2015-12-03T11:53:57",
+  "languages": {
+    "Ruby": 543054,
+    "Shell": 2292,
+    "Python": 2151
+  },
+  "size": 547497
+}

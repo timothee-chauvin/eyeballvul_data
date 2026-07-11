@@ -1,0 +1,16 @@
+{
+  "commit": "0845233a630a1f4224a83ae870b2d6141f978059",
+  "repo_url": "https://github.com/netblue30/firejail",
+  "date": "2022-02-06T13:02:38",
+  "languages": {
+    "C": 1210880,
+    "Shell": 94255,
+    "Python": 23890,
+    "Makefile": 22639,
+    "M4": 13291,
+    "Vim Script": 12987,
+    "Awk": 1525,
+    "Perl": 769
+  },
+  "size": 1380236
+}

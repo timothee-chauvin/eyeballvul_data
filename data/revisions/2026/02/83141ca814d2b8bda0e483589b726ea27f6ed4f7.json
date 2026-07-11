@@ -1,0 +1,20 @@
+{
+  "commit": "83141ca814d2b8bda0e483589b726ea27f6ed4f7",
+  "repo_url": "https://github.com/aces/loris",
+  "date": "2026-02-27T18:06:20",
+  "languages": {
+    "PHP": 5721312,
+    "JavaScript": 1952799,
+    "TypeScript": 679642,
+    "Smarty": 231215,
+    "CSS": 127224,
+    "Shell": 20931,
+    "Makefile": 13353,
+    "Python": 7933,
+    "GLSL": 2363,
+    "HTML": 1750,
+    "Nix": 426,
+    "Procfile": 43
+  },
+  "size": 8758991
+}

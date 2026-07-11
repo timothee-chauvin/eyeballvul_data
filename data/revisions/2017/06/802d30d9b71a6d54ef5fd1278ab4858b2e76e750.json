@@ -1,0 +1,23 @@
+{
+  "commit": "802d30d9b71a6d54ef5fd1278ab4858b2e76e750",
+  "repo_url": "https://github.com/torproject/tor",
+  "date": "2017-06-08T13:35:17",
+  "languages": {
+    "C": 13128351,
+    "Python": 215335,
+    "C++": 148031,
+    "M4": 89013,
+    "Shell": 49048,
+    "Perl": 17456,
+    "Makefile": 14735,
+    "SourcePawn": 7703,
+    "HTML": 6666,
+    "q": 5584,
+    "PHP": 3641,
+    "Lua": 3321,
+    "Ruby": 3216,
+    "SmPL": 1043,
+    "Gnuplot": 940
+  },
+  "size": 13694083
+}

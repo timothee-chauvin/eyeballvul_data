@@ -1,0 +1,15 @@
+{
+  "commit": "49ac8a6da399f27a9546d4f73640b7f86c24bac6",
+  "repo_url": "https://github.com/78/xiaozhi-esp32",
+  "date": "2026-04-17T18:12:02",
+  "languages": {
+    "C++": 2797423,
+    "C": 550046,
+    "Python": 242508,
+    "Roff": 102376,
+    "CMake": 50597,
+    "HTML": 5920,
+    "Shell": 134
+  },
+  "size": 3749004
+}

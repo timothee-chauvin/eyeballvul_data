@@ -1,0 +1,21 @@
+{
+  "commit": "6b79cb351d8f7bf71c1499b4a34a525c346790d5",
+  "repo_url": "https://github.com/atrodo/net-dropbear",
+  "date": "2020-03-21T14:51:07",
+  "languages": {
+    "C": 6143564,
+    "TeX": 439527,
+    "Perl": 79980,
+    "Makefile": 69888,
+    "Shell": 28949,
+    "M4": 22871,
+    "Python": 16641,
+    "Roff": 16209,
+    "XS": 12966,
+    "Java": 9511,
+    "HTML": 792,
+    "Assembly": 475,
+    "Raku": 218
+  },
+  "size": 6841591
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "ed1107b41a30e22047eecfb6dbc3be5e39829d5a",
+  "repo_url": "https://github.com/twin/gatus",
+  "date": "2026-05-19T23:52:26",
+  "languages": {
+    "Go": 1619841,
+    "Vue": 142974,
+    "JavaScript": 9321,
+    "HTML": 4465,
+    "CSS": 1788,
+    "Makefile": 870,
+    "Dockerfile": 806,
+    "Nix": 383
+  },
+  "size": 1780448
+}

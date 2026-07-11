@@ -1,0 +1,13 @@
+{
+  "commit": "678061bf0feb656ff7f036c476289128e0554722",
+  "repo_url": "https://github.com/bigbluebutton/bbb-playback",
+  "date": "2025-11-21T21:27:21",
+  "languages": {
+    "JavaScript": 179243,
+    "SCSS": 31356,
+    "HTML": 1801,
+    "Shell": 1005,
+    "Dockerfile": 508
+  },
+  "size": 213913
+}

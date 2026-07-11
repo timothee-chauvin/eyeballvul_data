@@ -1,0 +1,13 @@
+{
+  "commit": "2b7288960f15cef70e2d7ad3a751e0ffba1f52a5",
+  "repo_url": "https://github.com/apache/cordova-plugin-inappbrowser",
+  "date": "2023-11-10T10:16:38",
+  "languages": {
+    "Java": 75385,
+    "Objective-C": 69837,
+    "JavaScript": 53116,
+    "HTML": 6261,
+    "CSS": 3312
+  },
+  "size": 207911
+}

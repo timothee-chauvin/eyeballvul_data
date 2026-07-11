@@ -1,0 +1,13 @@
+{
+  "commit": "ceaea6a078025d4a7634d2646d27dde3f13b6f58",
+  "repo_url": "https://github.com/shopperlabs/shopper",
+  "date": "2026-04-17T17:19:09",
+  "languages": {
+    "PHP": 2083626,
+    "Blade": 785435,
+    "TypeScript": 43129,
+    "CSS": 18601,
+    "JavaScript": 11608
+  },
+  "size": 2942399
+}

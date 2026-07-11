@@ -1,0 +1,17 @@
+{
+  "commit": "fbe13adf4e078b4d94ca1576bfa6390d8df8a52d",
+  "repo_url": "https://github.com/heymrun/heym",
+  "date": "2026-05-09T13:56:04",
+  "languages": {
+    "Python": 2716405,
+    "Vue": 2218791,
+    "TypeScript": 466898,
+    "CSS": 23076,
+    "Shell": 17604,
+    "JavaScript": 16400,
+    "Dockerfile": 5455,
+    "HTML": 685,
+    "Mako": 594
+  },
+  "size": 5465908
+}

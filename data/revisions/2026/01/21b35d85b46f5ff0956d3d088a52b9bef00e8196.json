@@ -1,0 +1,15 @@
+{
+  "commit": "21b35d85b46f5ff0956d3d088a52b9bef00e8196",
+  "repo_url": "https://github.com/jupyter/nbconvert",
+  "date": "2026-01-29T16:37:30",
+  "languages": {
+    "Python": 491279,
+    "Jupyter Notebook": 367170,
+    "Jinja": 99421,
+    "CSS": 2400,
+    "Makefile": 682,
+    "Smarty": 257,
+    "JavaScript": 37
+  },
+  "size": 961246
+}

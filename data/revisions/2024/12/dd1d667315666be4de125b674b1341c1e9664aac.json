@@ -1,0 +1,17 @@
+{
+  "commit": "dd1d667315666be4de125b674b1341c1e9664aac",
+  "repo_url": "https://github.com/radvd-project/radvd",
+  "date": "2024-12-31T06:19:16",
+  "languages": {
+    "C": 232464,
+    "Roff": 34288,
+    "Shell": 29613,
+    "Yacc": 24598,
+    "M4": 7747,
+    "Makefile": 7283,
+    "Lex": 5147,
+    "HTML": 4412,
+    "Perl": 677
+  },
+  "size": 346229
+}

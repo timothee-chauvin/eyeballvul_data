@@ -1,0 +1,24 @@
+{
+  "commit": "5bb5c9e23d532cea40476fc0bd1d3008522792ba",
+  "repo_url": "https://github.com/project-chip/connectedhomeip",
+  "date": "2024-03-26T21:02:03",
+  "languages": {
+    "C++": 25015094,
+    "Kotlin": 8742572,
+    "Java": 7584907,
+    "Python": 4589719,
+    "C": 2337722,
+    "Objective-C": 1512839,
+    "Objective-C++": 965198,
+    "ZAP": 826827,
+    "Shell": 316125,
+    "CMake": 203625,
+    "Jinja": 120716,
+    "Dockerfile": 75887,
+    "Swift": 28248,
+    "JavaScript": 2484,
+    "Emacs Lisp": 1042,
+    "Tcl": 311
+  },
+  "size": 52323316
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "0943dc576a06aa77c373744dab622bf1ac3ad9ee",
+  "repo_url": "https://github.com/kde/plasma-workspace",
+  "date": "2015-08-06T09:58:04",
+  "languages": {
+    "C++": 3871901,
+    "QML": 538869,
+    "CMake": 151289,
+    "C": 56255,
+    "Shell": 49238,
+    "JavaScript": 30611,
+    "Perl": 531
+  },
+  "size": 4698694
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "eabf8e7a86297c470280d0eaad67ff8b89b6e0ba",
+  "repo_url": "https://github.com/perryts/perry",
+  "date": "2026-06-11T10:00:13",
+  "languages": {
+    "Rust": 35630139,
+    "TypeScript": 4813950,
+    "Shell": 711948,
+    "Python": 633390,
+    "JavaScript": 401241,
+    "Kotlin": 223382,
+    "HTML": 131026,
+    "Swift": 34743,
+    "C++": 18281,
+    "PowerShell": 17621,
+    "Zig": 12153,
+    "Go": 10403,
+    "Java": 6774,
+    "Dockerfile": 2328,
+    "Ruby": 1603
+  },
+  "size": 42648982
+}

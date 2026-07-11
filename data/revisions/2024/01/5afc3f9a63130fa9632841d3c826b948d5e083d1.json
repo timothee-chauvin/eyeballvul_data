@@ -1,0 +1,15 @@
+{
+  "commit": "5afc3f9a63130fa9632841d3c826b948d5e083d1",
+  "repo_url": "https://github.com/apache/opennlp",
+  "date": "2024-01-31T14:27:02",
+  "languages": {
+    "Java": 4410605,
+    "HTML": 23562,
+    "Batchfile": 7474,
+    "Shell": 5834,
+    "CSS": 1740,
+    "XSLT": 1286,
+    "Dockerfile": 180
+  },
+  "size": 4450681
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "cd3fa4558deab9fb377c9761c8d836ce3e0aaa16",
+  "repo_url": "https://github.com/zowe/zowe-cli",
+  "date": "2024-03-05T21:12:50",
+  "languages": {
+    "TypeScript": 10002290,
+    "Shell": 193515,
+    "Rust": 115383,
+    "JavaScript": 76847,
+    "JCL": 4790,
+    "HTML": 2191,
+    "Batchfile": 50
+  },
+  "size": 10395066
+}

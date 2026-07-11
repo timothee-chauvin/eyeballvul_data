@@ -1,0 +1,19 @@
+{
+  "commit": "1b00e27281b459d27bbd9dc70099a292709ffb54",
+  "repo_url": "https://github.com/moodle/moodle",
+  "date": "2016-12-02T15:19:10",
+  "languages": {
+    "PHP": 73847440,
+    "JavaScript": 14677837,
+    "Gherkin": 2472009,
+    "CSS": 1607727,
+    "Mustache": 677069,
+    "Less": 448851,
+    "SCSS": 394002,
+    "HTML": 364080,
+    "XSLT": 33489,
+    "Perl": 20769,
+    "Hack": 383
+  },
+  "size": 94543656
+}

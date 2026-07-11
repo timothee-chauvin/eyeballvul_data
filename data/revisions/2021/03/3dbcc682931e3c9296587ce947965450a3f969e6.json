@@ -1,0 +1,11 @@
+{
+  "commit": "3dbcc682931e3c9296587ce947965450a3f969e6",
+  "repo_url": "https://github.com/ruby/rubygems",
+  "date": "2021-03-19T09:25:23",
+  "languages": {
+    "Ruby": 4029730,
+    "Roff": 115150,
+    "Shell": 2336
+  },
+  "size": 4147216
+}

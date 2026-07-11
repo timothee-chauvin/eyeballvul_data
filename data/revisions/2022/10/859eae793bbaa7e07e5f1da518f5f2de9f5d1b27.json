@@ -1,0 +1,16 @@
+{
+  "commit": "859eae793bbaa7e07e5f1da518f5f2de9f5d1b27",
+  "repo_url": "https://github.com/ltb-project/self-service-password",
+  "date": "2022-10-06T09:23:13",
+  "languages": {
+    "PHP": 493211,
+    "Smarty": 33093,
+    "JavaScript": 4561,
+    "Shell": 1889,
+    "Dockerfile": 1569,
+    "CSS": 1052,
+    "Perl": 993,
+    "Makefile": 401
+  },
+  "size": 536769
+}

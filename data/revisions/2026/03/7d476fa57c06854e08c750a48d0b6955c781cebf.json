@@ -1,0 +1,16 @@
+{
+  "commit": "7d476fa57c06854e08c750a48d0b6955c781cebf",
+  "repo_url": "https://github.com/assafelovic/gpt-researcher",
+  "date": "2026-03-13T09:12:54",
+  "languages": {
+    "Python": 714767,
+    "TypeScript": 361538,
+    "JavaScript": 91982,
+    "CSS": 81503,
+    "HCL": 24833,
+    "HTML": 23371,
+    "Dockerfile": 4500,
+    "Procfile": 146
+  },
+  "size": 1302640
+}

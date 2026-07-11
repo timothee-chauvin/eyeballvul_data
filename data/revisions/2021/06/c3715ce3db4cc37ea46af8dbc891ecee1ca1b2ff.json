@@ -1,0 +1,12 @@
+{
+  "commit": "c3715ce3db4cc37ea46af8dbc891ecee1ca1b2ff",
+  "repo_url": "https://github.com/ccxvii/mujs",
+  "date": "2021-06-08T11:41:51",
+  "languages": {
+    "C": 408073,
+    "JavaScript": 4302,
+    "Makefile": 3871,
+    "Shell": 3342
+  },
+  "size": 419588
+}

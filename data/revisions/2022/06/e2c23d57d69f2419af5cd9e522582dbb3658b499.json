@@ -1,0 +1,15 @@
+{
+  "commit": "e2c23d57d69f2419af5cd9e522582dbb3658b499",
+  "repo_url": "https://github.com/imapsync/imapsync",
+  "date": "2022-06-01T15:48:05",
+  "languages": {
+    "Perl": 808320,
+    "Shell": 313996,
+    "JavaScript": 113070,
+    "HTML": 87316,
+    "Makefile": 37011,
+    "Python": 12616,
+    "CSS": 5899
+  },
+  "size": 1378228
+}

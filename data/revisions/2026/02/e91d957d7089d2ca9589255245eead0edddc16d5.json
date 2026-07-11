@@ -1,0 +1,19 @@
+{
+  "commit": "e91d957d7089d2ca9589255245eead0edddc16d5",
+  "repo_url": "https://github.com/openclaw/openclaw",
+  "date": "2026-02-14T03:31:32",
+  "languages": {
+    "TypeScript": 19883383,
+    "Swift": 2888935,
+    "Kotlin": 408397,
+    "Shell": 219055,
+    "CSS": 113017,
+    "JavaScript": 87598,
+    "Go": 49611,
+    "Python": 45334,
+    "HTML": 25310,
+    "Dockerfile": 4286,
+    "Ruby": 3025
+  },
+  "size": 23727951
+}

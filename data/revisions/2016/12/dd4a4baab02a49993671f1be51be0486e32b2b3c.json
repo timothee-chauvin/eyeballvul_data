@@ -1,0 +1,29 @@
+{
+  "commit": "dd4a4baab02a49993671f1be51be0486e32b2b3c",
+  "repo_url": "https://github.com/cygwin/cygwin",
+  "date": "2016-12-15T17:23:27",
+  "languages": {
+    "C": 39809815,
+    "Makefile": 5719174,
+    "C++": 4276507,
+    "Assembly": 2206756,
+    "M4": 457484,
+    "TeX": 401263,
+    "Shell": 376780,
+    "Perl": 130832,
+    "Roff": 84463,
+    "Python": 24142,
+    "Emacs Lisp": 21698,
+    "RPC": 14359,
+    "Scala": 8638,
+    "Yacc": 8101,
+    "XSLT": 5385,
+    "Mathematica": 3483,
+    "Batchfile": 1875,
+    "GDB": 1300,
+    "DIGITAL Command Language": 1044,
+    "Awk": 570,
+    "Tcl": 123
+  },
+  "size": 53553792
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "129f7160822c6bcae3d12fc302cfe99a1d5eee5f",
+  "repo_url": "https://github.com/dokuwiki/dokuwiki",
+  "date": "2022-09-03T16:58:24",
+  "languages": {
+    "PHP": 6684101,
+    "JavaScript": 184334,
+    "CSS": 85173,
+    "HTML": 83882,
+    "Less": 51512,
+    "Shell": 1927
+  },
+  "size": 7090929
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "0103b2c0049e24b043b94831e654d29499c1ba8c",
+  "repo_url": "https://github.com/coder/code-marketplace",
+  "date": "2025-12-10T03:27:37",
+  "languages": {
+    "Go": 204308,
+    "Shell": 5361,
+    "Smarty": 1872,
+    "Makefile": 1839,
+    "Nix": 507,
+    "Dockerfile": 338,
+    "HCL": 246
+  },
+  "size": 214471
+}

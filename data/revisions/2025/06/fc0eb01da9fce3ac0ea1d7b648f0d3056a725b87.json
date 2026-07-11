@@ -1,0 +1,14 @@
+{
+  "commit": "fc0eb01da9fce3ac0ea1d7b648f0d3056a725b87",
+  "repo_url": "https://gitlab.com/ikus-soft/rdiffweb",
+  "date": "2025-06-13T18:06:44",
+  "languages": {
+    "Python": 948575,
+    "HTML": 107893,
+    "JavaScript": 7654,
+    "Shell": 3946,
+    "CSS": 3081,
+    "Dockerfile": 686
+  },
+  "size": 1071835
+}

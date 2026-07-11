@@ -1,0 +1,12 @@
+{
+  "commit": "fc12656a1a62e5d69430bba6e4feb8cfbaf21542",
+  "repo_url": "https://github.com/lightningnetwork/lnd",
+  "date": "2020-08-14T02:42:02",
+  "languages": {
+    "Go": 9718180,
+    "Shell": 20817,
+    "Makefile": 11313,
+    "Dockerfile": 5751
+  },
+  "size": 9756061
+}

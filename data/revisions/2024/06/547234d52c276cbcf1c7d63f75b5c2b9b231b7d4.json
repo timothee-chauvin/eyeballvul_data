@@ -1,0 +1,15 @@
+{
+  "commit": "547234d52c276cbcf1c7d63f75b5c2b9b231b7d4",
+  "repo_url": "https://github.com/dayrui/xunruicms",
+  "date": "2024-06-26T10:01:59",
+  "languages": {
+    "PHP": 5149909,
+    "JavaScript": 1348698,
+    "HTML": 907876,
+    "CSS": 549479,
+    "Smarty": 10072,
+    "Less": 2049,
+    "Hack": 322
+  },
+  "size": 7968405
+}

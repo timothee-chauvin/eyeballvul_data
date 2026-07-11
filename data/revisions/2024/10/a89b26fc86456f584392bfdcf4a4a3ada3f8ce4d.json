@@ -1,0 +1,13 @@
+{
+  "commit": "a89b26fc86456f584392bfdcf4a4a3ada3f8ce4d",
+  "repo_url": "https://github.com/publishpress/publishpress-revisions",
+  "date": "2024-10-08T19:13:16",
+  "languages": {
+    "PHP": 667946,
+    "JavaScript": 57914,
+    "CSS": 27190,
+    "Shell": 2713,
+    "Dockerfile": 116
+  },
+  "size": 755879
+}

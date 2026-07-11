@@ -1,0 +1,19 @@
+{
+  "commit": "0d12a13d6a39d5b9dc21c5efd4e29c4ca05e6128",
+  "repo_url": "https://github.com/ctfd/ctfd",
+  "date": "2024-10-08T18:07:56",
+  "languages": {
+    "Python": 1232986,
+    "JavaScript": 525035,
+    "HTML": 397381,
+    "Vue": 82868,
+    "SCSS": 53170,
+    "Shell": 2771,
+    "Makefile": 1478,
+    "CSS": 1393,
+    "Dockerfile": 1300,
+    "Nunjucks": 709,
+    "Mako": 494
+  },
+  "size": 2299585
+}

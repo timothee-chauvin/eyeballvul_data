@@ -1,0 +1,20 @@
+{
+  "commit": "12156ab7d8c1239f1f935fce86ba207064176979",
+  "repo_url": "https://github.com/hatchet-dev/hatchet",
+  "date": "2026-04-22T19:09:32",
+  "languages": {
+    "Go": 3936079,
+    "Python": 3536682,
+    "TypeScript": 3131632,
+    "Ruby": 2517407,
+    "MDX": 838471,
+    "PLpgSQL": 470606,
+    "Shell": 80157,
+    "JavaScript": 44382,
+    "CSS": 21862,
+    "HTML": 16125,
+    "Dockerfile": 9029,
+    "Makefile": 2710
+  },
+  "size": 14605142
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "1a2c0d2c4c25e54fe52833b82bc7b15b3d5036ce",
+  "repo_url": "https://github.com/elecv2/elecv2p",
+  "date": "2025-10-04T10:06:20",
+  "languages": {
+    "Vue": 413157,
+    "JavaScript": 393828,
+    "Python": 18499,
+    "CSS": 18355,
+    "HTML": 2706,
+    "Shell": 783,
+    "Dockerfile": 354
+  },
+  "size": 847682
+}

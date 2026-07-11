@@ -1,0 +1,22 @@
+{
+  "commit": "4c4c7151c8a5953a6afc1e926c0bbb9e4e1893de",
+  "repo_url": "https://github.com/siliconlabs/simplicity_sdk",
+  "date": "2025-07-22T17:23:36",
+  "languages": {
+    "C": 313163865,
+    "Python": 104842577,
+    "ZAP": 1735858,
+    "C++": 841977,
+    "Jinja": 668218,
+    "Assembly": 535050,
+    "Lua": 175645,
+    "HTML": 166733,
+    "Shell": 95166,
+    "Makefile": 94939,
+    "CMake": 80266,
+    "Batchfile": 17218,
+    "PowerShell": 13795,
+    "JavaScript": 4908
+  },
+  "size": 422436215
+}

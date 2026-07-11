@@ -1,0 +1,17 @@
+{
+  "commit": "880385029d28d25b3d52c518680cf8ce8b174b91",
+  "repo_url": "https://github.com/formbricks/formbricks",
+  "date": "2026-05-25T07:03:16",
+  "languages": {
+    "TypeScript": 12315562,
+    "Shell": 118264,
+    "JavaScript": 61532,
+    "CSS": 30567,
+    "Smarty": 16015,
+    "MDX": 11296,
+    "PLpgSQL": 8418,
+    "Dockerfile": 6766,
+    "HTML": 304
+  },
+  "size": 12568724
+}

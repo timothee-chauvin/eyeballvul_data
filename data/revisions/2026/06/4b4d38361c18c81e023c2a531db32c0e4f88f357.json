@@ -1,0 +1,15 @@
+{
+  "commit": "4b4d38361c18c81e023c2a531db32c0e4f88f357",
+  "repo_url": "https://github.com/pnpm/pnpm",
+  "date": "2026-06-05T06:27:41",
+  "languages": {
+    "Rust": 7092420,
+    "TypeScript": 6464950,
+    "JavaScript": 62302,
+    "Shell": 17760,
+    "Just": 3273,
+    "Dockerfile": 1712,
+    "Batchfile": 372
+  },
+  "size": 13642789
+}

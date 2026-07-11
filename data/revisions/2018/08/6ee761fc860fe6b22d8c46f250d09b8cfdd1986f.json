@@ -1,0 +1,18 @@
+{
+  "commit": "6ee761fc860fe6b22d8c46f250d09b8cfdd1986f",
+  "repo_url": "https://github.com/qpdf/qpdf",
+  "date": "2018-08-18T14:56:19",
+  "languages": {
+    "C++": 1086591,
+    "Shell": 375670,
+    "Perl": 213621,
+    "C": 158712,
+    "Makefile": 23921,
+    "M4": 16194,
+    "PostScript": 2997,
+    "Roff": 2642,
+    "XSLT": 428,
+    "Dockerfile": 364
+  },
+  "size": 1881140
+}

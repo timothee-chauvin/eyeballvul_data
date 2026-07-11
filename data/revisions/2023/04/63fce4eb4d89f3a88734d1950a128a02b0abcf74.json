@@ -1,0 +1,22 @@
+{
+  "commit": "63fce4eb4d89f3a88734d1950a128a02b0abcf74",
+  "repo_url": "https://github.com/stackrox/stackrox",
+  "date": "2023-04-06T04:43:52",
+  "languages": {
+    "Go": 18278113,
+    "TypeScript": 3485105,
+    "JavaScript": 3199847,
+    "Groovy": 1261745,
+    "Shell": 631785,
+    "Smarty": 150984,
+    "Python": 85084,
+    "Makefile": 77392,
+    "CSS": 74943,
+    "Dockerfile": 9879,
+    "Tcl": 9026,
+    "XSLT": 1355,
+    "HTML": 1319,
+    "Java": 711
+  },
+  "size": 27267288
+}

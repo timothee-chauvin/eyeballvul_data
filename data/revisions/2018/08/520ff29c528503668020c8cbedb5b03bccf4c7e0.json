@@ -1,0 +1,15 @@
+{
+  "commit": "520ff29c528503668020c8cbedb5b03bccf4c7e0",
+  "repo_url": "https://github.com/ggreer/the_silver_searcher",
+  "date": "2018-08-07T06:43:51",
+  "languages": {
+    "C": 239400,
+    "Perl": 24924,
+    "M4": 16498,
+    "Shell": 9870,
+    "Raku": 1515,
+    "Makefile": 995,
+    "Python": 638
+  },
+  "size": 293840
+}

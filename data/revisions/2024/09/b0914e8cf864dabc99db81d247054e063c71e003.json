@@ -1,0 +1,13 @@
+{
+  "commit": "b0914e8cf864dabc99db81d247054e063c71e003",
+  "repo_url": "https://github.com/nicmx/fort-validator",
+  "date": "2024-09-23T19:34:19",
+  "languages": {
+    "C": 1286583,
+    "Makefile": 12519,
+    "M4": 1781,
+    "Dockerfile": 1297,
+    "Shell": 1124
+  },
+  "size": 1303304
+}

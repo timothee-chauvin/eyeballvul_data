@@ -1,0 +1,25 @@
+{
+  "commit": "26e5f7bbebc282fec2ef709b0fc54de478d2abd5",
+  "repo_url": "https://github.com/rustdesk/rustdesk",
+  "date": "2025-07-29T03:53:45",
+  "languages": {
+    "Rust": 4976577,
+    "Dart": 1941899,
+    "C++": 153110,
+    "C": 127929,
+    "Kotlin": 116811,
+    "Python": 73591,
+    "CMake": 71434,
+    "Shell": 30704,
+    "CSS": 30168,
+    "Objective-C++": 11065,
+    "NSIS": 7102,
+    "Swift": 6120,
+    "HTML": 3324,
+    "Ruby": 2742,
+    "AppleScript": 2440,
+    "Dockerfile": 1778,
+    "Objective-C": 68
+  },
+  "size": 7556862
+}

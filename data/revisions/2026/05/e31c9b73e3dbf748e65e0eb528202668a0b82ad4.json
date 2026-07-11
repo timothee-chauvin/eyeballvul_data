@@ -1,0 +1,13 @@
+{
+  "commit": "e31c9b73e3dbf748e65e0eb528202668a0b82ad4",
+  "repo_url": "https://github.com/aws/agentcore-cli",
+  "date": "2026-05-19T20:23:38",
+  "languages": {
+    "TypeScript": 5738778,
+    "Python": 126767,
+    "JavaScript": 27448,
+    "Shell": 9138,
+    "Dockerfile": 1566
+  },
+  "size": 5903697
+}

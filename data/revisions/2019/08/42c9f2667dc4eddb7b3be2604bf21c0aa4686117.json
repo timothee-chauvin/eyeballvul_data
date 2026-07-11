@@ -1,0 +1,12 @@
+{
+  "commit": "42c9f2667dc4eddb7b3be2604bf21c0aa4686117",
+  "repo_url": "https://github.com/labapart/gattlib",
+  "date": "2019-08-05T12:42:07",
+  "languages": {
+    "C": 1689047,
+    "Python": 44352,
+    "CMake": 18958,
+    "Shell": 296
+  },
+  "size": 1752653
+}

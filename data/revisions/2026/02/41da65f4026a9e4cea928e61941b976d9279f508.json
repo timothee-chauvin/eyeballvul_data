@@ -1,0 +1,16 @@
+{
+  "commit": "41da65f4026a9e4cea928e61941b976d9279f508",
+  "repo_url": "https://github.com/ettercap/ettercap",
+  "date": "2026-02-01T10:38:53",
+  "languages": {
+    "C": 2890167,
+    "CMake": 131351,
+    "Lua": 90928,
+    "1C Enterprise": 86704,
+    "NSIS": 16622,
+    "Yacc": 13849,
+    "Shell": 6590,
+    "Lex": 4021
+  },
+  "size": 3240232
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "8deebf6581c35bc00fb1aac4fb3a36406f2d8af2",
+  "repo_url": "https://github.com/apache/directory-ldap-api",
+  "date": "2018-04-29T16:45:18",
+  "languages": {
+    "Java": 11338150,
+    "GAP": 196983,
+    "HTML": 7709,
+    "Perl": 5243,
+    "XSLT": 1674
+  },
+  "size": 11549759
+}

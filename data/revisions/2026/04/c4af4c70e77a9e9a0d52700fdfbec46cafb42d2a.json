@@ -1,0 +1,19 @@
+{
+  "commit": "c4af4c70e77a9e9a0d52700fdfbec46cafb42d2a",
+  "repo_url": "https://github.com/shellhub-io/shellhub",
+  "date": "2026-04-08T19:33:26",
+  "languages": {
+    "TypeScript": 3302020,
+    "Go": 2616207,
+    "Vue": 806603,
+    "Shell": 37133,
+    "Dockerfile": 14228,
+    "JavaScript": 6223,
+    "CSS": 5100,
+    "Makefile": 4577,
+    "Lua": 2882,
+    "HTML": 2691,
+    "SCSS": 1362
+  },
+  "size": 6799026
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "5a499ca7b064bf7e6a4fcc169f22862dce0c60c5",
+  "repo_url": "https://github.com/mirror/libx11",
+  "date": "2015-03-09T22:28:29",
+  "languages": {
+    "C": 5257470,
+    "Makefile": 31793,
+    "M4": 18180,
+    "Perl": 14688,
+    "Shell": 455
+  },
+  "size": 5322586
+}

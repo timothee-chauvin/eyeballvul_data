@@ -1,0 +1,15 @@
+{
+  "commit": "8d396b6129e2c9ea66cbee3455b7924219dd01c9",
+  "repo_url": "https://github.com/koodo-reader/koodo-reader",
+  "date": "2026-03-09T04:24:13",
+  "languages": {
+    "JavaScript": 3543332,
+    "TypeScript": 1108824,
+    "CSS": 145208,
+    "Shell": 3609,
+    "Dockerfile": 1868,
+    "HTML": 1802,
+    "NSIS": 264
+  },
+  "size": 4804907
+}

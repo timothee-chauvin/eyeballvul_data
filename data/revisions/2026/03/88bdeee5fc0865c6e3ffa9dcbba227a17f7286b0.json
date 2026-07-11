@@ -1,0 +1,17 @@
+{
+  "commit": "88bdeee5fc0865c6e3ffa9dcbba227a17f7286b0",
+  "repo_url": "https://github.com/microsoft/symcrypt",
+  "date": "2026-03-25T00:38:38",
+  "languages": {
+    "C": 4212261,
+    "C++": 2466539,
+    "Python": 120910,
+    "Assembly": 88909,
+    "CMake": 66283,
+    "Pawn": 5898,
+    "PowerShell": 2866,
+    "Batchfile": 65,
+    "Makefile": 21
+  },
+  "size": 6963752
+}

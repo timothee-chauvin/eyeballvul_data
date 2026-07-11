@@ -1,0 +1,23 @@
+{
+  "commit": "8bbe72075e4e16442c4e28d999edee12e294329e",
+  "repo_url": "https://github.com/ethereum/go-ethereum",
+  "date": "2018-10-09T07:35:31",
+  "languages": {
+    "Go": 9350799,
+    "C": 673788,
+    "JavaScript": 476657,
+    "Assembly": 47061,
+    "Java": 30290,
+    "Sage": 30192,
+    "M4": 25931,
+    "NSIS": 23234,
+    "Shell": 17670,
+    "Solidity": 14354,
+    "HTML": 12571,
+    "Makefile": 12288,
+    "Python": 5917,
+    "Dockerfile": 3393,
+    "Ruby": 818
+  },
+  "size": 10724963
+}

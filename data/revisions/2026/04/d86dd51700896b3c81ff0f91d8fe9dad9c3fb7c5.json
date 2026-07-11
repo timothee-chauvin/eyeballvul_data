@@ -1,0 +1,20 @@
+{
+  "commit": "d86dd51700896b3c81ff0f91d8fe9dad9c3fb7c5",
+  "repo_url": "https://github.com/marimo-team/marimo",
+  "date": "2026-04-07T17:32:57",
+  "languages": {
+    "Python": 11042145,
+    "TypeScript": 6654441,
+    "CSS": 111986,
+    "HTML": 61440,
+    "JavaScript": 33772,
+    "Shell": 14213,
+    "Jupyter Notebook": 13594,
+    "MDX": 9807,
+    "Makefile": 4563,
+    "Dockerfile": 1500,
+    "TeX": 209,
+    "Vim Script": 30
+  },
+  "size": 17947700
+}

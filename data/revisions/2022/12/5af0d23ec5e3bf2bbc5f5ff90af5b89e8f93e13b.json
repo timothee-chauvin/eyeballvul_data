@@ -1,0 +1,13 @@
+{
+  "commit": "5af0d23ec5e3bf2bbc5f5ff90af5b89e8f93e13b",
+  "repo_url": "https://github.com/sequentech/admin-console",
+  "date": "2022-12-02T17:14:06",
+  "languages": {
+    "JavaScript": 444485,
+    "HTML": 226969,
+    "Less": 59116,
+    "Kotlin": 8755,
+    "FreeMarker": 7867
+  },
+  "size": 747192
+}

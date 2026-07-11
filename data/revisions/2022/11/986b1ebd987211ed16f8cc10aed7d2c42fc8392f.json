@@ -1,0 +1,24 @@
+{
+  "commit": "986b1ebd987211ed16f8cc10aed7d2c42fc8392f",
+  "repo_url": "https://github.com/kubernetes/minikube",
+  "date": "2022-11-04T20:15:46",
+  "languages": {
+    "Go": 2891777,
+    "HTML": 1893034,
+    "Shell": 221509,
+    "Makefile": 87774,
+    "C++": 80353,
+    "JavaScript": 32168,
+    "Dockerfile": 20132,
+    "PowerShell": 16081,
+    "NSIS": 8051,
+    "SCSS": 5468,
+    "NASL": 2722,
+    "CSS": 1698,
+    "Lua": 1597,
+    "QMake": 1143,
+    "Python": 631,
+    "C": 156
+  },
+  "size": 5264294
+}

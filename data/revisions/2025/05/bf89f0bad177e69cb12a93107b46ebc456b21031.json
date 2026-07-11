@@ -1,0 +1,15 @@
+{
+  "commit": "bf89f0bad177e69cb12a93107b46ebc456b21031",
+  "repo_url": "https://github.com/rnpgp/rnp",
+  "date": "2025-05-31T11:26:53",
+  "languages": {
+    "C++": 3333201,
+    "C": 450107,
+    "Python": 322473,
+    "CMake": 128645,
+    "Shell": 68847,
+    "Nix": 1838,
+    "Ruby": 106
+  },
+  "size": 4305217
+}

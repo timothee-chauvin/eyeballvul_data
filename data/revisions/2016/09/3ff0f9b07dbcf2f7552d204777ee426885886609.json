@@ -1,0 +1,14 @@
+{
+  "commit": "3ff0f9b07dbcf2f7552d204777ee426885886609",
+  "repo_url": "https://github.com/elastic/kibana",
+  "date": "2016-09-02T16:35:24",
+  "languages": {
+    "JavaScript": 2937738,
+    "HTML": 159556,
+    "Less": 107135,
+    "Shell": 4367,
+    "Pug": 2968,
+    "Batchfile": 466
+  },
+  "size": 3212230
+}

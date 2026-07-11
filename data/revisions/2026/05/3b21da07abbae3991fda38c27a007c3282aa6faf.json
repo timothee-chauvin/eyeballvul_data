@@ -1,0 +1,19 @@
+{
+  "commit": "3b21da07abbae3991fda38c27a007c3282aa6faf",
+  "repo_url": "https://github.com/haojing8312/workclaw",
+  "date": "2026-05-04T02:53:28",
+  "languages": {
+    "Rust": 4889309,
+    "TypeScript": 2686711,
+    "C#": 842647,
+    "JavaScript": 335205,
+    "Python": 255920,
+    "Shell": 64886,
+    "PowerShell": 10156,
+    "CSS": 5852,
+    "Batchfile": 298,
+    "HTML": 296,
+    "VBScript": 231
+  },
+  "size": 9091511
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "20d061abbea70ac13e10d483ba61681775030e4e",
+  "repo_url": "https://github.com/exponentcms/exponent-cms",
+  "date": "2021-12-31T21:30:40",
+  "languages": {
+    "PHP": 10533089,
+    "Smarty": 4956132,
+    "JavaScript": 732973,
+    "CSS": 257500,
+    "Less": 174126,
+    "SCSS": 20806
+  },
+  "size": 16674626
+}

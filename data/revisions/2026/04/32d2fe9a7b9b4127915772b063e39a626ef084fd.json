@@ -1,0 +1,15 @@
+{
+  "commit": "32d2fe9a7b9b4127915772b063e39a626ef084fd",
+  "repo_url": "https://github.com/nuts-foundation/nuts-node",
+  "date": "2026-04-10T14:10:13",
+  "languages": {
+    "Go": 3177301,
+    "Shell": 59558,
+    "Makefile": 8057,
+    "Smarty": 3312,
+    "Dockerfile": 1607,
+    "HTML": 494,
+    "Standard ML": 140
+  },
+  "size": 3250469
+}

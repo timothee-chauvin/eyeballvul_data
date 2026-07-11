@@ -1,0 +1,15 @@
+{
+  "commit": "65c345ca32122c17a39a5bbec2780c2eea773a12",
+  "repo_url": "https://github.com/yoanbernabeu/grepai",
+  "date": "2026-03-16T05:48:33",
+  "languages": {
+    "C": 27143006,
+    "Go": 1564223,
+    "C++": 10420,
+    "PowerShell": 2359,
+    "Makefile": 2149,
+    "Nix": 1532,
+    "Shell": 1459
+  },
+  "size": 28725148
+}

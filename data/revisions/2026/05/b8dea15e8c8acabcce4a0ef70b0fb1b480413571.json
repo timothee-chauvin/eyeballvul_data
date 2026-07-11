@@ -1,0 +1,12 @@
+{
+  "commit": "b8dea15e8c8acabcce4a0ef70b0fb1b480413571",
+  "repo_url": "https://github.com/pydantic/pydantic-ai",
+  "date": "2026-05-22T04:54:40",
+  "languages": {
+    "Python": 11738180,
+    "Shell": 12702,
+    "TypeScript": 5744,
+    "Makefile": 5066
+  },
+  "size": 11761692
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "4a543319a74f8c396fe3859040d4eef8b540656e",
+  "repo_url": "https://github.com/haiwen/seahub",
+  "date": "2015-05-29T09:08:39",
+  "languages": {
+    "JavaScript": 2883759,
+    "Python": 1638122,
+    "HTML": 816154,
+    "Java": 515414,
+    "CSS": 319935,
+    "Shell": 11023,
+    "Makefile": 1004
+  },
+  "size": 6185411
+}

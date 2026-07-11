@@ -1,0 +1,16 @@
+{
+  "commit": "b29a97464a46644005aed24b803e70ecf8e3f8fe",
+  "repo_url": "https://github.com/nginx/njs",
+  "date": "2022-04-12T04:22:32",
+  "languages": {
+    "C": 3158666,
+    "JavaScript": 124235,
+    "Python": 5759,
+    "Shell": 5557,
+    "TypeScript": 5000,
+    "Perl": 4574,
+    "Standard ML": 1145,
+    "Makefile": 301
+  },
+  "size": 3305237
+}

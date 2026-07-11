@@ -1,0 +1,11 @@
+{
+  "commit": "6b0ffc6672fb2bf4ba8e4337958c5ee46e6e0300",
+  "repo_url": "https://github.com/fastify/fastify",
+  "date": "2020-05-08T16:23:02",
+  "languages": {
+    "JavaScript": 726540,
+    "TypeScript": 20811,
+    "Shell": 283
+  },
+  "size": 747634
+}

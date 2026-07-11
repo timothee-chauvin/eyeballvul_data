@@ -1,0 +1,13 @@
+{
+  "commit": "66e6d129f20d5a6fc4ded6c0eb7b531e8e521695",
+  "repo_url": "https://github.com/siliconlabs/wisun-br-linux",
+  "date": "2023-02-15T13:34:05",
+  "languages": {
+    "C": 4227141,
+    "C++": 27352,
+    "CMake": 26354,
+    "Rust": 12119,
+    "Shell": 1141
+  },
+  "size": 4294107
+}

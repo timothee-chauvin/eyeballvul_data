@@ -1,0 +1,16 @@
+{
+  "commit": "a4ba5a794e7b52aa0e83eee3e5a1c797115c1f0e",
+  "repo_url": "https://github.com/khodakhah/nodcms",
+  "date": "2022-09-13T17:56:44",
+  "languages": {
+    "PHP": 1348321,
+    "JavaScript": 1330021,
+    "HTML": 448260,
+    "CSS": 387916,
+    "CoffeeScript": 83631,
+    "SCSS": 72669,
+    "Less": 484,
+    "Shell": 444
+  },
+  "size": 3671746
+}

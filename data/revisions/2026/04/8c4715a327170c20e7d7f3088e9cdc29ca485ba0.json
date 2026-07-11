@@ -1,0 +1,12 @@
+{
+  "commit": "8c4715a327170c20e7d7f3088e9cdc29ca485ba0",
+  "repo_url": "https://github.com/lxqt/pcmanfm-qt",
+  "date": "2026-04-20T07:30:49",
+  "languages": {
+    "C++": 495434,
+    "CMake": 6308,
+    "Roff": 1477,
+    "Shell": 296
+  },
+  "size": 503515
+}

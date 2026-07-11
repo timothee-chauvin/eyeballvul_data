@@ -1,0 +1,15 @@
+{
+  "commit": "717ad11f7fad572ee8fe8ffe7edfe68bde9624c8",
+  "repo_url": "https://github.com/estrellaxd/auto_bangumi",
+  "date": "2026-03-01T07:22:59",
+  "languages": {
+    "Python": 892205,
+    "Vue": 367430,
+    "TypeScript": 131896,
+    "SCSS": 8692,
+    "Shell": 3781,
+    "HTML": 1260,
+    "Dockerfile": 964
+  },
+  "size": 1406228
+}

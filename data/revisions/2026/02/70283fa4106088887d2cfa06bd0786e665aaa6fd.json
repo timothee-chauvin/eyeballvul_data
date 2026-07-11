@@ -1,0 +1,13 @@
+{
+  "commit": "70283fa4106088887d2cfa06bd0786e665aaa6fd",
+  "repo_url": "https://github.com/siemens/linux-entra-sso",
+  "date": "2026-02-17T08:57:45",
+  "languages": {
+    "JavaScript": 43065,
+    "Python": 17461,
+    "Makefile": 12414,
+    "CSS": 4595,
+    "HTML": 4045
+  },
+  "size": 81580
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "6bbf9a7f82678b2580532c1ded7ad578d355795d",
+  "repo_url": "https://github.com/sereal/sereal",
+  "date": "2020-02-02T09:17:49",
+  "languages": {
+    "C": 2587874,
+    "Perl": 602158,
+    "Java": 359361,
+    "Go": 108098,
+    "XS": 49563,
+    "Objective-C": 49398,
+    "JavaScript": 44267,
+    "TypeScript": 37256,
+    "Ruby": 12679,
+    "Python": 11595,
+    "Erlang": 11229,
+    "Shell": 3893,
+    "Makefile": 3362,
+    "HTML": 2111
+  },
+  "size": 3882844
+}

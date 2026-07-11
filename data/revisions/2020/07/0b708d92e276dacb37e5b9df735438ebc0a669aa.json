@@ -1,0 +1,27 @@
+{
+  "commit": "0b708d92e276dacb37e5b9df735438ebc0a669aa",
+  "repo_url": "https://github.com/gnuplot/gnuplot",
+  "date": "2020-07-15T06:22:00",
+  "languages": {
+    "C": 6071630,
+    "C++": 516051,
+    "JavaScript": 127265,
+    "Makefile": 126645,
+    "Lua": 82761,
+    "Shell": 61850,
+    "M4": 58426,
+    "PostScript": 44611,
+    "Objective-C": 32495,
+    "Inno Setup": 21968,
+    "IGOR Pro": 15109,
+    "DIGITAL Command Language": 8092,
+    "GAP": 3768,
+    "Batchfile": 2350,
+    "Rich Text Format": 1692,
+    "HTML": 1468,
+    "CSS": 1335,
+    "Gnuplot": 1282,
+    "QMake": 335
+  },
+  "size": 7179133
+}

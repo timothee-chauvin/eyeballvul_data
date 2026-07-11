@@ -1,0 +1,13 @@
+{
+  "commit": "87b0cae554ed8096c76508be4b70e8b492e60183",
+  "repo_url": "https://github.com/tjko/jpegoptim",
+  "date": "2022-04-13T02:54:20",
+  "languages": {
+    "C": 74368,
+    "Shell": 13998,
+    "Roff": 8857,
+    "Makefile": 2244,
+    "CMake": 757
+  },
+  "size": 100224
+}

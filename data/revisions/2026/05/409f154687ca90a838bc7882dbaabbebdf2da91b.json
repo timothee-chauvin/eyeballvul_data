@@ -1,0 +1,14 @@
+{
+  "commit": "409f154687ca90a838bc7882dbaabbebdf2da91b",
+  "repo_url": "https://github.com/misp/bsimvis",
+  "date": "2026-05-27T14:16:47",
+  "languages": {
+    "Python": 590222,
+    "JavaScript": 533143,
+    "HTML": 141087,
+    "CSS": 77330,
+    "Lua": 25221,
+    "Shell": 13650
+  },
+  "size": 1380653
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "fd5135e3a596dce00a90092e0950d4fc324c308c",
+  "repo_url": "https://github.com/chillzhuang/springblade",
+  "date": "2023-04-29T14:03:24",
+  "languages": {
+    "PLpgSQL": 503495,
+    "Java": 415262,
+    "Dockerfile": 3765,
+    "Shell": 3031,
+    "HTML": 183,
+    "Batchfile": 18
+  },
+  "size": 925754
+}

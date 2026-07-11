@@ -1,0 +1,14 @@
+{
+  "commit": "4c10bd6915788b396ba67d2f4054afac0b9f6d6c",
+  "repo_url": "https://github.com/otter-sec/anchor",
+  "date": "2026-04-16T15:04:36",
+  "languages": {
+    "Rust": 2067484,
+    "TypeScript": 1305314,
+    "JavaScript": 165739,
+    "Shell": 24488,
+    "Makefile": 2336,
+    "Dockerfile": 1637
+  },
+  "size": 3566998
+}

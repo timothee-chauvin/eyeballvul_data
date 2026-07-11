@@ -1,0 +1,21 @@
+{
+  "commit": "716c60af2874d3f9e3dfeba09dd8551513cceeb0",
+  "repo_url": "https://github.com/m1k1o/neko",
+  "date": "2026-04-02T13:33:37",
+  "languages": {
+    "Go": 697459,
+    "Shell": 409204,
+    "MDX": 208833,
+    "TypeScript": 195287,
+    "Vue": 132159,
+    "C": 77109,
+    "Makefile": 56368,
+    "JavaScript": 56079,
+    "Dockerfile": 23287,
+    "SCSS": 8128,
+    "M4": 6758,
+    "CSS": 4005,
+    "HTML": 1188
+  },
+  "size": 1875864
+}

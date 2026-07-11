@@ -1,0 +1,13 @@
+{
+  "commit": "cc78ada709b6028371b24f5449ad7a4dda93f992",
+  "repo_url": "https://github.com/apache/echarts",
+  "date": "2026-05-12T11:55:26",
+  "languages": {
+    "TypeScript": 4878730,
+    "JavaScript": 645572,
+    "Smarty": 3034,
+    "HTML": 2228,
+    "Shell": 84
+  },
+  "size": 5529648
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "89c73e10cff23da1c2b3bde5bb122d6446902774",
+  "repo_url": "https://github.com/servicestack/servicestack",
+  "date": "2020-06-09T15:00:54",
+  "languages": {
+    "C#": 16786069,
+    "JavaScript": 3313030,
+    "HTML": 682860,
+    "TypeScript": 161398,
+    "CSS": 76967,
+    "ASP.NET": 15479,
+    "Scala": 2312,
+    "PowerShell": 1844,
+    "Batchfile": 1167,
+    "Scheme": 690,
+    "Shell": 209
+  },
+  "size": 21042025
+}

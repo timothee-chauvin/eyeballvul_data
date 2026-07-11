@@ -1,0 +1,20 @@
+{
+  "commit": "9b4a8a9a4f02408be90b34831cc14d04cf629e7c",
+  "repo_url": "https://github.com/aws/aws-toolkit-vscode",
+  "date": "2023-08-11T18:23:40",
+  "languages": {
+    "TypeScript": 5075425,
+    "Vue": 164263,
+    "CSS": 24545,
+    "JavaScript": 17809,
+    "Shell": 11112,
+    "Java": 7959,
+    "Python": 7475,
+    "Go": 5306,
+    "PowerShell": 3699,
+    "Dockerfile": 3389,
+    "C#": 3148,
+    "Makefile": 33
+  },
+  "size": 5324163
+}

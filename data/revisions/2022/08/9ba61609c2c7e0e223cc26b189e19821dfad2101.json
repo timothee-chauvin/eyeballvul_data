@@ -1,0 +1,15 @@
+{
+  "commit": "9ba61609c2c7e0e223cc26b189e19821dfad2101",
+  "repo_url": "https://github.com/academysoftwarefoundation/openimageio",
+  "date": "2022-08-31T06:33:47",
+  "languages": {
+    "C++": 6667847,
+    "POV-Ray SDL": 5056106,
+    "Python": 250041,
+    "CMake": 217789,
+    "C": 96928,
+    "Shell": 56451,
+    "Makefile": 18513
+  },
+  "size": 12363675
+}

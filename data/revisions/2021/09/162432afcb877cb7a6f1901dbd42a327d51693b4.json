@@ -1,0 +1,13 @@
+{
+  "commit": "162432afcb877cb7a6f1901dbd42a327d51693b4",
+  "repo_url": "https://github.com/openshift/hive",
+  "date": "2021-09-03T21:47:53",
+  "languages": {
+    "Go": 3165313,
+    "Shell": 38056,
+    "Makefile": 11256,
+    "Python": 9913,
+    "Dockerfile": 2995
+  },
+  "size": 3227533
+}

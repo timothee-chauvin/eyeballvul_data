@@ -1,0 +1,31 @@
+{
+  "commit": "24d57b73f154c44d8a8c71f61beff72aeff33ed8",
+  "repo_url": "https://github.com/h2oai/h2o-3",
+  "date": "2026-04-15T16:18:53",
+  "languages": {
+    "Jupyter Notebook": 24234478,
+    "HTML": 22496292,
+    "Java": 18206706,
+    "Python": 9174418,
+    "R": 4431596,
+    "CSS": 882321,
+    "TeX": 568173,
+    "Shell": 239042,
+    "Groovy": 210109,
+    "JavaScript": 148426,
+    "Makefile": 49085,
+    "HCL": 36232,
+    "Sass": 23790,
+    "Batchfile": 12803,
+    "Dockerfile": 10846,
+    "CoffeeScript": 7550,
+    "Scala": 4845,
+    "HiveQL": 3985,
+    "Emacs Lisp": 2226,
+    "Smarty": 1792,
+    "PHP": 800,
+    "DIGITAL Command Language": 106,
+    "Ruby": 64
+  },
+  "size": 80745685
+}

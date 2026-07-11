@@ -1,0 +1,11 @@
+{
+  "commit": "4aa22d77b8bfd0f6430d8c3752a3f8b30cbd399d",
+  "repo_url": "https://github.com/jenkinsci/parameterized-trigger-plugin",
+  "date": "2021-12-15T14:12:33",
+  "languages": {
+    "Java": 368279,
+    "HTML": 13668,
+    "Groovy": 4565
+  },
+  "size": 386512
+}

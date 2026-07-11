@@ -1,0 +1,15 @@
+{
+  "commit": "90b8eead0b6762663ee5555c2d051805bba5e72e",
+  "repo_url": "https://github.com/arterli/cmswing",
+  "date": "2019-01-25T04:03:55",
+  "languages": {
+    "JavaScript": 9635972,
+    "HTML": 5243026,
+    "CSS": 2336515,
+    "Less": 46396,
+    "PHP": 37423,
+    "PLpgSQL": 4201,
+    "SCSS": 1789
+  },
+  "size": 17305322
+}

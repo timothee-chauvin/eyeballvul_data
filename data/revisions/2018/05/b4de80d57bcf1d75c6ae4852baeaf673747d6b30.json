@@ -1,0 +1,15 @@
+{
+  "commit": "b4de80d57bcf1d75c6ae4852baeaf673747d6b30",
+  "repo_url": "https://github.com/elabftw/elabftw",
+  "date": "2018-05-24T13:34:29",
+  "languages": {
+    "JavaScript": 6049859,
+    "PHP": 484187,
+    "HTML": 132953,
+    "CSS": 37927,
+    "Java": 8120,
+    "Shell": 989,
+    "TeX": 674
+  },
+  "size": 6714709
+}

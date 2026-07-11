@@ -1,0 +1,24 @@
+{
+  "commit": "983c4629049c1be68beb09e7edea70ad7e7e56b7",
+  "repo_url": "https://github.com/dokku/dokku",
+  "date": "2026-05-07T17:29:53",
+  "languages": {
+    "Shell": 1284081,
+    "Go": 1080161,
+    "Makefile": 41833,
+    "Python": 27376,
+    "HTML": 13870,
+    "Dockerfile": 11294,
+    "Procfile": 8623,
+    "JavaScript": 3511,
+    "Scala": 2235,
+    "HCL": 1615,
+    "Smarty": 1526,
+    "Java": 853,
+    "Clojure": 666,
+    "Ruby": 492,
+    "SCSS": 56,
+    "PHP": 43
+  },
+  "size": 2478235
+}

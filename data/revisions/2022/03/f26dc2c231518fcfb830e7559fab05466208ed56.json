@@ -1,0 +1,25 @@
+{
+  "commit": "f26dc2c231518fcfb830e7559fab05466208ed56",
+  "repo_url": "https://github.com/syslog-ng/syslog-ng",
+  "date": "2022-03-04T12:18:35",
+  "languages": {
+    "C": 6686680,
+    "Python": 562452,
+    "Makefile": 244668,
+    "Java": 201267,
+    "CMake": 198454,
+    "Shell": 189144,
+    "M4": 98351,
+    "Yacc": 53445,
+    "Lex": 21584,
+    "Perl": 10921,
+    "Dockerfile": 10903,
+    "Awk": 7776,
+    "Roff": 4881,
+    "Mustache": 1840,
+    "Vim Script": 1488,
+    "CodeQL": 927,
+    "Ruby": 425
+  },
+  "size": 8295206
+}

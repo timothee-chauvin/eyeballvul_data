@@ -1,0 +1,18 @@
+{
+  "commit": "0f3ce17539e46a8f45d8a9050a450ad9cacd9f3e",
+  "repo_url": "https://github.com/riebl/vanetza",
+  "date": "2026-02-16T12:41:00",
+  "languages": {
+    "C": 11152277,
+    "C++": 1614840,
+    "CMake": 80627,
+    "CSS": 6668,
+    "Python": 5639,
+    "Shell": 4324,
+    "Dockerfile": 2736,
+    "Cap'n Proto": 2406,
+    "JavaScript": 344,
+    "HTML": 163
+  },
+  "size": 12870024
+}

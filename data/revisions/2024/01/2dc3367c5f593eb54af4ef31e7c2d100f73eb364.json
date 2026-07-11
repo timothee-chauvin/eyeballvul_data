@@ -1,0 +1,16 @@
+{
+  "commit": "2dc3367c5f593eb54af4ef31e7c2d100f73eb364",
+  "repo_url": "https://github.com/linux-pam/linux-pam",
+  "date": "2024-01-17T08:00:00",
+  "languages": {
+    "C": 1387436,
+    "Makefile": 57725,
+    "M4": 44507,
+    "Perl": 27541,
+    "Shell": 20535,
+    "Yacc": 3676,
+    "Roff": 718,
+    "Lex": 584
+  },
+  "size": 1542722
+}

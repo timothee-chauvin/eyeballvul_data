@@ -1,0 +1,16 @@
+{
+  "commit": "04555fce371661c90267d66e06025f3ddb24cdcb",
+  "repo_url": "https://github.com/typesense/typesense",
+  "date": "2026-01-28T13:33:51",
+  "languages": {
+    "C++": 8995084,
+    "C": 706304,
+    "TypeScript": 413211,
+    "CMake": 41764,
+    "Dockerfile": 24241,
+    "Starlark": 24156,
+    "Shell": 18041,
+    "JavaScript": 2842
+  },
+  "size": 10225643
+}

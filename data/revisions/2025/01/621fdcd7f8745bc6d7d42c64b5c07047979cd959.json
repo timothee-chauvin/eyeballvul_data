@@ -1,0 +1,14 @@
+{
+  "commit": "621fdcd7f8745bc6d7d42c64b5c07047979cd959",
+  "repo_url": "https://github.com/airvpn/eddie",
+  "date": "2025-01-09T08:25:00",
+  "languages": {
+    "C#": 1597505,
+    "C++": 394873,
+    "C": 299162,
+    "Shell": 86848,
+    "NSIS": 30983,
+    "Batchfile": 19942
+  },
+  "size": 2429313
+}

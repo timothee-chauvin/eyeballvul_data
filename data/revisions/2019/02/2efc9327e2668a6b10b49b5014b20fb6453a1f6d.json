@@ -1,0 +1,16 @@
+{
+  "commit": "2efc9327e2668a6b10b49b5014b20fb6453a1f6d",
+  "repo_url": "https://github.com/wireapp/wire-webapp",
+  "date": "2019-02-28T14:29:44",
+  "languages": {
+    "JavaScript": 3138909,
+    "TypeScript": 389175,
+    "HTML": 273673,
+    "Less": 263736,
+    "CSS": 4800,
+    "Dockerfile": 479,
+    "Shell": 259,
+    "SCSS": 1
+  },
+  "size": 4071032
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "d370fafd2e38bdd949cc595da76d49419b11c1cc",
+  "repo_url": "https://github.com/microsoft/data-formulator",
+  "date": "2026-05-12T21:52:57",
+  "languages": {
+    "TypeScript": 3640446,
+    "Python": 2509791,
+    "SCSS": 19114,
+    "Shell": 10490,
+    "HTML": 8886,
+    "JavaScript": 8801,
+    "PowerShell": 5512,
+    "Dockerfile": 3814,
+    "CSS": 1193,
+    "Batchfile": 499
+  },
+  "size": 6208546
+}

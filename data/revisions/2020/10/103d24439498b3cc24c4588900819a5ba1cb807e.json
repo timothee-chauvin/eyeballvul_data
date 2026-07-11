@@ -1,0 +1,14 @@
+{
+  "commit": "103d24439498b3cc24c4588900819a5ba1cb807e",
+  "repo_url": "https://github.com/tendenci/tendenci",
+  "date": "2020-10-29T01:14:34",
+  "languages": {
+    "Python": 6308818,
+    "HTML": 3401249,
+    "JavaScript": 2122651,
+    "CSS": 505315,
+    "Less": 82101,
+    "Shell": 4105
+  },
+  "size": 12424239
+}

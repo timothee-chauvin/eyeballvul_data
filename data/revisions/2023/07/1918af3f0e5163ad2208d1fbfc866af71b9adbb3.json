@@ -1,0 +1,14 @@
+{
+  "commit": "1918af3f0e5163ad2208d1fbfc866af71b9adbb3",
+  "repo_url": "https://github.com/milesmcc/shynet",
+  "date": "2023-07-28T03:16:05",
+  "languages": {
+    "Python": 114963,
+    "HTML": 64179,
+    "Dockerfile": 2549,
+    "JavaScript": 2147,
+    "Shell": 1431,
+    "CSS": 943
+  },
+  "size": 186212
+}

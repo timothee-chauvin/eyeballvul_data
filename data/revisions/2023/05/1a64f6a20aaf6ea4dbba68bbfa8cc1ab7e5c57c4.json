@@ -1,0 +1,19 @@
+{
+  "commit": "1a64f6a20aaf6ea4dbba68bbfa8cc1ab7e5c57c4",
+  "repo_url": "https://github.com/mirror/busybox",
+  "date": "2023-05-18T22:31:04",
+  "languages": {
+    "C": 7774958,
+    "Shell": 345301,
+    "Assembly": 79972,
+    "Makefile": 55597,
+    "C++": 41130,
+    "Yacc": 14198,
+    "HTML": 8280,
+    "Lex": 6389,
+    "Perl": 5810,
+    "Python": 4733,
+    "Awk": 941
+  },
+  "size": 8337309
+}

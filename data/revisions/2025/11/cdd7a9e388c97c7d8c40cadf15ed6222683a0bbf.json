@@ -1,0 +1,14 @@
+{
+  "commit": "cdd7a9e388c97c7d8c40cadf15ed6222683a0bbf",
+  "repo_url": "https://gitlab.com/crafty-controller/crafty-4",
+  "date": "2025-11-23T16:42:50",
+  "languages": {
+    "CSS": 2334207,
+    "Python": 1061913,
+    "HTML": 604951,
+    "JavaScript": 37721,
+    "Shell": 7235,
+    "Dockerfile": 2496
+  },
+  "size": 4048523
+}

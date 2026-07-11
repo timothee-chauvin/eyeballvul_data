@@ -1,0 +1,16 @@
+{
+  "commit": "ea39d8a90a39c2aaac97a0679c5bb3ba3a753cc8",
+  "repo_url": "https://github.com/payloadcms/payload",
+  "date": "2026-04-23T14:36:22",
+  "languages": {
+    "TypeScript": 20871920,
+    "SCSS": 462260,
+    "JavaScript": 222303,
+    "CSS": 40698,
+    "Dockerfile": 17106,
+    "Shell": 10078,
+    "MDX": 2241,
+    "HTML": 17
+  },
+  "size": 21626623
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "5db7508530f812e7e8f565d55bdca7b94b094253",
+  "repo_url": "https://github.com/dokploy/dokploy",
+  "date": "2025-03-03T04:32:56",
+  "languages": {
+    "TypeScript": 2879109,
+    "Go": 34090,
+    "CSS": 4733,
+    "JavaScript": 3327,
+    "Dockerfile": 2556,
+    "Shell": 1427
+  },
+  "size": 2925242
+}

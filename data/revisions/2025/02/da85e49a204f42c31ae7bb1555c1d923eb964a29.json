@@ -1,0 +1,16 @@
+{
+  "commit": "da85e49a204f42c31ae7bb1555c1d923eb964a29",
+  "repo_url": "https://github.com/wolfssl/wolfssh",
+  "date": "2025-02-20T18:57:45",
+  "languages": {
+    "C": 1883659,
+    "M4": 164348,
+    "CMake": 149840,
+    "Shell": 57453,
+    "Batchfile": 24061,
+    "Makefile": 5525,
+    "FreeMarker": 4244,
+    "Perl": 3889
+  },
+  "size": 2293019
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "76d58e6c7e526579dac46de17ca912824a2d3adf",
+  "repo_url": "https://github.com/x2engine/x2crm",
+  "date": "2017-07-27T22:38:40",
+  "languages": {
+    "PHP": 49641484,
+    "JavaScript": 5836859,
+    "SCSS": 999387,
+    "CSS": 890902,
+    "HTML": 66039,
+    "Python": 9796,
+    "Makefile": 9686,
+    "C++": 5657,
+    "Batchfile": 1337,
+    "Ruby": 904,
+    "Shell": 549
+  },
+  "size": 57462600
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "3b1359e838e5866ef4da72d39f9ce33c88c911f7",
+  "repo_url": "https://github.com/nuwcdivnpt/stig-manager",
+  "date": "2026-04-14T17:21:02",
+  "languages": {
+    "JavaScript": 8962332,
+    "CSS": 994924,
+    "Shell": 41658,
+    "Batchfile": 27659,
+    "HTML": 20044,
+    "Python": 1589,
+    "Dockerfile": 1355
+  },
+  "size": 10049561
+}

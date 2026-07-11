@@ -1,0 +1,13 @@
+{
+  "commit": "226c20e0c9124037671a91d6b3e5083bd2462058",
+  "repo_url": "https://github.com/vran-dev/databasir",
+  "date": "2022-07-29T03:18:51",
+  "languages": {
+    "Java": 715464,
+    "FreeMarker": 14368,
+    "HTML": 850,
+    "Dockerfile": 731,
+    "CSS": 124
+  },
+  "size": 731537
+}

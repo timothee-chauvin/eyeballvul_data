@@ -1,0 +1,15 @@
+{
+  "commit": "01be53771adb9430d331dfab141ae4df61b3808c",
+  "repo_url": "https://github.com/microsoft/openapi.net",
+  "date": "2026-04-27T15:51:50",
+  "languages": {
+    "C#": 2499862,
+    "HTML": 6657,
+    "PowerShell": 1215,
+    "Shell": 1022,
+    "Dockerfile": 957,
+    "Batchfile": 945,
+    "XSLT": 846
+  },
+  "size": 2511504
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "b81cefd8cb656769b8c7ff3d41b077817d2ef842",
+  "repo_url": "https://github.com/juice-shop/multi-juicer",
+  "date": "2026-05-13T07:28:40",
+  "languages": {
+    "TypeScript": 339440,
+    "Go": 289940,
+    "JavaScript": 2376,
+    "Mustache": 1902,
+    "Dockerfile": 1804,
+    "CSS": 1609,
+    "HTML": 581
+  },
+  "size": 637652
+}

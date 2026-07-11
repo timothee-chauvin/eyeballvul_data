@@ -1,0 +1,13 @@
+{
+  "commit": "e61210f3529a19ef235805d34e82f100282aec7a",
+  "repo_url": "https://github.com/xwp/stream",
+  "date": "2024-08-21T16:17:16",
+  "languages": {
+    "PHP": 904293,
+    "JavaScript": 89557,
+    "CSS": 31191,
+    "Shell": 1037,
+    "Dockerfile": 717
+  },
+  "size": 1026795
+}

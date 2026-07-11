@@ -1,0 +1,16 @@
+{
+  "commit": "bbfae8e27ca0ab8d79d76cdf07936edce8acccd8",
+  "repo_url": "https://github.com/sunbird-ed/sunbirded-portal",
+  "date": "2019-01-28T05:08:32",
+  "languages": {
+    "TypeScript": 4493432,
+    "JavaScript": 535441,
+    "HTML": 467813,
+    "SCSS": 205660,
+    "CSS": 162709,
+    "Shell": 2986,
+    "Python": 853,
+    "Dockerfile": 437
+  },
+  "size": 5869331
+}

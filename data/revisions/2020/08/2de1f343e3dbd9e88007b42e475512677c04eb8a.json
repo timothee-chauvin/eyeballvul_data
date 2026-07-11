@@ -1,0 +1,17 @@
+{
+  "commit": "2de1f343e3dbd9e88007b42e475512677c04eb8a",
+  "repo_url": "https://github.com/sonarsource/sonarqube",
+  "date": "2020-08-28T09:43:56",
+  "languages": {
+    "Java": 30249468,
+    "TypeScript": 5949637,
+    "CSS": 256176,
+    "JavaScript": 71971,
+    "Shell": 68686,
+    "Batchfile": 31800,
+    "Ruby": 13336,
+    "HTML": 2329,
+    "Scheme": 718
+  },
+  "size": 36644121
+}

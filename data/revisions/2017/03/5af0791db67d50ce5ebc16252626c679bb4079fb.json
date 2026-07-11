@@ -1,0 +1,14 @@
+{
+  "commit": "5af0791db67d50ce5ebc16252626c679bb4079fb",
+  "repo_url": "https://github.com/verdammelt/tnef",
+  "date": "2017-03-19T23:18:23",
+  "languages": {
+    "C": 130328,
+    "Shell": 71071,
+    "Makefile": 5138,
+    "Awk": 4437,
+    "Perl": 3811,
+    "M4": 2697
+  },
+  "size": 217482
+}

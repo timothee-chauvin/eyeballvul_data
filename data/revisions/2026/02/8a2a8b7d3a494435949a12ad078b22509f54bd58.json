@@ -1,0 +1,15 @@
+{
+  "commit": "8a2a8b7d3a494435949a12ad078b22509f54bd58",
+  "repo_url": "https://github.com/discourse/discourse",
+  "date": "2026-02-26T12:45:43",
+  "languages": {
+    "Ruby": 29429190,
+    "JavaScript": 14719762,
+    "HTML": 1484297,
+    "SCSS": 1409917,
+    "Mustache": 32353,
+    "CSS": 14701,
+    "Shell": 13728
+  },
+  "size": 47103948
+}

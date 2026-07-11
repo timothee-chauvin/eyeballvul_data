@@ -1,0 +1,12 @@
+{
+  "commit": "15ebe3ac310f6cecf1a5b5fe2ae19470c26e6104",
+  "repo_url": "https://github.com/openfga/openfga",
+  "date": "2022-12-13T21:19:44",
+  "languages": {
+    "Go": 829573,
+    "Makefile": 2832,
+    "HTML": 379,
+    "Dockerfile": 285
+  },
+  "size": 833069
+}

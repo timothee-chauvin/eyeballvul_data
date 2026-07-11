@@ -1,0 +1,16 @@
+{
+  "commit": "530cb70cfd81412a9cac35f94853b57e81a0b026",
+  "repo_url": "https://github.com/horsicq/die-engine",
+  "date": "2026-04-20T20:29:20",
+  "languages": {
+    "C++": 96852,
+    "QMake": 45477,
+    "Batchfile": 20151,
+    "Shell": 18001,
+    "CMake": 9460,
+    "Dockerfile": 2284,
+    "C": 1718,
+    "M4": 1548
+  },
+  "size": 195491
+}

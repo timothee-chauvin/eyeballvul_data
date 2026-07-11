@@ -1,0 +1,13 @@
+{
+  "commit": "f51b4a430490eccd2e1dd8655d2511487e5c4c78",
+  "repo_url": "https://github.com/cpan-authors/xml-libxml",
+  "date": "2016-07-24T09:12:41",
+  "languages": {
+    "Perl": 585387,
+    "XS": 263867,
+    "HTML": 263475,
+    "C": 145628,
+    "Shell": 411
+  },
+  "size": 1258768
+}

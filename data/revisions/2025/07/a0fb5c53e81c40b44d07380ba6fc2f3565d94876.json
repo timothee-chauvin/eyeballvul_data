@@ -1,0 +1,14 @@
+{
+  "commit": "a0fb5c53e81c40b44d07380ba6fc2f3565d94876",
+  "repo_url": "https://github.com/publishpress/publishpress-blocks",
+  "date": "2025-07-21T09:29:22",
+  "languages": {
+    "JavaScript": 1630534,
+    "PHP": 579536,
+    "SCSS": 251241,
+    "Shell": 1826,
+    "Dockerfile": 697,
+    "CSS": 83
+  },
+  "size": 2463917
+}

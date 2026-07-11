@@ -1,0 +1,15 @@
+{
+  "commit": "f8c95098e6ac7a0e3c81ceb11a89f9c608beccdc",
+  "repo_url": "https://github.com/nrwl/nx-console",
+  "date": "2026-05-18T14:54:34",
+  "languages": {
+    "TypeScript": 1720755,
+    "Kotlin": 794894,
+    "JavaScript": 24491,
+    "CSS": 2726,
+    "HTML": 304,
+    "Shell": 257,
+    "Dockerfile": 55
+  },
+  "size": 2543482
+}

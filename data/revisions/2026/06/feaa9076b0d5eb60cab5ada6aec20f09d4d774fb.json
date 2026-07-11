@@ -1,0 +1,15 @@
+{
+  "commit": "feaa9076b0d5eb60cab5ada6aec20f09d4d774fb",
+  "repo_url": "https://github.com/zhayujie/cowagent",
+  "date": "2026-06-01T08:02:55",
+  "languages": {
+    "Python": 2629488,
+    "JavaScript": 322840,
+    "HTML": 90840,
+    "Shell": 58444,
+    "CSS": 38193,
+    "PowerShell": 36126,
+    "Dockerfile": 77
+  },
+  "size": 3176008
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "d49f4cb0ea1d6ddc02949a9631626668cd7fc4fc",
+  "repo_url": "https://github.com/flatpak/xdg-desktop-portal",
+  "date": "2026-01-21T15:21:52",
+  "languages": {
+    "C": 1408608,
+    "Python": 373266,
+    "Meson": 26275,
+    "Shell": 2060
+  },
+  "size": 1810209
+}

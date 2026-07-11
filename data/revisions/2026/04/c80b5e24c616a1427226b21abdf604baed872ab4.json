@@ -1,0 +1,16 @@
+{
+  "commit": "c80b5e24c616a1427226b21abdf604baed872ab4",
+  "repo_url": "https://github.com/alam00000/bentopdf",
+  "date": "2026-04-05T08:20:09",
+  "languages": {
+    "JavaScript": 8326640,
+    "Fluent": 3693707,
+    "HTML": 2519045,
+    "TypeScript": 2514659,
+    "CSS": 621499,
+    "Shell": 40311,
+    "Dockerfile": 3221,
+    "Smarty": 860
+  },
+  "size": 17719942
+}

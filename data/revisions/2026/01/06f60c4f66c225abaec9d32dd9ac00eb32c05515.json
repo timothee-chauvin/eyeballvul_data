@@ -1,0 +1,14 @@
+{
+  "commit": "06f60c4f66c225abaec9d32dd9ac00eb32c05515",
+  "repo_url": "https://github.com/pfefferle/wordpress-webmention",
+  "date": "2026-01-01T12:42:34",
+  "languages": {
+    "HTML": 450746,
+    "PHP": 364280,
+    "Shell": 14962,
+    "CSS": 2111,
+    "JavaScript": 1541,
+    "Dockerfile": 968
+  },
+  "size": 834608
+}

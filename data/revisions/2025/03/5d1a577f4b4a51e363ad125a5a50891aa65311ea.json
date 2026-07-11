@@ -1,0 +1,14 @@
+{
+  "commit": "5d1a577f4b4a51e363ad125a5a50891aa65311ea",
+  "repo_url": "https://github.com/cloud-ark/kubeplus",
+  "date": "2025-03-21T11:37:53",
+  "languages": {
+    "Go": 527483,
+    "Python": 239217,
+    "Shell": 79981,
+    "JavaScript": 13193,
+    "HTML": 10914,
+    "Dockerfile": 4969
+  },
+  "size": 875757
+}

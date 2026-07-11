@@ -1,0 +1,28 @@
+{
+  "commit": "f2a24f2d92acdec137f2bef902eed39f8ff29717",
+  "repo_url": "https://github.com/samuelclay/newsblur",
+  "date": "2026-05-11T05:07:50",
+  "languages": {
+    "Python": 5150571,
+    "JavaScript": 3656968,
+    "HTML": 3422371,
+    "Objective-C": 2841043,
+    "CSS": 1706013,
+    "Kotlin": 1458081,
+    "Swift": 1122015,
+    "Java": 767085,
+    "Shell": 131300,
+    "Jinja": 120287,
+    "SCSS": 57608,
+    "Perl": 55606,
+    "CoffeeScript": 30061,
+    "Makefile": 29998,
+    "HCL": 29537,
+    "Ruby": 9514,
+    "Dockerfile": 4698,
+    "Rich Text Format": 669,
+    "R": 527,
+    "C": 454
+  },
+  "size": 20594406
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "2abd0057283fa9ed435adbf0ea0ad78bd47024cd",
+  "repo_url": "https://github.com/cherry-toto/jizhicms",
+  "date": "2020-05-26T08:00:41",
+  "languages": {
+    "JavaScript": 2746933,
+    "PHP": 1786192,
+    "HTML": 1248755,
+    "CSS": 319472,
+    "Smarty": 6598,
+    "SCSS": 3622,
+    "Less": 3594
+  },
+  "size": 6115166
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "8b275186b2915f8134aab54f36376dcdea1ea6b7",
+  "repo_url": "https://github.com/activeloopai/deeplake",
+  "date": "2024-06-13T21:05:36",
+  "languages": {
+    "Python": 3021678,
+    "Dockerfile": 445,
+    "Shell": 73
+  },
+  "size": 3022196
+}

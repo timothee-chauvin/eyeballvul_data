@@ -1,0 +1,15 @@
+{
+  "commit": "2fe4acb81c60e6b241144ce949b28a430e4a3d26",
+  "repo_url": "https://github.com/hashicorp/vagrant-vmware-desktop",
+  "date": "2024-08-13T17:20:49",
+  "languages": {
+    "Go": 339198,
+    "Ruby": 305271,
+    "Shell": 179504,
+    "PowerShell": 12812,
+    "Makefile": 2272,
+    "Python": 986,
+    "HTML": 690
+  },
+  "size": 840733
+}

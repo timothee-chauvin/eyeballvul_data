@@ -1,0 +1,14 @@
+{
+  "commit": "9154cfe5ca760f21eaab7532792a1dc710627048",
+  "repo_url": "https://github.com/firecracker-microvm/firecracker",
+  "date": "2026-03-13T14:51:45",
+  "languages": {
+    "Rust": 4159944,
+    "Python": 892802,
+    "Shell": 84723,
+    "C": 29513,
+    "Dockerfile": 8236,
+    "Go": 3759
+  },
+  "size": 5178977
+}

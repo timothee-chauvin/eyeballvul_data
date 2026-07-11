@@ -1,0 +1,11 @@
+{
+  "commit": "302dddeda962e4bb3477a8e4080bc6f5a253e2bb",
+  "repo_url": "https://github.com/go-git/go-git",
+  "date": "2024-03-19T13:39:15",
+  "languages": {
+    "Go": 2267953,
+    "Shell": 3998,
+    "Makefile": 1487
+  },
+  "size": 2273438
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "1265c619253f975e161aff525fd01c6849a028b5",
+  "repo_url": "https://github.com/kde/kcoreaddons",
+  "date": "2026-04-03T16:31:59",
+  "languages": {
+    "C++": 1188404,
+    "CMake": 43930,
+    "QML": 6057,
+    "C": 4114,
+    "Shell": 526
+  },
+  "size": 1243031
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "fb5bf1ae4184c84fba3f7e965d0e119c9c7d0ef5",
+  "repo_url": "https://github.com/kde/dolphin",
+  "date": "2026-02-02T03:27:03",
+  "languages": {
+    "C++": 2602808,
+    "CMake": 36077,
+    "Ruby": 7199,
+    "Python": 6170,
+    "Shell": 934
+  },
+  "size": 2653188
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "a7f22be7505fafdb154e5a0400a285aa29545f00",
+  "repo_url": "https://github.com/lmcache/lmcache",
+  "date": "2026-05-29T22:08:30",
+  "languages": {
+    "Python": 7931771,
+    "Shell": 319544,
+    "Go": 224316,
+    "C++": 181792,
+    "Cuda": 121948,
+    "Rust": 99800,
+    "JavaScript": 25062,
+    "Makefile": 24295,
+    "HTML": 11880,
+    "Dockerfile": 8484,
+    "C": 5353,
+    "CSS": 3337,
+    "CMake": 306
+  },
+  "size": 8957888
+}

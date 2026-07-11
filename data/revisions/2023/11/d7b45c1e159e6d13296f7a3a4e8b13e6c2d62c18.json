@@ -1,0 +1,17 @@
+{
+  "commit": "d7b45c1e159e6d13296f7a3a4e8b13e6c2d62c18",
+  "repo_url": "https://github.com/carla-simulator/carla",
+  "date": "2023-11-10T11:25:48",
+  "languages": {
+    "C++": 4947288,
+    "Python": 1163773,
+    "C": 310883,
+    "Batchfile": 144533,
+    "Shell": 113747,
+    "CMake": 35160,
+    "C#": 24899,
+    "Makefile": 10150,
+    "Dockerfile": 2593
+  },
+  "size": 6753026
+}

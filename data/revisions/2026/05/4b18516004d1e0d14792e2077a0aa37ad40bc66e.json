@@ -1,0 +1,18 @@
+{
+  "commit": "4b18516004d1e0d14792e2077a0aa37ad40bc66e",
+  "repo_url": "https://github.com/poweradmin/poweradmin",
+  "date": "2026-05-10T17:50:12",
+  "languages": {
+    "PHP": 6734286,
+    "HTML": 1788910,
+    "JavaScript": 1286124,
+    "CSS": 334434,
+    "Shell": 312394,
+    "Twig": 97901,
+    "PLpgSQL": 37264,
+    "Dockerfile": 9427,
+    "Python": 2395,
+    "Perl": 1166
+  },
+  "size": 10604301
+}

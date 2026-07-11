@@ -1,0 +1,21 @@
+{
+  "commit": "6e663266434da518391a57b490462ceb6e9743af",
+  "repo_url": "https://github.com/galaxyproject/galaxy",
+  "date": "2020-04-21T16:34:15",
+  "languages": {
+    "Python": 13933383,
+    "JavaScript": 5200817,
+    "Mako": 949615,
+    "Vue": 619707,
+    "CSS": 271263,
+    "SCSS": 261884,
+    "HTML": 163587,
+    "Shell": 131963,
+    "Perl": 58239,
+    "Makefile": 15069,
+    "Dockerfile": 8733,
+    "Jupyter Notebook": 4643,
+    "Lua": 3939
+  },
+  "size": 21622842
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "38b32b08a57f26c6dfa498370959a29cc6e45ef3",
+  "repo_url": "https://github.com/joncampbell123/doslib",
+  "date": "2024-11-27T05:50:54",
+  "languages": {
+    "C": 25399115,
+    "Shell": 1528953,
+    "HTML": 973970,
+    "Makefile": 893550,
+    "C++": 673003,
+    "M4": 418066,
+    "Assembly": 383166,
+    "Roff": 251322,
+    "Perl": 167217,
+    "JavaScript": 37788,
+    "CSS": 29559,
+    "sed": 17265,
+    "Python": 7762,
+    "Visual Basic 6.0": 2357,
+    "Batchfile": 1325
+  },
+  "size": 30784418
+}

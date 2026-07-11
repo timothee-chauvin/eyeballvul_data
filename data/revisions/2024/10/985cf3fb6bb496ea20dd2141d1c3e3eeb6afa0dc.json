@@ -1,0 +1,15 @@
+{
+  "commit": "985cf3fb6bb496ea20dd2141d1c3e3eeb6afa0dc",
+  "repo_url": "https://github.com/siliconlabs/wiseconnect",
+  "date": "2024-10-21T17:10:46",
+  "languages": {
+    "C": 69926161,
+    "Assembly": 1720112,
+    "Jinja": 75925,
+    "Python": 68676,
+    "C++": 48912,
+    "Perl": 1833,
+    "Makefile": 1664
+  },
+  "size": 71843283
+}

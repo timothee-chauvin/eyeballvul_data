@@ -1,0 +1,20 @@
+{
+  "commit": "8b9f449f95c8dc24f00122182bc1d470e19d78cf",
+  "repo_url": "https://github.com/zen-browser/desktop",
+  "date": "2026-04-08T23:36:37",
+  "languages": {
+    "JavaScript": 1575126,
+    "Fluent": 1430854,
+    "C++": 1344773,
+    "CSS": 234393,
+    "HTML": 51439,
+    "Python": 41889,
+    "Rust": 14674,
+    "PowerShell": 9890,
+    "Shell": 9752,
+    "Makefile": 6421,
+    "Objective-C++": 3716,
+    "CMake": 2007
+  },
+  "size": 4724934
+}

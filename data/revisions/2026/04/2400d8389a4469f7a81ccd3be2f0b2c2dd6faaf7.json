@@ -1,0 +1,12 @@
+{
+  "commit": "2400d8389a4469f7a81ccd3be2f0b2c2dd6faaf7",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-js",
+  "date": "2026-04-29T18:07:40",
+  "languages": {
+    "TypeScript": 4976380,
+    "JavaScript": 193543,
+    "Jinja": 8883,
+    "Shell": 4691
+  },
+  "size": 5183497
+}

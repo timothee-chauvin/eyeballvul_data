@@ -1,0 +1,13 @@
+{
+  "commit": "45ca013b1b2d771adf0c8ab05361cbdd9cf0ae9a",
+  "repo_url": "https://github.com/traccar/traccar-client",
+  "date": "2026-05-18T00:56:31",
+  "languages": {
+    "Dart": 53966,
+    "Swift": 2663,
+    "Ruby": 1322,
+    "Kotlin": 120,
+    "Objective-C": 38
+  },
+  "size": 58109
+}

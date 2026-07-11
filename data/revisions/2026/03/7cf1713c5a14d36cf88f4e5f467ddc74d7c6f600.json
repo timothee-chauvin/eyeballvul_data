@@ -1,0 +1,14 @@
+{
+  "commit": "7cf1713c5a14d36cf88f4e5f467ddc74d7c6f600",
+  "repo_url": "https://github.com/chartbrew/chartbrew",
+  "date": "2026-03-11T19:19:06",
+  "languages": {
+    "JavaScript": 3713721,
+    "EJS": 28152,
+    "CSS": 4904,
+    "Shell": 2678,
+    "HTML": 2235,
+    "Dockerfile": 474
+  },
+  "size": 3752164
+}

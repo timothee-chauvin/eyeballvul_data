@@ -1,0 +1,15 @@
+{
+  "commit": "550a25836c3b87b2a9dfc399df0a12d2b3e3de43",
+  "repo_url": "https://github.com/miczflor/rpi-jukebox-rfid",
+  "date": "2024-04-26T18:41:24",
+  "languages": {
+    "PHP": 389281,
+    "Shell": 313570,
+    "Python": 203071,
+    "CSS": 30300,
+    "JavaScript": 21303,
+    "Hack": 11062,
+    "C++": 5479
+  },
+  "size": 974066
+}

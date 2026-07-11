@@ -1,0 +1,16 @@
+{
+  "commit": "6f9abafe6f39e6c004697b72a8f3dba368c00f50",
+  "repo_url": "https://github.com/ming-soft/mcms",
+  "date": "2024-07-29T08:30:08",
+  "languages": {
+    "JavaScript": 17332421,
+    "HTML": 1081943,
+    "CSS": 535484,
+    "Java": 200581,
+    "FreeMarker": 154466,
+    "Less": 22670,
+    "Batchfile": 191,
+    "Shell": 160
+  },
+  "size": 19327916
+}

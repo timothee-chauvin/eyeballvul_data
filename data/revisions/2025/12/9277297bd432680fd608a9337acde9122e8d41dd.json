@@ -1,0 +1,17 @@
+{
+  "commit": "9277297bd432680fd608a9337acde9122e8d41dd",
+  "repo_url": "https://github.com/kubeai-project/kubeai",
+  "date": "2025-12-03T09:57:08",
+  "languages": {
+    "Go": 467181,
+    "Jupyter Notebook": 246881,
+    "Python": 77078,
+    "Shell": 27009,
+    "Makefile": 12357,
+    "Dockerfile": 4619,
+    "Smarty": 4310,
+    "JavaScript": 4147,
+    "Jinja": 316
+  },
+  "size": 843898
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "f05b6d8f77a408bfaa0547acdb999a27413076d2",
+  "repo_url": "https://github.com/rtgs2017/nagaagent",
+  "date": "2026-03-06T05:52:57",
+  "languages": {
+    "Python": 1445124,
+    "Vue": 414619,
+    "TypeScript": 189552,
+    "Shell": 2748,
+    "NSIS": 2235,
+    "Batchfile": 1574,
+    "CSS": 1267,
+    "HTML": 463,
+    "JavaScript": 273
+  },
+  "size": 2057855
+}

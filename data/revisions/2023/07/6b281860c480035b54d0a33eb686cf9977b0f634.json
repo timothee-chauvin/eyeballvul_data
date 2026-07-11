@@ -1,0 +1,12 @@
+{
+  "commit": "6b281860c480035b54d0a33eb686cf9977b0f634",
+  "repo_url": "https://github.com/lavalite/cms",
+  "date": "2023-07-20T10:54:16",
+  "languages": {
+    "PHP": 248204,
+    "Blade": 51313,
+    "JavaScript": 285,
+    "Hack": 1
+  },
+  "size": 299803
+}

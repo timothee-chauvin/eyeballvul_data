@@ -1,0 +1,12 @@
+{
+  "commit": "eed1ca27984d73b22058c0a6c778fd8689ee9dfb",
+  "repo_url": "https://github.com/leont/crypt-argon2",
+  "date": "2025-05-01T13:00:23",
+  "languages": {
+    "C": 144371,
+    "Perl": 14747,
+    "XS": 5584,
+    "Raku": 59
+  },
+  "size": 164761
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "e859dd45e53f5367bfb33fcd4350f05ee3f1f7fb",
+  "repo_url": "https://github.com/oxia-db/oxia",
+  "date": "2026-03-30T08:11:40",
+  "languages": {
+    "Go": 1917267,
+    "TLA": 56813,
+    "Makefile": 5110,
+    "Shell": 1460,
+    "Dockerfile": 1294
+  },
+  "size": 1981944
+}

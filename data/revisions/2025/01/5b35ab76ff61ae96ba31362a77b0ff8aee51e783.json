@@ -1,0 +1,11 @@
+{
+  "commit": "5b35ab76ff61ae96ba31362a77b0ff8aee51e783",
+  "repo_url": "https://github.com/simplesamlphp/simplesamlphp-module-casserver",
+  "date": "2025-01-24T17:18:22",
+  "languages": {
+    "PHP": 304559,
+    "Twig": 1800,
+    "CSS": 1304
+  },
+  "size": 307663
+}

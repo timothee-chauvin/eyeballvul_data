@@ -1,0 +1,28 @@
+{
+  "commit": "8dd9b5eedc170ebc3cb4d2301a7f9a7fa9d42a03",
+  "repo_url": "https://github.com/webmin/webmin",
+  "date": "2018-03-01T05:21:59",
+  "languages": {
+    "Perl": 11408969,
+    "HTML": 3746863,
+    "JavaScript": 356548,
+    "Java": 257442,
+    "Raku": 204157,
+    "NewLisp": 83025,
+    "Python": 76522,
+    "Prolog": 75509,
+    "Makefile": 47482,
+    "Shell": 43350,
+    "CSS": 41071,
+    "Roff": 34390,
+    "PHP": 18896,
+    "SystemVerilog": 17701,
+    "C": 16316,
+    "Emacs Lisp": 8933,
+    "MAXScript": 4861,
+    "Ruby": 1273,
+    "XS": 297,
+    "Erlang": 20
+  },
+  "size": 16443625
+}

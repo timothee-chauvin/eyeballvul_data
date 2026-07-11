@@ -1,0 +1,13 @@
+{
+  "commit": "edf12f699ec3bf6f751cf73cb97f32919e48ca6e",
+  "repo_url": "https://github.com/crowcpp/crow",
+  "date": "2022-08-24T08:47:09",
+  "languages": {
+    "C++": 1185631,
+    "Shell": 9946,
+    "CMake": 9683,
+    "Python": 6527,
+    "C": 704
+  },
+  "size": 1212491
+}

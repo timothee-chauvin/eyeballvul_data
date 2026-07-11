@@ -1,0 +1,17 @@
+{
+  "commit": "af313aad3479a2c111584f289c47746e5023b3b5",
+  "repo_url": "https://github.com/woodpecker-ci/woodpecker",
+  "date": "2026-05-01T09:24:44",
+  "languages": {
+    "Go": 3106391,
+    "Vue": 293093,
+    "TypeScript": 90203,
+    "CSS": 55592,
+    "Makefile": 19841,
+    "JavaScript": 3739,
+    "Nix": 1312,
+    "Shell": 965,
+    "HTML": 688
+  },
+  "size": 3571824
+}

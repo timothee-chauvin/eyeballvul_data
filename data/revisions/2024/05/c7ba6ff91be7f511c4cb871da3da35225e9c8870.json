@@ -1,0 +1,20 @@
+{
+  "commit": "c7ba6ff91be7f511c4cb871da3da35225e9c8870",
+  "repo_url": "https://github.com/minthcm/minthcm",
+  "date": "2024-05-10T08:39:42",
+  "languages": {
+    "PHP": 40686501,
+    "JavaScript": 9046386,
+    "Smarty": 3389417,
+    "CSS": 2659971,
+    "SCSS": 1378728,
+    "HTML": 731721,
+    "Vue": 278371,
+    "Less": 185248,
+    "TypeScript": 92165,
+    "Shell": 1240,
+    "Dockerfile": 1150,
+    "Ruby": 55
+  },
+  "size": 58450953
+}

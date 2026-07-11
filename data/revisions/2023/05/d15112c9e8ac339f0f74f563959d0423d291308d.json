@@ -1,0 +1,13 @@
+{
+  "commit": "d15112c9e8ac339f0f74f563959d0423d291308d",
+  "repo_url": "https://github.com/leaflet/leaflet",
+  "date": "2023-05-18T11:00:15",
+  "languages": {
+    "JavaScript": 879490,
+    "HTML": 146351,
+    "Handlebars": 8753,
+    "CSS": 150,
+    "Shell": 58
+  },
+  "size": 1034802
+}

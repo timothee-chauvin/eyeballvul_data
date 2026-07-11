@@ -1,0 +1,15 @@
+{
+  "commit": "748ff6830cba54dd2f6b008dc3d97f2a3a429a2f",
+  "repo_url": "https://github.com/opensmtpd/opensmtpd",
+  "date": "2020-02-10T22:35:52",
+  "languages": {
+    "C": 1374885,
+    "Yacc": 88832,
+    "Roff": 85694,
+    "M4": 54963,
+    "Makefile": 23340,
+    "Awk": 9897,
+    "Shell": 7152
+  },
+  "size": 1644763
+}

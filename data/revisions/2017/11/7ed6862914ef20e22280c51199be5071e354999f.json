@@ -1,0 +1,19 @@
+{
+  "commit": "7ed6862914ef20e22280c51199be5071e354999f",
+  "repo_url": "https://github.com/openshift/origin",
+  "date": "2017-11-27T10:59:26",
+  "languages": {
+    "Go": 21521339,
+    "Shell": 2320333,
+    "HTML": 74732,
+    "Dockerfile": 30236,
+    "Python": 28770,
+    "Makefile": 23830,
+    "Starlark": 5464,
+    "Roff": 2049,
+    "Awk": 1842,
+    "Mustache": 1010,
+    "DIGITAL Command Language": 117
+  },
+  "size": 24009722
+}

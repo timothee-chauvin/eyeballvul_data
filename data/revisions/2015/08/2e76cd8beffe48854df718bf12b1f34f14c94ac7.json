@@ -1,0 +1,15 @@
+{
+  "commit": "2e76cd8beffe48854df718bf12b1f34f14c94ac7",
+  "repo_url": "https://github.com/opendocman/opendocman",
+  "date": "2015-08-29T18:53:14",
+  "languages": {
+    "PHP": 1397575,
+    "HTML": 1313098,
+    "JavaScript": 726034,
+    "CSS": 90463,
+    "Smarty": 85351,
+    "Shell": 898,
+    "Hack": 3
+  },
+  "size": 3613422
+}

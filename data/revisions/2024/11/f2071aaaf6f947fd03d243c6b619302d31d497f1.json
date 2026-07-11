@@ -1,0 +1,18 @@
+{
+  "commit": "f2071aaaf6f947fd03d243c6b619302d31d497f1",
+  "repo_url": "https://gitlab.com/gnuwget/wget2",
+  "date": "2024-11-24T17:50:10",
+  "languages": {
+    "C": 1905251,
+    "CSS": 144899,
+    "Shell": 108264,
+    "M4": 65758,
+    "Makefile": 41257,
+    "HTML": 38237,
+    "Lex": 4173,
+    "Gnuplot": 1953,
+    "Python": 727,
+    "Emacs Lisp": 197
+  },
+  "size": 2310716
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "71282d76738d3d757ece18ffbe5611b8a39f8476",
+  "repo_url": "https://github.com/jenkinsci/git-plugin",
+  "date": "2017-12-21T14:39:36",
+  "languages": {
+    "Java": 1449280,
+    "HTML": 61479,
+    "Groovy": 7154,
+    "Shell": 4653
+  },
+  "size": 1522566
+}

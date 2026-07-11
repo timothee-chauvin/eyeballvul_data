@@ -1,0 +1,16 @@
+{
+  "commit": "fcb8af08a6fd3bfcf195407c4ba5bae528ee326d",
+  "repo_url": "https://github.com/samtools/samtools",
+  "date": "2014-08-01T14:48:24",
+  "languages": {
+    "C": 825148,
+    "Perl": 208811,
+    "Roff": 118141,
+    "Lua": 28217,
+    "Makefile": 12177,
+    "Java": 9223,
+    "Python": 7889,
+    "Shell": 5479
+  },
+  "size": 1215085
+}

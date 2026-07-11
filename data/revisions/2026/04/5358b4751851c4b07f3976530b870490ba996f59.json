@@ -1,0 +1,14 @@
+{
+  "commit": "5358b4751851c4b07f3976530b870490ba996f59",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+  "date": "2026-04-13T12:24:53",
+  "languages": {
+    "Go": 31247352,
+    "Makefile": 40107,
+    "Shell": 9703,
+    "Dockerfile": 3687,
+    "Jinja": 2891,
+    "HTML": 259
+  },
+  "size": 31303999
+}

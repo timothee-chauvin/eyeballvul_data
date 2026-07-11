@@ -1,0 +1,17 @@
+{
+  "commit": "b8163e4a02ea7ce0386296f91a5e78feda566b4c",
+  "repo_url": "https://github.com/churchcrm/crm",
+  "date": "2025-01-06T20:31:46",
+  "languages": {
+    "PHP": 2280991,
+    "JavaScript": 296932,
+    "TypeScript": 30156,
+    "SCSS": 13496,
+    "Twig": 10636,
+    "Shell": 5906,
+    "HTML": 4839,
+    "CSS": 3535,
+    "Io": 394
+  },
+  "size": 2646885
+}

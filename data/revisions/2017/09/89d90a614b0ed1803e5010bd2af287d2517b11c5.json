@@ -1,0 +1,12 @@
+{
+  "commit": "89d90a614b0ed1803e5010bd2af287d2517b11c5",
+  "repo_url": "https://github.com/latchset/jose",
+  "date": "2017-09-29T17:49:03",
+  "languages": {
+    "C": 390104,
+    "Shell": 25727,
+    "Makefile": 2665,
+    "M4": 1323
+  },
+  "size": 419819
+}

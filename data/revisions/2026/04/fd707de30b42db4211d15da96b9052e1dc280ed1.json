@@ -1,0 +1,19 @@
+{
+  "commit": "fd707de30b42db4211d15da96b9052e1dc280ed1",
+  "repo_url": "https://github.com/exo-explore/exo",
+  "date": "2026-04-23T14:28:40",
+  "languages": {
+    "Python": 2181644,
+    "Svelte": 705091,
+    "Swift": 220103,
+    "TypeScript": 133209,
+    "Rust": 52506,
+    "Nix": 27928,
+    "Shell": 21560,
+    "CSS": 8520,
+    "Just": 1170,
+    "JavaScript": 514,
+    "HTML": 368
+  },
+  "size": 3352613
+}

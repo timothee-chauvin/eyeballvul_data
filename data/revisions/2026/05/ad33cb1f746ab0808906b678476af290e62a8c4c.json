@@ -1,0 +1,17 @@
+{
+  "commit": "ad33cb1f746ab0808906b678476af290e62a8c4c",
+  "repo_url": "https://github.com/garybowers/bootimus",
+  "date": "2026-05-22T11:35:52",
+  "languages": {
+    "Go": 504635,
+    "JavaScript": 331164,
+    "HTML": 133700,
+    "TypeScript": 75164,
+    "Astro": 67157,
+    "CSS": 43320,
+    "Shell": 33109,
+    "Makefile": 6938,
+    "Dockerfile": 2128
+  },
+  "size": 1197315
+}

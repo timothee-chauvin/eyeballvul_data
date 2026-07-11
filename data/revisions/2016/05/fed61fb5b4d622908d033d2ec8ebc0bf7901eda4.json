@@ -1,0 +1,13 @@
+{
+  "commit": "fed61fb5b4d622908d033d2ec8ebc0bf7901eda4",
+  "repo_url": "https://github.com/jquery/jquery",
+  "date": "2016-05-20T18:53:42",
+  "languages": {
+    "JavaScript": 994427,
+    "HTML": 54572,
+    "PHP": 5157,
+    "CSS": 2241,
+    "Hack": 287
+  },
+  "size": 1056684
+}

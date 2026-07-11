@@ -1,0 +1,13 @@
+{
+  "commit": "def9e38f816c7654c2cb0918611d7fab2f941241",
+  "repo_url": "https://github.com/tiddly-gittly/tidgi-desktop",
+  "date": "2026-04-21T14:16:04",
+  "languages": {
+    "TypeScript": 3800586,
+    "Gherkin": 216439,
+    "JavaScript": 8731,
+    "NSIS": 1954,
+    "HTML": 207
+  },
+  "size": 4027917
+}

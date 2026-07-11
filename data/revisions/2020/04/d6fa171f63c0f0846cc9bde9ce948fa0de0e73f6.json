@@ -1,0 +1,16 @@
+{
+  "commit": "d6fa171f63c0f0846cc9bde9ce948fa0de0e73f6",
+  "repo_url": "https://github.com/phplist/phplist3",
+  "date": "2020-04-22T15:59:23",
+  "languages": {
+    "PHP": 2722440,
+    "CSS": 191839,
+    "JavaScript": 72470,
+    "Hack": 42177,
+    "Gherkin": 13240,
+    "Shell": 9595,
+    "HTML": 3915,
+    "Perl": 867
+  },
+  "size": 3056543
+}

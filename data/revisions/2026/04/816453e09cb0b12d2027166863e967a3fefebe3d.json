@@ -1,0 +1,14 @@
+{
+  "commit": "816453e09cb0b12d2027166863e967a3fefebe3d",
+  "repo_url": "https://github.com/notifiarr/dockwatch",
+  "date": "2026-04-03T22:03:03",
+  "languages": {
+    "PHP": 686510,
+    "SCSS": 226382,
+    "JavaScript": 122618,
+    "CSS": 27811,
+    "Dockerfile": 6655,
+    "Shell": 2228
+  },
+  "size": 1072204
+}

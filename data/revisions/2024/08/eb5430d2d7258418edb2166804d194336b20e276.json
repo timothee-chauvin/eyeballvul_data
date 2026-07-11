@@ -1,0 +1,33 @@
+{
+  "commit": "eb5430d2d7258418edb2166804d194336b20e276",
+  "repo_url": "https://github.com/openafs/openafs",
+  "date": "2024-08-22T16:20:43",
+  "languages": {
+    "C": 23041959,
+    "C++": 6198239,
+    "Java": 527882,
+    "Perl": 467110,
+    "Makefile": 429924,
+    "Rich Text Format": 293425,
+    "Shell": 273324,
+    "Objective-C": 265157,
+    "M4": 202024,
+    "Rez": 179735,
+    "NSIS": 167603,
+    "CartoCSS": 60336,
+    "Assembly": 42014,
+    "Rouge": 29893,
+    "TeX": 21476,
+    "Tcl": 16872,
+    "HTML": 14999,
+    "Batchfile": 14111,
+    "Yacc": 12926,
+    "SWIG": 7370,
+    "Roff": 5781,
+    "Lex": 5704,
+    "D": 4019,
+    "Raku": 2597,
+    "CSS": 908
+  },
+  "size": 32285388
+}

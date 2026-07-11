@@ -1,0 +1,12 @@
+{
+  "commit": "4587e87e23adc9a4163834dc8c9ba9d7206c6501",
+  "repo_url": "https://github.com/ohler55/oj",
+  "date": "2026-05-16T00:09:36",
+  "languages": {
+    "C": 819547,
+    "Ruby": 418425,
+    "RPC": 9028,
+    "Shell": 3034
+  },
+  "size": 1250034
+}

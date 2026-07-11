@@ -1,0 +1,16 @@
+{
+  "commit": "8187dad46a90027de7e51de50366e9a8fed1307a",
+  "repo_url": "https://github.com/parseablehq/parseable",
+  "date": "2026-06-15T13:06:12",
+  "languages": {
+    "Rust": 2305362,
+    "Shell": 48996,
+    "PowerShell": 19050,
+    "Python": 8857,
+    "Smarty": 3046,
+    "Dockerfile": 2279,
+    "Handlebars": 1871,
+    "Makefile": 354
+  },
+  "size": 2389815
+}

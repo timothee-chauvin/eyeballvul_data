@@ -1,0 +1,16 @@
+{
+  "commit": "6d809fda1d59048521c6d5c7e8c3306039b18d4c",
+  "repo_url": "https://github.com/monicahq/monica",
+  "date": "2020-09-12T19:00:58",
+  "languages": {
+    "PHP": 5248580,
+    "Vue": 610189,
+    "Blade": 548098,
+    "Shell": 25214,
+    "Makefile": 6489,
+    "Dockerfile": 6240,
+    "Standard ML": 1666,
+    "Procfile": 157
+  },
+  "size": 6446633
+}

@@ -1,0 +1,26 @@
+{
+  "commit": "f615db63323905da6bdff735c1c717e33e3024fa",
+  "repo_url": "https://github.com/videolan/vlc-3.0",
+  "date": "2018-08-09T14:48:25",
+  "languages": {
+    "C": 19978854,
+    "C++": 4700086,
+    "Objective-C": 1894458,
+    "Makefile": 425056,
+    "Lua": 324322,
+    "M4": 320426,
+    "NSIS": 298104,
+    "JavaScript": 212396,
+    "Shell": 91925,
+    "HTML": 63224,
+    "Assembly": 48112,
+    "Python": 32319,
+    "Yacc": 17470,
+    "CSS": 6221,
+    "Vim Script": 4438,
+    "Lex": 4213,
+    "Perl": 2714,
+    "SRecode Template": 2
+  },
+  "size": 28424340
+}

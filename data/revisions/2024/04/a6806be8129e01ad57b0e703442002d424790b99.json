@@ -1,0 +1,16 @@
+{
+  "commit": "a6806be8129e01ad57b0e703442002d424790b99",
+  "repo_url": "https://github.com/sanluan/publiccms",
+  "date": "2024-04-28T07:57:01",
+  "languages": {
+    "Java": 5861545,
+    "HTML": 2258093,
+    "CSS": 397301,
+    "FreeMarker": 42128,
+    "PHP": 2358,
+    "Batchfile": 820,
+    "Shell": 762,
+    "Dockerfile": 359
+  },
+  "size": 8563366
+}

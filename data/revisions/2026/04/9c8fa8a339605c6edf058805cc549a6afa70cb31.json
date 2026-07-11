@@ -1,0 +1,12 @@
+{
+  "commit": "9c8fa8a339605c6edf058805cc549a6afa70cb31",
+  "repo_url": "https://github.com/ruby/erb",
+  "date": "2026-04-15T16:43:55",
+  "languages": {
+    "Ruby": 77060,
+    "C": 3054,
+    "Shell": 131,
+    "HTML": 50
+  },
+  "size": 80295
+}

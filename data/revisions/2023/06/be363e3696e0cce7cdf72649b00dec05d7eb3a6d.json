@@ -1,0 +1,19 @@
+{
+  "commit": "be363e3696e0cce7cdf72649b00dec05d7eb3a6d",
+  "repo_url": "https://github.com/slims/slims9_bulian",
+  "date": "2023-06-01T13:02:15",
+  "languages": {
+    "PHP": 18183819,
+    "JavaScript": 5942267,
+    "CSS": 578607,
+    "Less": 199478,
+    "HTML": 43274,
+    "XSLT": 21879,
+    "Shell": 6731,
+    "Makefile": 1032,
+    "Python": 953,
+    "Batchfile": 93,
+    "Hack": 32
+  },
+  "size": 24978165
+}

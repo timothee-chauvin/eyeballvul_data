@@ -1,0 +1,12 @@
+{
+  "commit": "1fd48a99a3d94d2db30a9c169e76720c47f2e1d0",
+  "repo_url": "https://github.com/pluck-cms/pluck",
+  "date": "2023-02-20T10:13:36",
+  "languages": {
+    "PHP": 1129608,
+    "JavaScript": 39558,
+    "CSS": 34507,
+    "HTML": 207
+  },
+  "size": 1203880
+}

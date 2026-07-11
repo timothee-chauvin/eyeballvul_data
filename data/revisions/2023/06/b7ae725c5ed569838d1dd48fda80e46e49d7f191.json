@@ -1,0 +1,21 @@
+{
+  "commit": "b7ae725c5ed569838d1dd48fda80e46e49d7f191",
+  "repo_url": "https://github.com/tauri-apps/tauri",
+  "date": "2023-06-14T15:59:28",
+  "languages": {
+    "Rust": 1627113,
+    "TypeScript": 188490,
+    "NSIS": 66813,
+    "JavaScript": 50630,
+    "Shell": 44864,
+    "PowerShell": 4052,
+    "Dockerfile": 2177,
+    "HTML": 2130,
+    "AppleScript": 1828,
+    "Svelte": 1728,
+    "CSS": 1654,
+    "Batchfile": 1644,
+    "Standard ML": 1348
+  },
+  "size": 1994471
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "2ef19433e53e1adda3a064bb3014c6e6b8940966",
+  "repo_url": "https://github.com/elastic/package-registry",
+  "date": "2026-03-11T14:03:09",
+  "languages": {
+    "Go": 478839,
+    "Shell": 21448,
+    "PowerShell": 2153,
+    "Dockerfile": 1447,
+    "Makefile": 785
+  },
+  "size": 504672
+}

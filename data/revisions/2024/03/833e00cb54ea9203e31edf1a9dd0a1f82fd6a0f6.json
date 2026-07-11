@@ -1,0 +1,13 @@
+{
+  "commit": "833e00cb54ea9203e31edf1a9dd0a1f82fd6a0f6",
+  "repo_url": "https://github.com/rapid7/insightconnect-plugins",
+  "date": "2024-03-27T10:20:16",
+  "languages": {
+    "Python": 23237985,
+    "Makefile": 585683,
+    "Dockerfile": 176918,
+    "Shell": 22784,
+    "Jinja": 529
+  },
+  "size": 24023899
+}

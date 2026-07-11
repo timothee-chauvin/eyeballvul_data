@@ -1,0 +1,12 @@
+{
+  "commit": "94ab921f411644b3773542c0791f2213813097a5",
+  "repo_url": "https://github.com/edgewall/genshi",
+  "date": "2024-06-15T23:49:55",
+  "languages": {
+    "Python": 853440,
+    "C": 22415,
+    "Shell": 728,
+    "HTML": 550
+  },
+  "size": 877133
+}

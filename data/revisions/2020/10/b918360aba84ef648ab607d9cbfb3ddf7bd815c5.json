@@ -1,0 +1,17 @@
+{
+  "commit": "b918360aba84ef648ab607d9cbfb3ddf7bd815c5",
+  "repo_url": "https://github.com/orckestra/c1-cms-foundation",
+  "date": "2020-10-05T10:06:29",
+  "languages": {
+    "C#": 10730310,
+    "JavaScript": 2605688,
+    "ASP.NET": 846764,
+    "Less": 92506,
+    "XSLT": 86193,
+    "CSS": 50401,
+    "HTML": 40251,
+    "Batchfile": 6114,
+    "PowerShell": 2763
+  },
+  "size": 14460990
+}

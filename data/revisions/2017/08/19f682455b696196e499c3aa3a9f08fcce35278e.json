@@ -1,0 +1,17 @@
+{
+  "commit": "19f682455b696196e499c3aa3a9f08fcce35278e",
+  "repo_url": "https://github.com/commsy/commsy",
+  "date": "2017-08-18T08:08:44",
+  "languages": {
+    "PHP": 15036570,
+    "JavaScript": 1122894,
+    "Twig": 1076691,
+    "Smarty": 792372,
+    "HTML": 205186,
+    "CSS": 127918,
+    "Less": 74203,
+    "Shell": 4134,
+    "Dockerfile": 2371
+  },
+  "size": 18442339
+}

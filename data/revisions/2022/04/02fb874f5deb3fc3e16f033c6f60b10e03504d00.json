@@ -1,0 +1,18 @@
+{
+  "commit": "02fb874f5deb3fc3e16f033c6f60b10e03504d00",
+  "repo_url": "https://github.com/argoproj/argo-workflows",
+  "date": "2022-04-29T18:30:23",
+  "languages": {
+    "Go": 3115063,
+    "TypeScript": 621403,
+    "Makefile": 31415,
+    "SCSS": 28221,
+    "Shell": 9365,
+    "Python": 7229,
+    "Dockerfile": 5671,
+    "JavaScript": 3476,
+    "Procfile": 986,
+    "HTML": 472
+  },
+  "size": 3823301
+}

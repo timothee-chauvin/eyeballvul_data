@@ -1,0 +1,15 @@
+{
+  "commit": "7411a016d458619e26fed43718421f9fac9d10e0",
+  "repo_url": "https://github.com/transformeroptimus/superagi",
+  "date": "2024-01-12T16:38:17",
+  "languages": {
+    "Python": 1292469,
+    "JavaScript": 448309,
+    "CSS": 72910,
+    "Shell": 11590,
+    "Dockerfile": 1571,
+    "Batchfile": 928,
+    "Mako": 510
+  },
+  "size": 1828287
+}

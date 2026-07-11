@@ -1,0 +1,18 @@
+{
+  "commit": "b7467826964737b760531318758d19962e3400b3",
+  "repo_url": "https://github.com/netflix/consoleme",
+  "date": "2024-05-13T17:09:02",
+  "languages": {
+    "Python": 1502475,
+    "JavaScript": 386349,
+    "HCL": 33221,
+    "Shell": 6066,
+    "Makefile": 4806,
+    "CSS": 4436,
+    "Smarty": 1802,
+    "HTML": 1750,
+    "Dockerfile": 1150,
+    "PHP": 638
+  },
+  "size": 1942693
+}

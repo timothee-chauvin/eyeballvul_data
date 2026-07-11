@@ -1,0 +1,16 @@
+{
+  "commit": "bae887e095d87e756d1bf4aa4f95a97693a97b62",
+  "repo_url": "https://github.com/lief-project/lief",
+  "date": "2024-02-11T18:56:27",
+  "languages": {
+    "C++": 5410492,
+    "Python": 863905,
+    "SourcePawn": 151193,
+    "C": 125047,
+    "CMake": 113963,
+    "Shell": 19973,
+    "Objective-C": 736,
+    "Makefile": 440
+  },
+  "size": 6685749
+}

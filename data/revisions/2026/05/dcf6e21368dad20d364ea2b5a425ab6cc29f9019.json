@@ -1,0 +1,16 @@
+{
+  "commit": "dcf6e21368dad20d364ea2b5a425ab6cc29f9019",
+  "repo_url": "https://github.com/malach-it/boruta-server",
+  "date": "2026-05-18T19:38:28",
+  "languages": {
+    "Elixir": 1123224,
+    "Vue": 310416,
+    "JavaScript": 92032,
+    "Mustache": 26588,
+    "HTML": 13613,
+    "TypeScript": 2462,
+    "Shell": 1931,
+    "Dockerfile": 196
+  },
+  "size": 1570462
+}

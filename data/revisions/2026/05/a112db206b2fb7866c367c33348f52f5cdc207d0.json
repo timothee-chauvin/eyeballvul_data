@@ -1,0 +1,17 @@
+{
+  "commit": "a112db206b2fb7866c367c33348f52f5cdc207d0",
+  "repo_url": "https://github.com/vxcontrol/pentagi",
+  "date": "2026-05-29T13:16:53",
+  "languages": {
+    "Go": 5521805,
+    "TypeScript": 2274033,
+    "CSS": 16560,
+    "PLpgSQL": 13211,
+    "Dockerfile": 6934,
+    "Shell": 4674,
+    "JavaScript": 2507,
+    "HTML": 1800,
+    "PowerShell": 1408
+  },
+  "size": 7842932
+}

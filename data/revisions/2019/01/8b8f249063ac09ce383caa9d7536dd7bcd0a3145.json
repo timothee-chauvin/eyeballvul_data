@@ -1,0 +1,14 @@
+{
+  "commit": "8b8f249063ac09ce383caa9d7536dd7bcd0a3145",
+  "repo_url": "https://github.com/eipstackgroup/opener",
+  "date": "2019-01-14T16:59:41",
+  "languages": {
+    "C": 690748,
+    "C++": 71040,
+    "CMake": 33773,
+    "TeX": 11694,
+    "Shell": 5492,
+    "Batchfile": 159
+  },
+  "size": 812906
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "dbe9337105879d86b471b293da8fe4c8c9e7cdeb",
+  "repo_url": "https://github.com/nextcloud/circles",
+  "date": "2026-03-23T00:32:23",
+  "languages": {
+    "JavaScript": 1938210,
+    "PHP": 1898281,
+    "Vue": 16978,
+    "Makefile": 3362,
+    "TypeScript": 2630,
+    "Shell": 490,
+    "CSS": 251
+  },
+  "size": 3860202
+}

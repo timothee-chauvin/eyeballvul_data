@@ -1,0 +1,16 @@
+{
+  "commit": "694358720c5fdea57901950d3ae4e6d9360f02ed",
+  "repo_url": "https://github.com/pritunl/pritunl-client",
+  "date": "2020-09-04T01:22:56",
+  "languages": {
+    "Go": 212909,
+    "JavaScript": 113167,
+    "Ruby": 18912,
+    "CSS": 15990,
+    "Python": 14917,
+    "Shell": 13528,
+    "HTML": 3696,
+    "Inno Setup": 2584
+  },
+  "size": 395703
+}

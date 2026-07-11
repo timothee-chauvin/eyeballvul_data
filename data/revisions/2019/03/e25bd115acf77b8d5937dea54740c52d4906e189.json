@@ -1,0 +1,12 @@
+{
+  "commit": "e25bd115acf77b8d5937dea54740c52d4906e189",
+  "repo_url": "https://github.com/getgrav/grav-plugin-login",
+  "date": "2019-03-20T18:10:24",
+  "languages": {
+    "PHP": 120251,
+    "Twig": 9912,
+    "CSS": 1512,
+    "JavaScript": 1163
+  },
+  "size": 132838
+}

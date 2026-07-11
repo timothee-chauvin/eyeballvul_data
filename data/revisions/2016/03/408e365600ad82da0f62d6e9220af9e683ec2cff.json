@@ -1,0 +1,13 @@
+{
+  "commit": "408e365600ad82da0f62d6e9220af9e683ec2cff",
+  "repo_url": "https://github.com/nextcloud/gallery",
+  "date": "2016-03-01T11:47:44",
+  "languages": {
+    "PHP": 519850,
+    "JavaScript": 349404,
+    "CSS": 29426,
+    "Hack": 752,
+    "Shell": 248
+  },
+  "size": 899680
+}

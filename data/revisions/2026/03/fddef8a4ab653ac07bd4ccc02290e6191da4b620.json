@@ -1,0 +1,12 @@
+{
+  "commit": "fddef8a4ab653ac07bd4ccc02290e6191da4b620",
+  "repo_url": "https://github.com/apidevtools/json-schema-ref-parser",
+  "date": "2026-03-30T17:23:31",
+  "languages": {
+    "TypeScript": 803125,
+    "JavaScript": 1989,
+    "HTML": 181,
+    "CSS": 82
+  },
+  "size": 805377
+}

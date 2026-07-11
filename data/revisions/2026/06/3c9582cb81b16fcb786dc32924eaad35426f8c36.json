@@ -1,0 +1,12 @@
+{
+  "commit": "3c9582cb81b16fcb786dc32924eaad35426f8c36",
+  "repo_url": "https://github.com/pathwaycom/pathway",
+  "date": "2026-06-12T09:48:26",
+  "languages": {
+    "Python": 5109160,
+    "Rust": 2745831,
+    "HTML": 477,
+    "Shell": 203
+  },
+  "size": 7855671
+}

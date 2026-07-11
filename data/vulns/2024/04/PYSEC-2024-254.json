@@ -12,6 +12,7 @@
   "repo_url": "https://github.com/zenml-io/zenml",
   "cwes": [],
   "commits": [
-    "18824ef77df44f3dee4ba1e7f61d767db8ee58c2"
+    "18824ef77df44f3dee4ba1e7f61d767db8ee58c2",
+    "a24ccb12d4cfd5652388b031ca828600981a1925"
   ]
 }

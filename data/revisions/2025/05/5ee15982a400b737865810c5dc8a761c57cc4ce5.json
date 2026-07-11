@@ -1,0 +1,12 @@
+{
+  "commit": "5ee15982a400b737865810c5dc8a761c57cc4ce5",
+  "repo_url": "https://github.com/redhatinsights/yggdrasil",
+  "date": "2025-05-01T19:26:10",
+  "languages": {
+    "Go": 167530,
+    "Meson": 8239,
+    "Python": 7131,
+    "Shell": 4071
+  },
+  "size": 186971
+}

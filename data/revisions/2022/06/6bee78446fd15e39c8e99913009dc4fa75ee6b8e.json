@@ -1,0 +1,15 @@
+{
+  "commit": "6bee78446fd15e39c8e99913009dc4fa75ee6b8e",
+  "repo_url": "https://github.com/dataease/dataease",
+  "date": "2022-06-02T10:26:23",
+  "languages": {
+    "Java": 12868571,
+    "Vue": 2277662,
+    "JavaScript": 793832,
+    "CSS": 374706,
+    "HTML": 92011,
+    "SCSS": 50727,
+    "Dockerfile": 569
+  },
+  "size": 16458078
+}

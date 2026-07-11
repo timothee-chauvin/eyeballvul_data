@@ -1,0 +1,20 @@
+{
+  "commit": "ce1fb4447efc9958dcf279f7eb2ae6941bec1220",
+  "repo_url": "https://github.com/ollama/ollama",
+  "date": "2024-08-01T23:31:47",
+  "languages": {
+    "Go": 809582,
+    "C": 46079,
+    "Shell": 42140,
+    "PowerShell": 24365,
+    "TypeScript": 17721,
+    "Dockerfile": 6157,
+    "Inno Setup": 5815,
+    "Python": 2520,
+    "Objective-C": 1285,
+    "CSS": 518,
+    "JavaScript": 248,
+    "HTML": 123
+  },
+  "size": 956553
+}

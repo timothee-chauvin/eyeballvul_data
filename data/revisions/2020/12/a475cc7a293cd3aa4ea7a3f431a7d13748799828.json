@@ -1,0 +1,18 @@
+{
+  "commit": "a475cc7a293cd3aa4ea7a3f431a7d13748799828",
+  "repo_url": "https://github.com/zeek/zeek",
+  "date": "2020-12-15T05:44:30",
+  "languages": {
+    "C++": 4666330,
+    "Zeek": 4177386,
+    "C": 143433,
+    "CMake": 78323,
+    "Yacc": 68891,
+    "Shell": 39458,
+    "Lex": 37697,
+    "Python": 7170,
+    "Dockerfile": 5947,
+    "Makefile": 4444
+  },
+  "size": 9229079
+}

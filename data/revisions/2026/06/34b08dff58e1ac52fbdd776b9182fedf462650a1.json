@@ -1,0 +1,13 @@
+{
+  "commit": "34b08dff58e1ac52fbdd776b9182fedf462650a1",
+  "repo_url": "https://github.com/lstein/perl-gd",
+  "date": "2026-06-02T11:06:09",
+  "languages": {
+    "Perl": 228582,
+    "XS": 64893,
+    "C++": 29317,
+    "Shell": 794,
+    "Raku": 437
+  },
+  "size": 324023
+}

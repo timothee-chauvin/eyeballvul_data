@@ -1,0 +1,11 @@
+{
+  "commit": "16b2081035cacf35b7a3209ce2f663891ffdb0dc",
+  "repo_url": "https://github.com/docling-project/docling",
+  "date": "2026-02-13T15:34:52",
+  "languages": {
+    "Python": 1658371,
+    "Shell": 12928,
+    "Dockerfile": 3968
+  },
+  "size": 1675267
+}

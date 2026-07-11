@@ -1,0 +1,20 @@
+{
+  "commit": "e60fba94e8cabf1661a1da488b78b84a4fba56e9",
+  "repo_url": "https://github.com/smuellerdd/leancrypto",
+  "date": "2026-03-22T11:53:00",
+  "languages": {
+    "C": 67091618,
+    "Assembly": 1922223,
+    "HTML": 982477,
+    "Rust": 485383,
+    "Meson": 359385,
+    "Shell": 91241,
+    "PHP": 13818,
+    "C++": 7586,
+    "Awk": 7062,
+    "Perl": 5828,
+    "Makefile": 1248,
+    "Python": 195
+  },
+  "size": 70968064
+}

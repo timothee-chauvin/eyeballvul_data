@@ -1,0 +1,19 @@
+{
+  "commit": "5d370adf3e695fc8b11137e5beeb01973cb46810",
+  "repo_url": "https://github.com/apconw/aix-db",
+  "date": "2026-04-11T10:27:50",
+  "languages": {
+    "JavaScript": 4121909,
+    "Fluent": 1928798,
+    "Python": 1537877,
+    "Vue": 646596,
+    "CSS": 155841,
+    "TypeScript": 139844,
+    "HTML": 45565,
+    "SCSS": 13819,
+    "Makefile": 7622,
+    "Shell": 4213,
+    "Dockerfile": 2434
+  },
+  "size": 8604518
+}

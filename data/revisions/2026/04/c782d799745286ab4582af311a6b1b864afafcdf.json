@@ -1,0 +1,11 @@
+{
+  "commit": "c782d799745286ab4582af311a6b1b864afafcdf",
+  "repo_url": "https://github.com/mvt-project/mvt",
+  "date": "2026-04-29T12:32:29",
+  "languages": {
+    "Python": 594811,
+    "Dockerfile": 5234,
+    "Makefile": 739
+  },
+  "size": 600784
+}

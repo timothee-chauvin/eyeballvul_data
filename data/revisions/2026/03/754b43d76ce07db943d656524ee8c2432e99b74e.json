@@ -1,0 +1,12 @@
+{
+  "commit": "754b43d76ce07db943d656524ee8c2432e99b74e",
+  "repo_url": "https://github.com/lexiforest/curl_cffi",
+  "date": "2026-03-30T10:06:48",
+  "languages": {
+    "Python": 558930,
+    "C": 4477,
+    "Makefile": 2109,
+    "Shell": 581
+  },
+  "size": 566097
+}

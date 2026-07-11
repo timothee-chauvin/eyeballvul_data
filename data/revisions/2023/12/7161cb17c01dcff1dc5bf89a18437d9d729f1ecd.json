@@ -1,0 +1,19 @@
+{
+  "commit": "7161cb17c01dcff1dc5bf89a18437d9d729f1ecd",
+  "repo_url": "https://github.com/curl/curl",
+  "date": "2023-12-06T07:11:44",
+  "languages": {
+    "C": 7251138,
+    "Perl": 788765,
+    "M4": 542360,
+    "Python": 290333,
+    "DIGITAL Command Language": 225610,
+    "CMake": 182751,
+    "Makefile": 141190,
+    "Shell": 75727,
+    "Batchfile": 67340,
+    "Roff": 15427,
+    "Emacs Lisp": 1348
+  },
+  "size": 9581989
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "5f205e1b301d7aee80e72c1c4d44e71f2a4793d6",
+  "repo_url": "https://github.com/emqx/emqx",
+  "date": "2026-03-31T13:08:15",
+  "languages": {
+    "Erlang": 21816524,
+    "Shell": 325001,
+    "Elixir": 244756,
+    "HTML": 183747,
+    "Python": 93550,
+    "C": 57549,
+    "Makefile": 20397,
+    "Jupyter Notebook": 8180,
+    "Coq": 5563,
+    "Dockerfile": 4889,
+    "HCL": 2781,
+    "Mustache": 1633
+  },
+  "size": 22764570
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "2c449f3a8889b1ee76c175e1f18d72ea977f2319",
+  "repo_url": "https://github.com/rancher/webhook",
+  "date": "2026-06-22T22:13:05",
+  "languages": {
+    "Go": 1135294,
+    "Shell": 9719,
+    "Dockerfile": 4115,
+    "Makefile": 2473,
+    "Smarty": 490
+  },
+  "size": 1152091
+}

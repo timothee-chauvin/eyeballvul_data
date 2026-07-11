@@ -1,0 +1,12 @@
+{
+  "commit": "19a9de63d8b895c6f931137bba09c3d5a79caf52",
+  "repo_url": "https://github.com/simplemachines/smf",
+  "date": "2023-05-07T16:00:07",
+  "languages": {
+    "PHP": 8491271,
+    "JavaScript": 330683,
+    "CSS": 157353,
+    "PLpgSQL": 84340
+  },
+  "size": 9063647
+}

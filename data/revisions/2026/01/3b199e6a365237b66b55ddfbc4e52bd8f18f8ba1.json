@@ -1,0 +1,18 @@
+{
+  "commit": "3b199e6a365237b66b55ddfbc4e52bd8f18f8ba1",
+  "repo_url": "https://github.com/opencti-platform/opencti",
+  "date": "2026-01-28T16:51:59",
+  "languages": {
+    "TypeScript": 19617980,
+    "JavaScript": 8724029,
+    "Python": 2285538,
+    "HTML": 43713,
+    "CSS": 31548,
+    "Shell": 6562,
+    "ANTLR": 5258,
+    "Dockerfile": 4616,
+    "Makefile": 846,
+    "Batchfile": 795
+  },
+  "size": 30720885
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "32771f9457f48d768747d41f7fffdcc66718465e",
+  "repo_url": "https://github.com/flatpressblog/flatpress",
+  "date": "2024-04-07T10:13:10",
+  "languages": {
+    "PHP": 2853399,
+    "JavaScript": 130890,
+    "Smarty": 102998,
+    "CSS": 95785,
+    "Yacc": 40453,
+    "HTML": 32532,
+    "Shell": 762
+  },
+  "size": 3256819
+}

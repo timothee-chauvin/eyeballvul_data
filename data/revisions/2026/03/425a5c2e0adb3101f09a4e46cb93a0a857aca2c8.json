@@ -1,0 +1,11 @@
+{
+  "commit": "425a5c2e0adb3101f09a4e46cb93a0a857aca2c8",
+  "repo_url": "https://github.com/eclipse-csi/pia",
+  "date": "2026-03-10T08:59:58",
+  "languages": {
+    "Python": 32463,
+    "Makefile": 1235,
+    "Dockerfile": 953
+  },
+  "size": 34651
+}

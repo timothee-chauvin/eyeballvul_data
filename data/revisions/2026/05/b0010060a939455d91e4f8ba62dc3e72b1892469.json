@@ -1,0 +1,15 @@
+{
+  "commit": "b0010060a939455d91e4f8ba62dc3e72b1892469",
+  "repo_url": "https://github.com/googleapis/mcp-toolbox",
+  "date": "2026-05-21T21:49:43",
+  "languages": {
+    "Go": 5799373,
+    "JavaScript": 90256,
+    "HTML": 63972,
+    "SCSS": 36717,
+    "Shell": 24378,
+    "CSS": 15097,
+    "Dockerfile": 1895
+  },
+  "size": 6031688
+}

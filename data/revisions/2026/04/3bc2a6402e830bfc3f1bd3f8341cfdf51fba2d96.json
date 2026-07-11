@@ -1,0 +1,16 @@
+{
+  "commit": "3bc2a6402e830bfc3f1bd3f8341cfdf51fba2d96",
+  "repo_url": "https://github.com/g-research/parquetsharp",
+  "date": "2026-04-14T09:46:17",
+  "languages": {
+    "C#": 1250911,
+    "C++": 155551,
+    "CMake": 6713,
+    "Shell": 3262,
+    "PowerShell": 2964,
+    "F#": 2691,
+    "Dockerfile": 1986,
+    "Python": 1854
+  },
+  "size": 1425932
+}

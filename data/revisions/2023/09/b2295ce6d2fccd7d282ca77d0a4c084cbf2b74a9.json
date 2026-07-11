@@ -1,0 +1,14 @@
+{
+  "commit": "b2295ce6d2fccd7d282ca77d0a4c084cbf2b74a9",
+  "repo_url": "https://github.com/grocy/grocy",
+  "date": "2023-09-02T07:28:19",
+  "languages": {
+    "Blade": 484906,
+    "JavaScript": 482931,
+    "PHP": 404086,
+    "CSS": 29047,
+    "Batchfile": 1855,
+    "Shell": 968
+  },
+  "size": 1403793
+}

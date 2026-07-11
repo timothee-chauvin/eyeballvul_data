@@ -1,0 +1,17 @@
+{
+  "commit": "7f8b04decc239abb6ab7d7e4a2358d3ed106d9b8",
+  "repo_url": "https://github.com/chillicream/graphql-platform",
+  "date": "2026-04-03T10:53:46",
+  "languages": {
+    "C#": 21141524,
+    "TypeScript": 332191,
+    "HTML": 95046,
+    "JavaScript": 24119,
+    "PowerShell": 2936,
+    "Shell": 2645,
+    "CSS": 2503,
+    "Open Policy Agent": 833,
+    "Batchfile": 394
+  },
+  "size": 21602191
+}

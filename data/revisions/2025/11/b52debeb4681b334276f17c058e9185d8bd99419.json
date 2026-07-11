@@ -1,0 +1,15 @@
+{
+  "commit": "b52debeb4681b334276f17c058e9185d8bd99419",
+  "repo_url": "https://github.com/artraweditor/art",
+  "date": "2025-11-17T08:29:45",
+  "languages": {
+    "C++": 8549187,
+    "C": 693579,
+    "CSS": 237215,
+    "JavaScript": 172153,
+    "Python": 106598,
+    "CMake": 70429,
+    "Shell": 34844
+  },
+  "size": 9864005
+}

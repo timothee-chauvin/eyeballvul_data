@@ -1,0 +1,11 @@
+{
+  "commit": "246a6f1d91a3fa1ef76d6d0ec7085ed61e7638f6",
+  "repo_url": "https://github.com/yuin/goldmark",
+  "date": "2026-01-06T04:46:56",
+  "languages": {
+    "Go": 387066,
+    "C": 1911,
+    "Makefile": 1260
+  },
+  "size": 390237
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "b46217c78c28d80757294388b6803b762e799fdd",
+  "repo_url": "https://github.com/webmin/usermin",
+  "date": "2023-07-23T21:58:50",
+  "languages": {
+    "Perl": 620049,
+    "Shell": 32203,
+    "NewLisp": 21990,
+    "Emacs Lisp": 18495,
+    "C#": 7985,
+    "Raku": 2237,
+    "Smalltalk": 615,
+    "Ruby": 446,
+    "JavaScript": 213,
+    "SystemVerilog": 67
+  },
+  "size": 704300
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "0c8bb30c143951d88b1d4b32f260c5f67d30137b",
+  "repo_url": "https://github.com/in-toto/go-witness",
+  "date": "2025-05-16T15:24:41",
+  "languages": {
+    "Go": 940207,
+    "Shell": 7189,
+    "Makefile": 1374
+  },
+  "size": 948770
+}

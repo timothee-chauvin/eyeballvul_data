@@ -1,0 +1,25 @@
+{
+  "commit": "8968fe99769cbbbb79e38a8d8d7894093f302c69",
+  "repo_url": "https://github.com/orneryd/nornicdb",
+  "date": "2026-04-17T02:00:10",
+  "languages": {
+    "Go": 16041939,
+    "Python": 355526,
+    "Swift": 353623,
+    "TypeScript": 342763,
+    "C++": 191470,
+    "Shell": 128773,
+    "C": 75513,
+    "Makefile": 68729,
+    "Objective-C": 59737,
+    "Batchfile": 33874,
+    "Metal": 29185,
+    "PowerShell": 24385,
+    "CSS": 21647,
+    "ANTLR": 17924,
+    "Cuda": 17038,
+    "JavaScript": 1001,
+    "HTML": 721
+  },
+  "size": 17763848
+}

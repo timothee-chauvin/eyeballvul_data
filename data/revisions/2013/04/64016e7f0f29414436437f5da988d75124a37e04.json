@@ -1,0 +1,14 @@
+{
+  "commit": "64016e7f0f29414436437f5da988d75124a37e04",
+  "repo_url": "https://github.com/wildfly/wildfly",
+  "date": "2013-04-09T04:45:11",
+  "languages": {
+    "Java": 40521329,
+    "XSLT": 83650,
+    "Shell": 83299,
+    "Batchfile": 51571,
+    "HTML": 29483,
+    "CSS": 3414
+  },
+  "size": 40772746
+}

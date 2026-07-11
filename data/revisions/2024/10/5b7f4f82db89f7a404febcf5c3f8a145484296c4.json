@@ -1,0 +1,32 @@
+{
+  "commit": "5b7f4f82db89f7a404febcf5c3f8a145484296c4",
+  "repo_url": "https://github.com/myscale/myscaledb",
+  "date": "2024-10-21T02:23:47",
+  "languages": {
+    "C++": 78102534,
+    "Python": 4978534,
+    "Assembly": 4891444,
+    "Shell": 2412457,
+    "C": 2106249,
+    "CMake": 760818,
+    "Go": 269315,
+    "Jinja": 154801,
+    "HTML": 99802,
+    "Clojure": 66590,
+    "Dockerfile": 48872,
+    "ANTLR": 32848,
+    "JavaScript": 10012,
+    "Perl": 6976,
+    "Java": 5678,
+    "Rust": 5310,
+    "C#": 4253,
+    "Cap'n Proto": 3991,
+    "Makefile": 2318,
+    "GAP": 1423,
+    "PHP": 1307,
+    "CSS": 1101,
+    "DIGITAL Command Language": 152,
+    "Vim Script": 102
+  },
+  "size": 93966887
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "c3eb0db6df91379e15ce1a8709cb1b64f482248e",
+  "repo_url": "https://github.com/osrg/gobgp",
+  "date": "2026-02-28T22:12:36",
+  "languages": {
+    "Go": 2691792,
+    "Python": 624833,
+    "Shell": 88859,
+    "Makefile": 3359,
+    "C++": 2761
+  },
+  "size": 3411604
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "7deeafc02b29cc51d51079e66f4f43f986ff9cc5",
+  "repo_url": "https://github.com/amadvance/advancecomp",
+  "date": "2018-02-12T21:28:27",
+  "languages": {
+    "C": 603823,
+    "C++": 356842,
+    "Makefile": 9322,
+    "M4": 2273,
+    "Shell": 1349
+  },
+  "size": 973609
+}

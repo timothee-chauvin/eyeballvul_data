@@ -1,0 +1,19 @@
+{
+  "commit": "37ff339c8e13547e51fde2f736216ba6876b7742",
+  "repo_url": "https://github.com/nagiosenterprises/nagioscore",
+  "date": "2016-09-06T14:59:22",
+  "languages": {
+    "C": 4540340,
+    "Makefile": 375325,
+    "Shell": 265415,
+    "JavaScript": 191476,
+    "Perl": 150674,
+    "HTML": 122441,
+    "PHP": 109884,
+    "CSS": 89492,
+    "M4": 25142,
+    "Roff": 9888,
+    "Ruby": 3337
+  },
+  "size": 5883414
+}

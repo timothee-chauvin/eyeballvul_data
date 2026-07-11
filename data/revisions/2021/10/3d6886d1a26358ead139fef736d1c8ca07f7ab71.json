@@ -1,0 +1,13 @@
+{
+  "commit": "3d6886d1a26358ead139fef736d1c8ca07f7ab71",
+  "repo_url": "https://github.com/ansible/ansible-runner",
+  "date": "2021-10-13T15:14:01",
+  "languages": {
+    "Python": 463789,
+    "Makefile": 5606,
+    "Jinja": 4776,
+    "Dockerfile": 2692,
+    "Shell": 2062
+  },
+  "size": 478925
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "ba30515cfe84c34d4815df2bc01a95652c8db88c",
+  "repo_url": "https://github.com/nasa/fprime",
+  "date": "2024-02-20T18:55:56",
+  "languages": {
+    "C++": 3292919,
+    "Python": 1122455,
+    "CMake": 349083,
+    "Fortran": 142340,
+    "C": 77426,
+    "Shell": 16508
+  },
+  "size": 5000731
+}

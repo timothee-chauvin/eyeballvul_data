@@ -1,0 +1,15 @@
+{
+  "commit": "3c72d860d2553f05129b7dff0fd4efdde5b01d2f",
+  "repo_url": "https://github.com/openbmb/chatdev",
+  "date": "2026-03-22T01:24:47",
+  "languages": {
+    "Python": 1025014,
+    "Vue": 431002,
+    "JavaScript": 35317,
+    "CSS": 6084,
+    "Dockerfile": 2343,
+    "Makefile": 2112,
+    "HTML": 337
+  },
+  "size": 1502209
+}

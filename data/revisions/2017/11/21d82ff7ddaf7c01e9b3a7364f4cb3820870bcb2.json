@@ -1,0 +1,17 @@
+{
+  "commit": "21d82ff7ddaf7c01e9b3a7364f4cb3820870bcb2",
+  "repo_url": "https://github.com/virustotal/yara",
+  "date": "2017-11-28T16:54:05",
+  "languages": {
+    "C": 1587813,
+    "Yacc": 76317,
+    "Lex": 38324,
+    "M4": 21692,
+    "C++": 7165,
+    "Roff": 4862,
+    "Makefile": 4477,
+    "YARA": 134,
+    "Shell": 80
+  },
+  "size": 1740864
+}

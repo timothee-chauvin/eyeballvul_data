@@ -1,0 +1,19 @@
+{
+  "commit": "753f0335d62907c53bed9655e0db2f4caaed93c5",
+  "repo_url": "https://github.com/hashgraph/guardian",
+  "date": "2025-11-14T18:09:22",
+  "languages": {
+    "TypeScript": 11934000,
+    "HTML": 2227615,
+    "JavaScript": 1774447,
+    "SCSS": 1391949,
+    "CSS": 302800,
+    "Solidity": 249484,
+    "Dockerfile": 54004,
+    "Shell": 29138,
+    "Rich Text Format": 23731,
+    "Python": 3404,
+    "Makefile": 2064
+  },
+  "size": 17992636
+}

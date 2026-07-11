@@ -1,0 +1,20 @@
+{
+  "commit": "568a5f01b6b9c15f84b8733b60d7a88c222939c2",
+  "repo_url": "https://github.com/mattermost-community/focalboard",
+  "date": "2024-06-10T16:59:45",
+  "languages": {
+    "TypeScript": 2396334,
+    "Go": 1815905,
+    "SCSS": 184351,
+    "Makefile": 25579,
+    "Swift": 20438,
+    "JavaScript": 16787,
+    "C#": 16614,
+    "Batchfile": 1536,
+    "Dockerfile": 1484,
+    "EJS": 911,
+    "HTML": 447,
+    "Shell": 278
+  },
+  "size": 4480664
+}

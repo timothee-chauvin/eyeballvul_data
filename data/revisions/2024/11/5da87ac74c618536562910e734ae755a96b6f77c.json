@@ -1,0 +1,14 @@
+{
+  "commit": "5da87ac74c618536562910e734ae755a96b6f77c",
+  "repo_url": "https://github.com/hickory-dns/hickory-dns",
+  "date": "2024-11-28T16:41:25",
+  "languages": {
+    "Rust": 3610234,
+    "Just": 15627,
+    "Shell": 6771,
+    "Python": 4543,
+    "Jinja": 2475,
+    "Dockerfile": 2351
+  },
+  "size": 3642001
+}

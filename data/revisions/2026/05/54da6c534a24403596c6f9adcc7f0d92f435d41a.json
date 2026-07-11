@@ -1,0 +1,25 @@
+{
+  "commit": "54da6c534a24403596c6f9adcc7f0d92f435d41a",
+  "repo_url": "https://github.com/daytonaio/daytona",
+  "date": "2026-05-29T08:30:20",
+  "languages": {
+    "TypeScript": 5277335,
+    "MDX": 2634897,
+    "Go": 1927674,
+    "Python": 1232889,
+    "Ruby": 454761,
+    "Java": 450694,
+    "JavaScript": 140511,
+    "Astro": 87271,
+    "Shell": 81649,
+    "HTML": 65782,
+    "SCSS": 52857,
+    "Mustache": 27409,
+    "Dockerfile": 20431,
+    "EJS": 18954,
+    "CSS": 7899,
+    "Nix": 7740,
+    "Vue": 35
+  },
+  "size": 12488788
+}

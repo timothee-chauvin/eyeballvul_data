@@ -1,0 +1,22 @@
+{
+  "commit": "d9fac87cf059cd93940f3f387a0c93220a073fd3",
+  "repo_url": "https://github.com/micwallace/wallacepos",
+  "date": "2019-06-25T09:31:11",
+  "languages": {
+    "PHP": 7600747,
+    "JavaScript": 1756295,
+    "CSS": 580657,
+    "C": 477243,
+    "Hack": 336038,
+    "Less": 324123,
+    "HTML": 201764,
+    "Roff": 60910,
+    "Perl": 50950,
+    "Shell": 32542,
+    "Mustache": 29187,
+    "Makefile": 16052,
+    "Batchfile": 299,
+    "Procfile": 15
+  },
+  "size": 11466822
+}

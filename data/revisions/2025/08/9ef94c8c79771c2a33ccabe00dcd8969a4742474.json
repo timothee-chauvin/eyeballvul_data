@@ -1,0 +1,11 @@
+{
+  "commit": "9ef94c8c79771c2a33ccabe00dcd8969a4742474",
+  "repo_url": "https://github.com/neuml/txtai",
+  "date": "2025-08-28T19:13:50",
+  "languages": {
+    "Python": 1110712,
+    "Dockerfile": 3267,
+    "Makefile": 2416
+  },
+  "size": 1116395
+}

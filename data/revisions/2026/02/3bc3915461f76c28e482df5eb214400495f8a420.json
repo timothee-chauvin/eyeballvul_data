@@ -1,0 +1,18 @@
+{
+  "commit": "3bc3915461f76c28e482df5eb214400495f8a420",
+  "repo_url": "https://github.com/sovity/dataspace-portal",
+  "date": "2026-02-27T12:36:10",
+  "languages": {
+    "TypeScript": 1082322,
+    "Kotlin": 755140,
+    "Java": 258784,
+    "HTML": 196611,
+    "FreeMarker": 60194,
+    "SCSS": 19106,
+    "CSS": 17353,
+    "JavaScript": 7761,
+    "Shell": 3446,
+    "Dockerfile": 2732
+  },
+  "size": 2403449
+}

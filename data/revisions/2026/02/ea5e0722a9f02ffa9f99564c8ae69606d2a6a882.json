@@ -1,0 +1,13 @@
+{
+  "commit": "ea5e0722a9f02ffa9f99564c8ae69606d2a6a882",
+  "repo_url": "https://github.com/apeworx/web3.py",
+  "date": "2026-02-03T22:55:33",
+  "languages": {
+    "Python": 2766772,
+    "Solidity": 31521,
+    "Makefile": 3638,
+    "Shell": 1212,
+    "Dockerfile": 276
+  },
+  "size": 2803419
+}

@@ -1,0 +1,29 @@
+{
+  "commit": "599b771eb4670a19e8e51e5138436bd44af74f83",
+  "repo_url": "https://github.com/timeplus-io/proton",
+  "date": "2025-04-22T11:56:31",
+  "languages": {
+    "C++": 70572916,
+    "Python": 8210671,
+    "Assembly": 4891444,
+    "Shell": 3983050,
+    "C": 2202327,
+    "CMake": 768899,
+    "Jinja": 265527,
+    "Dockerfile": 61303,
+    "Perl": 50319,
+    "Clojure": 41643,
+    "HTML": 32729,
+    "ANTLR": 32647,
+    "Cap'n Proto": 9612,
+    "Java": 5678,
+    "C#": 4253,
+    "Go": 3011,
+    "GAP": 1423,
+    "PHP": 1307,
+    "JavaScript": 550,
+    "Makefile": 416,
+    "Vim Script": 105
+  },
+  "size": 91139830
+}

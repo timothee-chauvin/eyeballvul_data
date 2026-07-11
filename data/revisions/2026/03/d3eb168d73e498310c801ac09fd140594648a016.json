@@ -1,0 +1,13 @@
+{
+  "commit": "d3eb168d73e498310c801ac09fd140594648a016",
+  "repo_url": "https://github.com/epoupon/lms",
+  "date": "2026-03-15T08:50:13",
+  "languages": {
+    "C++": 3629310,
+    "CMake": 26190,
+    "JavaScript": 14298,
+    "CSS": 3267,
+    "Shell": 1728
+  },
+  "size": 3674793
+}

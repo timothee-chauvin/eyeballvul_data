@@ -1,0 +1,17 @@
+{
+  "commit": "4ab357178e98708feeb92392557a4f3c87f0cebc",
+  "repo_url": "https://github.com/modxcms/revolution",
+  "date": "2018-07-12T01:05:23",
+  "languages": {
+    "PHP": 20838863,
+    "JavaScript": 3444728,
+    "CSS": 700796,
+    "SCSS": 219841,
+    "Smarty": 198452,
+    "Java": 14870,
+    "TSQL": 4547,
+    "Shell": 2177,
+    "HTML": 139
+  },
+  "size": 25424413
+}

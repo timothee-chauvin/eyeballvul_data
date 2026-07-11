@@ -1,0 +1,14 @@
+{
+  "commit": "b665178d2cf2d2158bdd8e7a9852a3b2b794ff64",
+  "repo_url": "https://github.com/ni/grpc-device",
+  "date": "2026-03-28T01:39:24",
+  "languages": {
+    "C++": 23625745,
+    "Python": 9901143,
+    "C": 5623011,
+    "Mako": 120479,
+    "CMake": 47205,
+    "PowerShell": 967
+  },
+  "size": 39318550
+}

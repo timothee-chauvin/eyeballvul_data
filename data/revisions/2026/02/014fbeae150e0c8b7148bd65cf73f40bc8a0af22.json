@@ -1,0 +1,14 @@
+{
+  "commit": "014fbeae150e0c8b7148bd65cf73f40bc8a0af22",
+  "repo_url": "https://github.com/harvester/harvester",
+  "date": "2026-02-26T09:04:10",
+  "languages": {
+    "Go": 2980659,
+    "Shell": 166336,
+    "Mustache": 8348,
+    "Smarty": 5477,
+    "Dockerfile": 3963,
+    "Makefile": 402
+  },
+  "size": 3165185
+}

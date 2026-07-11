@@ -1,0 +1,12 @@
+{
+  "commit": "f43a3d24a7c1f8b50f709ccb4fdf4c7fd2827fff",
+  "repo_url": "https://github.com/awslabs/aws-c-event-stream",
+  "date": "2025-12-11T17:20:00",
+  "languages": {
+    "C": 474970,
+    "CMake": 7520,
+    "Python": 1476,
+    "Shell": 273
+  },
+  "size": 484239
+}

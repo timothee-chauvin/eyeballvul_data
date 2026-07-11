@@ -1,0 +1,18 @@
+{
+  "commit": "5e5d9e58eb05764f50e5d2b03ee7416dab9bb6a1",
+  "repo_url": "https://github.com/igniterealtime/openfire",
+  "date": "2019-08-12T13:11:49",
+  "languages": {
+    "Java": 8044850,
+    "HTML": 299091,
+    "JavaScript": 178921,
+    "CSS": 60682,
+    "Shell": 43178,
+    "Objective-C": 6879,
+    "C": 3814,
+    "Batchfile": 3430,
+    "Makefile": 1266,
+    "Dockerfile": 1252
+  },
+  "size": 8643363
+}

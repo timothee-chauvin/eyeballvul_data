@@ -1,0 +1,14 @@
+{
+  "commit": "385bdc80a642f3673b6b97b70d412be75bacd629",
+  "repo_url": "https://github.com/boldgrid/weforms",
+  "date": "2026-02-09T15:45:45",
+  "languages": {
+    "PHP": 1332964,
+    "JavaScript": 984724,
+    "CSS": 178495,
+    "Less": 41352,
+    "Shell": 7261,
+    "Hack": 3139
+  },
+  "size": 2547935
+}

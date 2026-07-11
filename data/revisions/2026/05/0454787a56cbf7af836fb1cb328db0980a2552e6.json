@@ -1,0 +1,15 @@
+{
+  "commit": "0454787a56cbf7af836fb1cb328db0980a2552e6",
+  "repo_url": "https://github.com/mcp-tool-shop-org/backpropagate",
+  "date": "2026-05-21T10:43:16",
+  "languages": {
+    "Python": 2064658,
+    "JavaScript": 7740,
+    "TypeScript": 7185,
+    "Dockerfile": 1665,
+    "Shell": 1579,
+    "Astro": 1333,
+    "CSS": 643
+  },
+  "size": 2084803
+}

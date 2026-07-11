@@ -1,0 +1,15 @@
+{
+  "commit": "b2b8f1e32c355a1230d9be9c54a2f56750d3dc7f",
+  "repo_url": "https://github.com/ocaml/opam",
+  "date": "2018-07-24T09:21:03",
+  "languages": {
+    "OCaml": 1670232,
+    "Shell": 104753,
+    "Makefile": 28029,
+    "M4": 27212,
+    "C": 26791,
+    "Batchfile": 7773,
+    "Python": 4334
+  },
+  "size": 1869124
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "b3a2556e7b2b24a681f1b578030d232686e4accf",
+  "repo_url": "https://github.com/opencrx/opencrx",
+  "date": "2022-06-06T08:00:10",
+  "languages": {
+    "Java": 9126149,
+    "JavaScript": 5141056,
+    "CSS": 201290,
+    "HTML": 173934,
+    "Kotlin": 120213,
+    "Rich Text Format": 30762,
+    "Batchfile": 21839,
+    "XSLT": 6601,
+    "Shell": 2986,
+    "Groovy": 910,
+    "R": 208,
+    "D": 103
+  },
+  "size": 14826051
+}

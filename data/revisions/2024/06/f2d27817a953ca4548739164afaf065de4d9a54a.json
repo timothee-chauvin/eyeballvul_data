@@ -1,0 +1,25 @@
+{
+  "commit": "f2d27817a953ca4548739164afaf065de4d9a54a",
+  "repo_url": "https://github.com/risc0/risc0",
+  "date": "2024-06-04T20:14:14",
+  "languages": {
+    "C++": 15027430,
+    "Cuda": 9842672,
+    "Metal": 5067418,
+    "Rust": 4865774,
+    "TypeScript": 121494,
+    "TeX": 95979,
+    "POV-Ray SDL": 62598,
+    "Python": 40378,
+    "Circom": 20872,
+    "C": 20289,
+    "Assembly": 20277,
+    "JavaScript": 18056,
+    "Solidity": 8497,
+    "Shell": 6474,
+    "Dockerfile": 4340,
+    "CSS": 3704,
+    "HTML": 53
+  },
+  "size": 35226305
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "217c71fce9f311217e10642a5cc1274b6b95f024",
+  "repo_url": "https://github.com/lincanbin/carbon-forum",
+  "date": "2017-06-15T10:11:24",
+  "languages": {
+    "PHP": 711075,
+    "JavaScript": 601518,
+    "CSS": 167413,
+    "HTML": 77822,
+    "Smarty": 3032,
+    "Dockerfile": 2215,
+    "Shell": 167
+  },
+  "size": 1563242
+}

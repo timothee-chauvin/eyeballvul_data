@@ -1,0 +1,12 @@
+{
+  "commit": "fcbeadf2140d3550bcb58b33b15f0abc2ed66453",
+  "repo_url": "https://github.com/nrdvana/perl-crypt-secretbuffer",
+  "date": "2026-02-11T06:46:44",
+  "languages": {
+    "Perl": 166403,
+    "C": 118235,
+    "XS": 45337,
+    "Raku": 5167
+  },
+  "size": 335142
+}

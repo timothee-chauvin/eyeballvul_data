@@ -1,0 +1,13 @@
+{
+  "commit": "07da67c8cffdec2ee3b5fc9821de06e808b7bdcd",
+  "repo_url": "https://github.com/mirage/qubes-mirage-firewall",
+  "date": "2022-10-12T07:09:03",
+  "languages": {
+    "OCaml": 74431,
+    "Shell": 6721,
+    "Dockerfile": 995,
+    "Ruby": 154,
+    "Makefile": 91
+  },
+  "size": 82392
+}

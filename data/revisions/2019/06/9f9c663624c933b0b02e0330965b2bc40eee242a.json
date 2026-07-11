@@ -1,0 +1,13 @@
+{
+  "commit": "9f9c663624c933b0b02e0330965b2bc40eee242a",
+  "repo_url": "https://github.com/ouqiang/gocron",
+  "date": "2019-06-15T02:45:53",
+  "languages": {
+    "Go": 159930,
+    "Vue": 76850,
+    "Shell": 4411,
+    "Makefile": 1077,
+    "Dockerfile": 618
+  },
+  "size": 242886
+}

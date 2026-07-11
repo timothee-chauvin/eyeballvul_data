@@ -1,0 +1,13 @@
+{
+  "commit": "edcd5aa2a7425435695f5dd9d44a2dababb2e6c3",
+  "repo_url": "https://github.com/bulwarkmail/webmail",
+  "date": "2026-03-27T18:46:48",
+  "languages": {
+    "TypeScript": 3614472,
+    "Shell": 43109,
+    "CSS": 14569,
+    "JavaScript": 1952,
+    "Dockerfile": 1255
+  },
+  "size": 3675357
+}

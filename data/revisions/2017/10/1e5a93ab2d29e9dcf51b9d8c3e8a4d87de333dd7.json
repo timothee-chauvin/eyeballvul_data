@@ -1,0 +1,17 @@
+{
+  "commit": "1e5a93ab2d29e9dcf51b9d8c3e8a4d87de333dd7",
+  "repo_url": "https://github.com/projectcalico/calico",
+  "date": "2017-10-16T15:28:51",
+  "languages": {
+    "Python": 251785,
+    "SCSS": 224963,
+    "Go": 68191,
+    "HTML": 41986,
+    "Makefile": 34869,
+    "Shell": 27680,
+    "Dockerfile": 6483,
+    "JavaScript": 1272,
+    "CSS": 1178
+  },
+  "size": 658407
+}

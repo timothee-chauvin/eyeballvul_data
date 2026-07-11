@@ -1,0 +1,18 @@
+{
+  "commit": "75299a042c8ead006a059fe13abf790580252660",
+  "repo_url": "https://github.com/mastodon/mastodon",
+  "date": "2022-11-14T07:50:14",
+  "languages": {
+    "Ruby": 3046969,
+    "JavaScript": 1448774,
+    "SCSS": 408155,
+    "Haml": 293153,
+    "HTML": 10318,
+    "Dockerfile": 5208,
+    "Mustache": 4310,
+    "Shell": 2021,
+    "Procfile": 452,
+    "CSS": 226
+  },
+  "size": 5219586
+}

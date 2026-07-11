@@ -1,0 +1,20 @@
+{
+  "commit": "4fadb5f9cd58b6704d08b6ef2dfb9505ca7b2bb2",
+  "repo_url": "https://github.com/wondrify/asset-pipeline",
+  "date": "2018-07-26T14:28:41",
+  "languages": {
+    "JavaScript": 7432507,
+    "HTML": 1370085,
+    "Groovy": 441316,
+    "Less": 203509,
+    "CSS": 161076,
+    "SCSS": 159317,
+    "Java": 57667,
+    "Ruby": 12950,
+    "Lex": 9012,
+    "Python": 5734,
+    "Handlebars": 4631,
+    "Shell": 1427
+  },
+  "size": 9859231
+}

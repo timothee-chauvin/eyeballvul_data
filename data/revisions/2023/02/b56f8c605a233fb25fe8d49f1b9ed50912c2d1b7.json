@@ -1,0 +1,13 @@
+{
+  "commit": "b56f8c605a233fb25fe8d49f1b9ed50912c2d1b7",
+  "repo_url": "https://github.com/ziparchive/ziparchive",
+  "date": "2023-02-22T23:09:37",
+  "languages": {
+    "C": 413936,
+    "Objective-C": 130899,
+    "Swift": 14450,
+    "Ruby": 1771,
+    "Rich Text Format": 436
+  },
+  "size": 561492
+}

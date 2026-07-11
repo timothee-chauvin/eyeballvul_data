@@ -1,0 +1,13 @@
+{
+  "commit": "5be7626632cc7fb8798ec0a06774af6560184e52",
+  "repo_url": "https://github.com/voltagent/voltagent",
+  "date": "2026-05-25T22:10:07",
+  "languages": {
+    "TypeScript": 8243379,
+    "CSS": 215229,
+    "JavaScript": 166113,
+    "MDX": 17564,
+    "Shell": 3418
+  },
+  "size": 8645703
+}

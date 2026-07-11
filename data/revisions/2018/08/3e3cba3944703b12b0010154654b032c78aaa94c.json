@@ -1,0 +1,12 @@
+{
+  "commit": "3e3cba3944703b12b0010154654b032c78aaa94c",
+  "repo_url": "https://github.com/latchset/luksmeta",
+  "date": "2018-08-09T17:32:34",
+  "languages": {
+    "C": 62773,
+    "Shell": 1519,
+    "Makefile": 1500,
+    "M4": 922
+  },
+  "size": 66714
+}

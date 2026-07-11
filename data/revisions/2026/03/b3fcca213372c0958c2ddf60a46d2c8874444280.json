@@ -1,0 +1,17 @@
+{
+  "commit": "b3fcca213372c0958c2ddf60a46d2c8874444280",
+  "repo_url": "https://github.com/dunglas/mercure",
+  "date": "2026-03-06T14:05:02",
+  "languages": {
+    "Go": 270988,
+    "HTML": 10905,
+    "TypeScript": 8800,
+    "JavaScript": 8447,
+    "Scala": 5063,
+    "Shell": 2116,
+    "Smarty": 2023,
+    "Dockerfile": 518,
+    "CSS": 179
+  },
+  "size": 309039
+}

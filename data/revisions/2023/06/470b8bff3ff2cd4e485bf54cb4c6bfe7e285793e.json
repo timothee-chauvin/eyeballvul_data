@@ -1,0 +1,11 @@
+{
+  "commit": "470b8bff3ff2cd4e485bf54cb4c6bfe7e285793e",
+  "repo_url": "https://github.com/free5gc/free5gc",
+  "date": "2023-06-08T04:23:53",
+  "languages": {
+    "Go": 628672,
+    "Shell": 29078,
+    "Makefile": 2789
+  },
+  "size": 660539
+}

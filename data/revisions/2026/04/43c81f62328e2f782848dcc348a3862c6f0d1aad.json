@@ -1,0 +1,14 @@
+{
+  "commit": "43c81f62328e2f782848dcc348a3862c6f0d1aad",
+  "repo_url": "https://github.com/bugsink/bugsink",
+  "date": "2026-04-04T19:11:08",
+  "languages": {
+    "Python": 1767927,
+    "HTML": 362741,
+    "CSS": 18041,
+    "JavaScript": 12974,
+    "Shell": 6188,
+    "Dockerfile": 2263
+  },
+  "size": 2170134
+}

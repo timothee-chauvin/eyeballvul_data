@@ -1,0 +1,17 @@
+{
+  "commit": "2e86040940fd3460a318ef6f5e9611f0b3a64439",
+  "repo_url": "https://github.com/jasperfx/marten",
+  "date": "2026-05-07T15:06:42",
+  "languages": {
+    "C#": 8021685,
+    "HTML": 21635,
+    "PLpgSQL": 15654,
+    "JavaScript": 15079,
+    "PowerShell": 3227,
+    "Shell": 2630,
+    "F#": 2480,
+    "Dockerfile": 1943,
+    "Batchfile": 207
+  },
+  "size": 8084540
+}

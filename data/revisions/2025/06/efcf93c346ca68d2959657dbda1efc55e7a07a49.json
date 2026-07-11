@@ -1,0 +1,15 @@
+{
+  "commit": "efcf93c346ca68d2959657dbda1efc55e7a07a49",
+  "repo_url": "https://github.com/emoncms/emoncms",
+  "date": "2025-06-05T09:06:49",
+  "languages": {
+    "PHP": 1160373,
+    "JavaScript": 814527,
+    "CSS": 28602,
+    "HTML": 20410,
+    "Shell": 13023,
+    "Python": 5989,
+    "Makefile": 285
+  },
+  "size": 2043209
+}

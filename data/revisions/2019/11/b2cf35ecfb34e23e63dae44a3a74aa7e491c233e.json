@@ -1,0 +1,17 @@
+{
+  "commit": "b2cf35ecfb34e23e63dae44a3a74aa7e491c233e",
+  "repo_url": "https://github.com/kkos/oniguruma",
+  "date": "2019-11-22T04:07:09",
+  "languages": {
+    "C": 2269556,
+    "Shell": 62445,
+    "Python": 43073,
+    "HTML": 17279,
+    "CMake": 7713,
+    "Makefile": 7017,
+    "M4": 1665,
+    "C++": 1193,
+    "Batchfile": 464
+  },
+  "size": 2410405
+}

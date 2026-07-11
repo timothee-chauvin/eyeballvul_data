@@ -1,0 +1,12 @@
+{
+  "commit": "4bcda339edc68000f77b42d418a171e90c640949",
+  "repo_url": "https://github.com/funadmin/funadmin",
+  "date": "2026-01-01T00:31:40",
+  "languages": {
+    "PHP": 5191111,
+    "Smarty": 20546,
+    "Shell": 1655,
+    "Batchfile": 592
+  },
+  "size": 5213904
+}

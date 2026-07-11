@@ -1,0 +1,13 @@
+{
+  "commit": "bfb6c1adc3cb07d7602748f59328ea3d27151eca",
+  "repo_url": "https://github.com/jenkinsci/active-choices-plugin",
+  "date": "2016-12-06T10:55:04",
+  "languages": {
+    "Java": 131246,
+    "JavaScript": 63347,
+    "HTML": 2737,
+    "Batchfile": 373,
+    "Shell": 353
+  },
+  "size": 198056
+}

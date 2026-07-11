@@ -1,7 +1,7 @@
 {
   "id": "PYSEC-2014-17",
   "published": "2014-01-28T00:55:00",
-  "modified": "2026-06-10T17:02:37.755230",
+  "modified": "2026-07-09T16:56:20.570841",
   "details": "The parser cache functionality in parsergenerator.py in RPLY (aka python-rply) before 0.7.1 allows local users to spoof cache data by pre-creating a temporary rply-*.json file with a predictable name.",
   "repo_url": "https://github.com/alex/rply",
   "cwes": [],

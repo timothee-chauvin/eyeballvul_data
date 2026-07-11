@@ -1,0 +1,17 @@
+{
+  "commit": "910e436af48ded8de06347c38adc268520f760d4",
+  "repo_url": "https://github.com/gdraheim/zziplib",
+  "date": "2024-06-26T16:19:46",
+  "languages": {
+    "Shell": 983362,
+    "C": 474166,
+    "Python": 374830,
+    "Makefile": 207156,
+    "M4": 128875,
+    "CMake": 76753,
+    "Dockerfile": 30819,
+    "sed": 2074,
+    "Batchfile": 1344
+  },
+  "size": 2279379
+}

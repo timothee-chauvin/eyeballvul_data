@@ -1,0 +1,14 @@
+{
+  "commit": "a1b8953b29593b58c98d11badb7cfc78a5920ff8",
+  "repo_url": "https://github.com/metersphere/metersphere",
+  "date": "2021-12-10T07:46:10",
+  "languages": {
+    "Java": 6774800,
+    "Vue": 4382429,
+    "JavaScript": 688423,
+    "HTML": 13232,
+    "CSS": 8125,
+    "Dockerfile": 768
+  },
+  "size": 11867777
+}

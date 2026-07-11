@@ -1,0 +1,13 @@
+{
+  "commit": "fbe9621364eb26915682dc4cf9e7f010285e8852",
+  "repo_url": "https://github.com/modelscope/ms-agent",
+  "date": "2026-02-06T07:25:25",
+  "languages": {
+    "Python": 2264366,
+    "TypeScript": 257789,
+    "Shell": 1894,
+    "HTML": 1051,
+    "Makefile": 514
+  },
+  "size": 2525614
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "ce1b315b0c35477c666e4c8d8e1c9174df87eb61",
+  "repo_url": "https://github.com/varnish/varnish",
+  "date": "2026-03-17T05:56:54",
+  "languages": {
+    "C": 3818681,
+    "Python": 126215,
+    "M4": 108495,
+    "Shell": 34802,
+    "HTML": 29056,
+    "Makefile": 28684,
+    "VCL": 15887,
+    "SmPL": 14726,
+    "Yacc": 7754,
+    "Lex": 3326,
+    "Emacs Lisp": 66
+  },
+  "size": 4187692
+}

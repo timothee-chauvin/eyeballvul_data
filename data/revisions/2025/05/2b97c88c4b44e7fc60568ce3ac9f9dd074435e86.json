@@ -1,0 +1,18 @@
+{
+  "commit": "2b97c88c4b44e7fc60568ce3ac9f9dd074435e86",
+  "repo_url": "https://github.com/vslavik/poedit",
+  "date": "2025-05-07T13:57:12",
+  "languages": {
+    "C++": 1498187,
+    "M4": 102514,
+    "C": 50127,
+    "Objective-C": 21456,
+    "Inno Setup": 14500,
+    "Shell": 13806,
+    "Objective-C++": 13628,
+    "Makefile": 9717,
+    "Python": 9171,
+    "Ruby": 72
+  },
+  "size": 1733178
+}

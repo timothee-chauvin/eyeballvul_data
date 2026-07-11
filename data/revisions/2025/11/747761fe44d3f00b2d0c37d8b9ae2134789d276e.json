@@ -1,0 +1,17 @@
+{
+  "commit": "747761fe44d3f00b2d0c37d8b9ae2134789d276e",
+  "repo_url": "https://github.com/modelengine-group/nexent",
+  "date": "2025-11-10T01:27:10",
+  "languages": {
+    "Python": 3380286,
+    "TypeScript": 1343772,
+    "PLpgSQL": 58259,
+    "Shell": 41818,
+    "HTML": 31380,
+    "CSS": 19079,
+    "Dockerfile": 7746,
+    "JavaScript": 3286,
+    "Elixir": 1068
+  },
+  "size": 4886694
+}

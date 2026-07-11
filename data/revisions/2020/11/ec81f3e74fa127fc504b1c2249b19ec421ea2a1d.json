@@ -1,0 +1,12 @@
+{
+  "commit": "ec81f3e74fa127fc504b1c2249b19ec421ea2a1d",
+  "repo_url": "https://github.com/hyperledger/fabric",
+  "date": "2020-11-18T19:19:03",
+  "languages": {
+    "Go": 11727071,
+    "Shell": 55018,
+    "Makefile": 14498,
+    "Dockerfile": 3881
+  },
+  "size": 11800468
+}

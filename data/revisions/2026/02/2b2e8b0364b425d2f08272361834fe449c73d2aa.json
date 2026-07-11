@@ -1,0 +1,17 @@
+{
+  "commit": "2b2e8b0364b425d2f08272361834fe449c73d2aa",
+  "repo_url": "https://github.com/anionex/banana-slides",
+  "date": "2026-02-09T11:08:52",
+  "languages": {
+    "Python": 881758,
+    "TypeScript": 762170,
+    "Shell": 39719,
+    "JavaScript": 4223,
+    "Dockerfile": 3347,
+    "CSS": 3224,
+    "Batchfile": 1907,
+    "HTML": 624,
+    "Mako": 513
+  },
+  "size": 1697485
+}

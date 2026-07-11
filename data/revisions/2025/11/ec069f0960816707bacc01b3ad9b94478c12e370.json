@@ -1,0 +1,16 @@
+{
+  "commit": "ec069f0960816707bacc01b3ad9b94478c12e370",
+  "repo_url": "https://github.com/oxidecomputer/omicron",
+  "date": "2025-11-18T17:45:34",
+  "languages": {
+    "Rust": 24152669,
+    "PLpgSQL": 225414,
+    "Shell": 69654,
+    "TLA": 39338,
+    "Polar": 33158,
+    "Nix": 12709,
+    "DTrace": 10706,
+    "HTML": 13
+  },
+  "size": 24543661
+}

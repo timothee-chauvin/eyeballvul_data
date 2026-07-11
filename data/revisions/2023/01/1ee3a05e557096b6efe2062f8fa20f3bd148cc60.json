@@ -1,0 +1,13 @@
+{
+  "commit": "1ee3a05e557096b6efe2062f8fa20f3bd148cc60",
+  "repo_url": "https://github.com/reportico-web/reportico",
+  "date": "2023-01-07T17:23:02",
+  "languages": {
+    "PHP": 2083626,
+    "JavaScript": 1043383,
+    "Hack": 283675,
+    "Smarty": 136171,
+    "CSS": 92638
+  },
+  "size": 3639493
+}

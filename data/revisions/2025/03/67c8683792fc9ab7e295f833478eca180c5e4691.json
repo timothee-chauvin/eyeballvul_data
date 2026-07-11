@@ -1,0 +1,18 @@
+{
+  "commit": "67c8683792fc9ab7e295f833478eca180c5e4691",
+  "repo_url": "https://github.com/valkey-io/valkey",
+  "date": "2025-03-31T14:56:45",
+  "languages": {
+    "C": 7455573,
+    "Tcl": 2455967,
+    "Python": 52806,
+    "CMake": 35719,
+    "Ruby": 30538,
+    "Makefile": 26247,
+    "Shell": 20173,
+    "C++": 5987,
+    "Smarty": 1053,
+    "JavaScript": 953
+  },
+  "size": 10085016
+}

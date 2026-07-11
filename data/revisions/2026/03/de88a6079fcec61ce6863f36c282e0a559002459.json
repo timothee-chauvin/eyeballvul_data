@@ -1,0 +1,14 @@
+{
+  "commit": "de88a6079fcec61ce6863f36c282e0a559002459",
+  "repo_url": "https://github.com/pretix/pretix-oppwa",
+  "date": "2026-03-30T11:37:12",
+  "languages": {
+    "Python": 70105,
+    "HTML": 5319,
+    "JavaScript": 280,
+    "Makefile": 271,
+    "CSS": 232,
+    "SCSS": 127
+  },
+  "size": 76334
+}

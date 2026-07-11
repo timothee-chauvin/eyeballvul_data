@@ -1,0 +1,14 @@
+{
+  "commit": "54a679ec3550af752feb0499174549e2866cdf07",
+  "repo_url": "https://github.com/kyverno/kyverno",
+  "date": "2026-04-21T09:56:12",
+  "languages": {
+    "Go": 9485730,
+    "Shell": 56362,
+    "Makefile": 53304,
+    "Mustache": 29598,
+    "JavaScript": 1564,
+    "Smarty": 1493
+  },
+  "size": 9628051
+}

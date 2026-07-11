@@ -1,0 +1,17 @@
+{
+  "commit": "032e4923e5202ea4d5a6d1cead83ed1927135874",
+  "repo_url": "https://github.com/the-tcpdump-group/tcpdump",
+  "date": "2023-01-12T22:12:58",
+  "languages": {
+    "C": 3486068,
+    "Roff": 65879,
+    "CMake": 64623,
+    "Shell": 36458,
+    "Perl": 29355,
+    "M4": 26804,
+    "Makefile": 12285,
+    "Awk": 4122,
+    "GDB": 660
+  },
+  "size": 3726254
+}

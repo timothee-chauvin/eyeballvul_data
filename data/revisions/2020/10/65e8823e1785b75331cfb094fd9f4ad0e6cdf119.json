@@ -1,0 +1,17 @@
+{
+  "commit": "65e8823e1785b75331cfb094fd9f4ad0e6cdf119",
+  "repo_url": "https://github.com/b2evolution/b2evolution",
+  "date": "2020-10-05T23:00:56",
+  "languages": {
+    "PHP": 19948477,
+    "JavaScript": 7173401,
+    "CSS": 708761,
+    "Less": 354448,
+    "HTML": 55597,
+    "Pascal": 42369,
+    "C": 20339,
+    "Shell": 4778,
+    "M4": 1601
+  },
+  "size": 28309771
+}

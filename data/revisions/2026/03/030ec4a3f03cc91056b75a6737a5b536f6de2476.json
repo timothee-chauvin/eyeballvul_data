@@ -1,0 +1,15 @@
+{
+  "commit": "030ec4a3f03cc91056b75a6737a5b536f6de2476",
+  "repo_url": "https://github.com/rargames/4gaboards",
+  "date": "2026-03-05T11:26:02",
+  "languages": {
+    "JavaScript": 2852672,
+    "SCSS": 114708,
+    "CSS": 28173,
+    "Shell": 3100,
+    "HTML": 1897,
+    "Smarty": 1812,
+    "Dockerfile": 1159
+  },
+  "size": 3003521
+}

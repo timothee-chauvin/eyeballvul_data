@@ -1,0 +1,15 @@
+{
+  "commit": "be7ac155734a435034a912c06d388ef17ccb234a",
+  "repo_url": "https://github.com/hoene/libmysofa",
+  "date": "2019-12-29T16:56:58",
+  "languages": {
+    "C": 209018,
+    "JavaScript": 11647,
+    "CMake": 8482,
+    "C++": 2873,
+    "MATLAB": 1463,
+    "Shell": 467,
+    "Emacs Lisp": 100
+  },
+  "size": 234050
+}

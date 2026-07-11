@@ -1,0 +1,15 @@
+{
+  "commit": "b5be61cc06088bb07f488f9baf7d447ff47b37c1",
+  "repo_url": "https://github.com/tukaani-project/xz",
+  "date": "2018-04-29T16:00:06",
+  "languages": {
+    "C": 1239091,
+    "Roff": 74202,
+    "M4": 62677,
+    "Makefile": 26442,
+    "Shell": 26233,
+    "Assembly": 13989,
+    "C++": 9817
+  },
+  "size": 1452451
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "cbde256277b4005748d9b44ba1eab2b7d289b39d",
+  "repo_url": "https://github.com/hbai-ltd/toonflow-app",
+  "date": "2026-04-07T11:21:01",
+  "languages": {
+    "HTML": 17994476,
+    "TypeScript": 648937,
+    "NSIS": 1106,
+    "Dockerfile": 917
+  },
+  "size": 18645436
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "dc65c062400844e86d4333304f41205e3a33672e",
+  "repo_url": "https://github.com/hahwul/dalfox",
+  "date": "2025-07-06T01:02:44",
+  "languages": {
+    "Go": 538099,
+    "Ruby": 3154,
+    "Just": 2982,
+    "Dockerfile": 425
+  },
+  "size": 544660
+}

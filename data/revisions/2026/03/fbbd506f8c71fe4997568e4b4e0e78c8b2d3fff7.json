@@ -1,0 +1,13 @@
+{
+  "commit": "fbbd506f8c71fe4997568e4b4e0e78c8b2d3fff7",
+  "repo_url": "https://github.com/tencent/ai-infra-guard",
+  "date": "2026-03-10T09:08:05",
+  "languages": {
+    "Python": 1183917,
+    "Go": 506771,
+    "Shell": 10565,
+    "Dockerfile": 2386,
+    "HTML": 454
+  },
+  "size": 1704093
+}

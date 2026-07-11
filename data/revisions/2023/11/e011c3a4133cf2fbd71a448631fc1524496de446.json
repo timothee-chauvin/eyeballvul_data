@@ -1,0 +1,14 @@
+{
+  "commit": "e011c3a4133cf2fbd71a448631fc1524496de446",
+  "repo_url": "https://github.com/gibbonedu/core",
+  "date": "2023-11-20T11:20:50",
+  "languages": {
+    "PHP": 13518440,
+    "JavaScript": 2818396,
+    "HTML": 387676,
+    "CSS": 136360,
+    "SCSS": 10554,
+    "Shell": 2581
+  },
+  "size": 16874007
+}

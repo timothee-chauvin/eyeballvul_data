@@ -1,0 +1,13 @@
+{
+  "commit": "a1918651b2a1d9cf12c624f154b3947164807051",
+  "repo_url": "https://github.com/bigtreecms/bigtree-cms",
+  "date": "2017-08-11T19:59:25",
+  "languages": {
+    "PHP": 3617293,
+    "JavaScript": 3549063,
+    "CSS": 343440,
+    "HTML": 243582,
+    "Hack": 6500
+  },
+  "size": 7759878
+}

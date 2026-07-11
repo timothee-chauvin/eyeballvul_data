@@ -1,0 +1,18 @@
+{
+  "commit": "1bed118ab242d7168efe485c06bfa4e031109d03",
+  "repo_url": "https://github.com/composiohq/composio",
+  "date": "2025-07-03T08:46:51",
+  "languages": {
+    "Python": 2602931,
+    "JavaScript": 1338528,
+    "TypeScript": 646529,
+    "MDX": 332214,
+    "Shell": 109627,
+    "CSS": 50593,
+    "Scheme": 17377,
+    "Jupyter Notebook": 16839,
+    "Makefile": 6867,
+    "Dockerfile": 2563
+  },
+  "size": 5124068
+}

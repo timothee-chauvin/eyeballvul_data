@@ -1,0 +1,14 @@
+{
+  "commit": "c5607a7aaf0ba8c58da1071ee59474cad4ff64ba",
+  "repo_url": "https://github.com/nvidia/nemoclaw",
+  "date": "2026-04-10T16:49:13",
+  "languages": {
+    "TypeScript": 1603002,
+    "Shell": 595552,
+    "Python": 61409,
+    "Dockerfile": 19028,
+    "JavaScript": 13365,
+    "Makefile": 733
+  },
+  "size": 2293089
+}

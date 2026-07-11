@@ -1,0 +1,17 @@
+{
+  "commit": "4c6f461433c29268dfccfd3b1ade6346aecc0d90",
+  "repo_url": "https://github.com/allskyteam/allsky",
+  "date": "2025-07-19T02:43:56",
+  "languages": {
+    "JavaScript": 2678043,
+    "Shell": 616946,
+    "PHP": 453159,
+    "C++": 324468,
+    "Python": 152875,
+    "CSS": 102069,
+    "C": 90960,
+    "HTML": 84032,
+    "Makefile": 8767
+  },
+  "size": 4511319
+}

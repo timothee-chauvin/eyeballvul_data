@@ -1,0 +1,16 @@
+{
+  "commit": "f806d611bfa2b1376b589f19fad2c3c17f8bb194",
+  "repo_url": "https://github.com/melhorenvio/wp-melhorenvio-v2",
+  "date": "2025-04-15T23:32:21",
+  "languages": {
+    "PHP": 266175,
+    "Vue": 94661,
+    "Stylus": 71098,
+    "JavaScript": 63720,
+    "CSS": 2131,
+    "Shell": 2064,
+    "Makefile": 698,
+    "Dockerfile": 401
+  },
+  "size": 500948
+}

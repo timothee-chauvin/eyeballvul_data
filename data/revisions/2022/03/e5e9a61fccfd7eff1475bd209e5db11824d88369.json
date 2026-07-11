@@ -1,0 +1,14 @@
+{
+  "commit": "e5e9a61fccfd7eff1475bd209e5db11824d88369",
+  "repo_url": "https://github.com/ckolivas/lrzip",
+  "date": "2022-03-08T21:58:18",
+  "languages": {
+    "C": 496326,
+    "C++": 130989,
+    "M4": 30483,
+    "Shell": 10551,
+    "Assembly": 4388,
+    "Makefile": 3495
+  },
+  "size": 676232
+}

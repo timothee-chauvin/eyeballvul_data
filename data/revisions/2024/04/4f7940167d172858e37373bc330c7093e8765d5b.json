@@ -1,0 +1,29 @@
+{
+  "commit": "4f7940167d172858e37373bc330c7093e8765d5b",
+  "repo_url": "https://github.com/rt-thread/rt-thread",
+  "date": "2024-04-22T02:10:48",
+  "languages": {
+    "C": 1301105629,
+    "Assembly": 24814881,
+    "HTML": 4771626,
+    "Python": 4010763,
+    "C++": 668220,
+    "Shell": 438959,
+    "Makefile": 327292,
+    "CMake": 142893,
+    "CSS": 115796,
+    "Batchfile": 80054,
+    "M4": 17515,
+    "Perl": 16728,
+    "Yacc": 16084,
+    "RPC": 14162,
+    "GDB": 11796,
+    "Lex": 7026,
+    "Pawn": 1250,
+    "Lua": 922,
+    "Dockerfile": 875,
+    "Tcl": 179,
+    "Logos": 160
+  },
+  "size": 1336562810
+}

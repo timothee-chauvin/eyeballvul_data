@@ -1,0 +1,11 @@
+{
+  "commit": "2a22c94f71bfca8dd954ad4fdd96150a3d23efa8",
+  "repo_url": "https://github.com/awslabs/aws-c-http",
+  "date": "2026-05-11T16:16:42",
+  "languages": {
+    "C": 3085594,
+    "CMake": 46080,
+    "Python": 37343
+  },
+  "size": 3169017
+}

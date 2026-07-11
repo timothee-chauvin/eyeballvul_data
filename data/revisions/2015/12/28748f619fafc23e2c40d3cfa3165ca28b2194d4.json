@@ -1,0 +1,17 @@
+{
+  "commit": "28748f619fafc23e2c40d3cfa3165ca28b2194d4",
+  "repo_url": "https://github.com/xiph/icecast-server",
+  "date": "2015-12-28T18:37:55",
+  "languages": {
+    "C": 719801,
+    "C++": 81749,
+    "XSLT": 62345,
+    "M4": 48561,
+    "Makefile": 7222,
+    "CSS": 3879,
+    "Shell": 3617,
+    "Clarion": 3086,
+    "Inno Setup": 2708
+  },
+  "size": 932968
+}

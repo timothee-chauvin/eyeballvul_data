@@ -1,0 +1,12 @@
+{
+  "commit": "48bcf43a826a59f8a2a31edb9ac8bce0b2cfce39",
+  "repo_url": "https://github.com/fabiangreffrath/woof",
+  "date": "2025-01-31T07:30:37",
+  "languages": {
+    "C": 4616021,
+    "CMake": 51100,
+    "Python": 9374,
+    "Assembly": 1966
+  },
+  "size": 4678461
+}

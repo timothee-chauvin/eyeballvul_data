@@ -1,0 +1,14 @@
+{
+  "commit": "4f5c52e65d4ddc4fb3390b198243dc06ef7167cb",
+  "repo_url": "https://github.com/hal/console",
+  "date": "2024-12-13T09:15:36",
+  "languages": {
+    "Java": 7009055,
+    "HTML": 415939,
+    "Less": 74159,
+    "Shell": 48343,
+    "JavaScript": 45507,
+    "FreeMarker": 38443
+  },
+  "size": 7631446
+}

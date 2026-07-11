@@ -1,0 +1,16 @@
+{
+  "commit": "86e74e065e39749d25636f8454773d9d898c5eb3",
+  "repo_url": "https://github.com/samtools/htslib",
+  "date": "2025-12-16T09:17:52",
+  "languages": {
+    "C": 3450573,
+    "Perl": 105214,
+    "Makefile": 69691,
+    "M4": 59918,
+    "Roff": 54815,
+    "Shell": 28744,
+    "Scilab": 23502,
+    "C++": 2487
+  },
+  "size": 3794944
+}

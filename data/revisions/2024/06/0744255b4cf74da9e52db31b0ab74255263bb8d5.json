@@ -1,0 +1,16 @@
+{
+  "commit": "0744255b4cf74da9e52db31b0ab74255263bb8d5",
+  "repo_url": "https://github.com/langchain-ai/langchainjs",
+  "date": "2024-06-04T22:14:40",
+  "languages": {
+    "TypeScript": 6864556,
+    "Jupyter Notebook": 602669,
+    "HTML": 423960,
+    "JavaScript": 260033,
+    "MDX": 13438,
+    "CSS": 8554,
+    "Shell": 3514,
+    "Python": 667
+  },
+  "size": 8177391
+}

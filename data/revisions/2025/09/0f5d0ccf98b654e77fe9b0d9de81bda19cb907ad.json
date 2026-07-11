@@ -1,0 +1,11 @@
+{
+  "commit": "0f5d0ccf98b654e77fe9b0d9de81bda19cb907ad",
+  "repo_url": "https://github.com/modeltc/lightllm",
+  "date": "2025-09-03T07:52:03",
+  "languages": {
+    "Python": 2672895,
+    "Shell": 9354,
+    "Dockerfile": 1577
+  },
+  "size": 2683826
+}

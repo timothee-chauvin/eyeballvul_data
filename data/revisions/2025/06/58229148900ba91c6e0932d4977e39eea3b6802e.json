@@ -1,0 +1,15 @@
+{
+  "commit": "58229148900ba91c6e0932d4977e39eea3b6802e",
+  "repo_url": "https://github.com/raspap/raspap-webgui",
+  "date": "2025-06-25T08:39:44",
+  "languages": {
+    "PHP": 807423,
+    "Shell": 138594,
+    "JavaScript": 55119,
+    "Python": 25637,
+    "CSS": 16646,
+    "HTML": 3270,
+    "C": 2658
+  },
+  "size": 1049347
+}

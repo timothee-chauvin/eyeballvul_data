@@ -1,0 +1,17 @@
+{
+  "commit": "ecd926a625de931c3b32cee79e01c3b3e8c82f5f",
+  "repo_url": "https://github.com/dtstack/chunjun",
+  "date": "2023-02-17T08:06:21",
+  "languages": {
+    "Java": 7655504,
+    "JavaScript": 310993,
+    "HTML": 72651,
+    "FreeMarker": 63169,
+    "Scala": 42184,
+    "Shell": 28414,
+    "CSS": 22703,
+    "Dockerfile": 19443,
+    "SCSS": 12232
+  },
+  "size": 8227293
+}

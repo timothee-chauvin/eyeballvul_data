@@ -1,0 +1,13 @@
+{
+  "commit": "10d454d9243ada82bae87e875dbc483c6953283d",
+  "repo_url": "https://github.com/zencart/zencart",
+  "date": "2019-07-16T21:17:55",
+  "languages": {
+    "PHP": 7313911,
+    "JavaScript": 240965,
+    "CSS": 236566,
+    "HTML": 34147,
+    "Hack": 9300
+  },
+  "size": 7834889
+}

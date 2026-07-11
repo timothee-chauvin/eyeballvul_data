@@ -1,0 +1,17 @@
+{
+  "commit": "da71624aea28e2d95c453e6d9b6c24bda492c021",
+  "repo_url": "https://github.com/boxlite-ai/boxlite",
+  "date": "2026-04-02T10:27:43",
+  "languages": {
+    "Rust": 3369119,
+    "Python": 362096,
+    "Go": 177312,
+    "TypeScript": 122847,
+    "C": 111255,
+    "Shell": 100360,
+    "Makefile": 28260,
+    "Dockerfile": 2991,
+    "CMake": 2705
+  },
+  "size": 4276945
+}

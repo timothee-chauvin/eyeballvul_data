@@ -1,0 +1,15 @@
+{
+  "commit": "d56a3cb5d6f4b693a9b25140e7cc95e1a0dbed50",
+  "repo_url": "https://github.com/wgdashboard/wgdashboard",
+  "date": "2025-12-13T15:26:41",
+  "languages": {
+    "Vue": 565930,
+    "Python": 299584,
+    "JavaScript": 37829,
+    "CSS": 31174,
+    "Shell": 27714,
+    "Dockerfile": 3936,
+    "HTML": 1974
+  },
+  "size": 968141
+}

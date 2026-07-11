@@ -1,0 +1,13 @@
+{
+  "commit": "2fe5febaf00257f716c6fe9915f61f006ee8bac3",
+  "repo_url": "https://github.com/binary-husky/gpt_academic",
+  "date": "2024-10-13T16:25:28",
+  "languages": {
+    "Python": 1375996,
+    "JavaScript": 307585,
+    "HTML": 113296,
+    "CSS": 75365,
+    "Dockerfile": 1598
+  },
+  "size": 1873840
+}

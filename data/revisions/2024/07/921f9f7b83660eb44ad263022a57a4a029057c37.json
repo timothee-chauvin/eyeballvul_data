@@ -1,0 +1,23 @@
+{
+  "commit": "921f9f7b83660eb44ad263022a57a4a029057c37",
+  "repo_url": "https://github.com/snes9xgit/snes9x",
+  "date": "2024-07-07T11:48:47",
+  "languages": {
+    "C++": 4016427,
+    "C": 1541575,
+    "Objective-C++": 389667,
+    "Objective-C": 145785,
+    "HTML": 94796,
+    "Makefile": 26605,
+    "CMake": 23991,
+    "Shell": 17492,
+    "M4": 13905,
+    "Rich Text Format": 9274,
+    "Batchfile": 4069,
+    "Metal": 1933,
+    "CSS": 1762,
+    "Meson": 735,
+    "Perl": 38
+  },
+  "size": 6288054
+}

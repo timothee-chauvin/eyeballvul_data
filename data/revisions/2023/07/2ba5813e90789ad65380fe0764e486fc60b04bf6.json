@@ -1,0 +1,11 @@
+{
+  "commit": "2ba5813e90789ad65380fe0764e486fc60b04bf6",
+  "repo_url": "https://github.com/magicsword-io/loldrivers",
+  "date": "2023-07-31T14:52:24",
+  "languages": {
+    "YARA": 2403823,
+    "Python": 67621,
+    "Jinja": 9859
+  },
+  "size": 2481303
+}

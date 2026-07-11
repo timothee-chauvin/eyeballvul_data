@@ -1,0 +1,17 @@
+{
+  "commit": "a16f551e22c6288df6f067aa12caa5afd9a8f1dd",
+  "repo_url": "https://github.com/getredash/redash",
+  "date": "2019-10-27T13:02:03",
+  "languages": {
+    "Python": 1017371,
+    "JavaScript": 852212,
+    "Less": 199486,
+    "HTML": 142997,
+    "Shell": 9480,
+    "CSS": 2229,
+    "Makefile": 1231,
+    "Dockerfile": 885,
+    "Mako": 494
+  },
+  "size": 2226385
+}

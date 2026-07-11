@@ -1,0 +1,13 @@
+{
+  "commit": "8a7db1d4d97d424197b1b7308c5face433e9af00",
+  "repo_url": "https://github.com/mongodb-labs/mongo-perl-bson-xs",
+  "date": "2020-08-13T14:50:33",
+  "languages": {
+    "C": 486038,
+    "Perl": 150479,
+    "XS": 54667,
+    "C++": 5611,
+    "Vim Script": 53
+  },
+  "size": 696848
+}

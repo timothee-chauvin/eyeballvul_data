@@ -1,0 +1,22 @@
+{
+  "commit": "df3229394442d7c92009b37445872055be3381b5",
+  "repo_url": "https://github.com/kortix-ai/suna",
+  "date": "2026-04-12T14:12:44",
+  "languages": {
+    "TypeScript": 15937096,
+    "JavaScript": 1420929,
+    "HTML": 592521,
+    "Shell": 340366,
+    "Python": 318553,
+    "CSS": 82258,
+    "Dockerfile": 32671,
+    "PLpgSQL": 17473,
+    "Kotlin": 4476,
+    "TeX": 2900,
+    "Ruby": 2521,
+    "Swift": 2275,
+    "C": 102,
+    "MDX": 75
+  },
+  "size": 18754216
+}

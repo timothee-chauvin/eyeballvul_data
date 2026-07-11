@@ -6,6 +6,8 @@
   "repo_url": "https://github.com/openstack/keystone",
   "cwes": [],
   "commits": [
+    "3526925ae34a66e626bec985628a421a7694168e",
+    "dc9e9e32dfbf9fd9c58f9f8e2b35f0bcfd62328e",
     "f47e635b8041542faa05e64606e66d2fbbc5f284"
   ]
 }

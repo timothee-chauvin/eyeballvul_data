@@ -1,0 +1,15 @@
+{
+  "commit": "4c12de093086a859736936d30c25a676e9311670",
+  "repo_url": "https://github.com/portabilis/i-educar",
+  "date": "2024-05-06T14:57:24",
+  "languages": {
+    "PHP": 8684126,
+    "JavaScript": 850148,
+    "Blade": 326205,
+    "PLpgSQL": 107862,
+    "CSS": 79970,
+    "HTML": 6938,
+    "Dockerfile": 1497
+  },
+  "size": 10056746
+}

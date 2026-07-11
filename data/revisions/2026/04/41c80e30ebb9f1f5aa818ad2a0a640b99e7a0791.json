@@ -1,0 +1,17 @@
+{
+  "commit": "41c80e30ebb9f1f5aa818ad2a0a640b99e7a0791",
+  "repo_url": "https://github.com/sysown/proxysql",
+  "date": "2026-04-30T09:49:13",
+  "languages": {
+    "C++": 14359467,
+    "Shell": 862391,
+    "C": 512486,
+    "Python": 408745,
+    "Makefile": 102572,
+    "Dockerfile": 32591,
+    "PHP": 12699,
+    "Perl": 6470,
+    "Visual Basic 6.0": 1693
+  },
+  "size": 16299114
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "9ac23f6811ee2f489e4a582a3652237ecede47dd",
+  "repo_url": "https://github.com/pytries/datrie",
+  "date": "2025-08-28T12:35:40",
+  "languages": {
+    "Cython": 38420,
+    "Python": 28406,
+    "PowerShell": 7197,
+    "Batchfile": 3427,
+    "Shell": 568
+  },
+  "size": 78018
+}

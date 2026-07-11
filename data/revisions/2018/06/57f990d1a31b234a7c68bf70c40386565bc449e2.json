@@ -1,0 +1,14 @@
+{
+  "commit": "57f990d1a31b234a7c68bf70c40386565bc449e2",
+  "repo_url": "https://github.com/atutor/atutor",
+  "date": "2018-06-17T20:46:46",
+  "languages": {
+    "PHP": 7547556,
+    "CSS": 2012298,
+    "JavaScript": 883977,
+    "HTML": 55257,
+    "Shell": 4749,
+    "Hack": 383
+  },
+  "size": 10504220
+}

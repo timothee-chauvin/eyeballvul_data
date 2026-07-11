@@ -1,0 +1,15 @@
+{
+  "commit": "d3a7710c62aa92e145d5ab56ebfe4fa5d200ee03",
+  "repo_url": "https://github.com/oobabooga/textgen",
+  "date": "2025-09-02T19:51:50",
+  "languages": {
+    "Python": 1000419,
+    "JavaScript": 59753,
+    "CSS": 52981,
+    "Shell": 8268,
+    "Batchfile": 6213,
+    "Dockerfile": 5013,
+    "Jupyter Notebook": 4080
+  },
+  "size": 1136727
+}

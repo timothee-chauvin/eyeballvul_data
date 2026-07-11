@@ -1,0 +1,15 @@
+{
+  "commit": "da25240075e25556d4b20ce54f734b966f5b5b0e",
+  "repo_url": "https://github.com/nagvis/nagvis",
+  "date": "2024-05-29T12:23:10",
+  "languages": {
+    "PHP": 1735370,
+    "JavaScript": 647735,
+    "Shell": 72660,
+    "CSS": 35209,
+    "HTML": 34546,
+    "Makefile": 4233,
+    "Smarty": 2182
+  },
+  "size": 2531935
+}

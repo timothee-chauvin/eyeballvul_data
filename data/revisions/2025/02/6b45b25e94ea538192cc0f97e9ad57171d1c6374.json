@@ -1,0 +1,14 @@
+{
+  "commit": "6b45b25e94ea538192cc0f97e9ad57171d1c6374",
+  "repo_url": "https://gitlab.com/gnutls/libtasn1",
+  "date": "2025-02-01T17:11:54",
+  "languages": {
+    "C": 544912,
+    "Shell": 78600,
+    "M4": 35821,
+    "Yacc": 34247,
+    "Makefile": 33200,
+    "Batchfile": 769
+  },
+  "size": 727549
+}

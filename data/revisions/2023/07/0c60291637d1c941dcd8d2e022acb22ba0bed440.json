@@ -1,0 +1,10 @@
+{
+  "commit": "0c60291637d1c941dcd8d2e022acb22ba0bed440",
+  "repo_url": "https://github.com/openstack/glance_store",
+  "date": "2023-07-08T02:08:39",
+  "languages": {
+    "Python": 1030885,
+    "Shell": 7375
+  },
+  "size": 1038260
+}

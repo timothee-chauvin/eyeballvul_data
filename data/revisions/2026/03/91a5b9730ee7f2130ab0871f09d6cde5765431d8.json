@@ -1,0 +1,15 @@
+{
+  "commit": "91a5b9730ee7f2130ab0871f09d6cde5765431d8",
+  "repo_url": "https://github.com/l3montree-dev/devguard",
+  "date": "2026-03-30T13:01:25",
+  "languages": {
+    "Go": 3360768,
+    "Shell": 70952,
+    "TeX": 24704,
+    "Open Policy Agent": 13511,
+    "Makefile": 1687,
+    "Dockerfile": 1626,
+    "Jsonnet": 1373
+  },
+  "size": 3474621
+}

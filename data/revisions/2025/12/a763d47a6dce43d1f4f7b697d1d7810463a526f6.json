@@ -1,0 +1,13 @@
+{
+  "commit": "a763d47a6dce43d1f4f7b697d1d7810463a526f6",
+  "repo_url": "https://github.com/cloudflare/circl",
+  "date": "2025-12-22T21:26:53",
+  "languages": {
+    "Go": 2127480,
+    "Assembly": 530121,
+    "C": 51184,
+    "Makefile": 1667,
+    "Awk": 105
+  },
+  "size": 2710557
+}

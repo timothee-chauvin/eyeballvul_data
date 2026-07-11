@@ -1,0 +1,13 @@
+{
+  "commit": "cdfb81d7c6c00dea37a1794a7e021a7753c8d013",
+  "repo_url": "https://github.com/nu774/fdkaac",
+  "date": "2022-07-13T11:59:03",
+  "languages": {
+    "C": 247944,
+    "M4": 55869,
+    "Python": 1539,
+    "Makefile": 1135,
+    "Shell": 87
+  },
+  "size": 306574
+}

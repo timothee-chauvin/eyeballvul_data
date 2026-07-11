@@ -1,0 +1,11 @@
+{
+  "commit": "30ae949dd2311dceba5069585b9b324d53dccf15",
+  "repo_url": "https://github.com/consensys/gnark-crypto",
+  "date": "2023-07-11T14:51:33",
+  "languages": {
+    "Go": 1154970,
+    "Assembly": 586411,
+    "Sage": 6779
+  },
+  "size": 1748160
+}

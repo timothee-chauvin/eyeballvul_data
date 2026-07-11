@@ -1,0 +1,18 @@
+{
+  "commit": "dc0eaffb76740771290e07bf955670c18a572ca9",
+  "repo_url": "https://github.com/agentic-community/mcp-gateway-registry",
+  "date": "2026-01-20T00:04:21",
+  "languages": {
+    "Python": 3168970,
+    "Shell": 593939,
+    "TypeScript": 428085,
+    "HCL": 174783,
+    "HTML": 174742,
+    "CSS": 13882,
+    "Makefile": 10486,
+    "Dockerfile": 5667,
+    "JavaScript": 2392,
+    "Smarty": 1459
+  },
+  "size": 4574405
+}

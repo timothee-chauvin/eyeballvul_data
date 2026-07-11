@@ -1,0 +1,11 @@
+{
+  "commit": "e29b2357a11d25c9288e1bb006728ddde4d4b6b1",
+  "repo_url": "https://github.com/aas-ee/open-websearch",
+  "date": "2026-04-07T11:33:41",
+  "languages": {
+    "TypeScript": 362383,
+    "JavaScript": 8490,
+    "Dockerfile": 676
+  },
+  "size": 371549
+}

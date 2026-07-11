@@ -1,0 +1,16 @@
+{
+  "commit": "2926001b60fb5060727f3d8034c84cfb014a5dca",
+  "repo_url": "https://github.com/micropython/micropython",
+  "date": "2024-05-31T06:35:27",
+  "languages": {
+    "C": 19842917,
+    "Python": 1955889,
+    "Makefile": 233610,
+    "CMake": 79693,
+    "JavaScript": 51852,
+    "Shell": 47483,
+    "C++": 43389,
+    "Assembly": 23880
+  },
+  "size": 22278713
+}

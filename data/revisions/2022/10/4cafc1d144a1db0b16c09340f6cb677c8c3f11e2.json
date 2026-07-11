@@ -1,0 +1,18 @@
+{
+  "commit": "4cafc1d144a1db0b16c09340f6cb677c8c3f11e2",
+  "repo_url": "https://github.com/linagora/twake",
+  "date": "2022-10-27T08:28:32",
+  "languages": {
+    "TypeScript": 2992942,
+    "JavaScript": 1882325,
+    "PHP": 1850897,
+    "SCSS": 297693,
+    "CSS": 80487,
+    "Twig": 66740,
+    "HTML": 48029,
+    "Less": 38633,
+    "Dockerfile": 12344,
+    "Shell": 6147
+  },
+  "size": 7276237
+}

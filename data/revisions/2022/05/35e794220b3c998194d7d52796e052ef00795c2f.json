@@ -1,0 +1,13 @@
+{
+  "commit": "35e794220b3c998194d7d52796e052ef00795c2f",
+  "repo_url": "https://github.com/dutchcoders/transfer.sh",
+  "date": "2022-05-15T14:48:13",
+  "languages": {
+    "Go": 100937,
+    "Nix": 11875,
+    "Shell": 8887,
+    "Dockerfile": 1279,
+    "Makefile": 92
+  },
+  "size": 123070
+}

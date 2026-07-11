@@ -1,0 +1,25 @@
+{
+  "commit": "8ec081b53f667c7bb4a5c77ffaf3653f67d9e55c",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation",
+  "date": "2026-04-08T19:20:45",
+  "languages": {
+    "C": 15206971,
+    "Go": 6338623,
+    "Java": 201049,
+    "Python": 72432,
+    "Dockerfile": 55264,
+    "Ruby": 39749,
+    "Makefile": 38799,
+    "Shell": 33600,
+    "JavaScript": 26594,
+    "Rust": 7949,
+    "Elixir": 2294,
+    "TypeScript": 1121,
+    "PHP": 791,
+    "TSQL": 567,
+    "HTML": 484,
+    "C#": 476,
+    "Roff": 361
+  },
+  "size": 22027124
+}

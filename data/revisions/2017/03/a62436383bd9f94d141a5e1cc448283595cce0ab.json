@@ -1,0 +1,13 @@
+{
+  "commit": "a62436383bd9f94d141a5e1cc448283595cce0ab",
+  "repo_url": "https://github.com/cloudfoundry/staticfile-buildpack",
+  "date": "2017-03-29T18:26:18",
+  "languages": {
+    "HTML": 51181,
+    "JavaScript": 44625,
+    "Go": 41541,
+    "Ruby": 16681,
+    "Shell": 1689
+  },
+  "size": 155717
+}

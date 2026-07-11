@@ -1,0 +1,13 @@
+{
+  "commit": "00f0887716a0bae2ffd6d2f8dd4963462901a19d",
+  "repo_url": "https://github.com/tencentcloudbase/cloudbase-mcp",
+  "date": "2026-04-13T02:34:14",
+  "languages": {
+    "TypeScript": 967389,
+    "JavaScript": 388250,
+    "HTML": 220704,
+    "CSS": 12638,
+    "Dockerfile": 1507
+  },
+  "size": 1590488
+}

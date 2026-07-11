@@ -1,0 +1,13 @@
+{
+  "commit": "c88cb4bca93e3a376836b8880e5e4c1fa5c7eba2",
+  "repo_url": "https://github.com/cinnyapp/cinny",
+  "date": "2025-11-05T06:49:56",
+  "languages": {
+    "TypeScript": 2181796,
+    "JavaScript": 16150,
+    "CSS": 4235,
+    "HTML": 3075,
+    "Dockerfile": 418
+  },
+  "size": 2205674
+}

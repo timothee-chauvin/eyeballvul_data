@@ -1,0 +1,17 @@
+{
+  "commit": "68c760b78a81efcff6008660cba7d65b32b0351b",
+  "repo_url": "https://github.com/bitnami/sealed-secrets",
+  "date": "2026-02-12T10:38:16",
+  "languages": {
+    "Go": 248015,
+    "Jsonnet": 57613,
+    "SCSS": 30822,
+    "HTML": 24718,
+    "Makefile": 9414,
+    "Smarty": 6392,
+    "Shell": 5524,
+    "Dockerfile": 1564,
+    "JavaScript": 566
+  },
+  "size": 384628
+}

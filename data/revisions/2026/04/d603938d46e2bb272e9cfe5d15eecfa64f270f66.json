@@ -1,0 +1,17 @@
+{
+  "commit": "d603938d46e2bb272e9cfe5d15eecfa64f270f66",
+  "repo_url": "https://github.com/nextcloud/news",
+  "date": "2026-04-20T07:50:57",
+  "languages": {
+    "PHP": 981466,
+    "JavaScript": 644684,
+    "TypeScript": 265044,
+    "Vue": 150173,
+    "Shell": 45364,
+    "Makefile": 8793,
+    "Python": 6412,
+    "Dockerfile": 382,
+    "Nix": 232
+  },
+  "size": 2102550
+}

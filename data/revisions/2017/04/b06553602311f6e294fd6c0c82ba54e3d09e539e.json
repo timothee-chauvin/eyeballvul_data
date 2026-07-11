@@ -1,0 +1,15 @@
+{
+  "commit": "b06553602311f6e294fd6c0c82ba54e3d09e539e",
+  "repo_url": "https://github.com/arvidn/libtorrent",
+  "date": "2017-04-02T22:34:45",
+  "languages": {
+    "C++": 6201921,
+    "Python": 228451,
+    "C": 161496,
+    "M4": 122979,
+    "Makefile": 26490,
+    "Shell": 24514,
+    "CMake": 9068
+  },
+  "size": 6774919
+}

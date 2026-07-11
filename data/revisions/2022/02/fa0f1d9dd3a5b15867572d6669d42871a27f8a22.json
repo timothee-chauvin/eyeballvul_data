@@ -1,0 +1,11 @@
+{
+  "commit": "fa0f1d9dd3a5b15867572d6669d42871a27f8a22",
+  "repo_url": "https://github.com/invesalius/invesalius3",
+  "date": "2022-02-02T21:43:59",
+  "languages": {
+    "Python": 2025444,
+    "Cython": 67134,
+    "Dockerfile": 529
+  },
+  "size": 2093107
+}

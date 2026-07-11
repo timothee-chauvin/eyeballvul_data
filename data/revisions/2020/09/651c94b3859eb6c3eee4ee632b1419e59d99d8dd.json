@@ -1,0 +1,17 @@
+{
+  "commit": "651c94b3859eb6c3eee4ee632b1419e59d99d8dd",
+  "repo_url": "https://github.com/spring-projects/spring-security",
+  "date": "2020-09-09T19:04:15",
+  "languages": {
+    "Java": 13011523,
+    "Kotlin": 637740,
+    "AspectJ": 3335,
+    "PLSQL": 3180,
+    "XSLT": 2344,
+    "Shell": 811,
+    "HTML": 428,
+    "Python": 129,
+    "JavaScript": 10
+  },
+  "size": 13659500
+}

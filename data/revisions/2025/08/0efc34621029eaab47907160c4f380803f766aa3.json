@@ -1,0 +1,16 @@
+{
+  "commit": "0efc34621029eaab47907160c4f380803f766aa3",
+  "repo_url": "https://github.com/gardener/gardener-extension-provider-aws",
+  "date": "2025-08-13T13:37:46",
+  "languages": {
+    "Go": 1327247,
+    "Shell": 16524,
+    "HCL": 14229,
+    "Makefile": 8376,
+    "Mustache": 6957,
+    "Python": 3666,
+    "Smarty": 3174,
+    "Dockerfile": 980
+  },
+  "size": 1381153
+}

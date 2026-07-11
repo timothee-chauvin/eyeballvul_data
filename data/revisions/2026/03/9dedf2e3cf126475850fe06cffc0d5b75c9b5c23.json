@@ -1,0 +1,16 @@
+{
+  "commit": "9dedf2e3cf126475850fe06cffc0d5b75c9b5c23",
+  "repo_url": "https://github.com/lfnovo/open-notebook",
+  "date": "2026-03-11T01:21:49",
+  "languages": {
+    "TypeScript": 1339254,
+    "Python": 765782,
+    "Jinja": 20545,
+    "Makefile": 7120,
+    "CSS": 6035,
+    "Dockerfile": 4509,
+    "Shell": 856,
+    "JavaScript": 671
+  },
+  "size": 2144772
+}

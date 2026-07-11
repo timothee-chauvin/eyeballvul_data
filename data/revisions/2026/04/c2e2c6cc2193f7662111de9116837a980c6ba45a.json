@@ -1,0 +1,18 @@
+{
+  "commit": "c2e2c6cc2193f7662111de9116837a980c6ba45a",
+  "repo_url": "https://github.com/socfortress/copilot",
+  "date": "2026-04-22T20:24:04",
+  "languages": {
+    "Python": 3946675,
+    "Vue": 2385538,
+    "TypeScript": 1320652,
+    "HTML": 47269,
+    "JavaScript": 35859,
+    "SCSS": 32336,
+    "CSS": 11673,
+    "Shell": 8115,
+    "Dockerfile": 7012,
+    "Mako": 635
+  },
+  "size": 7795764
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "3b3e175030dbd22770387eb9bf4f59e437fcab34",
+  "repo_url": "https://github.com/plonky3/plonky3",
+  "date": "2026-03-27T15:43:35",
+  "languages": {
+    "Rust": 3694321,
+    "Python": 71121,
+    "Shell": 1761
+  },
+  "size": 3767203
+}

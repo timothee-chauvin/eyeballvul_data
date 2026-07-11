@@ -1,0 +1,13 @@
+{
+  "commit": "51b92df6a069f63085fa3c8e66af5b0f0526e529",
+  "repo_url": "https://github.com/badgerati/pode",
+  "date": "2025-04-27T20:32:17",
+  "languages": {
+    "PowerShell": 3138087,
+    "C#": 221263,
+    "JavaScript": 3035,
+    "Dockerfile": 1246,
+    "HTML": 266
+  },
+  "size": 3363897
+}

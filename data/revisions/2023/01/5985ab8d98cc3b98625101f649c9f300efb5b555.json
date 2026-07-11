@@ -1,0 +1,17 @@
+{
+  "commit": "5985ab8d98cc3b98625101f649c9f300efb5b555",
+  "repo_url": "https://github.com/gmod/apollo",
+  "date": "2023-01-03T21:57:22",
+  "languages": {
+    "Groovy": 3073333,
+    "JavaScript": 1548432,
+    "Java": 879863,
+    "CSS": 114422,
+    "Perl": 53820,
+    "Shell": 29035,
+    "Dockerfile": 5142,
+    "Python": 2591,
+    "HTML": 2091
+  },
+  "size": 5708729
+}

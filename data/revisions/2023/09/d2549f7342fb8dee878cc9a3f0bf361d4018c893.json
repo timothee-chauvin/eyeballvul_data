@@ -1,0 +1,14 @@
+{
+  "commit": "d2549f7342fb8dee878cc9a3f0bf361d4018c893",
+  "repo_url": "https://github.com/saltbo/zpan",
+  "date": "2023-09-16T15:11:07",
+  "languages": {
+    "Go": 600489,
+    "Shell": 2690,
+    "Makefile": 996,
+    "Dockerfile": 185,
+    "Open Policy Agent": 182,
+    "Procfile": 43
+  },
+  "size": 604585
+}

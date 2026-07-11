@@ -1,0 +1,12 @@
+{
+  "commit": "8b778cd474827e8761013ba15fc0ea54c2916771",
+  "repo_url": "https://github.com/trustyai-explainability/trustyai-service-operator",
+  "date": "2025-06-09T16:00:30",
+  "languages": {
+    "Go": 508969,
+    "Makefile": 18494,
+    "Dockerfile": 4377,
+    "Shell": 2379
+  },
+  "size": 534219
+}

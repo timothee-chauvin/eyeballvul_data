@@ -1,0 +1,12 @@
+{
+  "commit": "7faebca1ea4f9aaf0cda1cef7c43aecd2311ddf6",
+  "repo_url": "https://github.com/apple/swift-asn1",
+  "date": "2024-10-14T11:13:45",
+  "languages": {
+    "Swift": 356042,
+    "Shell": 15598,
+    "CMake": 8713,
+    "Dockerfile": 905
+  },
+  "size": 381258
+}

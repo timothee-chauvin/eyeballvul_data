@@ -1,0 +1,13 @@
+{
+  "commit": "bb75180017d3478cadf94a056539e93471b2f9c0",
+  "repo_url": "https://github.com/xpixelgroup/basicsr",
+  "date": "2022-07-18T10:42:48",
+  "languages": {
+    "Python": 775000,
+    "Cuda": 57299,
+    "C++": 38478,
+    "MATLAB": 5649,
+    "Shell": 749
+  },
+  "size": 877175
+}

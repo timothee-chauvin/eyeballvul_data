@@ -1,0 +1,14 @@
+{
+  "commit": "08d48f6f9ba83026cf89e0bb16d8effc8435ba93",
+  "repo_url": "https://github.com/agl/jbig2enc",
+  "date": "2012-09-19T21:27:24",
+  "languages": {
+    "Shell": 315558,
+    "C++": 107857,
+    "Makefile": 47217,
+    "C": 12792,
+    "Python": 5138,
+    "M4": 2160
+  },
+  "size": 490722
+}

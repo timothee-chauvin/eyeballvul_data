@@ -1,0 +1,15 @@
+{
+  "commit": "f3c063836599b875a79168a9a343722e5074fe81",
+  "repo_url": "https://github.com/inkeep/agents",
+  "date": "2026-03-13T05:40:06",
+  "languages": {
+    "TypeScript": 16222873,
+    "MDX": 819458,
+    "JavaScript": 115127,
+    "Shell": 38208,
+    "CSS": 15759,
+    "Dockerfile": 1385,
+    "HTML": 366
+  },
+  "size": 17213176
+}

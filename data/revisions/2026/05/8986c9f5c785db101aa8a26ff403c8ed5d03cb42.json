@@ -1,0 +1,14 @@
+{
+  "commit": "8986c9f5c785db101aa8a26ff403c8ed5d03cb42",
+  "repo_url": "https://github.com/aws/s2n-quic",
+  "date": "2026-05-29T17:34:13",
+  "languages": {
+    "Rust": 9864361,
+    "Shell": 22784,
+    "Dockerfile": 4519,
+    "HTML": 2125,
+    "Procfile": 1577,
+    "C": 88
+  },
+  "size": 9895454
+}

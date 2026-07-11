@@ -1,0 +1,14 @@
+{
+  "commit": "b12e3c0848368f8d71cbb6c5b38d8388cbc67ea4",
+  "repo_url": "https://github.com/cisagov/manage.get.gov",
+  "date": "2026-04-23T16:56:59",
+  "languages": {
+    "Python": 4582370,
+    "JavaScript": 1117850,
+    "HTML": 546432,
+    "SCSS": 83960,
+    "Shell": 47978,
+    "Dockerfile": 502
+  },
+  "size": 6379092
+}

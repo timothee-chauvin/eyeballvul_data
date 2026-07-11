@@ -1,0 +1,16 @@
+{
+  "commit": "db8d5921a770e7536b34c56d062b47795b548d35",
+  "repo_url": "https://github.com/containers/buildah",
+  "date": "2022-08-08T11:39:19",
+  "languages": {
+    "Go": 1250912,
+    "Shell": 554406,
+    "Dockerfile": 17135,
+    "Perl": 10721,
+    "Makefile": 8767,
+    "Nix": 5882,
+    "Awk": 512,
+    "Roff": 485
+  },
+  "size": 1848820
+}

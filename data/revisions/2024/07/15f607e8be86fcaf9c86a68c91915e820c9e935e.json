@@ -1,0 +1,16 @@
+{
+  "commit": "15f607e8be86fcaf9c86a68c91915e820c9e935e",
+  "repo_url": "https://github.com/lemonosproject/lemonos",
+  "date": "2024-07-11T10:38:38",
+  "languages": {
+    "C++": 1636432,
+    "C": 78528,
+    "Assembly": 16845,
+    "CMake": 12339,
+    "Shell": 6735,
+    "Dockerfile": 1276,
+    "Meson": 104,
+    "Python": 66
+  },
+  "size": 1752325
+}

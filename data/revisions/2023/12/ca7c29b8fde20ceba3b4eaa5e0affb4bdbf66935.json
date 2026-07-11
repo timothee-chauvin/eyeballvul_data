@@ -1,0 +1,16 @@
+{
+  "commit": "ca7c29b8fde20ceba3b4eaa5e0affb4bdbf66935",
+  "repo_url": "https://github.com/neka-nat/cupoch",
+  "date": "2023-12-09T04:33:20",
+  "languages": {
+    "C++": 1226984,
+    "Cuda": 1010820,
+    "C": 39438,
+    "CMake": 22112,
+    "GLSL": 10671,
+    "Python": 5294,
+    "Dockerfile": 1256,
+    "Shell": 266
+  },
+  "size": 2316841
+}

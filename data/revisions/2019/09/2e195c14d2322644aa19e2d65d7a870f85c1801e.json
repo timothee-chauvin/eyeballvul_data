@@ -1,0 +1,13 @@
+{
+  "commit": "2e195c14d2322644aa19e2d65d7a870f85c1801e",
+  "repo_url": "https://github.com/birkir/prime",
+  "date": "2019-09-24T17:42:31",
+  "languages": {
+    "TypeScript": 449088,
+    "Less": 6616,
+    "JavaScript": 5277,
+    "CSS": 4682,
+    "HTML": 2263
+  },
+  "size": 467926
+}

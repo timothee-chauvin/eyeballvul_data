@@ -1,0 +1,20 @@
+{
+  "commit": "62159a45e18f3a9ac0548628dcaf74fcb60c6ff9",
+  "repo_url": "https://github.com/microsoft/vcpkg",
+  "date": "2026-02-27T23:58:46",
+  "languages": {
+    "CMake": 793553,
+    "PowerShell": 184849,
+    "C++": 34749,
+    "Shell": 33189,
+    "Python": 26272,
+    "C": 12222,
+    "JavaScript": 9496,
+    "Dockerfile": 4312,
+    "Qt Script": 1661,
+    "Nix": 924,
+    "Batchfile": 715,
+    "HTML": 663
+  },
+  "size": 1102605
+}

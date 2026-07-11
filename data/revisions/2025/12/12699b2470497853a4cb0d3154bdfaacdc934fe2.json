@@ -1,0 +1,12 @@
+{
+  "commit": "12699b2470497853a4cb0d3154bdfaacdc934fe2",
+  "repo_url": "https://github.com/emiago/sipgo",
+  "date": "2025-12-03T22:02:42",
+  "languages": {
+    "Go": 449676,
+    "Shell": 2916,
+    "Dockerfile": 1323,
+    "Makefile": 557
+  },
+  "size": 454472
+}

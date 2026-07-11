@@ -1,0 +1,17 @@
+{
+  "commit": "68e2dd8d22fdef79c72ad5902e026c698e2ff087",
+  "repo_url": "https://github.com/keepassxreboot/keepassxc",
+  "date": "2024-03-09T23:13:37",
+  "languages": {
+    "C++": 8617928,
+    "CMake": 107300,
+    "Shell": 71844,
+    "C": 61248,
+    "PowerShell": 29503,
+    "Objective-C++": 21924,
+    "Python": 5798,
+    "Go": 4073,
+    "JavaScript": 16
+  },
+  "size": 8919634
+}

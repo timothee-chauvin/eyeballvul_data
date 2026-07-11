@@ -1,0 +1,15 @@
+{
+  "commit": "6e97e9d6a8e33380428ceed04b61bcb8109d6464",
+  "repo_url": "https://github.com/marcantondahmen/automad",
+  "date": "2026-04-12T18:41:57",
+  "languages": {
+    "TypeScript": 1002492,
+    "PHP": 964473,
+    "Less": 289934,
+    "Hack": 39978,
+    "HTML": 37014,
+    "JavaScript": 14463,
+    "Shell": 11418
+  },
+  "size": 2359772
+}

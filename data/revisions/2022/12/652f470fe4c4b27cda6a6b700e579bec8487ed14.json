@@ -1,0 +1,13 @@
+{
+  "commit": "652f470fe4c4b27cda6a6b700e579bec8487ed14",
+  "repo_url": "https://github.com/kyverno/kyverno",
+  "date": "2022-12-19T14:29:38",
+  "languages": {
+    "Go": 8598337,
+    "Makefile": 35499,
+    "Shell": 24320,
+    "Mustache": 9273,
+    "Dockerfile": 2946
+  },
+  "size": 8670375
+}

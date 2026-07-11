@@ -1,0 +1,12 @@
+{
+  "commit": "5440ba9224446d6b478639a4407c661e3d4dbd46",
+  "repo_url": "https://github.com/friendsofflarum/pretty-mail",
+  "date": "2023-11-12T16:56:33",
+  "languages": {
+    "TypeScript": 12162,
+    "PHP": 11413,
+    "Blade": 7557,
+    "JavaScript": 53
+  },
+  "size": 31185
+}

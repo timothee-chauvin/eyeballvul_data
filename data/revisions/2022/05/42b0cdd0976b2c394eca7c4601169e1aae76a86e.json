@@ -1,0 +1,15 @@
+{
+  "commit": "42b0cdd0976b2c394eca7c4601169e1aae76a86e",
+  "repo_url": "https://github.com/revive-adserver/revive-adserver",
+  "date": "2022-05-12T07:29:50",
+  "languages": {
+    "PHP": 27726756,
+    "JavaScript": 1122266,
+    "HTML": 1067487,
+    "CSS": 237628,
+    "XSLT": 130136,
+    "Smarty": 7889,
+    "Shell": 7459
+  },
+  "size": 30299621
+}

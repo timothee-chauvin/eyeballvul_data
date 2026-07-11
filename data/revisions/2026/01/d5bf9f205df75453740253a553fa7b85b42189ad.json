@@ -1,0 +1,16 @@
+{
+  "commit": "d5bf9f205df75453740253a553fa7b85b42189ad",
+  "repo_url": "https://github.com/blinkospace/blinko",
+  "date": "2026-01-02T10:53:08",
+  "languages": {
+    "TypeScript": 1991197,
+    "Rust": 65818,
+    "CSS": 51562,
+    "JavaScript": 26986,
+    "Kotlin": 21356,
+    "Shell": 5870,
+    "Smarty": 3425,
+    "HTML": 2458
+  },
+  "size": 2168672
+}

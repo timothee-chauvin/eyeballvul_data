@@ -1,0 +1,23 @@
+{
+  "commit": "98fba37cd3b1ada547f7910c792b79debda5c51d",
+  "repo_url": "https://github.com/laurent22/joplin",
+  "date": "2021-12-19T10:58:42",
+  "languages": {
+    "TypeScript": 4176344,
+    "JavaScript": 2732098,
+    "HTML": 139822,
+    "CSS": 98676,
+    "Mustache": 51040,
+    "Handlebars": 31635,
+    "Shell": 22932,
+    "Java": 20784,
+    "Objective-C": 16768,
+    "SCSS": 5099,
+    "Ruby": 2756,
+    "Starlark": 1920,
+    "C": 523,
+    "Swift": 370,
+    "Batchfile": 140
+  },
+  "size": 7300907
+}

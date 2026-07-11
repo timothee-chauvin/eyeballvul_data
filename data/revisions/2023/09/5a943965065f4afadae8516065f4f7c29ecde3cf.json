@@ -1,0 +1,16 @@
+{
+  "commit": "5a943965065f4afadae8516065f4f7c29ecde3cf",
+  "repo_url": "https://github.com/woocommerce/woocommerce-blocks",
+  "date": "2023-09-12T13:50:27",
+  "languages": {
+    "TypeScript": 2376932,
+    "PHP": 1601665,
+    "JavaScript": 808117,
+    "SCSS": 202766,
+    "HTML": 60199,
+    "Shell": 40675,
+    "CSS": 913,
+    "Dockerfile": 500
+  },
+  "size": 5091767
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "df489456956fcc3338e2c114344a3cf66946cf25",
+  "repo_url": "https://github.com/unitedbyai/droidclaw",
+  "date": "2026-02-25T14:47:15",
+  "languages": {
+    "TypeScript": 346727,
+    "Kotlin": 222060,
+    "Svelte": 169578,
+    "HTML": 57188,
+    "Shell": 8757,
+    "JavaScript": 1798,
+    "Dockerfile": 522,
+    "CSS": 329
+  },
+  "size": 806959
+}

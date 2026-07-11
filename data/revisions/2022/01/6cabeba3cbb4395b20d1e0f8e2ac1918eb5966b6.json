@@ -1,0 +1,18 @@
+{
+  "commit": "6cabeba3cbb4395b20d1e0f8e2ac1918eb5966b6",
+  "repo_url": "https://github.com/tandoorrecipes/recipes",
+  "date": "2022-01-24T17:25:49",
+  "languages": {
+    "HTML": 5696628,
+    "JavaScript": 1121641,
+    "Python": 894562,
+    "TypeScript": 594694,
+    "Vue": 442707,
+    "CSS": 103150,
+    "Dockerfile": 886,
+    "Shell": 309,
+    "Batchfile": 184,
+    "C": 73
+  },
+  "size": 8854834
+}

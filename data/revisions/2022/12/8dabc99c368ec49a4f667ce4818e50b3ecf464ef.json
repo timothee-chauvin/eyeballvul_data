@@ -1,0 +1,12 @@
+{
+  "commit": "8dabc99c368ec49a4f667ce4818e50b3ecf464ef",
+  "repo_url": "https://github.com/openslides/openslides",
+  "date": "2022-12-13T23:01:44",
+  "languages": {
+    "Shell": 11381,
+    "Makefile": 1209,
+    "Dockerfile": 565,
+    "Python": 336
+  },
+  "size": 13491
+}

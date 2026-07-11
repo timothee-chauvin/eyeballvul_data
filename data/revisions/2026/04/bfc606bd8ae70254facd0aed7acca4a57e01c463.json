@@ -1,0 +1,16 @@
+{
+  "commit": "bfc606bd8ae70254facd0aed7acca4a57e01c463",
+  "repo_url": "https://github.com/legeling/prompthub",
+  "date": "2026-04-19T15:59:53",
+  "languages": {
+    "TypeScript": 4009794,
+    "CSS": 35262,
+    "JavaScript": 26411,
+    "Astro": 23952,
+    "Shell": 3420,
+    "Dockerfile": 1729,
+    "NSIS": 1013,
+    "HTML": 766
+  },
+  "size": 4102347
+}

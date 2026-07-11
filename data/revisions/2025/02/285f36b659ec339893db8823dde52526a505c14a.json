@@ -1,0 +1,22 @@
+{
+  "commit": "285f36b659ec339893db8823dde52526a505c14a",
+  "repo_url": "https://github.com/eclipse-ee4j/openmq",
+  "date": "2025-02-04T08:53:41",
+  "languages": {
+    "Java": 16567548,
+    "C++": 1377804,
+    "C": 387187,
+    "HTML": 317200,
+    "Shell": 148621,
+    "Makefile": 82010,
+    "Ruby": 56325,
+    "VBScript": 45828,
+    "Batchfile": 33637,
+    "C#": 33329,
+    "Python": 24586,
+    "SQLPL": 1703,
+    "CSS": 1601,
+    "Haskell": 1345
+  },
+  "size": 19078724
+}

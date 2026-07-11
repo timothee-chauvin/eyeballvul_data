@@ -1,0 +1,14 @@
+{
+  "commit": "5a4d433970be9b8402f57e65bffa497027f21e30",
+  "repo_url": "https://github.com/alibaba/nacos",
+  "date": "2021-07-28T11:21:57",
+  "languages": {
+    "Java": 7650972,
+    "SCSS": 78323,
+    "Shell": 6151,
+    "JavaScript": 5263,
+    "TypeScript": 4765,
+    "Batchfile": 4387
+  },
+  "size": 7749861
+}

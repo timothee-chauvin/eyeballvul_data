@@ -1,0 +1,14 @@
+{
+  "commit": "ac3d47319213566e268bee16ae33335705c1b89d",
+  "repo_url": "https://github.com/ad-security/ad_miner",
+  "date": "2026-03-18T08:32:31",
+  "languages": {
+    "JavaScript": 4419435,
+    "Python": 497032,
+    "HTML": 330212,
+    "CSS": 30343,
+    "Shell": 895,
+    "Dockerfile": 337
+  },
+  "size": 5278254
+}

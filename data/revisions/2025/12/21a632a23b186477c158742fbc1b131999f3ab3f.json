@@ -1,0 +1,11 @@
+{
+  "commit": "21a632a23b186477c158742fbc1b131999f3ab3f",
+  "repo_url": "https://github.com/hashicorp/memberlist",
+  "date": "2025-12-11T09:57:10",
+  "languages": {
+    "Go": 391551,
+    "Shell": 1249,
+    "Makefile": 670
+  },
+  "size": 393470
+}

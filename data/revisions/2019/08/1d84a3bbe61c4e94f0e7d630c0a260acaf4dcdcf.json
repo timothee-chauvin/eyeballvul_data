@@ -1,0 +1,11 @@
+{
+  "commit": "1d84a3bbe61c4e94f0e7d630c0a260acaf4dcdcf",
+  "repo_url": "https://github.com/samsung/mtower",
+  "date": "2019-08-12T12:04:46",
+  "languages": {
+    "C": 7916714,
+    "Makefile": 25578,
+    "Assembly": 14658
+  },
+  "size": 7956950
+}

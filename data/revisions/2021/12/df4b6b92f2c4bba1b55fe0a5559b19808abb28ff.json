@@ -1,0 +1,15 @@
+{
+  "commit": "df4b6b92f2c4bba1b55fe0a5559b19808abb28ff",
+  "repo_url": "https://github.com/musicplayerdaemon/mpd",
+  "date": "2021-12-01T19:00:00",
+  "languages": {
+    "C++": 4532669,
+    "Meson": 102995,
+    "Python": 47490,
+    "C": 30369,
+    "Java": 26598,
+    "Shell": 2760,
+    "AIDL": 500
+  },
+  "size": 4743381
+}

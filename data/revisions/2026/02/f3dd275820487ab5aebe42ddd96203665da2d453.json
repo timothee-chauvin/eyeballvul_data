@@ -1,0 +1,16 @@
+{
+  "commit": "f3dd275820487ab5aebe42ddd96203665da2d453",
+  "repo_url": "https://github.com/grafana/tempo",
+  "date": "2026-02-17T11:26:07",
+  "languages": {
+    "Go": 7245944,
+    "Jsonnet": 201301,
+    "Yacc": 26617,
+    "Makefile": 19627,
+    "HCL": 13663,
+    "Shell": 4866,
+    "Dockerfile": 3601,
+    "CSS": 684
+  },
+  "size": 7516303
+}

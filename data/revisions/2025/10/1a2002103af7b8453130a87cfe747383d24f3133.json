@@ -1,0 +1,16 @@
+{
+  "commit": "1a2002103af7b8453130a87cfe747383d24f3133",
+  "repo_url": "https://github.com/the-events-calendar/the-events-calendar",
+  "date": "2025-10-21T18:40:41",
+  "languages": {
+    "PHP": 9921471,
+    "HTML": 738725,
+    "JavaScript": 669694,
+    "CSS": 397068,
+    "TypeScript": 127571,
+    "Gherkin": 43543,
+    "Handlebars": 9035,
+    "Shell": 3019
+  },
+  "size": 11910126
+}

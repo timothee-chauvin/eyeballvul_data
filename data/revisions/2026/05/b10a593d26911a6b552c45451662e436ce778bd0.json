@@ -1,0 +1,15 @@
+{
+  "commit": "b10a593d26911a6b552c45451662e436ce778bd0",
+  "repo_url": "https://github.com/wpusermanager/wp-user-manager",
+  "date": "2026-05-11T20:01:49",
+  "languages": {
+    "PHP": 1132381,
+    "TypeScript": 127866,
+    "Vue": 118925,
+    "JavaScript": 69872,
+    "SCSS": 39444,
+    "Shell": 1911,
+    "HTML": 266
+  },
+  "size": 1490665
+}

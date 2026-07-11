@@ -1,0 +1,11 @@
+{
+  "commit": "56d9fdbd435fc03616fa23145066e86451cb86ed",
+  "repo_url": "https://github.com/duck-organization/duck-site",
+  "date": "2026-05-17T00:01:13",
+  "languages": {
+    "TypeScript": 17033,
+    "CSS": 4589,
+    "Dockerfile": 731
+  },
+  "size": 22353
+}

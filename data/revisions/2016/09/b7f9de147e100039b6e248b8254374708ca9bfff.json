@@ -1,0 +1,12 @@
+{
+  "commit": "b7f9de147e100039b6e248b8254374708ca9bfff",
+  "repo_url": "https://github.com/docker-archive-public/docker.machine",
+  "date": "2016-09-27T05:33:29",
+  "languages": {
+    "Go": 895355,
+    "Shell": 50353,
+    "Makefile": 7308,
+    "Dockerfile": 223
+  },
+  "size": 953239
+}

@@ -1,0 +1,26 @@
+{
+  "commit": "52f90cda023abaca510d59f021c88629270ad6c0",
+  "repo_url": "https://github.com/unicorn-engine/unicorn",
+  "date": "2021-05-26T15:07:07",
+  "languages": {
+    "C": 8829914,
+    "Python": 423599,
+    "Java": 243316,
+    "Visual Basic 6.0": 127529,
+    "Pascal": 121634,
+    "F#": 108375,
+    "Haskell": 105350,
+    "Ruby": 94285,
+    "Go": 76378,
+    "Rust": 71208,
+    "Makefile": 41013,
+    "CMake": 28712,
+    "Objective-C": 27927,
+    "C#": 21905,
+    "C++": 12899,
+    "Shell": 10486,
+    "Assembly": 4028,
+    "Batchfile": 3506
+  },
+  "size": 10352064
+}

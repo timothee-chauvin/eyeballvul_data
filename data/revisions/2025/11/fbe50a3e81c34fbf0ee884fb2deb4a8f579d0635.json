@@ -1,0 +1,19 @@
+{
+  "commit": "fbe50a3e81c34fbf0ee884fb2deb4a8f579d0635",
+  "repo_url": "https://github.com/grafana/pyroscope",
+  "date": "2025-11-25T19:27:55",
+  "languages": {
+    "Go": 5598837,
+    "TypeScript": 273519,
+    "SCSS": 42326,
+    "Jsonnet": 30308,
+    "CSS": 28925,
+    "Makefile": 20654,
+    "JavaScript": 17972,
+    "Shell": 13588,
+    "Mustache": 6023,
+    "Dockerfile": 3316,
+    "HTML": 399
+  },
+  "size": 6035867
+}

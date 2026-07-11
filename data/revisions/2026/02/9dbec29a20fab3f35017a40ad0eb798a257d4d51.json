@@ -1,0 +1,10 @@
+{
+  "commit": "9dbec29a20fab3f35017a40ad0eb798a257d4d51",
+  "repo_url": "https://github.com/google-github-actions/run-gemini-cli",
+  "date": "2026-02-25T15:33:40",
+  "languages": {
+    "TypeScript": 26918,
+    "Shell": 21221
+  },
+  "size": 48139
+}

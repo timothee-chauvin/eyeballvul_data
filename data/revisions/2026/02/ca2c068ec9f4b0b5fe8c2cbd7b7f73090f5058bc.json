@@ -1,0 +1,16 @@
+{
+  "commit": "ca2c068ec9f4b0b5fe8c2cbd7b7f73090f5058bc",
+  "repo_url": "https://github.com/hkuds/deepcode",
+  "date": "2026-02-11T13:36:58",
+  "languages": {
+    "Python": 1684552,
+    "TypeScript": 175660,
+    "Shell": 36191,
+    "Dockerfile": 4210,
+    "JavaScript": 2740,
+    "CSS": 1890,
+    "HTML": 789,
+    "Batchfile": 702
+  },
+  "size": 1906734
+}

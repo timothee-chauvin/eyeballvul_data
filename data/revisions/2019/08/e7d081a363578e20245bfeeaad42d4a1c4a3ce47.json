@@ -1,0 +1,21 @@
+{
+  "commit": "e7d081a363578e20245bfeeaad42d4a1c4a3ce47",
+  "repo_url": "https://github.com/rsyslog/rsyslog",
+  "date": "2019-08-19T10:42:55",
+  "languages": {
+    "C": 4495616,
+    "Shell": 1367340,
+    "JavaScript": 244986,
+    "Makefile": 109247,
+    "M4": 101669,
+    "Python": 53335,
+    "Roff": 40505,
+    "Lex": 20091,
+    "Yacc": 8479,
+    "Perl": 6098,
+    "Java": 2480,
+    "Tcl": 244,
+    "Ruby": 45
+  },
+  "size": 6450135
+}

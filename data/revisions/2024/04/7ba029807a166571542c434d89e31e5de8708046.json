@@ -1,0 +1,16 @@
+{
+  "commit": "7ba029807a166571542c434d89e31e5de8708046",
+  "repo_url": "https://github.com/excalidraw/excalidraw",
+  "date": "2024-04-12T18:18:51",
+  "languages": {
+    "TypeScript": 2287112,
+    "SCSS": 127837,
+    "MDX": 121505,
+    "JavaScript": 72835,
+    "HTML": 8224,
+    "CSS": 1340,
+    "Dockerfile": 493,
+    "Shell": 29
+  },
+  "size": 2619375
+}

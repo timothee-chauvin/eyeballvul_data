@@ -1,0 +1,15 @@
+{
+  "commit": "0225493d8ac2243a8b0828be4b82e54d199b979a",
+  "repo_url": "https://github.com/apache/logging-log4net",
+  "date": "2025-08-19T21:01:29",
+  "languages": {
+    "C#": 2043163,
+    "FreeMarker": 23831,
+    "JavaScript": 8876,
+    "PowerShell": 8311,
+    "TypeScript": 4765,
+    "Dockerfile": 1961,
+    "Shell": 679
+  },
+  "size": 2091586
+}

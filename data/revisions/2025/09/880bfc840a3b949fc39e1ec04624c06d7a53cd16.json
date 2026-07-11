@@ -1,0 +1,14 @@
+{
+  "commit": "880bfc840a3b949fc39e1ec04624c06d7a53cd16",
+  "repo_url": "https://github.com/andyholmes/valent",
+  "date": "2025-09-14T18:15:12",
+  "languages": {
+    "C": 2964060,
+    "Meson": 117516,
+    "Python": 48024,
+    "CSS": 2696,
+    "Dockerfile": 2203,
+    "Shell": 1869
+  },
+  "size": 3136368
+}

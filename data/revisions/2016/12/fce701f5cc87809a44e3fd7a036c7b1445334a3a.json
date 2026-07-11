@@ -1,0 +1,26 @@
+{
+  "commit": "fce701f5cc87809a44e3fd7a036c7b1445334a3a",
+  "repo_url": "https://github.com/yacy/yacy_search_server",
+  "date": "2016-12-26T14:00:55",
+  "languages": {
+    "Java": 9835179,
+    "HTML": 881350,
+    "JavaScript": 658787,
+    "CSS": 258081,
+    "Rich Text Format": 45733,
+    "XSLT": 42030,
+    "Shell": 28446,
+    "Processing": 21228,
+    "NSIS": 14127,
+    "AspectJ": 9732,
+    "Ruby": 9473,
+    "Batchfile": 8126,
+    "M4": 7322,
+    "Perl": 6591,
+    "PHP": 5562,
+    "Dockerfile": 2187,
+    "Procfile": 426,
+    "NASL": 121
+  },
+  "size": 11834501
+}

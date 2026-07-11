@@ -1,0 +1,25 @@
+{
+  "commit": "a2d4e21d9c4d13bbfb468544d9ccfdabbf3960af",
+  "repo_url": "https://github.com/tinyos/tinyos-main",
+  "date": "2012-08-20T18:28:42",
+  "languages": {
+    "nesC": 13621209,
+    "C": 4800673,
+    "C++": 1187045,
+    "Java": 684846,
+    "Python": 397739,
+    "Makefile": 275707,
+    "Shell": 90582,
+    "SWIG": 38334,
+    "Roff": 36997,
+    "Assembly": 28345,
+    "M4": 19506,
+    "Perl": 15698,
+    "XSLT": 10966,
+    "HTML": 8879,
+    "CSS": 2962,
+    "MATLAB": 1814,
+    "Awk": 1658
+  },
+  "size": 21222960
+}

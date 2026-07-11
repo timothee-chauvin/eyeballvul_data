@@ -1,0 +1,21 @@
+{
+  "commit": "e64df56182e08424ababc1b9b18083aa5c9fa876",
+  "repo_url": "https://github.com/pinpoint-apm/pinpoint",
+  "date": "2024-10-22T08:07:18",
+  "languages": {
+    "Java": 22215947,
+    "TypeScript": 3149552,
+    "CSS": 243192,
+    "HTML": 220628,
+    "Shell": 25083,
+    "JavaScript": 19046,
+    "Thrift": 16040,
+    "SCSS": 10337,
+    "Kotlin": 4121,
+    "Dockerfile": 2486,
+    "Groovy": 1431,
+    "TSQL": 978,
+    "Batchfile": 200
+  },
+  "size": 25909041
+}

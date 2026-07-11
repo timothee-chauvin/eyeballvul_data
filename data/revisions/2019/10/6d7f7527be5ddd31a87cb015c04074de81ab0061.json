@@ -1,0 +1,15 @@
+{
+  "commit": "6d7f7527be5ddd31a87cb015c04074de81ab0061",
+  "repo_url": "https://github.com/veracrypt/veracrypt",
+  "date": "2019-10-06T17:14:45",
+  "languages": {
+    "C": 5791085,
+    "C++": 1789752,
+    "Assembly": 1051381,
+    "Shell": 96434,
+    "Makefile": 43193,
+    "Batchfile": 24868,
+    "CMake": 14101
+  },
+  "size": 8810814
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "e45fcf30b579a9a2a03bbbb35efb96556f1ad426",
+  "repo_url": "https://github.com/alextselegidis/easyappointments",
+  "date": "2024-07-07T11:53:43",
+  "languages": {
+    "PHP": 5282409,
+    "JavaScript": 609400,
+    "SCSS": 118171,
+    "HTML": 10492,
+    "Dockerfile": 1424,
+    "Shell": 414
+  },
+  "size": 6022310
+}

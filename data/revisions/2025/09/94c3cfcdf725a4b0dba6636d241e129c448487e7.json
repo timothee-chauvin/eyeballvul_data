@@ -1,0 +1,16 @@
+{
+  "commit": "94c3cfcdf725a4b0dba6636d241e129c448487e7",
+  "repo_url": "https://github.com/kgateway-dev/kgateway",
+  "date": "2025-09-26T16:46:02",
+  "languages": {
+    "Go": 4256599,
+    "Python": 1062311,
+    "Makefile": 38241,
+    "Rust": 20846,
+    "Shell": 19162,
+    "Dockerfile": 6012,
+    "Smarty": 4153,
+    "JavaScript": 435
+  },
+  "size": 5407759
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "e525214d36765e5f3f0fcc577425c05bdd5bf57d",
+  "repo_url": "https://github.com/dojo/dojox",
+  "date": "2017-09-26T20:55:21",
+  "languages": {
+    "JavaScript": 10413278,
+    "HTML": 8492091,
+    "CSS": 1211307,
+    "Less": 374891,
+    "PHP": 182756,
+    "XSLT": 47383,
+    "ActionScript": 21154,
+    "Perl": 6881,
+    "Java": 1391,
+    "Shell": 1261,
+    "Batchfile": 866,
+    "XQuery": 799,
+    "Roff": 228
+  },
+  "size": 20754286
+}

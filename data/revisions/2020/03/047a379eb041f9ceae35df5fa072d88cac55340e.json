@@ -1,0 +1,12 @@
+{
+  "commit": "047a379eb041f9ceae35df5fa072d88cac55340e",
+  "repo_url": "https://github.com/firecracker-microvm/firecracker",
+  "date": "2020-03-06T13:13:15",
+  "languages": {
+    "Rust": 2231081,
+    "Python": 251125,
+    "Shell": 44007,
+    "C": 6439
+  },
+  "size": 2532652
+}

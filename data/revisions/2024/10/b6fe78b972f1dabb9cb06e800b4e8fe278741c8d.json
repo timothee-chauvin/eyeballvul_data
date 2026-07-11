@@ -1,0 +1,18 @@
+{
+  "commit": "b6fe78b972f1dabb9cb06e800b4e8fe278741c8d",
+  "repo_url": "https://github.com/alkacon/opencms-core",
+  "date": "2024-10-05T08:52:38",
+  "languages": {
+    "Java": 43937677,
+    "JavaScript": 3181657,
+    "HTML": 719040,
+    "CSS": 157309,
+    "SCSS": 149172,
+    "Shell": 47754,
+    "XSLT": 27657,
+    "Rich Text Format": 20436,
+    "Batchfile": 8907,
+    "StringTemplate": 1974
+  },
+  "size": 48251583
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "8142bdc48f3619eddc6344fa4ed83b331f7b37c2",
+  "repo_url": "https://github.com/mudler/localai",
+  "date": "2024-06-19T00:28:50",
+  "languages": {
+    "C++": 1015161,
+    "Go": 604459,
+    "Python": 144557,
+    "JavaScript": 141579,
+    "Makefile": 50744,
+    "HTML": 42912,
+    "Shell": 28913,
+    "Dockerfile": 16545,
+    "CSS": 4571,
+    "CMake": 3102,
+    "Earthly": 110
+  },
+  "size": 2052653
+}

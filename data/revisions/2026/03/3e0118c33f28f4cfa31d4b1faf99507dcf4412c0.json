@@ -1,0 +1,15 @@
+{
+  "commit": "3e0118c33f28f4cfa31d4b1faf99507dcf4412c0",
+  "repo_url": "https://github.com/reviactyl/panel",
+  "date": "2026-03-14T19:22:54",
+  "languages": {
+    "PHP": 3163580,
+    "TypeScript": 772736,
+    "Blade": 438785,
+    "CSS": 40033,
+    "JavaScript": 22187,
+    "Nix": 3964,
+    "Dockerfile": 2208
+  },
+  "size": 4443493
+}

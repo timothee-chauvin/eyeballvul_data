@@ -1,0 +1,13 @@
+{
+  "commit": "8dc39af2e788c22d3b46d190c1c3e98ec07fbd00",
+  "repo_url": "https://github.com/gnome/gnome-remote-desktop",
+  "date": "2024-04-17T20:28:17",
+  "languages": {
+    "C": 1473682,
+    "Meson": 23344,
+    "Cuda": 10500,
+    "Python": 5435,
+    "Shell": 2913
+  },
+  "size": 1515874
+}

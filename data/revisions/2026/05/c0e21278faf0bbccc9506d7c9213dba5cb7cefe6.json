@@ -1,0 +1,17 @@
+{
+  "commit": "c0e21278faf0bbccc9506d7c9213dba5cb7cefe6",
+  "repo_url": "https://github.com/mlrun/mlrun",
+  "date": "2026-05-13T15:51:22",
+  "languages": {
+    "Python": 14780840,
+    "Go": 135379,
+    "Makefile": 58618,
+    "Shell": 31066,
+    "Dockerfile": 29800,
+    "Jupyter Notebook": 6741,
+    "JavaScript": 2717,
+    "Mako": 1064,
+    "HTML": 73
+  },
+  "size": 15046298
+}

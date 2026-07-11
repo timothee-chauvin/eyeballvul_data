@@ -1,0 +1,15 @@
+{
+  "commit": "08e8e507909ee55b588674563b8ea21646ed9425",
+  "repo_url": "https://github.com/anchorcms/anchor-cms",
+  "date": "2018-03-07T12:11:40",
+  "languages": {
+    "PHP": 572903,
+    "JavaScript": 232157,
+    "SCSS": 26752,
+    "CSS": 25136,
+    "Hack": 2942,
+    "Shell": 1996,
+    "Dockerfile": 1431
+  },
+  "size": 863317
+}

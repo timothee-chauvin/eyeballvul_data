@@ -1,0 +1,13 @@
+{
+  "commit": "84c2fb78217b6375b38e0b47e0d59d7b1b8431d7",
+  "repo_url": "https://github.com/socketio/socket.io",
+  "date": "2026-03-10T09:52:10",
+  "languages": {
+    "TypeScript": 803917,
+    "JavaScript": 448515,
+    "Shell": 1229,
+    "HTML": 372,
+    "CSS": 183
+  },
+  "size": 1254216
+}

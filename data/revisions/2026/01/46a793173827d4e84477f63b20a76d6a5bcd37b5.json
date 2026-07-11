@@ -1,0 +1,14 @@
+{
+  "commit": "46a793173827d4e84477f63b20a76d6a5bcd37b5",
+  "repo_url": "https://github.com/schemahero/schemahero",
+  "date": "2026-01-13T23:15:35",
+  "languages": {
+    "Go": 925216,
+    "Makefile": 60784,
+    "Shell": 18585,
+    "Dockerfile": 14278,
+    "Nix": 5755,
+    "PLpgSQL": 650
+  },
+  "size": 1025268
+}

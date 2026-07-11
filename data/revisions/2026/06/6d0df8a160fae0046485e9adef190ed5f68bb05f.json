@@ -1,0 +1,19 @@
+{
+  "commit": "6d0df8a160fae0046485e9adef190ed5f68bb05f",
+  "repo_url": "https://github.com/zaproxy/zap-extensions",
+  "date": "2026-06-24T06:59:31",
+  "languages": {
+    "HTML": 24020300,
+    "Java": 23678998,
+    "Haskell": 2740443,
+    "JavaScript": 251218,
+    "CSS": 53546,
+    "Groovy": 30214,
+    "Python": 27605,
+    "Ruby": 16312,
+    "XSLT": 9433,
+    "ANTLR": 9365,
+    "Kotlin": 7538
+  },
+  "size": 50844972
+}

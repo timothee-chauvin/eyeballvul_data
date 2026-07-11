@@ -1,0 +1,26 @@
+{
+  "commit": "87e7ec655bc0929d0a507f202f5a86c3d74f2506",
+  "repo_url": "https://github.com/beyondgrep/ack3",
+  "date": "2025-05-26T20:31:21",
+  "languages": {
+    "Perl": 3864199,
+    "Prolog": 103215,
+    "HTML": 5180,
+    "Python": 3619,
+    "Ruby": 2316,
+    "C": 2142,
+    "Makefile": 880,
+    "Fortran": 678,
+    "ASP.NET": 480,
+    "Shell": 212,
+    "Classic ASP": 134,
+    "Dockerfile": 127,
+    "JavaScript": 118,
+    "CSS": 90,
+    "CMake": 58,
+    "Lua": 42,
+    "PHP": 15,
+    "Rebol": 12
+  },
+  "size": 3983517
+}

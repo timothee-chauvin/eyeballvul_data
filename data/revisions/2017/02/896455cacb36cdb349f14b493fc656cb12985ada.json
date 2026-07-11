@@ -1,0 +1,17 @@
+{
+  "commit": "896455cacb36cdb349f14b493fc656cb12985ada",
+  "repo_url": "https://github.com/cloudfoundry/uaa",
+  "date": "2017-02-27T18:40:34",
+  "languages": {
+    "Java": 6912508,
+    "CSS": 243227,
+    "HTML": 173234,
+    "JavaScript": 125607,
+    "SCSS": 20736,
+    "Shell": 9688,
+    "Python": 3418,
+    "Ruby": 1268,
+    "Vim Snippet": 455
+  },
+  "size": 7490141
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "a9df918cee40cc7f32e68ee136a683dc30632f5c",
+  "repo_url": "https://github.com/abantecart/abantecart-src",
+  "date": "2017-12-22T19:28:45",
+  "languages": {
+    "PHP": 6234391,
+    "JavaScript": 2714754,
+    "Smarty": 1352594,
+    "CSS": 372248,
+    "HTML": 1995
+  },
+  "size": 10675982
+}

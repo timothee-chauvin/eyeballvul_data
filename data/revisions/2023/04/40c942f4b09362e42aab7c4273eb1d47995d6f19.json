@@ -1,0 +1,15 @@
+{
+  "commit": "40c942f4b09362e42aab7c4273eb1d47995d6f19",
+  "repo_url": "https://github.com/hawtio/hawtio",
+  "date": "2023-04-28T04:34:43",
+  "languages": {
+    "Java": 865378,
+    "Gherkin": 34778,
+    "JavaScript": 11660,
+    "HTML": 10453,
+    "TypeScript": 7812,
+    "Shell": 3780,
+    "Less": 101
+  },
+  "size": 933962
+}

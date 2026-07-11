@@ -1,0 +1,15 @@
+{
+  "commit": "2e3e8f376a26c1fa98c8d4ecb346d02e26ecb10b",
+  "repo_url": "https://github.com/jpressprojects/jpress",
+  "date": "2021-12-10T02:04:16",
+  "languages": {
+    "Java": 1927850,
+    "HTML": 1313198,
+    "JavaScript": 316430,
+    "CSS": 151045,
+    "Shell": 8645,
+    "Batchfile": 789,
+    "Dockerfile": 500
+  },
+  "size": 3718457
+}

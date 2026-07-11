@@ -1,0 +1,25 @@
+{
+  "commit": "59b8b8f4dc098c31a372ad45adc2a48c5f1c4a9f",
+  "repo_url": "https://github.com/bazelbuild/bazel",
+  "date": "2022-09-19T17:23:48",
+  "languages": {
+    "Java": 41695104,
+    "Python": 3449278,
+    "Shell": 2674852,
+    "C++": 1634070,
+    "HTML": 407742,
+    "Starlark": 50959,
+    "Smarty": 30499,
+    "C": 29479,
+    "PowerShell": 15431,
+    "SCSS": 12576,
+    "Objective-C": 10818,
+    "Batchfile": 2997,
+    "Dockerfile": 1197,
+    "Objective-C++": 1043,
+    "CSS": 685,
+    "Ruby": 288,
+    "Makefile": 248
+  },
+  "size": 50017266
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "2f04c14daa086889b4e85f7056c39d23766ddaa1",
+  "repo_url": "https://gitlab.com/gnutls/gnutls",
+  "date": "2024-01-16T09:10:08",
+  "languages": {
+    "C": 12317746,
+    "Assembly": 2470303,
+    "Shell": 717123,
+    "Makefile": 120791,
+    "HTML": 103788,
+    "M4": 81900,
+    "C++": 44454,
+    "JavaScript": 17783,
+    "Perl": 15543,
+    "Lua": 7209,
+    "DIGITAL Command Language": 6852,
+    "Python": 1965,
+    "Roff": 1963,
+    "XSLT": 1341,
+    "Emacs Lisp": 80
+  },
+  "size": 15908841
+}

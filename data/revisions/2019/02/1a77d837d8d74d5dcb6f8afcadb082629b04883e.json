@@ -1,0 +1,12 @@
+{
+  "commit": "1a77d837d8d74d5dcb6f8afcadb082629b04883e",
+  "repo_url": "https://github.com/openshift/builder",
+  "date": "2019-02-16T20:51:07",
+  "languages": {
+    "Go": 270026,
+    "Shell": 2466,
+    "Dockerfile": 1260,
+    "Makefile": 438
+  },
+  "size": 274190
+}

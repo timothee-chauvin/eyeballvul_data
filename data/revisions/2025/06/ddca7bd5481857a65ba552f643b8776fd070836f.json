@@ -1,0 +1,19 @@
+{
+  "commit": "ddca7bd5481857a65ba552f643b8776fd070836f",
+  "repo_url": "https://github.com/winfsp/winfsp",
+  "date": "2025-06-05T15:02:43",
+  "languages": {
+    "C": 2617756,
+    "C#": 506441,
+    "C++": 357545,
+    "Assembly": 82272,
+    "Batchfile": 78771,
+    "SWIG": 61369,
+    "PowerShell": 29692,
+    "Nim": 11450,
+    "Makefile": 5992,
+    "Python": 4350,
+    "Shell": 1654
+  },
+  "size": 3757292
+}

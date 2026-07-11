@@ -1,0 +1,15 @@
+{
+  "commit": "2bbd4ac4700824c46d5ec9850cf5af62821fb0b1",
+  "repo_url": "https://github.com/nvidia/dali",
+  "date": "2025-12-08T11:04:47",
+  "languages": {
+    "C++": 8393426,
+    "Python": 4914454,
+    "Cuda": 1485009,
+    "CMake": 299448,
+    "Shell": 206965,
+    "C": 201258,
+    "Dockerfile": 4514
+  },
+  "size": 15505074
+}

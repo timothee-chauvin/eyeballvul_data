@@ -1,0 +1,13 @@
+{
+  "commit": "76e52328e9dda4d30c301077325d82890ba51a7e",
+  "repo_url": "https://github.com/keystonejs/keystone",
+  "date": "2015-08-03T11:35:14",
+  "languages": {
+    "JavaScript": 874488,
+    "Less": 395070,
+    "Pug": 51975,
+    "CSS": 21974,
+    "HTML": 213
+  },
+  "size": 1343720
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "1d75c30738f80c92fc0b6979f4957fae62b5c1b9",
+  "repo_url": "https://github.com/miurla/morphic",
+  "date": "2025-05-22T01:14:59",
+  "languages": {
+    "TypeScript": 365992,
+    "CSS": 2570,
+    "JavaScript": 1413,
+    "Dockerfile": 657
+  },
+  "size": 370632
+}

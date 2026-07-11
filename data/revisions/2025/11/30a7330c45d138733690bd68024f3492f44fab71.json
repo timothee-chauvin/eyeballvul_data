@@ -1,0 +1,15 @@
+{
+  "commit": "30a7330c45d138733690bd68024f3492f44fab71",
+  "repo_url": "https://github.com/alfresco/alfresco-transform-core",
+  "date": "2025-11-14T12:17:01",
+  "languages": {
+    "Java": 1789804,
+    "Rich Text Format": 118620,
+    "Dockerfile": 16694,
+    "HTML": 10092,
+    "Shell": 6221,
+    "JavaScript": 1156,
+    "CSS": 84
+  },
+  "size": 1942671
+}

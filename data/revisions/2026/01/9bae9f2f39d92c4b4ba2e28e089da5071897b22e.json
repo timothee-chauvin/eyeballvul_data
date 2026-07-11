@@ -1,0 +1,16 @@
+{
+  "commit": "9bae9f2f39d92c4b4ba2e28e089da5071897b22e",
+  "repo_url": "https://github.com/rustdesk/rustdesk-server",
+  "date": "2026-01-12T05:28:04",
+  "languages": {
+    "Rust": 121366,
+    "NSIS": 6533,
+    "JavaScript": 5434,
+    "Shell": 5170,
+    "Dockerfile": 810,
+    "HTML": 543,
+    "CSS": 513,
+    "Batchfile": 492
+  },
+  "size": 140861
+}

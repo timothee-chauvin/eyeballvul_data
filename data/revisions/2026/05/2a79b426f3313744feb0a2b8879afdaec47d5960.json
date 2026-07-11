@@ -1,0 +1,11 @@
+{
+  "commit": "2a79b426f3313744feb0a2b8879afdaec47d5960",
+  "repo_url": "https://github.com/chromedevtools/chrome-devtools-mcp",
+  "date": "2026-05-18T13:57:41",
+  "languages": {
+    "TypeScript": 960168,
+    "JavaScript": 44337,
+    "HTML": 290
+  },
+  "size": 1004795
+}

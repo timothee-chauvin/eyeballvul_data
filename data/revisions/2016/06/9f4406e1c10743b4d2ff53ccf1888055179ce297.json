@@ -1,0 +1,19 @@
+{
+  "commit": "9f4406e1c10743b4d2ff53ccf1888055179ce297",
+  "repo_url": "https://github.com/gnome/gdk-pixbuf",
+  "date": "2016-06-20T21:03:41",
+  "languages": {
+    "C": 1258311,
+    "C++": 161729,
+    "Makefile": 49646,
+    "M4": 41154,
+    "Shell": 20445,
+    "Assembly": 14395,
+    "Python": 9716,
+    "TeX": 5454,
+    "Roff": 2175,
+    "Perl": 1237,
+    "sed": 370
+  },
+  "size": 1564632
+}

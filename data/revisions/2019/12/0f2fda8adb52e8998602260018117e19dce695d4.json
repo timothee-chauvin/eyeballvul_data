@@ -1,0 +1,23 @@
+{
+  "commit": "0f2fda8adb52e8998602260018117e19dce695d4",
+  "repo_url": "https://github.com/openam-jp/openam",
+  "date": "2019-12-23T08:38:24",
+  "languages": {
+    "Java": 82288896,
+    "JavaScript": 1582323,
+    "CSS": 979353,
+    "HTML": 491850,
+    "C#": 370847,
+    "C": 149088,
+    "Less": 65001,
+    "Shell": 55870,
+    "ASP.NET": 49465,
+    "XSLT": 36874,
+    "Batchfile": 29929,
+    "Perl": 28015,
+    "FreeMarker": 20177,
+    "Groovy": 10956,
+    "Makefile": 727
+  },
+  "size": 86159371
+}

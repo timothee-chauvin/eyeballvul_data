@@ -1,0 +1,15 @@
+{
+  "commit": "efa842b5ab695298a87407c6c2271e1c99af71e7",
+  "repo_url": "https://github.com/siliconlabs/wiseconnect-wifi-bt-sdk",
+  "date": "2024-10-18T04:38:13",
+  "languages": {
+    "C": 11431895,
+    "Python": 81315,
+    "Assembly": 48569,
+    "Jinja": 34503,
+    "Makefile": 22417,
+    "HTML": 1258,
+    "Batchfile": 164
+  },
+  "size": 11620121
+}

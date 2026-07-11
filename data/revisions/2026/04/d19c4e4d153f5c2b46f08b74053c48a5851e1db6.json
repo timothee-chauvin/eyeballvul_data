@@ -1,0 +1,20 @@
+{
+  "commit": "d19c4e4d153f5c2b46f08b74053c48a5851e1db6",
+  "repo_url": "https://github.com/th30d4y/openlearnx",
+  "date": "2026-04-19T13:34:33",
+  "languages": {
+    "JavaScript": 962260,
+    "TypeScript": 957060,
+    "Jupyter Notebook": 901687,
+    "Solidity": 818830,
+    "Python": 478295,
+    "Ruby": 216477,
+    "HTML": 56875,
+    "TeX": 34331,
+    "Shell": 12610,
+    "CSS": 10174,
+    "Dockerfile": 5335,
+    "Makefile": 1695
+  },
+  "size": 4455629
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "1d1fd88be239b196d3cc98df57b549f635b6215c",
+  "repo_url": "https://github.com/flyspray/flyspray",
+  "date": "2016-11-18T06:12:09",
+  "languages": {
+    "PHP": 3547024,
+    "JavaScript": 804803,
+    "Smarty": 378108,
+    "HTML": 169575,
+    "CSS": 163028,
+    "Less": 11862,
+    "Perl": 1767
+  },
+  "size": 5076167
+}

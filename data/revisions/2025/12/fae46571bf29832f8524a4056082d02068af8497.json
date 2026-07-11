@@ -1,0 +1,23 @@
+{
+  "commit": "fae46571bf29832f8524a4056082d02068af8497",
+  "repo_url": "https://github.com/browseroperator/browser-operator-core",
+  "date": "2025-12-10T19:25:03",
+  "languages": {
+    "TypeScript": 29781727,
+    "JavaScript": 1325410,
+    "CSS": 924438,
+    "HTML": 382793,
+    "Python": 195637,
+    "C++": 140124,
+    "Assembly": 93033,
+    "CMake": 22897,
+    "Shell": 4879,
+    "Dockerfile": 3714,
+    "WebAssembly": 1969,
+    "LLVM": 1918,
+    "C": 1854,
+    "Makefile": 687,
+    "SCSS": 173
+  },
+  "size": 32881253
+}

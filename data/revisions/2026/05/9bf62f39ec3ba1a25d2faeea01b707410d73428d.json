@@ -1,0 +1,16 @@
+{
+  "commit": "9bf62f39ec3ba1a25d2faeea01b707410d73428d",
+  "repo_url": "https://github.com/openziti/ziti",
+  "date": "2026-05-18T17:40:19",
+  "languages": {
+    "Go": 9193545,
+    "Shell": 199412,
+    "HTML": 27952,
+    "PowerShell": 10914,
+    "HCL": 8587,
+    "ANTLR": 4809,
+    "JavaScript": 4700,
+    "Dockerfile": 2650
+  },
+  "size": 9452569
+}

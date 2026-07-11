@@ -1,0 +1,11 @@
+{
+  "commit": "26fc98b9c6db21457653ed752f34d1b7fb5bba43",
+  "repo_url": "https://github.com/prometheus/blackbox_exporter",
+  "date": "2022-12-02T12:25:39",
+  "languages": {
+    "Go": 220918,
+    "Makefile": 774,
+    "Dockerfile": 452
+  },
+  "size": 222144
+}

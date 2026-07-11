@@ -1,0 +1,18 @@
+{
+  "commit": "adef6c91ac5efbfa51f43dfa40981ed50c2f1e8b",
+  "repo_url": "https://github.com/aleksoid1978/mpc-be",
+  "date": "2025-10-26T04:05:40",
+  "languages": {
+    "C": 37239718,
+    "C++": 23875246,
+    "Assembly": 1875145,
+    "Inno Setup": 293600,
+    "HLSL": 123170,
+    "HTML": 76463,
+    "Batchfile": 38370,
+    "Perl": 34941,
+    "Makefile": 28562,
+    "CSS": 132
+  },
+  "size": 63585347
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "266ca69d01c8ee7ca04087ced234cf5e392b754a",
+  "repo_url": "https://github.com/gluster/glusterfs",
+  "date": "2016-09-09T15:31:59",
+  "languages": {
+    "C": 18771264,
+    "Shell": 1171096,
+    "Python": 760169,
+    "Perl": 152604,
+    "M4": 96081,
+    "Makefile": 78103,
+    "RPC": 52043,
+    "Yacc": 16305,
+    "Vim Script": 8656,
+    "Emacs Lisp": 5285,
+    "C++": 3510,
+    "Scheme": 2821,
+    "Lex": 2085
+  },
+  "size": 21120022
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "d32aa3567c8eb033bbc8667bfca2969f5cdb199f",
+  "repo_url": "https://github.com/froxlor/froxlor",
+  "date": "2026-04-10T06:04:41",
+  "languages": {
+    "PHP": 4059808,
+    "Twig": 154002,
+    "HTML": 28494,
+    "SCSS": 8015,
+    "JavaScript": 942
+  },
+  "size": 4251261
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "19e0ad6c37440ba52313e10c6e148dfb9ab417f6",
+  "repo_url": "https://gitlab.com/iniparser/iniparser",
+  "date": "2025-01-06T17:48:37",
+  "languages": {
+    "C": 138009,
+    "CMake": 11627,
+    "Python": 1778
+  },
+  "size": 151414
+}

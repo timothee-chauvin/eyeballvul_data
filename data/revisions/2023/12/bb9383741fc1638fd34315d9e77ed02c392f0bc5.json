@@ -1,0 +1,11 @@
+{
+  "commit": "bb9383741fc1638fd34315d9e77ed02c392f0bc5",
+  "repo_url": "https://github.com/wordops/wordops",
+  "date": "2023-12-03T15:51:45",
+  "languages": {
+    "Python": 643210,
+    "Mustache": 76800,
+    "Shell": 58796
+  },
+  "size": 778806
+}

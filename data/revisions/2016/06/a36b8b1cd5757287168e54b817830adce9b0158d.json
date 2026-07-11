@@ -1,0 +1,25 @@
+{
+  "commit": "a36b8b1cd5757287168e54b817830adce9b0158d",
+  "repo_url": "https://github.com/seleniumhq/selenium",
+  "date": "2016-06-30T17:26:21",
+  "languages": {
+    "JavaScript": 5756881,
+    "Java": 5228501,
+    "C#": 2826845,
+    "C++": 1898812,
+    "HTML": 1865492,
+    "Ruby": 1040854,
+    "Python": 728583,
+    "Starlark": 80462,
+    "C": 74962,
+    "CSS": 25162,
+    "Makefile": 4655,
+    "Ragel": 3086,
+    "AppleScript": 2614,
+    "Shell": 1305,
+    "XSLT": 1047,
+    "ASP.NET": 825,
+    "Batchfile": 307
+  },
+  "size": 19540393
+}

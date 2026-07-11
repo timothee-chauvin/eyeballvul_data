@@ -1,0 +1,11 @@
+{
+  "commit": "bfa8e6a2653d498991d95f8913779ad1ad1fa827",
+  "repo_url": "https://github.com/google/zx",
+  "date": "2025-09-26T14:50:47",
+  "languages": {
+    "JavaScript": 171525,
+    "TypeScript": 100928,
+    "Dockerfile": 213
+  },
+  "size": 272666
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "b92ca5d1f808fe9f5b04b32a492abaee2e38544a",
+  "repo_url": "https://github.com/phpbb/phpbb",
+  "date": "2025-03-23T19:20:03",
+  "languages": {
+    "PHP": 10989348,
+    "HTML": 931478,
+    "CSS": 172406,
+    "JavaScript": 166589,
+    "Shell": 32400,
+    "PLpgSQL": 2152,
+    "Python": 1619,
+    "Twig": 1467,
+    "TSQL": 1462,
+    "Dockerfile": 570
+  },
+  "size": 12299491
+}

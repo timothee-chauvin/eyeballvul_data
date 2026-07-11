@@ -1,0 +1,15 @@
+{
+  "commit": "85be4fa02b2dd6a83716d7dfac3d25bbd260ff7b",
+  "repo_url": "https://github.com/trabucayre/openfpgaloader",
+  "date": "2026-03-11T18:24:32",
+  "languages": {
+    "C++": 984974,
+    "CMake": 39107,
+    "Tcl": 33460,
+    "Verilog": 29241,
+    "Python": 17118,
+    "Makefile": 2218,
+    "Shell": 979
+  },
+  "size": 1107097
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "4a18fc489f9ea3d253b20dd40f4cdad0d6bb40eb",
+  "repo_url": "https://github.com/wren-lang/wren",
+  "date": "2021-04-09T04:46:31",
+  "languages": {
+    "Wren": 3533300,
+    "C": 448214,
+    "Makefile": 76511,
+    "Python": 66095,
+    "Dart": 25499,
+    "C++": 16288,
+    "Lua": 12919,
+    "Ruby": 9694,
+    "Shell": 1354
+  },
+  "size": 4189874
+}

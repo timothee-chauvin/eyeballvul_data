@@ -1,0 +1,18 @@
+{
+  "commit": "ad8dfd265523e027b042aec59055409a22668c64",
+  "repo_url": "https://github.com/memcached/memcached",
+  "date": "2020-08-30T00:27:50",
+  "languages": {
+    "C": 907295,
+    "Perl": 274703,
+    "M4": 29384,
+    "Python": 22347,
+    "DTrace": 10708,
+    "Shell": 6233,
+    "C++": 5242,
+    "Makefile": 5155,
+    "Roff": 1894,
+    "Starlark": 549
+  },
+  "size": 1263510
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "adc819973b71901ef0b163eb3f8dd85016bf0796",
+  "repo_url": "https://github.com/siyuan-note/siyuan",
+  "date": "2024-12-31T01:29:55",
+  "languages": {
+    "TypeScript": 4210394,
+    "Go": 2173360,
+    "JavaScript": 730536,
+    "SCSS": 200511,
+    "HTML": 97587,
+    "CSS": 17257,
+    "Smarty": 8421,
+    "Shell": 6060,
+    "Python": 5971,
+    "NSIS": 2640,
+    "Batchfile": 2106,
+    "Dockerfile": 1845
+  },
+  "size": 7456688
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "4ebecb61ed738997ca44a5e81c76f5433c159817",
+  "repo_url": "https://github.com/nci-agency/anet",
+  "date": "2022-04-01T09:16:24",
+  "languages": {
+    "JavaScript": 1919181,
+    "Java": 1428322,
+    "MDX": 51925,
+    "CSS": 36084,
+    "XSLT": 3762,
+    "Shell": 2480,
+    "Handlebars": 2172,
+    "FreeMarker": 1844,
+    "Perl": 1760,
+    "HTML": 648,
+    "Dockerfile": 213
+  },
+  "size": 3448391
+}

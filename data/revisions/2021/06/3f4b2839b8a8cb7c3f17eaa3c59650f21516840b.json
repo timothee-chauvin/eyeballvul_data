@@ -1,0 +1,23 @@
+{
+  "commit": "3f4b2839b8a8cb7c3f17eaa3c59650f21516840b",
+  "repo_url": "https://github.com/quickbox/qb",
+  "date": "2021-06-24T18:48:51",
+  "languages": {
+    "JavaScript": 3768257,
+    "C": 2347448,
+    "CSS": 1759119,
+    "PHP": 1086789,
+    "C++": 549972,
+    "Shell": 539563,
+    "Makefile": 123707,
+    "HTML": 121744,
+    "Perl": 23666,
+    "Stylus": 15542,
+    "SCSS": 13235,
+    "Batchfile": 9075,
+    "Roff": 4079,
+    "Python": 1562,
+    "Hack": 103
+  },
+  "size": 10363861
+}

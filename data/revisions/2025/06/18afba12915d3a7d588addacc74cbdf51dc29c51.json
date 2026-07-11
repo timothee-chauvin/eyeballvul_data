@@ -1,0 +1,14 @@
+{
+  "commit": "18afba12915d3a7d588addacc74cbdf51dc29c51",
+  "repo_url": "https://github.com/booklore-app/booklore",
+  "date": "2025-06-03T16:20:08",
+  "languages": {
+    "Java": 518156,
+    "TypeScript": 378713,
+    "HTML": 168940,
+    "SCSS": 33112,
+    "JavaScript": 1259,
+    "Dockerfile": 1136
+  },
+  "size": 1101316
+}

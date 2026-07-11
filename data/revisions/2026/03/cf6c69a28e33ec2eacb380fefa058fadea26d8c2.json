@@ -1,0 +1,14 @@
+{
+  "commit": "cf6c69a28e33ec2eacb380fefa058fadea26d8c2",
+  "repo_url": "https://github.com/aiven/aiven-operator",
+  "date": "2026-03-05T14:27:34",
+  "languages": {
+    "Go": 946830,
+    "Makefile": 13712,
+    "HCL": 11311,
+    "Smarty": 2569,
+    "Dockerfile": 953,
+    "JavaScript": 136
+  },
+  "size": 975511
+}

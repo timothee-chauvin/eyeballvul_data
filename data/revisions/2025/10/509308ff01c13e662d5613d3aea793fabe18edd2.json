@@ -1,0 +1,11 @@
+{
+  "commit": "509308ff01c13e662d5613d3aea793fabe18edd2",
+  "repo_url": "https://github.com/tmc/langchaingo",
+  "date": "2025-10-20T05:14:29",
+  "languages": {
+    "Go": 2756925,
+    "Shell": 6070,
+    "Makefile": 5258
+  },
+  "size": 2768253
+}

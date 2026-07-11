@@ -1,0 +1,16 @@
+{
+  "commit": "f622899ac052523bfd8e5ce3af13036bc361e46c",
+  "repo_url": "https://github.com/taigaio/taiga-front",
+  "date": "2025-10-13T17:14:43",
+  "languages": {
+    "CoffeeScript": 1724170,
+    "Pug": 658157,
+    "SCSS": 439938,
+    "JavaScript": 414407,
+    "Python": 20224,
+    "Dockerfile": 1776,
+    "Shell": 1610,
+    "CSS": 766
+  },
+  "size": 3261048
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "eabe0a749105eba59ec0fecfefd67c5a17b44593",
+  "repo_url": "https://github.com/dataease/dataease",
+  "date": "2023-07-24T03:57:06",
+  "languages": {
+    "Java": 22994967,
+    "Vue": 3637171,
+    "JavaScript": 1063647,
+    "CSS": 367706,
+    "HTML": 111535,
+    "SCSS": 62099,
+    "Lua": 907,
+    "Dockerfile": 572,
+    "Shell": 87
+  },
+  "size": 28238691
+}

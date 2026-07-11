@@ -1,0 +1,15 @@
+{
+  "commit": "acd7a638beb4df70411f3428b38bf20ad91a4afa",
+  "repo_url": "https://github.com/defenseunicorns/uds-identity-config",
+  "date": "2026-04-13T16:30:36",
+  "languages": {
+    "Java": 252174,
+    "FreeMarker": 80267,
+    "TypeScript": 43886,
+    "CSS": 24685,
+    "Shell": 4676,
+    "Dockerfile": 4544,
+    "JavaScript": 198
+  },
+  "size": 410430
+}

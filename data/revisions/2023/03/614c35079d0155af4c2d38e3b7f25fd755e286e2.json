@@ -1,0 +1,12 @@
+{
+  "commit": "614c35079d0155af4c2d38e3b7f25fd755e286e2",
+  "repo_url": "https://github.com/iden3/snarkjs",
+  "date": "2023-03-20T23:06:20",
+  "languages": {
+    "JavaScript": 5442582,
+    "EJS": 71929,
+    "Solidity": 54215,
+    "Circom": 819
+  },
+  "size": 5569545
+}

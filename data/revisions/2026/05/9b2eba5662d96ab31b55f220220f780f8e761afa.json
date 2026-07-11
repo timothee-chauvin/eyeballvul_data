@@ -1,0 +1,16 @@
+{
+  "commit": "9b2eba5662d96ab31b55f220220f780f8e761afa",
+  "repo_url": "https://github.com/wavelens/gradient",
+  "date": "2026-05-01T16:43:13",
+  "languages": {
+    "Rust": 2129908,
+    "TypeScript": 244240,
+    "HTML": 169061,
+    "Nix": 144560,
+    "SCSS": 121219,
+    "Python": 13439,
+    "CSS": 6584,
+    "Shell": 2534
+  },
+  "size": 2831545
+}

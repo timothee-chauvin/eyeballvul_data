@@ -1,0 +1,14 @@
+{
+  "commit": "f1c7381199ebcfb59a3056b967c644a125d239a2",
+  "repo_url": "https://github.com/benkeen/generatedata",
+  "date": "2022-03-08T04:59:51",
+  "languages": {
+    "TypeScript": 1213208,
+    "JavaScript": 76036,
+    "SCSS": 35781,
+    "CSS": 20160,
+    "HTML": 544,
+    "Dockerfile": 247
+  },
+  "size": 1345976
+}

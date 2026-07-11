@@ -1,0 +1,13 @@
+{
+  "commit": "9f3d85d6bcfd95c83500cf32c7a867f3a27add21",
+  "repo_url": "https://github.com/cnighswonger/claude-code-cache-fix",
+  "date": "2026-05-05T19:33:40",
+  "languages": {
+    "JavaScript": 855824,
+    "Shell": 37472,
+    "C": 2406,
+    "Dockerfile": 1866,
+    "Batchfile": 1363
+  },
+  "size": 898931
+}

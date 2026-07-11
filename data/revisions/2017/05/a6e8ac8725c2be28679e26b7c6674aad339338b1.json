@@ -1,0 +1,14 @@
+{
+  "commit": "a6e8ac8725c2be28679e26b7c6674aad339338b1",
+  "repo_url": "https://github.com/deluge-torrent/deluge",
+  "date": "2017-05-12T12:57:19",
+  "languages": {
+    "JavaScript": 3794707,
+    "Python": 1464847,
+    "CSS": 235371,
+    "Shell": 17409,
+    "NSIS": 10200,
+    "HTML": 2705
+  },
+  "size": 5525239
+}

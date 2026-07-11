@@ -1,0 +1,13 @@
+{
+  "commit": "81e9594ffa9c24a761ebd3a3c7c076078443f1e5",
+  "repo_url": "https://github.com/magento/devdocs",
+  "date": "2022-04-12T22:05:42",
+  "languages": {
+    "Ruby": 50376,
+    "HTML": 28931,
+    "JavaScript": 23606,
+    "CSS": 19673,
+    "Shell": 603
+  },
+  "size": 123189
+}

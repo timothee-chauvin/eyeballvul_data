@@ -1,0 +1,16 @@
+{
+  "commit": "babce30e4962ea8546ac9ca0f03123548be9a307",
+  "repo_url": "https://github.com/kunena/kunena-forum",
+  "date": "2016-10-23T18:45:18",
+  "languages": {
+    "PHP": 3599048,
+    "JavaScript": 422507,
+    "Less": 215857,
+    "CSS": 72484,
+    "Batchfile": 3172,
+    "Shell": 2235,
+    "Python": 924,
+    "HTML": 161
+  },
+  "size": 4316388
+}

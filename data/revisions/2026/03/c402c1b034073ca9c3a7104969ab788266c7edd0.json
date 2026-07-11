@@ -1,0 +1,15 @@
+{
+  "commit": "c402c1b034073ca9c3a7104969ab788266c7edd0",
+  "repo_url": "https://github.com/nextcloud/forms",
+  "date": "2026-03-05T21:12:17",
+  "languages": {
+    "JavaScript": 1135785,
+    "PHP": 601675,
+    "Vue": 261857,
+    "TypeScript": 25736,
+    "Makefile": 1288,
+    "SCSS": 1277,
+    "CSS": 1083
+  },
+  "size": 2028701
+}

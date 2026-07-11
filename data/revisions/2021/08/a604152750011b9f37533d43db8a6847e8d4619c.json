@@ -1,0 +1,27 @@
+{
+  "commit": "a604152750011b9f37533d43db8a6847e8d4619c",
+  "repo_url": "https://github.com/oldzhu/radare2",
+  "date": "2021-08-20T14:02:39",
+  "languages": {
+    "C": 27146811,
+    "Makefile": 254221,
+    "C++": 177306,
+    "Shell": 143570,
+    "Meson": 109643,
+    "HTML": 55410,
+    "JavaScript": 52102,
+    "Roff": 38490,
+    "Python": 33621,
+    "Rebol": 16381,
+    "Perl": 6445,
+    "CSS": 5653,
+    "Batchfile": 4768,
+    "R": 3240,
+    "Assembly": 939,
+    "Vala": 839,
+    "Gnuplot": 613,
+    "Rich Text Format": 416,
+    "RouterOS Script": 90
+  },
+  "size": 28050558
+}

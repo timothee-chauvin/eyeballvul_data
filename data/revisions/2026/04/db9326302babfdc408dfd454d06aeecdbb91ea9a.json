@@ -1,0 +1,23 @@
+{
+  "commit": "db9326302babfdc408dfd454d06aeecdbb91ea9a",
+  "repo_url": "https://github.com/kvcache-ai/ktransformers",
+  "date": "2026-04-01T10:58:48",
+  "languages": {
+    "Python": 6293368,
+    "C++": 2928924,
+    "Cuda": 585751,
+    "Shell": 106491,
+    "CMake": 94333,
+    "Vue": 84312,
+    "HTML": 41740,
+    "TypeScript": 38986,
+    "CSS": 22252,
+    "Dockerfile": 21003,
+    "JavaScript": 14214,
+    "C": 13609,
+    "Stylus": 6816,
+    "Makefile": 4005,
+    "Batchfile": 1080
+  },
+  "size": 10256884
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "9177e0c8099af622368b8b76dbf4a1b753cf0239",
+  "repo_url": "https://github.com/librebooking/librebooking",
+  "date": "2026-06-03T20:19:48",
+  "languages": {
+    "PHP": 8403549,
+    "Smarty": 1350969,
+    "JavaScript": 404644,
+    "CSS": 25279,
+    "Shell": 3354,
+    "HTML": 847
+  },
+  "size": 10188642
+}

@@ -1,0 +1,27 @@
+{
+  "commit": "6edf35b2d7fe6637de9a548f3abfb306b9f1b6f4",
+  "repo_url": "https://github.com/tuist/tuist",
+  "date": "2026-04-30T17:04:37",
+  "languages": {
+    "Swift": 13816856,
+    "Elixir": 7498880,
+    "HTML": 5642723,
+    "CSS": 679426,
+    "Rust": 605061,
+    "Kotlin": 411277,
+    "JavaScript": 245611,
+    "Shell": 183510,
+    "C": 65969,
+    "C++": 60334,
+    "PLpgSQL": 38483,
+    "Objective-C": 32879,
+    "Dockerfile": 17833,
+    "Smarty": 11604,
+    "Nix": 10368,
+    "TypeScript": 4212,
+    "Lua": 1571,
+    "HCL": 1363,
+    "Batchfile": 55
+  },
+  "size": 29328015
+}

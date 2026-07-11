@@ -1,0 +1,12 @@
+{
+  "commit": "b21d0f780ca4472a13714262a0790f2ee1ade659",
+  "repo_url": "https://github.com/lm-sys/fastchat",
+  "date": "2024-02-11T15:01:55",
+  "languages": {
+    "Python": 846038,
+    "Jupyter Notebook": 99331,
+    "Shell": 8461,
+    "Dockerfile": 294
+  },
+  "size": 954124
+}
