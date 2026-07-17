@@ -1,0 +1,10 @@
+{
+  "commit": "6f376712c669330af0cfd812f40b9e97db869290",
+  "repo_url": "https://github.com/microsoft/avml",
+  "date": "2025-03-26T17:18:11",
+  "languages": {
+    "Rust": 78063,
+    "Shell": 4873
+  },
+  "size": 82936
+}

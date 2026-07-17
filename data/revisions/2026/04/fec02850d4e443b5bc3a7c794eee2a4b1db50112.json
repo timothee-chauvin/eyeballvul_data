@@ -1,0 +1,16 @@
+{
+  "commit": "fec02850d4e443b5bc3a7c794eee2a4b1db50112",
+  "repo_url": "https://github.com/lightpanda-io/browser",
+  "date": "2026-04-02T09:06:26",
+  "languages": {
+    "Zig": 3662101,
+    "HTML": 1203764,
+    "Rust": 28785,
+    "JavaScript": 14842,
+    "Makefile": 2760,
+    "Dockerfile": 2721,
+    "Nix": 1960,
+    "Go": 1143
+  },
+  "size": 4918076
+}

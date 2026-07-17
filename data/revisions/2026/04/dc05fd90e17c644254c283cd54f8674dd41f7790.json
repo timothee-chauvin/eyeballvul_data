@@ -1,0 +1,19 @@
+{
+  "commit": "dc05fd90e17c644254c283cd54f8674dd41f7790",
+  "repo_url": "https://github.com/tilt-dev/tilt",
+  "date": "2026-04-30T12:50:32",
+  "languages": {
+    "Go": 4500052,
+    "TypeScript": 956902,
+    "Python": 122760,
+    "Shell": 38078,
+    "SCSS": 15221,
+    "Dockerfile": 7955,
+    "Makefile": 5535,
+    "Starlark": 3775,
+    "PowerShell": 1907,
+    "HTML": 1110,
+    "JavaScript": 1021
+  },
+  "size": 5654316
+}

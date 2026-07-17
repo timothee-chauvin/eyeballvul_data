@@ -1,0 +1,20 @@
+{
+  "commit": "5335da2c10a5427e10d58c130440e98c76ddcf4e",
+  "repo_url": "https://github.com/halo-dev/halo",
+  "date": "2026-04-29T08:20:04",
+  "languages": {
+    "Java": 4193368,
+    "TypeScript": 3066785,
+    "Vue": 1447635,
+    "HTML": 49804,
+    "SCSS": 18085,
+    "JavaScript": 17251,
+    "Shell": 11147,
+    "CSS": 10656,
+    "Groovy": 10034,
+    "MDX": 5475,
+    "Dockerfile": 1304,
+    "Makefile": 827
+  },
+  "size": 8832371
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "8b3168b658073515c81f8a32fa5dbc646052fbb9",
+  "repo_url": "https://github.com/pluginsglpi/datainjection",
+  "date": "2026-05-05T10:12:29",
+  "languages": {
+    "PHP": 705048,
+    "Twig": 32442,
+    "CSS": 6586,
+    "JavaScript": 6006
+  },
+  "size": 750082
+}

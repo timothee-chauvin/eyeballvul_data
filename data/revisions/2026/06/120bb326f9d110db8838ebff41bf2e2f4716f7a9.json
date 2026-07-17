@@ -1,0 +1,11 @@
+{
+  "commit": "120bb326f9d110db8838ebff41bf2e2f4716f7a9",
+  "repo_url": "https://github.com/dsully/perl-crypt-openssl-x509",
+  "date": "2026-06-25T06:46:34",
+  "languages": {
+    "XS": 32830,
+    "Perl": 30089,
+    "Shell": 3703
+  },
+  "size": 66622
+}

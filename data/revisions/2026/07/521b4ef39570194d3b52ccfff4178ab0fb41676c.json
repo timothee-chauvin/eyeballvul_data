@@ -1,0 +1,12 @@
+{
+  "commit": "521b4ef39570194d3b52ccfff4178ab0fb41676c",
+  "repo_url": "https://github.com/phoenixframework/phoenix_live_view",
+  "date": "2026-07-07T07:24:28",
+  "languages": {
+    "Elixir": 2225115,
+    "JavaScript": 966696,
+    "TypeScript": 473598,
+    "HTML": 1357
+  },
+  "size": 3666766
+}

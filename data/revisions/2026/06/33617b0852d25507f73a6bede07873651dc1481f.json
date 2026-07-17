@@ -1,0 +1,20 @@
+{
+  "commit": "33617b0852d25507f73a6bede07873651dc1481f",
+  "repo_url": "https://github.com/phalcon/cphalcon",
+  "date": "2026-06-04T15:00:37",
+  "languages": {
+    "PHP": 6627628,
+    "Zephir": 3618287,
+    "C": 1242661,
+    "Shell": 27931,
+    "C++": 24031,
+    "Dockerfile": 7646,
+    "Volt": 7219,
+    "M4": 2748,
+    "JavaScript": 1263,
+    "HTML": 861,
+    "CSS": 278,
+    "Twig": 98
+  },
+  "size": 11560651
+}

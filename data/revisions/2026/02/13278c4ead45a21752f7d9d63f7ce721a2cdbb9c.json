@@ -1,0 +1,14 @@
+{
+  "commit": "13278c4ead45a21752f7d9d63f7ce721a2cdbb9c",
+  "repo_url": "https://github.com/flaskbb/flaskbb",
+  "date": "2026-02-18T18:44:49",
+  "languages": {
+    "Python": 742150,
+    "HTML": 202869,
+    "JavaScript": 192723,
+    "SCSS": 36883,
+    "Makefile": 2174,
+    "Mako": 494
+  },
+  "size": 1177293
+}

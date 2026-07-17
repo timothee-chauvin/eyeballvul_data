@@ -1,0 +1,14 @@
+{
+  "commit": "456274c1b9d90f8e688d9fb4f4207963dbecf3e4",
+  "repo_url": "https://github.com/andreimarcu/linx-server",
+  "date": "2020-08-14T07:42:45",
+  "languages": {
+    "Go": 107413,
+    "JavaScript": 94778,
+    "CSS": 34006,
+    "HTML": 20614,
+    "Shell": 1977,
+    "Dockerfile": 835
+  },
+  "size": 259623
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "2ab771834b4198c2e65e44453d50fd8e3be308de",
+  "repo_url": "https://github.com/rejetto/hfs",
+  "date": "2026-07-05T10:00:42",
+  "languages": {
+    "TypeScript": 1223622,
+    "SCSS": 30636,
+    "Shell": 21169,
+    "JavaScript": 18069,
+    "CSS": 16108,
+    "HTML": 2566,
+    "Dockerfile": 1555,
+    "Batchfile": 560
+  },
+  "size": 1314285
+}

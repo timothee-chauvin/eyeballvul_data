@@ -1,0 +1,15 @@
+{
+  "commit": "74a33668784ead3e41ce20c0146f21375ddb9ad2",
+  "repo_url": "https://github.com/bahmni/bahmni-core",
+  "date": "2026-06-24T08:17:55",
+  "languages": {
+    "Java": 3151383,
+    "CSS": 203247,
+    "Shell": 3985,
+    "Groovy": 2811,
+    "Batchfile": 1572,
+    "Ruby": 959,
+    "SCSS": 96
+  },
+  "size": 3364053
+}

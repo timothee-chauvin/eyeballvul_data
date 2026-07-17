@@ -1,0 +1,13 @@
+{
+  "commit": "45617c45b761ee32d6cacc1a4ee9e653a27680dd",
+  "repo_url": "https://github.com/tanstack/db",
+  "date": "2026-06-23T19:07:45",
+  "languages": {
+    "TypeScript": 6591272,
+    "JavaScript": 25144,
+    "HTML": 1925,
+    "Rust": 314,
+    "Dockerfile": 167
+  },
+  "size": 6618822
+}

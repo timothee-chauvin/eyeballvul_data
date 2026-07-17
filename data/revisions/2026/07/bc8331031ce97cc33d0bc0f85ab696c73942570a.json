@@ -1,0 +1,17 @@
+{
+  "commit": "bc8331031ce97cc33d0bc0f85ab696c73942570a",
+  "repo_url": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
+  "date": "2026-07-07T18:54:28",
+  "languages": {
+    "Go": 7730489,
+    "Shell": 65224,
+    "CSS": 31005,
+    "JavaScript": 25430,
+    "Makefile": 8197,
+    "HTML": 8046,
+    "Mustache": 4807,
+    "Smarty": 3357,
+    "Dockerfile": 1427
+  },
+  "size": 7877982
+}

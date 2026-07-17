@@ -1,0 +1,14 @@
+{
+  "commit": "a620c82045badf6d4ec166cb663f66d32c27c0ec",
+  "repo_url": "https://github.com/preferredai/cornac",
+  "date": "2026-06-04T14:56:08",
+  "languages": {
+    "Python": 1464744,
+    "Cython": 336665,
+    "C++": 226189,
+    "Jupyter Notebook": 89405,
+    "C": 5411,
+    "Dockerfile": 981
+  },
+  "size": 2123395
+}

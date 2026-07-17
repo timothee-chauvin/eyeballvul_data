@@ -1,0 +1,18 @@
+{
+  "commit": "c9e220ca7ecaf6f316474a683f6f57b50abb0fb4",
+  "repo_url": "https://github.com/gamonoid/icehrm",
+  "date": "2026-03-26T08:12:48",
+  "languages": {
+    "JavaScript": 3461960,
+    "PHP": 2141781,
+    "CSS": 1218846,
+    "HTML": 100289,
+    "Smarty": 6363,
+    "SCSS": 4272,
+    "Dockerfile": 3186,
+    "RAML": 1583,
+    "Makefile": 1574,
+    "Shell": 1332
+  },
+  "size": 6941186
+}

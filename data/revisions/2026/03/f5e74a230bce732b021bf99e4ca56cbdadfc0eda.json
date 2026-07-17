@@ -1,0 +1,13 @@
+{
+  "commit": "f5e74a230bce732b021bf99e4ca56cbdadfc0eda",
+  "repo_url": "https://github.com/sigstore/sigstore-js",
+  "date": "2026-03-18T19:51:32",
+  "languages": {
+    "TypeScript": 1008698,
+    "JavaScript": 11377,
+    "Makefile": 6284,
+    "Shell": 799,
+    "Batchfile": 61
+  },
+  "size": 1027219
+}

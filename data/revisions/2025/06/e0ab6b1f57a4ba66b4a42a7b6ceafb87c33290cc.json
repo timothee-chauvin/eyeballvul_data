@@ -1,0 +1,16 @@
+{
+  "commit": "e0ab6b1f57a4ba66b4a42a7b6ceafb87c33290cc",
+  "repo_url": "https://github.com/bolo-blog/bolo-solo",
+  "date": "2025-06-02T06:31:56",
+  "languages": {
+    "Java": 1377984,
+    "FreeMarker": 1104997,
+    "JavaScript": 863087,
+    "SCSS": 400193,
+    "CSS": 160767,
+    "Shell": 1070,
+    "Smarty": 815,
+    "Dockerfile": 543
+  },
+  "size": 3909456
+}

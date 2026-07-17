@@ -1,0 +1,19 @@
+{
+  "commit": "3eebce35cead48a55660d331519df76291e6c95e",
+  "repo_url": "https://github.com/tamagui/tamagui",
+  "date": "2026-06-13T17:34:48",
+  "languages": {
+    "TypeScript": 11050094,
+    "CSS": 3550140,
+    "MDX": 1182602,
+    "JavaScript": 317452,
+    "Shell": 20220,
+    "PLpgSQL": 14357,
+    "Ruby": 3072,
+    "Dockerfile": 2697,
+    "Swift": 2220,
+    "HTML": 816,
+    "C": 102
+  },
+  "size": 16143772
+}

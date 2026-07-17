@@ -1,0 +1,17 @@
+{
+  "commit": "b3ae675a14194d790e0bc9f144e1f34b0b2e060c",
+  "repo_url": "https://github.com/pretix/pretix",
+  "date": "2023-02-27T08:24:48",
+  "languages": {
+    "Python": 9023722,
+    "HTML": 1545665,
+    "JavaScript": 642152,
+    "SCSS": 465891,
+    "Vue": 64483,
+    "CSS": 4859,
+    "Dockerfile": 2447,
+    "Shell": 1791,
+    "Makefile": 1028
+  },
+  "size": 11752038
+}

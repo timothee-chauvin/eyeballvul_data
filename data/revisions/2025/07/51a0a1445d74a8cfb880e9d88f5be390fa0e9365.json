@@ -1,0 +1,15 @@
+{
+  "commit": "51a0a1445d74a8cfb880e9d88f5be390fa0e9365",
+  "repo_url": "https://github.com/stalwartlabs/stalwart",
+  "date": "2025-07-27T15:44:28",
+  "languages": {
+    "Rust": 9048289,
+    "Shell": 47252,
+    "HTML": 32417,
+    "Python": 24116,
+    "Sieve": 8048,
+    "Dockerfile": 2114,
+    "HCL": 1155
+  },
+  "size": 9163391
+}

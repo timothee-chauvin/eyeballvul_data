@@ -1,0 +1,15 @@
+{
+  "commit": "a549fcedde9d1f465ee92b99440b84436574a228",
+  "repo_url": "https://github.com/apache/artemis",
+  "date": "2020-08-24T14:03:12",
+  "languages": {
+    "Java": 30727886,
+    "JavaScript": 173578,
+    "Groovy": 150658,
+    "HTML": 77237,
+    "CSS": 65685,
+    "Shell": 37318,
+    "Batchfile": 7867
+  },
+  "size": 31240229
+}

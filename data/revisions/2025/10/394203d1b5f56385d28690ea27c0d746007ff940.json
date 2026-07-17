@@ -1,0 +1,19 @@
+{
+  "commit": "394203d1b5f56385d28690ea27c0d746007ff940",
+  "repo_url": "https://github.com/mem0ai/mem0",
+  "date": "2025-10-16T10:20:20",
+  "languages": {
+    "Python": 2490605,
+    "TypeScript": 743719,
+    "MDX": 262459,
+    "Jupyter Notebook": 159346,
+    "JavaScript": 29771,
+    "Shell": 28142,
+    "Makefile": 5361,
+    "Dockerfile": 4464,
+    "CSS": 4335,
+    "SCSS": 3746,
+    "Mako": 1324
+  },
+  "size": 3733272
+}

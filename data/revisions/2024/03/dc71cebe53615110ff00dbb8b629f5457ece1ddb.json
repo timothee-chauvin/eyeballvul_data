@@ -1,0 +1,16 @@
+{
+  "commit": "dc71cebe53615110ff00dbb8b629f5457ece1ddb",
+  "repo_url": "https://github.com/mysql/mysql-connector-python",
+  "date": "2024-03-15T06:06:48",
+  "languages": {
+    "Python": 4987511,
+    "C": 170256,
+    "C++": 37612,
+    "Shell": 36080,
+    "HTML": 20319,
+    "Makefile": 15469,
+    "Batchfile": 7451,
+    "Dockerfile": 6921
+  },
+  "size": 5281619
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "7692d6d1a0bfbd9a1d3f905337e3457cec39bced",
+  "repo_url": "https://github.com/jasper-software/jasper",
+  "date": "2017-03-02T18:00:04",
+  "languages": {
+    "C": 1354676,
+    "Shell": 72832,
+    "CMake": 35204,
+    "Roff": 2120,
+    "Batchfile": 1790
+  },
+  "size": 1466622
+}

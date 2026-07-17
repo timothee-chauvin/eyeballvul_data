@@ -1,0 +1,14 @@
+{
+  "commit": "7dfd2b96657cc88ff60b8ec1fd88b467aa1f8aba",
+  "repo_url": "https://github.com/yamadashy/repomix",
+  "date": "2026-04-26T14:04:36",
+  "languages": {
+    "TypeScript": 1538827,
+    "Vue": 82272,
+    "JavaScript": 20933,
+    "Shell": 7157,
+    "Dockerfile": 6622,
+    "CSS": 5650
+  },
+  "size": 1661461
+}

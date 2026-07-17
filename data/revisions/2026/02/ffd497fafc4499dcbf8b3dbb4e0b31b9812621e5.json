@@ -1,0 +1,16 @@
+{
+  "commit": "ffd497fafc4499dcbf8b3dbb4e0b31b9812621e5",
+  "repo_url": "https://github.com/will-moss/isaiah",
+  "date": "2026-02-28T23:53:30",
+  "languages": {
+    "Go": 171925,
+    "JavaScript": 158190,
+    "Less": 25147,
+    "HTML": 7540,
+    "Shell": 5135,
+    "Smarty": 4347,
+    "CSS": 580,
+    "Dockerfile": 85
+  },
+  "size": 372949
+}

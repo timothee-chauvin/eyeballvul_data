@@ -1,0 +1,11 @@
+{
+  "commit": "c6ea754c8932c16591a973d30a97abb26b9a12a6",
+  "repo_url": "https://github.com/mosaxiv/clawlet",
+  "date": "2026-03-24T10:23:16",
+  "languages": {
+    "Go": 441941,
+    "Shell": 6719,
+    "Dockerfile": 385
+  },
+  "size": 449045
+}

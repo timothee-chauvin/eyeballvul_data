@@ -1,0 +1,14 @@
+{
+  "commit": "c5a319cb20090ecb47b637e887bca713f5739568",
+  "repo_url": "https://github.com/nginxproxymanager/nginx-proxy-manager",
+  "date": "2025-02-06T10:25:09",
+  "languages": {
+    "JavaScript": 507432,
+    "EJS": 157911,
+    "Shell": 22363,
+    "SCSS": 10561,
+    "Dockerfile": 4222,
+    "HTML": 1033
+  },
+  "size": 703522
+}

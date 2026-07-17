@@ -1,0 +1,16 @@
+{
+  "commit": "fdd5932c1dc2c5c60041cee17c1dbaf5e318cf81",
+  "repo_url": "https://github.com/vendurehq/vendure",
+  "date": "2026-04-09T07:54:08",
+  "languages": {
+    "TypeScript": 16678051,
+    "HTML": 650391,
+    "SCSS": 202358,
+    "JavaScript": 92206,
+    "Handlebars": 24575,
+    "MDX": 9085,
+    "CSS": 4258,
+    "Shell": 2458
+  },
+  "size": 17663382
+}

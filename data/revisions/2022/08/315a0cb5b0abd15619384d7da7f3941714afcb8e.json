@@ -1,0 +1,14 @@
+{
+  "commit": "315a0cb5b0abd15619384d7da7f3941714afcb8e",
+  "repo_url": "https://github.com/cri-o/cri-o",
+  "date": "2022-08-29T17:02:20",
+  "languages": {
+    "Go": 1533616,
+    "Shell": 351777,
+    "C": 18724,
+    "Makefile": 17465,
+    "Nix": 2622,
+    "Dockerfile": 1460
+  },
+  "size": 1925664
+}

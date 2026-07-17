@@ -1,0 +1,11 @@
+{
+  "commit": "189a1d01dbb2e03428179089a682d1d2f527bdb0",
+  "repo_url": "https://github.com/mastergo-design/mastergo-magic-mcp",
+  "date": "2026-06-10T10:34:11",
+  "languages": {
+    "TypeScript": 50538,
+    "JavaScript": 10736,
+    "Dockerfile": 431
+  },
+  "size": 61705
+}

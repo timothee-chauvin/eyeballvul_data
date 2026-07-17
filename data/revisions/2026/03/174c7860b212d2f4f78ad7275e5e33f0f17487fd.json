@@ -1,0 +1,16 @@
+{
+  "commit": "174c7860b212d2f4f78ad7275e5e33f0f17487fd",
+  "repo_url": "https://github.com/angular/angular-cli",
+  "date": "2026-03-11T13:08:45",
+  "languages": {
+    "TypeScript": 5774186,
+    "Starlark": 116393,
+    "JavaScript": 62808,
+    "HTML": 51748,
+    "EJS": 12240,
+    "Shell": 3208,
+    "jq": 1657,
+    "CSS": 240
+  },
+  "size": 6022480
+}

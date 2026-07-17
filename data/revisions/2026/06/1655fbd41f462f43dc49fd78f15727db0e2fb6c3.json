@@ -1,0 +1,11 @@
+{
+  "commit": "1655fbd41f462f43dc49fd78f15727db0e2fb6c3",
+  "repo_url": "https://github.com/appium/appium-mcp",
+  "date": "2026-06-18T04:12:54",
+  "languages": {
+    "TypeScript": 708387,
+    "JavaScript": 3995,
+    "Shell": 899
+  },
+  "size": 713281
+}

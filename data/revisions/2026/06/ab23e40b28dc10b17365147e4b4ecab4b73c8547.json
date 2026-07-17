@@ -1,0 +1,16 @@
+{
+  "commit": "ab23e40b28dc10b17365147e4b4ecab4b73c8547",
+  "repo_url": "https://github.com/evermind-ai/everos",
+  "date": "2026-06-06T03:44:45",
+  "languages": {
+    "Python": 2253147,
+    "TypeScript": 142903,
+    "JavaScript": 86439,
+    "HTML": 84703,
+    "Shell": 30512,
+    "CSS": 24393,
+    "Makefile": 4769,
+    "Dockerfile": 766
+  },
+  "size": 2627632
+}

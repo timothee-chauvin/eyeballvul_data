@@ -1,0 +1,20 @@
+{
+  "commit": "c684bf08307b3270a62f2130bafb37c36aa3c99e",
+  "repo_url": "https://github.com/millert/sudo",
+  "date": "2022-10-21T23:04:21",
+  "languages": {
+    "C": 5393101,
+    "Shell": 662024,
+    "Makefile": 567275,
+    "M4": 224997,
+    "Roff": 146871,
+    "Yacc": 72858,
+    "Pascal": 34603,
+    "Lex": 34093,
+    "Python": 27046,
+    "Perl": 14314,
+    "C++": 7720,
+    "Dockerfile": 3221
+  },
+  "size": 7188123
+}

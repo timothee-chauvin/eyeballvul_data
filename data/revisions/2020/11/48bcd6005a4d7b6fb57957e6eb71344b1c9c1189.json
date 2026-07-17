@@ -1,0 +1,13 @@
+{
+  "commit": "48bcd6005a4d7b6fb57957e6eb71344b1c9c1189",
+  "repo_url": "https://github.com/wukongopensource/wukongcrm-11.0-web-java",
+  "date": "2020-11-05T11:55:43",
+  "languages": {
+    "Vue": 2607360,
+    "JavaScript": 486055,
+    "SCSS": 126315,
+    "CSS": 85928,
+    "HTML": 2890
+  },
+  "size": 3308548
+}

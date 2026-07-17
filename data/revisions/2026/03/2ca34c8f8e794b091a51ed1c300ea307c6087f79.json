@@ -1,0 +1,11 @@
+{
+  "commit": "2ca34c8f8e794b091a51ed1c300ea307c6087f79",
+  "repo_url": "https://github.com/arikusi/deepseek-mcp-server",
+  "date": "2026-03-17T05:02:33",
+  "languages": {
+    "TypeScript": 222032,
+    "JavaScript": 3589,
+    "Dockerfile": 559
+  },
+  "size": 226180
+}

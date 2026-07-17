@@ -1,0 +1,16 @@
+{
+  "commit": "0836d9fdbec86e1fc68b09f4274a35526c043130",
+  "repo_url": "https://github.com/mattermost/desktop",
+  "date": "2025-11-18T12:31:15",
+  "languages": {
+    "TypeScript": 1773123,
+    "JavaScript": 881866,
+    "SCSS": 118764,
+    "Shell": 14122,
+    "Makefile": 1629,
+    "Ruby": 1211,
+    "HTML": 639,
+    "NSIS": 600
+  },
+  "size": 2791954
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "f3e81d2608aa2e1269c53765ce61823c8ed2aea7",
+  "repo_url": "https://github.com/flameshot-org/flameshot",
+  "date": "2026-05-29T00:55:23",
+  "languages": {
+    "C++": 731309,
+    "CMake": 45926,
+    "Shell": 24358,
+    "Roff": 8989,
+    "Nix": 4698,
+    "C": 1164,
+    "Makefile": 843
+  },
+  "size": 817287
+}

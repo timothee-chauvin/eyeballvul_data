@@ -1,0 +1,13 @@
+{
+  "commit": "e613bbb1612d3a82abc9b8d170c4d9a5d2ec0135",
+  "repo_url": "https://github.com/jasper-software/jasper",
+  "date": "2016-10-28T05:06:54",
+  "languages": {
+    "C": 1320021,
+    "Makefile": 59745,
+    "Shell": 50461,
+    "M4": 18420,
+    "Roff": 2120
+  },
+  "size": 1450767
+}

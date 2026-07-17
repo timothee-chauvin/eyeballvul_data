@@ -1,0 +1,10 @@
+{
+  "commit": "5167c04fcdd50e24d9710813572382eeb3064805",
+  "repo_url": "https://github.com/rancher/wrangler",
+  "date": "2022-05-10T19:08:54",
+  "languages": {
+    "Go": 323821,
+    "Makefile": 116
+  },
+  "size": 323937
+}

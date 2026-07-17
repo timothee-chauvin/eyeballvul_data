@@ -1,0 +1,19 @@
+{
+  "commit": "048a5eee5dec5a9684f4bbfddf1a3dbeba19a1fa",
+  "repo_url": "https://github.com/aws/jsii",
+  "date": "2026-05-14T18:09:51",
+  "languages": {
+    "TypeScript": 1431685,
+    "C#": 441353,
+    "Java": 246539,
+    "Go": 185532,
+    "Python": 133647,
+    "JavaScript": 44023,
+    "Shell": 20358,
+    "CSS": 4117,
+    "PowerShell": 3305,
+    "F#": 442,
+    "Batchfile": 30
+  },
+  "size": 2511031
+}

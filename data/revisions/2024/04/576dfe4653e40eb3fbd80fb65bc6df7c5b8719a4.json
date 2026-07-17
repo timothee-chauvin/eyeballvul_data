@@ -1,0 +1,18 @@
+{
+  "commit": "576dfe4653e40eb3fbd80fb65bc6df7c5b8719a4",
+  "repo_url": "https://github.com/meshery/meshery",
+  "date": "2024-04-29T21:46:18",
+  "languages": {
+    "JavaScript": 2394174,
+    "Go": 2308389,
+    "Mustache": 24214,
+    "CSS": 24202,
+    "Makefile": 23645,
+    "Open Policy Agent": 17904,
+    "Dockerfile": 10394,
+    "Shell": 2502,
+    "HTML": 2164,
+    "Smarty": 513
+  },
+  "size": 4808101
+}

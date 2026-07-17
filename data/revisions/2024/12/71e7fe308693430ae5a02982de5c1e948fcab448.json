@@ -1,0 +1,15 @@
+{
+  "commit": "71e7fe308693430ae5a02982de5c1e948fcab448",
+  "repo_url": "https://github.com/stoatchat/stoatchat",
+  "date": "2024-12-28T00:35:02",
+  "languages": {
+    "Rust": 1042916,
+    "HTML": 96215,
+    "Shell": 4142,
+    "Dockerfile": 2997,
+    "JavaScript": 1086,
+    "Nix": 812,
+    "Just": 506
+  },
+  "size": 1148674
+}

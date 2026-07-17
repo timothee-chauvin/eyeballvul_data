@@ -1,0 +1,11 @@
+{
+  "commit": "5b3f64e5e6ea6fa094e3c2f9555a63b4b7a7fbe6",
+  "repo_url": "https://github.com/cedar-policy/cedar-java",
+  "date": "2024-11-04T20:41:44",
+  "languages": {
+    "Java": 278515,
+    "Rust": 66436,
+    "Shell": 459
+  },
+  "size": 345410
+}

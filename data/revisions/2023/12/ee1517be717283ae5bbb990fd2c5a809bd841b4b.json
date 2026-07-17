@@ -1,0 +1,15 @@
+{
+  "commit": "ee1517be717283ae5bbb990fd2c5a809bd841b4b",
+  "repo_url": "https://github.com/apolloconfig/apollo",
+  "date": "2023-12-10T11:07:29",
+  "languages": {
+    "Java": 2428901,
+    "HTML": 500932,
+    "JavaScript": 401669,
+    "Shell": 45254,
+    "CSS": 22840,
+    "Dockerfile": 6482,
+    "Batchfile": 2286
+  },
+  "size": 3408364
+}

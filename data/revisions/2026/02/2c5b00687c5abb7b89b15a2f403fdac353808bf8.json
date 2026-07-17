@@ -1,0 +1,15 @@
+{
+  "commit": "2c5b00687c5abb7b89b15a2f403fdac353808bf8",
+  "repo_url": "https://github.com/titraio/titra",
+  "date": "2026-02-26T12:14:48",
+  "languages": {
+    "JavaScript": 677034,
+    "HTML": 172772,
+    "SCSS": 39393,
+    "Cap'n Proto": 11256,
+    "Dockerfile": 1928,
+    "CSS": 1750,
+    "Shell": 697
+  },
+  "size": 904830
+}

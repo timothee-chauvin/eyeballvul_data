@@ -1,0 +1,14 @@
+{
+  "commit": "701c806595c31e4486bf856a3dded87fd3f3a17c",
+  "repo_url": "https://github.com/goshs-labs/goshs",
+  "date": "2026-04-10T13:07:32",
+  "languages": {
+    "Go": 397375,
+    "HTML": 112537,
+    "JavaScript": 91232,
+    "SCSS": 44166,
+    "Makefile": 7040,
+    "Dockerfile": 745
+  },
+  "size": 653095
+}

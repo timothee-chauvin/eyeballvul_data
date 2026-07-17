@@ -1,0 +1,11 @@
+{
+  "commit": "e34646570e6fd1456e97623f692d5209a6e1fcab",
+  "repo_url": "https://github.com/snowflakedb/snowflake-sqlalchemy",
+  "date": "2026-06-17T14:25:33",
+  "languages": {
+    "Python": 719799,
+    "Shell": 6661,
+    "Dockerfile": 1029
+  },
+  "size": 727489
+}

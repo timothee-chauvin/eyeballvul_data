@@ -1,0 +1,15 @@
+{
+  "commit": "60b30ff3c7c00802ece93d048653223a661c5604",
+  "repo_url": "https://github.com/misp/misp-modules",
+  "date": "2023-05-31T13:48:42",
+  "languages": {
+    "Python": 1156505,
+    "HTML": 35352,
+    "Dockerfile": 4108,
+    "Shell": 2849,
+    "Makefile": 1122,
+    "YARA": 399,
+    "DIGITAL Command Language": 58
+  },
+  "size": 1200393
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "ceefd82d5b110a6e7d6c26f29b0c130065860df3",
+  "repo_url": "https://github.com/openstack/swift",
+  "date": "2026-03-19T21:22:28",
+  "languages": {
+    "Python": 16499448,
+    "JavaScript": 40384,
+    "Shell": 9429,
+    "Jinja": 4306,
+    "Dockerfile": 3072,
+    "HTML": 2147
+  },
+  "size": 16558786
+}
