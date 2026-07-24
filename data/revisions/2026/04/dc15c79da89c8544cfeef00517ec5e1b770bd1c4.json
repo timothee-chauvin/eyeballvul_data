@@ -1,0 +1,26 @@
+{
+  "commit": "dc15c79da89c8544cfeef00517ec5e1b770bd1c4",
+  "repo_url": "https://github.com/datadog/dd-trace-dotnet",
+  "date": "2026-04-17T17:21:01",
+  "languages": {
+    "C#": 47057870,
+    "C++": 10756074,
+    "C": 1805991,
+    "PowerShell": 165813,
+    "Shell": 128607,
+    "HTML": 89289,
+    "Dockerfile": 88797,
+    "CMake": 65361,
+    "Perl": 32953,
+    "Batchfile": 23472,
+    "TSQL": 19037,
+    "Pawn": 11994,
+    "ASP.NET": 9278,
+    "CSS": 6011,
+    "Visual Basic .NET": 2439,
+    "Assembly": 2182,
+    "Objective-C": 1778,
+    "JavaScript": 452
+  },
+  "size": 60267398
+}

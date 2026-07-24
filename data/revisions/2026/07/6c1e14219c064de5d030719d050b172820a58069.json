@@ -1,0 +1,15 @@
+{
+  "commit": "6c1e14219c064de5d030719d050b172820a58069",
+  "repo_url": "https://github.com/rconfig/rconfig",
+  "date": "2026-07-05T11:27:05",
+  "languages": {
+    "PHP": 2708503,
+    "Vue": 1566425,
+    "TypeScript": 117025,
+    "Blade": 72169,
+    "HTML": 58305,
+    "Shell": 6613,
+    "Dockerfile": 3102
+  },
+  "size": 4532142
+}

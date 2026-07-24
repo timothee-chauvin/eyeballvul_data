@@ -1,0 +1,14 @@
+{
+  "commit": "40fafd01f918409a71b757315a92430f0a3b0b6a",
+  "repo_url": "https://github.com/meltano/hub",
+  "date": "2022-09-29T07:27:58",
+  "languages": {
+    "HTML": 57808,
+    "SCSS": 19727,
+    "Ruby": 16793,
+    "Python": 15938,
+    "JavaScript": 3612,
+    "Shell": 1059
+  },
+  "size": 114937
+}

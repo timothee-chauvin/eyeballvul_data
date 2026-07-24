@@ -1,0 +1,16 @@
+{
+  "commit": "698323ae831e7471fab348677c768eece619d064",
+  "repo_url": "https://github.com/ottermind/chat2db",
+  "date": "2025-01-14T12:10:14",
+  "languages": {
+    "Java": 2736626,
+    "TypeScript": 916390,
+    "HTML": 177910,
+    "Less": 124227,
+    "JavaScript": 20362,
+    "Shell": 1955,
+    "EJS": 1472,
+    "Dockerfile": 702
+  },
+  "size": 3979644
+}

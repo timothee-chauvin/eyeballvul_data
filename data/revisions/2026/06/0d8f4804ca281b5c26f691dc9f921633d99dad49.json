@@ -1,0 +1,12 @@
+{
+  "commit": "0d8f4804ca281b5c26f691dc9f921633d99dad49",
+  "repo_url": "https://github.com/jsforce/jsforce",
+  "date": "2026-06-12T00:58:25",
+  "languages": {
+    "TypeScript": 1787405,
+    "JavaScript": 19003,
+    "Apex": 5886,
+    "Shell": 2030
+  },
+  "size": 1814324
+}

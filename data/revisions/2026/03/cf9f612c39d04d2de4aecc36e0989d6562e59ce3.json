@@ -1,0 +1,15 @@
+{
+  "commit": "cf9f612c39d04d2de4aecc36e0989d6562e59ce3",
+  "repo_url": "https://github.com/klever-io/klever-go",
+  "date": "2026-03-10T13:30:31",
+  "languages": {
+    "Go": 11679418,
+    "C": 139851,
+    "Shell": 24149,
+    "Makefile": 14796,
+    "Rust": 5341,
+    "Dockerfile": 3540,
+    "WebAssembly": 734
+  },
+  "size": 11867829
+}

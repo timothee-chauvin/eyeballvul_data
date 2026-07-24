@@ -1,0 +1,12 @@
+{
+  "commit": "2a2806ebd74cfa9b77030ee0e32ee379eeb1d17e",
+  "repo_url": "https://github.com/skylot/jadx",
+  "date": "2026-02-12T19:38:34",
+  "languages": {
+    "Java": 4644209,
+    "Smali": 336914,
+    "Kotlin": 144272,
+    "Lex": 15154
+  },
+  "size": 5140549
+}

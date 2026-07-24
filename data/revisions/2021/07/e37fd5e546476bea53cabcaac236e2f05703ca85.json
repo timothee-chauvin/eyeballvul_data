@@ -1,0 +1,18 @@
+{
+  "commit": "e37fd5e546476bea53cabcaac236e2f05703ca85",
+  "repo_url": "https://github.com/microsoft/terminal",
+  "date": "2021-07-12T22:58:02",
+  "languages": {
+    "C++": 15959559,
+    "C#": 487334,
+    "C": 216577,
+    "PowerShell": 102929,
+    "BitBake": 33159,
+    "Batchfile": 26166,
+    "Python": 7996,
+    "Roff": 7142,
+    "JavaScript": 894,
+    "HTML": 552
+  },
+  "size": 16842308
+}

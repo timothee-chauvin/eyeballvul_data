@@ -1,0 +1,13 @@
+{
+  "commit": "bb909b8ed2c5f853bacbe0618edee7f1a92e836c",
+  "repo_url": "https://github.com/kubeflow/community-distribution",
+  "date": "2025-03-03T10:11:25",
+  "languages": {
+    "YAML": 17536778,
+    "Shell": 70912,
+    "Python": 64946,
+    "Makefile": 3617,
+    "JSON": 82
+  },
+  "size": 17676335
+}

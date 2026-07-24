@@ -1,0 +1,12 @@
+{
+  "commit": "da127bc48f31dfdb659d5fe0e670e51f386ae3f6",
+  "repo_url": "https://github.com/microsoft/o365-moodle",
+  "date": "2026-02-10T11:24:23",
+  "languages": {
+    "PHP": 2573058,
+    "JavaScript": 36551,
+    "CSS": 29360,
+    "Mustache": 9156
+  },
+  "size": 2648125
+}

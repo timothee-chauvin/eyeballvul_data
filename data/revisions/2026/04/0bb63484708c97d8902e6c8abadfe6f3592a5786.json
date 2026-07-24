@@ -1,0 +1,13 @@
+{
+  "commit": "0bb63484708c97d8902e6c8abadfe6f3592a5786",
+  "repo_url": "https://github.com/hey-api/hey-api",
+  "date": "2026-04-28T03:32:03",
+  "languages": {
+    "TypeScript": 27300743,
+    "Python": 144980,
+    "JavaScript": 10098,
+    "Shell": 8329,
+    "Batchfile": 68
+  },
+  "size": 27464218
+}

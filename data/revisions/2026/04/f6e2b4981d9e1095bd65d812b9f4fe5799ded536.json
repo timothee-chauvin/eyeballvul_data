@@ -1,0 +1,14 @@
+{
+  "commit": "f6e2b4981d9e1095bd65d812b9f4fe5799ded536",
+  "repo_url": "https://github.com/apify/apify-mcp-server",
+  "date": "2026-04-27T06:13:52",
+  "languages": {
+    "TypeScript": 1115429,
+    "Jupyter Notebook": 146047,
+    "JavaScript": 34069,
+    "CSS": 4471,
+    "HTML": 2579,
+    "Dockerfile": 668
+  },
+  "size": 1303263
+}

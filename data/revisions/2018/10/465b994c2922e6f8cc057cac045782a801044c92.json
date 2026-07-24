@@ -1,0 +1,13 @@
+{
+  "commit": "465b994c2922e6f8cc057cac045782a801044c92",
+  "repo_url": "https://github.com/geex-arts/django-jet",
+  "date": "2018-10-18T06:38:34",
+  "languages": {
+    "Python": 168602,
+    "SCSS": 115426,
+    "JavaScript": 106563,
+    "HTML": 53762,
+    "CSS": 2492
+  },
+  "size": 446845
+}

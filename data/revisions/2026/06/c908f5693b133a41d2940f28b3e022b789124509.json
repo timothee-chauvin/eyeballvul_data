@@ -1,0 +1,16 @@
+{
+  "commit": "c908f5693b133a41d2940f28b3e022b789124509",
+  "repo_url": "https://github.com/axelor/axelor-open-platform",
+  "date": "2026-06-10T07:39:45",
+  "languages": {
+    "Java": 3329724,
+    "TypeScript": 1908034,
+    "SCSS": 115959,
+    "JavaScript": 75835,
+    "Python": 11499,
+    "CSS": 5081,
+    "HTML": 4792,
+    "Shell": 477
+  },
+  "size": 5451401
+}

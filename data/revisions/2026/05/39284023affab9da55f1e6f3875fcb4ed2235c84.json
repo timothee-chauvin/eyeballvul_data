@@ -1,0 +1,22 @@
+{
+  "commit": "39284023affab9da55f1e6f3875fcb4ed2235c84",
+  "repo_url": "https://github.com/microsoft/prompty",
+  "date": "2026-05-05T09:58:12",
+  "languages": {
+    "TypeScript": 2021669,
+    "C#": 1549908,
+    "Python": 1415399,
+    "Rust": 1129687,
+    "MDX": 903748,
+    "CSS": 80935,
+    "PowerShell": 25816,
+    "JavaScript": 14560,
+    "Astro": 5084,
+    "Batchfile": 1430,
+    "Go": 925,
+    "Dockerfile": 681,
+    "Shell": 416,
+    "HTML": 411
+  },
+  "size": 7150669
+}

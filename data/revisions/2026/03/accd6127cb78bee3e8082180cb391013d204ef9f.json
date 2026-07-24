@@ -1,0 +1,13 @@
+{
+  "commit": "accd6127cb78bee3e8082180cb391013d204ef9f",
+  "repo_url": "https://github.com/shivammathur/setup-php",
+  "date": "2026-03-15T16:14:02",
+  "languages": {
+    "TypeScript": 133633,
+    "Shell": 126633,
+    "PowerShell": 65865,
+    "PHP": 4219,
+    "JavaScript": 1425
+  },
+  "size": 331775
+}

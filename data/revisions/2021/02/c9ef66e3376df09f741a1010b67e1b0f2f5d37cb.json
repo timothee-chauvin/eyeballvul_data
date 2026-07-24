@@ -1,0 +1,13 @@
+{
+  "commit": "c9ef66e3376df09f741a1010b67e1b0f2f5d37cb",
+  "repo_url": "https://github.com/awesto/django-shop",
+  "date": "2021-02-02T21:11:47",
+  "languages": {
+    "Python": 575566,
+    "HTML": 108321,
+    "JavaScript": 51958,
+    "SCSS": 8393,
+    "CSS": 62
+  },
+  "size": 744300
+}

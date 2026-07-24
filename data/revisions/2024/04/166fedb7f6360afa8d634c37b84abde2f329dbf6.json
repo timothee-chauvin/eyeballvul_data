@@ -1,0 +1,17 @@
+{
+  "commit": "166fedb7f6360afa8d634c37b84abde2f329dbf6",
+  "repo_url": "https://github.com/bcgit/bc-lts-java",
+  "date": "2024-04-07T20:03:01",
+  "languages": {
+    "Java": 29446648,
+    "C": 1281233,
+    "Shell": 43761,
+    "CMake": 22387,
+    "Batchfile": 12956,
+    "Groovy": 10938,
+    "Assembly": 10678,
+    "HTML": 3807,
+    "C++": 876
+  },
+  "size": 30833284
+}

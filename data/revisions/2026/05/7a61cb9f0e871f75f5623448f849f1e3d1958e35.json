@@ -1,0 +1,18 @@
+{
+  "commit": "7a61cb9f0e871f75f5623448f849f1e3d1958e35",
+  "repo_url": "https://github.com/poco-ai/poco-claw",
+  "date": "2026-05-31T15:08:58",
+  "languages": {
+    "Python": 3475135,
+    "TypeScript": 2915248,
+    "C#": 842647,
+    "Shell": 213488,
+    "HTML": 52056,
+    "CSS": 14785,
+    "PowerShell": 10156,
+    "JavaScript": 4546,
+    "Dockerfile": 3465,
+    "Mako": 704
+  },
+  "size": 7532230
+}

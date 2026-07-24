@@ -1,0 +1,24 @@
+{
+  "commit": "21c482c869ea51e2bb20439bfc804d7dde881623",
+  "repo_url": "https://github.com/ruvnet/agentic-flow",
+  "date": "2025-11-24T17:11:04",
+  "languages": {
+    "TypeScript": 3194540,
+    "JavaScript": 1904741,
+    "Rust": 1150497,
+    "Shell": 376512,
+    "Python": 175609,
+    "Go": 130173,
+    "PLpgSQL": 57960,
+    "HTML": 50708,
+    "Dockerfile": 19564,
+    "Lean": 16174,
+    "CSS": 7646,
+    "Mermaid": 3166,
+    "Makefile": 2964,
+    "Smarty": 1788,
+    "PowerShell": 600,
+    "Batchfile": 353
+  },
+  "size": 7092995
+}

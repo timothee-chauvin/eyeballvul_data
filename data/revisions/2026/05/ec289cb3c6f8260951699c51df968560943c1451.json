@@ -1,0 +1,11 @@
+{
+  "commit": "ec289cb3c6f8260951699c51df968560943c1451",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-rust",
+  "date": "2026-05-08T23:28:58",
+  "languages": {
+    "Rust": 3217591,
+    "Shell": 11327,
+    "Jinja": 7888
+  },
+  "size": 3236806
+}

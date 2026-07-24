@@ -1,0 +1,13 @@
+{
+  "commit": "6607106c96256f4d85b918487126970a60de3dbb",
+  "repo_url": "https://github.com/mohibshaikh/clawvet",
+  "date": "2026-07-13T01:52:26",
+  "languages": {
+    "TypeScript": 219442,
+    "PowerShell": 4887,
+    "CSS": 3485,
+    "Dockerfile": 992,
+    "JavaScript": 244
+  },
+  "size": 229050
+}

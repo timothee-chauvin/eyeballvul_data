@@ -1,0 +1,16 @@
+{
+  "commit": "c2c54cc7c8fc1e859a43cc889313b73de17347ef",
+  "repo_url": "https://github.com/buddyboss/buddyboss-platform",
+  "date": "2021-10-27T12:01:28",
+  "languages": {
+    "PHP": 15917819,
+    "JavaScript": 2023284,
+    "CSS": 1665161,
+    "SCSS": 478994,
+    "Gherkin": 29995,
+    "HTML": 29304,
+    "Hack": 12766,
+    "Shell": 5413
+  },
+  "size": 20162736
+}

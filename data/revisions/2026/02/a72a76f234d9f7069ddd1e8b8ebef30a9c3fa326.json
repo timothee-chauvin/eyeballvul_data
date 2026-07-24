@@ -1,0 +1,24 @@
+{
+  "commit": "a72a76f234d9f7069ddd1e8b8ebef30a9c3fa326",
+  "repo_url": "https://github.com/chipsalliance/caliptra-sw",
+  "date": "2026-02-06T23:28:16",
+  "languages": {
+    "Rust": 9465671,
+    "SystemVerilog": 237291,
+    "C": 220129,
+    "Tcl": 75626,
+    "Shell": 39591,
+    "Assembly": 32882,
+    "Makefile": 19239,
+    "Verilog": 10543,
+    "Go": 8928,
+    "C++": 3075,
+    "HTML": 2013,
+    "BitBake": 1771,
+    "JavaScript": 1666,
+    "CSS": 1442,
+    "Nix": 1325,
+    "CMake": 489
+  },
+  "size": 10121681
+}

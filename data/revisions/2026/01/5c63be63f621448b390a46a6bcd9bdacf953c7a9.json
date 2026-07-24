@@ -1,0 +1,10 @@
+{
+  "commit": "5c63be63f621448b390a46a6bcd9bdacf953c7a9",
+  "repo_url": "https://github.com/nasa/hs",
+  "date": "2026-01-23T14:14:42",
+  "languages": {
+    "C": 686834,
+    "CMake": 4096
+  },
+  "size": 690930
+}

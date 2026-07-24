@@ -1,0 +1,12 @@
+{
+  "commit": "dc48fee492406bc3ea038cacd82967e6e93c294a",
+  "repo_url": "https://github.com/oclif/oclif",
+  "date": "2026-06-14T11:09:06",
+  "languages": {
+    "TypeScript": 183144,
+    "EJS": 8860,
+    "JavaScript": 1945,
+    "Batchfile": 61
+  },
+  "size": 194010
+}

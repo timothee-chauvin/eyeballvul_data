@@ -1,0 +1,14 @@
+{
+  "commit": "224f21354a916dfbec29e9435db1045b3d61a94b",
+  "repo_url": "https://github.com/maybe-finance/maybe",
+  "date": "2025-07-24T21:34:28",
+  "languages": {
+    "Ruby": 1444310,
+    "HTML": 477423,
+    "JavaScript": 100324,
+    "CSS": 27720,
+    "Shell": 4847,
+    "Dockerfile": 2583
+  },
+  "size": 2057207
+}

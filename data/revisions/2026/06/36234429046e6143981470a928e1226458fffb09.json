@@ -1,0 +1,15 @@
+{
+  "commit": "36234429046e6143981470a928e1226458fffb09",
+  "repo_url": "https://github.com/umijs/umi",
+  "date": "2026-06-15T09:32:46",
+  "languages": {
+    "TypeScript": 1749545,
+    "Smarty": 59329,
+    "JavaScript": 53059,
+    "HTML": 19294,
+    "CSS": 8846,
+    "Less": 1192,
+    "Vue": 772
+  },
+  "size": 1892037
+}

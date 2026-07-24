@@ -1,0 +1,14 @@
+{
+  "commit": "6f11b4d58383af52dffd02ab491813cea9667c9f",
+  "repo_url": "https://github.com/pdovhomilja/nextcrm-app",
+  "date": "2026-05-11T15:35:21",
+  "languages": {
+    "TypeScript": 3478309,
+    "JavaScript": 7824,
+    "PLpgSQL": 6759,
+    "Shell": 4982,
+    "Dockerfile": 4845,
+    "CSS": 2863
+  },
+  "size": 3505582
+}

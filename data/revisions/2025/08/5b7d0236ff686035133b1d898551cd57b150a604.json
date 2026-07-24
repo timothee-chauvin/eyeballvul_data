@@ -1,0 +1,15 @@
+{
+  "commit": "5b7d0236ff686035133b1d898551cd57b150a604",
+  "repo_url": "https://github.com/falkordb/queryweaver",
+  "date": "2025-08-08T10:23:56",
+  "languages": {
+    "Python": 218606,
+    "JavaScript": 71096,
+    "CSS": 27768,
+    "Jinja": 13794,
+    "Shell": 2318,
+    "Makefile": 1821,
+    "Dockerfile": 824
+  },
+  "size": 336227
+}

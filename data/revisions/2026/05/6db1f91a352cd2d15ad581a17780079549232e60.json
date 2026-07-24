@@ -1,0 +1,12 @@
+{
+  "commit": "6db1f91a352cd2d15ad581a17780079549232e60",
+  "repo_url": "https://github.com/python-zeroconf/python-zeroconf",
+  "date": "2026-05-17T22:24:32",
+  "languages": {
+    "Python": 778498,
+    "Cython": 33773,
+    "JavaScript": 242,
+    "Makefile": 79
+  },
+  "size": 812592
+}

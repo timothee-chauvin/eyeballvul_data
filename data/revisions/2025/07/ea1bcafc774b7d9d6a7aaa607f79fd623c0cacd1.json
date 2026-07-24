@@ -1,0 +1,14 @@
+{
+  "commit": "ea1bcafc774b7d9d6a7aaa607f79fd623c0cacd1",
+  "repo_url": "https://github.com/onlook-dev/onlook",
+  "date": "2025-07-17T18:23:56",
+  "languages": {
+    "TypeScript": 5095005,
+    "CSS": 23084,
+    "PLpgSQL": 13067,
+    "JavaScript": 1881,
+    "Dockerfile": 630,
+    "Shell": 97
+  },
+  "size": 5133764
+}

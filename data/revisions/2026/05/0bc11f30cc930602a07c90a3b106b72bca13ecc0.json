@@ -1,0 +1,18 @@
+{
+  "commit": "0bc11f30cc930602a07c90a3b106b72bca13ecc0",
+  "repo_url": "https://github.com/datadog/dd-trace-go",
+  "date": "2026-05-05T15:11:27",
+  "languages": {
+    "Go": 8092040,
+    "Shell": 85472,
+    "Bicep": 29891,
+    "Dockerfile": 11311,
+    "Makefile": 7068,
+    "Groovy": 3056,
+    "HTML": 1653,
+    "Lua": 583,
+    "JavaScript": 352,
+    "Smarty": 316
+  },
+  "size": 8231742
+}

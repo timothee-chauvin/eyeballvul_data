@@ -1,0 +1,21 @@
+{
+  "commit": "52399f555c2f80cb690a4a558b604e1a5f227e7c",
+  "repo_url": "https://github.com/nvidia/tensorrt",
+  "date": "2026-03-25T23:20:12",
+  "languages": {
+    "C++": 247942041,
+    "Python": 3465933,
+    "Cuda": 766555,
+    "Jupyter Notebook": 651004,
+    "CMake": 171956,
+    "Dockerfile": 23424,
+    "Shell": 23344,
+    "C": 21967,
+    "Makefile": 9329,
+    "Batchfile": 804,
+    "PureBasic": 388,
+    "HTML": 266,
+    "PowerShell": 162
+  },
+  "size": 253077173
+}

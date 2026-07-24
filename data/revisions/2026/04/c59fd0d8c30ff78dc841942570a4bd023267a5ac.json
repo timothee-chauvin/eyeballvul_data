@@ -1,0 +1,16 @@
+{
+  "commit": "c59fd0d8c30ff78dc841942570a4bd023267a5ac",
+  "repo_url": "https://github.com/activepieces/activepieces",
+  "date": "2026-04-21T19:01:08",
+  "languages": {
+    "TypeScript": 31396820,
+    "CSS": 84605,
+    "Shell": 37994,
+    "JavaScript": 29398,
+    "HTML": 28704,
+    "Dockerfile": 7864,
+    "MDX": 6121,
+    "Smarty": 1832
+  },
+  "size": 31593338
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "f9c9dbe38646fdcce737a515edddb3e9fc71ee2b",
+  "repo_url": "https://github.com/datadog/dd-trace-py",
+  "date": "2026-05-06T08:59:54",
+  "languages": {
+    "Python": 18032938,
+    "C++": 1772871,
+    "CMake": 145539,
+    "Shell": 131928,
+    "Rust": 121212,
+    "Cython": 120113,
+    "C": 106463,
+    "HTML": 75211,
+    "Dockerfile": 8522,
+    "PowerShell": 4254,
+    "Smarty": 928,
+    "JavaScript": 653,
+    "Jinja": 9
+  },
+  "size": 20520641
+}

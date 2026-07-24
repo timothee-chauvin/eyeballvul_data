@@ -1,0 +1,13 @@
+{
+  "commit": "6eaad039603a4de39fddd1cf5f727391efe9974e",
+  "repo_url": "https://github.com/gitleaks/gitleaks",
+  "date": "2025-11-26T16:25:37",
+  "languages": {
+    "Go": 691856,
+    "Shell": 2496,
+    "Makefile": 831,
+    "Python": 769,
+    "Dockerfile": 463
+  },
+  "size": 696415
+}

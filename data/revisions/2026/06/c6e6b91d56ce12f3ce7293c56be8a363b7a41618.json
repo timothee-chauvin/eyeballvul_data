@@ -1,0 +1,16 @@
+{
+  "commit": "c6e6b91d56ce12f3ce7293c56be8a363b7a41618",
+  "repo_url": "https://github.com/gpustack/gpustack",
+  "date": "2026-06-18T14:02:04",
+  "languages": {
+    "Python": 4883001,
+    "Jinja": 68551,
+    "Dockerfile": 34163,
+    "Shell": 30167,
+    "PowerShell": 18697,
+    "Mustache": 7574,
+    "Makefile": 1977,
+    "Mako": 667
+  },
+  "size": 5044797
+}

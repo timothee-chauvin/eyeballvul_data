@@ -1,0 +1,14 @@
+{
+  "commit": "733bf6cc4bb0df9ef3d030e6f6610b0ef442d8b8",
+  "repo_url": "https://github.com/dbt-labs/dbt-mcp",
+  "date": "2026-05-05T12:36:00",
+  "languages": {
+    "Python": 1035463,
+    "CSS": 23944,
+    "TypeScript": 13390,
+    "Dockerfile": 1639,
+    "JavaScript": 610,
+    "HTML": 294
+  },
+  "size": 1075340
+}

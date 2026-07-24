@@ -1,0 +1,12 @@
+{
+  "commit": "aa8d46ca4a41c68e7679c4b6d5e6ebd6f3d493ce",
+  "repo_url": "https://github.com/jasonlovesdoggo/caddy-defender",
+  "date": "2025-12-28T02:27:46",
+  "languages": {
+    "Go": 115524,
+    "Dockerfile": 283,
+    "Shell": 81,
+    "Batchfile": 40
+  },
+  "size": 115928
+}

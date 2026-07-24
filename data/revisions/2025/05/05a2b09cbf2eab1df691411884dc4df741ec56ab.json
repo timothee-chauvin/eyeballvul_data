@@ -1,0 +1,10 @@
+{
+  "commit": "05a2b09cbf2eab1df691411884dc4df741ec56ab",
+  "repo_url": "https://github.com/oras-project/oras-go",
+  "date": "2025-05-07T09:04:41",
+  "languages": {
+    "Go": 1808959,
+    "Makefile": 1252
+  },
+  "size": 1810211
+}

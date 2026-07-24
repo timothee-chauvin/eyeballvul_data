@@ -1,0 +1,14 @@
+{
+  "commit": "fe90fd46713ab27cbbb858722b6335c70a577a1a",
+  "repo_url": "https://github.com/anthropics/buffa",
+  "date": "2026-05-15T23:31:50",
+  "languages": {
+    "Rust": 3935382,
+    "PureBasic": 32038,
+    "Python": 26972,
+    "Shell": 16478,
+    "Dockerfile": 11184,
+    "Go": 5432
+  },
+  "size": 4027486
+}

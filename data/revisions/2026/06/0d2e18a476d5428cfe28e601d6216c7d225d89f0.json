@@ -1,0 +1,24 @@
+{
+  "commit": "0d2e18a476d5428cfe28e601d6216c7d225d89f0",
+  "repo_url": "https://github.com/maaassistantarknights/maaassistantarknights",
+  "date": "2026-06-13T07:58:22",
+  "languages": {
+    "C++": 2201380,
+    "C#": 1962064,
+    "Python": 244835,
+    "C": 217134,
+    "CMake": 38143,
+    "Rust": 34856,
+    "Kotlin": 26751,
+    "Go": 18237,
+    "Shell": 16302,
+    "Dart": 14194,
+    "Objective-C++": 9177,
+    "PowerShell": 7579,
+    "Batchfile": 5520,
+    "Java": 4820,
+    "Dockerfile": 2061,
+    "Makefile": 1649
+  },
+  "size": 4804702
+}

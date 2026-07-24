@@ -1,0 +1,14 @@
+{
+  "commit": "1fbc0810fe0f1703f969c8f5d95f7545ed364d4d",
+  "repo_url": "https://github.com/django-oauth/django-oauth-toolkit",
+  "date": "2026-05-26T15:40:09",
+  "languages": {
+    "Python": 751641,
+    "Svelte": 15723,
+    "HTML": 14628,
+    "Dockerfile": 2664,
+    "JavaScript": 431,
+    "TypeScript": 144
+  },
+  "size": 785231
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "1b422b3517b51140e4484faab676c5e68b914866",
+  "repo_url": "https://github.com/anthropics/claude-code-action",
+  "date": "2026-03-17T23:47:59",
+  "languages": {
+    "TypeScript": 642971,
+    "JavaScript": 38797,
+    "Shell": 9589
+  },
+  "size": 691357
+}

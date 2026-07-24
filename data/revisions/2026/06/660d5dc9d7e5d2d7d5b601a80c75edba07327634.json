@@ -1,0 +1,13 @@
+{
+  "commit": "660d5dc9d7e5d2d7d5b601a80c75edba07327634",
+  "repo_url": "https://github.com/sagold/json-schema-library",
+  "date": "2026-06-08T20:09:33",
+  "languages": {
+    "TypeScript": 855164,
+    "HTML": 109337,
+    "JavaScript": 1403,
+    "Shell": 360,
+    "Dockerfile": 133
+  },
+  "size": 966397
+}

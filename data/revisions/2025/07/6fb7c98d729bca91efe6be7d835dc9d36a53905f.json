@@ -1,0 +1,16 @@
+{
+  "commit": "6fb7c98d729bca91efe6be7d835dc9d36a53905f",
+  "repo_url": "https://github.com/weaviate/verba",
+  "date": "2025-07-14T11:22:14",
+  "languages": {
+    "Python": 281869,
+    "TypeScript": 268893,
+    "HTML": 15281,
+    "GLSL": 14564,
+    "JavaScript": 2873,
+    "Dockerfile": 136,
+    "CSS": 97,
+    "Shell": 54
+  },
+  "size": 583767
+}

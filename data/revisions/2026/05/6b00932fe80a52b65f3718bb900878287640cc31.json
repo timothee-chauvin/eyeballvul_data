@@ -1,0 +1,14 @@
+{
+  "commit": "6b00932fe80a52b65f3718bb900878287640cc31",
+  "repo_url": "https://github.com/nolabs-ai/nono",
+  "date": "2026-05-13T08:52:48",
+  "languages": {
+    "Rust": 4038676,
+    "Shell": 281378,
+    "C": 18597,
+    "Makefile": 4150,
+    "Python": 3745,
+    "Dockerfile": 1633
+  },
+  "size": 4348179
+}

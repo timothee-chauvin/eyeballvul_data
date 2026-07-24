@@ -1,0 +1,14 @@
+{
+  "commit": "535e04f5b6914fed6bb342deb58ec1028cb26291",
+  "repo_url": "https://github.com/heyform/heyform",
+  "date": "2026-03-13T08:57:21",
+  "languages": {
+    "TypeScript": 1801578,
+    "SCSS": 97719,
+    "HTML": 11529,
+    "JavaScript": 5838,
+    "Dockerfile": 2195,
+    "CSS": 939
+  },
+  "size": 1919798
+}

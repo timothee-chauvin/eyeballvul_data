@@ -1,0 +1,14 @@
+{
+  "commit": "b6649bb58938a414de9f0505cc0a1dad15f0d0ef",
+  "repo_url": "https://github.com/thehive-project/thehive",
+  "date": "2022-09-13T07:45:38",
+  "languages": {
+    "Scala": 1830056,
+    "JavaScript": 741432,
+    "HTML": 670714,
+    "Shell": 43847,
+    "CSS": 34523,
+    "Dockerfile": 2228
+  },
+  "size": 3322800
+}

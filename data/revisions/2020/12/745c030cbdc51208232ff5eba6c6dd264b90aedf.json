@@ -1,0 +1,15 @@
+{
+  "commit": "745c030cbdc51208232ff5eba6c6dd264b90aedf",
+  "repo_url": "https://github.com/fossasia/open-event-server",
+  "date": "2020-12-04T12:13:51",
+  "languages": {
+    "Python": 1972207,
+    "HTML": 43716,
+    "Shell": 20457,
+    "Dockerfile": 2936,
+    "Mustache": 921,
+    "Mako": 437,
+    "Procfile": 28
+  },
+  "size": 2040702
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "a55a22568e5ee08fec302ae2580a315211f5b4ec",
+  "repo_url": "https://github.com/spring-projects/spring-hateoas",
+  "date": "2023-03-20T11:47:50",
+  "languages": {
+    "Java": 1716649,
+    "Kotlin": 22409,
+    "Shell": 7406,
+    "Dockerfile": 145
+  },
+  "size": 1746609
+}

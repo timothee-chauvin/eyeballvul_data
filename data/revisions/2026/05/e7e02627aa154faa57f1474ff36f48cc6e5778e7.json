@@ -1,0 +1,17 @@
+{
+  "commit": "e7e02627aa154faa57f1474ff36f48cc6e5778e7",
+  "repo_url": "https://github.com/conda/rattler",
+  "date": "2026-05-19T07:51:38",
+  "languages": {
+    "Rust": 4213840,
+    "Python": 472301,
+    "TypeScript": 40995,
+    "CSS": 16097,
+    "HTML": 10406,
+    "Nushell": 6719,
+    "Shell": 4172,
+    "JavaScript": 3023,
+    "Batchfile": 164
+  },
+  "size": 4767717
+}

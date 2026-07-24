@@ -1,0 +1,15 @@
+{
+  "commit": "154bf56899228e5c95fb3176b9c6901bbe4ca97b",
+  "repo_url": "https://github.com/kopia/kopia",
+  "date": "2025-12-02T05:27:24",
+  "languages": {
+    "Go": 4262620,
+    "JavaScript": 42323,
+    "Makefile": 33599,
+    "Shell": 26481,
+    "HTML": 15848,
+    "Dockerfile": 964,
+    "SCSS": 62
+  },
+  "size": 4381897
+}

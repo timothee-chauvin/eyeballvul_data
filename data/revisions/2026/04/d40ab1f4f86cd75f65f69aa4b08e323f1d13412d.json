@@ -1,0 +1,12 @@
+{
+  "commit": "d40ab1f4f86cd75f65f69aa4b08e323f1d13412d",
+  "repo_url": "https://github.com/eclipse-hawkbit/hawkbit",
+  "date": "2026-04-09T07:45:55",
+  "languages": {
+    "Java": 5916992,
+    "Dockerfile": 2190,
+    "Shell": 1968,
+    "CSS": 81
+  },
+  "size": 5921231
+}

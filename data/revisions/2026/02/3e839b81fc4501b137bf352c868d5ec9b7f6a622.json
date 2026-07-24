@@ -1,0 +1,13 @@
+{
+  "commit": "3e839b81fc4501b137bf352c868d5ec9b7f6a622",
+  "repo_url": "https://github.com/knowns-dev/knowns",
+  "date": "2026-02-07T21:35:13",
+  "languages": {
+    "TypeScript": 1262714,
+    "CSS": 16452,
+    "JavaScript": 4755,
+    "Handlebars": 2065,
+    "HTML": 769
+  },
+  "size": 1286755
+}

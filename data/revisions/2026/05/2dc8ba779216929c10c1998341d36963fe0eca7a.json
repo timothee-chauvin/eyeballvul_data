@@ -1,0 +1,14 @@
+{
+  "commit": "2dc8ba779216929c10c1998341d36963fe0eca7a",
+  "repo_url": "https://github.com/wg-easy/wg-easy",
+  "date": "2026-05-18T10:19:51",
+  "languages": {
+    "TypeScript": 162531,
+    "Vue": 102127,
+    "Dockerfile": 2799,
+    "Shell": 2567,
+    "JavaScript": 2106,
+    "CSS": 66
+  },
+  "size": 272196
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "ac6c4fc07511594f41319bd3e549d5a256be01fe",
+  "repo_url": "https://github.com/apache/oozie",
+  "date": "2012-09-07T22:14:29",
+  "languages": {
+    "Java": 4925617,
+    "JavaScript": 77207,
+    "Shell": 34595,
+    "HTML": 3503
+  },
+  "size": 5040922
+}

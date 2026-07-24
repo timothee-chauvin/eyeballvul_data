@@ -1,0 +1,19 @@
+{
+  "commit": "d85bf17171fd0faefbbd54df44bef573991aa7f8",
+  "repo_url": "https://github.com/nextlevelbuilder/goclaw",
+  "date": "2026-06-03T14:42:24",
+  "languages": {
+    "Go": 13501528,
+    "TypeScript": 4229674,
+    "Python": 262377,
+    "HTML": 57538,
+    "Shell": 33693,
+    "PLpgSQL": 27069,
+    "CSS": 19081,
+    "JavaScript": 15736,
+    "Dockerfile": 8018,
+    "Makefile": 5118,
+    "PowerShell": 3321
+  },
+  "size": 18163153
+}

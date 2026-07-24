@@ -1,0 +1,14 @@
+{
+  "commit": "2d80f7cff59fab51ec1b7bfe478e3860af91fc39",
+  "repo_url": "https://github.com/nanomq/nanomq",
+  "date": "2026-01-21T11:59:00",
+  "languages": {
+    "C": 912183,
+    "CMake": 22806,
+    "C++": 14840,
+    "Dockerfile": 654,
+    "Shell": 292,
+    "Makefile": 11
+  },
+  "size": 950786
+}

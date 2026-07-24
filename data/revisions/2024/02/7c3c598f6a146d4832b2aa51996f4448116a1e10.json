@@ -1,0 +1,19 @@
+{
+  "commit": "7c3c598f6a146d4832b2aa51996f4448116a1e10",
+  "repo_url": "https://github.com/jupyter-server/enterprise_gateway",
+  "date": "2024-02-20T05:03:27",
+  "languages": {
+    "Python": 511402,
+    "Shell": 42382,
+    "Jupyter Notebook": 27446,
+    "Makefile": 22904,
+    "Scala": 18997,
+    "Dockerfile": 18486,
+    "HTML": 12741,
+    "R": 10641,
+    "SCSS": 9181,
+    "JavaScript": 7376,
+    "Jinja": 5804
+  },
+  "size": 687360
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "9656123d2f52a591123adcf94b81e806db6a9691",
+  "repo_url": "https://github.com/urwid/urwid",
+  "date": "2026-05-26T06:49:17",
+  "languages": {
+    "Python": 1324901,
+    "JavaScript": 12947,
+    "Dockerfile": 394,
+    "CSS": 359
+  },
+  "size": 1338601
+}
