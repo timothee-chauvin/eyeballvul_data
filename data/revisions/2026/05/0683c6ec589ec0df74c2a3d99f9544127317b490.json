@@ -1,0 +1,14 @@
+{
+  "commit": "0683c6ec589ec0df74c2a3d99f9544127317b490",
+  "repo_url": "https://github.com/nanocoai/nanoclaw",
+  "date": "2026-05-18T16:55:06",
+  "languages": {
+    "TypeScript": 1506259,
+    "Shell": 139819,
+    "Python": 13555,
+    "Dockerfile": 5522,
+    "Swift": 5262,
+    "JavaScript": 984
+  },
+  "size": 1671401
+}

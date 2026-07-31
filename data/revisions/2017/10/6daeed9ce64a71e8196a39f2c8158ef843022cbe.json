@@ -1,0 +1,12 @@
+{
+  "commit": "6daeed9ce64a71e8196a39f2c8158ef843022cbe",
+  "repo_url": "https://github.com/nitroshare/nitroshare-desktop",
+  "date": "2017-10-12T21:50:31",
+  "languages": {
+    "C++": 245724,
+    "CMake": 19590,
+    "C": 3013,
+    "Objective-C++": 1526
+  },
+  "size": 269853
+}

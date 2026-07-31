@@ -1,0 +1,15 @@
+{
+  "commit": "8aecb37cd4607a0696725155a5390a5e43816426",
+  "repo_url": "https://github.com/sct/overseerr",
+  "date": "2026-02-15T16:59:34",
+  "languages": {
+    "TypeScript": 2118693,
+    "Pug": 13360,
+    "CSS": 12033,
+    "JavaScript": 10121,
+    "HTML": 1860,
+    "Dockerfile": 966,
+    "Shell": 234
+  },
+  "size": 2157267
+}

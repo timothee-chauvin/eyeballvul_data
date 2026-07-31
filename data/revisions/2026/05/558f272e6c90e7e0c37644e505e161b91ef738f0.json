@@ -1,0 +1,18 @@
+{
+  "commit": "558f272e6c90e7e0c37644e505e161b91ef738f0",
+  "repo_url": "https://github.com/mf-yang/openclaw-cn",
+  "date": "2026-05-27T03:28:46",
+  "languages": {
+    "TypeScript": 18925623,
+    "Swift": 2667646,
+    "JavaScript": 631221,
+    "Kotlin": 368476,
+    "Shell": 206618,
+    "CSS": 108947,
+    "Python": 58542,
+    "HTML": 25446,
+    "Dockerfile": 5397,
+    "Ruby": 3025
+  },
+  "size": 23000941
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "647bbde232c4ef2980e7ef06dbdd3cda80427031",
+  "repo_url": "https://github.com/logto-io/logto",
+  "date": "2026-02-28T09:13:59",
+  "languages": {
+    "TypeScript": 14866046,
+    "SCSS": 368786,
+    "JavaScript": 39483,
+    "HTML": 15677,
+    "PLpgSQL": 10888,
+    "MDX": 5482,
+    "Shell": 2435,
+    "Dockerfile": 1313,
+    "CSS": 844
+  },
+  "size": 15310954
+}

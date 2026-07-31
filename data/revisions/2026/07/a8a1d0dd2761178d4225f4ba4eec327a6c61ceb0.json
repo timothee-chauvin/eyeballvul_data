@@ -1,0 +1,15 @@
+{
+  "commit": "a8a1d0dd2761178d4225f4ba4eec327a6c61ceb0",
+  "repo_url": "https://github.com/kong/kong-operator",
+  "date": "2026-07-06T13:18:25",
+  "languages": {
+    "Go": 13587526,
+    "Shell": 170656,
+    "Makefile": 49237,
+    "Mustache": 8844,
+    "Dockerfile": 6670,
+    "Smarty": 3817,
+    "Lua": 420
+  },
+  "size": 13827170
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "95d1ae3e197eee3a25d24abb7b079a60b578854d",
+  "repo_url": "https://github.com/gopacket/gopacket",
+  "date": "2026-05-01T23:19:43",
+  "languages": {
+    "Go": 4870214,
+    "Shell": 6811,
+    "Python": 3721,
+    "Lua": 1791
+  },
+  "size": 4882537
+}

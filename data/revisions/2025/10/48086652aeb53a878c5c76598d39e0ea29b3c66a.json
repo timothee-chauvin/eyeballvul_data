@@ -1,0 +1,13 @@
+{
+  "commit": "48086652aeb53a878c5c76598d39e0ea29b3c66a",
+  "repo_url": "https://github.com/hashicorp/consul-mcp-server",
+  "date": "2025-10-01T12:33:11",
+  "languages": {
+    "Go": 489195,
+    "HCL": 4294,
+    "Makefile": 3996,
+    "Shell": 2889,
+    "Dockerfile": 2693
+  },
+  "size": 503067
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "a4dcdcc52cb4b7109b74cf9f7e3530980a6c364d",
+  "repo_url": "https://github.com/pionxzh/wakaru",
+  "date": "2026-06-01T18:39:37",
+  "languages": {
+    "Rust": 2944887,
+    "JavaScript": 273530,
+    "TypeScript": 28592,
+    "Shell": 10480,
+    "HTML": 10406,
+    "CSS": 5360,
+    "PowerShell": 2108
+  },
+  "size": 3275363
+}

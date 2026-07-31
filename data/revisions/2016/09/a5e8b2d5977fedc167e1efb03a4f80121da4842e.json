@@ -1,0 +1,13 @@
+{
+  "commit": "a5e8b2d5977fedc167e1efb03a4f80121da4842e",
+  "repo_url": "https://github.com/sdelements/lets-chat",
+  "date": "2016-09-26T18:35:21",
+  "languages": {
+    "JavaScript": 246186,
+    "HTML": 46602,
+    "Less": 23806,
+    "Dockerfile": 1314,
+    "Procfile": 15
+  },
+  "size": 317923
+}

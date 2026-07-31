@@ -1,0 +1,13 @@
+{
+  "commit": "3b54b7377bd869caccb12951275444b3fd07c436",
+  "repo_url": "https://github.com/kong/kubernetes-ingress-controller",
+  "date": "2026-06-23T08:40:39",
+  "languages": {
+    "Go": 4746872,
+    "Makefile": 30934,
+    "Shell": 15719,
+    "Dockerfile": 3719,
+    "Smarty": 2872
+  },
+  "size": 4800116
+}

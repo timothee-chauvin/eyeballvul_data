@@ -1,0 +1,18 @@
+{
+  "commit": "071e45718581ed2fb282c767f800d1f50b521a66",
+  "repo_url": "https://github.com/apache/axis-axis2-java-core",
+  "date": "2025-03-04T22:43:55",
+  "languages": {
+    "Java": 20024901,
+    "XSLT": 1404827,
+    "HTML": 41423,
+    "GAP": 21127,
+    "Batchfile": 19705,
+    "Shell": 15700,
+    "Python": 2264,
+    "CSS": 1580,
+    "JavaScript": 827,
+    "Dockerfile": 312
+  },
+  "size": 21532666
+}

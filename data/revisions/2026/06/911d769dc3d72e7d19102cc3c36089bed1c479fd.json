@@ -1,0 +1,13 @@
+{
+  "commit": "911d769dc3d72e7d19102cc3c36089bed1c479fd",
+  "repo_url": "https://github.com/eclipse-basyx/basyx-go-components",
+  "date": "2026-06-30T10:07:59",
+  "languages": {
+    "Go": 4940541,
+    "PLpgSQL": 66903,
+    "Python": 26322,
+    "Dockerfile": 18686,
+    "Shell": 6366
+  },
+  "size": 5058818
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "eb635779a4e2f8ba2bfc444b69774528d40f881e",
+  "repo_url": "https://github.com/krayin/laravel-crm",
+  "date": "2026-07-31T11:11:43",
+  "languages": {
+    "PHP": 2387759,
+    "Blade": 2338344,
+    "TypeScript": 69938,
+    "JavaScript": 48042,
+    "CSS": 22850,
+    "Shell": 2390,
+    "Hack": 473
+  },
+  "size": 4869796
+}

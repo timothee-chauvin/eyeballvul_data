@@ -1,0 +1,17 @@
+{
+  "commit": "7cdc21fd3e151483fc4c6d39483216c887e8235b",
+  "repo_url": "https://github.com/h2oai/h2ogpt",
+  "date": "2024-06-04T05:27:07",
+  "languages": {
+    "Python": 3359432,
+    "Jupyter Notebook": 99840,
+    "TeX": 79412,
+    "HTML": 56484,
+    "Shell": 20442,
+    "Groovy": 8052,
+    "Makefile": 2926,
+    "Smarty": 1965,
+    "Dockerfile": 862
+  },
+  "size": 3629415
+}

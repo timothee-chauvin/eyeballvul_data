@@ -1,0 +1,14 @@
+{
+  "commit": "82cd3565c3f685a71aaef5daa8fdd53e71704b37",
+  "repo_url": "https://github.com/bablilayoub/openhole",
+  "date": "2026-06-07T22:47:29",
+  "languages": {
+    "Go": 55108,
+    "TypeScript": 22941,
+    "Shell": 10751,
+    "CSS": 1093,
+    "Dockerfile": 912,
+    "JavaScript": 190
+  },
+  "size": 90995
+}

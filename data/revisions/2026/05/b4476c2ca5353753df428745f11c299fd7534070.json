@@ -1,0 +1,13 @@
+{
+  "commit": "b4476c2ca5353753df428745f11c299fd7534070",
+  "repo_url": "https://github.com/prebid/prebid-server",
+  "date": "2026-05-26T14:48:34",
+  "languages": {
+    "Go": 8223791,
+    "Shell": 3697,
+    "Dockerfile": 2853,
+    "Makefile": 1133,
+    "HTML": 815
+  },
+  "size": 8232289
+}

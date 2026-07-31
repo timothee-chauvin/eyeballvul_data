@@ -1,0 +1,13 @@
+{
+  "commit": "d9dce5477e17796af573e4dd86627f5c27d65a6d",
+  "repo_url": "https://github.com/milkdown/milkdown",
+  "date": "2026-06-02T05:41:47",
+  "languages": {
+    "TypeScript": 1241451,
+    "CSS": 83270,
+    "JavaScript": 7142,
+    "HTML": 5990,
+    "Dockerfile": 768
+  },
+  "size": 1338621
+}

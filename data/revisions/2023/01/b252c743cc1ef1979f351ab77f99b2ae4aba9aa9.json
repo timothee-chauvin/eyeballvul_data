@@ -1,0 +1,14 @@
+{
+  "commit": "b252c743cc1ef1979f351ab77f99b2ae4aba9aa9",
+  "repo_url": "https://github.com/usefathom/fathom",
+  "date": "2023-01-31T20:06:46",
+  "languages": {
+    "Go": 79540,
+    "JavaScript": 48461,
+    "CSS": 23407,
+    "Makefile": 2006,
+    "HTML": 1238,
+    "Dockerfile": 771
+  },
+  "size": 155423
+}

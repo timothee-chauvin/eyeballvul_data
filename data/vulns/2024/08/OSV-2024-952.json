@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2024-952",
+  "published": "2024-08-16T00:13:39.683109",
+  "modified": "2024-08-16T00:13:39.683465",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=42536579\n\n```\nCrash type: Security exception\nCrash state:\norg.bouncycastle.asn1.IndefiniteLengthInputStream.read\norg.bouncycastle.asn1.IndefiniteLengthInputStream.checkForEof\norg.bouncycastle.asn1.IndefiniteLengthInputStream.read\n```\n",
+  "summary": "Security exception in org.bouncycastle.asn1.IndefiniteLengthInputStream.read",
+  "repo_url": "https://github.com/sigstore/sigstore-java",
+  "cwes": [],
+  "commits": [
+    "d2603344a9357cb73142cb65caf5f39ddb428395"
+  ]
+}

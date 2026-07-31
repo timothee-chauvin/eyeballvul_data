@@ -1,0 +1,12 @@
+{
+  "commit": "a8e62cd00118041214b7539f099f0ec3f73031a2",
+  "repo_url": "https://github.com/mirage/mirage-crypto.git",
+  "date": "2026-03-15T22:05:51",
+  "languages": {
+    "C": 8729517,
+    "OCaml": 776826,
+    "Makefile": 3990,
+    "Shell": 820
+  },
+  "size": 9511153
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "50d0d327a1278c8cec9495ba5f6f010dd67ef19c",
+  "repo_url": "https://github.com/flytohub/flyto-core",
+  "date": "2026-05-30T13:01:32",
+  "languages": {
+    "Python": 6933235,
+    "Dockerfile": 1726,
+    "Shell": 305
+  },
+  "size": 6935266
+}

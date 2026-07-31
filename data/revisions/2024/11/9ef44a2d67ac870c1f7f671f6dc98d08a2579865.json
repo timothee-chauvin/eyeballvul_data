@@ -1,0 +1,19 @@
+{
+  "commit": "9ef44a2d67ac870c1f7f671f6dc98d08a2579865",
+  "repo_url": "https://github.com/harfbuzz/harfbuzz",
+  "date": "2024-11-05T06:04:49",
+  "languages": {
+    "C++": 4372733,
+    "C": 962222,
+    "Hack": 785277,
+    "Python": 170863,
+    "Meson": 77375,
+    "CMake": 36117,
+    "Ragel": 35296,
+    "Rust": 15869,
+    "Shell": 6447,
+    "Makefile": 3727,
+    "Roff": 3375
+  },
+  "size": 6469301
+}

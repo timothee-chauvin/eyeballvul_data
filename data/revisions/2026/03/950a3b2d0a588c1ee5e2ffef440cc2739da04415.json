@@ -1,0 +1,14 @@
+{
+  "commit": "950a3b2d0a588c1ee5e2ffef440cc2739da04415",
+  "repo_url": "https://github.com/google/adk-python",
+  "date": "2026-03-17T18:59:20",
+  "languages": {
+    "Python": 9413328,
+    "Jupyter Notebook": 307012,
+    "HTML": 59190,
+    "Shell": 10177,
+    "JavaScript": 1769,
+    "Mako": 704
+  },
+  "size": 9792180
+}

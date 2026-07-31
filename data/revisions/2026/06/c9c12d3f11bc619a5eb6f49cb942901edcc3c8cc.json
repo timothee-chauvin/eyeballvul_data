@@ -1,0 +1,19 @@
+{
+  "commit": "c9c12d3f11bc619a5eb6f49cb942901edcc3c8cc",
+  "repo_url": "https://github.com/superplanehq/superplane",
+  "date": "2026-06-19T13:53:15",
+  "languages": {
+    "Go": 15202054,
+    "TypeScript": 7609047,
+    "PLpgSQL": 79072,
+    "Shell": 67398,
+    "HTML": 37610,
+    "JavaScript": 24753,
+    "CSS": 23498,
+    "Makefile": 12515,
+    "Dockerfile": 8298,
+    "Smarty": 5488,
+    "Ruby": 4435
+  },
+  "size": 23074168
+}

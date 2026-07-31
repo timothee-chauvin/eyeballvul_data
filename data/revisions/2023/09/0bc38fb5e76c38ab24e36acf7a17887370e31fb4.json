@@ -1,0 +1,12 @@
+{
+  "commit": "0bc38fb5e76c38ab24e36acf7a17887370e31fb4",
+  "repo_url": "https://github.com/develar/app-builder",
+  "date": "2023-09-12T09:06:15",
+  "languages": {
+    "Go": 221226,
+    "Shell": 24584,
+    "Makefile": 1653,
+    "JavaScript": 555
+  },
+  "size": 248018
+}

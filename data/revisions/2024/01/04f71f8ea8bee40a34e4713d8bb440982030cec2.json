@@ -1,0 +1,10 @@
+{
+  "commit": "04f71f8ea8bee40a34e4713d8bb440982030cec2",
+  "repo_url": "https://github.com/localstack/serverless-localstack",
+  "date": "2024-01-26T19:05:35",
+  "languages": {
+    "JavaScript": 42503,
+    "Dockerfile": 81
+  },
+  "size": 42584
+}

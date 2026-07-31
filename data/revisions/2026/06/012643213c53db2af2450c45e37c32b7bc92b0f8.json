@@ -1,0 +1,12 @@
+{
+  "commit": "012643213c53db2af2450c45e37c32b7bc92b0f8",
+  "repo_url": "https://github.com/gotd/td",
+  "date": "2026-06-02T19:57:32",
+  "languages": {
+    "Go": 1828152,
+    "Makefile": 1807,
+    "Shell": 643,
+    "Dockerfile": 89
+  },
+  "size": 1830691
+}

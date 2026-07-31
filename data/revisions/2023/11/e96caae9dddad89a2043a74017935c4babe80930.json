@@ -1,0 +1,16 @@
+{
+  "commit": "e96caae9dddad89a2043a74017935c4babe80930",
+  "repo_url": "https://github.com/reworkd/agentgpt",
+  "date": "2023-11-01T23:18:11",
+  "languages": {
+    "TypeScript": 267119,
+    "Python": 150572,
+    "JavaScript": 24765,
+    "MDX": 22221,
+    "CSS": 4130,
+    "Shell": 1910,
+    "Dockerfile": 1619,
+    "Batchfile": 131
+  },
+  "size": 472467
+}

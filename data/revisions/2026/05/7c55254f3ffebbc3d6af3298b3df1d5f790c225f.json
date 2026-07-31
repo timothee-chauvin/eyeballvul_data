@@ -1,0 +1,15 @@
+{
+  "commit": "7c55254f3ffebbc3d6af3298b3df1d5f790c225f",
+  "repo_url": "https://github.com/med-united/epa4all",
+  "date": "2026-05-18T09:21:19",
+  "languages": {
+    "Java": 1499075,
+    "JavaScript": 490745,
+    "HTML": 49045,
+    "Shell": 19457,
+    "Dockerfile": 3784,
+    "Python": 2198,
+    "CSS": 1345
+  },
+  "size": 2065649
+}

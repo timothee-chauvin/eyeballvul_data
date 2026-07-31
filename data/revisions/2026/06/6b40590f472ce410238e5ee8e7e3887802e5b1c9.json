@@ -1,0 +1,16 @@
+{
+  "commit": "6b40590f472ce410238e5ee8e7e3887802e5b1c9",
+  "repo_url": "https://github.com/cert-polska/mwdb-core",
+  "date": "2026-06-02T14:45:33",
+  "languages": {
+    "Python": 798752,
+    "TypeScript": 782169,
+    "JavaScript": 12095,
+    "CSS": 8733,
+    "Shell": 2361,
+    "Dockerfile": 2081,
+    "HTML": 525,
+    "Mako": 494
+  },
+  "size": 1607210
+}
