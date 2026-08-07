@@ -1,0 +1,14 @@
+{
+  "commit": "6051d12385227139111def61d311cd9e6788f4ca",
+  "repo_url": "https://github.com/paddlepaddle/fastdeploy",
+  "date": "2026-03-31T06:35:26",
+  "languages": {
+    "Python": 7939024,
+    "C++": 3663118,
+    "Cuda": 3165042,
+    "Shell": 110266,
+    "C": 18003,
+    "CMake": 14348
+  },
+  "size": 14909801
+}

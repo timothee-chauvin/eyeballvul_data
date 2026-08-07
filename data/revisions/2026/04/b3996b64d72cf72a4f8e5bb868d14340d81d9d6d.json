@@ -1,0 +1,16 @@
+{
+  "commit": "b3996b64d72cf72a4f8e5bb868d14340d81d9d6d",
+  "repo_url": "https://github.com/lingdojo/kana-dojo",
+  "date": "2026-04-21T09:49:20",
+  "languages": {
+    "TypeScript": 3798951,
+    "MDX": 978286,
+    "HTML": 151168,
+    "JavaScript": 107063,
+    "Shell": 9143,
+    "CSS": 8963,
+    "Dockerfile": 932,
+    "PowerShell": 866
+  },
+  "size": 5055372
+}

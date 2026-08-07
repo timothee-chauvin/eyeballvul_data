@@ -1,0 +1,19 @@
+{
+  "commit": "859512c84f270cdde1e59bd21cfa1357cf71d1f0",
+  "repo_url": "https://github.com/forceinjection/ai-fundamentals",
+  "date": "2026-01-07T12:19:52",
+  "languages": {
+    "HTML": 879992,
+    "Shell": 768808,
+    "C": 693516,
+    "Python": 647347,
+    "Jupyter Notebook": 90229,
+    "JavaScript": 46113,
+    "Makefile": 32636,
+    "Go": 9196,
+    "Dockerfile": 8316,
+    "Cuda": 2560,
+    "Cypher": 2208
+  },
+  "size": 3180921
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "b5f4d8b3ec75c63bf85526b6ff3789b6de0d54a1",
+  "repo_url": "https://github.com/swift-otel/swift-otel",
+  "date": "2026-01-19T10:53:37",
+  "languages": {
+    "Swift": 1106941,
+    "Shell": 21118,
+    "Makefile": 6675
+  },
+  "size": 1134734
+}

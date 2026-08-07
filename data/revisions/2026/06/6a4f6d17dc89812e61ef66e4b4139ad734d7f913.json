@@ -1,0 +1,15 @@
+{
+  "commit": "6a4f6d17dc89812e61ef66e4b4139ad734d7f913",
+  "repo_url": "https://github.com/sylius/mollieplugin",
+  "date": "2026-06-30T18:20:14",
+  "languages": {
+    "PHP": 1255852,
+    "Twig": 68543,
+    "JavaScript": 62423,
+    "Gherkin": 15202,
+    "SCSS": 13887,
+    "Dockerfile": 3107,
+    "Shell": 1238
+  },
+  "size": 1420252
+}

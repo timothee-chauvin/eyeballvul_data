@@ -1,0 +1,10 @@
+{
+  "commit": "7e397f75f3beca8aaa51695ecd63d8d99b66a10d",
+  "repo_url": "https://github.com/argoproj/argo-helm",
+  "date": "2024-11-21T08:27:05",
+  "languages": {
+    "Mustache": 36550,
+    "Shell": 1920
+  },
+  "size": 38470
+}

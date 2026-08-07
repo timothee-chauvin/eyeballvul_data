@@ -1,0 +1,15 @@
+{
+  "commit": "587fad1bf9449598d1b27833f8c7db55d164741a",
+  "repo_url": "https://github.com/cosmicstack-labs/mercury-agent",
+  "date": "2026-06-01T12:34:16",
+  "languages": {
+    "TypeScript": 1839923,
+    "MDX": 173835,
+    "CSS": 41846,
+    "JavaScript": 21533,
+    "Shell": 9646,
+    "PowerShell": 5647,
+    "HTML": 749
+  },
+  "size": 2093179
+}

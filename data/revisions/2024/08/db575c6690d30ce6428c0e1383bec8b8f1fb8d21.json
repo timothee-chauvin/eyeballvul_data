@@ -1,0 +1,22 @@
+{
+  "commit": "db575c6690d30ce6428c0e1383bec8b8f1fb8d21",
+  "repo_url": "https://github.com/rawtherapee/rawtherapee",
+  "date": "2024-08-24T18:33:56",
+  "languages": {
+    "C++": 15752014,
+    "C": 662140,
+    "CSS": 195562,
+    "JavaScript": 190405,
+    "HTML": 186735,
+    "CMake": 73539,
+    "Shell": 62962,
+    "Python": 20891,
+    "C#": 14144,
+    "M4": 7799,
+    "QMake": 6245,
+    "Makefile": 5362,
+    "Batchfile": 2333,
+    "Perl": 1289
+  },
+  "size": 17181420
+}

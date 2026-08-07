@@ -1,0 +1,12 @@
+{
+  "commit": "3e053e2a2c83293db7167f336940fec51f32fed7",
+  "repo_url": "https://github.com/open-iscsi/open-isns",
+  "date": "2024-11-05T21:13:24",
+  "languages": {
+    "C": 673159,
+    "Python": 62483,
+    "Shell": 12170,
+    "Meson": 5870
+  },
+  "size": 753682
+}

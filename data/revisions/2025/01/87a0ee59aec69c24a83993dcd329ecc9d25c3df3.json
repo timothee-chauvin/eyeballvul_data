@@ -1,0 +1,14 @@
+{
+  "commit": "87a0ee59aec69c24a83993dcd329ecc9d25c3df3",
+  "repo_url": "https://github.com/nuxt/nuxt",
+  "date": "2025-01-15T15:16:32",
+  "languages": {
+    "TypeScript": 1365284,
+    "HTML": 42973,
+    "JavaScript": 13545,
+    "Vue": 8979,
+    "Shell": 2611,
+    "Dockerfile": 468
+  },
+  "size": 1433860
+}

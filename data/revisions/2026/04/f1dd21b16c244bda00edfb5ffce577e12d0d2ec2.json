@@ -1,0 +1,32 @@
+{
+  "commit": "f1dd21b16c244bda00edfb5ffce577e12d0d2ec2",
+  "repo_url": "https://github.com/envoyproxy/envoy",
+  "date": "2026-04-23T23:14:39",
+  "languages": {
+    "C++": 64381390,
+    "Starlark": 3474727,
+    "Java": 1408881,
+    "Rust": 1168552,
+    "Python": 559311,
+    "C": 462096,
+    "Go": 454945,
+    "NASL": 327095,
+    "Shell": 319740,
+    "Kotlin": 314460,
+    "Swift": 249545,
+    "Objective-C++": 70521,
+    "JavaScript": 66339,
+    "Objective-C": 50992,
+    "Jinja": 43088,
+    "jq": 15382,
+    "HTML": 6409,
+    "CSS": 2927,
+    "Dockerfile": 1351,
+    "Emacs Lisp": 966,
+    "Thrift": 748,
+    "PureBasic": 472,
+    "Batchfile": 439,
+    "Makefile": 303
+  },
+  "size": 73380679
+}

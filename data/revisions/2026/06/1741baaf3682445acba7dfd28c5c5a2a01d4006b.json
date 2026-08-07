@@ -1,0 +1,13 @@
+{
+  "commit": "1741baaf3682445acba7dfd28c5c5a2a01d4006b",
+  "repo_url": "https://github.com/opencost/opencost",
+  "date": "2026-06-25T14:26:21",
+  "languages": {
+    "Go": 5503146,
+    "Just": 3763,
+    "Starlark": 1493,
+    "Shell": 559,
+    "Makefile": 557
+  },
+  "size": 5509518
+}

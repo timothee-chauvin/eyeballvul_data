@@ -1,0 +1,14 @@
+{
+  "commit": "5f184f2435aad502a1f8f02f96c0dee7cc546651",
+  "repo_url": "https://github.com/netbox-community/netbox",
+  "date": "2023-05-05T16:50:30",
+  "languages": {
+    "Python": 4174850,
+    "HTML": 577346,
+    "TypeScript": 136185,
+    "SCSS": 65185,
+    "Shell": 7567,
+    "JavaScript": 6625
+  },
+  "size": 4967758
+}

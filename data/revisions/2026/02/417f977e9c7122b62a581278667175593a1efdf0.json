@@ -1,0 +1,11 @@
+{
+  "commit": "417f977e9c7122b62a581278667175593a1efdf0",
+  "repo_url": "https://github.com/pmqs/compress-raw-zlib",
+  "date": "2026-02-23T15:20:40",
+  "languages": {
+    "C": 1051273,
+    "Perl": 228885,
+    "XS": 63956
+  },
+  "size": 1344114
+}

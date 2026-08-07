@@ -1,0 +1,12 @@
+{
+  "commit": "613ef9010aa5eb350b403a1067bd3f452bb1fe7e",
+  "repo_url": "https://github.com/home-assistant/supervisor",
+  "date": "2023-03-03T10:14:14",
+  "languages": {
+    "Python": 1574610,
+    "Dockerfile": 1176,
+    "Shell": 1148,
+    "JavaScript": 405
+  },
+  "size": 1577339
+}

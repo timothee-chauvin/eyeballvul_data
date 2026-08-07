@@ -1,0 +1,10 @@
+{
+  "commit": "47bea7950a684edc37388e7501d49a1c893299fd",
+  "repo_url": "https://github.com/denoland/deno_doc",
+  "date": "2024-03-27T22:08:49",
+  "languages": {
+    "JavaScript": 21243,
+    "TypeScript": 8039
+  },
+  "size": 29282
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "1c19d26bfeb0d8c2e71edf3036857bde983a065a",
+  "repo_url": "https://github.com/sorlen008/desktopcommandermcp",
+  "date": "2026-02-20T18:16:06",
+  "languages": {
+    "TypeScript": 642262,
+    "JavaScript": 487200,
+    "PowerShell": 34529,
+    "Shell": 23390,
+    "CSS": 16292,
+    "Dockerfile": 634,
+    "HTML": 507
+  },
+  "size": 1204814
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "b8baa8446686496da4cc8fda09f2b6fe65c2a02c",
+  "repo_url": "https://github.com/onnx/onnx",
+  "date": "2024-09-30T22:42:05",
+  "languages": {
+    "Python": 3120130,
+    "C++": 2553807,
+    "CMake": 37636,
+    "Shell": 2174,
+    "C": 2062,
+    "PowerShell": 1265,
+    "Batchfile": 511
+  },
+  "size": 5717585
+}

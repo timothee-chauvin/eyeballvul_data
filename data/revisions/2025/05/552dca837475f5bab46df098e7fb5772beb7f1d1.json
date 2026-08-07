@@ -1,0 +1,12 @@
+{
+  "commit": "552dca837475f5bab46df098e7fb5772beb7f1d1",
+  "repo_url": "https://github.com/thumbor/thumbor",
+  "date": "2025-05-15T16:26:59",
+  "languages": {
+    "Python": 739340,
+    "C": 59026,
+    "Makefile": 11589,
+    "Dockerfile": 1349
+  },
+  "size": 811304
+}

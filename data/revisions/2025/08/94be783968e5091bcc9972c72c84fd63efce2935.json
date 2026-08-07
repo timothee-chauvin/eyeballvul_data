@@ -1,0 +1,11 @@
+{
+  "commit": "94be783968e5091bcc9972c72c84fd63efce2935",
+  "repo_url": "https://github.com/aprilrobotics/apriltag",
+  "date": "2025-08-29T18:21:22",
+  "languages": {
+    "C": 4716583,
+    "CMake": 21201,
+    "C++": 8353
+  },
+  "size": 4746137
+}

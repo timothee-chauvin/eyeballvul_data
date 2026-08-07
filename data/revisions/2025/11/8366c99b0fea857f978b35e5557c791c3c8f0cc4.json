@@ -1,0 +1,16 @@
+{
+  "commit": "8366c99b0fea857f978b35e5557c791c3c8f0cc4",
+  "repo_url": "https://github.com/termix-ssh/termix",
+  "date": "2025-11-17T15:46:05",
+  "languages": {
+    "TypeScript": 2267352,
+    "JavaScript": 21575,
+    "Shell": 9278,
+    "CSS": 6992,
+    "Dockerfile": 2151,
+    "PowerShell": 1690,
+    "HTML": 1005,
+    "Ruby": 734
+  },
+  "size": 2310777
+}

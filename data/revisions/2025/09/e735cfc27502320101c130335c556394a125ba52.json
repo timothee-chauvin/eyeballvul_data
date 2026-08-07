@@ -1,0 +1,11 @@
+{
+  "commit": "e735cfc27502320101c130335c556394a125ba52",
+  "repo_url": "https://github.com/pyca/cryptography",
+  "date": "2025-09-16T23:54:40",
+  "languages": {
+    "Python": 2333610,
+    "Rust": 910554,
+    "Shell": 1558
+  },
+  "size": 3245722
+}

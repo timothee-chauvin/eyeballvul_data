@@ -1,0 +1,19 @@
+{
+  "commit": "d050bf35a2f186e45b0a4037c0a1d0727c69e7e6",
+  "repo_url": "https://github.com/onnx/onnx-mlir",
+  "date": "2025-05-12T21:02:16",
+  "languages": {
+    "C++": 5444209,
+    "MLIR": 4742481,
+    "Python": 631004,
+    "C": 147621,
+    "CMake": 143100,
+    "NASL": 64885,
+    "Java": 38342,
+    "HTML": 12279,
+    "Shell": 6439,
+    "Batchfile": 2175,
+    "SourcePawn": 1772
+  },
+  "size": 11234307
+}

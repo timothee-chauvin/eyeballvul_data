@@ -1,0 +1,14 @@
+{
+  "commit": "2772039f86111cb75ff82e0b5e30d4a4415f9b1d",
+  "repo_url": "https://github.com/aosc-dev/oma",
+  "date": "2026-03-30T08:56:59",
+  "languages": {
+    "Rust": 854779,
+    "Fluent": 92907,
+    "Shell": 8058,
+    "Python": 2827,
+    "Racket": 900,
+    "Just": 472
+  },
+  "size": 959943
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "5b975275f527c621520622df747ab8efc2a61ddd",
+  "repo_url": "https://github.com/metacubex/mihomo",
+  "date": "2025-06-25T08:20:37",
+  "languages": {
+    "Go": 2111835,
+    "Makefile": 4343,
+    "Nix": 1463,
+    "Dockerfile": 1153,
+    "Shell": 1057
+  },
+  "size": 2119851
+}

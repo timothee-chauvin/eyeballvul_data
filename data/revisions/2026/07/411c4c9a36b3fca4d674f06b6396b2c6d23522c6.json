@@ -1,0 +1,24 @@
+{
+  "commit": "411c4c9a36b3fca4d674f06b6396b2c6d23522c6",
+  "repo_url": "https://github.com/github/codeql-action",
+  "date": "2026-07-02T11:09:38",
+  "languages": {
+    "TypeScript": 1412814,
+    "CodeQL": 16869,
+    "JavaScript": 13270,
+    "Shell": 1449,
+    "Swift": 847,
+    "PowerShell": 811,
+    "Just": 649,
+    "Java": 292,
+    "Smarty": 280,
+    "C": 222,
+    "C#": 209,
+    "Ruby": 187,
+    "Python": 116,
+    "Go": 87,
+    "Kotlin": 70,
+    "Rust": 60
+  },
+  "size": 1448232
+}

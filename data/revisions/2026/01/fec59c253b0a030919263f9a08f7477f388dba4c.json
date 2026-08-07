@@ -1,0 +1,17 @@
+{
+  "commit": "fec59c253b0a030919263f9a08f7477f388dba4c",
+  "repo_url": "https://github.com/danielmiessler/lifeos",
+  "date": "2026-01-16T06:20:39",
+  "languages": {
+    "TypeScript": 2752894,
+    "Vue": 407266,
+    "Shell": 220647,
+    "CSS": 84367,
+    "Handlebars": 57658,
+    "Swift": 22758,
+    "JavaScript": 13456,
+    "Python": 7500,
+    "HTML": 1077
+  },
+  "size": 3567623
+}

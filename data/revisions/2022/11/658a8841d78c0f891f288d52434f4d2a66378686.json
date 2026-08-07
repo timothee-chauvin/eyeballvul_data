@@ -1,0 +1,11 @@
+{
+  "commit": "658a8841d78c0f891f288d52434f4d2a66378686",
+  "repo_url": "https://github.com/boringproxy/boringproxy",
+  "date": "2022-11-11T19:12:40",
+  "languages": {
+    "Go": 79530,
+    "Shell": 9539,
+    "Dockerfile": 1131
+  },
+  "size": 90200
+}

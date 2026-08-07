@@ -1,0 +1,15 @@
+{
+  "commit": "84fbccbfd9c2fbf5b524071c4c4f02066b2e4373",
+  "repo_url": "https://github.com/clash-verge-rev/clash-verge-rev",
+  "date": "2025-04-09T05:37:17",
+  "languages": {
+    "TypeScript": 725571,
+    "Rust": 432003,
+    "JavaScript": 52285,
+    "NSIS": 34049,
+    "SCSS": 5254,
+    "Shell": 2981,
+    "HTML": 401
+  },
+  "size": 1252544
+}

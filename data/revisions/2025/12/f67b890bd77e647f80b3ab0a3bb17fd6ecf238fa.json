@@ -1,0 +1,14 @@
+{
+  "commit": "f67b890bd77e647f80b3ab0a3bb17fd6ecf238fa",
+  "repo_url": "https://github.com/dask/distributed",
+  "date": "2025-12-12T14:53:59",
+  "languages": {
+    "Python": 4440078,
+    "HTML": 18631,
+    "Jinja": 17095,
+    "JavaScript": 9337,
+    "CSS": 4362,
+    "Shell": 604
+  },
+  "size": 4490107
+}

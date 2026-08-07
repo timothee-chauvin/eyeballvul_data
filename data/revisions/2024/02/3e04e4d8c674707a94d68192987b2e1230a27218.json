@@ -1,0 +1,16 @@
+{
+  "commit": "3e04e4d8c674707a94d68192987b2e1230a27218",
+  "repo_url": "https://github.com/ylianst/meshcentral",
+  "date": "2024-02-18T02:08:48",
+  "languages": {
+    "HTML": 8637609,
+    "JavaScript": 7824686,
+    "Handlebars": 2531613,
+    "CSS": 104626,
+    "Shell": 15309,
+    "Dockerfile": 3927,
+    "Batchfile": 2124,
+    "Makefile": 1331
+  },
+  "size": 19121225
+}

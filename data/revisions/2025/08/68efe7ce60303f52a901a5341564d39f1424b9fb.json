@@ -1,0 +1,17 @@
+{
+  "commit": "68efe7ce60303f52a901a5341564d39f1424b9fb",
+  "repo_url": "https://github.com/phpvms/phpvms",
+  "date": "2025-08-13T15:37:55",
+  "languages": {
+    "PHP": 2057478,
+    "Blade": 786086,
+    "SCSS": 258966,
+    "JavaScript": 58595,
+    "CSS": 3608,
+    "Makefile": 2759,
+    "Dockerfile": 1341,
+    "Procfile": 246,
+    "Shell": 39
+  },
+  "size": 3169118
+}

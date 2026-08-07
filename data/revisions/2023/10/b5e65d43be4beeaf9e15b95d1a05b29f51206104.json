@@ -1,0 +1,21 @@
+{
+  "commit": "b5e65d43be4beeaf9e15b95d1a05b29f51206104",
+  "repo_url": "https://gitlab.com/flightgear/flightgear",
+  "date": "2023-10-02T09:37:49",
+  "languages": {
+    "C++": 16285427,
+    "C": 458587,
+    "QML": 384082,
+    "Perl": 168816,
+    "Python": 156934,
+    "CMake": 148258,
+    "Objective-C": 126639,
+    "HTML": 86202,
+    "Shell": 44318,
+    "Objective-C++": 27487,
+    "Java": 16023,
+    "Vim Script": 7906,
+    "QMake": 1293
+  },
+  "size": 17911972
+}

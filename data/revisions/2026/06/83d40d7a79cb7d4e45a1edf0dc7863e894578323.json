@@ -1,0 +1,20 @@
+{
+  "commit": "83d40d7a79cb7d4e45a1edf0dc7863e894578323",
+  "repo_url": "https://github.com/svarshavchik/courier-libs",
+  "date": "2026-06-22T01:29:26",
+  "languages": {
+    "C": 5327206,
+    "C++": 367950,
+    "HTML": 230641,
+    "M4": 117809,
+    "Makefile": 96674,
+    "Shell": 66712,
+    "Perl": 34093,
+    "CSS": 16562,
+    "Raku": 15878,
+    "Scilab": 7722,
+    "XSLT": 4038,
+    "JavaScript": 95
+  },
+  "size": 6285380
+}

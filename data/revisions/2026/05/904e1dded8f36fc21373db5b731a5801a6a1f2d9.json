@@ -1,0 +1,11 @@
+{
+  "commit": "904e1dded8f36fc21373db5b731a5801a6a1f2d9",
+  "repo_url": "https://github.com/pdm-project/pdm",
+  "date": "2026-05-10T07:51:02",
+  "languages": {
+    "Python": 1302297,
+    "Shell": 126795,
+    "PowerShell": 32865
+  },
+  "size": 1461957
+}

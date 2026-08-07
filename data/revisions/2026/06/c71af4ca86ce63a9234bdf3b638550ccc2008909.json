@@ -1,0 +1,17 @@
+{
+  "commit": "c71af4ca86ce63a9234bdf3b638550ccc2008909",
+  "repo_url": "https://github.com/netease-youdao/lobsterai",
+  "date": "2026-06-10T13:39:41",
+  "languages": {
+    "TypeScript": 6812515,
+    "JavaScript": 620430,
+    "Python": 454669,
+    "Shell": 73752,
+    "HTML": 55331,
+    "CSS": 34939,
+    "PowerShell": 25277,
+    "NSIS": 14671,
+    "Batchfile": 12163
+  },
+  "size": 8103747
+}

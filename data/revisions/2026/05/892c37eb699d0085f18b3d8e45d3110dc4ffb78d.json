@@ -1,0 +1,12 @@
+{
+  "commit": "892c37eb699d0085f18b3d8e45d3110dc4ffb78d",
+  "repo_url": "https://github.com/bank-vaults/vault-secrets-webhook",
+  "date": "2026-05-25T18:56:09",
+  "languages": {
+    "Go": 184148,
+    "Makefile": 5445,
+    "Smarty": 4297,
+    "Dockerfile": 977
+  },
+  "size": 194867
+}

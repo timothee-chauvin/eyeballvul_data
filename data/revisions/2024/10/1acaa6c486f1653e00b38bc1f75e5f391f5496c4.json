@@ -1,0 +1,18 @@
+{
+  "commit": "1acaa6c486f1653e00b38bc1f75e5f391f5496c4",
+  "repo_url": "https://github.com/invoke-ai/invokeai",
+  "date": "2024-10-24T20:50:58",
+  "languages": {
+    "TypeScript": 3734948,
+    "Python": 3065815,
+    "Shell": 14247,
+    "JavaScript": 4032,
+    "Dockerfile": 3836,
+    "Jupyter Notebook": 3143,
+    "Makefile": 2925,
+    "Nix": 2792,
+    "CSS": 2613,
+    "HTML": 657
+  },
+  "size": 6835008
+}

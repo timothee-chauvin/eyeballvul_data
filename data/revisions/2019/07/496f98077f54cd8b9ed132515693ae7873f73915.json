@@ -1,0 +1,26 @@
+{
+  "commit": "496f98077f54cd8b9ed132515693ae7873f73915",
+  "repo_url": "https://github.com/bigbluebutton/bigbluebutton",
+  "date": "2019-07-12T22:33:16",
+  "languages": {
+    "Java": 5561974,
+    "JavaScript": 4870326,
+    "ActionScript": 2770848,
+    "Scala": 1164905,
+    "CSS": 503611,
+    "Ruby": 296323,
+    "Groovy": 229511,
+    "HTML": 179200,
+    "SCSS": 165631,
+    "Shell": 162605,
+    "Python": 15010,
+    "Dockerfile": 11794,
+    "Batchfile": 5662,
+    "Makefile": 2985,
+    "Smarty": 1787,
+    "Gherkin": 925,
+    "VBScript": 598,
+    "PostScript": 36
+  },
+  "size": 15943731
+}

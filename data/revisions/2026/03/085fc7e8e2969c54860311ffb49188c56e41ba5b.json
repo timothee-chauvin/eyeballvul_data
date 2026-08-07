@@ -1,0 +1,11 @@
+{
+  "commit": "085fc7e8e2969c54860311ffb49188c56e41ba5b",
+  "repo_url": "https://github.com/ufirstgroup/ymlr",
+  "date": "2026-03-15T07:31:19",
+  "languages": {
+    "Elixir": 60626,
+    "Nix": 1827,
+    "Shell": 962
+  },
+  "size": 63415
+}

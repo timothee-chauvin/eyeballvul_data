@@ -1,0 +1,11 @@
+{
+  "commit": "49784e0b293080f750dfbfdc19f50af4bafda0a0",
+  "repo_url": "https://github.com/missionsquad/mcp-api",
+  "date": "2026-05-20T15:42:26",
+  "languages": {
+    "TypeScript": 376005,
+    "JavaScript": 4446,
+    "Dockerfile": 2071
+  },
+  "size": 382522
+}

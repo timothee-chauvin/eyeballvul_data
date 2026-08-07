@@ -1,0 +1,13 @@
+{
+  "commit": "1e820e77f0d6ed9dd97a8a55cae38a2148a1f4f9",
+  "repo_url": "https://github.com/jovancoding/network-ai",
+  "date": "2026-06-26T19:55:15",
+  "languages": {
+    "TypeScript": 2576275,
+    "HTML": 169029,
+    "Python": 146322,
+    "JavaScript": 122661,
+    "Dockerfile": 1109
+  },
+  "size": 3015396
+}

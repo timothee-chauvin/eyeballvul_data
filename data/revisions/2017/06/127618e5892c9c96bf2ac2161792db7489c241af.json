@@ -1,0 +1,16 @@
+{
+  "commit": "127618e5892c9c96bf2ac2161792db7489c241af",
+  "repo_url": "https://github.com/piwigo/piwigo",
+  "date": "2017-06-15T11:44:28",
+  "languages": {
+    "PHP": 10364686,
+    "HTML": 1358155,
+    "JavaScript": 610172,
+    "Smarty": 457518,
+    "CSS": 332237,
+    "Yacc": 45248,
+    "Perl": 25901,
+    "Shell": 3461
+  },
+  "size": 13197378
+}

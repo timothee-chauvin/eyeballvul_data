@@ -1,0 +1,14 @@
+{
+  "commit": "f90ffc2047ee49a380ada98a59fcc2985bd6a943",
+  "repo_url": "https://github.com/fledge-iot/fledge",
+  "date": "2025-07-15T08:15:05",
+  "languages": {
+    "Python": 4416606,
+    "C++": 4078716,
+    "Shell": 389158,
+    "CMake": 137753,
+    "Makefile": 25828,
+    "C": 5466
+  },
+  "size": 9053527
+}

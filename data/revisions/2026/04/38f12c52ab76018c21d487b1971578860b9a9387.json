@@ -1,0 +1,14 @@
+{
+  "commit": "38f12c52ab76018c21d487b1971578860b9a9387",
+  "repo_url": "https://github.com/woostify/woostify",
+  "date": "2026-04-08T07:48:04",
+  "languages": {
+    "PHP": 984380,
+    "JavaScript": 731658,
+    "CSS": 393845,
+    "SCSS": 252039,
+    "Less": 5937,
+    "Ruby": 161
+  },
+  "size": 2368020
+}

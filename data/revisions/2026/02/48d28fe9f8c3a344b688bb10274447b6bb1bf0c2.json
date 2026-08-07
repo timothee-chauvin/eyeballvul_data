@@ -1,0 +1,11 @@
+{
+  "commit": "48d28fe9f8c3a344b688bb10274447b6bb1bf0c2",
+  "repo_url": "https://github.com/dloebl/cgif",
+  "date": "2026-02-22T10:50:51",
+  "languages": {
+    "C": 172172,
+    "Meson": 7972,
+    "Python": 1429
+  },
+  "size": 181573
+}

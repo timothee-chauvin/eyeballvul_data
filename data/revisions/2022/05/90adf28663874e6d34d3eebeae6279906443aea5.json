@@ -1,0 +1,14 @@
+{
+  "commit": "90adf28663874e6d34d3eebeae6279906443aea5",
+  "repo_url": "https://github.com/tinyproxy/tinyproxy",
+  "date": "2022-05-27T14:08:03",
+  "languages": {
+    "C": 323260,
+    "Perl": 14135,
+    "M4": 9892,
+    "Shell": 9750,
+    "Makefile": 3543,
+    "HTML": 3468
+  },
+  "size": 364048
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "f927db87cf42b1a39cb233764eb3f9abbf9d414b",
+  "repo_url": "https://github.com/pion/stun",
+  "date": "2026-04-01T18:21:02",
+  "languages": {
+    "Go": 255660,
+    "Shell": 2760,
+    "Makefile": 1015,
+    "Dockerfile": 750
+  },
+  "size": 260185
+}

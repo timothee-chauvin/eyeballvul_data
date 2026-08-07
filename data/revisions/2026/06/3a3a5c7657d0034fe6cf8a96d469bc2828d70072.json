@@ -1,0 +1,27 @@
+{
+  "commit": "3a3a5c7657d0034fe6cf8a96d469bc2828d70072",
+  "repo_url": "https://github.com/dromara/maxkey",
+  "date": "2026-06-30T02:37:28",
+  "languages": {
+    "Java": 5181163,
+    "TypeScript": 1422732,
+    "Less": 747829,
+    "SCSS": 89784,
+    "Dart": 75048,
+    "JavaScript": 54661,
+    "Vue": 35960,
+    "C++": 19006,
+    "FreeMarker": 17796,
+    "CSS": 16845,
+    "CMake": 10445,
+    "Batchfile": 9953,
+    "Shell": 9791,
+    "Dockerfile": 2492,
+    "C": 734,
+    "Swift": 689,
+    "MDX": 439,
+    "Kotlin": 134,
+    "Objective-C": 38
+  },
+  "size": 7695539
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "9a2c88fe646bac05b39dbe53e3e0ce95cafee016",
+  "repo_url": "https://github.com/jupyter/notebook",
+  "date": "2026-03-11T16:31:32",
+  "languages": {
+    "Jupyter Notebook": 774643,
+    "TypeScript": 187292,
+    "Python": 23016,
+    "JavaScript": 20998,
+    "CSS": 17613,
+    "HTML": 8408,
+    "Dockerfile": 461,
+    "Shell": 83
+  },
+  "size": 1032514
+}

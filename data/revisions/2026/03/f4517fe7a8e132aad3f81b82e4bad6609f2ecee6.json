@@ -1,0 +1,11 @@
+{
+  "commit": "f4517fe7a8e132aad3f81b82e4bad6609f2ecee6",
+  "repo_url": "https://github.com/mossdef-org/luci-app-https-dns-proxy",
+  "date": "2026-03-16T21:15:18",
+  "languages": {
+    "JavaScript": 33767,
+    "Shell": 20846,
+    "Makefile": 1914
+  },
+  "size": 56527
+}

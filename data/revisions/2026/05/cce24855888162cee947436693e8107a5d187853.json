@@ -1,0 +1,11 @@
+{
+  "commit": "cce24855888162cee947436693e8107a5d187853",
+  "repo_url": "https://github.com/msgpack/msgpack-ruby",
+  "date": "2026-05-28T06:52:39",
+  "languages": {
+    "Ruby": 182582,
+    "C": 176580,
+    "Java": 69851
+  },
+  "size": 429013
+}

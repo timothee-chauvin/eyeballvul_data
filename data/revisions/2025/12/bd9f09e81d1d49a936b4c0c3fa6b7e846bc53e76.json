@@ -1,0 +1,13 @@
+{
+  "commit": "bd9f09e81d1d49a936b4c0c3fa6b7e846bc53e76",
+  "repo_url": "https://github.com/prestashop/ps_facetedsearch",
+  "date": "2025-12-31T13:27:28",
+  "languages": {
+    "PHP": 585564,
+    "Smarty": 86954,
+    "JavaScript": 61758,
+    "SCSS": 5909,
+    "Shell": 1117
+  },
+  "size": 741302
+}

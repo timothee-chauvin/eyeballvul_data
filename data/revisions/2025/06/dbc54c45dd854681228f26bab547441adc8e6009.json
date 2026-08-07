@@ -1,0 +1,17 @@
+{
+  "commit": "dbc54c45dd854681228f26bab547441adc8e6009",
+  "repo_url": "https://github.com/dbgate/dbgate",
+  "date": "2025-06-13T14:34:50",
+  "languages": {
+    "Svelte": 1301358,
+    "JavaScript": 1071736,
+    "TypeScript": 860835,
+    "CSS": 9904,
+    "Shell": 5601,
+    "Smarty": 2987,
+    "Dockerfile": 1921,
+    "Batchfile": 124,
+    "Handlebars": 119
+  },
+  "size": 3254585
+}

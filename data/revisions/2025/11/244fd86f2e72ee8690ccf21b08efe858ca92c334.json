@@ -1,0 +1,12 @@
+{
+  "commit": "244fd86f2e72ee8690ccf21b08efe858ca92c334",
+  "repo_url": "https://github.com/kyndryl-open-source/hashi-vault-js",
+  "date": "2025-11-25T23:44:19",
+  "languages": {
+    "JavaScript": 213763,
+    "Shell": 9788,
+    "HCL": 3766,
+    "TypeScript": 1800
+  },
+  "size": 229117
+}

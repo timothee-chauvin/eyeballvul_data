@@ -1,0 +1,12 @@
+{
+  "commit": "4fea0abac496981e8ae84376108f7db89013e474",
+  "repo_url": "https://github.com/matrix-construct/tuwunel",
+  "date": "2025-12-03T16:40:08",
+  "languages": {
+    "Rust": 2362541,
+    "HCL": 76595,
+    "Nix": 38323,
+    "Shell": 16373
+  },
+  "size": 2493832
+}

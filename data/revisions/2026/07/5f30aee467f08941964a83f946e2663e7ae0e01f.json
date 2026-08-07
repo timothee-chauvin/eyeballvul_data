@@ -1,0 +1,18 @@
+{
+  "commit": "5f30aee467f08941964a83f946e2663e7ae0e01f",
+  "repo_url": "https://github.com/janhq/jan",
+  "date": "2026-07-23T02:05:12",
+  "languages": {
+    "TypeScript": 4216613,
+    "Rust": 1166723,
+    "Swift": 81955,
+    "Python": 67136,
+    "JavaScript": 38390,
+    "Shell": 21164,
+    "CSS": 14647,
+    "Makefile": 11831,
+    "PowerShell": 10329,
+    "HTML": 3831
+  },
+  "size": 5632619
+}

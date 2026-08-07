@@ -1,0 +1,10 @@
+{
+  "commit": "732acd521c41dbe7086b39078d28283e6030817a",
+  "repo_url": "https://github.com/fastify/aws-lambda-fastify",
+  "date": "2026-01-25T14:55:48",
+  "languages": {
+    "JavaScript": 66229,
+    "TypeScript": 3009
+  },
+  "size": 69238
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "b87cb0e4aa739a47b2532ac9f12542f6d14231e4",
+  "repo_url": "https://github.com/phili67/ecclesiacrm",
+  "date": "2026-01-06T19:42:31",
+  "languages": {
+    "PHP": 5662213,
+    "JavaScript": 1187749,
+    "SCSS": 156242,
+    "Shell": 32282,
+    "Dockerfile": 22284,
+    "HTML": 4318,
+    "Python": 2617,
+    "CSS": 1469
+  },
+  "size": 7069174
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "f55404e36ad944960fda01891d35529ece79ed98",
+  "repo_url": "https://github.com/wp-graphql/wp-graphql-woocommerce",
+  "date": "2023-04-04T16:12:56",
+  "languages": {
+    "PHP": 1210586,
+    "Shell": 13507,
+    "Dockerfile": 3041
+  },
+  "size": 1227134
+}

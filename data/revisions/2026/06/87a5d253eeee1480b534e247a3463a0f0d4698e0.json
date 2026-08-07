@@ -1,0 +1,29 @@
+{
+  "commit": "87a5d253eeee1480b534e247a3463a0f0d4698e0",
+  "repo_url": "https://github.com/grisuno/lazyown",
+  "date": "2026-06-17T03:11:31",
+  "languages": {
+    "Python": 6730952,
+    "HTML": 4835299,
+    "PowerShell": 756188,
+    "Shell": 282663,
+    "C": 222581,
+    "Go": 119999,
+    "Batchfile": 110330,
+    "Lua": 103480,
+    "Rust": 75001,
+    "Nim": 46604,
+    "JavaScript": 43009,
+    "CSS": 39988,
+    "PHP": 26753,
+    "C#": 22964,
+    "C++": 5462,
+    "Dockerfile": 1860,
+    "LiveScript": 1125,
+    "Assembly": 863,
+    "Makefile": 795,
+    "Perl": 466,
+    "Classic ASP": 335
+  },
+  "size": 13426717
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "723162211eb3c17f222f943c4610311dcf9167f1",
+  "repo_url": "https://github.com/codeigniter4/codeigniter4",
+  "date": "2026-05-22T11:14:49",
+  "languages": {
+    "PHP": 7035063,
+    "CSS": 45424,
+    "JavaScript": 43696,
+    "SCSS": 19616,
+    "Shell": 9817,
+    "Smarty": 9643,
+    "Python": 5182,
+    "HTML": 4653,
+    "Clojure": 2862,
+    "Hack": 1029,
+    "Batchfile": 764,
+    "Makefile": 638
+  },
+  "size": 7178387
+}

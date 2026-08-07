@@ -1,0 +1,17 @@
+{
+  "commit": "637824bbcd8e83327b7e4e881eab5c52ea9e20c5",
+  "repo_url": "https://github.com/allinurl/goaccess",
+  "date": "2026-04-01T00:25:16",
+  "languages": {
+    "C": 1228763,
+    "JavaScript": 119552,
+    "Roff": 50170,
+    "CSS": 29673,
+    "HTML": 13354,
+    "Makefile": 9285,
+    "M4": 8747,
+    "Dockerfile": 1069,
+    "Shell": 477
+  },
+  "size": 1461090
+}

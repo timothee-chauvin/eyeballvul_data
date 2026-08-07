@@ -1,0 +1,13 @@
+{
+  "commit": "5bee16a79922e3efcb5cea06ecd27e6f8048b56b",
+  "repo_url": "https://github.com/swift-server/async-http-client",
+  "date": "2022-11-09T14:30:16",
+  "languages": {
+    "Swift": 1722353,
+    "Shell": 13066,
+    "Ruby": 6099,
+    "C": 2261,
+    "Dockerfile": 1325
+  },
+  "size": 1745104
+}

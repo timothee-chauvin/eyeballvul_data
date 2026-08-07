@@ -1,0 +1,16 @@
+{
+  "commit": "d7a0ec8f76e4a332f194bee77b3c6135440c74bc",
+  "repo_url": "https://github.com/cybertimon/rapidraw",
+  "date": "2026-07-12T18:01:10",
+  "languages": {
+    "TypeScript": 1696651,
+    "Rust": 963638,
+    "WGSL": 87668,
+    "CSS": 12171,
+    "Kotlin": 7284,
+    "Python": 6303,
+    "JavaScript": 2457,
+    "HTML": 771
+  },
+  "size": 2776943
+}

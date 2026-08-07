@@ -1,0 +1,16 @@
+{
+  "commit": "54779282070f1e2e38b5b9c2c652822f9f74412b",
+  "repo_url": "https://github.com/greyclab/cimg",
+  "date": "2019-06-17T17:32:27",
+  "languages": {
+    "C++": 3304579,
+    "C": 1949066,
+    "HTML": 18311,
+    "Shell": 6610,
+    "Python": 4403,
+    "CSS": 2744,
+    "Batchfile": 1932,
+    "Makefile": 1637
+  },
+  "size": 5289282
+}

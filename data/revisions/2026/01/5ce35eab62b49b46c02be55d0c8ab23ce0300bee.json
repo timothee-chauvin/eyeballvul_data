@@ -1,0 +1,11 @@
+{
+  "commit": "5ce35eab62b49b46c02be55d0c8ab23ce0300bee",
+  "repo_url": "https://github.com/free5gc/nef",
+  "date": "2026-01-04T07:36:55",
+  "languages": {
+    "Go": 202571,
+    "Makefile": 1256,
+    "Dockerfile": 543
+  },
+  "size": 204370
+}

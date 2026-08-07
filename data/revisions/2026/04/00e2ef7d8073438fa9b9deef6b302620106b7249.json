@@ -1,0 +1,23 @@
+{
+  "commit": "00e2ef7d8073438fa9b9deef6b302620106b7249",
+  "repo_url": "https://github.com/dagster-io/dagster",
+  "date": "2026-04-17T19:32:32",
+  "languages": {
+    "Python": 29990760,
+    "TypeScript": 6552753,
+    "LookML": 329353,
+    "CSS": 168567,
+    "Jupyter Notebook": 77845,
+    "JavaScript": 66641,
+    "Shell": 32378,
+    "Smarty": 28553,
+    "Dockerfile": 18713,
+    "Mustache": 16476,
+    "ANTLR": 15773,
+    "Makefile": 14518,
+    "Jinja": 8948,
+    "HTML": 8591,
+    "Mako": 494
+  },
+  "size": 37330363
+}

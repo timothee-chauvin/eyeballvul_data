@@ -1,0 +1,11 @@
+{
+  "commit": "73662de4b2b7f93119570ba2f8c1217b5e964d5f",
+  "repo_url": "https://github.com/golioth/pouch",
+  "date": "2025-08-26T01:27:01",
+  "languages": {
+    "C": 191271,
+    "Python": 10270,
+    "CMake": 6837
+  },
+  "size": 208378
+}

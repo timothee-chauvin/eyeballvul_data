@@ -1,0 +1,12 @@
+{
+  "commit": "f59279fdf099d0c0bbdfde271bc9c2b904d0a26a",
+  "repo_url": "https://github.com/freeglut/freeglut",
+  "date": "2022-10-01T14:21:09",
+  "languages": {
+    "C": 1794049,
+    "CMake": 36331,
+    "Makefile": 2997,
+    "C++": 1967
+  },
+  "size": 1835344
+}

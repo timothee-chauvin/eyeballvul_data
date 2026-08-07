@@ -1,0 +1,18 @@
+{
+  "commit": "d5ca9f685cd5bedb31608a6358b8fd5e4645c527",
+  "repo_url": "https://github.com/neuvector/manager",
+  "date": "2026-01-28T19:22:23",
+  "languages": {
+    "TypeScript": 4491007,
+    "HTML": 969461,
+    "Scala": 556675,
+    "SCSS": 530752,
+    "Python": 472147,
+    "CSS": 144230,
+    "Shell": 16843,
+    "Dockerfile": 4737,
+    "Makefile": 3446,
+    "JavaScript": 3041
+  },
+  "size": 7192339
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "eb5e0868cef164f98304dc42502fbf0ed4a407c9",
+  "repo_url": "https://github.com/q00/ouroboros",
+  "date": "2026-05-13T02:59:13",
+  "languages": {
+    "Python": 12177052,
+    "Rust": 163907,
+    "TypeScript": 56795,
+    "Shell": 29489
+  },
+  "size": 12427243
+}

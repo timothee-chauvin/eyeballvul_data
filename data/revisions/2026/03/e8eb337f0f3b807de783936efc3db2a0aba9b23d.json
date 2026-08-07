@@ -1,0 +1,17 @@
+{
+  "commit": "e8eb337f0f3b807de783936efc3db2a0aba9b23d",
+  "repo_url": "https://github.com/eclipse-openvsx/openvsx",
+  "date": "2026-03-25T08:40:29",
+  "languages": {
+    "Java": 2684851,
+    "TypeScript": 854843,
+    "Scala": 34033,
+    "Shell": 13190,
+    "JavaScript": 10181,
+    "PLpgSQL": 8180,
+    "Dockerfile": 5486,
+    "HTML": 1961,
+    "CSS": 348
+  },
+  "size": 3613073
+}

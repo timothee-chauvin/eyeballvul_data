@@ -1,0 +1,12 @@
+{
+  "commit": "688b65c3d5f7f81600c37f9fc9a29da9d2cc7abe",
+  "repo_url": "https://github.com/mcdope/pam_usb",
+  "date": "2024-01-05T15:54:11",
+  "languages": {
+    "C": 74935,
+    "Python": 23522,
+    "Makefile": 7760,
+    "Shell": 6999
+  },
+  "size": 113216
+}

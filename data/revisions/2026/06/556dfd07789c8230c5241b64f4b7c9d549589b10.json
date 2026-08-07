@@ -1,0 +1,16 @@
+{
+  "commit": "556dfd07789c8230c5241b64f4b7c9d549589b10",
+  "repo_url": "https://github.com/nearai/ironclaw",
+  "date": "2026-06-03T18:21:05",
+  "languages": {
+    "Rust": 21405083,
+    "Python": 1713898,
+    "JavaScript": 720928,
+    "Shell": 391756,
+    "CSS": 195965,
+    "HTML": 39529,
+    "PLpgSQL": 17110,
+    "Dockerfile": 9422
+  },
+  "size": 24493691
+}

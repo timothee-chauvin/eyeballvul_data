@@ -1,0 +1,10 @@
+{
+  "commit": "22b56bb8425ff16727f8de69a2f0fdbc81300c52",
+  "repo_url": "https://github.com/redhatinsights/yggdrasil-worker-package-manager",
+  "date": "2026-04-16T08:38:16",
+  "languages": {
+    "Go": 15677,
+    "Makefile": 709
+  },
+  "size": 16386
+}

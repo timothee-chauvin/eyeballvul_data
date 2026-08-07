@@ -1,0 +1,13 @@
+{
+  "commit": "5d4094a942fb57d8c923a919f49ca01ac3b6c2a2",
+  "repo_url": "https://github.com/koxudaxi/datamodel-code-generator",
+  "date": "2026-06-04T17:11:02",
+  "languages": {
+    "Python": 4305805,
+    "Jinja": 19598,
+    "HTML": 4976,
+    "Shell": 3646,
+    "Dockerfile": 238
+  },
+  "size": 4334263
+}

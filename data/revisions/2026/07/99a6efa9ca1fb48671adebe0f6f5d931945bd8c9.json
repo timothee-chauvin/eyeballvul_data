@@ -1,0 +1,11 @@
+{
+  "commit": "99a6efa9ca1fb48671adebe0f6f5d931945bd8c9",
+  "repo_url": "https://github.com/mistralai/mistral-vibe",
+  "date": "2026-07-30T08:20:17",
+  "languages": {
+    "Python": 6985557,
+    "Shell": 12155,
+    "Nix": 4392
+  },
+  "size": 7002104
+}

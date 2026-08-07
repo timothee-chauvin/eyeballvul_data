@@ -1,0 +1,13 @@
+{
+  "commit": "9673cf44f399eda0221e59c7f7023be03b632dd5",
+  "repo_url": "https://github.com/aio-libs/aiohttp",
+  "date": "2017-03-20T17:12:02",
+  "languages": {
+    "Python": 1186123,
+    "Cython": 23723,
+    "Makefile": 2733,
+    "Shell": 1759,
+    "Batchfile": 838
+  },
+  "size": 1215176
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "1a306412f4e019e48ce7cc9171daae71e4a1a31d",
+  "repo_url": "https://github.com/e107inc/e107",
+  "date": "2017-12-23T19:54:25",
+  "languages": {
+    "PHP": 10429848,
+    "JavaScript": 1130352,
+    "CSS": 692190,
+    "SuperCollider": 21090,
+    "HTML": 16800,
+    "Clojure": 6343,
+    "BitBake": 6058,
+    "Smarty": 2467,
+    "BlitzBasic": 1913,
+    "Scala": 712
+  },
+  "size": 12307773
+}

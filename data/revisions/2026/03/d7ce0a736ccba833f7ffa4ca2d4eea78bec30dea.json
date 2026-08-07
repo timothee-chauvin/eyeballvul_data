@@ -1,0 +1,13 @@
+{
+  "commit": "d7ce0a736ccba833f7ffa4ca2d4eea78bec30dea",
+  "repo_url": "https://github.com/inovector/mixpost",
+  "date": "2026-03-13T17:48:14",
+  "languages": {
+    "Vue": 374026,
+    "PHP": 335583,
+    "JavaScript": 39725,
+    "CSS": 9675,
+    "Blade": 1213
+  },
+  "size": 760222
+}

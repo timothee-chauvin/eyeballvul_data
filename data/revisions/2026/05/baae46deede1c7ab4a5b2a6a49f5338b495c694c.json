@@ -1,0 +1,14 @@
+{
+  "commit": "baae46deede1c7ab4a5b2a6a49f5338b495c694c",
+  "repo_url": "https://github.com/dgtlmoon/changedetection.io",
+  "date": "2026-05-25T16:47:29",
+  "languages": {
+    "Python": 2635129,
+    "HTML": 263756,
+    "JavaScript": 209296,
+    "SCSS": 101133,
+    "Shell": 21878,
+    "Dockerfile": 5138
+  },
+  "size": 3236330
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "2dac95d4ec6553a1e90a59b02a4e9e03e5ac0f6d",
+  "repo_url": "https://github.com/microck/opencode-studio",
+  "date": "2026-07-16T10:06:06",
+  "languages": {
+    "TypeScript": 534631,
+    "JavaScript": 265524,
+    "CSS": 13275,
+    "VBScript": 255,
+    "Shell": 239,
+    "Batchfile": 238
+  },
+  "size": 814162
+}

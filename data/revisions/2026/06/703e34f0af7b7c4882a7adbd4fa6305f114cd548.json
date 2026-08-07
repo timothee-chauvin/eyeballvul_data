@@ -1,0 +1,15 @@
+{
+  "commit": "703e34f0af7b7c4882a7adbd4fa6305f114cd548",
+  "repo_url": "https://github.com/eclipse-actf/org.eclipse.actf",
+  "date": "2026-06-29T14:19:22",
+  "languages": {
+    "Java": 3681316,
+    "HTML": 600870,
+    "JavaScript": 62417,
+    "CSS": 15349,
+    "C++": 9687,
+    "C": 7736,
+    "XSLT": 7721
+  },
+  "size": 4385096
+}

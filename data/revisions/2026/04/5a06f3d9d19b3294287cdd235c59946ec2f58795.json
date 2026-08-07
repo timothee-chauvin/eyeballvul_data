@@ -1,0 +1,15 @@
+{
+  "commit": "5a06f3d9d19b3294287cdd235c59946ec2f58795",
+  "repo_url": "https://github.com/ail-project/ail-framework",
+  "date": "2026-04-29T12:21:00",
+  "languages": {
+    "Python": 1980583,
+    "HTML": 1906083,
+    "JavaScript": 1684424,
+    "Shell": 84570,
+    "CSS": 34272,
+    "Dockerfile": 1278,
+    "YARA": 217
+  },
+  "size": 5691427
+}

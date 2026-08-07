@@ -1,0 +1,12 @@
+{
+  "commit": "5a294a6fc7ed5dc0946d4b576257bf926178f269",
+  "repo_url": "https://github.com/gitpython-developers/gitpython",
+  "date": "2026-05-06T04:00:26",
+  "languages": {
+    "Python": 1250761,
+    "Shell": 10593,
+    "Dockerfile": 629,
+    "Makefile": 299
+  },
+  "size": 1262282
+}

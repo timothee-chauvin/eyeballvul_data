@@ -1,0 +1,17 @@
+{
+  "commit": "fb8bd54bf1fbf019ea7fd262d7de98bce3a28701",
+  "repo_url": "https://github.com/gphoto/libgphoto2",
+  "date": "2025-10-19T12:53:39",
+  "languages": {
+    "C": 6036911,
+    "M4": 192138,
+    "Perl": 56562,
+    "Makefile": 40831,
+    "Meson": 39492,
+    "Shell": 24209,
+    "HTML": 24085,
+    "Python": 17283,
+    "C++": 734
+  },
+  "size": 6432245
+}

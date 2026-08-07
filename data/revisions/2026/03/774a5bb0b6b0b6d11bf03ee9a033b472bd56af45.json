@@ -1,0 +1,15 @@
+{
+  "commit": "774a5bb0b6b0b6d11bf03ee9a033b472bd56af45",
+  "repo_url": "https://github.com/lxc/incus-os",
+  "date": "2026-03-14T04:57:05",
+  "languages": {
+    "Go": 961816,
+    "Python": 228156,
+    "Shell": 31557,
+    "HTML": 26409,
+    "Makefile": 11542,
+    "JavaScript": 9054,
+    "CSS": 361
+  },
+  "size": 1268895
+}

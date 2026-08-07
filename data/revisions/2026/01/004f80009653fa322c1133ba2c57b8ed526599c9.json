@@ -1,0 +1,18 @@
+{
+  "commit": "004f80009653fa322c1133ba2c57b8ed526599c9",
+  "repo_url": "https://github.com/academysoftwarefoundation/opencolorio",
+  "date": "2026-01-13T03:55:53",
+  "languages": {
+    "C++": 9479406,
+    "Python": 1308551,
+    "Roff": 867637,
+    "CMake": 290304,
+    "Java": 73341,
+    "C": 61491,
+    "Objective-C++": 37712,
+    "Batchfile": 26274,
+    "Shell": 20652,
+    "Objective-C": 6826
+  },
+  "size": 12172194
+}

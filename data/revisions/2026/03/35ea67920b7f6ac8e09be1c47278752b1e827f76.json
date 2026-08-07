@@ -1,0 +1,12 @@
+{
+  "commit": "35ea67920b7f6ac8e09be1c47278752b1e827f76",
+  "repo_url": "https://github.com/psf/black",
+  "date": "2026-03-06T17:30:53",
+  "languages": {
+    "Python": 5295997,
+    "Vim Script": 11812,
+    "Jupyter Notebook": 2848,
+    "Dockerfile": 716
+  },
+  "size": 5311373
+}

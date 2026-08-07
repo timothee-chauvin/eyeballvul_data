@@ -1,7 +1,7 @@
 {
   "id": "OSV-2025-1075",
   "published": "2026-03-03T00:13:02.656604",
-  "modified": "2026-03-03T00:13:02.656909",
+  "modified": "2026-08-06T14:22:02.825568",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=488729177\n\n```\nCrash type: Stack-use-after-return READ 2\nCrash state:\nmark_alt_bonds_and_taut_groups\nCreate_INChI\nMakeOneInChIOutOfStrFromINChI\n```\n",
   "summary": "Stack-use-after-return in mark_alt_bonds_and_taut_groups",
   "repo_url": "https://github.com/iupac-inchi/inchi",

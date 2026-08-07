@@ -1,0 +1,17 @@
+{
+  "commit": "81b8d67066c8642035905e1733776583514ddd17",
+  "repo_url": "https://github.com/vitest-dev/vitest",
+  "date": "2024-07-15T10:01:12",
+  "languages": {
+    "TypeScript": 2203733,
+    "Vue": 68173,
+    "JavaScript": 62153,
+    "CSS": 5193,
+    "HTML": 2874,
+    "Imba": 252,
+    "Less": 39,
+    "SCSS": 23,
+    "Sass": 19
+  },
+  "size": 2342459
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "ba6a19060d6ab54a87538a6e77e3e4d5a907375b",
+  "repo_url": "https://github.com/huggingface/peft",
+  "date": "2026-04-16T15:39:39",
+  "languages": {
+    "Python": 4357476,
+    "Makefile": 7579,
+    "Dockerfile": 4833,
+    "Cuda": 3076,
+    "C++": 815
+  },
+  "size": 4373779
+}

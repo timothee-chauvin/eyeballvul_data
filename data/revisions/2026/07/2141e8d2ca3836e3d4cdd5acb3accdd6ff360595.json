@@ -1,0 +1,15 @@
+{
+  "commit": "2141e8d2ca3836e3d4cdd5acb3accdd6ff360595",
+  "repo_url": "https://github.com/qusetions/minicode-python",
+  "date": "2026-07-17T13:30:29",
+  "languages": {
+    "Python": 4140897,
+    "TypeScript": 250977,
+    "HTML": 48542,
+    "Dockerfile": 2894,
+    "PowerShell": 424,
+    "Batchfile": 393,
+    "Shell": 237
+  },
+  "size": 4444364
+}

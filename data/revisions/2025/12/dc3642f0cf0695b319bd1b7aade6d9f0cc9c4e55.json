@@ -1,0 +1,15 @@
+{
+  "commit": "dc3642f0cf0695b319bd1b7aade6d9f0cc9c4e55",
+  "repo_url": "https://github.com/craftcms/commerce",
+  "date": "2025-12-31T18:58:44",
+  "languages": {
+    "PHP": 3674712,
+    "Twig": 475621,
+    "Vue": 208520,
+    "JavaScript": 116239,
+    "SCSS": 14390,
+    "CSS": 2331,
+    "PLpgSQL": 369
+  },
+  "size": 4492182
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "0d65c11fbfa330080595d0b15e7bdb433097035e",
+  "repo_url": "https://github.com/cilium/hubble",
+  "date": "2025-02-12T15:42:32",
+  "languages": {
+    "Makefile": 3374,
+    "Go": 432
+  },
+  "size": 3806
+}
