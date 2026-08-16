@@ -1,0 +1,15 @@
+{
+  "commit": "21d275c36da54560f969ef7355c57c63151f06ac",
+  "repo_url": "https://github.com/cdeust/cortex",
+  "date": "2026-05-13T11:24:57",
+  "languages": {
+    "Python": 4922856,
+    "JavaScript": 503080,
+    "CSS": 182944,
+    "Shell": 161302,
+    "HTML": 38666,
+    "PLpgSQL": 38359,
+    "Dockerfile": 7207
+  },
+  "size": 5854414
+}

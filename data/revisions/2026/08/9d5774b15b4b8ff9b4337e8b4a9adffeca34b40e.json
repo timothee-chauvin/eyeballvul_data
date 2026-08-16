@@ -1,0 +1,20 @@
+{
+  "commit": "9d5774b15b4b8ff9b4337e8b4a9adffeca34b40e",
+  "repo_url": "https://github.com/temporalio/ui",
+  "date": "2026-08-05T00:53:27",
+  "languages": {
+    "TypeScript": 2343383,
+    "Svelte": 2024098,
+    "Go": 153880,
+    "MDX": 20797,
+    "JavaScript": 11536,
+    "EJS": 10247,
+    "Shell": 9516,
+    "CSS": 4569,
+    "HCL": 1544,
+    "Dockerfile": 1182,
+    "HTML": 661,
+    "Makefile": 515
+  },
+  "size": 4581928
+}

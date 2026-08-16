@@ -1,0 +1,18 @@
+{
+  "commit": "82b531718e33472cb2f00451acdbee740c5ef1f7",
+  "repo_url": "https://github.com/getprobo/probo",
+  "date": "2026-05-26T16:38:07",
+  "languages": {
+    "Go": 9102324,
+    "TypeScript": 4424761,
+    "Shell": 35969,
+    "HTML": 20787,
+    "PLpgSQL": 15254,
+    "Makefile": 14687,
+    "CSS": 14388,
+    "JavaScript": 4428,
+    "Smarty": 4276,
+    "Dockerfile": 1035
+  },
+  "size": 13637909
+}

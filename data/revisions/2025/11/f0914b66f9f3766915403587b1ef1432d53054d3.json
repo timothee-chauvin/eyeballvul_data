@@ -1,0 +1,12 @@
+{
+  "commit": "f0914b66f9f3766915403587b1ef1432d53054d3",
+  "repo_url": "https://github.com/openzeppelin/openzeppelin-confidential-contracts",
+  "date": "2025-11-28T13:39:46",
+  "languages": {
+    "Solidity": 150699,
+    "TypeScript": 142775,
+    "JavaScript": 30030,
+    "Shell": 635
+  },
+  "size": 324139
+}

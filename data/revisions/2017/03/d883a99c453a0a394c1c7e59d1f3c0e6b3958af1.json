@@ -1,0 +1,13 @@
+{
+  "commit": "d883a99c453a0a394c1c7e59d1f3c0e6b3958af1",
+  "repo_url": "https://github.com/dasgarner/xibo-cms",
+  "date": "2017-03-21T11:24:12",
+  "languages": {
+    "PHP": 2886840,
+    "Twig": 1031712,
+    "JavaScript": 668659,
+    "CSS": 68005,
+    "HTML": 9465
+  },
+  "size": 4664681
+}

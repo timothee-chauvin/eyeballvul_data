@@ -1,0 +1,12 @@
+{
+  "commit": "9a24680abdfedf014e496bced49e11b26dda582c",
+  "repo_url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+  "date": "2025-12-19T00:08:01",
+  "languages": {
+    "Rust": 4329870,
+    "Shell": 80185,
+    "Python": 11344,
+    "Dockerfile": 5933
+  },
+  "size": 4427332
+}

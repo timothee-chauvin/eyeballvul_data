@@ -1,0 +1,17 @@
+{
+  "commit": "91fa41ad05e71fd03c3156372cd0ef1bd52b2261",
+  "repo_url": "https://github.com/benmcollins/libjwt",
+  "date": "2025-11-11T11:31:07",
+  "languages": {
+    "C": 323011,
+    "CSS": 67866,
+    "CMake": 67192,
+    "JavaScript": 13793,
+    "Roff": 12899,
+    "HTML": 4339,
+    "Shell": 3184,
+    "Ruby": 891,
+    "Makefile": 264
+  },
+  "size": 493439
+}

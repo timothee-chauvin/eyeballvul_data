@@ -1,0 +1,19 @@
+{
+  "commit": "1fd1ce47afe0a6951dc5d18126638d079703f369",
+  "repo_url": "https://github.com/cap-go/capgo.app",
+  "date": "2026-05-06T20:33:23",
+  "languages": {
+    "TypeScript": 14593174,
+    "PLpgSQL": 2952318,
+    "Vue": 1882046,
+    "JavaScript": 284927,
+    "Shell": 82795,
+    "MDX": 60454,
+    "Swift": 15079,
+    "HTML": 9799,
+    "CSS": 9024,
+    "Java": 4410,
+    "PowerShell": 1864
+  },
+  "size": 19895890
+}

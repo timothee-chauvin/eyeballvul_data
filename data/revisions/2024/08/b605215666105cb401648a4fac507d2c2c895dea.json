@@ -1,0 +1,20 @@
+{
+  "commit": "b605215666105cb401648a4fac507d2c2c895dea",
+  "repo_url": "https://github.com/artifexsoftware/mupdf",
+  "date": "2024-08-30T10:47:14",
+  "languages": {
+    "C": 14555687,
+    "Python": 965681,
+    "Java": 298855,
+    "SuperCollider": 59800,
+    "Makefile": 36580,
+    "JavaScript": 21993,
+    "C#": 15015,
+    "Shell": 13678,
+    "C++": 9080,
+    "Batchfile": 715,
+    "Awk": 495,
+    "sed": 123
+  },
+  "size": 15977702
+}

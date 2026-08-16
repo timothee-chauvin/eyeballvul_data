@@ -1,0 +1,12 @@
+{
+  "commit": "4448155d65695b47d8794ea828ffa3d30e5c5b3e",
+  "repo_url": "https://github.com/raineorshine/npm-check-updates",
+  "date": "2026-08-07T19:15:08",
+  "languages": {
+    "TypeScript": 900767,
+    "JavaScript": 19349,
+    "Shell": 5520,
+    "Dockerfile": 179
+  },
+  "size": 925815
+}

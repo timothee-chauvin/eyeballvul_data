@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-203",
+  "published": "2020-02-20T03:15:00",
+  "modified": "2026-06-10T17:00:06.824202",
+  "details": "The safe_eval function in Ansible before 1.6.4 does not properly restrict the code subset, which allows remote attackers to execute arbitrary code via crafted instructions. NOTE: this vulnerability exists because of an incomplete fix for CVE-2014-4657.",
+  "repo_url": "https://github.com/ansible/ansible",
+  "cwes": [],
+  "commits": [
+    "f67c13f8f10a6f8e0343a3c3d4e8ad7737ed28ab"
+  ]
+}

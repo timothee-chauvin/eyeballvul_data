@@ -1,0 +1,15 @@
+{
+  "commit": "7de9baf9a13a947ee737aa5415f5e1a0a14a42d5",
+  "repo_url": "https://github.com/open-eid/libdigidocpp",
+  "date": "2025-05-07T05:22:28",
+  "languages": {
+    "C++": 1455585,
+    "C": 255656,
+    "CMake": 58265,
+    "SWIG": 11241,
+    "Shell": 6758,
+    "PowerShell": 3111,
+    "CSS": 54
+  },
+  "size": 1790670
+}

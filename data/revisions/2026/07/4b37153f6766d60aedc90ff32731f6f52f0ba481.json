@@ -1,0 +1,14 @@
+{
+  "commit": "4b37153f6766d60aedc90ff32731f6f52f0ba481",
+  "repo_url": "https://github.com/dibo-software/diboot",
+  "date": "2026-07-03T09:18:47",
+  "languages": {
+    "Java": 2338530,
+    "Vue": 564911,
+    "TypeScript": 223720,
+    "HTML": 18356,
+    "SCSS": 8015,
+    "JavaScript": 1670
+  },
+  "size": 3155202
+}

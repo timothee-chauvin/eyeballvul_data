@@ -1,0 +1,15 @@
+{
+  "commit": "1e4d16c1d6a641e70c0288ea28a390adfbc9751d",
+  "repo_url": "https://github.com/openzeppelin/contracts-wizard",
+  "date": "2026-04-23T21:45:02",
+  "languages": {
+    "TypeScript": 1413715,
+    "Svelte": 301424,
+    "HTML": 50367,
+    "JavaScript": 23237,
+    "CSS": 14947,
+    "Shell": 660,
+    "Solidity": 490
+  },
+  "size": 1804840
+}

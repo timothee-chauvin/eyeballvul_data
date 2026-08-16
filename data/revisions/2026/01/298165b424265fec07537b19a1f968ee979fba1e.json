@@ -1,0 +1,15 @@
+{
+  "commit": "298165b424265fec07537b19a1f968ee979fba1e",
+  "repo_url": "https://github.com/648540858/wvp-gb28181-pro",
+  "date": "2026-01-07T08:55:20",
+  "languages": {
+    "Java": 3530443,
+    "Vue": 1064981,
+    "JavaScript": 789014,
+    "SCSS": 34973,
+    "Shell": 16225,
+    "Dockerfile": 6327,
+    "HTML": 1150
+  },
+  "size": 5443113
+}

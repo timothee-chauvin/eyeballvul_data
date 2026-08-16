@@ -1,0 +1,21 @@
+{
+  "commit": "8f4f7c890cce9f35bf4e0cedcdd26ea6d82aa04b",
+  "repo_url": "https://github.com/jandedobbeleer/oh-my-posh",
+  "date": "2026-07-22T15:29:21",
+  "languages": {
+    "Go": 1862817,
+    "MDX": 687587,
+    "JavaScript": 72269,
+    "PowerShell": 68043,
+    "Shell": 64118,
+    "Lua": 17894,
+    "CSS": 14320,
+    "Dockerfile": 3543,
+    "Nushell": 2536,
+    "Elvish": 2303,
+    "Xonsh": 1482,
+    "Standard ML": 320,
+    "HCL": 47
+  },
+  "size": 2797279
+}

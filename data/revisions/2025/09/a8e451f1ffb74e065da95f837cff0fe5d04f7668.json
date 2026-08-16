@@ -1,0 +1,19 @@
+{
+  "commit": "a8e451f1ffb74e065da95f837cff0fe5d04f7668",
+  "repo_url": "https://github.com/teableio/teable",
+  "date": "2025-09-15T15:51:58",
+  "languages": {
+    "TypeScript": 8332296,
+    "JavaScript": 130238,
+    "CSS": 35466,
+    "ANTLR": 13594,
+    "PLpgSQL": 12705,
+    "Makefile": 12062,
+    "Handlebars": 9375,
+    "Shell": 8133,
+    "Dockerfile": 7154,
+    "MDX": 5271,
+    "HCL": 646
+  },
+  "size": 8566940
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "4a263c1ef52d6e9c18a025a8edaa307ebdbfc81d",
+  "repo_url": "https://github.com/openchamber/openchamber",
+  "date": "2026-06-10T22:42:41",
+  "languages": {
+    "TypeScript": 12772965,
+    "JavaScript": 2383590,
+    "MDX": 650471,
+    "CSS": 80860,
+    "HTML": 33030,
+    "Shell": 17419,
+    "Dockerfile": 2221
+  },
+  "size": 15940556
+}

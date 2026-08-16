@@ -1,0 +1,14 @@
+{
+  "commit": "0214277fabdd8d4f8697ddd29f25a60eab1261c6",
+  "repo_url": "https://github.com/hulupeep/mcp-ui-probe",
+  "date": "2025-10-21T23:06:26",
+  "languages": {
+    "TypeScript": 880054,
+    "HTML": 241939,
+    "JavaScript": 200464,
+    "Shell": 17722,
+    "PowerShell": 600,
+    "Batchfile": 353
+  },
+  "size": 1341132
+}

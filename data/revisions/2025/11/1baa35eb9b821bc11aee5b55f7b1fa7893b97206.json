@@ -1,0 +1,20 @@
+{
+  "commit": "1baa35eb9b821bc11aee5b55f7b1fa7893b97206",
+  "repo_url": "https://github.com/warmcat/libwebsockets",
+  "date": "2025-11-29T19:42:32",
+  "languages": {
+    "C": 20327075,
+    "CMake": 525000,
+    "JavaScript": 167957,
+    "C++": 137727,
+    "Makefile": 67610,
+    "Shell": 50275,
+    "HTML": 45731,
+    "CSS": 26057,
+    "Java": 23413,
+    "Roff": 6080,
+    "NSIS": 4939,
+    "Standard ML": 1006
+  },
+  "size": 21382870
+}

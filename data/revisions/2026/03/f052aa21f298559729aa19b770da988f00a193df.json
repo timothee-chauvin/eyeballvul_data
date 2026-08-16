@@ -1,0 +1,18 @@
+{
+  "commit": "f052aa21f298559729aa19b770da988f00a193df",
+  "repo_url": "https://github.com/qhkm/zeptoclaw",
+  "date": "2026-03-04T17:19:20",
+  "languages": {
+    "Rust": 4375867,
+    "TypeScript": 136857,
+    "HTML": 90310,
+    "Shell": 21852,
+    "JavaScript": 5601,
+    "Makefile": 2686,
+    "MDX": 2341,
+    "Dockerfile": 2227,
+    "Ruby": 1197,
+    "CSS": 1153
+  },
+  "size": 4640091
+}

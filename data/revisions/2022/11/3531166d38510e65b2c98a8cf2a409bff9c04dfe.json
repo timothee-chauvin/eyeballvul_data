@@ -1,0 +1,18 @@
+{
+  "commit": "3531166d38510e65b2c98a8cf2a409bff9c04dfe",
+  "repo_url": "https://github.com/open5gs/open5gs",
+  "date": "2022-11-18T14:27:20",
+  "languages": {
+    "C": 37616024,
+    "JavaScript": 246180,
+    "Meson": 235731,
+    "Python": 182639,
+    "Mustache": 148037,
+    "Shell": 49850,
+    "Dockerfile": 6444,
+    "C++": 2959,
+    "Awk": 2639,
+    "CSS": 2192
+  },
+  "size": 38492695
+}

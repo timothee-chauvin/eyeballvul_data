@@ -1,0 +1,16 @@
+{
+  "commit": "a6a6dd0a114da7c92b04d73121391433314fb6ec",
+  "repo_url": "https://github.com/microsoft/container-migration-solution-accelerator",
+  "date": "2026-06-25T08:10:56",
+  "languages": {
+    "Python": 1748011,
+    "TypeScript": 314822,
+    "Bicep": 143923,
+    "Shell": 11884,
+    "JavaScript": 10751,
+    "CSS": 6832,
+    "Dockerfile": 3457,
+    "HTML": 374
+  },
+  "size": 2240054
+}

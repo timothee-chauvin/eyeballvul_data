@@ -1,0 +1,19 @@
+{
+  "commit": "d99128c70f01f2fbdc6d9e633c789c5dacabd5a5",
+  "repo_url": "https://github.com/cockpit-project/cockpit",
+  "date": "2020-12-09T07:45:49",
+  "languages": {
+    "C": 2912856,
+    "JavaScript": 2902938,
+    "Python": 1394127,
+    "SCSS": 197417,
+    "HTML": 184150,
+    "Shell": 73097,
+    "CSS": 54710,
+    "Makefile": 38843,
+    "M4": 21405,
+    "Dockerfile": 1979,
+    "sed": 550
+  },
+  "size": 7782072
+}

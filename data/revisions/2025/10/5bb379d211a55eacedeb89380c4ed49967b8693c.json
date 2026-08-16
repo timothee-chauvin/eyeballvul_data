@@ -1,0 +1,16 @@
+{
+  "commit": "5bb379d211a55eacedeb89380c4ed49967b8693c",
+  "repo_url": "https://github.com/somta/juggle",
+  "date": "2025-10-20T09:13:00",
+  "languages": {
+    "Java": 515357,
+    "Vue": 275347,
+    "TypeScript": 105106,
+    "JavaScript": 3789,
+    "Shell": 1776,
+    "CSS": 733,
+    "Dockerfile": 632,
+    "HTML": 329
+  },
+  "size": 903069
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "48f300244352327de98d8f23065ab1d043cacfb0",
+  "repo_url": "https://github.com/opensearch-project/alerting",
+  "date": "2026-06-03T17:38:08",
+  "languages": {
+    "Kotlin": 3017937,
+    "Java": 104844,
+    "Shell": 2358,
+    "Python": 1379
+  },
+  "size": 3126518
+}

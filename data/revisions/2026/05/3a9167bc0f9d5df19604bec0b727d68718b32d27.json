@@ -1,0 +1,16 @@
+{
+  "commit": "3a9167bc0f9d5df19604bec0b727d68718b32d27",
+  "repo_url": "https://github.com/benoitc/erlang_quic",
+  "date": "2026-05-25T07:25:23",
+  "languages": {
+    "Erlang": 3302479,
+    "Shell": 38770,
+    "Python": 28031,
+    "Rust": 9986,
+    "Go": 3896,
+    "Dockerfile": 1481,
+    "Makefile": 1330,
+    "HTML": 78
+  },
+  "size": 3386051
+}

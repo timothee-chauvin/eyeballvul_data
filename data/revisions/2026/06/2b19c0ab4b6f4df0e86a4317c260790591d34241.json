@@ -1,0 +1,24 @@
+{
+  "commit": "2b19c0ab4b6f4df0e86a4317c260790591d34241",
+  "repo_url": "https://github.com/davila7/claude-code-templates",
+  "date": "2026-06-13T22:59:05",
+  "languages": {
+    "Python": 5194442,
+    "HTML": 1518767,
+    "JavaScript": 1498917,
+    "TeX": 929540,
+    "TypeScript": 597558,
+    "Shell": 514018,
+    "CSS": 455794,
+    "Astro": 198014,
+    "Java": 9356,
+    "PLpgSQL": 9117,
+    "Jupyter Notebook": 5060,
+    "Swift": 5006,
+    "PowerShell": 4947,
+    "Makefile": 4803,
+    "HCL": 2574,
+    "Dockerfile": 815
+  },
+  "size": 10948728
+}

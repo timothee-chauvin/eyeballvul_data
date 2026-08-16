@@ -1,0 +1,16 @@
+{
+  "commit": "5a5bd5fe5ca1a24ad4519b94d633c6e893c9c1fc",
+  "repo_url": "https://github.com/mawww/kakoune",
+  "date": "2026-04-12T02:24:09",
+  "languages": {
+    "C++": 1291561,
+    "KakouneScript": 902471,
+    "Python": 15834,
+    "Shell": 11332,
+    "Perl": 7010,
+    "Makefile": 5852,
+    "Ruby": 1837,
+    "GDB": 49
+  },
+  "size": 2235946
+}

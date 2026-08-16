@@ -1,0 +1,11 @@
+{
+  "commit": "09cb11b1aad4884f5ad55d3c237f216dbbe97f8f",
+  "repo_url": "https://github.com/siemens/kas",
+  "date": "2026-02-23T16:23:09",
+  "languages": {
+    "Python": 328433,
+    "Shell": 46099,
+    "Dockerfile": 7082
+  },
+  "size": 381614
+}

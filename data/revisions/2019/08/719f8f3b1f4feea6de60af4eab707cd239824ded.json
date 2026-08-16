@@ -1,0 +1,16 @@
+{
+  "commit": "719f8f3b1f4feea6de60af4eab707cd239824ded",
+  "repo_url": "https://github.com/tainacan/tainacan",
+  "date": "2019-08-21T19:28:44",
+  "languages": {
+    "PHP": 1623909,
+    "Vue": 1514673,
+    "JavaScript": 1069090,
+    "SCSS": 166556,
+    "CSS": 124549,
+    "HTML": 19162,
+    "Shell": 12245,
+    "Sass": 697
+  },
+  "size": 4530881
+}

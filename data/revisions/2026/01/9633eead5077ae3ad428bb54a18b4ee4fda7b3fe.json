@@ -1,0 +1,11 @@
+{
+  "commit": "9633eead5077ae3ad428bb54a18b4ee4fda7b3fe",
+  "repo_url": "https://github.com/apache/qpid-proton-dotnet",
+  "date": "2026-01-16T19:33:50",
+  "languages": {
+    "C#": 7511287,
+    "Shell": 5715,
+    "Dockerfile": 2251
+  },
+  "size": 7519253
+}

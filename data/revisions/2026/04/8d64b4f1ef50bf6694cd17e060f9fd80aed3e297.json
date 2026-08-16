@@ -1,0 +1,12 @@
+{
+  "commit": "8d64b4f1ef50bf6694cd17e060f9fd80aed3e297",
+  "repo_url": "https://github.com/dundee/gdu",
+  "date": "2026-04-29T21:34:37",
+  "languages": {
+    "Go": 621562,
+    "Makefile": 6582,
+    "Roff": 5347,
+    "Dockerfile": 220
+  },
+  "size": 633711
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "6c928548b1a7f233d0331210f8ba67c2f53bc6fb",
+  "repo_url": "https://github.com/cpan-authors/template2",
+  "date": "2022-08-16T07:00:27",
+  "languages": {
+    "Perl": 1533131,
+    "XS": 41352,
+    "Shell": 906,
+    "HTML": 48
+  },
+  "size": 1575437
+}

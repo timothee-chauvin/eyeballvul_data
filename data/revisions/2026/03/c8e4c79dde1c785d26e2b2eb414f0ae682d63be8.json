@@ -1,0 +1,12 @@
+{
+  "commit": "c8e4c79dde1c785d26e2b2eb414f0ae682d63be8",
+  "repo_url": "https://github.com/mattermost/mattermost-plugin-google-drive",
+  "date": "2026-03-04T08:59:48",
+  "languages": {
+    "Go": 209076,
+    "Makefile": 18297,
+    "JavaScript": 5005,
+    "TypeScript": 4658
+  },
+  "size": 237036
+}

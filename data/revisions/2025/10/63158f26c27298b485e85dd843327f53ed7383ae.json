@@ -1,0 +1,13 @@
+{
+  "commit": "63158f26c27298b485e85dd843327f53ed7383ae",
+  "repo_url": "https://github.com/dromara/lamp-cloud",
+  "date": "2025-10-26T16:37:32",
+  "languages": {
+    "Java": 2897088,
+    "FreeMarker": 266943,
+    "Shell": 8337,
+    "Batchfile": 1787,
+    "Dockerfile": 1431
+  },
+  "size": 3175586
+}

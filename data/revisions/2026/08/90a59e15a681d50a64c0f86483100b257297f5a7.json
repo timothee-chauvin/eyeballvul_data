@@ -1,0 +1,12 @@
+{
+  "commit": "90a59e15a681d50a64c0f86483100b257297f5a7",
+  "repo_url": "https://github.com/byron/dua-cli",
+  "date": "2026-08-04T15:45:56",
+  "languages": {
+    "Rust": 419560,
+    "Shell": 11091,
+    "Makefile": 1997,
+    "Dockerfile": 162
+  },
+  "size": 432810
+}

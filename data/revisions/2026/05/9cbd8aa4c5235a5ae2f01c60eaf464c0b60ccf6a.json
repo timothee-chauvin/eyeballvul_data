@@ -1,0 +1,11 @@
+{
+  "commit": "9cbd8aa4c5235a5ae2f01c60eaf464c0b60ccf6a",
+  "repo_url": "https://github.com/pipeboard-co/meta-ads-mcp",
+  "date": "2026-05-20T19:19:56",
+  "languages": {
+    "Python": 1262059,
+    "Shell": 4121,
+    "Dockerfile": 545
+  },
+  "size": 1266725
+}

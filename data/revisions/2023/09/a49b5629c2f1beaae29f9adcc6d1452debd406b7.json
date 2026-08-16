@@ -1,0 +1,15 @@
+{
+  "commit": "a49b5629c2f1beaae29f9adcc6d1452debd406b7",
+  "repo_url": "https://github.com/mosparo/mosparo",
+  "date": "2023-09-10T17:22:32",
+  "languages": {
+    "PHP": 663127,
+    "Twig": 383042,
+    "JavaScript": 52084,
+    "SCSS": 36198,
+    "CSS": 6387,
+    "Dockerfile": 2040,
+    "Shell": 879
+  },
+  "size": 1143757
+}

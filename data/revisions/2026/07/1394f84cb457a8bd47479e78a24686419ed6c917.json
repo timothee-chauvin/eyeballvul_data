@@ -1,0 +1,17 @@
+{
+  "commit": "1394f84cb457a8bd47479e78a24686419ed6c917",
+  "repo_url": "https://github.com/goodrain/rainbond",
+  "date": "2026-07-31T09:54:04",
+  "languages": {
+    "Go": 5865470,
+    "Roff": 273278,
+    "Dockerfile": 25765,
+    "Python": 25141,
+    "C": 17672,
+    "JavaScript": 13236,
+    "Shell": 5832,
+    "Starlark": 3480,
+    "Makefile": 2634
+  },
+  "size": 6232508
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "34a815af8486543d40fd05bd9bd29788c062b7e7",
+  "repo_url": "https://github.com/groupultra/telegram-search",
+  "date": "2026-06-29T06:16:01",
+  "languages": {
+    "TypeScript": 964675,
+    "Vue": 343584,
+    "CSS": 4924,
+    "Dockerfile": 3288,
+    "HTML": 574,
+    "Shell": 189
+  },
+  "size": 1317234
+}

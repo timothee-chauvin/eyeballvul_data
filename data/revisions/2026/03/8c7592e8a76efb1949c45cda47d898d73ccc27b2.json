@@ -1,0 +1,16 @@
+{
+  "commit": "8c7592e8a76efb1949c45cda47d898d73ccc27b2",
+  "repo_url": "https://github.com/taubyte/tau",
+  "date": "2026-03-08T18:45:47",
+  "languages": {
+    "Go": 6233446,
+    "Python": 349091,
+    "TypeScript": 312232,
+    "JavaScript": 10964,
+    "Shell": 3404,
+    "HTML": 536,
+    "Rust": 376,
+    "Dockerfile": 110
+  },
+  "size": 6910159
+}

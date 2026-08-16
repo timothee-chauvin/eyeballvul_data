@@ -1,0 +1,16 @@
+{
+  "commit": "f68aaa072debed73213d12d69e3f6cb5a20431d8",
+  "repo_url": "https://github.com/topoteretes/cognee",
+  "date": "2026-06-19T15:09:44",
+  "languages": {
+    "Python": 7502384,
+    "TypeScript": 1091446,
+    "JavaScript": 142855,
+    "HTML": 27076,
+    "CSS": 21498,
+    "Shell": 13713,
+    "Dockerfile": 10235,
+    "Mako": 635
+  },
+  "size": 8809842
+}

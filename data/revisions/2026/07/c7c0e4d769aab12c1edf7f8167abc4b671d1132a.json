@@ -1,0 +1,20 @@
+{
+  "commit": "c7c0e4d769aab12c1edf7f8167abc4b671d1132a",
+  "repo_url": "https://github.com/xpf0000/flyenv",
+  "date": "2026-07-26T14:40:45",
+  "languages": {
+    "TypeScript": 3455945,
+    "Vue": 2312535,
+    "Go": 140660,
+    "JavaScript": 135563,
+    "SCSS": 75394,
+    "Shell": 48947,
+    "PowerShell": 38585,
+    "CSS": 30659,
+    "HTML": 16449,
+    "Dart": 4833,
+    "Batchfile": 2625,
+    "NSIS": 776
+  },
+  "size": 6262971
+}

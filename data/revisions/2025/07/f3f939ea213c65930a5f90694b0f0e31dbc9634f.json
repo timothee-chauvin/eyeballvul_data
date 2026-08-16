@@ -1,0 +1,18 @@
+{
+  "commit": "f3f939ea213c65930a5f90694b0f0e31dbc9634f",
+  "repo_url": "https://github.com/anubissbe/projecthub-mcp",
+  "date": "2025-07-04T12:20:37",
+  "languages": {
+    "TypeScript": 1031165,
+    "HTML": 291775,
+    "JavaScript": 280178,
+    "Shell": 62575,
+    "PLpgSQL": 49211,
+    "Handlebars": 37007,
+    "Python": 32273,
+    "CSS": 16835,
+    "PowerShell": 12114,
+    "Dockerfile": 2922
+  },
+  "size": 1816055
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "fb4ad8e4524ca07c7cc9c3652b10ee550294b06f",
+  "repo_url": "https://github.com/openyak/openyak",
+  "date": "2026-04-22T04:45:56",
+  "languages": {
+    "Python": 2415354,
+    "TypeScript": 1102323,
+    "HTML": 170551,
+    "Rust": 51815,
+    "CSS": 25274,
+    "JavaScript": 24995,
+    "Shell": 11441,
+    "NSIS": 1832,
+    "Mako": 670
+  },
+  "size": 3804255
+}

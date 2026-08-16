@@ -1,0 +1,15 @@
+{
+  "commit": "54708a938415ec49fc783109a9c234c74df80d4d",
+  "repo_url": "https://github.com/mattermost/mattermost-plugin-legal-hold",
+  "date": "2026-02-03T13:58:13",
+  "languages": {
+    "Go": 204222,
+    "TypeScript": 111070,
+    "SCSS": 21021,
+    "Makefile": 16808,
+    "JavaScript": 13409,
+    "HTML": 11766,
+    "Shell": 409
+  },
+  "size": 378705
+}

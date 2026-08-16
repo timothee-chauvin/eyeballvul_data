@@ -1,0 +1,19 @@
+{
+  "commit": "b9e4127b99a9e30f0af464a661c6d2234cdc5f03",
+  "repo_url": "https://github.com/postgis/postgis",
+  "date": "2026-07-21T00:18:18",
+  "languages": {
+    "PLpgSQL": 8316768,
+    "C": 6891633,
+    "Python": 544191,
+    "M4": 248244,
+    "Perl": 189506,
+    "Shell": 160962,
+    "Makefile": 118908,
+    "C++": 30103,
+    "Yacc": 29853,
+    "Roff": 10821,
+    "Lex": 3873
+  },
+  "size": 16544862
+}

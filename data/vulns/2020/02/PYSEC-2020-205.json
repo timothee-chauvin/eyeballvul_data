@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-205",
+  "published": "2020-02-18T15:15:00",
+  "modified": "2026-06-10T17:00:19.523014",
+  "details": "Multiple argument injection vulnerabilities in Ansible before 1.6.7 allow remote attackers to execute arbitrary code by leveraging access to an Ansible managed host and providing a crafted fact, as demonstrated by a fact with (1) a trailing \" src=\" clause, (2) a trailing \" temp=\" clause, or (3) a trailing \" validate=\" clause accompanied by a shell command.",
+  "repo_url": "https://github.com/ansible/ansible",
+  "cwes": [],
+  "commits": [
+    "f67c13f8f10a6f8e0343a3c3d4e8ad7737ed28ab"
+  ]
+}

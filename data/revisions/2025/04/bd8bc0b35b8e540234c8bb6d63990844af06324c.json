@@ -1,0 +1,16 @@
+{
+  "commit": "bd8bc0b35b8e540234c8bb6d63990844af06324c",
+  "repo_url": "https://github.com/readarr/readarr",
+  "date": "2025-04-13T10:17:00",
+  "languages": {
+    "C#": 5987856,
+    "JavaScript": 2502617,
+    "CSS": 156449,
+    "TypeScript": 126268,
+    "Shell": 13739,
+    "HTML": 7704,
+    "Inno Setup": 4075,
+    "EJS": 2558
+  },
+  "size": 8801266
+}

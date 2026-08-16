@@ -1,0 +1,10 @@
+{
+  "commit": "97508681dfcf7005406276214af6a3f2cad5a723",
+  "repo_url": "https://github.com/web-platform-dx/baseline-browser-mapping",
+  "date": "2026-07-20T15:43:17",
+  "languages": {
+    "JavaScript": 195431,
+    "TypeScript": 41437
+  },
+  "size": 236868
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "2d93a5d9991fd45caeefd44f8b322825a0e1b2c6",
+  "repo_url": "https://github.com/uhop/node-re2",
+  "date": "2026-06-16T23:20:02",
+  "languages": {
+    "C++": 391566,
+    "JavaScript": 107369,
+    "Python": 7578,
+    "TypeScript": 4780,
+    "C": 301
+  },
+  "size": 511594
+}

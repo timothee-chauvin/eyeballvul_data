@@ -1,0 +1,13 @@
+{
+  "commit": "4ac37704893ce267fb2fe36c0b30d7dc84627a63",
+  "repo_url": "https://github.com/ibm-security/ibm-application-gateway-operator",
+  "date": "2026-06-04T02:46:52",
+  "languages": {
+    "Go": 103165,
+    "Makefile": 11905,
+    "Python": 8985,
+    "Shell": 6466,
+    "Dockerfile": 3499
+  },
+  "size": 134020
+}

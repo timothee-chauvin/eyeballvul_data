@@ -1,0 +1,22 @@
+{
+  "commit": "be6918689a1f646feec95e1f072bd0cdc9c1a4ec",
+  "repo_url": "https://github.com/ansible/ansible",
+  "date": "2019-07-25T17:03:46",
+  "languages": {
+    "Python": 51580696,
+    "PowerShell": 1379971,
+    "Shell": 150443,
+    "C#": 141434,
+    "Jinja": 52406,
+    "Makefile": 24308,
+    "Tcl": 3223,
+    "Go": 2010,
+    "Roff": 1533,
+    "DIGITAL Command Language": 1202,
+    "Dockerfile": 431,
+    "Batchfile": 144,
+    "JavaScript": 80,
+    "HTML": 54
+  },
+  "size": 53337935
+}

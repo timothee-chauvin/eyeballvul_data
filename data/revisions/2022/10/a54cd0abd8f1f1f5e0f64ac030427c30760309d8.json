@@ -1,0 +1,11 @@
+{
+  "commit": "a54cd0abd8f1f1f5e0f64ac030427c30760309d8",
+  "repo_url": "https://github.com/huggingface/accelerate",
+  "date": "2022-10-05T18:24:25",
+  "languages": {
+    "Python": 721819,
+    "Makefile": 2478,
+    "Dockerfile": 2371
+  },
+  "size": 726668
+}

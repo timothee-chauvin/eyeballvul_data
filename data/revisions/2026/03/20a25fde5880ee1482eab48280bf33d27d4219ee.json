@@ -1,0 +1,20 @@
+{
+  "commit": "20a25fde5880ee1482eab48280bf33d27d4219ee",
+  "repo_url": "https://github.com/volcengine/openviking",
+  "date": "2026-03-26T05:18:51",
+  "languages": {
+    "Python": 5304448,
+    "C++": 394219,
+    "Rust": 168447,
+    "JavaScript": 90152,
+    "Shell": 76836,
+    "CSS": 26894,
+    "HTML": 17463,
+    "CMake": 13441,
+    "TypeScript": 8775,
+    "Dockerfile": 7727,
+    "Makefile": 4432,
+    "Smarty": 2021
+  },
+  "size": 6114855
+}

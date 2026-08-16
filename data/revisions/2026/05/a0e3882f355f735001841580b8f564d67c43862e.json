@@ -1,0 +1,13 @@
+{
+  "commit": "a0e3882f355f735001841580b8f564d67c43862e",
+  "repo_url": "https://github.com/shd101wyy/crossnote",
+  "date": "2026-05-24T15:19:47",
+  "languages": {
+    "TypeScript": 886730,
+    "Less": 109702,
+    "CSS": 82056,
+    "JavaScript": 9372,
+    "Nix": 572
+  },
+  "size": 1088432
+}

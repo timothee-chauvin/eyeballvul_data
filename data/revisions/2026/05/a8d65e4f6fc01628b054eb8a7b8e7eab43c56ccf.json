@@ -1,0 +1,15 @@
+{
+  "commit": "a8d65e4f6fc01628b054eb8a7b8e7eab43c56ccf",
+  "repo_url": "https://github.com/aimeos/pagible",
+  "date": "2026-05-13T17:32:39",
+  "languages": {
+    "PHP": 894544,
+    "Vue": 479713,
+    "JavaScript": 365289,
+    "CSS": 48358,
+    "Blade": 36160,
+    "HTML": 12232,
+    "SCSS": 132
+  },
+  "size": 1836428
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "53fe0c9fe4df661081d49efe637de915e40a55eb",
+  "repo_url": "https://github.com/vmoranv/jshookmcp",
+  "date": "2026-05-16T11:20:19",
+  "languages": {
+    "TypeScript": 12803053,
+    "JavaScript": 343904,
+    "PowerShell": 4659,
+    "Python": 828,
+    "AppleScript": 607,
+    "Shell": 301,
+    "WebAssembly": 262
+  },
+  "size": 13153614
+}

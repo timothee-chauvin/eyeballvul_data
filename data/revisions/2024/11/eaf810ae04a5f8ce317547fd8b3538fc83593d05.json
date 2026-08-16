@@ -1,0 +1,10 @@
+{
+  "commit": "eaf810ae04a5f8ce317547fd8b3538fc83593d05",
+  "repo_url": "https://github.com/aws/amazon-redshift-jdbc-driver",
+  "date": "2024-11-19T23:36:43",
+  "languages": {
+    "Java": 2769192,
+    "Shell": 2420
+  },
+  "size": 2771612
+}

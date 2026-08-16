@@ -1,0 +1,13 @@
+{
+  "commit": "0525c73950de35ded110cffafb9892946d7771b5",
+  "repo_url": "https://github.com/phpcsstandards/php_codesniffer",
+  "date": "2025-11-10T16:43:36",
+  "languages": {
+    "PHP": 5582608,
+    "HTML": 90437,
+    "Shell": 8835,
+    "Batchfile": 795,
+    "C++": 410
+  },
+  "size": 5683085
+}

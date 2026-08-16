@@ -1,0 +1,18 @@
+{
+  "commit": "3e93bc1dd6c1c3f2ee101f754567aa007b24bb5e",
+  "repo_url": "https://github.com/clusterlabs/pacemaker",
+  "date": "2015-03-26T02:17:34",
+  "languages": {
+    "C": 3982615,
+    "Python": 473990,
+    "Shell": 346722,
+    "M4": 127406,
+    "Makefile": 74362,
+    "XSLT": 44114,
+    "Perl": 24056,
+    "C++": 9591,
+    "Yacc": 4192,
+    "Lex": 1697
+  },
+  "size": 5088745
+}

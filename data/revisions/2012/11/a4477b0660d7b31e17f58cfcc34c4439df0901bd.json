@@ -1,0 +1,13 @@
+{
+  "commit": "a4477b0660d7b31e17f58cfcc34c4439df0901bd",
+  "repo_url": "https://github.com/schwehr/libais",
+  "date": "2012-11-18T19:25:08",
+  "languages": {
+    "C++": 278518,
+    "Python": 67435,
+    "HTML": 6768,
+    "Makefile": 4691,
+    "Shell": 3385
+  },
+  "size": 360797
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "2a53547c215f6ddd239892b339f85f83d0e6288a",
+  "repo_url": "https://github.com/livebook-dev/livebook",
+  "date": "2026-05-20T15:33:14",
+  "languages": {
+    "Elixir": 3351261,
+    "JavaScript": 287617,
+    "HTML": 46607,
+    "Rust": 33358,
+    "CSS": 24182,
+    "Swift": 19661,
+    "C#": 17849,
+    "Shell": 15885,
+    "Python": 8936,
+    "Dockerfile": 5426,
+    "NSIS": 5032,
+    "Batchfile": 56
+  },
+  "size": 3815870
+}

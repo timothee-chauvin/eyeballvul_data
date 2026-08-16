@@ -7,6 +7,7 @@
   "repo_url": "https://github.com/sigstore/sigstore-java",
   "cwes": [],
   "commits": [
+    "411721f4879abebd95bd9ab6ed3724366b13cdce",
     "d2603344a9357cb73142cb65caf5f39ddb428395"
   ]
 }

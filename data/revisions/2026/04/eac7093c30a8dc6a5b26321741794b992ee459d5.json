@@ -1,0 +1,14 @@
+{
+  "commit": "eac7093c30a8dc6a5b26321741794b992ee459d5",
+  "repo_url": "https://github.com/anephenix/hub",
+  "date": "2026-04-07T20:05:49",
+  "languages": {
+    "TypeScript": 164996,
+    "JavaScript": 28507,
+    "Gherkin": 5840,
+    "HTML": 283,
+    "CSS": 234,
+    "Dockerfile": 159
+  },
+  "size": 200019
+}

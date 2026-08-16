@@ -1,0 +1,14 @@
+{
+  "commit": "9b840a5a0c3455278d580418d6336f2011cf8574",
+  "repo_url": "https://github.com/hashicorp/vault-secrets-operator",
+  "date": "2026-06-30T17:56:48",
+  "languages": {
+    "Go": 1262499,
+    "Shell": 215933,
+    "HCL": 115229,
+    "Makefile": 40125,
+    "Smarty": 17681,
+    "Dockerfile": 4735
+  },
+  "size": 1656202
+}

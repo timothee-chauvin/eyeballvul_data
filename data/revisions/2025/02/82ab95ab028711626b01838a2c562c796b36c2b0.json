@@ -1,0 +1,14 @@
+{
+  "commit": "82ab95ab028711626b01838a2c562c796b36c2b0",
+  "repo_url": "https://github.com/advplyr/audiobookshelf",
+  "date": "2025-02-02T21:39:46",
+  "languages": {
+    "JavaScript": 2978938,
+    "Vue": 1466224,
+    "CSS": 35085,
+    "Shell": 6399,
+    "Dockerfile": 1776,
+    "HTML": 315
+  },
+  "size": 4488737
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "28f029427513a9f189a419ba93b96a5d5d579a03",
+  "repo_url": "https://github.com/sucuri/sucuri-wordpress-plugin",
+  "date": "2026-04-22T23:02:42",
+  "languages": {
+    "PHP": 943321,
+    "Smarty": 244243,
+    "JavaScript": 166099,
+    "CSS": 102658,
+    "Shell": 3522,
+    "Makefile": 1291,
+    "HTML": 266
+  },
+  "size": 1461400
+}

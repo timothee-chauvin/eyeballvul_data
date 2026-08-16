@@ -1,0 +1,15 @@
+{
+  "commit": "238b3c43740a9c93a1c4e60f18559709940b0ece",
+  "repo_url": "https://github.com/litestar-org/litestar",
+  "date": "2024-04-05T20:26:57",
+  "languages": {
+    "Python": 3134137,
+    "Makefile": 6672,
+    "HTML": 1855,
+    "CSS": 1830,
+    "JavaScript": 920,
+    "Lua": 848,
+    "Dockerfile": 523
+  },
+  "size": 3146785
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "a56d9b23a507e5b407da6d693ce510d3a175b7d5",
+  "repo_url": "https://github.com/symfony/ux",
+  "date": "2025-04-04T17:34:43",
+  "languages": {
+    "PHP": 2088393,
+    "TypeScript": 624457,
+    "Twig": 234100,
+    "SCSS": 86410,
+    "JavaScript": 41733,
+    "Shell": 3602,
+    "CSS": 1916,
+    "Svelte": 1501,
+    "Vue": 184,
+    "HTML": 53
+  },
+  "size": 3082349
+}

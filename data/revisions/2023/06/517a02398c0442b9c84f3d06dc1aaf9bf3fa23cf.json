@@ -1,0 +1,12 @@
+{
+  "commit": "517a02398c0442b9c84f3d06dc1aaf9bf3fa23cf",
+  "repo_url": "https://github.com/emlog/emlog",
+  "date": "2023-06-17T08:27:34",
+  "languages": {
+    "PHP": 988188,
+    "JavaScript": 280905,
+    "CSS": 174566,
+    "Dockerfile": 372
+  },
+  "size": 1444031
+}

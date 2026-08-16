@@ -1,0 +1,16 @@
+{
+  "commit": "7b8bcfa296f3b6ce814492e51df4526a9ac21a15",
+  "repo_url": "https://github.com/seriousm4x/upsnap",
+  "date": "2026-05-14T20:58:47",
+  "languages": {
+    "Go": 108686,
+    "Svelte": 106053,
+    "TypeScript": 7254,
+    "JavaScript": 1944,
+    "Dockerfile": 975,
+    "HTML": 931,
+    "Shell": 115,
+    "CSS": 60
+  },
+  "size": 226018
+}

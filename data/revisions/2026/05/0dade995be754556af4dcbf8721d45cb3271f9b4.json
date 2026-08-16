@@ -1,0 +1,12 @@
+{
+  "commit": "0dade995be754556af4dcbf8721d45cb3271f9b4",
+  "repo_url": "https://github.com/twigphp/twig",
+  "date": "2026-05-17T07:41:26",
+  "languages": {
+    "PHP": 1275008,
+    "Shell": 1690,
+    "Twig": 806,
+    "HTML": 286
+  },
+  "size": 1277790
+}

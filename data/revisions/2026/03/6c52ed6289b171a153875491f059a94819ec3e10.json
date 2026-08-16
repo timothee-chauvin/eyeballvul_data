@@ -1,0 +1,15 @@
+{
+  "commit": "6c52ed6289b171a153875491f059a94819ec3e10",
+  "repo_url": "https://github.com/squidfunk/mkdocs-material",
+  "date": "2026-03-19T15:39:27",
+  "languages": {
+    "Python": 924991,
+    "HTML": 590371,
+    "TypeScript": 512260,
+    "SCSS": 289498,
+    "JavaScript": 22878,
+    "CSS": 10155,
+    "Dockerfile": 3000
+  },
+  "size": 2353153
+}

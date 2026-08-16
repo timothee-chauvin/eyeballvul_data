@@ -1,0 +1,17 @@
+{
+  "commit": "71bd92bdf7c47249bd6b280206409c15e4787dbb",
+  "repo_url": "https://github.com/meeting-room-booking-system/mrbs-code",
+  "date": "2024-11-06T09:41:04",
+  "languages": {
+    "PHP": 4548179,
+    "JavaScript": 3565250,
+    "CSS": 256401,
+    "HTML": 85389,
+    "PLpgSQL": 11292,
+    "SCSS": 6478,
+    "Perl": 2293,
+    "Dockerfile": 392,
+    "Roff": 115
+  },
+  "size": 8475789
+}

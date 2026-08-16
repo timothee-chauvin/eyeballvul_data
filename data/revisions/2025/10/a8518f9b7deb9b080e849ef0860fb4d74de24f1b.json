@@ -1,0 +1,11 @@
+{
+  "commit": "a8518f9b7deb9b080e849ef0860fb4d74de24f1b",
+  "repo_url": "https://github.com/mauriciomilano/coder-api",
+  "date": "2025-10-09T03:11:25",
+  "languages": {
+    "TypeScript": 47001,
+    "JavaScript": 3091,
+    "Dockerfile": 201
+  },
+  "size": 50293
+}

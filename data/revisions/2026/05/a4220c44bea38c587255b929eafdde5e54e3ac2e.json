@@ -1,0 +1,29 @@
+{
+  "commit": "a4220c44bea38c587255b929eafdde5e54e3ac2e",
+  "repo_url": "https://github.com/northebridge/luminalshine",
+  "date": "2026-05-24T00:59:43",
+  "languages": {
+    "C++": 4415545,
+    "Vue": 894375,
+    "TypeScript": 236444,
+    "C#": 226267,
+    "PowerShell": 196489,
+    "CMake": 161644,
+    "HTML": 126387,
+    "CSS": 52455,
+    "Shell": 50463,
+    "Objective-C++": 32264,
+    "JavaScript": 17744,
+    "HLSL": 12658,
+    "Objective-C": 12606,
+    "Cuda": 10990,
+    "Dockerfile": 10788,
+    "VBScript": 10738,
+    "Batchfile": 10701,
+    "C": 9719,
+    "Ruby": 9043,
+    "Python": 6000,
+    "GLSL": 2391
+  },
+  "size": 6505711
+}

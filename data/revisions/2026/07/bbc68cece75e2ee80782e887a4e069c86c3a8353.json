@@ -1,0 +1,14 @@
+{
+  "commit": "bbc68cece75e2ee80782e887a4e069c86c3a8353",
+  "repo_url": "https://github.com/openchoreo/backstage-plugins",
+  "date": "2026-07-24T09:50:50",
+  "languages": {
+    "TypeScript": 9651458,
+    "JavaScript": 16007,
+    "Shell": 15994,
+    "Dockerfile": 5368,
+    "CSS": 3262,
+    "HTML": 1983
+  },
+  "size": 9694072
+}

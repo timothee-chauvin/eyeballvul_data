@@ -1,0 +1,13 @@
+{
+  "commit": "da040b1e11f0b8ce791f1ec34b42435c5b772d43",
+  "repo_url": "https://github.com/openimsdk/open-im-server",
+  "date": "2024-09-30T04:05:37",
+  "languages": {
+    "Go": 1333642,
+    "Shell": 25678,
+    "Dockerfile": 20758,
+    "Smarty": 20552,
+    "Batchfile": 555
+  },
+  "size": 1401185
+}

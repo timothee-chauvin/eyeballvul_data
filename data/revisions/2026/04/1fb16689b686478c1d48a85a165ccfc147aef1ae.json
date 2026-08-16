@@ -1,0 +1,14 @@
+{
+  "commit": "1fb16689b686478c1d48a85a165ccfc147aef1ae",
+  "repo_url": "https://github.com/open-reception/appointment-booking-software",
+  "date": "2026-04-30T14:22:30",
+  "languages": {
+    "TypeScript": 1720086,
+    "Svelte": 517035,
+    "HTML": 59612,
+    "JavaScript": 20032,
+    "CSS": 5315,
+    "Dockerfile": 1930
+  },
+  "size": 2324010
+}

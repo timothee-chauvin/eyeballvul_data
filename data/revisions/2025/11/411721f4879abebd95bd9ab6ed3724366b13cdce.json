@@ -1,0 +1,11 @@
+{
+  "commit": "411721f4879abebd95bd9ab6ed3724366b13cdce",
+  "repo_url": "https://github.com/sigstore/sigstore-java",
+  "date": "2025-11-20T20:21:44",
+  "languages": {
+    "Java": 892049,
+    "Kotlin": 62776,
+    "Shell": 6860
+  },
+  "size": 961685
+}

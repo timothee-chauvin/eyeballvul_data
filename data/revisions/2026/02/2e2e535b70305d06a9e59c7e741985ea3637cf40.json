@@ -1,0 +1,15 @@
+{
+  "commit": "2e2e535b70305d06a9e59c7e741985ea3637cf40",
+  "repo_url": "https://github.com/opensignlabs/opensign",
+  "date": "2026-02-06T12:50:23",
+  "languages": {
+    "JavaScript": 2145088,
+    "CSS": 58339,
+    "HTML": 6941,
+    "Shell": 1006,
+    "TypeScript": 873,
+    "Dockerfile": 346,
+    "Makefile": 318
+  },
+  "size": 2212911
+}

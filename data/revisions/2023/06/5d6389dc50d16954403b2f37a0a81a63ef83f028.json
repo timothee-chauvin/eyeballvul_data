@@ -1,0 +1,18 @@
+{
+  "commit": "5d6389dc50d16954403b2f37a0a81a63ef83f028",
+  "repo_url": "https://github.com/cc-tweaked/cc-tweaked",
+  "date": "2023-06-13T17:07:07",
+  "languages": {
+    "Java": 2437968,
+    "Lua": 916658,
+    "Kotlin": 185148,
+    "TypeScript": 15643,
+    "Python": 9976,
+    "Common Lisp": 3903,
+    "CSS": 3686,
+    "GLSL": 2677,
+    "JavaScript": 1871,
+    "Dockerfile": 329
+  },
+  "size": 3577859
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "c154721f4a8f3e24d2f6fb61e74b4b64529255c2",
+  "repo_url": "https://github.com/gogs/gogs",
+  "date": "2019-08-12T01:59:46",
+  "languages": {
+    "JavaScript": 2059562,
+    "Go": 1152296,
+    "HTML": 499303,
+    "CSS": 157316,
+    "Less": 52282,
+    "Shell": 18346,
+    "Makefile": 2036,
+    "Dockerfile": 1116,
+    "Batchfile": 932,
+    "Procfile": 33
+  },
+  "size": 3943222
+}

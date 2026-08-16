@@ -1,0 +1,14 @@
+{
+  "commit": "707ea8215b63665311908bb22710186c0507123e",
+  "repo_url": "https://github.com/go-shiori/shiori",
+  "date": "2018-06-14T07:32:50",
+  "languages": {
+    "JavaScript": 303166,
+    "Go": 69416,
+    "HTML": 55713,
+    "Less": 26507,
+    "CSS": 6225,
+    "Dockerfile": 528
+  },
+  "size": 461555
+}

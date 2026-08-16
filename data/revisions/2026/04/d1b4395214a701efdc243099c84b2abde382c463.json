@@ -1,0 +1,16 @@
+{
+  "commit": "d1b4395214a701efdc243099c84b2abde382c463",
+  "repo_url": "https://github.com/awslabs/mcp",
+  "date": "2026-04-02T08:23:15",
+  "languages": {
+    "Python": 28172048,
+    "Shell": 273877,
+    "Dockerfile": 163871,
+    "Jinja": 103643,
+    "HTML": 29973,
+    "TypeScript": 19235,
+    "CSS": 8855,
+    "MDX": 324
+  },
+  "size": 28771826
+}

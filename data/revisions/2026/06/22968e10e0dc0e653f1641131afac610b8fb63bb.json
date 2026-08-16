@@ -1,0 +1,17 @@
+{
+  "commit": "22968e10e0dc0e653f1641131afac610b8fb63bb",
+  "repo_url": "https://github.com/mtrojnar/stunnel",
+  "date": "2026-06-29T16:13:11",
+  "languages": {
+    "C": 853840,
+    "Shell": 413573,
+    "Python": 246054,
+    "Makefile": 180764,
+    "NSIS": 30979,
+    "M4": 17007,
+    "Perl": 4685,
+    "Batchfile": 4472,
+    "HTML": 1530
+  },
+  "size": 1752904
+}

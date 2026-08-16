@@ -1,0 +1,18 @@
+{
+  "commit": "b276eeee755f72631dc2a097b6fd42dc38807ae8",
+  "repo_url": "https://github.com/element-hq/element-call",
+  "date": "2026-05-04T16:39:53",
+  "languages": {
+    "TypeScript": 1509386,
+    "CSS": 65247,
+    "JavaScript": 5875,
+    "Shell": 4428,
+    "HTML": 3525,
+    "MDX": 1031,
+    "Swift": 869,
+    "Python": 565,
+    "Dockerfile": 318,
+    "Kotlin": 217
+  },
+  "size": 1591461
+}

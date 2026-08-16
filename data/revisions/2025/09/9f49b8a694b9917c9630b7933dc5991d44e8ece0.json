@@ -1,0 +1,13 @@
+{
+  "commit": "9f49b8a694b9917c9630b7933dc5991d44e8ece0",
+  "repo_url": "https://github.com/pimzino/spec-workflow-mcp",
+  "date": "2025-09-08T14:55:05",
+  "languages": {
+    "TypeScript": 714863,
+    "JavaScript": 23686,
+    "CSS": 17948,
+    "HTML": 2982,
+    "Dockerfile": 889
+  },
+  "size": 760368
+}

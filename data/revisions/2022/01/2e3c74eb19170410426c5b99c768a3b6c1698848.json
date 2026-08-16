@@ -1,0 +1,16 @@
+{
+  "commit": "2e3c74eb19170410426c5b99c768a3b6c1698848",
+  "repo_url": "https://github.com/huginn/huginn",
+  "date": "2022-01-04T02:08:22",
+  "languages": {
+    "Ruby": 1468505,
+    "HTML": 128791,
+    "CoffeeScript": 29389,
+    "Shell": 11919,
+    "SCSS": 3819,
+    "Dockerfile": 3319,
+    "Procfile": 2328,
+    "Makefile": 40
+  },
+  "size": 1648110
+}

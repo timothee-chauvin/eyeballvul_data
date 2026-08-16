@@ -1,0 +1,15 @@
+{
+  "commit": "fc937358e71253a6efaa3ba74885364976b040ea",
+  "repo_url": "https://github.com/smuellerdd/libkcapi",
+  "date": "2024-01-11T18:44:17",
+  "languages": {
+    "C": 674629,
+    "Shell": 230623,
+    "Perl": 73398,
+    "Roff": 21606,
+    "M4": 15380,
+    "Makefile": 8835,
+    "XSLT": 445
+  },
+  "size": 1024916
+}

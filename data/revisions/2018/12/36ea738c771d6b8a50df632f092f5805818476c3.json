@@ -1,0 +1,9 @@
+{
+  "commit": "36ea738c771d6b8a50df632f092f5805818476c3",
+  "repo_url": "https://github.com/kubernetes/kubelet",
+  "date": "2018-12-04T00:50:40",
+  "languages": {
+    "Go": 45296
+  },
+  "size": 45296
+}

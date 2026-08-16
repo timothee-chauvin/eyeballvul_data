@@ -1,0 +1,15 @@
+{
+  "commit": "66737ad47727b22ccbec139b1cd7667b5a39c5e4",
+  "repo_url": "https://github.com/lucasgelfond/zerobrew",
+  "date": "2026-05-30T05:13:27",
+  "languages": {
+    "Rust": 723578,
+    "Just": 27447,
+    "Shell": 19899,
+    "Ruby": 15991,
+    "CSS": 13102,
+    "Nunjucks": 5664,
+    "JavaScript": 3183
+  },
+  "size": 808864
+}

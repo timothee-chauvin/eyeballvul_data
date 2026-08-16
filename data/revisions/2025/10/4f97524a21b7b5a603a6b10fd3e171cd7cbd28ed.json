@@ -1,0 +1,14 @@
+{
+  "commit": "4f97524a21b7b5a603a6b10fd3e171cd7cbd28ed",
+  "repo_url": "https://github.com/pennersr/django-allauth",
+  "date": "2025-10-05T09:05:45",
+  "languages": {
+    "Python": 1915971,
+    "HTML": 87212,
+    "JavaScript": 15962,
+    "Makefile": 1279,
+    "Nix": 626,
+    "Emacs Lisp": 117
+  },
+  "size": 2021167
+}

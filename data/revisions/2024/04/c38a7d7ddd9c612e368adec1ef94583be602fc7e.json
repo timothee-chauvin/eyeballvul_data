@@ -1,0 +1,17 @@
+{
+  "commit": "c38a7d7ddd9c612e368adec1ef94583be602fc7e",
+  "repo_url": "https://github.com/huggingface/text-generation-inference",
+  "date": "2024-04-12T16:38:34",
+  "languages": {
+    "Python": 1328841,
+    "Rust": 368376,
+    "Cuda": 150454,
+    "C++": 11411,
+    "Dockerfile": 8462,
+    "JavaScript": 5039,
+    "Makefile": 2821,
+    "C": 1001,
+    "Shell": 654
+  },
+  "size": 1877059
+}
