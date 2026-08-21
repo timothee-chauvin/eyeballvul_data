@@ -1,0 +1,11 @@
+{
+  "commit": "fe9c9a77d1ae33dba0188d59c3bf6266b8bdec91",
+  "repo_url": "https://github.com/tirr-c/jxl-oxide",
+  "date": "2025-09-30T15:09:01",
+  "languages": {
+    "Rust": 1463069,
+    "Nix": 15607,
+    "JavaScript": 852
+  },
+  "size": 1479528
+}

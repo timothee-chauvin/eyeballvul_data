@@ -1,0 +1,18 @@
+{
+  "commit": "713f4c9deb9dc03667cda255418e026f9d1ca3fe",
+  "repo_url": "https://github.com/learningequality/kolibri",
+  "date": "2026-05-26T17:55:49",
+  "languages": {
+    "Python": 5668526,
+    "CSS": 5265276,
+    "JavaScript": 4046294,
+    "Vue": 3462390,
+    "Gherkin": 2063317,
+    "SCSS": 30470,
+    "HTML": 16735,
+    "Shell": 14030,
+    "Makefile": 12743,
+    "Dockerfile": 2377
+  },
+  "size": 20582158
+}

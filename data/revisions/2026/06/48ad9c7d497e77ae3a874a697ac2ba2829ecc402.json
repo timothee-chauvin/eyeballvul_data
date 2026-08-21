@@ -1,0 +1,12 @@
+{
+  "commit": "48ad9c7d497e77ae3a874a697ac2ba2829ecc402",
+  "repo_url": "https://github.com/getgrav/grav-plugin-api",
+  "date": "2026-06-16T23:14:40",
+  "languages": {
+    "PHP": 1135305,
+    "JavaScript": 49256,
+    "Twig": 11587,
+    "Shell": 5465
+  },
+  "size": 1201613
+}

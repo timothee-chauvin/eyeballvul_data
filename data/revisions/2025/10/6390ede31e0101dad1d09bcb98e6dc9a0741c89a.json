@@ -1,0 +1,12 @@
+{
+  "commit": "6390ede31e0101dad1d09bcb98e6dc9a0741c89a",
+  "repo_url": "https://github.com/sshnet/ssh.net",
+  "date": "2025-10-27T20:36:23",
+  "languages": {
+    "C#": 4644699,
+    "Dockerfile": 2371,
+    "Shell": 277,
+    "JavaScript": 158
+  },
+  "size": 4647505
+}

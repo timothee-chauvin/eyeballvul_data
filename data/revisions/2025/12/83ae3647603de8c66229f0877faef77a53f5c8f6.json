@@ -1,0 +1,13 @@
+{
+  "commit": "83ae3647603de8c66229f0877faef77a53f5c8f6",
+  "repo_url": "https://github.com/greydgl/pentestgpt",
+  "date": "2025-12-24T14:55:50",
+  "languages": {
+    "Python": 568005,
+    "HTML": 145712,
+    "Shell": 18020,
+    "Makefile": 8951,
+    "Dockerfile": 5116
+  },
+  "size": 745804
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "0f3acafacabc0def8cc76b4e48acb4b6cf302cb9",
+  "repo_url": "https://github.com/swe-agent/swe-agent",
+  "date": "2025-05-22T16:10:41",
+  "languages": {
+    "Python": 547291,
+    "JavaScript": 37304,
+    "CSS": 16097,
+    "Shell": 8162,
+    "HTML": 3674,
+    "C++": 3405,
+    "Dockerfile": 2302,
+    "Perl": 1876,
+    "C": 1330
+  },
+  "size": 621441
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "5d4c96dd12774574369e75b60084140101c9a59a",
+  "repo_url": "https://github.com/chenhg5/cc-connect",
+  "date": "2026-06-28T14:13:16",
+  "languages": {
+    "Go": 5732123,
+    "TypeScript": 313988,
+    "JavaScript": 9854,
+    "Makefile": 6085,
+    "HTML": 4880,
+    "Shell": 4633,
+    "CSS": 1962
+  },
+  "size": 6073525
+}

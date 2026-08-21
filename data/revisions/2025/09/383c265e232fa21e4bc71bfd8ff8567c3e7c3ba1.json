@@ -1,0 +1,16 @@
+{
+  "commit": "383c265e232fa21e4bc71bfd8ff8567c3e7c3ba1",
+  "repo_url": "https://github.com/treefrogframework/treefrog-framework",
+  "date": "2025-09-27T02:01:42",
+  "languages": {
+    "C++": 1803393,
+    "JavaScript": 1142098,
+    "QMake": 38886,
+    "Batchfile": 19680,
+    "HTML": 9485,
+    "C": 9363,
+    "CMake": 8790,
+    "Shell": 5375
+  },
+  "size": 3037070
+}

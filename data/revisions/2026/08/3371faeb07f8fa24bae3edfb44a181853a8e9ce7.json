@@ -1,0 +1,15 @@
+{
+  "commit": "3371faeb07f8fa24bae3edfb44a181853a8e9ce7",
+  "repo_url": "https://github.com/indilib/indi",
+  "date": "2026-08-05T03:25:06",
+  "languages": {
+    "C++": 12450068,
+    "C": 2046630,
+    "CMake": 215431,
+    "TeX": 100921,
+    "Shell": 12903,
+    "Dockerfile": 7454,
+    "Python": 3882
+  },
+  "size": 14837289
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "de056ae2dee05f7966f74c2555c15d410b4e2fbd",
+  "repo_url": "https://github.com/poxenstudio/mybooks",
+  "date": "2026-04-20T01:53:50",
+  "languages": {
+    "JavaScript": 3435950,
+    "Python": 1553614,
+    "Vue": 586026,
+    "CSS": 131786,
+    "HTML": 69038,
+    "Dockerfile": 6477,
+    "Shell": 4871,
+    "Makefile": 3238
+  },
+  "size": 5791000
+}

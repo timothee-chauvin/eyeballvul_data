@@ -1,0 +1,25 @@
+{
+  "commit": "bb959697d0e5948c8c87b1a2a8cfa4170a7642ae",
+  "repo_url": "https://github.com/t8y2/dbx",
+  "date": "2026-07-08T02:02:45",
+  "languages": {
+    "Rust": 5313727,
+    "TypeScript": 5206907,
+    "Vue": 3808764,
+    "Java": 1318744,
+    "Go": 166602,
+    "JavaScript": 82626,
+    "CSS": 51709,
+    "NSIS": 32125,
+    "Python": 30785,
+    "Nix": 15645,
+    "PHP": 13655,
+    "Shell": 4903,
+    "Dockerfile": 3759,
+    "Makefile": 3215,
+    "Batchfile": 1513,
+    "Ruby": 1124,
+    "HTML": 703
+  },
+  "size": 16056506
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "731c626cfec821f47d1cc2f742ced592c5613eaa",
+  "repo_url": "https://github.com/cefsharp/cefsharp",
+  "date": "2020-01-22T00:27:58",
+  "languages": {
+    "C#": 1539604,
+    "C++": 657014,
+    "HTML": 191199,
+    "CSS": 92244,
+    "PowerShell": 16239,
+    "C": 4056,
+    "JavaScript": 3159,
+    "Batchfile": 492
+  },
+  "size": 2504007
+}

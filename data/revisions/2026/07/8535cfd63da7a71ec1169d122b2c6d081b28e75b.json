@@ -1,0 +1,12 @@
+{
+  "commit": "8535cfd63da7a71ec1169d122b2c6d081b28e75b",
+  "repo_url": "https://github.com/covesa/open1722",
+  "date": "2026-07-12T17:44:27",
+  "languages": {
+    "C": 715594,
+    "CMake": 20992,
+    "Shell": 2073,
+    "Dockerfile": 883
+  },
+  "size": 739542
+}

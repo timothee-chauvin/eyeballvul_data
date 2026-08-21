@@ -1,0 +1,13 @@
+{
+  "commit": "256b8a42f6e62b0760daa6a184c1b4b55e996b3a",
+  "repo_url": "https://github.com/canop/broot",
+  "date": "2026-07-10T20:18:18",
+  "languages": {
+    "Rust": 1172427,
+    "RenderScript": 29771,
+    "CSS": 14269,
+    "Shell": 5880,
+    "JavaScript": 2002
+  },
+  "size": 1224349
+}

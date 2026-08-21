@@ -1,0 +1,22 @@
+{
+  "commit": "367ce830c7a16a5a92fd1c945501c53a04d05a32",
+  "repo_url": "https://github.com/celabshq/libcrux",
+  "date": "2026-01-26T17:35:02",
+  "languages": {
+    "C": 10261440,
+    "Rust": 4906387,
+    "Assembly": 2709207,
+    "F*": 1269252,
+    "C++": 185280,
+    "Python": 138087,
+    "Shell": 29385,
+    "Makefile": 21726,
+    "CMake": 15341,
+    "Nix": 8345,
+    "HTML": 7066,
+    "Go": 1680,
+    "Dockerfile": 907,
+    "sed": 76
+  },
+  "size": 19554179
+}

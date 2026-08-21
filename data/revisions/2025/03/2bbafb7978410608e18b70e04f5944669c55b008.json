@@ -1,0 +1,22 @@
+{
+  "commit": "2bbafb7978410608e18b70e04f5944669c55b008",
+  "repo_url": "https://github.com/determined-ai/determined",
+  "date": "2025-03-13T21:32:34",
+  "languages": {
+    "Go": 5460423,
+    "Python": 3418712,
+    "TypeScript": 2983935,
+    "SCSS": 103548,
+    "Shell": 80874,
+    "PLpgSQL": 62124,
+    "Makefile": 43422,
+    "HCL": 36303,
+    "Roff": 30321,
+    "JavaScript": 24556,
+    "Jupyter Notebook": 3033,
+    "Dockerfile": 2698,
+    "Smarty": 2265,
+    "HTML": 2071
+  },
+  "size": 12254285
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "b9c345de5b085debc7444fc10e0e26e7745df5f2",
+  "repo_url": "https://github.com/smicallef/spiderfoot",
+  "date": "2022-04-07T06:51:35",
+  "languages": {
+    "Python": 2785509,
+    "JavaScript": 34248,
+    "CSS": 9833,
+    "RobotFramework": 7375,
+    "Dockerfile": 2779,
+    "Shell": 1464
+  },
+  "size": 2841208
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "de3f6ff62aa736619b80d99dfca5bc3d2c9a799d",
+  "repo_url": "https://github.com/confidential-containers/guest-components",
+  "date": "2026-04-10T00:16:24",
+  "languages": {
+    "Rust": 1384398,
+    "Makefile": 12597,
+    "Shell": 5773,
+    "Roff": 2026,
+    "Open Policy Agent": 123,
+    "Dockerfile": 31
+  },
+  "size": 1404948
+}

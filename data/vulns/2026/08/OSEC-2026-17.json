@@ -1,0 +1,18 @@
+{
+  "id": "OSEC-2026-17",
+  "published": "2026-08-17T09:45:00",
+  "modified": "2026-08-17T10:15:05.828023",
+  "details": "The scalar multiplication includes pre-computed tables for speedup (introduced in mirage-crypto-ec 0.11.3). The lookup algorithm for these tables performs secret-dependent reads instead of scanning the entire table.\n\n## Solution\n\nInstead of using the index `n - 1`, where `n` is secret-dependent, use `i - 1`, as done in the Go reference implementation. If `n` is 0, there is a out-of-bounds read before the patch.\n\n## Timeline\n- 2026-08-12: report by Eric Ebinger to security@ocaml.org\n- 2026-08-17: release of mirage-crypto-ec 2.4.0 and this advisory",
+  "summary": "Timing leak in NIST elliptic curves scalar multiplication",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/mirage/mirage-crypto",
+  "cwes": [],
+  "commits": [
+    "00ed1238df988c6c109c753cedb87388d352a60c"
+  ]
+}

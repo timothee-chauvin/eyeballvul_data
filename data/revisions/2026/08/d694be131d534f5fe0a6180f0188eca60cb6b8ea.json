@@ -1,0 +1,20 @@
+{
+  "commit": "d694be131d534f5fe0a6180f0188eca60cb6b8ea",
+  "repo_url": "https://github.com/skypilot-org/skypilot",
+  "date": "2026-08-14T23:59:19",
+  "languages": {
+    "Python": 18377190,
+    "JavaScript": 1560841,
+    "Jinja": 254700,
+    "Shell": 227873,
+    "HTML": 74733,
+    "Go": 21731,
+    "CSS": 12491,
+    "HCL": 11681,
+    "Smarty": 8706,
+    "Dockerfile": 7535,
+    "Makefile": 843,
+    "Mako": 704
+  },
+  "size": 20559028
+}

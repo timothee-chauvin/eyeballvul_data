@@ -1,0 +1,18 @@
+{
+  "commit": "82722693b8bc71aab79b2bbd686f29f7c4966714",
+  "repo_url": "https://github.com/knmi/adaguc-server",
+  "date": "2026-05-06T08:19:55",
+  "languages": {
+    "C++": 3669706,
+    "Python": 793161,
+    "C": 67181,
+    "CMake": 33064,
+    "Shell": 24422,
+    "HTML": 22393,
+    "JavaScript": 11524,
+    "Dockerfile": 6378,
+    "Makefile": 2061,
+    "CSS": 237
+  },
+  "size": 4630127
+}

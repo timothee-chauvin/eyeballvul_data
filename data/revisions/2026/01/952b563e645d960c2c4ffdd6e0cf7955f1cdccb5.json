@@ -1,0 +1,13 @@
+{
+  "commit": "952b563e645d960c2c4ffdd6e0cf7955f1cdccb5",
+  "repo_url": "https://github.com/openhitls/openhitls",
+  "date": "2026-01-22T12:18:19",
+  "languages": {
+    "C": 15006696,
+    "Assembly": 2220961,
+    "Python": 65780,
+    "Shell": 63696,
+    "CMake": 27145
+  },
+  "size": 17384278
+}

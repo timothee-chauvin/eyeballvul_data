@@ -1,0 +1,18 @@
+{
+  "commit": "f4db521214c29337164ec788bafede7eab236c25",
+  "repo_url": "https://github.com/memtensor/memos",
+  "date": "2026-08-14T03:12:56",
+  "languages": {
+    "TypeScript": 9158441,
+    "Python": 5503728,
+    "HTML": 617187,
+    "JavaScript": 224462,
+    "CSS": 91646,
+    "Shell": 88549,
+    "PowerShell": 44628,
+    "Dockerfile": 3200,
+    "Makefile": 832,
+    "Smarty": 762
+  },
+  "size": 15733435
+}

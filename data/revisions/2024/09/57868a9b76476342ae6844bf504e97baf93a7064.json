@@ -1,0 +1,16 @@
+{
+  "commit": "57868a9b76476342ae6844bf504e97baf93a7064",
+  "repo_url": "https://github.com/opentofu/opentofu",
+  "date": "2024-09-04T18:04:32",
+  "languages": {
+    "Go": 12142244,
+    "MDX": 1309071,
+    "HCL": 44749,
+    "Shell": 19954,
+    "Makefile": 7161,
+    "Dockerfile": 1843,
+    "PowerShell": 1623,
+    "JavaScript": 1342
+  },
+  "size": 13527987
+}

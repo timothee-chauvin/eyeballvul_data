@@ -1,0 +1,19 @@
+{
+  "commit": "9a6091a7b946ea48c26a98516742fe2b76530965",
+  "repo_url": "https://github.com/apache/allura",
+  "date": "2025-08-08T15:12:49",
+  "languages": {
+    "Python": 4555295,
+    "JavaScript": 1252507,
+    "HTML": 876883,
+    "CSS": 181724,
+    "Shell": 130909,
+    "SCSS": 27742,
+    "Makefile": 6248,
+    "Batchfile": 6142,
+    "Dockerfile": 5188,
+    "Ruby": 1280,
+    "Roff": 41
+  },
+  "size": 7043959
+}

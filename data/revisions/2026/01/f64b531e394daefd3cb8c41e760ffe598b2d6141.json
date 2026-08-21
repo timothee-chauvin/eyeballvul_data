@@ -1,0 +1,16 @@
+{
+  "commit": "f64b531e394daefd3cb8c41e760ffe598b2d6141",
+  "repo_url": "https://github.com/hank-ai/darknet",
+  "date": "2026-01-07T09:48:55",
+  "languages": {
+    "C++": 2409304,
+    "Cuda": 235695,
+    "Python": 64620,
+    "C": 33844,
+    "CMake": 33697,
+    "Jupyter Notebook": 21012,
+    "Batchfile": 949,
+    "Shell": 291
+  },
+  "size": 2799412
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "1479209f2698435237b698ac6602c8c1b54efed9",
+  "repo_url": "https://github.com/gbif/ipt",
+  "date": "2026-05-18T10:40:19",
+  "languages": {
+    "Java": 2933202,
+    "FreeMarker": 1770937,
+    "JavaScript": 115952,
+    "CSS": 91646,
+    "Rich Text Format": 15265,
+    "Shell": 5247,
+    "Fluent": 2382,
+    "Dockerfile": 1935,
+    "Roff": 1725
+  },
+  "size": 4938291
+}

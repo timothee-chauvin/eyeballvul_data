@@ -1,0 +1,15 @@
+{
+  "commit": "452ad39a0fafaaab43d3eb17b7e41e6dc89c92da",
+  "repo_url": "https://github.com/anglesharp/anglesharp",
+  "date": "2026-06-05T12:53:06",
+  "languages": {
+    "C#": 8250391,
+    "HTML": 1295770,
+    "JavaScript": 75888,
+    "PowerShell": 3223,
+    "Shell": 2626,
+    "TypeScript": 237,
+    "Batchfile": 207
+  },
+  "size": 9628342
+}

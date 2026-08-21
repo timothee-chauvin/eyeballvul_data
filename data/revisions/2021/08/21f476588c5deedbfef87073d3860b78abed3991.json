@@ -1,0 +1,13 @@
+{
+  "commit": "21f476588c5deedbfef87073d3860b78abed3991",
+  "repo_url": "https://github.com/aria2/aria2",
+  "date": "2021-08-21T08:26:00",
+  "languages": {
+    "C++": 5658821,
+    "C": 219605,
+    "Makefile": 47754,
+    "M4": 46370,
+    "Shell": 14560
+  },
+  "size": 5987110
+}

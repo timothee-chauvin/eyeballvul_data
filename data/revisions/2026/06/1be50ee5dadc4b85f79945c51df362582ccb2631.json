@@ -1,0 +1,12 @@
+{
+  "commit": "1be50ee5dadc4b85f79945c51df362582ccb2631",
+  "repo_url": "https://github.com/msgpack/msgpack-c",
+  "date": "2026-06-09T06:58:49",
+  "languages": {
+    "C": 141481,
+    "C++": 75405,
+    "CMake": 18261,
+    "Shell": 4322
+  },
+  "size": 239469
+}

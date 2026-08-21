@@ -1,0 +1,25 @@
+{
+  "commit": "545e703f9f225307b9714fd1f961928e3c5efa89",
+  "repo_url": "https://github.com/arcadedata/arcadedb",
+  "date": "2026-07-17T09:14:18",
+  "languages": {
+    "Java": 31681406,
+    "Python": 2388877,
+    "Gherkin": 1471104,
+    "JavaScript": 589275,
+    "HTML": 228313,
+    "TypeScript": 194185,
+    "ANTLR": 134693,
+    "Shell": 89836,
+    "CSS": 80180,
+    "C#": 55935,
+    "Go": 39514,
+    "Batchfile": 7942,
+    "Groovy": 3040,
+    "Ruby": 2912,
+    "Dockerfile": 2002,
+    "Cypher": 710,
+    "Lua": 20
+  },
+  "size": 36969944
+}

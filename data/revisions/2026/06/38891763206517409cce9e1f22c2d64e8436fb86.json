@@ -1,0 +1,11 @@
+{
+  "commit": "38891763206517409cce9e1f22c2d64e8436fb86",
+  "repo_url": "https://github.com/amoffat/sh",
+  "date": "2026-06-05T19:12:46",
+  "languages": {
+    "Python": 221555,
+    "Dockerfile": 962,
+    "Makefile": 452
+  },
+  "size": 222969
+}

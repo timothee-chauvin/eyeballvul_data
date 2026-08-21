@@ -1,0 +1,24 @@
+{
+  "commit": "3c895dc40e969ee33dcdc29236a1010b35802e5a",
+  "repo_url": "https://github.com/renovatebot/renovate",
+  "date": "2026-04-02T00:32:59",
+  "languages": {
+    "TypeScript": 12851263,
+    "Go": 167721,
+    "HTML": 151816,
+    "JavaScript": 33944,
+    "HCL": 33589,
+    "Swift": 30751,
+    "Clojure": 30729,
+    "Dockerfile": 14397,
+    "Elixir": 11683,
+    "Starlark": 8929,
+    "Python": 7233,
+    "Shell": 6570,
+    "Scala": 3324,
+    "Roff": 1412,
+    "Kotlin": 882,
+    "CoffeeScript": 580
+  },
+  "size": 13354823
+}

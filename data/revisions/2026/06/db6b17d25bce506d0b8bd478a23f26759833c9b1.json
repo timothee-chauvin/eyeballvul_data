@@ -1,0 +1,22 @@
+{
+  "commit": "db6b17d25bce506d0b8bd478a23f26759833c9b1",
+  "repo_url": "https://github.com/super-productivity/super-productivity",
+  "date": "2026-06-22T11:37:54",
+  "languages": {
+    "TypeScript": 21184319,
+    "HTML": 653896,
+    "SCSS": 481907,
+    "JavaScript": 379764,
+    "Kotlin": 294108,
+    "CSS": 224630,
+    "Shell": 90796,
+    "Swift": 8221,
+    "Dockerfile": 6202,
+    "Ruby": 5706,
+    "Rust": 3372,
+    "Smarty": 2024,
+    "Java": 1160,
+    "Objective-C": 134
+  },
+  "size": 23336239
+}

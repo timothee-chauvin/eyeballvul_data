@@ -1,0 +1,13 @@
+{
+  "commit": "0178a219286ed3b59c16cc37557c2c5f93503b6a",
+  "repo_url": "https://github.com/mirage/ocaml-cohttp.git",
+  "date": "2026-07-26T09:59:03",
+  "languages": {
+    "OCaml": 607347,
+    "Nix": 5500,
+    "JavaScript": 481,
+    "Shell": 473,
+    "Makefile": 325
+  },
+  "size": 614126
+}

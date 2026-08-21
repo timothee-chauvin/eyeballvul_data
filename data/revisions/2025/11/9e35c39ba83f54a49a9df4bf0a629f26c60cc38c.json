@@ -1,0 +1,13 @@
+{
+  "commit": "9e35c39ba83f54a49a9df4bf0a629f26c60cc38c",
+  "repo_url": "https://github.com/libfuse/sshfs",
+  "date": "2025-11-11T19:46:43",
+  "languages": {
+    "C": 132188,
+    "Python": 21063,
+    "Shell": 3077,
+    "Meson": 2926,
+    "Emacs Lisp": 733
+  },
+  "size": 159987
+}

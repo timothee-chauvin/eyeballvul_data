@@ -1,0 +1,14 @@
+{
+  "commit": "df7c4dd236bd3a87caba31afc73c7608f6a0a00f",
+  "repo_url": "https://github.com/traildb/traildb",
+  "date": "2017-05-15T23:58:49",
+  "languages": {
+    "C": 478095,
+    "Python": 16912,
+    "M4": 3019,
+    "Makefile": 1798,
+    "Dockerfile": 510,
+    "Shell": 15
+  },
+  "size": 500349
+}

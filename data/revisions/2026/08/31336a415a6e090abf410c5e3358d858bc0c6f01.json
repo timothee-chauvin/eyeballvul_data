@@ -1,0 +1,14 @@
+{
+  "commit": "31336a415a6e090abf410c5e3358d858bc0c6f01",
+  "repo_url": "https://github.com/ridafkih/keeper.sh",
+  "date": "2026-08-18T18:18:21",
+  "languages": {
+    "TypeScript": 5244471,
+    "Dockerfile": 11331,
+    "CSS": 6332,
+    "Shell": 3033,
+    "JavaScript": 1333,
+    "HTML": 203
+  },
+  "size": 5266703
+}

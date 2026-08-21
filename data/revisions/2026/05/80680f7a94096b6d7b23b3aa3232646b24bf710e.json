@@ -1,0 +1,16 @@
+{
+  "commit": "80680f7a94096b6d7b23b3aa3232646b24bf710e",
+  "repo_url": "https://github.com/kurrier-org/kurrier",
+  "date": "2026-05-28T05:06:38",
+  "languages": {
+    "TypeScript": 1405227,
+    "JavaScript": 180904,
+    "MDX": 47808,
+    "CSS": 20753,
+    "PLpgSQL": 12838,
+    "Dockerfile": 3878,
+    "Shell": 3819,
+    "Elixir": 1068
+  },
+  "size": 1676295
+}

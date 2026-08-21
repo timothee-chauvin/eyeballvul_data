@@ -1,0 +1,13 @@
+{
+  "commit": "3c81afdd598d38443cfe7e55abf89a01bb544c8a",
+  "repo_url": "https://github.com/linuxfabrik/monitoring-plugins",
+  "date": "2026-05-15T09:10:40",
+  "languages": {
+    "Python": 3066624,
+    "Shell": 25155,
+    "Roff": 2662,
+    "PHP": 2402,
+    "Makefile": 1093
+  },
+  "size": 3097936
+}

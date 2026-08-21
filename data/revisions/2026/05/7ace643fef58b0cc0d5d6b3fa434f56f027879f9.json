@@ -1,0 +1,13 @@
+{
+  "commit": "7ace643fef58b0cc0d5d6b3fa434f56f027879f9",
+  "repo_url": "https://github.com/baresip/re",
+  "date": "2026-05-12T08:12:34",
+  "languages": {
+    "C": 2502036,
+    "C++": 30432,
+    "CMake": 28296,
+    "Makefile": 994,
+    "Python": 575
+  },
+  "size": 2562333
+}

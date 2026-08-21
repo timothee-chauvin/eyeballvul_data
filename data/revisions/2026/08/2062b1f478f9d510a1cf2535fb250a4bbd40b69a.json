@@ -1,0 +1,17 @@
+{
+  "commit": "2062b1f478f9d510a1cf2535fb250a4bbd40b69a",
+  "repo_url": "https://github.com/hashicorp/packer",
+  "date": "2026-08-11T09:06:31",
+  "languages": {
+    "Go": 1914557,
+    "HCL": 82310,
+    "Shell": 16710,
+    "Makefile": 6041,
+    "MDX": 5461,
+    "PowerShell": 3484,
+    "Dockerfile": 3188,
+    "Python": 2218,
+    "Batchfile": 80
+  },
+  "size": 2034049
+}
