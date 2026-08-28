@@ -1,0 +1,19 @@
+{
+  "commit": "d757424beaa31536b78cdbc3395b662808fd9fd8",
+  "repo_url": "https://github.com/gradio-app/gradio",
+  "date": "2025-05-19T22:02:02",
+  "languages": {
+    "Python": 3354075,
+    "Svelte": 1330514,
+    "TypeScript": 1246146,
+    "CSS": 72732,
+    "JavaScript": 62692,
+    "Jupyter Notebook": 32113,
+    "HTML": 24506,
+    "Batchfile": 6427,
+    "Shell": 6015,
+    "MDX": 1670,
+    "Dockerfile": 512
+  },
+  "size": 6137402
+}

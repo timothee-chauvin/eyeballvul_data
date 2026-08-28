@@ -1,0 +1,16 @@
+{
+  "commit": "6fbcf62d7694e7b92fd0a5884b40b92984fbd1b0",
+  "repo_url": "https://gitlab.com/calcprogrammer1/openrgb",
+  "date": "2026-06-28T21:25:51",
+  "languages": {
+    "C++": 11889220,
+    "C": 131672,
+    "Prolog": 54623,
+    "Shell": 39459,
+    "PowerShell": 17495,
+    "Python": 6054,
+    "Batchfile": 3411,
+    "Objective-C++": 928
+  },
+  "size": 12142862
+}

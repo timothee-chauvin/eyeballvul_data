@@ -1,0 +1,25 @@
+{
+  "commit": "c46502e96e66083687b15861e05fe8777a9afb59",
+  "repo_url": "https://github.com/airbytehq/airbyte-platform",
+  "date": "2025-10-15T19:59:46",
+  "languages": {
+    "Kotlin": 15747122,
+    "TypeScript": 4942618,
+    "Java": 1276011,
+    "Smarty": 513493,
+    "SCSS": 264714,
+    "Go": 135602,
+    "Shell": 100082,
+    "JavaScript": 51000,
+    "Python": 29918,
+    "Mustache": 22194,
+    "Dockerfile": 20371,
+    "FreeMarker": 16959,
+    "CSS": 12967,
+    "MDX": 7660,
+    "HTML": 6248,
+    "D2": 3600,
+    "Makefile": 1531
+  },
+  "size": 23152090
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "4f1cd9b996b47512c486413e7337f1aa43a8d015",
+  "repo_url": "https://github.com/bytedance/ui-tars-desktop",
+  "date": "2025-09-03T15:20:01",
+  "languages": {
+    "TypeScript": 4957991,
+    "MDX": 199843,
+    "JavaScript": 69649,
+    "CSS": 69181,
+    "Less": 13887,
+    "HTML": 9693,
+    "Shell": 2839,
+    "Dockerfile": 2636
+  },
+  "size": 5325719
+}

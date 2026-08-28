@@ -1,0 +1,15 @@
+{
+  "commit": "afdb1191e94f90d531b7c488a821f938e7a1b6b5",
+  "repo_url": "https://github.com/openshift/assisted-service",
+  "date": "2022-10-06T11:39:10",
+  "languages": {
+    "Go": 5935438,
+    "Python": 115141,
+    "Shell": 80574,
+    "Makefile": 24746,
+    "Jinja": 6476,
+    "Dockerfile": 848,
+    "jq": 431
+  },
+  "size": 6163654
+}

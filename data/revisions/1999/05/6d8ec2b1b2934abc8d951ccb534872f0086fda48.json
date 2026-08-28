@@ -1,0 +1,23 @@
+{
+  "commit": "6d8ec2b1b2934abc8d951ccb534872f0086fda48",
+  "repo_url": "https://github.com/bminor/glibc",
+  "date": "1999-05-24T18:22:25",
+  "languages": {
+    "C": 18270439,
+    "Roff": 2520932,
+    "Assembly": 1447606,
+    "Makefile": 238909,
+    "TeX": 188594,
+    "DIGITAL Command Language": 165845,
+    "C++": 150245,
+    "RPC": 90990,
+    "Shell": 65190,
+    "HTML": 44264,
+    "Awk": 27165,
+    "Perl": 15501,
+    "M4": 6005,
+    "sed": 3287,
+    "Batchfile": 903
+  },
+  "size": 23235875
+}

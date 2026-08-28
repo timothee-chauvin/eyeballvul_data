@@ -1,0 +1,14 @@
+{
+  "commit": "35813c85af3f13d4f7196085854eafb3d0c5db02",
+  "repo_url": "https://github.com/nltk/nltk",
+  "date": "2026-07-31T04:03:21",
+  "languages": {
+    "Python": 5514141,
+    "Jupyter Notebook": 56591,
+    "HTML": 24786,
+    "Makefile": 7734,
+    "Shell": 5841,
+    "CSS": 705
+  },
+  "size": 5609798
+}

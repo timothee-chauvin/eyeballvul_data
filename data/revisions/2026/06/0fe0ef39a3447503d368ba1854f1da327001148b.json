@@ -1,0 +1,22 @@
+{
+  "commit": "0fe0ef39a3447503d368ba1854f1da327001148b",
+  "repo_url": "https://github.com/reconmap/reconmap",
+  "date": "2026-06-26T22:48:00",
+  "languages": {
+    "JavaScript": 604799,
+    "C#": 261168,
+    "TypeScript": 93770,
+    "Go": 57054,
+    "CSS": 26907,
+    "Makefile": 9618,
+    "Python": 9429,
+    "FreeMarker": 7686,
+    "HTML": 6406,
+    "Dockerfile": 4988,
+    "Mustache": 3415,
+    "Typst": 3094,
+    "Shell": 2017,
+    "Smarty": 1892
+  },
+  "size": 1092243
+}

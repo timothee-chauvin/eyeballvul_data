@@ -1,0 +1,12 @@
+{
+  "commit": "79177605093687a1d6f8b7003828b0a0a2b28ce9",
+  "repo_url": "https://github.com/sakura-editor/sakura",
+  "date": "2017-05-02T11:48:17",
+  "languages": {
+    "C++": 5723312,
+    "C": 184397,
+    "Makefile": 12201,
+    "Batchfile": 1090
+  },
+  "size": 5921000
+}

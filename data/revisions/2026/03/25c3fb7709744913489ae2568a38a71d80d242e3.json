@@ -1,0 +1,13 @@
+{
+  "commit": "25c3fb7709744913489ae2568a38a71d80d242e3",
+  "repo_url": "https://github.com/danger/danger-js",
+  "date": "2026-03-12T16:21:40",
+  "languages": {
+    "TypeScript": 666367,
+    "JavaScript": 36925,
+    "Shell": 2256,
+    "Dockerfile": 840,
+    "Ruby": 264
+  },
+  "size": 706652
+}

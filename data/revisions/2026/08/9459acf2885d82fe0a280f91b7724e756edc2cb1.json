@@ -1,0 +1,13 @@
+{
+  "commit": "9459acf2885d82fe0a280f91b7724e756edc2cb1",
+  "repo_url": "https://github.com/bucardo/dbdpg",
+  "date": "2026-08-22T15:09:23",
+  "languages": {
+    "Perl": 799988,
+    "C": 386033,
+    "XS": 28113,
+    "Makefile": 2487,
+    "Emacs Lisp": 217
+  },
+  "size": 1216838
+}

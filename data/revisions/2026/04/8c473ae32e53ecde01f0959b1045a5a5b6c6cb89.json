@@ -1,0 +1,11 @@
+{
+  "commit": "8c473ae32e53ecde01f0959b1045a5a5b6c6cb89",
+  "repo_url": "https://github.com/gruntwork-io/terragrunt",
+  "date": "2026-04-27T14:16:32",
+  "languages": {
+    "Go": 5448029,
+    "Makefile": 2272,
+    "HCL": 910
+  },
+  "size": 5451211
+}

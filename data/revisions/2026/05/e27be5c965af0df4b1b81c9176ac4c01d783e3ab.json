@@ -1,0 +1,15 @@
+{
+  "commit": "e27be5c965af0df4b1b81c9176ac4c01d783e3ab",
+  "repo_url": "https://github.com/liketrek/trek",
+  "date": "2026-05-24T23:13:41",
+  "languages": {
+    "TypeScript": 10067209,
+    "CSS": 29524,
+    "JavaScript": 21315,
+    "Dockerfile": 1388,
+    "HTML": 1286,
+    "Shell": 592,
+    "Smarty": 487
+  },
+  "size": 10121801
+}

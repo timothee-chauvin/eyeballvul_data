@@ -1,0 +1,17 @@
+{
+  "commit": "a07818fae0406597c77dfeeb879acf74b17f9c44",
+  "repo_url": "https://github.com/the-momentum/open-wearables",
+  "date": "2026-06-26T11:23:42",
+  "languages": {
+    "Python": 3591863,
+    "TypeScript": 892815,
+    "MDX": 36793,
+    "CSS": 9254,
+    "Shell": 4535,
+    "Dockerfile": 2875,
+    "Makefile": 1730,
+    "Mako": 607,
+    "JavaScript": 192
+  },
+  "size": 4540664
+}

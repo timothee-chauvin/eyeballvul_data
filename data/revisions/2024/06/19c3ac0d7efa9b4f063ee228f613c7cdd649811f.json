@@ -1,0 +1,13 @@
+{
+  "commit": "19c3ac0d7efa9b4f063ee228f613c7cdd649811f",
+  "repo_url": "https://github.com/gethomepage/homepage",
+  "date": "2024-06-03T20:17:23",
+  "languages": {
+    "JavaScript": 704861,
+    "CSS": 10358,
+    "Dockerfile": 2687,
+    "Shell": 2046,
+    "Starlark": 786
+  },
+  "size": 720738
+}

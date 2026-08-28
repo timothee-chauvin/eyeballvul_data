@@ -1,0 +1,19 @@
+{
+  "commit": "2eac784c56887e8b85fc20f979050911d7861a6e",
+  "repo_url": "https://github.com/omnigent-ai/omnigent",
+  "date": "2026-06-27T02:32:35",
+  "languages": {
+    "Python": 30369575,
+    "TypeScript": 5489589,
+    "JavaScript": 259923,
+    "Swift": 59176,
+    "HTML": 58729,
+    "CSS": 53931,
+    "Shell": 36574,
+    "Dockerfile": 19744,
+    "Rust": 6576,
+    "Ruby": 2852,
+    "Mako": 671
+  },
+  "size": 36357340
+}

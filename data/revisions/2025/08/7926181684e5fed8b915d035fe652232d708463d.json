@@ -1,0 +1,13 @@
+{
+  "commit": "7926181684e5fed8b915d035fe652232d708463d",
+  "repo_url": "https://github.com/openfaas/faas",
+  "date": "2025-08-29T14:23:19",
+  "languages": {
+    "Go": 150866,
+    "HTML": 30104,
+    "JavaScript": 2805,
+    "Dockerfile": 2398,
+    "Makefile": 1505
+  },
+  "size": 187678
+}

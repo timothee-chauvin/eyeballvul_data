@@ -1,0 +1,17 @@
+{
+  "commit": "d525a79bc2a90ee496d2efe7206400c10e10e37f",
+  "repo_url": "https://github.com/kumahq/kuma",
+  "date": "2026-07-14T16:51:32",
+  "languages": {
+    "Go": 12543243,
+    "Makefile": 102910,
+    "Shell": 23787,
+    "Mustache": 20485,
+    "JavaScript": 9080,
+    "Dockerfile": 5346,
+    "HTML": 4956,
+    "PLpgSQL": 2025,
+    "CSS": 1761
+  },
+  "size": 12713593
+}

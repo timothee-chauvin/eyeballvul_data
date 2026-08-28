@@ -1,0 +1,13 @@
+{
+  "commit": "2a235626c54560ca55182b90d45b1ddccbfc2606",
+  "repo_url": "https://github.com/infracost/infracost",
+  "date": "2026-04-03T13:07:51",
+  "languages": {
+    "Go": 3629574,
+    "Shell": 50195,
+    "Makefile": 8393,
+    "Dockerfile": 2797,
+    "HCL": 520
+  },
+  "size": 3691479
+}

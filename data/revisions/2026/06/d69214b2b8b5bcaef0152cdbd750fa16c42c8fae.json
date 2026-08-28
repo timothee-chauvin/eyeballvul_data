@@ -1,0 +1,17 @@
+{
+  "commit": "d69214b2b8b5bcaef0152cdbd750fa16c42c8fae",
+  "repo_url": "https://github.com/hydra-ecosystem/hydra",
+  "date": "2026-06-11T05:19:02",
+  "languages": {
+    "Python": 1245632,
+    "JavaScript": 20795,
+    "ANTLR": 5940,
+    "Jupyter Notebook": 5061,
+    "CSS": 3508,
+    "HTML": 2328,
+    "Shell": 1912,
+    "Jinja": 452,
+    "Gherkin": 356
+  },
+  "size": 1285984
+}

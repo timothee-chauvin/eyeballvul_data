@@ -1,0 +1,14 @@
+{
+  "commit": "3cbe84ac85dc3e8397acb5ffd1135024bf453732",
+  "repo_url": "https://github.com/alibaba-fusion/next",
+  "date": "2026-03-31T11:37:39",
+  "languages": {
+    "TypeScript": 5510499,
+    "SCSS": 993691,
+    "JavaScript": 751561,
+    "EJS": 54701,
+    "CSS": 43187,
+    "HTML": 782
+  },
+  "size": 7354421
+}

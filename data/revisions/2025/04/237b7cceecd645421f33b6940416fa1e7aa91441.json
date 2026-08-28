@@ -1,0 +1,15 @@
+{
+  "commit": "237b7cceecd645421f33b6940416fa1e7aa91441",
+  "repo_url": "https://github.com/senaite/senaite.core",
+  "date": "2025-04-04T10:07:49",
+  "languages": {
+    "JavaScript": 5161218,
+    "Python": 4472070,
+    "CSS": 356989,
+    "CoffeeScript": 169296,
+    "SCSS": 18679,
+    "COBOL": 4988,
+    "Shell": 4706
+  },
+  "size": 10187946
+}

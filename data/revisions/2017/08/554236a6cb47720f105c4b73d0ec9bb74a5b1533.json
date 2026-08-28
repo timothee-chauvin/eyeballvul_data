@@ -1,0 +1,14 @@
+{
+  "commit": "554236a6cb47720f105c4b73d0ec9bb74a5b1533",
+  "repo_url": "https://github.com/perfsonar/maddash",
+  "date": "2017-08-11T14:42:51",
+  "languages": {
+    "Java": 291359,
+    "JavaScript": 96122,
+    "CSS": 23963,
+    "Perl": 13447,
+    "HTML": 9915,
+    "Shell": 9628
+  },
+  "size": 444434
+}

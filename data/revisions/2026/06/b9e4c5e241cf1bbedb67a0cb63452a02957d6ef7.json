@@ -1,0 +1,19 @@
+{
+  "commit": "b9e4c5e241cf1bbedb67a0cb63452a02957d6ef7",
+  "repo_url": "https://github.com/versatica/mediasoup",
+  "date": "2026-06-08T15:21:32",
+  "languages": {
+    "C++": 4446037,
+    "Rust": 1360198,
+    "TypeScript": 677410,
+    "JavaScript": 35671,
+    "Meson": 32121,
+    "Python": 29081,
+    "Shell": 3015,
+    "C": 2837,
+    "Makefile": 2725,
+    "HTML": 2692,
+    "Dockerfile": 826
+  },
+  "size": 6592613
+}

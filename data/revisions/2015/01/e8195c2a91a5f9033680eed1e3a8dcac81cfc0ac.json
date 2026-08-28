@@ -1,0 +1,13 @@
+{
+  "commit": "e8195c2a91a5f9033680eed1e3a8dcac81cfc0ac",
+  "repo_url": "https://github.com/seajs/seajs",
+  "date": "2015-01-12T08:46:06",
+  "languages": {
+    "JavaScript": 177416,
+    "HTML": 60689,
+    "Makefile": 728,
+    "PHP": 188,
+    "CSS": 175
+  },
+  "size": 239196
+}

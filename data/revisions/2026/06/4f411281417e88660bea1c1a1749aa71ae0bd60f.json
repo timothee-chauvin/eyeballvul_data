@@ -1,0 +1,12 @@
+{
+  "commit": "4f411281417e88660bea1c1a1749aa71ae0bd60f",
+  "repo_url": "https://github.com/nektos/act",
+  "date": "2026-06-01T03:17:32",
+  "languages": {
+    "Go": 803554,
+    "JavaScript": 168741,
+    "Shell": 10964,
+    "Makefile": 2909
+  },
+  "size": 986168
+}

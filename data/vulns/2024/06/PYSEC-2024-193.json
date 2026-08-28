@@ -1,0 +1,18 @@
+{
+  "id": "PYSEC-2024-193",
+  "published": "2024-06-06T19:15:53",
+  "modified": "2026-06-10T17:02:41.351664",
+  "details": "An issue was discovered in zenml-io/zenml versions up to and including 0.55.4. Due to improper authentication mechanisms, an attacker with access to an active user session can change the account password without needing to know the current password. This vulnerability allows for unauthorized account takeover by bypassing the standard password change verification process. The issue was fixed in version 0.56.3.",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/zenml-io/zenml",
+  "cwes": [],
+  "commits": [
+    "18824ef77df44f3dee4ba1e7f61d767db8ee58c2",
+    "a24ccb12d4cfd5652388b031ca828600981a1925"
+  ]
+}

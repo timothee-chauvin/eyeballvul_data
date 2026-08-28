@@ -1,0 +1,18 @@
+{
+  "commit": "83d98f781351df1ad8ee8aa643f0101e50b1b416",
+  "repo_url": "https://github.com/nrwl/nx",
+  "date": "2026-04-28T20:42:20",
+  "languages": {
+    "TypeScript": 26840388,
+    "Roff": 2507959,
+    "Rust": 1407766,
+    "Kotlin": 441600,
+    "JavaScript": 363596,
+    "Astro": 102607,
+    "C#": 52230,
+    "CSS": 37173,
+    "Shell": 20715,
+    "HTML": 2776
+  },
+  "size": 31776810
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "ab60db7761f19651b92c5f5e8a9ba226b45f2322",
+  "repo_url": "https://github.com/integralpro/nosleep",
+  "date": "2019-04-11T08:30:19",
+  "languages": {
+    "Objective-C": 52094,
+    "C++": 24280,
+    "HTML": 21196,
+    "Python": 18981,
+    "Shell": 15360,
+    "C": 3286,
+    "Makefile": 2733,
+    "AppleScript": 1843,
+    "Ruby": 516
+  },
+  "size": 140289
+}

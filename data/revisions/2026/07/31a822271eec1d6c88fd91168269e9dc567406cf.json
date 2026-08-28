@@ -1,0 +1,20 @@
+{
+  "commit": "31a822271eec1d6c88fd91168269e9dc567406cf",
+  "repo_url": "https://github.com/eukaryot/sonic3air",
+  "date": "2026-07-12T16:04:37",
+  "languages": {
+    "C++": 8035822,
+    "C": 2748704,
+    "Java": 220281,
+    "GLSL": 57520,
+    "CMake": 28437,
+    "Makefile": 22431,
+    "Objective-C++": 11779,
+    "Batchfile": 6401,
+    "Objective-C": 4316,
+    "Shell": 2977,
+    "Dockerfile": 245,
+    "Pawn": 155
+  },
+  "size": 11139068
+}

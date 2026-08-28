@@ -1,0 +1,17 @@
+{
+  "commit": "009d68ea713cce4203f5ad8bb734ff55b15a2f2c",
+  "repo_url": "https://github.com/bentoml/bentoml",
+  "date": "2026-04-02T02:27:21",
+  "languages": {
+    "Python": 2610526,
+    "Shell": 48432,
+    "Jinja": 16054,
+    "Starlark": 11657,
+    "Dockerfile": 7104,
+    "HTML": 3592,
+    "Makefile": 2655,
+    "CSS": 1127,
+    "JavaScript": 331
+  },
+  "size": 2701478
+}

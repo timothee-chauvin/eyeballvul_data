@@ -1,6 +1,6 @@
 {
   "commit": "22bda9840b2d4ba24eaa2d65fa680356e91f2c0c",
-  "repo_url": "https://github.com/libressl-portable/portable",
+  "repo_url": "https://github.com/libressl/portable",
   "date": "2017-03-26T02:25:58",
   "languages": {
     "C": 94387,

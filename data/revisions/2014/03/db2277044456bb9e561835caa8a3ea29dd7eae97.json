@@ -1,0 +1,13 @@
+{
+  "commit": "db2277044456bb9e561835caa8a3ea29dd7eae97",
+  "repo_url": "https://github.com/kk7ds/chirp",
+  "date": "2014-03-19T08:22:38",
+  "languages": {
+    "Python": 1854282,
+    "C": 9530,
+    "Shell": 9334,
+    "Makefile": 1633,
+    "Roff": 1474
+  },
+  "size": 1876253
+}

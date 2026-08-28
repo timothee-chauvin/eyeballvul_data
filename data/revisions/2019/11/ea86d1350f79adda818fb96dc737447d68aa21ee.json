@@ -1,0 +1,17 @@
+{
+  "commit": "ea86d1350f79adda818fb96dc737447d68aa21ee",
+  "repo_url": "https://github.com/mozilla-mobile/firefox-ios",
+  "date": "2019-11-01T15:27:05",
+  "languages": {
+    "Swift": 4066188,
+    "C": 1256164,
+    "HTML": 588580,
+    "Objective-C": 95907,
+    "JavaScript": 76268,
+    "Python": 25114,
+    "CSS": 19511,
+    "Shell": 8976,
+    "Ruby": 6327
+  },
+  "size": 6143035
+}

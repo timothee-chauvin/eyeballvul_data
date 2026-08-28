@@ -1,0 +1,20 @@
+{
+  "commit": "c2a4c6f5e617cb8d309446773ecff5bb09691e95",
+  "repo_url": "https://github.com/tensorzero/tensorzero",
+  "date": "2026-05-18T22:05:38",
+  "languages": {
+    "Rust": 17401007,
+    "TypeScript": 3231384,
+    "Python": 872054,
+    "Shell": 123117,
+    "Go": 84919,
+    "PLpgSQL": 76539,
+    "JavaScript": 67014,
+    "Dockerfile": 13793,
+    "CSS": 13792,
+    "Lua": 11519,
+    "Jinja": 1170,
+    "Ruby": 555
+  },
+  "size": 21896863
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "a818b49b3ff19502530199c7788e324caca7beab",
+  "repo_url": "https://github.com/cbcoutinho/nextcloud-mcp-server",
+  "date": "2026-06-14T15:44:18",
+  "languages": {
+    "Python": 4666993,
+    "HTML": 86390,
+    "HCL": 44582,
+    "Shell": 25299,
+    "JavaScript": 10111,
+    "CSS": 4936,
+    "Dockerfile": 1001,
+    "Batchfile": 840,
+    "Mako": 645
+  },
+  "size": 4840797
+}

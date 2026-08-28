@@ -1,0 +1,13 @@
+{
+  "commit": "ae54daa691d35ce752eecf900aa715ef206148fd",
+  "repo_url": "https://github.com/oscal-compass/compliance-trestle",
+  "date": "2026-04-17T11:26:17",
+  "languages": {
+    "Python": 2978116,
+    "Shell": 12404,
+    "Makefile": 5636,
+    "Jinja": 4340,
+    "JavaScript": 65
+  },
+  "size": 3000561
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "0c23050337347a01157b2a9acc8d52e3bdb82a8b",
+  "repo_url": "https://github.com/neo4j/neo4j",
+  "date": "2022-11-28T10:56:12",
+  "languages": {
+    "Java": 39038278,
+    "Scala": 16690677,
+    "Gherkin": 400710,
+    "Roff": 62526,
+    "Shell": 33886,
+    "PowerShell": 21127,
+    "Cypher": 6751,
+    "Makefile": 4401,
+    "Batchfile": 1796,
+    "Dockerfile": 512,
+    "HTML": 146
+  },
+  "size": 56260810
+}

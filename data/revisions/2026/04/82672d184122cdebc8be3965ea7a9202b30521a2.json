@@ -1,0 +1,12 @@
+{
+  "commit": "82672d184122cdebc8be3965ea7a9202b30521a2",
+  "repo_url": "https://github.com/splunk/kafka-connect-splunk",
+  "date": "2026-04-29T13:02:03",
+  "languages": {
+    "Java": 423868,
+    "Python": 110327,
+    "Shell": 9530,
+    "Dockerfile": 1563
+  },
+  "size": 545288
+}

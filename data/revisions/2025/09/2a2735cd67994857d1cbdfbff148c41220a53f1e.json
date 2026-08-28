@@ -1,0 +1,24 @@
+{
+  "commit": "2a2735cd67994857d1cbdfbff148c41220a53f1e",
+  "repo_url": "https://github.com/penpot/penpot",
+  "date": "2025-09-01T09:02:36",
+  "languages": {
+    "Clojure": 8713104,
+    "JavaScript": 717352,
+    "SCSS": 617494,
+    "Rust": 439070,
+    "HTML": 179776,
+    "Shell": 54894,
+    "CSS": 46816,
+    "MDX": 33141,
+    "Java": 28437,
+    "Dockerfile": 18545,
+    "PLpgSQL": 10424,
+    "Python": 5773,
+    "Mustache": 4256,
+    "XSLT": 1575,
+    "Lua": 1259,
+    "Vim Script": 309
+  },
+  "size": 10872225
+}

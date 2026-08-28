@@ -1,0 +1,16 @@
+{
+  "commit": "a65ca7217768aad8defb8a8e7ceae558de2e7ced",
+  "repo_url": "https://github.com/prowler-cloud/prowler",
+  "date": "2025-01-14T10:16:13",
+  "languages": {
+    "Python": 13393196,
+    "TypeScript": 768226,
+    "HCL": 57408,
+    "Shell": 28832,
+    "JavaScript": 10400,
+    "Dockerfile": 4857,
+    "CSS": 3826,
+    "Makefile": 1262
+  },
+  "size": 14268007
+}

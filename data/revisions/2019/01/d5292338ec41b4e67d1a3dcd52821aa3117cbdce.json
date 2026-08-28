@@ -1,0 +1,16 @@
+{
+  "commit": "d5292338ec41b4e67d1a3dcd52821aa3117cbdce",
+  "repo_url": "https://github.com/apache/causeway",
+  "date": "2019-01-14T15:21:37",
+  "languages": {
+    "Java": 12379322,
+    "JavaScript": 2860112,
+    "HTML": 263674,
+    "CSS": 42218,
+    "Groovy": 20238,
+    "Shell": 18276,
+    "Dockerfile": 3799,
+    "Gherkin": 2114
+  },
+  "size": 15589753
+}

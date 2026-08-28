@@ -1,0 +1,11 @@
+{
+  "commit": "8fc05c1cb6cd36e4a8d0391aeb8cacdcb2368b4c",
+  "repo_url": "https://github.com/ruby/resolv",
+  "date": "2026-01-30T00:25:42",
+  "languages": {
+    "Ruby": 142934,
+    "C": 7534,
+    "Shell": 131
+  },
+  "size": 150599
+}

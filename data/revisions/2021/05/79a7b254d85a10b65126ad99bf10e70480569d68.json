@@ -1,0 +1,28 @@
+{
+  "commit": "79a7b254d85a10b65126ad99bf10e70480569d68",
+  "repo_url": "https://github.com/perl/perl5",
+  "date": "2021-05-20T17:31:26",
+  "languages": {
+    "Perl": 23579794,
+    "C": 15521292,
+    "Shell": 1429433,
+    "XS": 1195519,
+    "Raku": 957826,
+    "C++": 669069,
+    "DIGITAL Command Language": 237957,
+    "Makefile": 181008,
+    "PLSQL": 161273,
+    "PHP": 78112,
+    "Prolog": 53523,
+    "Yacc": 47264,
+    "Pascal": 29132,
+    "Roff": 19777,
+    "Batchfile": 8581,
+    "POV-Ray SDL": 5853,
+    "Objective-C": 4110,
+    "TeX": 1708,
+    "DTrace": 491,
+    "Emacs Lisp": 312
+  },
+  "size": 44182034
+}

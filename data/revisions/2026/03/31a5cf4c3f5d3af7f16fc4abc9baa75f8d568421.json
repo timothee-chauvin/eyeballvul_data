@@ -1,0 +1,31 @@
+{
+  "commit": "31a5cf4c3f5d3af7f16fc4abc9baa75f8d568421",
+  "repo_url": "https://github.com/ggml-org/llama.cpp",
+  "date": "2026-03-23T11:22:46",
+  "languages": {
+    "C++": 14044882,
+    "C": 3029723,
+    "Python": 1799348,
+    "Cuda": 1465401,
+    "HTML": 940879,
+    "TypeScript": 695014,
+    "Svelte": 574290,
+    "Metal": 431803,
+    "GLSL": 283833,
+    "Jinja": 269580,
+    "Shell": 251800,
+    "CMake": 214682,
+    "WGSL": 180534,
+    "JavaScript": 105784,
+    "Objective-C": 88453,
+    "CSS": 82462,
+    "Dockerfile": 32940,
+    "Nix": 23626,
+    "PowerShell": 7965,
+    "MDX": 1646,
+    "Makefile": 1554,
+    "Batchfile": 802,
+    "SCSS": 478
+  },
+  "size": 24527479
+}

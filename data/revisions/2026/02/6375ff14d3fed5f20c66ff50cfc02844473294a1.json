@@ -1,0 +1,14 @@
+{
+  "commit": "6375ff14d3fed5f20c66ff50cfc02844473294a1",
+  "repo_url": "https://github.com/storaged-project/udisks",
+  "date": "2026-02-25T14:57:48",
+  "languages": {
+    "C": 2459955,
+    "Python": 530513,
+    "Makefile": 51399,
+    "M4": 38890,
+    "Shell": 1624,
+    "Dockerfile": 343
+  },
+  "size": 3082724
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "3915ce9814b8261a1ab13ed93adec58b463cd75c",
+  "repo_url": "https://github.com/songquanpeng/one-api",
+  "date": "2024-12-27T14:01:37",
+  "languages": {
+    "JavaScript": 993826,
+    "Go": 590250,
+    "SCSS": 7333,
+    "CSS": 2854,
+    "Python": 2006,
+    "HTML": 1911,
+    "Shell": 1503,
+    "Dockerfile": 1049
+  },
+  "size": 1600732
+}

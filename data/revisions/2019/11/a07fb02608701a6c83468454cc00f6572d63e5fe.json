@@ -1,0 +1,11 @@
+{
+  "commit": "a07fb02608701a6c83468454cc00f6572d63e5fe",
+  "repo_url": "https://github.com/cloudfoundry/capi-release",
+  "date": "2019-11-01T21:14:46",
+  "languages": {
+    "HTML": 117472,
+    "Shell": 70092,
+    "Ruby": 48559
+  },
+  "size": 236123
+}

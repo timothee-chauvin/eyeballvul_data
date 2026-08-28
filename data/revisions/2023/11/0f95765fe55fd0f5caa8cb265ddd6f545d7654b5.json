@@ -1,0 +1,18 @@
+{
+  "commit": "0f95765fe55fd0f5caa8cb265ddd6f545d7654b5",
+  "repo_url": "https://github.com/nocodb/nocodb",
+  "date": "2023-11-30T07:07:28",
+  "languages": {
+    "TypeScript": 5865938,
+    "Vue": 1704758,
+    "JavaScript": 732747,
+    "PLpgSQL": 101494,
+    "SCSS": 29515,
+    "CSS": 25060,
+    "TSQL": 15401,
+    "Shell": 10927,
+    "Dockerfile": 6822,
+    "Smarty": 2321
+  },
+  "size": 8494983
+}

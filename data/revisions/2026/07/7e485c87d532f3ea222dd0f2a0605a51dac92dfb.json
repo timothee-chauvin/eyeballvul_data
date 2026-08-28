@@ -1,0 +1,13 @@
+{
+  "commit": "7e485c87d532f3ea222dd0f2a0605a51dac92dfb",
+  "repo_url": "https://github.com/vas3k/taxhacker",
+  "date": "2026-07-07T13:34:51",
+  "languages": {
+    "TypeScript": 670142,
+    "CSS": 2647,
+    "Dockerfile": 2516,
+    "JavaScript": 847,
+    "Shell": 845
+  },
+  "size": 676997
+}

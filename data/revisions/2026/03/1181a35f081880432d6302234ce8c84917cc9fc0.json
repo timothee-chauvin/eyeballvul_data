@@ -1,0 +1,13 @@
+{
+  "commit": "1181a35f081880432d6302234ce8c84917cc9fc0",
+  "repo_url": "https://github.com/tyrrrz/discordchatexporter",
+  "date": "2026-03-21T18:27:05",
+  "languages": {
+    "C#": 917901,
+    "HTML": 84411,
+    "PowerShell": 2940,
+    "Dockerfile": 2710,
+    "Shell": 263
+  },
+  "size": 1008225
+}

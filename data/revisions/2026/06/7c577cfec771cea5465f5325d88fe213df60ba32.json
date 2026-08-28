@@ -1,0 +1,15 @@
+{
+  "commit": "7c577cfec771cea5465f5325d88fe213df60ba32",
+  "repo_url": "https://github.com/puemos/craftplan",
+  "date": "2026-06-23T13:17:57",
+  "languages": {
+    "Elixir": 1414969,
+    "JavaScript": 8289,
+    "Typst": 8215,
+    "HTML": 2155,
+    "Dockerfile": 1579,
+    "CSS": 1044,
+    "Shell": 330
+  },
+  "size": 1436581
+}

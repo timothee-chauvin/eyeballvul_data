@@ -1,0 +1,19 @@
+{
+  "commit": "0a674ad2fa8c61c889e708437432cfb1473c74cf",
+  "repo_url": "https://github.com/centuran/otrs-community-edition",
+  "date": "2024-12-10T08:35:41",
+  "languages": {
+    "Perl": 70793817,
+    "JavaScript": 1741354,
+    "CSS": 1085485,
+    "SCSS": 190317,
+    "PLSQL": 134699,
+    "Vue": 110885,
+    "HTML": 35971,
+    "Shell": 17847,
+    "AGS Script": 10257,
+    "Gherkin": 3204,
+    "XSLT": 1036
+  },
+  "size": 74124872
+}

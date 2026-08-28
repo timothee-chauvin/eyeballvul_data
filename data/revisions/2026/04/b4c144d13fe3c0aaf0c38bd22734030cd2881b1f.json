@@ -1,0 +1,14 @@
+{
+  "commit": "b4c144d13fe3c0aaf0c38bd22734030cd2881b1f",
+  "repo_url": "https://github.com/open-eid/digidoc4-client",
+  "date": "2026-04-15T05:14:54",
+  "languages": {
+    "C++": 641110,
+    "C": 68266,
+    "CMake": 37382,
+    "Objective-C++": 15401,
+    "Python": 6705,
+    "Shell": 6041
+  },
+  "size": 774905
+}

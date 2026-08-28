@@ -1,0 +1,21 @@
+{
+  "commit": "b88b9078d8eda7b91e1543b33fa44d793869afa6",
+  "repo_url": "https://github.com/headroomlabs-ai/headroom",
+  "date": "2026-08-20T04:14:59",
+  "languages": {
+    "Python": 17907427,
+    "Rust": 3036386,
+    "JavaScript": 513551,
+    "TypeScript": 445745,
+    "HTML": 210754,
+    "Shell": 78170,
+    "PowerShell": 68945,
+    "Dockerfile": 20523,
+    "PLpgSQL": 11669,
+    "C": 7497,
+    "Makefile": 6962,
+    "HCL": 1887,
+    "CSS": 1845
+  },
+  "size": 22311361
+}

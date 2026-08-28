@@ -1,0 +1,20 @@
+{
+  "commit": "d1562ebe26f4108235019ca8854950193a9271c4",
+  "repo_url": "https://github.com/convertigo/convertigo",
+  "date": "2025-10-30T11:23:59",
+  "languages": {
+    "Java": 12548591,
+    "JavaScript": 5080731,
+    "CSS": 858544,
+    "TypeScript": 335422,
+    "HTML": 256647,
+    "XSLT": 206571,
+    "Shell": 31871,
+    "Smarty": 17414,
+    "Dockerfile": 9938,
+    "NSIS": 6501,
+    "Batchfile": 2377,
+    "SCSS": 1242
+  },
+  "size": 19355849
+}

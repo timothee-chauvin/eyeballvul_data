@@ -1,0 +1,18 @@
+{
+  "commit": "b34295562924046c229f0fd424ac3c7b54b7ecc8",
+  "repo_url": "https://github.com/eosphoros-ai/db-gpt",
+  "date": "2024-09-10T11:28:51",
+  "languages": {
+    "Python": 4153848,
+    "TypeScript": 876476,
+    "HTML": 758622,
+    "Shell": 13581,
+    "Makefile": 7057,
+    "CSS": 6150,
+    "JavaScript": 5877,
+    "Dockerfile": 3757,
+    "Batchfile": 1538,
+    "Mako": 635
+  },
+  "size": 5827541
+}

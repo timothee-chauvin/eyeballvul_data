@@ -1,0 +1,13 @@
+{
+  "commit": "4d5c665e222f299e8b3efc428d96256d678b21af",
+  "repo_url": "https://github.com/frappe/erpnext",
+  "date": "2026-04-28T21:03:29",
+  "languages": {
+    "Python": 9908180,
+    "JavaScript": 2017419,
+    "HTML": 219173,
+    "SCSS": 42124,
+    "CSS": 2692
+  },
+  "size": 12189588
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "0aae35abb2d6a8adf623fe60349261aa48753ccc",
+  "repo_url": "https://github.com/kite-org/kite",
+  "date": "2026-05-18T16:48:25",
+  "languages": {
+    "TypeScript": 1756287,
+    "Go": 830290,
+    "CSS": 28696,
+    "Shell": 14667,
+    "Makefile": 9088,
+    "Dockerfile": 2471,
+    "Smarty": 1947,
+    "JavaScript": 1435,
+    "HTML": 364
+  },
+  "size": 2645245
+}

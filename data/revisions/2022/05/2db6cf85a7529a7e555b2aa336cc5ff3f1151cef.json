@@ -1,0 +1,20 @@
+{
+  "commit": "2db6cf85a7529a7e555b2aa336cc5ff3f1151cef",
+  "repo_url": "https://github.com/grokability/snipe-it",
+  "date": "2022-05-24T22:10:46",
+  "languages": {
+    "PHP": 11093148,
+    "JavaScript": 2054538,
+    "Blade": 1159123,
+    "Less": 258268,
+    "CSS": 144659,
+    "Vue": 50248,
+    "Shell": 34506,
+    "Dockerfile": 4364,
+    "HTML": 956,
+    "Python": 522,
+    "Jinja": 229,
+    "Procfile": 57
+  },
+  "size": 14800618
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "625a26b38c4bd9d7e5ad1f432e18eda4ca70e7ea",
+  "repo_url": "https://github.com/ghostmanager/ghostwriter",
+  "date": "2026-06-18T17:28:53",
+  "languages": {
+    "Python": 3291751,
+    "JavaScript": 1127638,
+    "HTML": 859873,
+    "CSS": 321250,
+    "MDX": 290681,
+    "TypeScript": 268905,
+    "SCSS": 37355,
+    "Shell": 9009,
+    "Dockerfile": 5779,
+    "Makefile": 5584,
+    "Batchfile": 5106
+  },
+  "size": 6222931
+}

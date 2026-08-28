@@ -1,0 +1,14 @@
+{
+  "commit": "14577ab53f46a8bf1ad97bd2afc9c8d495809532",
+  "repo_url": "https://github.com/alexgladkov/claude-in-mobile",
+  "date": "2026-05-27T16:38:20",
+  "languages": {
+    "TypeScript": 1313289,
+    "Rust": 427636,
+    "Kotlin": 96588,
+    "JavaScript": 29341,
+    "Swift": 14951,
+    "Ruby": 840
+  },
+  "size": 1882645
+}

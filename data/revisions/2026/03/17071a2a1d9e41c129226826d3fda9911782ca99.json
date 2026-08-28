@@ -1,0 +1,18 @@
+{
+  "commit": "17071a2a1d9e41c129226826d3fda9911782ca99",
+  "repo_url": "https://github.com/evidentlyai/evidently",
+  "date": "2026-03-10T14:01:56",
+  "languages": {
+    "Jupyter Notebook": 11601416,
+    "Python": 4370348,
+    "TypeScript": 528207,
+    "CSS": 9298,
+    "HTML": 3405,
+    "Makefile": 3344,
+    "JavaScript": 2691,
+    "Jinja": 1441,
+    "Mako": 635,
+    "Shell": 356
+  },
+  "size": 16521141
+}

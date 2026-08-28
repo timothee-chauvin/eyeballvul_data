@@ -1,0 +1,15 @@
+{
+  "commit": "7a1e5e2d8b1c8353e0de4128f932545a6d64465b",
+  "repo_url": "https://github.com/automatisch/automatisch",
+  "date": "2025-08-08T13:05:14",
+  "languages": {
+    "JavaScript": 3348617,
+    "CSS": 3605,
+    "HTML": 2520,
+    "Vue": 2101,
+    "Shell": 2076,
+    "Handlebars": 987,
+    "Dockerfile": 576
+  },
+  "size": 3360482
+}

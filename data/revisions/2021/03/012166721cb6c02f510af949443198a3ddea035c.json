@@ -1,0 +1,25 @@
+{
+  "commit": "012166721cb6c02f510af949443198a3ddea035c",
+  "repo_url": "https://github.com/apache/jena",
+  "date": "2021-03-27T10:21:00",
+  "languages": {
+    "Java": 31073650,
+    "JavaScript": 873015,
+    "Shell": 231450,
+    "Ruby": 186514,
+    "HTML": 115922,
+    "Lex": 82672,
+    "XSLT": 65126,
+    "Perl": 35662,
+    "CSS": 26180,
+    "Batchfile": 20813,
+    "Smarty": 12725,
+    "C++": 5813,
+    "AspectJ": 3446,
+    "Dockerfile": 3341,
+    "Thrift": 3242,
+    "Elixir": 2548,
+    "Python": 416
+  },
+  "size": 32742535
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "26328500fc10e61813d378b82da9838e9717ee15",
+  "repo_url": "https://github.com/apitable/apitable",
+  "date": "2024-12-30T09:31:30",
+  "languages": {
+    "TypeScript": 18873151,
+    "Java": 5833489,
+    "Less": 977129,
+    "JavaScript": 292759,
+    "MDX": 107145,
+    "HTML": 38777,
+    "CSS": 35953,
+    "Makefile": 15224,
+    "Dockerfile": 11076,
+    "Shell": 10860,
+    "HCL": 2381,
+    "Lua": 274
+  },
+  "size": 26198218
+}

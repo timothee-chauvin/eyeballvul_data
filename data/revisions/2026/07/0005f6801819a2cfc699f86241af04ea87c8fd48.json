@@ -1,0 +1,12 @@
+{
+  "commit": "0005f6801819a2cfc699f86241af04ea87c8fd48",
+  "repo_url": "https://github.com/kde/kleopatra",
+  "date": "2026-07-30T03:27:40",
+  "languages": {
+    "C++": 2713156,
+    "CMake": 35926,
+    "C": 9044,
+    "Shell": 2833
+  },
+  "size": 2760959
+}

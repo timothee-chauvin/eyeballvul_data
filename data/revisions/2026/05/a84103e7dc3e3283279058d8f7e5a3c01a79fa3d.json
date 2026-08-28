@@ -1,0 +1,15 @@
+{
+  "commit": "a84103e7dc3e3283279058d8f7e5a3c01a79fa3d",
+  "repo_url": "https://github.com/asymmetric-effort/specifyjs",
+  "date": "2026-05-28T22:10:12",
+  "languages": {
+    "TypeScript": 4328492,
+    "JavaScript": 237293,
+    "HTML": 26630,
+    "Shell": 26086,
+    "CSS": 14528,
+    "Perl": 4726,
+    "Makefile": 2476
+  },
+  "size": 4640231
+}

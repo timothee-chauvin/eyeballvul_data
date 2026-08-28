@@ -1,0 +1,22 @@
+{
+  "commit": "a39c7c43457ba2aa8edad833f33f9afe28444838",
+  "repo_url": "https://github.com/orange-opensource/hurl",
+  "date": "2026-04-28T15:35:33",
+  "languages": {
+    "Rust": 2319551,
+    "Python": 227392,
+    "Shell": 130208,
+    "PowerShell": 105023,
+    "HTML": 63536,
+    "Roff": 22838,
+    "JavaScript": 6805,
+    "CSS": 6780,
+    "NSIS": 4884,
+    "Emacs Lisp": 2790,
+    "Vim Script": 2684,
+    "Dockerfile": 2240,
+    "Makefile": 240,
+    "C": 192
+  },
+  "size": 2895163
+}

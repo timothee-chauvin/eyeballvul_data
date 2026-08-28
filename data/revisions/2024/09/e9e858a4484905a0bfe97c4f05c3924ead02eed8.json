@@ -1,0 +1,20 @@
+{
+  "commit": "e9e858a4484905a0bfe97c4f05c3924ead02eed8",
+  "repo_url": "https://github.com/leanprover/lean4",
+  "date": "2024-09-02T21:26:00",
+  "languages": {
+    "Lean": 13848789,
+    "C++": 1770750,
+    "Shell": 79135,
+    "CMake": 54915,
+    "Nix": 31479,
+    "Python": 24675,
+    "Swift": 18233,
+    "OCaml": 15982,
+    "Standard ML": 15693,
+    "Haskell": 15166,
+    "Makefile": 14651,
+    "C": 4045
+  },
+  "size": 15893513
+}

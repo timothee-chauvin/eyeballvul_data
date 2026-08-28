@@ -1,0 +1,18 @@
+{
+  "commit": "df1c49835ff852ea44fab152cb0ad52d8de8e000",
+  "repo_url": "https://github.com/opensearch-project/dashboards-observability",
+  "date": "2026-03-05T17:35:24",
+  "languages": {
+    "TypeScript": 4206143,
+    "JavaScript": 223585,
+    "SCSS": 38367,
+    "ANTLR": 29130,
+    "Lua": 4054,
+    "Java": 1768,
+    "Dockerfile": 1302,
+    "Go": 1070,
+    "Python": 1058,
+    "Shell": 214
+  },
+  "size": 4506691
+}

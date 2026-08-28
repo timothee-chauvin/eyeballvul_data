@@ -1,0 +1,17 @@
+{
+  "commit": "edb0c90b16df9afefd8795e2707c126ab92858d9",
+  "repo_url": "https://github.com/qwed-ai/qwed-verification",
+  "date": "2026-05-21T18:27:31",
+  "languages": {
+    "Python": 2293374,
+    "HTML": 343895,
+    "Go": 26142,
+    "TypeScript": 20718,
+    "PowerShell": 19205,
+    "Rust": 9924,
+    "Dockerfile": 2282,
+    "Shell": 1111,
+    "Batchfile": 192
+  },
+  "size": 2716843
+}

@@ -1,0 +1,29 @@
+{
+  "commit": "8c9ffbeb6d60226970f69b6ef5b08d9551d944e2",
+  "repo_url": "https://github.com/hasura/graphql-engine",
+  "date": "2020-11-24T08:17:27",
+  "languages": {
+    "Haskell": 1896097,
+    "JavaScript": 1848928,
+    "TypeScript": 703346,
+    "Go": 596113,
+    "Python": 445946,
+    "SCSS": 115529,
+    "Shell": 109576,
+    "CSS": 101979,
+    "PLpgSQL": 52422,
+    "Vue": 47995,
+    "HTML": 37903,
+    "Dockerfile": 13848,
+    "Makefile": 9572,
+    "Java": 5245,
+    "Svelte": 4536,
+    "Lua": 3826,
+    "Ruby": 2107,
+    "Stylus": 1375,
+    "PowerShell": 183,
+    "Less": 98,
+    "Procfile": 85
+  },
+  "size": 5996709
+}

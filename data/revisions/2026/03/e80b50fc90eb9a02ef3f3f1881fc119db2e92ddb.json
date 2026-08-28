@@ -1,0 +1,14 @@
+{
+  "commit": "e80b50fc90eb9a02ef3f3f1881fc119db2e92ddb",
+  "repo_url": "https://github.com/erweixin/ratex",
+  "date": "2026-03-12T07:53:16",
+  "languages": {
+    "Rust": 735288,
+    "JavaScript": 92971,
+    "TypeScript": 60726,
+    "Python": 35401,
+    "CSS": 4341,
+    "Shell": 982
+  },
+  "size": 929709
+}

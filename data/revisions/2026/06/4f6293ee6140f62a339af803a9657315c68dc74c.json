@@ -1,0 +1,16 @@
+{
+  "commit": "4f6293ee6140f62a339af803a9657315c68dc74c",
+  "repo_url": "https://github.com/fishcodetech/muteki",
+  "date": "2026-06-30T12:17:26",
+  "languages": {
+    "Python": 2331159,
+    "TypeScript": 643185,
+    "CSS": 214906,
+    "Go": 37475,
+    "Dockerfile": 26081,
+    "Shell": 18298,
+    "JavaScript": 1386,
+    "Pawn": 1016
+  },
+  "size": 3273506
+}

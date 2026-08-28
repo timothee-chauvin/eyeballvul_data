@@ -1,0 +1,22 @@
+{
+  "commit": "dd676611ce11de39b48079f44edf117e75370814",
+  "repo_url": "https://github.com/toeverything/affine",
+  "date": "2025-10-31T17:36:11",
+  "languages": {
+    "TypeScript": 21437985,
+    "Swift": 900218,
+    "Rust": 647783,
+    "Kotlin": 231014,
+    "JavaScript": 83390,
+    "C": 42120,
+    "HTML": 32589,
+    "CSS": 12670,
+    "Shell": 12594,
+    "Metal": 3324,
+    "Ruby": 2452,
+    "Java": 1176,
+    "Objective-C": 142,
+    "NSIS": 22
+  },
+  "size": 23407479
+}

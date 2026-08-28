@@ -1,0 +1,16 @@
+{
+  "commit": "6318c613230cd36d0cae5f2a9c5c1492731a60ae",
+  "repo_url": "https://github.com/kerberos-io/agent",
+  "date": "2026-05-27T21:49:06",
+  "languages": {
+    "Go": 2041644,
+    "JavaScript": 217316,
+    "SCSS": 19371,
+    "Dockerfile": 5309,
+    "HTML": 2351,
+    "HCL": 1271,
+    "CSS": 819,
+    "Shell": 148
+  },
+  "size": 2288229
+}

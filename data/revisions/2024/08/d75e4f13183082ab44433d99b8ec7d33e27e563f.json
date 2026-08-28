@@ -1,0 +1,18 @@
+{
+  "commit": "d75e4f13183082ab44433d99b8ec7d33e27e563f",
+  "repo_url": "https://github.com/stirling-tools/stirling-pdf",
+  "date": "2024-08-24T16:14:47",
+  "languages": {
+    "Java": 843659,
+    "HTML": 415368,
+    "JavaScript": 115375,
+    "CSS": 64894,
+    "Rich Text Format": 41703,
+    "Python": 35479,
+    "Gherkin": 18659,
+    "Shell": 14600,
+    "Smarty": 4016,
+    "Dockerfile": 2243
+  },
+  "size": 1555996
+}

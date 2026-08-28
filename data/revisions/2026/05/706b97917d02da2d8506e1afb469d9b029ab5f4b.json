@@ -1,0 +1,16 @@
+{
+  "commit": "706b97917d02da2d8506e1afb469d9b029ab5f4b",
+  "repo_url": "https://github.com/basekick-labs/arc",
+  "date": "2026-05-04T15:29:39",
+  "languages": {
+    "Go": 3353819,
+    "Shell": 23461,
+    "C": 22638,
+    "Python": 21482,
+    "Mustache": 17060,
+    "Makefile": 2296,
+    "Smarty": 1568,
+    "Dockerfile": 1272
+  },
+  "size": 3443596
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "04496b59f7fb1f0aa868ceecc9beeedc0bdc8a2b",
+  "repo_url": "https://github.com/coroot/coroot",
+  "date": "2026-08-17T18:08:08",
+  "languages": {
+    "Go": 1415583,
+    "Vue": 825877,
+    "JavaScript": 28284,
+    "CSS": 8923,
+    "Shell": 6903,
+    "Dockerfile": 1766,
+    "HTML": 941,
+    "Makefile": 647
+  },
+  "size": 2288924
+}

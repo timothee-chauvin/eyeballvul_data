@@ -1,0 +1,17 @@
+{
+  "commit": "9c641dc16154964e5ffc0c13e9ec6aaffa295ed6",
+  "repo_url": "https://github.com/huggingface/transformers",
+  "date": "2025-07-29T15:32:03",
+  "languages": {
+    "Python": 65584887,
+    "Cuda": 204021,
+    "Dockerfile": 42942,
+    "C++": 19093,
+    "C": 7703,
+    "Makefile": 4377,
+    "Cython": 3635,
+    "Shell": 1838,
+    "Jsonnet": 937
+  },
+  "size": 65869433
+}

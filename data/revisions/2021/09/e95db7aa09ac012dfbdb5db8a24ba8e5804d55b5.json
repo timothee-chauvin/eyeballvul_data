@@ -1,0 +1,21 @@
+{
+  "commit": "e95db7aa09ac012dfbdb5db8a24ba8e5804d55b5",
+  "repo_url": "https://github.com/pytorch/vision",
+  "date": "2021-09-02T15:33:48",
+  "languages": {
+    "Python": 1802451,
+    "C++": 444327,
+    "Cuda": 105517,
+    "Shell": 37460,
+    "Batchfile": 24225,
+    "Java": 21833,
+    "CMake": 17901,
+    "Objective-C++": 3284,
+    "PowerShell": 3264,
+    "Objective-C": 2716,
+    "Dockerfile": 1879,
+    "Ruby": 1085,
+    "C": 686
+  },
+  "size": 2466628
+}

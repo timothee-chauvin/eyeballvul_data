@@ -1,0 +1,13 @@
+{
+  "commit": "dc794a009c3b78028dd4a98d74affe26873fde0e",
+  "repo_url": "https://github.com/cakephp/debug_kit",
+  "date": "2026-05-31T16:35:22",
+  "languages": {
+    "PHP": 382777,
+    "JavaScript": 25067,
+    "CSS": 14196,
+    "Dockerfile": 882,
+    "Hack": 11
+  },
+  "size": 422933
+}

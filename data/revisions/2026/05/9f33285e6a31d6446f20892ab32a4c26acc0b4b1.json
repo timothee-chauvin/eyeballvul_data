@@ -1,0 +1,17 @@
+{
+  "commit": "9f33285e6a31d6446f20892ab32a4c26acc0b4b1",
+  "repo_url": "https://github.com/voxel51/fiftyone",
+  "date": "2026-05-28T20:09:35",
+  "languages": {
+    "Python": 10037421,
+    "TypeScript": 7133598,
+    "JavaScript": 193024,
+    "CSS": 60689,
+    "Shell": 10965,
+    "Dockerfile": 5299,
+    "Batchfile": 4483,
+    "HTML": 3519,
+    "Makefile": 310
+  },
+  "size": 17449308
+}

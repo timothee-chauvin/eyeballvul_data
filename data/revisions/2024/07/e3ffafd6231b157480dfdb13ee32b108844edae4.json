@@ -1,0 +1,22 @@
+{
+  "commit": "e3ffafd6231b157480dfdb13ee32b108844edae4",
+  "repo_url": "https://github.com/omnivore-app/omnivore",
+  "date": "2024-07-04T10:01:47",
+  "languages": {
+    "TypeScript": 3945597,
+    "HTML": 3037509,
+    "Swift": 2493418,
+    "PLpgSQL": 1541407,
+    "Kotlin": 575761,
+    "JavaScript": 360434,
+    "Python": 65682,
+    "CSS": 27753,
+    "Dockerfile": 17351,
+    "Nearley": 9654,
+    "Shell": 4662,
+    "Makefile": 3291,
+    "EJS": 2307,
+    "Handlebars": 84
+  },
+  "size": 12084910
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "f6125bdb437d506b7bb43e6b61f9e9364fdb7e7c",
+  "repo_url": "https://github.com/unleash/unleash",
+  "date": "2026-06-16T14:02:12",
+  "languages": {
+    "TypeScript": 13760750,
+    "JavaScript": 330632,
+    "Mustache": 80635,
+    "Shell": 9065,
+    "SCSS": 6001,
+    "Makefile": 5529,
+    "CSS": 2760,
+    "HTML": 2281,
+    "Dockerfile": 974,
+    "HCL": 247
+  },
+  "size": 14198874
+}

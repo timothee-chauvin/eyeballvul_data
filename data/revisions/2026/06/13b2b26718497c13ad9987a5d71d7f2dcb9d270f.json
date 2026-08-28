@@ -1,0 +1,28 @@
+{
+  "commit": "13b2b26718497c13ad9987a5d71d7f2dcb9d270f",
+  "repo_url": "https://github.com/ericsson/codechecker",
+  "date": "2026-06-25T14:18:50",
+  "languages": {
+    "Python": 3850441,
+    "Vue": 736375,
+    "JavaScript": 240365,
+    "Thrift": 77607,
+    "C": 73637,
+    "Makefile": 64415,
+    "C++": 30755,
+    "Objective-C": 11218,
+    "Shell": 5968,
+    "HTML": 5278,
+    "CSS": 4983,
+    "Dockerfile": 4373,
+    "SCSS": 2187,
+    "Mako": 1222,
+    "Java": 473,
+    "Starlark": 332,
+    "C#": 320,
+    "Go": 117,
+    "TypeScript": 85,
+    "Smalltalk": 4
+  },
+  "size": 5110155
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "c7da7e0dc979c2ecd834a0727114f53cdf878297",
+  "repo_url": "https://github.com/freeipa/freeipa",
+  "date": "2024-08-21T15:06:37",
+  "languages": {
+    "Python": 14326515,
+    "JavaScript": 2068154,
+    "C": 2036882,
+    "Roff": 211292,
+    "Makefile": 68310,
+    "Less": 63393,
+    "Shell": 50201,
+    "M4": 43301,
+    "HTML": 34768,
+    "CSS": 18971,
+    "Augeas": 1430,
+    "sed": 370
+  },
+  "size": 18923587
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "7d82b94e6867eb7c8ed212dd0f95e7e85bc666fc",
+  "repo_url": "https://github.com/gopeak/dectask",
+  "date": "2022-12-02T16:44:50",
+  "languages": {
+    "JavaScript": 7547980,
+    "PHP": 3060439,
+    "Twig": 2003665,
+    "HTML": 1202679,
+    "CSS": 894132,
+    "SCSS": 160189,
+    "Less": 111122,
+    "C": 60504,
+    "Shell": 5388,
+    "TypeScript": 2606,
+    "Makefile": 1450,
+    "Hack": 878,
+    "Batchfile": 396,
+    "Smarty": 238,
+    "M4": 195
+  },
+  "size": 15051861
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "9a4f208785d558a109d98a6ebe8fcadaf39e458b",
+  "repo_url": "https://github.com/zackees/transcribe-anything",
+  "date": "2026-07-09T23:34:46",
+  "languages": {
+    "Python": 480612,
+    "Nix": 5534,
+    "Shell": 4364,
+    "Dockerfile": 2073
+  },
+  "size": 492583
+}

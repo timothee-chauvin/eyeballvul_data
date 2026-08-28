@@ -1,0 +1,21 @@
+{
+  "commit": "db42bb49757b459551607939807017d7a9d5a94a",
+  "repo_url": "https://github.com/seaweedfs/seaweedfs",
+  "date": "2026-07-10T04:08:14",
+  "languages": {
+    "Go": 20971589,
+    "Rust": 1692323,
+    "Java": 595821,
+    "Shell": 405877,
+    "Makefile": 285183,
+    "Python": 140527,
+    "JavaScript": 132221,
+    "HCL": 87059,
+    "HTML": 28089,
+    "Smarty": 15728,
+    "Lua": 6912,
+    "CSS": 5725,
+    "Dockerfile": 3212
+  },
+  "size": 24370266
+}

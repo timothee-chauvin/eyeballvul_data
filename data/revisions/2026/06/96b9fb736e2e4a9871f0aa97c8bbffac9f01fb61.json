@@ -1,0 +1,13 @@
+{
+  "commit": "96b9fb736e2e4a9871f0aa97c8bbffac9f01fb61",
+  "repo_url": "https://github.com/team-telnyx/telnyx-node",
+  "date": "2026-06-18T09:43:26",
+  "languages": {
+    "TypeScript": 11652766,
+    "JavaScript": 10697,
+    "Shell": 9580,
+    "Dockerfile": 2145,
+    "Ruby": 12
+  },
+  "size": 11675200
+}

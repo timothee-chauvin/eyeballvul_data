@@ -1,0 +1,12 @@
+{
+  "commit": "b7d784a16bf5fa17ef9063fe1a3f4d6d72448efa",
+  "repo_url": "https://github.com/cvhub520/x-anylabeling",
+  "date": "2026-06-14T16:43:07",
+  "languages": {
+    "Python": 7013020,
+    "Cuda": 124211,
+    "C++": 13174,
+    "Shell": 4287
+  },
+  "size": 7154692
+}

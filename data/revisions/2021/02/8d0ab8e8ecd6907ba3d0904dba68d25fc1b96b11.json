@@ -1,0 +1,27 @@
+{
+  "commit": "8d0ab8e8ecd6907ba3d0904dba68d25fc1b96b11",
+  "repo_url": "https://github.com/xtraball/siberian",
+  "date": "2021-02-19T13:16:14",
+  "languages": {
+    "JavaScript": 35349574,
+    "PHP": 22146041,
+    "HTML": 10546260,
+    "Objective-C": 3060730,
+    "SCSS": 2900223,
+    "Java": 2877957,
+    "CSS": 2158084,
+    "C++": 201065,
+    "Objective-C++": 182609,
+    "Less": 166156,
+    "Batchfile": 48776,
+    "Python": 32324,
+    "Swift": 22024,
+    "Shell": 17976,
+    "C#": 13457,
+    "C": 11252,
+    "Ruby": 4026,
+    "TSQL": 1123,
+    "PowerShell": 1028
+  },
+  "size": 79740685
+}

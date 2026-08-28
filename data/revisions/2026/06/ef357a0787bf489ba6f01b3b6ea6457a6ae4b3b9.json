@@ -1,0 +1,20 @@
+{
+  "commit": "ef357a0787bf489ba6f01b3b6ea6457a6ae4b3b9",
+  "repo_url": "https://github.com/izpack/izpack",
+  "date": "2026-06-11T06:42:30",
+  "languages": {
+    "Java": 6227730,
+    "C++": 122183,
+    "Shell": 47637,
+    "TeX": 35053,
+    "Python": 21668,
+    "C": 7579,
+    "CSS": 6106,
+    "HTML": 4828,
+    "Batchfile": 3970,
+    "Groovy": 2567,
+    "JavaScript": 2150,
+    "Makefile": 149
+  },
+  "size": 6481620
+}

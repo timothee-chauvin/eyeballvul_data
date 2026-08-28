@@ -1,0 +1,20 @@
+{
+  "commit": "ccace94c38ec8732594d74d7cca5a318ded89aa8",
+  "repo_url": "https://github.com/qloapps/qloapps",
+  "date": "2023-04-17T13:58:18",
+  "languages": {
+    "PHP": 31852661,
+    "Smarty": 3025293,
+    "JavaScript": 2916793,
+    "CSS": 636777,
+    "HTML": 535650,
+    "SCSS": 412809,
+    "Sass": 167967,
+    "C": 33908,
+    "Twig": 27396,
+    "Less": 19680,
+    "Ruby": 1282,
+    "Shell": 49
+  },
+  "size": 39630265
+}

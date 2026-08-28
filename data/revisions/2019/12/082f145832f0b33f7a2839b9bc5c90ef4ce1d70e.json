@@ -1,0 +1,15 @@
+{
+  "commit": "082f145832f0b33f7a2839b9bc5c90ef4ce1d70e",
+  "repo_url": "https://github.com/benjaminkott/bootstrap_package",
+  "date": "2019-12-13T19:13:57",
+  "languages": {
+    "PHP": 1107873,
+    "Less": 320495,
+    "SCSS": 298602,
+    "HTML": 190462,
+    "JavaScript": 55750,
+    "CSS": 1740,
+    "Shell": 337
+  },
+  "size": 1975259
+}

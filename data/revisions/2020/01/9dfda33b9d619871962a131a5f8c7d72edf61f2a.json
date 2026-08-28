@@ -1,6 +1,6 @@
 {
   "commit": "9dfda33b9d619871962a131a5f8c7d72edf61f2a",
-  "repo_url": "https://github.com/hyperledger/indy-node",
+  "repo_url": "https://github.com/hyperledger-indy/indy-node",
   "date": "2020-01-27T14:39:30",
   "languages": {
     "Python": 2282599,

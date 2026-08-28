@@ -1,0 +1,11 @@
+{
+  "commit": "ade138603ee6e84fc27a36de88d3eea1caa57f3d",
+  "repo_url": "https://github.com/geiserx/genieacs-mcp",
+  "date": "2026-04-24T14:23:40",
+  "languages": {
+    "Go": 76226,
+    "JavaScript": 3627,
+    "Dockerfile": 1513
+  },
+  "size": 81366
+}

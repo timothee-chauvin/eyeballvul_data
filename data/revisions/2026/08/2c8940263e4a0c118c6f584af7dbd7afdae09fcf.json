@@ -1,0 +1,15 @@
+{
+  "commit": "2c8940263e4a0c118c6f584af7dbd7afdae09fcf",
+  "repo_url": "https://github.com/mcp-use/mcp-use",
+  "date": "2026-08-25T06:14:49",
+  "languages": {
+    "TypeScript": 5993352,
+    "Python": 1026782,
+    "JavaScript": 181967,
+    "CSS": 52940,
+    "Shell": 25793,
+    "HTML": 11964,
+    "Dockerfile": 832
+  },
+  "size": 7293630
+}

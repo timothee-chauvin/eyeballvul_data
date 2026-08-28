@@ -1,0 +1,15 @@
+{
+  "commit": "f5133755d07137cb9dcbb5c203358e81dfc71aed",
+  "repo_url": "https://github.com/genixcms/genixcms",
+  "date": "2020-09-23T14:58:55",
+  "languages": {
+    "JavaScript": 2549180,
+    "HTML": 1954605,
+    "PHP": 951249,
+    "CSS": 682243,
+    "Less": 7906,
+    "Hack": 3936,
+    "SCSS": 2187
+  },
+  "size": 6151306
+}

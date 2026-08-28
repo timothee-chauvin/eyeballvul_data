@@ -1,0 +1,22 @@
+{
+  "commit": "d8e4b55d164f1d68a8653f2dceb2a18e04917788",
+  "repo_url": "https://github.com/aaif-goose/goose",
+  "date": "2026-04-27T10:17:47",
+  "languages": {
+    "Rust": 5511823,
+    "TypeScript": 4866022,
+    "JavaScript": 167417,
+    "Shell": 153314,
+    "Python": 123330,
+    "HTML": 107204,
+    "CSS": 56450,
+    "Just": 28846,
+    "PowerShell": 12406,
+    "Swift": 6867,
+    "Dockerfile": 6647,
+    "Nix": 5170,
+    "Batchfile": 5050,
+    "HCL": 42
+  },
+  "size": 11050588
+}

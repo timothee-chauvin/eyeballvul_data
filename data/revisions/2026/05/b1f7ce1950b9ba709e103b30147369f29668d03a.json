@@ -1,0 +1,16 @@
+{
+  "commit": "b1f7ce1950b9ba709e103b30147369f29668d03a",
+  "repo_url": "https://github.com/datarecce/recce",
+  "date": "2026-05-20T07:27:45",
+  "languages": {
+    "TypeScript": 4658317,
+    "Python": 2461150,
+    "HTML": 284945,
+    "CSS": 35317,
+    "Shell": 18451,
+    "JavaScript": 13612,
+    "Makefile": 4936,
+    "PLpgSQL": 614
+  },
+  "size": 7477342
+}

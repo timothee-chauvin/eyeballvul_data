@@ -1,0 +1,15 @@
+{
+  "commit": "bb7b1d98cc05da4854ca20ddbb2575707e7295d7",
+  "repo_url": "https://github.com/typo3-solr/ext-solr",
+  "date": "2026-05-20T13:56:56",
+  "languages": {
+    "PHP": 3120454,
+    "JavaScript": 531619,
+    "HTML": 107160,
+    "Shell": 23226,
+    "CSS": 9993,
+    "Dockerfile": 1713,
+    "Makefile": 724
+  },
+  "size": 3794889
+}

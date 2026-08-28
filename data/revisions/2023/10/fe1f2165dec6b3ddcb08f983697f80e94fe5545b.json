@@ -1,0 +1,14 @@
+{
+  "commit": "fe1f2165dec6b3ddcb08f983697f80e94fe5545b",
+  "repo_url": "https://github.com/tarscloud/tarsweb",
+  "date": "2023-10-07T01:48:56",
+  "languages": {
+    "JavaScript": 1427936,
+    "Vue": 891447,
+    "CSS": 94725,
+    "HTML": 14043,
+    "Shell": 5966,
+    "Dockerfile": 1655
+  },
+  "size": 2435772
+}

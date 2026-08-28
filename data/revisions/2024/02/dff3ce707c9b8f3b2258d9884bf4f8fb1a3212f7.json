@@ -1,0 +1,15 @@
+{
+  "commit": "dff3ce707c9b8f3b2258d9884bf4f8fb1a3212f7",
+  "repo_url": "https://github.com/temporalio/ui-server",
+  "date": "2024-02-29T22:35:02",
+  "languages": {
+    "Go": 88450,
+    "JavaScript": 2023,
+    "HTML": 1111,
+    "Dockerfile": 781,
+    "CSS": 725,
+    "Makefile": 515,
+    "Shell": 471
+  },
+  "size": 94076
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "eb7e80be301eb0bab110a4d3102d79aaa57ae31d",
+  "repo_url": "https://github.com/eclipse-sw360/sw360",
+  "date": "2026-05-27T04:53:31",
+  "languages": {
+    "Java": 8132814,
+    "Python": 288711,
+    "Thrift": 190527,
+    "Shell": 23352,
+    "FreeMarker": 10356,
+    "Dockerfile": 7882,
+    "HTML": 5807,
+    "Batchfile": 901
+  },
+  "size": 8660350
+}

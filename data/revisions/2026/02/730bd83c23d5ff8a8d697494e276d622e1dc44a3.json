@@ -1,0 +1,15 @@
+{
+  "commit": "730bd83c23d5ff8a8d697494e276d622e1dc44a3",
+  "repo_url": "https://github.com/keylime/keylime",
+  "date": "2026-02-12T11:57:16",
+  "languages": {
+    "Python": 2750413,
+    "Jinja": 231042,
+    "Shell": 70388,
+    "Dockerfile": 1771,
+    "Standard ML": 1202,
+    "Mako": 919,
+    "Makefile": 138
+  },
+  "size": 3055873
+}

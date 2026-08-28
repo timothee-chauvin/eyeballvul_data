@@ -1,0 +1,11 @@
+{
+  "commit": "2e118a0c0c66e1831f68b7afd6d49ad3e2f96b5d",
+  "repo_url": "https://github.com/tecnativa/docker-socket-proxy",
+  "date": "2026-07-27T09:26:32",
+  "languages": {
+    "Python": 5493,
+    "Shell": 1012,
+    "Dockerfile": 739
+  },
+  "size": 7244
+}

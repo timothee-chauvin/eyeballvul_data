@@ -1,0 +1,22 @@
+{
+  "commit": "dcb00987a777afb3d29f20ea8023070c30e6a949",
+  "repo_url": "https://github.com/appwrite/templates",
+  "date": "2026-08-19T06:00:23",
+  "languages": {
+    "JavaScript": 145435,
+    "HTML": 144608,
+    "Python": 56790,
+    "TypeScript": 36099,
+    "PHP": 19826,
+    "Dart": 12525,
+    "Kotlin": 9027,
+    "Ruby": 6746,
+    "Go": 6127,
+    "Java": 2329,
+    "Rust": 2062,
+    "Swift": 1885,
+    "C#": 1757,
+    "C++": 1116
+  },
+  "size": 446332
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "de8fae69bbb79e868cd6a06791738ed5bde4c656",
+  "repo_url": "https://github.com/doorman-dev/doorman",
+  "date": "2026-01-27T03:46:34",
+  "languages": {
+    "Python": 2501766,
+    "TypeScript": 873308,
+    "CSS": 146087,
+    "Shell": 21389,
+    "JavaScript": 20162,
+    "HTML": 8952,
+    "Makefile": 4882,
+    "Dockerfile": 2364
+  },
+  "size": 3578910
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "0083aa824da0681f6e8ebc4ca4e0f93b374d3423",
+  "repo_url": "https://github.com/timescale/pg-aiguide",
+  "date": "2026-04-27T19:56:46",
+  "languages": {
+    "Python": 82988,
+    "TypeScript": 41373,
+    "JavaScript": 16661,
+    "Shell": 382,
+    "Dockerfile": 352
+  },
+  "size": 141756
+}

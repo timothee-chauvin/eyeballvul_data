@@ -1,0 +1,24 @@
+{
+  "commit": "7bdea3c2ae1f23683299c008bd5093ccaeb5f7b1",
+  "repo_url": "https://github.com/wasm-micro-runtime/wasm-micro-runtime",
+  "date": "2024-04-22T07:00:09",
+  "languages": {
+    "C": 6334573,
+    "C++": 473893,
+    "Python": 376764,
+    "CMake": 149019,
+    "Shell": 115318,
+    "TypeScript": 95035,
+    "Assembly": 37048,
+    "Go": 33041,
+    "Makefile": 29255,
+    "Dockerfile": 10867,
+    "HTML": 4688,
+    "Batchfile": 3437,
+    "JavaScript": 2039,
+    "WebAssembly": 1794,
+    "CSS": 1163,
+    "Rust": 811
+  },
+  "size": 7668745
+}

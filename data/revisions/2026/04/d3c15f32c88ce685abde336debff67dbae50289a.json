@@ -1,0 +1,16 @@
+{
+  "commit": "d3c15f32c88ce685abde336debff67dbae50289a",
+  "repo_url": "https://github.com/baptistearno/typebot.io",
+  "date": "2026-04-13T10:18:57",
+  "languages": {
+    "TypeScript": 4505775,
+    "MDX": 2191061,
+    "CSS": 40422,
+    "PHP": 13867,
+    "JavaScript": 8932,
+    "Dockerfile": 2484,
+    "PLpgSQL": 936,
+    "Shell": 657
+  },
+  "size": 6764134
+}

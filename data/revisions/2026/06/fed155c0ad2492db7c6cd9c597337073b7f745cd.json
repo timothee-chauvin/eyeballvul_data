@@ -1,0 +1,16 @@
+{
+  "commit": "fed155c0ad2492db7c6cd9c597337073b7f745cd",
+  "repo_url": "https://github.com/djust-org/djust",
+  "date": "2026-06-14T02:41:58",
+  "languages": {
+    "Python": 10932806,
+    "JavaScript": 3322082,
+    "Rust": 1595688,
+    "CSS": 440680,
+    "HTML": 249758,
+    "Shell": 91511,
+    "Makefile": 23296,
+    "Dockerfile": 1906
+  },
+  "size": 16657727
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "bca74e18b038a9a36e1aa6d2cf992a49bee775da",
+  "repo_url": "https://github.com/cleverbrush/framework",
+  "date": "2026-07-06T20:46:00",
+  "languages": {
+    "TypeScript": 5597034,
+    "CSS": 104392,
+    "JavaScript": 20497,
+    "Shell": 11509,
+    "Dockerfile": 3005
+  },
+  "size": 5736437
+}

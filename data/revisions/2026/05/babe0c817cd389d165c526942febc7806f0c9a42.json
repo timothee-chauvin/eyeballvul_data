@@ -1,0 +1,16 @@
+{
+  "commit": "babe0c817cd389d165c526942febc7806f0c9a42",
+  "repo_url": "https://github.com/zanllp/infinite-image-browsing",
+  "date": "2026-05-30T15:14:18",
+  "languages": {
+    "Vue": 406748,
+    "Python": 372990,
+    "TypeScript": 316755,
+    "JavaScript": 12668,
+    "SCSS": 6366,
+    "Rust": 5165,
+    "HTML": 734,
+    "CSS": 51
+  },
+  "size": 1121477
+}
