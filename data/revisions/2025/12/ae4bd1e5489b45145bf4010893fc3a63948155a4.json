@@ -1,0 +1,12 @@
+{
+  "commit": "ae4bd1e5489b45145bf4010893fc3a63948155a4",
+  "repo_url": "https://github.com/grpc/grpc-go",
+  "date": "2025-12-11T08:21:45",
+  "languages": {
+    "Go": 9102335,
+    "Shell": 37703,
+    "Dockerfile": 4469,
+    "Makefile": 953
+  },
+  "size": 9145460
+}

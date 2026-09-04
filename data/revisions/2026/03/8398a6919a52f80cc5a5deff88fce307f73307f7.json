@@ -1,0 +1,12 @@
+{
+  "commit": "8398a6919a52f80cc5a5deff88fce307f73307f7",
+  "repo_url": "https://github.com/datadog/dd-trace-rs",
+  "date": "2026-03-27T14:31:39",
+  "languages": {
+    "Rust": 896207,
+    "Shell": 16333,
+    "Python": 4373,
+    "JavaScript": 64
+  },
+  "size": 916977
+}

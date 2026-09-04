@@ -1,0 +1,12 @@
+{
+  "commit": "25589071381e66505fd7e2da41f7b305b98bfd8c",
+  "repo_url": "https://github.com/argoproj-labs/mcp-for-argocd",
+  "date": "2026-06-11T18:07:25",
+  "languages": {
+    "TypeScript": 40984,
+    "Makefile": 1570,
+    "Dockerfile": 1169,
+    "JavaScript": 430
+  },
+  "size": 44153
+}

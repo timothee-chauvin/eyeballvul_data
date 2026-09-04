@@ -1,0 +1,16 @@
+{
+  "commit": "eca4923baee4d5922214d73b9ddf2a260a0001c1",
+  "repo_url": "https://github.com/sciphi-ai/r2r",
+  "date": "2025-06-02T22:07:25",
+  "languages": {
+    "Python": 2897784,
+    "TypeScript": 276692,
+    "CSS": 3479,
+    "Shell": 2863,
+    "JavaScript": 2827,
+    "Dockerfile": 1461,
+    "Mako": 1430,
+    "Rich Text Format": 548
+  },
+  "size": 3187084
+}

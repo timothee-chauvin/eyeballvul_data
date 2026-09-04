@@ -1,0 +1,12 @@
+{
+  "commit": "093c105d405d5ca1537663f516fd587485201420",
+  "repo_url": "https://github.com/speechbrain/speechbrain",
+  "date": "2024-10-30T15:19:57",
+  "languages": {
+    "Python": 6710360,
+    "Perl": 111221,
+    "MATLAB": 21568,
+    "Shell": 7509
+  },
+  "size": 6850658
+}

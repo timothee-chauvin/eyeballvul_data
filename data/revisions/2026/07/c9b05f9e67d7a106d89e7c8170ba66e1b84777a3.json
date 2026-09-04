@@ -1,0 +1,13 @@
+{
+  "commit": "c9b05f9e67d7a106d89e7c8170ba66e1b84777a3",
+  "repo_url": "https://github.com/2fastlabs/agent-squad",
+  "date": "2026-07-14T10:27:22",
+  "languages": {
+    "Swift": 673228,
+    "Python": 620800,
+    "TypeScript": 350579,
+    "JavaScript": 949,
+    "Makefile": 237
+  },
+  "size": 1645793
+}

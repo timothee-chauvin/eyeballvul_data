@@ -1,0 +1,14 @@
+{
+  "commit": "def6dd5018d7c6fdf70c31bb27845cff5f3ad4ff",
+  "repo_url": "https://github.com/tsi-coop/tsi-dpdp-cms",
+  "date": "2026-08-13T11:54:07",
+  "languages": {
+    "Java": 871051,
+    "HTML": 784825,
+    "JavaScript": 24870,
+    "Batchfile": 2124,
+    "Shell": 1745,
+    "Dockerfile": 738
+  },
+  "size": 1685353
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "3897263520820dd8d552f8e430139fc721f32491",
+  "repo_url": "https://github.com/intel/linux-npu-driver",
+  "date": "2026-03-11T15:09:34",
+  "languages": {
+    "C++": 3020056,
+    "C": 187908,
+    "CMake": 61522,
+    "Nix": 7971,
+    "Shell": 250
+  },
+  "size": 3277707
+}

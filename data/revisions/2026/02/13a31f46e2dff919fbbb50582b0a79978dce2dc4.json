@@ -1,0 +1,11 @@
+{
+  "commit": "13a31f46e2dff919fbbb50582b0a79978dce2dc4",
+  "repo_url": "https://github.com/grpc-ecosystem/grpc-gateway",
+  "date": "2026-02-17T16:59:59",
+  "languages": {
+    "Go": 1203832,
+    "Starlark": 127580,
+    "Makefile": 10646
+  },
+  "size": 1342058
+}

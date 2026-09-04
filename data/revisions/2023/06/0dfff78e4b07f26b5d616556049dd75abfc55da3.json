@@ -1,0 +1,24 @@
+{
+  "commit": "0dfff78e4b07f26b5d616556049dd75abfc55da3",
+  "repo_url": "https://github.com/starrocks/starrocks",
+  "date": "2023-06-08T13:38:50",
+  "languages": {
+    "Java": 27851058,
+    "C++": 27147951,
+    "C": 337180,
+    "Python": 259541,
+    "Thrift": 253100,
+    "CMake": 165541,
+    "Shell": 100978,
+    "ANTLR": 82592,
+    "HTML": 26561,
+    "Dockerfile": 22923,
+    "JavaScript": 10136,
+    "Makefile": 7808,
+    "CSS": 6187,
+    "Yacc": 4189,
+    "Lex": 1752,
+    "Mustache": 959
+  },
+  "size": 56278456
+}

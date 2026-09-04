@@ -1,0 +1,24 @@
+{
+  "commit": "55ec8469d58887b3f04b28001f15a8ae5d145f64",
+  "repo_url": "https://github.com/kubeflow/pipelines",
+  "date": "2025-09-12T16:28:40",
+  "languages": {
+    "Python": 6945623,
+    "TypeScript": 4926845,
+    "Go": 3363679,
+    "JavaScript": 661375,
+    "Shell": 196095,
+    "Mustache": 47304,
+    "Makefile": 35379,
+    "Dockerfile": 22566,
+    "Jupyter Notebook": 15265,
+    "Smarty": 10745,
+    "MDX": 5260,
+    "HTML": 3656,
+    "PowerShell": 3194,
+    "CSS": 2443,
+    "Batchfile": 1364,
+    "Starlark": 553
+  },
+  "size": 16241346
+}

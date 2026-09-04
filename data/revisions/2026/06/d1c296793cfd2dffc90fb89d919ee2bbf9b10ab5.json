@@ -1,0 +1,17 @@
+{
+  "commit": "d1c296793cfd2dffc90fb89d919ee2bbf9b10ab5",
+  "repo_url": "https://github.com/argoproj/argo-rollouts",
+  "date": "2026-06-30T17:05:52",
+  "languages": {
+    "Go": 4023141,
+    "TypeScript": 544802,
+    "SCSS": 33213,
+    "Shell": 14471,
+    "Makefile": 13567,
+    "JavaScript": 4371,
+    "Dockerfile": 3667,
+    "HTML": 479,
+    "CSS": 22
+  },
+  "size": 4637733
+}

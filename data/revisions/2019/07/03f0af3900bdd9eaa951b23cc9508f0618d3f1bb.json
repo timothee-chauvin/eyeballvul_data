@@ -1,0 +1,18 @@
+{
+  "commit": "03f0af3900bdd9eaa951b23cc9508f0618d3f1bb",
+  "repo_url": "https://github.com/isc-projects/kea",
+  "date": "2019-07-22T10:32:54",
+  "languages": {
+    "C++": 24225473,
+    "Shell": 475465,
+    "Makefile": 286219,
+    "Yacc": 229793,
+    "LLVM": 207777,
+    "Python": 109623,
+    "M4": 109099,
+    "PLpgSQL": 38684,
+    "C": 26522,
+    "Perl": 1723
+  },
+  "size": 25710378
+}

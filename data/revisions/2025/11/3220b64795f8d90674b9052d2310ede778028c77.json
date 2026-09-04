@@ -1,0 +1,18 @@
+{
+  "commit": "3220b64795f8d90674b9052d2310ede778028c77",
+  "repo_url": "https://github.com/zhenorzz/goploy",
+  "date": "2025-11-05T09:30:19",
+  "languages": {
+    "Vue": 519143,
+    "Go": 515256,
+    "TypeScript": 130158,
+    "SCSS": 5833,
+    "CSS": 2617,
+    "Shell": 1630,
+    "Dockerfile": 870,
+    "HTML": 334,
+    "JavaScript": 185,
+    "Batchfile": 45
+  },
+  "size": 1176071
+}

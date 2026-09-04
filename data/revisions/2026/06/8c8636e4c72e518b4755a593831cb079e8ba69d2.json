@@ -1,0 +1,10 @@
+{
+  "commit": "8c8636e4c72e518b4755a593831cb079e8ba69d2",
+  "repo_url": "https://github.com/agentverus/agentverus-scanner",
+  "date": "2026-06-24T22:19:53",
+  "languages": {
+    "TypeScript": 587256,
+    "JavaScript": 66185
+  },
+  "size": 653441
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "f19385d2dfc9a9496fffb01f3b2daf163ab43eae",
+  "repo_url": "https://github.com/cakephp/queue",
+  "date": "2026-03-26T20:19:49",
+  "languages": {
+    "PHP": 233219,
+    "Twig": 1528,
+    "Dockerfile": 1459
+  },
+  "size": 236206
+}

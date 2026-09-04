@@ -1,0 +1,20 @@
+{
+  "commit": "639490e21f654258b351687a7913ec904c436989",
+  "repo_url": "https://github.com/maximhq/bifrost",
+  "date": "2026-06-04T10:59:16",
+  "languages": {
+    "Go": 17795039,
+    "TypeScript": 4045249,
+    "Python": 1071630,
+    "Shell": 216773,
+    "HCL": 203579,
+    "JavaScript": 170648,
+    "Makefile": 155457,
+    "Smarty": 79688,
+    "CSS": 15175,
+    "Nix": 12451,
+    "Dockerfile": 4089,
+    "HTML": 513
+  },
+  "size": 23770291
+}

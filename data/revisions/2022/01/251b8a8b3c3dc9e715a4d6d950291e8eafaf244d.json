@@ -1,0 +1,14 @@
+{
+  "commit": "251b8a8b3c3dc9e715a4d6d950291e8eafaf244d",
+  "repo_url": "https://github.com/klaussilveira/gitlist",
+  "date": "2022-01-15T04:25:37",
+  "languages": {
+    "PHP": 412811,
+    "Twig": 41105,
+    "JavaScript": 10723,
+    "SCSS": 9993,
+    "Makefile": 2850,
+    "Dockerfile": 1286
+  },
+  "size": 478768
+}

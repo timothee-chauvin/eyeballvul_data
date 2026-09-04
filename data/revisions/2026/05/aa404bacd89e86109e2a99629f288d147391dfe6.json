@@ -1,0 +1,14 @@
+{
+  "commit": "aa404bacd89e86109e2a99629f288d147391dfe6",
+  "repo_url": "https://github.com/rybbit-io/rybbit",
+  "date": "2026-05-16T15:41:36",
+  "languages": {
+    "TypeScript": 3437088,
+    "JavaScript": 51324,
+    "CSS": 16286,
+    "Shell": 16114,
+    "Dockerfile": 4211,
+    "Makefile": 1644
+  },
+  "size": 3526667
+}

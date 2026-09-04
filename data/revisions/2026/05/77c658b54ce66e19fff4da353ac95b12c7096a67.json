@@ -1,0 +1,12 @@
+{
+  "commit": "77c658b54ce66e19fff4da353ac95b12c7096a67",
+  "repo_url": "https://github.com/laravel-backpack/crud",
+  "date": "2026-05-17T05:53:38",
+  "languages": {
+    "PHP": 1727460,
+    "Blade": 286252,
+    "JavaScript": 25261,
+    "CSS": 11620
+  },
+  "size": 2050593
+}

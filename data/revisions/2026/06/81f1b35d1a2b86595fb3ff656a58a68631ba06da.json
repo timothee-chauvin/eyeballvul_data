@@ -1,0 +1,24 @@
+{
+  "commit": "81f1b35d1a2b86595fb3ff656a58a68631ba06da",
+  "repo_url": "https://github.com/scrapy/protego",
+  "date": "2026-06-11T10:15:46",
+  "languages": {
+    "DIGITAL Command Language": 12190005,
+    "Python": 74868,
+    "Ruby": 33533,
+    "Berry": 11721,
+    "mupad": 7246,
+    "Perl": 4173,
+    "NewLisp": 3577,
+    "xBase": 3196,
+    "LilyPond": 2189,
+    "C++": 772,
+    "Raku": 741,
+    "JavaScript": 644,
+    "Io": 349,
+    "Prolog": 171,
+    "Roff": 130,
+    "Shell": 71
+  },
+  "size": 12333386
+}

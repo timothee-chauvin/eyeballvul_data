@@ -1,0 +1,13 @@
+{
+  "commit": "063cd839c6c0204eac743b2eefb78f1585eea766",
+  "repo_url": "https://github.com/silverstripe/silverstripe-advancedworkflow",
+  "date": "2026-02-06T04:03:59",
+  "languages": {
+    "PHP": 309452,
+    "JavaScript": 30180,
+    "Scheme": 10340,
+    "SCSS": 5994,
+    "Gherkin": 1565
+  },
+  "size": 357531
+}

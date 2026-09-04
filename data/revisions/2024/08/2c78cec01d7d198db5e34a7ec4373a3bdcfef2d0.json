@@ -1,0 +1,14 @@
+{
+  "commit": "2c78cec01d7d198db5e34a7ec4373a3bdcfef2d0",
+  "repo_url": "https://github.com/lllyasviel/fooocus",
+  "date": "2024-08-03T13:18:24",
+  "languages": {
+    "Python": 2003071,
+    "JavaScript": 57092,
+    "CSS": 8224,
+    "Dockerfile": 1119,
+    "Jupyter Notebook": 639,
+    "Shell": 632
+  },
+  "size": 2070777
+}

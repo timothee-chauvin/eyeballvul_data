@@ -1,0 +1,20 @@
+{
+  "commit": "c730fec1e422e907fed668291b2ea18c4c243644",
+  "repo_url": "https://github.com/langgenius/dify",
+  "date": "2026-02-11T09:08:49",
+  "languages": {
+    "TypeScript": 20253543,
+    "Python": 18167875,
+    "JavaScript": 1569437,
+    "MDX": 680075,
+    "CSS": 186175,
+    "HTML": 158437,
+    "Shell": 66077,
+    "SCSS": 22266,
+    "Dockerfile": 6234,
+    "PHP": 6106,
+    "Makefile": 5413,
+    "Mako": 518
+  },
+  "size": 41122156
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "4717d44a0260da2c117f1073b57446f11ea2d71d",
+  "repo_url": "https://github.com/oasdiff/oasdiff",
+  "date": "2026-05-30T10:25:26",
+  "languages": {
+    "Go": 2035876,
+    "HTML": 4431,
+    "Shell": 4254,
+    "Makefile": 2063,
+    "Dockerfile": 597
+  },
+  "size": 2047221
+}

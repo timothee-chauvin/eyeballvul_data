@@ -1,0 +1,20 @@
+{
+  "commit": "84cf1b5a86b6b7395a30c091d7c840d932f78a5e",
+  "repo_url": "https://github.com/skyvern-ai/skyvern",
+  "date": "2026-06-30T20:24:55",
+  "languages": {
+    "Python": 20725044,
+    "TypeScript": 6614470,
+    "Jinja": 359633,
+    "MDX": 287534,
+    "JavaScript": 198584,
+    "Shell": 42864,
+    "HTML": 24540,
+    "CSS": 17960,
+    "Dockerfile": 4781,
+    "PowerShell": 3876,
+    "Smarty": 1597,
+    "Mako": 635
+  },
+  "size": 28281518
+}

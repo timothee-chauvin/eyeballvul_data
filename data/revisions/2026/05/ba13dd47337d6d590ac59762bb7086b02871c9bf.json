@@ -1,0 +1,15 @@
+{
+  "commit": "ba13dd47337d6d590ac59762bb7086b02871c9bf",
+  "repo_url": "https://github.com/bishopfox/joro",
+  "date": "2026-05-14T13:51:11",
+  "languages": {
+    "Go": 619629,
+    "TypeScript": 513769,
+    "CSS": 21622,
+    "Makefile": 2291,
+    "JavaScript": 1799,
+    "Shell": 1292,
+    "HTML": 376
+  },
+  "size": 1160778
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "406b4b321f897d8152a006f016a8e6b1796e8ac9",
+  "repo_url": "https://github.com/mythicalltd/featherpanel",
+  "date": "2026-05-20T18:54:24",
+  "languages": {
+    "PHP": 7135509,
+    "TypeScript": 6832594,
+    "HTML": 1061834,
+    "Shell": 337296,
+    "Rust": 145278,
+    "JavaScript": 99499,
+    "PowerShell": 77648,
+    "CSS": 11743,
+    "Dockerfile": 8287,
+    "Makefile": 6630
+  },
+  "size": 15716318
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "f944c8e3f174b799401b83dcf168fd97cfb2f4cf",
+  "repo_url": "https://github.com/wakujs/waku",
+  "date": "2026-05-12T14:04:37",
+  "languages": {
+    "TypeScript": 973385,
+    "MDX": 65734,
+    "JavaScript": 9087,
+    "CSS": 2034,
+    "HTML": 148
+  },
+  "size": 1050388
+}

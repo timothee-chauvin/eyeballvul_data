@@ -1,0 +1,12 @@
+{
+  "commit": "580c2421ff10ab4a753438b1c12637c0e5706798",
+  "repo_url": "https://github.com/portkey-ai/gateway",
+  "date": "2025-12-24T13:15:33",
+  "languages": {
+    "TypeScript": 2056115,
+    "HTML": 75930,
+    "JavaScript": 7668,
+    "Dockerfile": 1172
+  },
+  "size": 2140885
+}

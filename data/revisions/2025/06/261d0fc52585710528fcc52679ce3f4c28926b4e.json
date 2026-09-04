@@ -1,0 +1,16 @@
+{
+  "commit": "261d0fc52585710528fcc52679ce3f4c28926b4e",
+  "repo_url": "https://github.com/in2code-de/femanager",
+  "date": "2025-06-10T19:17:50",
+  "languages": {
+    "PHP": 490411,
+    "HTML": 95225,
+    "JavaScript": 22991,
+    "Gherkin": 22428,
+    "SCSS": 6246,
+    "Shell": 2414,
+    "Makefile": 1128,
+    "Dockerfile": 89
+  },
+  "size": 640932
+}

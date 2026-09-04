@@ -1,0 +1,28 @@
+{
+  "commit": "b05727d74551934c0fb3efdae1706155533d3cec",
+  "repo_url": "https://github.com/aws/aws-fpga",
+  "date": "2026-06-22T15:03:20",
+  "languages": {
+    "SystemVerilog": 3067056,
+    "C": 630124,
+    "Verilog": 252001,
+    "Python": 192350,
+    "Tcl": 178154,
+    "Shell": 86342,
+    "C++": 52084,
+    "Jupyter Notebook": 44205,
+    "Filebench WML": 36749,
+    "Makefile": 34966,
+    "Cython": 18840,
+    "BitBake": 16386,
+    "TypeScript": 16241,
+    "Perl": 14698,
+    "Forth": 8874,
+    "Pawn": 5108,
+    "Fortran": 4548,
+    "NASL": 2401,
+    "SourcePawn": 1343,
+    "HTML": 236
+  },
+  "size": 4662706
+}

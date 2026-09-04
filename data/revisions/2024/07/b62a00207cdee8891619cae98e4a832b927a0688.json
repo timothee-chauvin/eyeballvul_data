@@ -1,0 +1,12 @@
+{
+  "commit": "b62a00207cdee8891619cae98e4a832b927a0688",
+  "repo_url": "https://github.com/builderio/gpt-crawler",
+  "date": "2024-07-05T14:35:42",
+  "languages": {
+    "TypeScript": 13545,
+    "Dockerfile": 3485,
+    "JavaScript": 2560,
+    "Shell": 959
+  },
+  "size": 20549
+}

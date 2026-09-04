@@ -1,0 +1,13 @@
+{
+  "commit": "49c52b9d59fdb647bfc6cc4de025eb413024ad4e",
+  "repo_url": "https://github.com/wolfssl/wolfprovider",
+  "date": "2026-07-17T02:25:11",
+  "languages": {
+    "C": 2966779,
+    "Shell": 291993,
+    "M4": 74218,
+    "Dockerfile": 4793,
+    "Makefile": 1617
+  },
+  "size": 3339400
+}

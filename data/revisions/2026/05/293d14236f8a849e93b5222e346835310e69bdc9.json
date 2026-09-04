@@ -1,0 +1,15 @@
+{
+  "commit": "293d14236f8a849e93b5222e346835310e69bdc9",
+  "repo_url": "https://github.com/vbpf/prevail",
+  "date": "2026-05-28T11:13:22",
+  "languages": {
+    "C++": 1406793,
+    "Python": 38333,
+    "CMake": 17993,
+    "Shell": 14495,
+    "PowerShell": 11486,
+    "C": 3351,
+    "Dockerfile": 449
+  },
+  "size": 1492900
+}

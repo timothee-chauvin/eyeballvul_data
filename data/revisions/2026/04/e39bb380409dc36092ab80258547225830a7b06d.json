@@ -1,0 +1,16 @@
+{
+  "commit": "e39bb380409dc36092ab80258547225830a7b06d",
+  "repo_url": "https://github.com/nvidia/openshell",
+  "date": "2026-04-18T00:47:37",
+  "languages": {
+    "Rust": 3731398,
+    "Shell": 347011,
+    "Python": 208612,
+    "CSS": 24095,
+    "TypeScript": 15010,
+    "Open Policy Agent": 14364,
+    "Smarty": 1628,
+    "Makefile": 177
+  },
+  "size": 4342295
+}

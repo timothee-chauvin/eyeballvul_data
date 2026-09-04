@@ -1,0 +1,14 @@
+{
+  "commit": "ffff41f3c36b2eb90900699fa8fb7cb3074d0e6e",
+  "repo_url": "https://github.com/phpsysinfo/phpsysinfo",
+  "date": "2026-03-20T07:58:01",
+  "languages": {
+    "PHP": 1237905,
+    "JavaScript": 455745,
+    "XSLT": 112819,
+    "HTML": 60077,
+    "CSS": 58477,
+    "Dockerfile": 828
+  },
+  "size": 1925851
+}

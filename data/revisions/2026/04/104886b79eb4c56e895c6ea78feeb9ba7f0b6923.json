@@ -1,0 +1,10 @@
+{
+  "commit": "104886b79eb4c56e895c6ea78feeb9ba7f0b6923",
+  "repo_url": "https://github.com/awslabs/diagram-as-code",
+  "date": "2026-04-08T13:12:40",
+  "languages": {
+    "Go": 456496,
+    "Shell": 2362
+  },
+  "size": 458858
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "527a121fe49960e4ea61a1119501aed33e0e6824",
+  "repo_url": "https://github.com/snyk/sweater-comb",
+  "date": "2026-03-23T17:37:57",
+  "languages": {
+    "TypeScript": 325454,
+    "Shell": 12035,
+    "JavaScript": 3776,
+    "Nix": 1175,
+    "Dockerfile": 617,
+    "Makefile": 435
+  },
+  "size": 343492
+}

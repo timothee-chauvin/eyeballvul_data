@@ -1,0 +1,11 @@
+{
+  "commit": "b58e4b3a3f39931f0a2b01dcaccd719b54734525",
+  "repo_url": "https://github.com/js-recon/js-recon",
+  "date": "2026-06-08T12:41:44",
+  "languages": {
+    "TypeScript": 1247731,
+    "JavaScript": 20620,
+    "Dockerfile": 1144
+  },
+  "size": 1269495
+}

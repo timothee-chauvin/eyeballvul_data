@@ -1,0 +1,16 @@
+{
+  "commit": "39bc019609c79cceeaac4cf8eefbf901f0365523",
+  "repo_url": "https://github.com/dataelement/bisheng",
+  "date": "2026-03-11T02:33:49",
+  "languages": {
+    "TypeScript": 7389517,
+    "Python": 4346713,
+    "JavaScript": 1995618,
+    "CSS": 161460,
+    "Shell": 12078,
+    "HTML": 4195,
+    "Dockerfile": 3970,
+    "Mako": 704
+  },
+  "size": 13914255
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "0158bf123db639f84385dc2430e4557eb7157487",
+  "repo_url": "https://github.com/medplum/medplum",
+  "date": "2026-03-28T02:06:09",
+  "languages": {
+    "TypeScript": 13974528,
+    "MDX": 1351314,
+    "CSS": 73077,
+    "Shell": 59255,
+    "HCL": 54759,
+    "JavaScript": 46294,
+    "NSIS": 14125,
+    "Python": 4218,
+    "Dockerfile": 3381,
+    "Smarty": 1953,
+    "HTML": 1856
+  },
+  "size": 15584760
+}

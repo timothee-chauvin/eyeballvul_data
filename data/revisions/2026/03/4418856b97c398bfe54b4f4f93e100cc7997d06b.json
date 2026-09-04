@@ -1,0 +1,13 @@
+{
+  "commit": "4418856b97c398bfe54b4f4f93e100cc7997d06b",
+  "repo_url": "https://github.com/silverstripe/silverstripe-userforms",
+  "date": "2026-03-17T01:06:53",
+  "languages": {
+    "PHP": 426881,
+    "JavaScript": 72823,
+    "Gherkin": 10819,
+    "Scheme": 8436,
+    "SCSS": 5479
+  },
+  "size": 524438
+}

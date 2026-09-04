@@ -1,0 +1,15 @@
+{
+  "commit": "6516a8d7db01cad281ed8b59f6c8fcc818cd6f28",
+  "repo_url": "https://github.com/openchoreo/openchoreo",
+  "date": "2026-05-29T09:23:47",
+  "languages": {
+    "Go": 11609801,
+    "Python": 415119,
+    "Shell": 181826,
+    "Makefile": 71079,
+    "Jinja": 70903,
+    "Smarty": 23964,
+    "Dockerfile": 19434
+  },
+  "size": 12392126
+}

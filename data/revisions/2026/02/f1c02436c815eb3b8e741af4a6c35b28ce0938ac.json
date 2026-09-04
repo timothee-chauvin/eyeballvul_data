@@ -1,0 +1,15 @@
+{
+  "commit": "f1c02436c815eb3b8e741af4a6c35b28ce0938ac",
+  "repo_url": "https://github.com/23blocks-os/ai-maestro",
+  "date": "2026-02-08T05:32:37",
+  "languages": {
+    "TypeScript": 2891973,
+    "Shell": 512036,
+    "JavaScript": 162741,
+    "CSS": 19051,
+    "HCL": 8894,
+    "Dockerfile": 2617,
+    "Smarty": 2404
+  },
+  "size": 3599716
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "4cf40fe1b4fe7482d17cd7f513b315c1909c989a",
+  "repo_url": "https://github.com/wp-media/wp-rocket",
+  "date": "2026-03-25T12:09:53",
+  "languages": {
+    "PHP": 7683010,
+    "JavaScript": 1033935,
+    "HTML": 454501,
+    "CSS": 153090,
+    "SCSS": 136123,
+    "Hack": 84000,
+    "Shell": 5437
+  },
+  "size": 9550096
+}

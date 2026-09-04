@@ -1,0 +1,18 @@
+{
+  "commit": "cdc77062f0a549796d6c058a584a767b60395532",
+  "repo_url": "https://github.com/pocket-id/pocket-id",
+  "date": "2026-05-31T18:04:59",
+  "languages": {
+    "Go": 979884,
+    "Svelte": 420501,
+    "TypeScript": 206283,
+    "PLpgSQL": 47823,
+    "Shell": 13372,
+    "CSS": 5411,
+    "Dockerfile": 2215,
+    "JavaScript": 1803,
+    "HTML": 994,
+    "Python": 436
+  },
+  "size": 1678722
+}

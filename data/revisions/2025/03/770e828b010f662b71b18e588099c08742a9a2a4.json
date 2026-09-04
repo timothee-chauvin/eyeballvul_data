@@ -1,0 +1,12 @@
+{
+  "commit": "770e828b010f662b71b18e588099c08742a9a2a4",
+  "repo_url": "https://github.com/intel/neural-compressor",
+  "date": "2025-03-26T05:55:29",
+  "languages": {
+    "Python": 11267017,
+    "Shell": 105139,
+    "Dockerfile": 1737,
+    "Roff": 1010
+  },
+  "size": 11374903
+}

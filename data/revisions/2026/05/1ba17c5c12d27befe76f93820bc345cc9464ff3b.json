@@ -1,0 +1,16 @@
+{
+  "commit": "1ba17c5c12d27befe76f93820bc345cc9464ff3b",
+  "repo_url": "https://github.com/as203038/looking-glass",
+  "date": "2026-05-23T11:07:43",
+  "languages": {
+    "Go": 240573,
+    "Svelte": 89780,
+    "TypeScript": 25748,
+    "CSS": 7209,
+    "Makefile": 6638,
+    "HTML": 4935,
+    "Dockerfile": 1965,
+    "JavaScript": 1500
+  },
+  "size": 378348
+}

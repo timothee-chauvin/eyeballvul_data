@@ -1,0 +1,22 @@
+{
+  "commit": "54d54791b0873d29f5b5850a46340aa3a74cb51b",
+  "repo_url": "https://github.com/readest/readest",
+  "date": "2026-06-20T04:41:25",
+  "languages": {
+    "TypeScript": 8653942,
+    "Lua": 445813,
+    "Rust": 330096,
+    "Kotlin": 137769,
+    "Swift": 113185,
+    "JavaScript": 81789,
+    "PLpgSQL": 27668,
+    "CSS": 19289,
+    "Shell": 11602,
+    "Nix": 5662,
+    "HTML": 5590,
+    "NSIS": 3946,
+    "Dockerfile": 3520,
+    "Ruby": 1153
+  },
+  "size": 9841024
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "a50e6d3a32c00d2086acef474193077507d81b54",
+  "repo_url": "https://github.com/mitre/heimdall2",
+  "date": "2026-04-10T09:08:34",
+  "languages": {
+    "HTML": 9720569,
+    "TypeScript": 7005053,
+    "Vue": 431948,
+    "JavaScript": 52362,
+    "Shell": 15169,
+    "PowerShell": 11093,
+    "PLpgSQL": 7972,
+    "HCL": 2789,
+    "Dockerfile": 2499,
+    "SCSS": 1354,
+    "CSS": 575,
+    "Ruby": 142,
+    "Procfile": 90
+  },
+  "size": 17251615
+}

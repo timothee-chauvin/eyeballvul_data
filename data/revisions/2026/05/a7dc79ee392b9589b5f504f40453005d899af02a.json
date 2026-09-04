@@ -1,0 +1,16 @@
+{
+  "commit": "a7dc79ee392b9589b5f504f40453005d899af02a",
+  "repo_url": "https://github.com/signum-network/signum-node",
+  "date": "2026-05-19T19:45:10",
+  "languages": {
+    "Java": 2678430,
+    "C": 29288,
+    "JavaScript": 6068,
+    "Shell": 5968,
+    "HTML": 5626,
+    "CSS": 4910,
+    "Dockerfile": 3251,
+    "Nix": 2740
+  },
+  "size": 2736281
+}

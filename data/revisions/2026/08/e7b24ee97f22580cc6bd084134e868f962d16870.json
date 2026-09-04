@@ -1,0 +1,14 @@
+{
+  "commit": "e7b24ee97f22580cc6bd084134e868f962d16870",
+  "repo_url": "https://github.com/modelscope/modelscope",
+  "date": "2026-08-28T08:56:48",
+  "languages": {
+    "Python": 22848651,
+    "Cuda": 191213,
+    "C++": 85970,
+    "Shell": 16758,
+    "Smarty": 4912,
+    "Makefile": 524
+  },
+  "size": 23148028
+}

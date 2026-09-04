@@ -1,0 +1,23 @@
+{
+  "commit": "3152e71443eea268773aec1f492899bc0abd4d07",
+  "repo_url": "https://github.com/dianping/cat",
+  "date": "2022-05-31T10:13:32",
+  "languages": {
+    "Java": 20284341,
+    "C": 991094,
+    "Less": 650677,
+    "C#": 291403,
+    "FreeMarker": 82593,
+    "Python": 45967,
+    "CMake": 34620,
+    "C++": 18146,
+    "Go": 17986,
+    "Erlang": 11752,
+    "Scala": 8692,
+    "Makefile": 3092,
+    "Smarty": 2397,
+    "Shell": 1705,
+    "Dockerfile": 700
+  },
+  "size": 22445165
+}

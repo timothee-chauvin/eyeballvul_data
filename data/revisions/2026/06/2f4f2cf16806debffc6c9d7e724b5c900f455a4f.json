@@ -1,0 +1,17 @@
+{
+  "commit": "2f4f2cf16806debffc6c9d7e724b5c900f455a4f",
+  "repo_url": "https://github.com/microsoft/winget-cli",
+  "date": "2026-06-01T19:34:19",
+  "languages": {
+    "C++": 7595008,
+    "C#": 2662435,
+    "PowerShell": 2232549,
+    "C": 148519,
+    "JavaScript": 49567,
+    "TypeScript": 14577,
+    "CSS": 11672,
+    "HTML": 3829,
+    "CMake": 3031
+  },
+  "size": 12721187
+}

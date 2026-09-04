@@ -1,0 +1,11 @@
+{
+  "commit": "054136bf818fb02cfb671341324b5e2b6ae82308",
+  "repo_url": "https://github.com/keploy/keploy",
+  "date": "2026-08-25T11:39:54",
+  "languages": {
+    "Go": 6706989,
+    "Shell": 36623,
+    "Dockerfile": 4668
+  },
+  "size": 6748280
+}

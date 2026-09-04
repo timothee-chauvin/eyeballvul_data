@@ -1,0 +1,13 @@
+{
+  "commit": "f77cb42d990b2dcdf0d0c5e9baceb9977713565a",
+  "repo_url": "https://github.com/plone/plone.app.event",
+  "date": "2026-05-14T21:36:16",
+  "languages": {
+    "Python": 288497,
+    "JavaScript": 41501,
+    "HTML": 23860,
+    "RobotFramework": 7223,
+    "CSS": 3952
+  },
+  "size": 365033
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "84cc91c8623a3be20482abcc670ce11e019c5397",
+  "repo_url": "https://github.com/eclipse-lyo/lyo",
+  "date": "2026-08-09T14:04:02",
+  "languages": {
+    "Java": 3065670,
+    "HTML": 244729,
+    "GAP": 15607,
+    "JavaScript": 10219,
+    "Ruby": 8204,
+    "Shell": 6494,
+    "Kotlin": 5880,
+    "Python": 2209,
+    "CSS": 1219,
+    "FreeMarker": 954
+  },
+  "size": 3361185
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "85c48fb379a74781d5c07c8bfadf4a711a485fae",
+  "repo_url": "https://github.com/spring-cloud/spring-cloud-function",
+  "date": "2026-01-28T20:02:08",
+  "languages": {
+    "Java": 1684134,
+    "Kotlin": 25606,
+    "Dockerfile": 3734,
+    "Shell": 3003,
+    "Ruby": 448,
+    "HTML": 33
+  },
+  "size": 1716958
+}

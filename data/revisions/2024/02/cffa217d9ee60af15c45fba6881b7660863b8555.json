@@ -1,0 +1,17 @@
+{
+  "commit": "cffa217d9ee60af15c45fba6881b7660863b8555",
+  "repo_url": "https://github.com/isc-projects/stork",
+  "date": "2024-02-05T20:30:15",
+  "languages": {
+    "Go": 3709034,
+    "TypeScript": 1963139,
+    "HTML": 342832,
+    "Python": 244900,
+    "Ruby": 180680,
+    "Sass": 33551,
+    "Dockerfile": 20590,
+    "Shell": 18244,
+    "JavaScript": 4917
+  },
+  "size": 6517887
+}

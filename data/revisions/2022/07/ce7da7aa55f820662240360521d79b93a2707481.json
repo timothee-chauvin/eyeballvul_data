@@ -1,0 +1,19 @@
+{
+  "commit": "ce7da7aa55f820662240360521d79b93a2707481",
+  "repo_url": "https://gitlab.com/shinobi-systems/shinobi",
+  "date": "2022-07-15T05:20:17",
+  "languages": {
+    "JavaScript": 3171483,
+    "CSS": 332492,
+    "SCSS": 242103,
+    "EJS": 216725,
+    "Shell": 123422,
+    "Less": 81986,
+    "PLpgSQL": 7155,
+    "Dockerfile": 6169,
+    "HTML": 5082,
+    "PureBasic": 2954,
+    "Python": 2944
+  },
+  "size": 4192515
+}

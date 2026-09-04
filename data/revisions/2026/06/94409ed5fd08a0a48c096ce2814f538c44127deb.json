@@ -1,0 +1,13 @@
+{
+  "commit": "94409ed5fd08a0a48c096ce2814f538c44127deb",
+  "repo_url": "https://github.com/jetperch/pymonocypher",
+  "date": "2026-06-01T20:40:14",
+  "languages": {
+    "C": 100271,
+    "Cython": 23515,
+    "Python": 15856,
+    "C++": 12175,
+    "Makefile": 1101
+  },
+  "size": 152918
+}

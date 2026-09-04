@@ -1,0 +1,18 @@
+{
+  "commit": "dddfbbc31548defe6d73c9e1e2a0d221d94efa72",
+  "repo_url": "https://github.com/hyperdxio/hyperdx",
+  "date": "2024-10-14T18:04:10",
+  "languages": {
+    "TypeScript": 1646015,
+    "SCSS": 33663,
+    "Dockerfile": 14122,
+    "JavaScript": 12118,
+    "Go": 6730,
+    "Makefile": 4822,
+    "Python": 4553,
+    "Shell": 4322,
+    "CSS": 2105,
+    "HTML": 333
+  },
+  "size": 1728783
+}

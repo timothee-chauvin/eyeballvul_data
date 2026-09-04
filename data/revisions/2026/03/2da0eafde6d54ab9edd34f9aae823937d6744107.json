@@ -1,0 +1,21 @@
+{
+  "commit": "2da0eafde6d54ab9edd34f9aae823937d6744107",
+  "repo_url": "https://github.com/grashjs/cmms",
+  "date": "2026-03-06T08:24:52",
+  "languages": {
+    "TypeScript": 6809314,
+    "Java": 1310347,
+    "JavaScript": 41745,
+    "HTML": 33683,
+    "CSS": 13865,
+    "PowerShell": 12147,
+    "Shell": 10018,
+    "Tcl": 8890,
+    "Kotlin": 4561,
+    "Ruby": 2467,
+    "Swift": 2275,
+    "Dockerfile": 1294,
+    "C": 102
+  },
+  "size": 8250708
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "54693ce5882f89590e3e1357605deaa1e4521102",
+  "repo_url": "https://github.com/openatomfoundation/pikiwidb",
+  "date": "2026-09-01T06:00:06",
+  "languages": {
+    "C++": 8644324,
+    "Go": 1262291,
+    "Tcl": 534317,
+    "Python": 107201,
+    "Shell": 91966,
+    "CMake": 82059,
+    "Smarty": 65401,
+    "JavaScript": 52310,
+    "HTML": 39539,
+    "C": 35786,
+    "Gnuplot": 9552,
+    "Makefile": 5755,
+    "CSS": 5363,
+    "TeX": 4077,
+    "Dockerfile": 1307
+  },
+  "size": 10941248
+}
