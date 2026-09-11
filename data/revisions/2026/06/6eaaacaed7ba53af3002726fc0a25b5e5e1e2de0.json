@@ -1,0 +1,13 @@
+{
+  "commit": "6eaaacaed7ba53af3002726fc0a25b5e5e1e2de0",
+  "repo_url": "https://github.com/ibm/portieris",
+  "date": "2026-06-30T19:27:34",
+  "languages": {
+    "Go": 612925,
+    "Shell": 8486,
+    "Makefile": 5632,
+    "Dockerfile": 2926,
+    "Mustache": 1030
+  },
+  "size": 630999
+}

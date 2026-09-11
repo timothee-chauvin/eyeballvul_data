@@ -1,0 +1,18 @@
+{
+  "commit": "fca0764703b3bb59c6e6dc5d29c6d9710d35c0e6",
+  "repo_url": "https://github.com/netty/netty",
+  "date": "2026-07-08T19:14:18",
+  "languages": {
+    "Java": 20373365,
+    "C": 233917,
+    "HTML": 21029,
+    "Shell": 18570,
+    "JavaScript": 16232,
+    "Makefile": 1814,
+    "Groovy": 1755,
+    "Dockerfile": 1116,
+    "CSS": 49,
+    "Ruby": 47
+  },
+  "size": 20667894
+}

@@ -1,0 +1,23 @@
+{
+  "commit": "aa988ced156155c9e34245488f5f45383ca79928",
+  "repo_url": "https://github.com/projeto-siga/siga",
+  "date": "2023-04-14T18:36:12",
+  "languages": {
+    "HTML": 38829926,
+    "Java": 15303786,
+    "JavaScript": 9376804,
+    "XSLT": 375524,
+    "PLSQL": 367897,
+    "CSS": 262838,
+    "FreeMarker": 243542,
+    "Vue": 181173,
+    "PHP": 25856,
+    "Shell": 2318,
+    "Batchfile": 1286,
+    "Rich Text Format": 682,
+    "PLpgSQL": 287,
+    "Dockerfile": 195,
+    "Fluent": 68
+  },
+  "size": 64972182
+}

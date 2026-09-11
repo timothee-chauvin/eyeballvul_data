@@ -1,0 +1,14 @@
+{
+  "commit": "f940578039138f7a9b97b24f5aca9d1a5284c5c4",
+  "repo_url": "https://github.com/snort3/snort3",
+  "date": "2023-07-31T15:47:49",
+  "languages": {
+    "C++": 14604494,
+    "C": 346100,
+    "CMake": 149419,
+    "Lex": 128516,
+    "Lua": 80208,
+    "Shell": 44687
+  },
+  "size": 15353424
+}

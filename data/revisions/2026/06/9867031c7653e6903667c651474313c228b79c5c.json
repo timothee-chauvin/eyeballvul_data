@@ -1,0 +1,18 @@
+{
+  "commit": "9867031c7653e6903667c651474313c228b79c5c",
+  "repo_url": "https://github.com/getarcaneapp/arcane",
+  "date": "2026-06-04T17:36:39",
+  "languages": {
+    "Go": 5208737,
+    "Svelte": 2142182,
+    "TypeScript": 782043,
+    "Just": 50027,
+    "CSS": 33678,
+    "Shell": 25215,
+    "PLpgSQL": 3469,
+    "Dockerfile": 3295,
+    "HTML": 1015,
+    "JavaScript": 425
+  },
+  "size": 8250086
+}

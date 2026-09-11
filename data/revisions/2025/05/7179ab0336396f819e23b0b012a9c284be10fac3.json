@@ -1,0 +1,13 @@
+{
+  "commit": "7179ab0336396f819e23b0b012a9c284be10fac3",
+  "repo_url": "https://github.com/crystaldba/postgres-mcp",
+  "date": "2025-05-16T14:43:02",
+  "languages": {
+    "Python": 503158,
+    "Shell": 3239,
+    "Dockerfile": 2154,
+    "Nix": 2090,
+    "Just": 1229
+  },
+  "size": 511870
+}

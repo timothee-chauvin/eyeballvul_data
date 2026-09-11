@@ -1,0 +1,11 @@
+{
+  "commit": "ff5128777dd3dc5538f1a95fbcc29442c327d7d2",
+  "repo_url": "https://github.com/modelscope/ms-swift",
+  "date": "2026-08-16T02:23:55",
+  "languages": {
+    "Python": 5185032,
+    "Shell": 15184,
+    "Makefile": 359
+  },
+  "size": 5200575
+}

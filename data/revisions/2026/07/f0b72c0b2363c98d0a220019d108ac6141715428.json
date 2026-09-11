@@ -1,0 +1,11 @@
+{
+  "commit": "f0b72c0b2363c98d0a220019d108ac6141715428",
+  "repo_url": "https://github.com/elixir-mint/mint",
+  "date": "2026-07-16T07:00:32",
+  "languages": {
+    "Elixir": 525955,
+    "Erlang": 8364,
+    "Dockerfile": 656
+  },
+  "size": 534975
+}

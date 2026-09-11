@@ -1,0 +1,17 @@
+{
+  "commit": "06d94e49ba8b1ee4d57df103b9e5181437111a22",
+  "repo_url": "https://github.com/solidinvoice/solidinvoice",
+  "date": "2025-04-21T15:06:07",
+  "languages": {
+    "PHP": 1944836,
+    "HTML": 1182824,
+    "Twig": 330264,
+    "Go": 18346,
+    "Shell": 18254,
+    "SCSS": 17810,
+    "TypeScript": 6012,
+    "JavaScript": 4409,
+    "HCL": 2347
+  },
+  "size": 3525102
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "9ee9d0a0cafd5e5fe3b271d2280b090ab6e64048",
+  "repo_url": "https://github.com/rclone/rclone",
+  "date": "2026-07-31T15:56:33",
+  "languages": {
+    "Go": 9349910,
+    "Shell": 52154,
+    "Python": 49570,
+    "HTML": 36571,
+    "JavaScript": 21079,
+    "Makefile": 13188,
+    "Dockerfile": 3556,
+    "C": 3300,
+    "PHP": 2519,
+    "Batchfile": 616
+  },
+  "size": 9532463
+}

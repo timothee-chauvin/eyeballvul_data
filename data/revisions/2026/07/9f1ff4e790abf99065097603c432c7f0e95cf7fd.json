@@ -1,0 +1,24 @@
+{
+  "commit": "9f1ff4e790abf99065097603c432c7f0e95cf7fd",
+  "repo_url": "https://github.com/ten-framework/ten-framework",
+  "date": "2026-07-31T10:32:49",
+  "languages": {
+    "Python": 8350374,
+    "C": 5308768,
+    "C++": 3681949,
+    "TypeScript": 3078088,
+    "Rust": 2746518,
+    "Go": 735853,
+    "Shell": 226355,
+    "Dockerfile": 87975,
+    "CSS": 78259,
+    "HTML": 76539,
+    "JavaScript": 47483,
+    "PowerShell": 33641,
+    "Cython": 8046,
+    "CMake": 1539,
+    "Jinja": 1303,
+    "Objective-C": 449
+  },
+  "size": 24463139
+}

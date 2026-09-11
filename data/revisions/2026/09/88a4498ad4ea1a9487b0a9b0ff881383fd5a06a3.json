@@ -1,0 +1,13 @@
+{
+  "commit": "88a4498ad4ea1a9487b0a9b0ff881383fd5a06a3",
+  "repo_url": "https://github.com/huggingface/tokenizers",
+  "date": "2026-09-03T08:43:37",
+  "languages": {
+    "Rust": 1474564,
+    "Python": 399870,
+    "TypeScript": 34232,
+    "Makefile": 4878,
+    "CSS": 4850
+  },
+  "size": 1918394
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "1ad6e4616bbb49b6963375dbf81abb0500b58639",
+  "repo_url": "https://github.com/tile-ai/tilelang",
+  "date": "2025-09-19T15:17:23",
+  "languages": {
+    "C++": 2760011,
+    "Python": 1576377,
+    "Shell": 30199,
+    "Cuda": 17298,
+    "Cython": 12608,
+    "CMake": 8394,
+    "Dockerfile": 1941
+  },
+  "size": 4406828
+}

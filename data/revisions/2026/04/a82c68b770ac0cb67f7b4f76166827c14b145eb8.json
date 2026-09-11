@@ -1,0 +1,12 @@
+{
+  "commit": "a82c68b770ac0cb67f7b4f76166827c14b145eb8",
+  "repo_url": "https://github.com/cel-expr/cel-go",
+  "date": "2026-04-30T03:19:55",
+  "languages": {
+    "Go": 3105617,
+    "Starlark": 70568,
+    "ANTLR": 7001,
+    "Shell": 2472
+  },
+  "size": 3185658
+}

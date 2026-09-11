@@ -1,0 +1,12 @@
+{
+  "commit": "02d003dd250547d4afd57593e9fd10c11c59a6c2",
+  "repo_url": "https://github.com/themoos/essential-moos",
+  "date": "2013-07-13T11:08:49",
+  "languages": {
+    "C++": 208475,
+    "CMake": 16177,
+    "C": 7227,
+    "Objective-C": 1619
+  },
+  "size": 233498
+}

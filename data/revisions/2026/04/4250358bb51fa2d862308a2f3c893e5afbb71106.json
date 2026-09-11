@@ -1,0 +1,13 @@
+{
+  "commit": "4250358bb51fa2d862308a2f3c893e5afbb71106",
+  "repo_url": "https://github.com/marqo-ai/marqo",
+  "date": "2026-04-02T11:15:34",
+  "languages": {
+    "Python": 6655496,
+    "Java": 338755,
+    "Jinja": 42297,
+    "Shell": 6975,
+    "Dockerfile": 5045
+  },
+  "size": 7048568
+}

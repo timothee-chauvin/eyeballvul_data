@@ -1,0 +1,15 @@
+{
+  "commit": "1e10f60b151cedb59ac21ddbcceb5ee0eed9c984",
+  "repo_url": "https://github.com/thu-maic/openmaic",
+  "date": "2026-09-04T15:23:21",
+  "languages": {
+    "TypeScript": 19631616,
+    "JavaScript": 576419,
+    "MDX": 321520,
+    "CSS": 119638,
+    "HTML": 15358,
+    "Dockerfile": 8274,
+    "Shell": 7023
+  },
+  "size": 20679848
+}

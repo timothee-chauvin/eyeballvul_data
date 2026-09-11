@@ -1,0 +1,12 @@
+{
+  "commit": "6411b718a3f8fcdc6e3288c4d729d1d0f285d508",
+  "repo_url": "https://github.com/apple/servicetalk",
+  "date": "2026-05-13T05:31:02",
+  "languages": {
+    "Java": 16347674,
+    "Groovy": 40143,
+    "Shell": 28250,
+    "Dockerfile": 720
+  },
+  "size": 16416787
+}

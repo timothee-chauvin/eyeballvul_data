@@ -1,0 +1,12 @@
+{
+  "commit": "52c23814dbb60c2fbb54750ddf41d342d432a498",
+  "repo_url": "https://github.com/jkuhlmann/cgltf",
+  "date": "2024-04-25T20:18:43",
+  "languages": {
+    "C": 250839,
+    "C++": 8423,
+    "CMake": 3250,
+    "Python": 2672
+  },
+  "size": 265184
+}

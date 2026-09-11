@@ -1,0 +1,25 @@
+{
+  "commit": "7cb72537955095573bd762261773cd52c10c779d",
+  "repo_url": "https://github.com/trycua/cua",
+  "date": "2026-06-24T21:43:41",
+  "languages": {
+    "HTML": 19291684,
+    "Python": 6517794,
+    "Rust": 3529766,
+    "Swift": 2101156,
+    "TypeScript": 862065,
+    "Shell": 622439,
+    "PowerShell": 231720,
+    "Nix": 190805,
+    "JavaScript": 103938,
+    "Jupyter Notebook": 97652,
+    "Dockerfile": 30028,
+    "C#": 20700,
+    "CSS": 9152,
+    "Java": 2605,
+    "Makefile": 2058,
+    "Batchfile": 1683,
+    "C": 18
+  },
+  "size": 33615263
+}

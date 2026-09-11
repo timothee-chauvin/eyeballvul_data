@@ -1,0 +1,11 @@
+{
+  "commit": "383711120ac22eec8662f6ae986803a35da53e33",
+  "repo_url": "https://github.com/robrwo/perl-net-ip-lpm",
+  "date": "2026-09-06T12:33:02",
+  "languages": {
+    "Perl": 20487,
+    "C": 14050,
+    "XS": 530
+  },
+  "size": 35067
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "af6d0d4aabb69e4a66441fffc77cf36f954689fa",
+  "repo_url": "https://github.com/forgekeep/nebula-mesh",
+  "date": "2026-06-23T15:23:06",
+  "languages": {
+    "Go": 1960499,
+    "HTML": 76771,
+    "Shell": 14709,
+    "HCL": 6238,
+    "Makefile": 2222,
+    "Smarty": 2143,
+    "Dockerfile": 1305,
+    "Jinja": 1137
+  },
+  "size": 2065024
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "7325759547611def210a731b103878bd696c419c",
+  "repo_url": "https://github.com/yeswiki/yeswiki",
+  "date": "2026-05-22T14:23:09",
+  "languages": {
+    "PHP": 3681865,
+    "JavaScript": 836977,
+    "Twig": 384133,
+    "CSS": 206914,
+    "HTML": 139729,
+    "Shell": 14720,
+    "TypeScript": 8111,
+    "Makefile": 1516
+  },
+  "size": 5273965
+}

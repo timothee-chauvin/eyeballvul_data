@@ -1,0 +1,12 @@
+{
+  "commit": "eb011bce5588cff33e12136878d87c768eab3273",
+  "repo_url": "https://github.com/mwiede/jsch",
+  "date": "2026-07-23T06:22:08",
+  "languages": {
+    "Java": 2096527,
+    "Python": 5990,
+    "Dockerfile": 3932,
+    "Shell": 832
+  },
+  "size": 2107281
+}

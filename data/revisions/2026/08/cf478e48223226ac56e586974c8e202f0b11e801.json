@@ -1,0 +1,17 @@
+{
+  "commit": "cf478e48223226ac56e586974c8e202f0b11e801",
+  "repo_url": "https://github.com/rowboatlabs/rowboat",
+  "date": "2026-08-21T10:22:10",
+  "languages": {
+    "TypeScript": 11512287,
+    "CSS": 128731,
+    "JavaScript": 80979,
+    "Python": 32343,
+    "MDX": 8134,
+    "Dockerfile": 7839,
+    "Swift": 7028,
+    "HTML": 5525,
+    "Shell": 2971
+  },
+  "size": 11785837
+}

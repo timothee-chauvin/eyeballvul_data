@@ -1,0 +1,17 @@
+{
+  "commit": "2f5cb9da62a0fe763a1ddeb7798fc9acb2f4a417",
+  "repo_url": "https://github.com/axolotl-ai-cloud/axolotl",
+  "date": "2026-07-17T06:39:36",
+  "languages": {
+    "Python": 7345847,
+    "Jinja": 150962,
+    "C++": 138766,
+    "Cuda": 41564,
+    "NASL": 18974,
+    "Shell": 13231,
+    "C": 6581,
+    "CSS": 5012,
+    "Dockerfile": 662
+  },
+  "size": 7721599
+}

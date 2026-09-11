@@ -1,0 +1,12 @@
+{
+  "commit": "afb3e5f507aa9cd79be66bf7ea673dc1d9cc8754",
+  "repo_url": "https://github.com/mongodb-js/vscode",
+  "date": "2026-08-25T20:58:58",
+  "languages": {
+    "TypeScript": 1762534,
+    "JavaScript": 16461,
+    "Shell": 5928,
+    "CSS": 404
+  },
+  "size": 1785327
+}

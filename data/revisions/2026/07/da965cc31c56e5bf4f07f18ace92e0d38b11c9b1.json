@@ -1,0 +1,18 @@
+{
+  "commit": "da965cc31c56e5bf4f07f18ace92e0d38b11c9b1",
+  "repo_url": "https://github.com/openagents-org/openagents",
+  "date": "2026-07-21T12:11:16",
+  "languages": {
+    "Python": 5848508,
+    "TypeScript": 5554189,
+    "JavaScript": 1401042,
+    "Swift": 522215,
+    "CSS": 59088,
+    "Shell": 35744,
+    "PowerShell": 21927,
+    "Dockerfile": 3094,
+    "HTML": 3068,
+    "Makefile": 799
+  },
+  "size": 13449674
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "5a1d702a01b24b33555913b90934fe673d51fc0f",
+  "repo_url": "https://github.com/artem-ogre/cdt",
+  "date": "2025-06-29T23:37:05",
+  "languages": {
+    "C++": 310007,
+    "CMake": 10453,
+    "Python": 2249
+  },
+  "size": 322709
+}

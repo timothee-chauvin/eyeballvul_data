@@ -1,0 +1,16 @@
+{
+  "commit": "f4eeff0ddfcff44532c594154dbb3be68100a5e0",
+  "repo_url": "https://github.com/webstudio-is/webstudio",
+  "date": "2026-08-31T21:54:13",
+  "languages": {
+    "TypeScript": 17733154,
+    "PLpgSQL": 101125,
+    "CSS": 70602,
+    "Shell": 52047,
+    "JavaScript": 28022,
+    "Dockerfile": 2121,
+    "HTML": 706,
+    "MDX": 291
+  },
+  "size": 17988068
+}

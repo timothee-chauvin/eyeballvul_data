@@ -1,0 +1,29 @@
+{
+  "commit": "f3d28b2e0978ca075ec324834bec077673478ded",
+  "repo_url": "https://gitlab.com/torproject/tor",
+  "date": "2026-06-25T17:58:14",
+  "languages": {
+    "C": 18626281,
+    "C++": 262069,
+    "Python": 254234,
+    "Shell": 172958,
+    "M4": 157732,
+    "Rust": 49468,
+    "HTML": 32679,
+    "Assembly": 29598,
+    "Makefile": 28573,
+    "Perl": 18916,
+    "SourcePawn": 18269,
+    "q": 5584,
+    "SmPL": 5488,
+    "CMake": 4881,
+    "PHP": 4871,
+    "Lua": 3321,
+    "Ruby": 3216,
+    "POV-Ray SDL": 1574,
+    "sed": 1234,
+    "Gnuplot": 940,
+    "BitBake": 177
+  },
+  "size": 19682063
+}

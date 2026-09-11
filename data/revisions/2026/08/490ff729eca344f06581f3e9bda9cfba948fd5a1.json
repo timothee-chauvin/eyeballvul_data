@@ -1,0 +1,11 @@
+{
+  "commit": "490ff729eca344f06581f3e9bda9cfba948fd5a1",
+  "repo_url": "https://github.com/schreibfaul1/esp32-audioi2s",
+  "date": "2026-08-06T05:21:40",
+  "languages": {
+    "C": 2702938,
+    "C++": 2629869,
+    "CMake": 298
+  },
+  "size": 5333105
+}

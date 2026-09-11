@@ -1,0 +1,13 @@
+{
+  "commit": "de20994e453b7dedec1e8c0eb97c4367b956249c",
+  "repo_url": "https://github.com/open-web-analytics/open-web-analytics",
+  "date": "2026-07-29T22:47:45",
+  "languages": {
+    "PHP": 2147257,
+    "JavaScript": 673507,
+    "CSS": 49143,
+    "HTML": 10131,
+    "Hack": 1675
+  },
+  "size": 2881713
+}

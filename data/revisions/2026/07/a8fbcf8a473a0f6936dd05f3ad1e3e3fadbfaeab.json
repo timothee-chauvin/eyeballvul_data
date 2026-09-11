@@ -1,0 +1,16 @@
+{
+  "commit": "a8fbcf8a473a0f6936dd05f3ad1e3e3fadbfaeab",
+  "repo_url": "https://github.com/spring-projects/spring-tools",
+  "date": "2026-07-28T20:39:29",
+  "languages": {
+    "Java": 24190081,
+    "ANTLR": 352729,
+    "HTML": 311783,
+    "TypeScript": 106045,
+    "Shell": 19935,
+    "JavaScript": 14881,
+    "XSLT": 2728,
+    "CSS": 2296
+  },
+  "size": 25000478
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "b150a551b8d465e31e418e1b2eaf5e79bbb7d28e",
+  "repo_url": "https://github.com/deepseek-ai/deepseek-harness",
+  "date": "2026-08-21T12:03:37",
+  "languages": {
+    "TypeScript": 25966507,
+    "CSS": 400459,
+    "Python": 188957,
+    "JavaScript": 130647,
+    "Shell": 16937,
+    "C": 11763,
+    "C++": 6877,
+    "HTML": 421,
+    "PLpgSQL": 7
+  },
+  "size": 26722575
+}

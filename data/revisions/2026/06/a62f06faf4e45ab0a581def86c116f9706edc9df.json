@@ -1,0 +1,12 @@
+{
+  "commit": "a62f06faf4e45ab0a581def86c116f9706edc9df",
+  "repo_url": "https://github.com/squirrelchat/smol-toml",
+  "date": "2026-06-21T22:54:03",
+  "languages": {
+    "TypeScript": 118090,
+    "JavaScript": 6702,
+    "Shell": 1040,
+    "Just": 780
+  },
+  "size": 126612
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "556641378153f913f647725529e6f824f0dc8ba5",
+  "repo_url": "https://github.com/llmware-ai/llmware",
+  "date": "2026-04-14T17:18:33",
+  "languages": {
+    "Python": 3025961,
+    "Jupyter Notebook": 2704562,
+    "Shell": 8460,
+    "Dockerfile": 1041
+  },
+  "size": 5740024
+}

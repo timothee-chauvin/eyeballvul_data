@@ -1,0 +1,24 @@
+{
+  "commit": "9925a4acd930d1adcbcaf08b0671392f5d306c80",
+  "repo_url": "https://github.com/moltis-org/moltis",
+  "date": "2026-08-19T04:40:24",
+  "languages": {
+    "Rust": 16645621,
+    "HTML": 2691690,
+    "TypeScript": 2529531,
+    "JavaScript": 1050724,
+    "Swift": 511827,
+    "TeX": 434546,
+    "Python": 224282,
+    "Shell": 198668,
+    "CSS": 160007,
+    "Just": 17663,
+    "Dockerfile": 6351,
+    "Ruby": 4952,
+    "Nix": 3588,
+    "Makefile": 1054,
+    "Jinja": 943,
+    "C": 102
+  },
+  "size": 24481549
+}

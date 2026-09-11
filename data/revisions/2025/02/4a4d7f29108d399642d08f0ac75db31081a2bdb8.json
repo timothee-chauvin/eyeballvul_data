@@ -1,0 +1,11 @@
+{
+  "commit": "4a4d7f29108d399642d08f0ac75db31081a2bdb8",
+  "repo_url": "https://github.com/the-vibe-company/megaparse",
+  "date": "2025-02-14T09:24:26",
+  "languages": {
+    "Python": 166433,
+    "Dockerfile": 1133,
+    "Makefile": 647
+  },
+  "size": 168213
+}

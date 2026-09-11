@@ -1,0 +1,14 @@
+{
+  "commit": "b14e6a336a8dff2a37ebda56d075feda5956593d",
+  "repo_url": "https://github.com/mirage/ocaml-cstruct",
+  "date": "2022-07-24T17:04:40",
+  "languages": {
+    "OCaml": 209843,
+    "SourcePawn": 6156,
+    "C": 2796,
+    "JavaScript": 1958,
+    "Standard ML": 486,
+    "Makefile": 289
+  },
+  "size": 221528
+}

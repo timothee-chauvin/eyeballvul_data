@@ -1,0 +1,30 @@
+{
+  "commit": "277ddd050b1243bc19792e845c77f1ccd31896c8",
+  "repo_url": "https://github.com/tursodatabase/turso",
+  "date": "2026-08-21T05:50:47",
+  "languages": {
+    "Rust": 24643779,
+    "PLpgSQL": 1702405,
+    "C": 997571,
+    "Python": 743628,
+    "TypeScript": 601836,
+    "C#": 543610,
+    "Java": 332558,
+    "Go": 273107,
+    "JavaScript": 226233,
+    "C++": 106759,
+    "Tcl": 90562,
+    "Shell": 87340,
+    "MDX": 59514,
+    "Makefile": 35689,
+    "Dockerfile": 10333,
+    "TLA": 8687,
+    "Objective-C++": 2893,
+    "Nix": 2687,
+    "Ruby": 1943,
+    "CMake": 1548,
+    "Objective-C": 230,
+    "PowerShell": 216
+  },
+  "size": 30473128
+}

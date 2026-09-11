@@ -1,0 +1,15 @@
+{
+  "commit": "1d2f3707404b880b5bbf2bb31914be19820c68ba",
+  "repo_url": "https://github.com/jupyter/nbviewer",
+  "date": "2017-10-15T03:32:54",
+  "languages": {
+    "Python": 237274,
+    "HTML": 23410,
+    "Less": 5366,
+    "CSS": 4268,
+    "Dockerfile": 1532,
+    "Smarty": 908,
+    "Jupyter Notebook": 287
+  },
+  "size": 273045
+}

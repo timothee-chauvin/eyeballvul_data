@@ -1,0 +1,13 @@
+{
+  "commit": "4529c6e451f0e5607ef42ad0ed81aa76a14a0f43",
+  "repo_url": "https://github.com/maplibre/maplibre-gl-js",
+  "date": "2026-08-16T08:39:48",
+  "languages": {
+    "TypeScript": 4946838,
+    "HTML": 485173,
+    "GLSL": 132696,
+    "CSS": 23207,
+    "JavaScript": 14839
+  },
+  "size": 5602753
+}

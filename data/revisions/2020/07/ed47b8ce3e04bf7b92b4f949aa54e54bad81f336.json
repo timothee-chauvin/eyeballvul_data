@@ -1,0 +1,23 @@
+{
+  "commit": "ed47b8ce3e04bf7b92b4f949aa54e54bad81f336",
+  "repo_url": "https://github.com/netwide-assembler/nasm",
+  "date": "2020-07-31T00:08:59",
+  "languages": {
+    "Assembly": 3161257,
+    "C": 1817085,
+    "Perl": 170902,
+    "Makefile": 44972,
+    "Shell": 29784,
+    "M4": 27063,
+    "NSIS": 21283,
+    "Python": 16808,
+    "AGS Script": 12353,
+    "Slash": 9562,
+    "Roff": 4873,
+    "Raku": 1469,
+    "Terra": 594,
+    "Batchfile": 308,
+    "sed": 91
+  },
+  "size": 5318404
+}

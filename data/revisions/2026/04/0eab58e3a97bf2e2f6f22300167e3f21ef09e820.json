@@ -1,0 +1,23 @@
+{
+  "commit": "0eab58e3a97bf2e2f6f22300167e3f21ef09e820",
+  "repo_url": "https://github.com/standardnotes/app",
+  "date": "2026-04-07T04:25:39",
+  "languages": {
+    "TypeScript": 5014378,
+    "JavaScript": 905768,
+    "SCSS": 102346,
+    "Java": 27661,
+    "CSS": 25087,
+    "HTML": 21738,
+    "Swift": 16077,
+    "Shell": 10301,
+    "Ruby": 6308,
+    "Objective-C++": 5007,
+    "Kotlin": 3870,
+    "Dockerfile": 3602,
+    "Objective-C": 2695,
+    "NSIS": 483,
+    "Prolog": 350
+  },
+  "size": 6145671
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "417e52911ef3b059eaa53593270e0ef27ea0e0fd",
+  "repo_url": "https://github.com/opengeos/geolibre",
+  "date": "2026-07-25T15:24:14",
+  "languages": {
+    "TypeScript": 10212792,
+    "Python": 702748,
+    "Rust": 198615,
+    "CSS": 121792,
+    "JavaScript": 48554,
+    "Shell": 26434,
+    "PowerShell": 11624,
+    "Jupyter Notebook": 7269,
+    "Dockerfile": 5283,
+    "HTML": 1505
+  },
+  "size": 11336616
+}

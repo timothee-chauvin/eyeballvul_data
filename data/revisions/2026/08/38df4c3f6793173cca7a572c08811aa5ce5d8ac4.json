@@ -1,0 +1,17 @@
+{
+  "commit": "38df4c3f6793173cca7a572c08811aa5ce5d8ac4",
+  "repo_url": "https://github.com/helicone/helicone",
+  "date": "2026-08-30T17:40:53",
+  "languages": {
+    "TypeScript": 19694627,
+    "MDX": 1592941,
+    "Python": 148068,
+    "PLpgSQL": 67870,
+    "Shell": 50174,
+    "JavaScript": 37467,
+    "HCL": 33526,
+    "CSS": 15018,
+    "Dockerfile": 8091
+  },
+  "size": 21647782
+}

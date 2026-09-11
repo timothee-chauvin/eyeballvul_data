@@ -1,0 +1,17 @@
+{
+  "commit": "cc841f4e92928f3cb2e096e7ace92d2bff57177f",
+  "repo_url": "https://github.com/career-ops-hq/career-ops",
+  "date": "2026-08-20T16:52:32",
+  "languages": {
+    "JavaScript": 6438439,
+    "TypeScript": 772029,
+    "Go": 357754,
+    "HTML": 109744,
+    "Shell": 55775,
+    "CSS": 8764,
+    "TeX": 4168,
+    "Dockerfile": 1839,
+    "Nix": 1594
+  },
+  "size": 7750106
+}

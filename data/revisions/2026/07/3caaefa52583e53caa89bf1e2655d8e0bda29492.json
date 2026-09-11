@@ -1,0 +1,16 @@
+{
+  "commit": "3caaefa52583e53caa89bf1e2655d8e0bda29492",
+  "repo_url": "https://github.com/seakee/cpa-manager-plus",
+  "date": "2026-07-30T05:11:54",
+  "languages": {
+    "TypeScript": 5480982,
+    "Go": 2823465,
+    "SCSS": 570805,
+    "JavaScript": 89424,
+    "Shell": 73014,
+    "PowerShell": 20132,
+    "CSS": 4034,
+    "HTML": 3037
+  },
+  "size": 9064893
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "ff385b2f3c6a6911d993871faa077b1e89472509",
+  "repo_url": "https://github.com/luben/zstd-jni",
+  "date": "2026-08-08T10:42:30",
+  "languages": {
+    "C": 1772216,
+    "C++": 562116,
+    "Java": 220980,
+    "Scala": 137875,
+    "Shell": 51656,
+    "Assembly": 15150,
+    "CMake": 874
+  },
+  "size": 2760867
+}

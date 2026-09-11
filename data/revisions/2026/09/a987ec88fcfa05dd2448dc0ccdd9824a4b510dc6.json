@@ -1,0 +1,16 @@
+{
+  "commit": "a987ec88fcfa05dd2448dc0ccdd9824a4b510dc6",
+  "repo_url": "https://github.com/proma-ai/proma",
+  "date": "2026-09-07T13:38:28",
+  "languages": {
+    "TypeScript": 7294102,
+    "Python": 412154,
+    "HTML": 196887,
+    "CSS": 95028,
+    "Swift": 37331,
+    "Objective-C++": 20356,
+    "JavaScript": 9455,
+    "Shell": 6799
+  },
+  "size": 8072112
+}

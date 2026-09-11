@@ -1,0 +1,15 @@
+{
+  "commit": "eada75555a2bc033559b182f334e0406bc54a641",
+  "repo_url": "https://github.com/genivia/ugrep",
+  "date": "2025-06-18T19:07:35",
+  "languages": {
+    "C++": 2426300,
+    "C": 363275,
+    "Makefile": 221924,
+    "Shell": 199375,
+    "M4": 109125,
+    "Dockerfile": 1247,
+    "Java": 160
+  },
+  "size": 3321406
+}

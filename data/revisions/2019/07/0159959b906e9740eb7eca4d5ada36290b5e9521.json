@@ -1,0 +1,10 @@
+{
+  "commit": "0159959b906e9740eb7eca4d5ada36290b5e9521",
+  "repo_url": "https://github.com/snowflakedb/gosnowflake",
+  "date": "2019-07-01T20:06:55",
+  "languages": {
+    "Go": 595313,
+    "Makefile": 5618
+  },
+  "size": 600931
+}
