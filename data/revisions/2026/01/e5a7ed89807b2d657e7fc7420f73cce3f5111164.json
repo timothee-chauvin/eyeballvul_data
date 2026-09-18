@@ -1,0 +1,16 @@
+{
+  "commit": "e5a7ed89807b2d657e7fc7420f73cce3f5111164",
+  "repo_url": "https://github.com/dromara/orion-visor",
+  "date": "2026-01-23T04:34:32",
+  "languages": {
+    "Java": 3545021,
+    "Vue": 1386411,
+    "TypeScript": 526471,
+    "JavaScript": 504481,
+    "Less": 35765,
+    "Shell": 12078,
+    "Dockerfile": 3576,
+    "HTML": 367
+  },
+  "size": 6014170
+}

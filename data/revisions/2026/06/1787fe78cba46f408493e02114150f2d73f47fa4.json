@@ -1,0 +1,13 @@
+{
+  "commit": "1787fe78cba46f408493e02114150f2d73f47fa4",
+  "repo_url": "https://github.com/argos-ci/argos-javascript",
+  "date": "2026-06-20T14:33:33",
+  "languages": {
+    "TypeScript": 440515,
+    "MDX": 53384,
+    "JavaScript": 23876,
+    "HTML": 10848,
+    "CSS": 3070
+  },
+  "size": 531693
+}

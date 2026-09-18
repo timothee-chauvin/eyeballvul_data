@@ -1,0 +1,16 @@
+{
+  "commit": "5c53ac62bb060632b340e850e80ceaff950655a7",
+  "repo_url": "https://github.com/azuread/microsoft-authentication-library-for-js",
+  "date": "2026-08-03T18:36:57",
+  "languages": {
+    "TypeScript": 6139341,
+    "JavaScript": 167051,
+    "C++": 3861,
+    "PowerShell": 2213,
+    "HTML": 1888,
+    "C": 199,
+    "Shell": 76,
+    "SCSS": 36
+  },
+  "size": 6314665
+}

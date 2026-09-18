@@ -1,0 +1,14 @@
+{
+  "commit": "38620a95f4c304e5310f41d54b1e3d822f69e082",
+  "repo_url": "https://github.com/pelican/panel",
+  "date": "2026-05-06T06:55:54",
+  "languages": {
+    "PHP": 4696314,
+    "Blade": 96419,
+    "Shell": 3905,
+    "Dockerfile": 3721,
+    "CSS": 2012,
+    "JavaScript": 1685
+  },
+  "size": 4804056
+}

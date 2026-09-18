@@ -1,0 +1,11 @@
+{
+  "commit": "80490de86ee94fa584aa64541290272aeba20d7e",
+  "repo_url": "https://github.com/charmbracelet/soft-serve",
+  "date": "2026-03-19T14:21:15",
+  "languages": {
+    "Go": 659311,
+    "Dockerfile": 574,
+    "Shell": 510
+  },
+  "size": 660395
+}

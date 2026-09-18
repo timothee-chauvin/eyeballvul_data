@@ -1,0 +1,13 @@
+{
+  "commit": "31153449fd33b83800eea54bfe9679844a4e0327",
+  "repo_url": "https://github.com/signalwire/libks",
+  "date": "2026-01-27T18:03:44",
+  "languages": {
+    "C": 874296,
+    "CMake": 220492,
+    "C++": 70257,
+    "Shell": 2324,
+    "Batchfile": 1399
+  },
+  "size": 1168768
+}

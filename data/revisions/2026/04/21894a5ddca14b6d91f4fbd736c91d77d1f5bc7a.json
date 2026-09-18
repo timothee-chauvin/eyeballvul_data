@@ -1,0 +1,12 @@
+{
+  "commit": "21894a5ddca14b6d91f4fbd736c91d77d1f5bc7a",
+  "repo_url": "https://github.com/nm-l2tp/networkmanager-l2tp",
+  "date": "2026-04-23T09:19:45",
+  "languages": {
+    "C": 584125,
+    "M4": 25138,
+    "Makefile": 9803,
+    "Shell": 648
+  },
+  "size": 619714
+}

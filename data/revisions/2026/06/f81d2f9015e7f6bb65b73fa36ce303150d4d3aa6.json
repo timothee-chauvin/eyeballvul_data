@@ -1,0 +1,19 @@
+{
+  "commit": "f81d2f9015e7f6bb65b73fa36ce303150d4d3aa6",
+  "repo_url": "https://github.com/dromara/mayfly-go",
+  "date": "2026-06-11T14:54:35",
+  "languages": {
+    "Go": 2210798,
+    "Vue": 1872851,
+    "TypeScript": 767480,
+    "JavaScript": 501905,
+    "PLpgSQL": 113798,
+    "SCSS": 32985,
+    "Shell": 13680,
+    "Dockerfile": 809,
+    "HTML": 618,
+    "CSS": 163,
+    "Makefile": 38
+  },
+  "size": 5515125
+}

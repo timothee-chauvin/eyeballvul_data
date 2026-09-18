@@ -1,0 +1,14 @@
+{
+  "commit": "e7633dba1e446763454a7969ce7e27139debc6cd",
+  "repo_url": "https://github.com/luajit/luajit",
+  "date": "2013-02-19T20:14:27",
+  "languages": {
+    "C": 2061932,
+    "Lua": 334231,
+    "Makefile": 26994,
+    "Batchfile": 6661,
+    "Roff": 2339,
+    "C++": 135
+  },
+  "size": 2432292
+}

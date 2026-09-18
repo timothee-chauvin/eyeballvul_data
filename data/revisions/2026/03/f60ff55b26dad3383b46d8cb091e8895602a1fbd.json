@@ -1,0 +1,11 @@
+{
+  "commit": "f60ff55b26dad3383b46d8cb091e8895602a1fbd",
+  "repo_url": "https://github.com/midnightbsd/mport",
+  "date": "2026-03-19T03:37:29",
+  "languages": {
+    "C": 570045,
+    "Roff": 18243,
+    "Makefile": 6500
+  },
+  "size": 594788
+}

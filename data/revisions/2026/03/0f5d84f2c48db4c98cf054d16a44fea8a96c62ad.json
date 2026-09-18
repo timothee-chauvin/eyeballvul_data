@@ -1,0 +1,23 @@
+{
+  "commit": "0f5d84f2c48db4c98cf054d16a44fea8a96c62ad",
+  "repo_url": "https://github.com/datadog/dd-trace-java",
+  "date": "2026-03-02T23:09:46",
+  "languages": {
+    "Java": 17272817,
+    "Groovy": 9587567,
+    "FreeMarker": 4398596,
+    "Kotlin": 275952,
+    "Scala": 174737,
+    "Shell": 106307,
+    "Gherkin": 9063,
+    "HTML": 6223,
+    "Batchfile": 5809,
+    "PowerShell": 5304,
+    "JavaScript": 3647,
+    "Dockerfile": 3298,
+    "Python": 2331,
+    "Fluent": 2285,
+    "Mustache": 286
+  },
+  "size": 31854222
+}

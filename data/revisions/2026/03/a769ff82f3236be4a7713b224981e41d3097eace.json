@@ -1,0 +1,12 @@
+{
+  "commit": "a769ff82f3236be4a7713b224981e41d3097eace",
+  "repo_url": "https://github.com/arduino-libraries/arduinoble",
+  "date": "2026-03-18T09:00:16",
+  "languages": {
+    "C++": 441115,
+    "C": 9445,
+    "CMake": 5311,
+    "Python": 3028
+  },
+  "size": 458899
+}

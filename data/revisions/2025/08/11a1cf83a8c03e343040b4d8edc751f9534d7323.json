@@ -1,0 +1,20 @@
+{
+  "commit": "11a1cf83a8c03e343040b4d8edc751f9534d7323",
+  "repo_url": "https://github.com/flowable/flowable-engine",
+  "date": "2025-08-21T09:27:59",
+  "languages": {
+    "Java": 45008077,
+    "JavaScript": 2465998,
+    "SQLPL": 103551,
+    "CSS": 102032,
+    "PLSQL": 96328,
+    "HTML": 56042,
+    "Shell": 7874,
+    "Handlebars": 6004,
+    "FreeMarker": 3751,
+    "Groovy": 482,
+    "TSQL": 443,
+    "Dockerfile": 417
+  },
+  "size": 47850999
+}

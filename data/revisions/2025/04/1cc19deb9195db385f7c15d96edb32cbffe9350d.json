@@ -1,0 +1,11 @@
+{
+  "commit": "1cc19deb9195db385f7c15d96edb32cbffe9350d",
+  "repo_url": "https://github.com/langchain-ai/helm",
+  "date": "2025-04-14T15:13:11",
+  "languages": {
+    "Shell": 51784,
+    "Smarty": 32949,
+    "Dockerfile": 874
+  },
+  "size": 85607
+}

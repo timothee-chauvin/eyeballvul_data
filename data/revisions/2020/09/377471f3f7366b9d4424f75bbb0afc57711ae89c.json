@@ -1,0 +1,13 @@
+{
+  "commit": "377471f3f7366b9d4424f75bbb0afc57711ae89c",
+  "repo_url": "https://github.com/azure/azure-cli-extensions",
+  "date": "2020-09-16T02:56:47",
+  "languages": {
+    "Python": 68814491,
+    "Shell": 10475,
+    "ANTLR": 3388,
+    "PowerShell": 1774,
+    "Batchfile": 612
+  },
+  "size": 68830740
+}

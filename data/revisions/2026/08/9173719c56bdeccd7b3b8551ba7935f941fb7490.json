@@ -1,0 +1,11 @@
+{
+  "commit": "9173719c56bdeccd7b3b8551ba7935f941fb7490",
+  "repo_url": "https://github.com/orhun/rustypaste",
+  "date": "2026-08-14T10:13:14",
+  "languages": {
+    "Rust": 162285,
+    "Shell": 22462,
+    "Dockerfile": 545
+  },
+  "size": 185292
+}

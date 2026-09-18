@@ -1,0 +1,14 @@
+{
+  "commit": "9674a12c0be6e1b444dacf0fda1060b7102889f5",
+  "repo_url": "https://github.com/smgdkngt/dobase",
+  "date": "2026-05-29T07:55:29",
+  "languages": {
+    "Ruby": 510668,
+    "HTML": 425075,
+    "JavaScript": 129455,
+    "CSS": 71492,
+    "Dockerfile": 3124,
+    "Shell": 2192
+  },
+  "size": 1142006
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "b683f602d91d4958b204cb0df5e45433c075e8be",
+  "repo_url": "https://github.com/vouch/vouch-proxy",
+  "date": "2026-05-13T09:25:12",
+  "languages": {
+    "Go": 207100,
+    "Shell": 12210,
+    "Dockerfile": 870,
+    "CSS": 693
+  },
+  "size": 220873
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "52aec45b70147147a93da3a90b3a2da069afc07e",
+  "repo_url": "https://github.com/geolens-io/geolens",
+  "date": "2026-06-07T19:54:42",
+  "languages": {
+    "Python": 8887220,
+    "TypeScript": 6080754,
+    "Shell": 56760,
+    "CSS": 21603,
+    "JavaScript": 14063,
+    "Makefile": 12177,
+    "Dockerfile": 7832,
+    "PLpgSQL": 4520,
+    "HTML": 2351,
+    "Mako": 635
+  },
+  "size": 15087915
+}

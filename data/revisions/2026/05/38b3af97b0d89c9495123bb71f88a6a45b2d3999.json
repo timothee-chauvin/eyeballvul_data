@@ -1,0 +1,17 @@
+{
+  "commit": "38b3af97b0d89c9495123bb71f88a6a45b2d3999",
+  "repo_url": "https://github.com/sipsorcery-org/sipsorcery",
+  "date": "2026-05-23T13:32:25",
+  "languages": {
+    "C#": 6528791,
+    "C": 4264337,
+    "Perl": 113755,
+    "C++": 86226,
+    "HTML": 21680,
+    "Makefile": 18833,
+    "Assembly": 13208,
+    "Shell": 8407,
+    "Dockerfile": 2233
+  },
+  "size": 11057470
+}

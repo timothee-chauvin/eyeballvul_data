@@ -1,0 +1,15 @@
+{
+  "commit": "833b78c1fba1297955216e5441ca01141dc691a7",
+  "repo_url": "https://github.com/crawlab-team/crawlab",
+  "date": "2021-08-03T14:52:29",
+  "languages": {
+    "Vue": 376300,
+    "TypeScript": 203196,
+    "Go": 79790,
+    "SCSS": 12839,
+    "Dockerfile": 3139,
+    "Shell": 1782,
+    "Makefile": 1230
+  },
+  "size": 678276
+}

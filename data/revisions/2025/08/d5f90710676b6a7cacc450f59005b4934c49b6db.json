@@ -1,0 +1,24 @@
+{
+  "commit": "d5f90710676b6a7cacc450f59005b4934c49b6db",
+  "repo_url": "https://github.com/oraios/serena",
+  "date": "2025-08-15T11:59:53",
+  "languages": {
+    "Python": 1415710,
+    "Elixir": 25588,
+    "JavaScript": 23138,
+    "Ruby": 9313,
+    "HTML": 9288,
+    "HCL": 5890,
+    "Shell": 5474,
+    "Dockerfile": 2273,
+    "Swift": 1922,
+    "C#": 1645,
+    "Rust": 918,
+    "Java": 850,
+    "Clojure": 712,
+    "TypeScript": 397,
+    "PHP": 395,
+    "Go": 227
+  },
+  "size": 1503740
+}

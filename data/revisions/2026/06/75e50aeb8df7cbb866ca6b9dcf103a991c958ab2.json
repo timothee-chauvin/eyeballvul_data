@@ -1,0 +1,17 @@
+{
+  "commit": "75e50aeb8df7cbb866ca6b9dcf103a991c958ab2",
+  "repo_url": "https://github.com/woltlab/wcf",
+  "date": "2026-06-15T09:45:30",
+  "languages": {
+    "PHP": 9562006,
+    "TypeScript": 1580685,
+    "Smarty": 1459715,
+    "JavaScript": 476865,
+    "SCSS": 295357,
+    "CSS": 22692,
+    "Yacc": 6334,
+    "Batchfile": 47,
+    "Shell": 35
+  },
+  "size": 13403736
+}

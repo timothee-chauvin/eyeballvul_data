@@ -1,0 +1,13 @@
+{
+  "commit": "c662a3d378390a2407afdd751c6aee41413771b0",
+  "repo_url": "https://github.com/zereight/gitlab-mcp",
+  "date": "2026-06-21T00:30:03",
+  "languages": {
+    "TypeScript": 1120941,
+    "JavaScript": 466301,
+    "Shell": 15719,
+    "Makefile": 912,
+    "Dockerfile": 572
+  },
+  "size": 1604445
+}

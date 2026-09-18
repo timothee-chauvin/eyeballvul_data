@@ -1,0 +1,17 @@
+{
+  "commit": "cff0a07d22cf943d6f07ef5ca28e60d9357acad6",
+  "repo_url": "https://github.com/espnet/espnet",
+  "date": "2026-04-22T01:30:13",
+  "languages": {
+    "Python": 12024405,
+    "Shell": 5707908,
+    "Perl": 311419,
+    "MATLAB": 60824,
+    "Makefile": 13522,
+    "Dockerfile": 12789,
+    "Cuda": 4682,
+    "C++": 1579,
+    "Cython": 1457
+  },
+  "size": 18138585
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "0f13fe42214d9ed3ff608054b6cb56e495cb28e0",
+  "repo_url": "https://github.com/diegosouzapw/omniroute",
+  "date": "2026-08-20T11:09:42",
+  "languages": {
+    "TypeScript": 58154760,
+    "JavaScript": 3129265,
+    "Shell": 103091,
+    "Python": 58100,
+    "Dockerfile": 22695,
+    "CSS": 20443,
+    "C": 5587,
+    "PowerShell": 3110,
+    "HTML": 2084,
+    "Makefile": 1873,
+    "Nix": 889
+  },
+  "size": 61501897
+}

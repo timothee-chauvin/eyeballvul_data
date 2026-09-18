@@ -1,0 +1,17 @@
+{
+  "commit": "ae5fb6d681da0ae5ec2659a6ec5786e4149f28c2",
+  "repo_url": "https://github.com/amundsen-io/amundsen",
+  "date": "2023-12-19T17:49:49",
+  "languages": {
+    "Python": 3819124,
+    "TypeScript": 1698077,
+    "SCSS": 121071,
+    "HTML": 6660,
+    "Makefile": 4759,
+    "Scala": 4621,
+    "JavaScript": 4258,
+    "Mustache": 1421,
+    "Shell": 950
+  },
+  "size": 5660941
+}

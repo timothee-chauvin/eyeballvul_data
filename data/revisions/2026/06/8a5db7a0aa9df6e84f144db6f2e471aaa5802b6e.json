@@ -1,0 +1,14 @@
+{
+  "commit": "8a5db7a0aa9df6e84f144db6f2e471aaa5802b6e",
+  "repo_url": "https://github.com/kimdre/doco-cd",
+  "date": "2026-06-01T18:31:00",
+  "languages": {
+    "Go": 1200339,
+    "Makefile": 3531,
+    "Dockerfile": 3320,
+    "HTML": 2474,
+    "CSS": 564,
+    "JavaScript": 171
+  },
+  "size": 1210399
+}

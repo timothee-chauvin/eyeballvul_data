@@ -1,0 +1,11 @@
+{
+  "commit": "ef0080c2aebbf4dfbce93a959dd7c1471103c05a",
+  "repo_url": "https://github.com/labs64/netlicensing-mcp",
+  "date": "2026-04-26T08:42:39",
+  "languages": {
+    "Python": 159430,
+    "Shell": 10194,
+    "Dockerfile": 1491
+  },
+  "size": 171115
+}

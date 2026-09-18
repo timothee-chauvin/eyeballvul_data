@@ -1,0 +1,20 @@
+{
+  "commit": "b354a9550e1fb59fa537a9c384232cb076213e72",
+  "repo_url": "https://github.com/chatwoot/chatwoot",
+  "date": "2026-08-27T09:12:50",
+  "languages": {
+    "Ruby": 8450576,
+    "Vue": 4481673,
+    "JavaScript": 3719362,
+    "HTML": 295029,
+    "Liquid": 70677,
+    "SCSS": 66519,
+    "Shell": 48303,
+    "TypeScript": 26515,
+    "CSS": 7426,
+    "Dockerfile": 5528,
+    "Makefile": 1503,
+    "Procfile": 283
+  },
+  "size": 17173394
+}

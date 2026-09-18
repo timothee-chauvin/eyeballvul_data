@@ -1,0 +1,22 @@
+{
+  "commit": "74ac8e74ec61575f506645ce5eb786ff8fb5503d",
+  "repo_url": "https://github.com/curl/curl",
+  "date": "2026-06-17T05:54:11",
+  "languages": {
+    "C": 8399242,
+    "Perl": 913108,
+    "Python": 637652,
+    "M4": 509524,
+    "CMake": 306248,
+    "DIGITAL Command Language": 235929,
+    "Shell": 147634,
+    "Makefile": 96148,
+    "Batchfile": 12296,
+    "Roff": 5003,
+    "Dockerfile": 1712,
+    "C++": 1578,
+    "Emacs Lisp": 1348,
+    "HTML": 810
+  },
+  "size": 11268232
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "3c97a226911fa31b3cf87f24af7cb5f1f33eaaa9",
+  "repo_url": "https://github.com/devpi/devpi",
+  "date": "2026-05-11T06:30:47",
+  "languages": {
+    "Python": 2103487,
+    "CSS": 10577,
+    "JavaScript": 6159,
+    "Shell": 2087
+  },
+  "size": 2122310
+}

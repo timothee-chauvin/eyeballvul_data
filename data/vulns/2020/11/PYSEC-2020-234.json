@@ -1,0 +1,11 @@
+{
+  "id": "PYSEC-2020-234",
+  "published": "2020-11-24T21:15:00",
+  "modified": "2023-11-08T04:03:15.400330",
+  "details": "Jupyter Server before version 1.0.6 has an Open redirect vulnerability. A maliciously crafted link to a jupyter server could redirect the browser to a different website. All jupyter servers are technically affected, however, these maliciously crafted links can only be reasonably made for known jupyter server hosts. A link to your jupyter server may appear safe, but ultimately redirect to a spoofed server on the public internet.",
+  "repo_url": "https://github.com/jupyter-server/jupyter_server",
+  "cwes": [],
+  "commits": [
+    "e2f71e5af1ecb1d89dd860af7da6ecc5c90ed890"
+  ]
+}

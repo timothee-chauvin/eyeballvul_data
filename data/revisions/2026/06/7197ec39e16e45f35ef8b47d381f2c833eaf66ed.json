@@ -1,0 +1,15 @@
+{
+  "commit": "7197ec39e16e45f35ef8b47d381f2c833eaf66ed",
+  "repo_url": "https://github.com/pig-mesh/pig",
+  "date": "2026-06-05T08:59:56",
+  "languages": {
+    "Java": 1460765,
+    "PLpgSQL": 424628,
+    "HTML": 129689,
+    "JavaScript": 31037,
+    "FreeMarker": 14297,
+    "Dockerfile": 3704,
+    "CSS": 834
+  },
+  "size": 2064954
+}

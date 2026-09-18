@@ -1,0 +1,20 @@
+{
+  "commit": "8ee0104eb19cb482262d634bd2f3106caefd2534",
+  "repo_url": "https://github.com/openmeterio/openmeter",
+  "date": "2026-02-12T12:15:22",
+  "languages": {
+    "Go": 7225946,
+    "TypeScript": 2021927,
+    "PLpgSQL": 43658,
+    "Python": 24271,
+    "JavaScript": 22366,
+    "Smarty": 15470,
+    "Makefile": 11786,
+    "Nix": 7660,
+    "Dockerfile": 4957,
+    "Shell": 3861,
+    "HCL": 1572,
+    "Just": 1070
+  },
+  "size": 9384544
+}

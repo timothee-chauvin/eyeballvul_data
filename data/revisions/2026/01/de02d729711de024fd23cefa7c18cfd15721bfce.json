@@ -1,0 +1,12 @@
+{
+  "commit": "de02d729711de024fd23cefa7c18cfd15721bfce",
+  "repo_url": "https://github.com/lacisynchroni/server",
+  "date": "2026-01-05T21:56:38",
+  "languages": {
+    "C#": 746554,
+    "Dockerfile": 2267,
+    "Shell": 2163,
+    "PowerShell": 2034
+  },
+  "size": 753018
+}

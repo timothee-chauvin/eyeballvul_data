@@ -1,0 +1,15 @@
+{
+  "commit": "65a8b14984e9a7dec9e05ae89acb7be00a9196a8",
+  "repo_url": "https://github.com/yaoapp/yao",
+  "date": "2026-09-10T06:33:51",
+  "languages": {
+    "Go": 13805107,
+    "TypeScript": 113884,
+    "Makefile": 40039,
+    "Shell": 20914,
+    "Dockerfile": 3417,
+    "HTML": 365,
+    "JavaScript": 142
+  },
+  "size": 13983868
+}

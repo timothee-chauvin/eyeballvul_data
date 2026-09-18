@@ -1,0 +1,13 @@
+{
+  "commit": "48fc2d43d1f48b8b3b0be5dcf6a7634c6f45b1c4",
+  "repo_url": "https://github.com/tornadoweb/tornado",
+  "date": "2026-06-08T16:58:49",
+  "languages": {
+    "Python": 1650823,
+    "Shell": 4070,
+    "C": 2162,
+    "Cython": 780,
+    "HTML": 25
+  },
+  "size": 1657860
+}

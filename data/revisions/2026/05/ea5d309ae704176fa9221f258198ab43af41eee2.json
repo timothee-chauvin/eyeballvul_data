@@ -1,0 +1,18 @@
+{
+  "commit": "ea5d309ae704176fa9221f258198ab43af41eee2",
+  "repo_url": "https://github.com/transmute-app/transmute",
+  "date": "2026-05-21T01:58:31",
+  "languages": {
+    "Python": 579399,
+    "TypeScript": 273598,
+    "HTML": 36662,
+    "CSS": 6069,
+    "Dockerfile": 5460,
+    "Makefile": 5274,
+    "JavaScript": 4844,
+    "TeX": 4080,
+    "Shell": 339,
+    "JetBrains MPS": 230
+  },
+  "size": 915955
+}

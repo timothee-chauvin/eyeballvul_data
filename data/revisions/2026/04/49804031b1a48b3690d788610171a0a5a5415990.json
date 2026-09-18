@@ -1,0 +1,24 @@
+{
+  "commit": "49804031b1a48b3690d788610171a0a5a5415990",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-ebpf-profiler",
+  "date": "2026-04-30T13:17:05",
+  "languages": {
+    "Go": 1660548,
+    "C": 322365,
+    "Rust": 288724,
+    "Python": 20259,
+    "Makefile": 10905,
+    "Shell": 8858,
+    "Java": 4887,
+    "JavaScript": 2698,
+    "Dockerfile": 2583,
+    "Elixir": 1162,
+    "Ruby": 1112,
+    "PHP": 1108,
+    "Assembly": 1014,
+    "Erlang": 948,
+    "Perl": 765,
+    "C#": 184
+  },
+  "size": 2328120
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "eaa4128681bc53487138a4bbc22d58336ebe70d2",
+  "repo_url": "https://github.com/getzep/graphiti",
+  "date": "2026-09-08T20:37:55",
+  "languages": {
+    "Python": 2125784,
+    "Dockerfile": 11743,
+    "Shell": 3799,
+    "Makefile": 1016
+  },
+  "size": 2142342
+}

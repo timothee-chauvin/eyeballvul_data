@@ -1,0 +1,11 @@
+{
+  "commit": "f785ffab09059a3dc1243cffe8f5c769548dcc69",
+  "repo_url": "https://github.com/embedded-graphics/embedded-graphics",
+  "date": "2026-02-15T16:30:45",
+  "languages": {
+    "Rust": 1814517,
+    "Just": 5177,
+    "sed": 151
+  },
+  "size": 1819845
+}

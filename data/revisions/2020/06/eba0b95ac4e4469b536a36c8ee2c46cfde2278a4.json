@@ -1,0 +1,14 @@
+{
+  "commit": "eba0b95ac4e4469b536a36c8ee2c46cfde2278a4",
+  "repo_url": "https://github.com/yahoo/cmak",
+  "date": "2020-06-20T19:13:28",
+  "languages": {
+    "Scala": 890154,
+    "HTML": 137370,
+    "Shell": 21407,
+    "CSS": 5799,
+    "JavaScript": 4693,
+    "Less": 1379
+  },
+  "size": 1060802
+}

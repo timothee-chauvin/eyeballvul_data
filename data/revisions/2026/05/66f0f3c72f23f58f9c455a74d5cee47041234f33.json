@@ -1,0 +1,17 @@
+{
+  "commit": "66f0f3c72f23f58f9c455a74d5cee47041234f33",
+  "repo_url": "https://github.com/web-infra-dev/rsbuild",
+  "date": "2026-05-28T08:00:13",
+  "languages": {
+    "TypeScript": 1708605,
+    "JavaScript": 85737,
+    "CSS": 11673,
+    "HTML": 8973,
+    "SCSS": 5116,
+    "Vue": 5047,
+    "Svelte": 3127,
+    "AppleScript": 2691,
+    "Less": 1810
+  },
+  "size": 1832779
+}

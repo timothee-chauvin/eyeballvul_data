@@ -1,0 +1,11 @@
+{
+  "commit": "b518e545826841cf5b209bf7f2af9eb3c23d058a",
+  "repo_url": "https://github.com/hashicorp/go-getter",
+  "date": "2024-07-24T21:18:26",
+  "languages": {
+    "Go": 289119,
+    "Makefile": 272,
+    "Dockerfile": 271
+  },
+  "size": 289662
+}

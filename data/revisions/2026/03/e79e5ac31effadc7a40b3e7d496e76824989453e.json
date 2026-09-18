@@ -1,0 +1,11 @@
+{
+  "commit": "e79e5ac31effadc7a40b3e7d496e76824989453e",
+  "repo_url": "https://github.com/fluent-plugins-nursery/fluent-plugin-opentelemetry",
+  "date": "2026-03-15T06:02:00",
+  "languages": {
+    "Ruby": 93126,
+    "JavaScript": 4455,
+    "Dockerfile": 358
+  },
+  "size": 97939
+}

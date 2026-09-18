@@ -1,0 +1,14 @@
+{
+  "commit": "edfee8fa83b876d73dba70fc99d4ad7154f0c14d",
+  "repo_url": "https://github.com/libretranslate/libretranslate",
+  "date": "2026-03-03T18:24:29",
+  "languages": {
+    "Python": 114415,
+    "HTML": 16829,
+    "Dockerfile": 8839,
+    "CSS": 8785,
+    "Shell": 4132,
+    "Batchfile": 884
+  },
+  "size": 153884
+}

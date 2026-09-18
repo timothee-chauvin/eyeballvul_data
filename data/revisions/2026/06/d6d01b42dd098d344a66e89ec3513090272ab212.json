@@ -1,0 +1,14 @@
+{
+  "commit": "d6d01b42dd098d344a66e89ec3513090272ab212",
+  "repo_url": "https://github.com/jhb-software/payload-plugins",
+  "date": "2026-06-19T13:15:39",
+  "languages": {
+    "TypeScript": 1313751,
+    "Astro": 73768,
+    "JavaScript": 26979,
+    "CSS": 22865,
+    "Shell": 8518,
+    "SCSS": 1049
+  },
+  "size": 1446930
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "3abdb11f577dbdc8c4cf219c1b289d8c858f2877",
+  "repo_url": "https://github.com/andreashappe/cochise",
+  "date": "2026-08-03T08:19:21",
+  "languages": {
+    "Python": 78152,
+    "Jinja": 1732,
+    "Dockerfile": 423
+  },
+  "size": 80307
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "39bba86cedddff3f57d37e4a221d6dc76871f7b3",
+  "repo_url": "https://github.com/cdcseacave/tinyexif",
+  "date": "2025-11-17T17:12:20",
+  "languages": {
+    "C++": 62433,
+    "CMake": 3093,
+    "Python": 617
+  },
+  "size": 66143
+}

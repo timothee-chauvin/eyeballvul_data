@@ -1,0 +1,12 @@
+{
+  "commit": "529a725ac61ca5c4e0a0e35408e36c16fe238e33",
+  "repo_url": "https://github.com/tektoncd/pipelines-as-code",
+  "date": "2026-05-25T10:11:08",
+  "languages": {
+    "Go": 3291656,
+    "Shell": 88240,
+    "Python": 31016,
+    "Makefile": 9140
+  },
+  "size": 3420052
+}

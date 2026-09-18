@@ -1,0 +1,14 @@
+{
+  "commit": "d0ff901fb14ebc67ed91a67232bc0a923957fcd0",
+  "repo_url": "https://github.com/ipa-lab/hackingbuddygpt",
+  "date": "2025-08-27T13:07:15",
+  "languages": {
+    "Python": 706177,
+    "Shell": 24215,
+    "JavaScript": 12881,
+    "CSS": 6758,
+    "HTML": 3576,
+    "Dockerfile": 1894
+  },
+  "size": 755501
+}

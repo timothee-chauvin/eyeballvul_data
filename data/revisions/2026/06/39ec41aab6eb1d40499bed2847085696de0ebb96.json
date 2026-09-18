@@ -1,0 +1,20 @@
+{
+  "commit": "39ec41aab6eb1d40499bed2847085696de0ebb96",
+  "repo_url": "https://github.com/higress-group/higress",
+  "date": "2026-06-25T02:34:30",
+  "languages": {
+    "Go": 8063211,
+    "C++": 1263979,
+    "Rust": 193762,
+    "Shell": 104803,
+    "Python": 87997,
+    "TypeScript": 53579,
+    "Makefile": 47692,
+    "Starlark": 33181,
+    "C": 29664,
+    "Smarty": 16985,
+    "Lua": 7396,
+    "Dockerfile": 4209
+  },
+  "size": 9906458
+}

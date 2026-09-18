@@ -1,0 +1,11 @@
+{
+  "commit": "6d19244679a75c47e567aa14c77ab325321b09ee",
+  "repo_url": "https://github.com/naranor/agent-coderag",
+  "date": "2026-05-20T21:36:00",
+  "languages": {
+    "Python": 184663,
+    "Makefile": 1118,
+    "Dockerfile": 438
+  },
+  "size": 186219
+}

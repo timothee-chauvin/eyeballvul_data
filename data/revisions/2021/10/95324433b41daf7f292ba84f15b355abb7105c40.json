@@ -1,0 +1,11 @@
+{
+  "commit": "95324433b41daf7f292ba84f15b355abb7105c40",
+  "repo_url": "https://github.com/ruby/cgi",
+  "date": "2021-10-14T11:06:52",
+  "languages": {
+    "Ruby": 210798,
+    "C": 9353,
+    "Shell": 74
+  },
+  "size": 220225
+}

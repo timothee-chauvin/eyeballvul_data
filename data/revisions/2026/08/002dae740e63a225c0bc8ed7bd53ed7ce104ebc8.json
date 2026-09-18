@@ -1,0 +1,14 @@
+{
+  "commit": "002dae740e63a225c0bc8ed7bd53ed7ce104ebc8",
+  "repo_url": "https://github.com/jitsi/jitsi-meet-electron-sdk",
+  "date": "2026-08-06T06:44:51",
+  "languages": {
+    "JavaScript": 98303,
+    "C++": 2005,
+    "HTML": 1544,
+    "Python": 641,
+    "Shell": 197,
+    "C": 122
+  },
+  "size": 102812
+}

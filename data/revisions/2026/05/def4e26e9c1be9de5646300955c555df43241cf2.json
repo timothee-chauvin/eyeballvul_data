@@ -1,0 +1,20 @@
+{
+  "commit": "def4e26e9c1be9de5646300955c555df43241cf2",
+  "repo_url": "https://github.com/quickwit-oss/quickwit",
+  "date": "2026-05-20T11:32:53",
+  "languages": {
+    "Rust": 10647240,
+    "HTML": 945764,
+    "TypeScript": 133698,
+    "HCL": 32216,
+    "Python": 22259,
+    "Shell": 20710,
+    "JavaScript": 13353,
+    "PLpgSQL": 9828,
+    "Dockerfile": 8148,
+    "Makefile": 6920,
+    "Handlebars": 1855,
+    "CSS": 689
+  },
+  "size": 11842680
+}

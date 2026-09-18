@@ -1,0 +1,21 @@
+{
+  "commit": "bf90b4b9ef4099a25217ec0aef3d5b9aa0497e38",
+  "repo_url": "https://github.com/sonos/tract",
+  "date": "2026-06-01T09:51:15",
+  "languages": {
+    "Rust": 6803094,
+    "Jinja": 287616,
+    "Cuda": 187814,
+    "Metal": 184769,
+    "Assembly": 153095,
+    "C": 103953,
+    "Python": 103119,
+    "Shell": 91728,
+    "JavaScript": 2238,
+    "Dockerfile": 1937,
+    "Makefile": 498,
+    "BitBake": 347,
+    "HTML": 256
+  },
+  "size": 7920464
+}

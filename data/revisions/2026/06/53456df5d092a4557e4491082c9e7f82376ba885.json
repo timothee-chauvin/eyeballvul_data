@@ -1,0 +1,13 @@
+{
+  "commit": "53456df5d092a4557e4491082c9e7f82376ba885",
+  "repo_url": "https://github.com/esphome/device-builder",
+  "date": "2026-06-20T05:00:13",
+  "languages": {
+    "Python": 7185580,
+    "TypeScript": 25066,
+    "JavaScript": 9982,
+    "Shell": 3339,
+    "HTML": 2843
+  },
+  "size": 7226810
+}

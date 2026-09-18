@@ -1,0 +1,13 @@
+{
+  "commit": "6822c00e41fd0f64c93367335dc2bda694bbb330",
+  "repo_url": "https://github.com/t-mart/mousehole",
+  "date": "2026-05-23T22:28:06",
+  "languages": {
+    "TypeScript": 56246,
+    "HTML": 4821,
+    "CSS": 2316,
+    "JavaScript": 1955,
+    "Dockerfile": 853
+  },
+  "size": 66191
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "ba92d00b01fff170d48e98922bc7c4ea58c26279",
+  "repo_url": "https://github.com/langchain-ai/langchain-mongodb",
+  "date": "2026-08-25T00:13:48",
+  "languages": {
+    "Python": 843009,
+    "Jupyter Notebook": 20156,
+    "Just": 3739,
+    "Shell": 1036
+  },
+  "size": 867940
+}

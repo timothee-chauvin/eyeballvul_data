@@ -1,0 +1,17 @@
+{
+  "commit": "4114b3b506e7bbee155141175a2ba48e426919dd",
+  "repo_url": "https://github.com/flowiseai/flowise",
+  "date": "2026-04-14T10:42:44",
+  "languages": {
+    "TypeScript": 7379300,
+    "JavaScript": 3597912,
+    "HTML": 788604,
+    "Handlebars": 716174,
+    "CSS": 26973,
+    "SCSS": 8773,
+    "Shell": 3431,
+    "Dockerfile": 2716,
+    "Batchfile": 60
+  },
+  "size": 12523943
+}

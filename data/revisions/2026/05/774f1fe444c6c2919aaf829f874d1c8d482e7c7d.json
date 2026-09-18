@@ -1,0 +1,20 @@
+{
+  "commit": "774f1fe444c6c2919aaf829f874d1c8d482e7c7d",
+  "repo_url": "https://github.com/nextflow-io/nextflow",
+  "date": "2026-05-21T20:06:11",
+  "languages": {
+    "Groovy": 8886811,
+    "Java": 998928,
+    "HTML": 278357,
+    "Nextflow": 168674,
+    "Shell": 116125,
+    "ANTLR": 71925,
+    "Perl": 20974,
+    "JavaScript": 15823,
+    "Makefile": 4510,
+    "Dockerfile": 4231,
+    "PowerShell": 889,
+    "Smarty": 542
+  },
+  "size": 10567789
+}

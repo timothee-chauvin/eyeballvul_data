@@ -1,0 +1,12 @@
+{
+  "commit": "c3ef0188c3d58d54d2e8fd8fe47c596f5ee99d01",
+  "repo_url": "https://github.com/simulpiscator/airsane",
+  "date": "2026-05-23T12:53:26",
+  "languages": {
+    "C++": 238419,
+    "Objective-C++": 10457,
+    "CMake": 7147,
+    "Shell": 783
+  },
+  "size": 256806
+}

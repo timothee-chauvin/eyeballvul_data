@@ -1,0 +1,14 @@
+{
+  "commit": "9b94ab9fdad9f29d45682f3c116a633371a388c7",
+  "repo_url": "https://github.com/ncarlier/webhookd",
+  "date": "2026-02-03T21:05:34",
+  "languages": {
+    "Go": 81951,
+    "Shell": 6002,
+    "Makefile": 3410,
+    "Dockerfile": 1806,
+    "HTML": 1114,
+    "JavaScript": 814
+  },
+  "size": 95097
+}

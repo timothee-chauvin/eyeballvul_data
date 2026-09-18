@@ -1,0 +1,12 @@
+{
+  "commit": "e63c1e1d493bb97d4a299e2ab55c8aa6e46681e0",
+  "repo_url": "https://github.com/takumin/mruby",
+  "date": "2014-01-10T12:49:57",
+  "languages": {
+    "C": 799666,
+    "Ruby": 245534,
+    "Yacc": 123794,
+    "Makefile": 279
+  },
+  "size": 1169273
+}

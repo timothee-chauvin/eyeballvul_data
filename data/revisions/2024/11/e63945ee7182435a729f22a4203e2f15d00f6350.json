@@ -1,0 +1,18 @@
+{
+  "commit": "e63945ee7182435a729f22a4203e2f15d00f6350",
+  "repo_url": "https://github.com/sosedoff/pgweb",
+  "date": "2024-11-02T16:19:33",
+  "languages": {
+    "Go": 166968,
+    "JavaScript": 54749,
+    "PLpgSQL": 43177,
+    "HTML": 15336,
+    "CSS": 14884,
+    "Shell": 6797,
+    "Makefile": 2109,
+    "Dockerfile": 1732,
+    "Ruby": 874,
+    "Procfile": 107
+  },
+  "size": 306733
+}

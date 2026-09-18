@@ -1,0 +1,15 @@
+{
+  "commit": "80a9daf1583a08916d7d3316e081249f326e8b6f",
+  "repo_url": "https://github.com/stamparm/maltrail",
+  "date": "2026-08-10T14:03:07",
+  "languages": {
+    "Rust": 828247,
+    "Python": 742203,
+    "JavaScript": 221384,
+    "CSS": 58990,
+    "Shell": 15087,
+    "HTML": 6596,
+    "Dockerfile": 4270
+  },
+  "size": 1876777
+}

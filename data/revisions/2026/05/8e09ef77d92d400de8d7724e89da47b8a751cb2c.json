@@ -1,0 +1,17 @@
+{
+  "commit": "8e09ef77d92d400de8d7724e89da47b8a751cb2c",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-operator",
+  "date": "2026-05-12T19:21:59",
+  "languages": {
+    "Go": 2982604,
+    "Shell": 65578,
+    "Makefile": 44814,
+    "Dockerfile": 18422,
+    "HTML": 1297,
+    "Python": 1231,
+    "C#": 669,
+    "Java": 542,
+    "JavaScript": 410
+  },
+  "size": 3115567
+}

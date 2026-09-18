@@ -1,0 +1,29 @@
+{
+  "commit": "1a77dbb97fc5c5b5b4f17dc9bb6a7817bf74d6c1",
+  "repo_url": "https://github.com/manticoresoftware/manticoresearch",
+  "date": "2026-07-10T05:46:50",
+  "languages": {
+    "C++": 9328035,
+    "HTML": 1100273,
+    "C": 586678,
+    "PHP": 310441,
+    "CMake": 278659,
+    "Shell": 251920,
+    "Yacc": 125634,
+    "Ruby": 69480,
+    "Lex": 41161,
+    "Python": 24360,
+    "Dockerfile": 14128,
+    "Rust": 11817,
+    "Go": 8153,
+    "XSLT": 7767,
+    "JavaScript": 7189,
+    "Smarty": 2470,
+    "Makefile": 2132,
+    "Perl": 1254,
+    "Batchfile": 981,
+    "C#": 965,
+    "Java": 767
+  },
+  "size": 12174264
+}

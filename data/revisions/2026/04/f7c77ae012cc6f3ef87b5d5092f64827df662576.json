@@ -1,0 +1,13 @@
+{
+  "commit": "f7c77ae012cc6f3ef87b5d5092f64827df662576",
+  "repo_url": "https://github.com/equinor/surfio",
+  "date": "2026-04-20T06:06:20",
+  "languages": {
+    "C++": 27165,
+    "Python": 16346,
+    "CMake": 4424,
+    "Just": 1257,
+    "C": 187
+  },
+  "size": 49379
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "f77c395213cb0385373603d2464cf3830be0cd2d",
+  "repo_url": "https://github.com/aws/amazon-vpc-cni-k8s",
+  "date": "2026-06-23T01:59:45",
+  "languages": {
+    "Go": 2007488,
+    "Shell": 74902,
+    "Makefile": 19680,
+    "Mustache": 5646,
+    "Smarty": 1882,
+    "Dockerfile": 1298
+  },
+  "size": 2110896
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "31ce62b4ff3fbd8ccdea9ca6cf408ab86fa278f5",
+  "repo_url": "https://github.com/secobserve/secobserve",
+  "date": "2026-09-11T12:24:25",
+  "languages": {
+    "Python": 3609721,
+    "TypeScript": 1273222,
+    "Smarty": 29457,
+    "Shell": 24794,
+    "Dockerfile": 11693,
+    "CSS": 9476,
+    "HTML": 7523,
+    "JavaScript": 5659
+  },
+  "size": 4971545
+}

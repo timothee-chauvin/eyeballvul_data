@@ -1,0 +1,13 @@
+{
+  "commit": "73ffae9418569cf0d9226dd8c1d969c871d65c09",
+  "repo_url": "https://github.com/outerbase/studio",
+  "date": "2025-03-31T10:56:59",
+  "languages": {
+    "TypeScript": 1444085,
+    "JavaScript": 90695,
+    "CSS": 31650,
+    "MDX": 12767,
+    "Dockerfile": 487
+  },
+  "size": 1579684
+}

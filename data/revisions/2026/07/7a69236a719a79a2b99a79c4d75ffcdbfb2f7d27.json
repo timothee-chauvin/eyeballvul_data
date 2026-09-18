@@ -1,0 +1,22 @@
+{
+  "commit": "7a69236a719a79a2b99a79c4d75ffcdbfb2f7d27",
+  "repo_url": "https://gitlab.com/ongresinc/stackgres",
+  "date": "2026-07-22T08:29:03",
+  "languages": {
+    "Java": 10027813,
+    "Vue": 3852575,
+    "Shell": 3768833,
+    "JavaScript": 646667,
+    "PLpgSQL": 256387,
+    "CSS": 182189,
+    "Makefile": 10029,
+    "jq": 5660,
+    "Ruby": 5303,
+    "Smarty": 4065,
+    "Dockerfile": 3028,
+    "TSQL": 2776,
+    "HTML": 1424,
+    "sed": 372
+  },
+  "size": 18767121
+}

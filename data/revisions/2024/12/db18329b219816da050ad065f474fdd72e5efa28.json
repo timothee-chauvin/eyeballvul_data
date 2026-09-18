@@ -1,0 +1,18 @@
+{
+  "commit": "db18329b219816da050ad065f474fdd72e5efa28",
+  "repo_url": "https://github.com/dromara/jpom",
+  "date": "2024-12-02T01:43:10",
+  "languages": {
+    "Java": 3567613,
+    "Vue": 1774377,
+    "TypeScript": 243102,
+    "Shell": 51791,
+    "Batchfile": 14314,
+    "Dockerfile": 6381,
+    "HTML": 4477,
+    "PLpgSQL": 3497,
+    "JavaScript": 2872,
+    "Less": 2481
+  },
+  "size": 5670905
+}

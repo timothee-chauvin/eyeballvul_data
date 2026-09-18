@@ -1,0 +1,14 @@
+{
+  "commit": "00dc2776ee0a07fc8450c17d087a710a07032ef3",
+  "repo_url": "https://github.com/equinor/resdata",
+  "date": "2026-04-24T10:07:09",
+  "languages": {
+    "C++": 1888243,
+    "Python": 1157644,
+    "TeX": 125022,
+    "CMake": 41323,
+    "C": 1702,
+    "Shell": 60
+  },
+  "size": 3213994
+}

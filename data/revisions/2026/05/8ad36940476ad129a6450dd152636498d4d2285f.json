@@ -1,0 +1,16 @@
+{
+  "commit": "8ad36940476ad129a6450dd152636498d4d2285f",
+  "repo_url": "https://github.com/nangohq/nango",
+  "date": "2026-05-18T13:48:53",
+  "languages": {
+    "TypeScript": 7616028,
+    "JavaScript": 239961,
+    "CSS": 27197,
+    "MDX": 16865,
+    "HTML": 12632,
+    "EJS": 6161,
+    "Dockerfile": 4211,
+    "Shell": 3515
+  },
+  "size": 7926570
+}

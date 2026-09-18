@@ -1,0 +1,15 @@
+{
+  "commit": "1d3ca1a27e69b55fc4c3f929035ecceb864bd395",
+  "repo_url": "https://github.com/openclaw/clawscan",
+  "date": "2026-07-17T17:41:50",
+  "languages": {
+    "Python": 561563,
+    "Go": 542033,
+    "JavaScript": 46479,
+    "Shell": 9148,
+    "Dockerfile": 1483,
+    "PowerShell": 1008,
+    "Makefile": 338
+  },
+  "size": 1162052
+}

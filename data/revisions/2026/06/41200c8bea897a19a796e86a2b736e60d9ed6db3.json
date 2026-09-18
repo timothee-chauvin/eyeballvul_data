@@ -1,0 +1,18 @@
+{
+  "commit": "41200c8bea897a19a796e86a2b736e60d9ed6db3",
+  "repo_url": "https://github.com/riganti/dotvvm",
+  "date": "2026-06-10T19:38:26",
+  "languages": {
+    "C#": 6958804,
+    "TypeScript": 604119,
+    "JavaScript": 581569,
+    "HTML": 96487,
+    "PowerShell": 32733,
+    "CSS": 8132,
+    "Svelte": 7000,
+    "Python": 1856,
+    "Liquid": 416,
+    "Batchfile": 329
+  },
+  "size": 8291445
+}

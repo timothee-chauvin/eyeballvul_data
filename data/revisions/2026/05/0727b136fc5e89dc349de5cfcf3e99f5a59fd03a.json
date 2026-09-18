@@ -1,0 +1,12 @@
+{
+  "commit": "0727b136fc5e89dc349de5cfcf3e99f5a59fd03a",
+  "repo_url": "https://github.com/hyperledger/fabric-ca",
+  "date": "2026-05-19T17:46:49",
+  "languages": {
+    "Go": 1505028,
+    "Shell": 321282,
+    "Makefile": 11033,
+    "Dockerfile": 3621
+  },
+  "size": 1840964
+}

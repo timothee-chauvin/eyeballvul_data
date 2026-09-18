@@ -1,0 +1,12 @@
+{
+  "commit": "eb1c97884d5ce8f93a0174f943a9a35aab2e796f",
+  "repo_url": "https://github.com/deryeger/yeger",
+  "date": "2026-05-13T15:12:31",
+  "languages": {
+    "TypeScript": 558443,
+    "Vue": 75882,
+    "CSS": 11000,
+    "JavaScript": 307
+  },
+  "size": 645632
+}

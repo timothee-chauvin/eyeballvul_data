@@ -1,0 +1,24 @@
+{
+  "commit": "0b3b9efbf81312ae14a198a8c46e340bd4e32d35",
+  "repo_url": "https://github.com/cisagov/malcolm",
+  "date": "2026-05-20T21:40:15",
+  "languages": {
+    "Python": 2210888,
+    "Shell": 512938,
+    "CSS": 394020,
+    "JavaScript": 196129,
+    "Dockerfile": 158591,
+    "Ruby": 105308,
+    "Zeek": 89026,
+    "HTML": 48000,
+    "YARA": 30887,
+    "Cython": 26607,
+    "PowerShell": 25753,
+    "Lua": 16144,
+    "PHP": 6531,
+    "Perl": 4202,
+    "Makefile": 3253,
+    "Vim Script": 35
+  },
+  "size": 3828312
+}

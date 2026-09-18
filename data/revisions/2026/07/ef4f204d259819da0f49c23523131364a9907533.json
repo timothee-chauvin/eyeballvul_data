@@ -1,0 +1,19 @@
+{
+  "commit": "ef4f204d259819da0f49c23523131364a9907533",
+  "repo_url": "https://github.com/rcourtman/pulse",
+  "date": "2026-07-21T09:23:06",
+  "languages": {
+    "Go": 40018026,
+    "TypeScript": 21858814,
+    "Python": 1838341,
+    "Shell": 975706,
+    "JavaScript": 397267,
+    "HTML": 107526,
+    "CSS": 67198,
+    "PowerShell": 56041,
+    "Dockerfile": 19892,
+    "Makefile": 4192,
+    "Smarty": 2563
+  },
+  "size": 65345566
+}

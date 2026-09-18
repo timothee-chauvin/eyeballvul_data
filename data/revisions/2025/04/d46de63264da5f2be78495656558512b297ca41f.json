@@ -1,0 +1,17 @@
+{
+  "commit": "d46de63264da5f2be78495656558512b297ca41f",
+  "repo_url": "https://github.com/hydro-dev/hydro",
+  "date": "2025-04-12T18:10:10",
+  "languages": {
+    "TypeScript": 1771639,
+    "HTML": 363668,
+    "JavaScript": 176296,
+    "Stylus": 143278,
+    "SCSS": 7655,
+    "Shell": 3694,
+    "CSS": 2231,
+    "Nix": 1825,
+    "Dockerfile": 1421
+  },
+  "size": 2471707
+}

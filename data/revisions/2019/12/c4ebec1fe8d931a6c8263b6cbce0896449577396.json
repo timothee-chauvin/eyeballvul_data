@@ -1,0 +1,17 @@
+{
+  "commit": "c4ebec1fe8d931a6c8263b6cbce0896449577396",
+  "repo_url": "https://github.com/steedos/steedos-platform",
+  "date": "2019-12-27T11:10:14",
+  "languages": {
+    "JavaScript": 5945029,
+    "CSS": 4186459,
+    "TypeScript": 708666,
+    "Less": 117810,
+    "HTML": 81675,
+    "EJS": 18558,
+    "PLSQL": 2979,
+    "Dockerfile": 204,
+    "Batchfile": 30
+  },
+  "size": 11061410
+}

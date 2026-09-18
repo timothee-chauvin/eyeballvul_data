@@ -1,0 +1,12 @@
+{
+  "commit": "7e801521428ee12509994d39151006f64055ebe3",
+  "repo_url": "https://github.com/unclecode/crawl4ai",
+  "date": "2026-07-15T08:24:13",
+  "languages": {
+    "Python": 4370893,
+    "JavaScript": 35549,
+    "Shell": 11017,
+    "Dockerfile": 7696
+  },
+  "size": 4425155
+}

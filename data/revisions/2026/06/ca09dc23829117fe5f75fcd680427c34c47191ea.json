@@ -1,0 +1,11 @@
+{
+  "commit": "ca09dc23829117fe5f75fcd680427c34c47191ea",
+  "repo_url": "https://github.com/ihor-sokoliuk/mcp-searxng",
+  "date": "2026-06-05T18:36:12",
+  "languages": {
+    "TypeScript": 176039,
+    "JavaScript": 16818,
+    "Dockerfile": 487
+  },
+  "size": 193344
+}

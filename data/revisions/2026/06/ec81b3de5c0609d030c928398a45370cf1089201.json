@@ -1,0 +1,17 @@
+{
+  "commit": "ec81b3de5c0609d030c928398a45370cf1089201",
+  "repo_url": "https://github.com/dfpc-coe/cloudtak",
+  "date": "2026-06-25T14:03:43",
+  "languages": {
+    "TypeScript": 2438195,
+    "Vue": 2167132,
+    "JavaScript": 134033,
+    "Shell": 14875,
+    "HTML": 7348,
+    "Swift": 6807,
+    "Dockerfile": 2942,
+    "PLpgSQL": 2390,
+    "CSS": 1382
+  },
+  "size": 4775104
+}

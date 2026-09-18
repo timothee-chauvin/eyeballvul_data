@@ -1,6 +1,6 @@
 {
   "commit": "2401600e57048dd56818f7293abed96ffd510ac9",
-  "repo_url": "https://github.com/dbt-labs/dbt-core",
+  "repo_url": "https://github.com/dbt-labs/dbt",
   "date": "2023-11-02T15:43:59",
   "languages": {
     "Python": 4403019,

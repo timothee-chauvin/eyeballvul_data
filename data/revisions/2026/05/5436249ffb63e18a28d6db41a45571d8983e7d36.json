@@ -1,0 +1,20 @@
+{
+  "commit": "5436249ffb63e18a28d6db41a45571d8983e7d36",
+  "repo_url": "https://github.com/cmusphinx/pocketsphinx",
+  "date": "2026-05-06T14:43:46",
+  "languages": {
+    "C": 2895321,
+    "Python": 111975,
+    "Cython": 99926,
+    "Roff": 44789,
+    "C++": 37737,
+    "CMake": 24812,
+    "Shell": 18746,
+    "Perl": 15492,
+    "Yacc": 5049,
+    "ReScript": 1414,
+    "Dockerfile": 648,
+    "Visual Basic 6.0": 446
+  },
+  "size": 3256355
+}

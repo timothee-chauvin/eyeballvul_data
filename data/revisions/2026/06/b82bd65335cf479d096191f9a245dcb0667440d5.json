@@ -1,0 +1,17 @@
+{
+  "commit": "b82bd65335cf479d096191f9a245dcb0667440d5",
+  "repo_url": "https://github.com/redocly/redocly-cli",
+  "date": "2026-06-26T14:45:08",
+  "languages": {
+    "TypeScript": 2277162,
+    "JavaScript": 304453,
+    "HTML": 38465,
+    "Shell": 3807,
+    "PEG.js": 3473,
+    "Handlebars": 1464,
+    "Dockerfile": 752,
+    "PHP": 718,
+    "C#": 384
+  },
+  "size": 2630678
+}

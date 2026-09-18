@@ -1,0 +1,16 @@
+{
+  "commit": "debf4670e800e114c3239f0fe64a80c995426a27",
+  "repo_url": "https://github.com/jointakahe/takahe",
+  "date": "2023-11-13T19:16:40",
+  "languages": {
+    "Python": 901069,
+    "HTML": 132266,
+    "CSS": 34098,
+    "Smarty": 3470,
+    "Dockerfile": 1305,
+    "Makefile": 1143,
+    "Shell": 756,
+    "Procfile": 119
+  },
+  "size": 1074226
+}

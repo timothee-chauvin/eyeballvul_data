@@ -1,0 +1,16 @@
+{
+  "commit": "434e51240504d7dc936d899184309be36819f96c",
+  "repo_url": "https://github.com/shuffle/shuffle",
+  "date": "2026-02-24T14:33:50",
+  "languages": {
+    "JavaScript": 6554526,
+    "Shell": 6344139,
+    "Go": 689769,
+    "Python": 36558,
+    "Smarty": 25110,
+    "Dockerfile": 6420,
+    "CSS": 6011,
+    "HTML": 926
+  },
+  "size": 13663459
+}

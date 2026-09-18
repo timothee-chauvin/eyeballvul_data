@@ -1,0 +1,14 @@
+{
+  "commit": "fe078334826ef3bd9c47a0f784a4e56cb5d1e9ca",
+  "repo_url": "https://github.com/eclipse-embed-cdt/eclipse-plugins",
+  "date": "2026-08-25T15:30:38",
+  "languages": {
+    "C": 135911285,
+    "Java": 3660337,
+    "HTML": 2083741,
+    "C++": 84084,
+    "Shell": 54833,
+    "sed": 360
+  },
+  "size": 141794640
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "d847a90a3f9fea572cc67b59df2915defc041371",
+  "repo_url": "https://github.com/angel-ml/angel",
+  "date": "2019-08-20T13:02:42",
+  "languages": {
+    "Java": 4483875,
+    "Scala": 1079494,
+    "Terra": 293744,
+    "Shell": 9879,
+    "Jupyter Notebook": 4400,
+    "CSS": 1784,
+    "Dockerfile": 563,
+    "Batchfile": 78
+  },
+  "size": 5873817
+}

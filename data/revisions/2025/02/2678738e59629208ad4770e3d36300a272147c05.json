@@ -1,0 +1,17 @@
+{
+  "commit": "2678738e59629208ad4770e3d36300a272147c05",
+  "repo_url": "https://github.com/wandb/wandb",
+  "date": "2025-02-21T01:02:05",
+  "languages": {
+    "Python": 5270822,
+    "Go": 1191624,
+    "Rust": 166478,
+    "C#": 64756,
+    "Shell": 19803,
+    "C++": 9593,
+    "Jupyter Notebook": 9063,
+    "Dockerfile": 3456,
+    "C": 1226
+  },
+  "size": 6736821
+}

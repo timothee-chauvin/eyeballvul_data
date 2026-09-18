@@ -1,0 +1,15 @@
+{
+  "commit": "08dbdb2ae4f02f052828b024235ba2f645621c50",
+  "repo_url": "https://github.com/easycorp/easyadminbundle",
+  "date": "2026-06-03T19:33:41",
+  "languages": {
+    "PHP": 3367927,
+    "Twig": 222819,
+    "CSS": 180775,
+    "JavaScript": 93515,
+    "Makefile": 2464,
+    "Smarty": 2325,
+    "Shell": 2226
+  },
+  "size": 3872051
+}
