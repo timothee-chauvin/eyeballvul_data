@@ -1,0 +1,16 @@
+{
+  "commit": "9a50f1f4eaf1e4fbe45892bc8017a7359237160c",
+  "repo_url": "https://github.com/internlm/lmdeploy",
+  "date": "2026-03-18T03:13:15",
+  "languages": {
+    "Python": 4652522,
+    "C++": 1406026,
+    "Cuda": 895962,
+    "CMake": 50201,
+    "Shell": 14722,
+    "PowerShell": 5060,
+    "Dockerfile": 2492,
+    "C": 952
+  },
+  "size": 7027937
+}

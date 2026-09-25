@@ -1,0 +1,17 @@
+{
+  "commit": "96216e2cb6ec3b3ffdff39442326c8a2809ff889",
+  "repo_url": "https://github.com/aiyiyi121/sxdevops",
+  "date": "2026-07-01T01:50:50",
+  "languages": {
+    "Python": 3711256,
+    "Vue": 1853550,
+    "JavaScript": 87978,
+    "HTML": 48177,
+    "CSS": 45035,
+    "PowerShell": 8047,
+    "Shell": 913,
+    "Dockerfile": 786,
+    "Batchfile": 143
+  },
+  "size": 5755885
+}

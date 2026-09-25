@@ -1,0 +1,19 @@
+{
+  "commit": "ba47aaad27503e88afc98819318e0771a79f8822",
+  "repo_url": "https://github.com/grimmory-tools/grimmory",
+  "date": "2026-09-15T16:52:48",
+  "languages": {
+    "Java": 7089493,
+    "TypeScript": 4284410,
+    "HTML": 1180771,
+    "SCSS": 851502,
+    "JavaScript": 256047,
+    "CSS": 24774,
+    "Just": 8070,
+    "FreeMarker": 7861,
+    "Smarty": 5812,
+    "Shell": 5618,
+    "Dockerfile": 4781
+  },
+  "size": 13719139
+}

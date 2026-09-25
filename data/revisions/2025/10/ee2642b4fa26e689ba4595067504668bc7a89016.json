@@ -1,0 +1,15 @@
+{
+  "commit": "ee2642b4fa26e689ba4595067504668bc7a89016",
+  "repo_url": "https://github.com/piskvorky/gensim",
+  "date": "2025-10-16T11:12:16",
+  "languages": {
+    "Python": 2276725,
+    "Cython": 190007,
+    "Shell": 6341,
+    "C++": 1200,
+    "C": 837,
+    "Jupyter Notebook": 626,
+    "GDB": 189
+  },
+  "size": 2475925
+}

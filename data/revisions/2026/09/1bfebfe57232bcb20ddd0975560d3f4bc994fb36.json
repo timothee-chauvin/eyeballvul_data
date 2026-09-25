@@ -1,0 +1,19 @@
+{
+  "commit": "1bfebfe57232bcb20ddd0975560d3f4bc994fb36",
+  "repo_url": "https://github.com/rmyndharis/openwa",
+  "date": "2026-09-05T06:06:10",
+  "languages": {
+    "TypeScript": 8656114,
+    "Java": 329027,
+    "JavaScript": 316532,
+    "Go": 244606,
+    "CSS": 203510,
+    "Python": 167957,
+    "PHP": 147853,
+    "Shell": 49878,
+    "Dockerfile": 17806,
+    "Smarty": 1307,
+    "HTML": 532
+  },
+  "size": 10135122
+}

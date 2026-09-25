@@ -1,0 +1,15 @@
+{
+  "commit": "c0d0b0fc9f73565a5d937933695699ddf6791b1b",
+  "repo_url": "https://github.com/anycable/anycable",
+  "date": "2026-05-26T11:55:58",
+  "languages": {
+    "Go": 1081536,
+    "Ruby": 24802,
+    "JavaScript": 18915,
+    "Makefile": 12065,
+    "C": 7611,
+    "Shell": 2148,
+    "Dockerfile": 1713
+  },
+  "size": 1148790
+}

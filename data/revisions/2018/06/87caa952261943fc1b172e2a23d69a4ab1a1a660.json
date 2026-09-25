@@ -1,0 +1,19 @@
+{
+  "commit": "87caa952261943fc1b172e2a23d69a4ab1a1a660",
+  "repo_url": "https://github.com/jabref/jabref",
+  "date": "2018-06-01T10:21:59",
+  "languages": {
+    "Java": 6609646,
+    "TeX": 307212,
+    "Python": 28937,
+    "CSS": 11238,
+    "Shell": 5283,
+    "XSLT": 2185,
+    "ANTLR": 1751,
+    "PowerShell": 1688,
+    "GAP": 1466,
+    "Ruby": 1115,
+    "Batchfile": 138
+  },
+  "size": 6970659
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "e5ac13cfdcbed2f7409e06ff64c6fd81e6739d7b",
+  "repo_url": "https://github.com/gopeedlab/gopeed",
+  "date": "2026-09-11T00:36:01",
+  "languages": {
+    "Dart": 2037797,
+    "Go": 1251293,
+    "JavaScript": 71033,
+    "C++": 53760,
+    "CMake": 36495,
+    "Swift": 17368,
+    "Python": 16509,
+    "Kotlin": 6694,
+    "Ruby": 6143,
+    "C": 3529,
+    "Objective-C": 2845,
+    "HTML": 1680,
+    "Dockerfile": 703,
+    "Shell": 100
+  },
+  "size": 3505949
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "c9109bd190180e297a1fe1d1906976e1fdcd3caf",
+  "repo_url": "https://github.com/nasa/cryptolib",
+  "date": "2026-01-14T19:53:27",
+  "languages": {
+    "C": 2177850,
+    "C++": 58820,
+    "CMake": 27402,
+    "Python": 19544,
+    "Shell": 17100,
+    "Dockerfile": 2623,
+    "Makefile": 898
+  },
+  "size": 2304237
+}

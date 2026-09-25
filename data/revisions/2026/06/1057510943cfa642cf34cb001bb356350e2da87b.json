@@ -1,0 +1,15 @@
+{
+  "commit": "1057510943cfa642cf34cb001bb356350e2da87b",
+  "repo_url": "https://github.com/f1bonacc1/process-compose",
+  "date": "2026-06-16T19:55:43",
+  "languages": {
+    "Go": 1006495,
+    "Rust": 20370,
+    "Shell": 17549,
+    "Nix": 5043,
+    "Makefile": 3791,
+    "Python": 750,
+    "HTML": 399
+  },
+  "size": 1054397
+}

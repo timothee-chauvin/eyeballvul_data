@@ -1,0 +1,15 @@
+{
+  "commit": "90b0ff301b33c90ad937a994113e494b2fa4d4f6",
+  "repo_url": "https://github.com/tencent/browserskill",
+  "date": "2026-09-09T03:35:05",
+  "languages": {
+    "TypeScript": 2437707,
+    "Rust": 1355634,
+    "JavaScript": 111394,
+    "PowerShell": 15885,
+    "CSS": 15550,
+    "Shell": 6059,
+    "HTML": 3593
+  },
+  "size": 3945822
+}

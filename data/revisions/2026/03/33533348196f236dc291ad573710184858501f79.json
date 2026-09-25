@@ -1,0 +1,18 @@
+{
+  "commit": "33533348196f236dc291ad573710184858501f79",
+  "repo_url": "https://github.com/nvidia/tensorrt-llm",
+  "date": "2026-03-22T14:38:36",
+  "languages": {
+    "Python": 31504191,
+    "C++": 23360963,
+    "Cuda": 5273764,
+    "Groovy": 319735,
+    "CMake": 266229,
+    "Shell": 234302,
+    "Makefile": 32870,
+    "C": 29460,
+    "Smarty": 21906,
+    "JavaScript": 10775
+  },
+  "size": 61054195
+}

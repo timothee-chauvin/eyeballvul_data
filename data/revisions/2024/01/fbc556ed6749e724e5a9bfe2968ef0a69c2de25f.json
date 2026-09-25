@@ -1,0 +1,19 @@
+{
+  "commit": "fbc556ed6749e724e5a9bfe2968ef0a69c2de25f",
+  "repo_url": "https://github.com/owntone/owntone-server",
+  "date": "2024-01-18T17:22:47",
+  "languages": {
+    "C": 2949710,
+    "Vue": 346715,
+    "Yacc": 46560,
+    "JavaScript": 46128,
+    "M4": 30406,
+    "Lex": 13361,
+    "Makefile": 9636,
+    "Shell": 8062,
+    "SCSS": 5235,
+    "HTML": 1875,
+    "Roff": 1837
+  },
+  "size": 3459525
+}

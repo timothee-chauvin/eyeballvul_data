@@ -1,0 +1,13 @@
+{
+  "commit": "ca54d80e78707b3b5c020c6ca79f175fef2b1599",
+  "repo_url": "https://github.com/temporalio/s2s-proxy",
+  "date": "2026-08-04T00:29:01",
+  "languages": {
+    "Go": 933440,
+    "Shell": 8484,
+    "Makefile": 7562,
+    "Smarty": 3176,
+    "Dockerfile": 865
+  },
+  "size": 953527
+}

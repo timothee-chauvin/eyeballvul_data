@@ -1,0 +1,15 @@
+{
+  "commit": "a3bcf2e3baa2d2c80690a9855c3cba224bd407a1",
+  "repo_url": "https://github.com/wpengine/faustjs",
+  "date": "2025-11-20T08:34:56",
+  "languages": {
+    "TypeScript": 381834,
+    "PHP": 226517,
+    "SCSS": 88281,
+    "JavaScript": 19901,
+    "Shell": 8180,
+    "CSS": 5010,
+    "Dockerfile": 1427
+  },
+  "size": 731150
+}

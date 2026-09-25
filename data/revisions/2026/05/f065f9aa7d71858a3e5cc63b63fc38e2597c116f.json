@@ -1,0 +1,13 @@
+{
+  "commit": "f065f9aa7d71858a3e5cc63b63fc38e2597c116f",
+  "repo_url": "https://github.com/prebid/prebid-server-java",
+  "date": "2026-05-05T14:35:21",
+  "languages": {
+    "Java": 16012543,
+    "Groovy": 3912978,
+    "HTML": 824,
+    "Dockerfile": 499,
+    "Shell": 234
+  },
+  "size": 19927078
+}

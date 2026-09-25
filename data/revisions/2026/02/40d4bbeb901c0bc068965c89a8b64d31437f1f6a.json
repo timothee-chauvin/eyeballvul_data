@@ -1,0 +1,14 @@
+{
+  "commit": "40d4bbeb901c0bc068965c89a8b64d31437f1f6a",
+  "repo_url": "https://github.com/opencve/opencve",
+  "date": "2026-02-18T10:19:32",
+  "languages": {
+    "Python": 983557,
+    "HTML": 297182,
+    "JavaScript": 88689,
+    "CSS": 28729,
+    "Shell": 17154,
+    "Dockerfile": 1555
+  },
+  "size": 1416866
+}

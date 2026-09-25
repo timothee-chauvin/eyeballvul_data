@@ -1,0 +1,18 @@
+{
+  "commit": "6016e86cf9889c7446c08976d5fcdd13b0c1960d",
+  "repo_url": "https://github.com/acode-foundation/acode",
+  "date": "2026-08-02T07:40:06",
+  "languages": {
+    "JavaScript": 2020165,
+    "Java": 628089,
+    "TypeScript": 521751,
+    "SCSS": 232998,
+    "Kotlin": 43660,
+    "CSS": 42501,
+    "Shell": 16823,
+    "Handlebars": 12269,
+    "HTML": 5400,
+    "Dockerfile": 2697
+  },
+  "size": 3526353
+}

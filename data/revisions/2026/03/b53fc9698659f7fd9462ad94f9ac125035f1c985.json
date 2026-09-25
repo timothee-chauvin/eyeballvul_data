@@ -1,0 +1,16 @@
+{
+  "commit": "b53fc9698659f7fd9462ad94f9ac125035f1c985",
+  "repo_url": "https://github.com/lucasdillmann/nginx-ignition",
+  "date": "2026-03-22T19:06:09",
+  "languages": {
+    "Go": 1444723,
+    "TypeScript": 650750,
+    "CSS": 24262,
+    "Makefile": 6858,
+    "HTML": 1516,
+    "JavaScript": 1458,
+    "Dockerfile": 1241,
+    "PLpgSQL": 1059
+  },
+  "size": 2131867
+}

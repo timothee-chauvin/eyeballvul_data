@@ -1,0 +1,15 @@
+{
+  "commit": "398f78dcaa8fd2396684add19933916f7b87d349",
+  "repo_url": "https://github.com/google-gemini/gemini-cli",
+  "date": "2026-04-23T04:10:28",
+  "languages": {
+    "TypeScript": 18148602,
+    "JavaScript": 339469,
+    "Shell": 27988,
+    "C#": 24798,
+    "HTML": 5474,
+    "Dockerfile": 1580,
+    "Makefile": 1336
+  },
+  "size": 18549247
+}

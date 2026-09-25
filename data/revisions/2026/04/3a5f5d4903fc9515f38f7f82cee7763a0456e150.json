@@ -1,0 +1,18 @@
+{
+  "commit": "3a5f5d4903fc9515f38f7f82cee7763a0456e150",
+  "repo_url": "https://github.com/zoriya/kyoo",
+  "date": "2026-04-06T20:04:30",
+  "languages": {
+    "TypeScript": 820246,
+    "Go": 314594,
+    "Python": 130017,
+    "Shell": 12070,
+    "Smarty": 6626,
+    "PLpgSQL": 4567,
+    "Dockerfile": 3800,
+    "Nix": 2420,
+    "CSS": 1312,
+    "JavaScript": 800
+  },
+  "size": 1296452
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "61aa85004ec2aed82597bef3d70056f252db6cf9",
+  "repo_url": "https://github.com/moquette-io/moquette",
+  "date": "2024-12-27T11:04:22",
+  "languages": {
+    "Java": 1217934,
+    "Groovy": 98266,
+    "HTML": 37346,
+    "Shell": 4112,
+    "Batchfile": 3910,
+    "Ruby": 212
+  },
+  "size": 1361780
+}

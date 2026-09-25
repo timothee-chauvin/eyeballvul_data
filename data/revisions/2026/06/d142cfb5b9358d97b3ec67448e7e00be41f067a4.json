@@ -1,0 +1,16 @@
+{
+  "commit": "d142cfb5b9358d97b3ec67448e7e00be41f067a4",
+  "repo_url": "https://github.com/udecode/plate",
+  "date": "2026-06-16T20:06:22",
+  "languages": {
+    "TypeScript": 8375586,
+    "MDX": 2218585,
+    "JavaScript": 582057,
+    "HTML": 465071,
+    "Python": 328279,
+    "Shell": 97207,
+    "CSS": 35847,
+    "PowerShell": 3102
+  },
+  "size": 12105734
+}

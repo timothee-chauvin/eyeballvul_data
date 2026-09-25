@@ -1,0 +1,14 @@
+{
+  "commit": "79d3fcd3e04338b06e82d01a62f4aa98c7bad5f7",
+  "repo_url": "https://github.com/ludocode/mpack",
+  "date": "2023-01-09T03:42:47",
+  "languages": {
+    "C": 812580,
+    "C++": 64823,
+    "Python": 22129,
+    "Shell": 6520,
+    "Batchfile": 2788,
+    "Makefile": 2442
+  },
+  "size": 911282
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "615670d924d6dddce3d407d1a6440a32cf5350c7",
+  "repo_url": "https://github.com/openslide/openslide",
+  "date": "2023-10-11T17:14:23",
+  "languages": {
+    "C": 745097,
+    "Python": 83001,
+    "Meson": 13384,
+    "Roff": 11734,
+    "MATLAB": 4679,
+    "Shell": 794
+  },
+  "size": 858689
+}

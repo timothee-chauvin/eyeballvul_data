@@ -1,0 +1,15 @@
+{
+  "commit": "c3dd10681b3d2b5e224f7ac647b3769557603975",
+  "repo_url": "https://github.com/fecommunity/reactpress",
+  "date": "2026-06-14T16:02:21",
+  "languages": {
+    "TypeScript": 1068704,
+    "JavaScript": 316941,
+    "SCSS": 77991,
+    "HTML": 41384,
+    "Shell": 19263,
+    "Dockerfile": 2034,
+    "CSS": 396
+  },
+  "size": 1526713
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "9dc535daa30d7d36d63d4a003b54342fbc7032db",
+  "repo_url": "https://github.com/dask/dask",
+  "date": "2026-08-24T18:45:44",
+  "languages": {
+    "Python": 5860224,
+    "Jinja": 6086
+  },
+  "size": 5866310
+}

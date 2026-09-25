@@ -1,0 +1,15 @@
+{
+  "commit": "b7ee9b8d8ef5eb500183e82695fdbf709a364c34",
+  "repo_url": "https://github.com/interchange/interchange",
+  "date": "2014-07-07T21:06:31",
+  "languages": {
+    "Perl": 2637994,
+    "Roff": 302560,
+    "HTML": 35798,
+    "CSS": 9353,
+    "Shell": 2966,
+    "Emacs Lisp": 1574,
+    "PLpgSQL": 738
+  },
+  "size": 2990983
+}

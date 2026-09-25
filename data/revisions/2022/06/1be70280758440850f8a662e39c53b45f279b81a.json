@@ -1,0 +1,16 @@
+{
+  "commit": "1be70280758440850f8a662e39c53b45f279b81a",
+  "repo_url": "https://github.com/apache/helix",
+  "date": "2022-06-09T20:33:04",
+  "languages": {
+    "Java": 10524489,
+    "Python": 184995,
+    "TypeScript": 165900,
+    "Shell": 135657,
+    "HTML": 73956,
+    "SCSS": 9619,
+    "BitBake": 4462,
+    "JavaScript": 2014
+  },
+  "size": 11101092
+}

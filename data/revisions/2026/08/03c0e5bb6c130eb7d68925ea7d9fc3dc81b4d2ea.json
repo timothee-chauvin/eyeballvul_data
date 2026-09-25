@@ -1,0 +1,32 @@
+{
+  "commit": "03c0e5bb6c130eb7d68925ea7d9fc3dc81b4d2ea",
+  "repo_url": "https://github.com/flyfish-dev/file-viewer",
+  "date": "2026-08-20T10:15:42",
+  "languages": {
+    "TypeScript": 3343509,
+    "JavaScript": 949522,
+    "Vue": 352721,
+    "CSS": 333446,
+    "HTML": 86857,
+    "Svelte": 8352,
+    "Typst": 2867,
+    "C++": 2685,
+    "C": 1857,
+    "Java": 1618,
+    "C#": 1441,
+    "Shell": 1393,
+    "Python": 1392,
+    "PHP": 1180,
+    "Go": 1133,
+    "Rust": 904,
+    "Mermaid": 639,
+    "Rich Text Format": 567,
+    "Jupyter Notebook": 545,
+    "Ruby": 235,
+    "Kotlin": 221,
+    "Swift": 204,
+    "TeX": 193,
+    "HCL": 171
+  },
+  "size": 5093652
+}

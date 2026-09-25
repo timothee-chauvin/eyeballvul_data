@@ -1,0 +1,12 @@
+{
+  "commit": "8908708f10c8ff29759c67f55c8acb56cab27463",
+  "repo_url": "https://github.com/dlr-rm/stable-baselines3",
+  "date": "2026-06-15T16:57:29",
+  "languages": {
+    "Python": 963439,
+    "Shell": 1700,
+    "Makefile": 1468,
+    "Dockerfile": 1043
+  },
+  "size": 967650
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "1a8f8691856aaa5a1d6720573cf84a4f18d5d04b",
+  "repo_url": "https://github.com/aws/pgcollection",
+  "date": "2026-05-06T20:59:05",
+  "languages": {
+    "C": 196816,
+    "PLpgSQL": 70108,
+    "Makefile": 1646
+  },
+  "size": 268570
+}

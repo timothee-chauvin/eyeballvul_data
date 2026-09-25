@@ -1,0 +1,17 @@
+{
+  "commit": "c0fd939282bfe5a810d2c107957b9d2947315b5d",
+  "repo_url": "https://github.com/supabase/realtime",
+  "date": "2026-06-22T22:14:33",
+  "languages": {
+    "Elixir": 2255574,
+    "TypeScript": 101828,
+    "HTML": 32036,
+    "JavaScript": 11003,
+    "CSS": 10368,
+    "Shell": 6243,
+    "Dockerfile": 4419,
+    "Nix": 2467,
+    "Batchfile": 100
+  },
+  "size": 2424038
+}

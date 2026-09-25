@@ -1,0 +1,11 @@
+{
+  "commit": "50e40b1984d9bdc4e1f265c14e1e502dbe08d86e",
+  "repo_url": "https://github.com/tw93/pake",
+  "date": "2026-09-12T05:43:32",
+  "languages": {
+    "Rust": 116844,
+    "Dockerfile": 2844,
+    "TypeScript": 381
+  },
+  "size": 120069
+}

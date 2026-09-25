@@ -1,0 +1,17 @@
+{
+  "commit": "50f74d6bec799687066a25355894077577683231",
+  "repo_url": "https://github.com/roomi-fields/notebooklm-mcp",
+  "date": "2026-06-20T04:37:18",
+  "languages": {
+    "TypeScript": 1262371,
+    "PowerShell": 416878,
+    "JavaScript": 92553,
+    "Shell": 14308,
+    "Dockerfile": 1821,
+    "CSS": 1042,
+    "VBScript": 453,
+    "Batchfile": 200,
+    "HTML": 53
+  },
+  "size": 1789679
+}

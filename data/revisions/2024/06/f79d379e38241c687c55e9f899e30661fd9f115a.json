@@ -1,0 +1,16 @@
+{
+  "commit": "f79d379e38241c687c55e9f899e30661fd9f115a",
+  "repo_url": "https://github.com/photoview/photoview",
+  "date": "2024-06-23T12:28:02",
+  "languages": {
+    "TypeScript": 382053,
+    "Go": 302470,
+    "Makefile": 8010,
+    "JavaScript": 3968,
+    "Dockerfile": 3452,
+    "Shell": 3399,
+    "HTML": 774,
+    "CSS": 525
+  },
+  "size": 704651
+}

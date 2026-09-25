@@ -1,0 +1,13 @@
+{
+  "commit": "5c862afa751f53559b5ad98b92e098760f530ad8",
+  "repo_url": "https://github.com/recommenders-team/recommenders",
+  "date": "2024-12-23T13:35:54",
+  "languages": {
+    "Python": 1414999,
+    "Scala": 12207,
+    "C++": 6783,
+    "Jupyter Notebook": 5769,
+    "Dockerfile": 4827
+  },
+  "size": 1444585
+}

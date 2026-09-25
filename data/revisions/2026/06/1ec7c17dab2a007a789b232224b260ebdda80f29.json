@@ -1,0 +1,12 @@
+{
+  "commit": "1ec7c17dab2a007a789b232224b260ebdda80f29",
+  "repo_url": "https://github.com/mnemosyne-oss/mnemosyne",
+  "date": "2026-06-17T23:54:08",
+  "languages": {
+    "Python": 3350421,
+    "TypeScript": 24089,
+    "Shell": 6746,
+    "Dockerfile": 1451
+  },
+  "size": 3382707
+}

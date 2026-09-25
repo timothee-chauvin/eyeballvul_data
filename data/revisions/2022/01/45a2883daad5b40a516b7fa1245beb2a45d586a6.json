@@ -1,0 +1,20 @@
+{
+  "commit": "45a2883daad5b40a516b7fa1245beb2a45d586a6",
+  "repo_url": "https://github.com/nouiy/yara",
+  "date": "2022-01-10T16:30:09",
+  "languages": {
+    "C": 2301396,
+    "Yacc": 101156,
+    "C++": 46003,
+    "Lex": 42197,
+    "Starlark": 29327,
+    "M4": 26049,
+    "Makefile": 8832,
+    "Roff": 5537,
+    "JavaScript": 2903,
+    "Shell": 1808,
+    "YARA": 1545,
+    "HTML": 1462
+  },
+  "size": 2568215
+}

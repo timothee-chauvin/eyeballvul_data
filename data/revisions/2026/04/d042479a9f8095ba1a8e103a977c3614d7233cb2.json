@@ -1,0 +1,24 @@
+{
+  "commit": "d042479a9f8095ba1a8e103a977c3614d7233cb2",
+  "repo_url": "https://github.com/hamlib/hamlib",
+  "date": "2026-04-15T20:20:01",
+  "languages": {
+    "C": 11131752,
+    "M4": 144426,
+    "C++": 133240,
+    "Pascal": 83530,
+    "Python": 77242,
+    "Makefile": 60925,
+    "Shell": 48724,
+    "Perl": 48647,
+    "Lua": 5333,
+    "C#": 2844,
+    "Awk": 2539,
+    "Tcl": 1883,
+    "PHP": 1167,
+    "Dockerfile": 571,
+    "HTML": 144,
+    "Batchfile": 74
+  },
+  "size": 11743041
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "0a677eb4308127de0b1cf8f3ca12f0178c4cc8ae",
+  "repo_url": "https://github.com/e621ng/e621ng",
+  "date": "2026-09-01T23:23:10",
+  "languages": {
+    "Ruby": 5115513,
+    "HTML": 674721,
+    "TypeScript": 356800,
+    "SCSS": 298357,
+    "JavaScript": 209822,
+    "PLpgSQL": 171190,
+    "Vue": 80224,
+    "Dockerfile": 5837,
+    "Shell": 2404,
+    "Procfile": 328,
+    "CSS": 35
+  },
+  "size": 6915231
+}

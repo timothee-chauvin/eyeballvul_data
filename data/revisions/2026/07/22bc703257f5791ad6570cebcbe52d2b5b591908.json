@@ -1,0 +1,17 @@
+{
+  "commit": "22bc703257f5791ad6570cebcbe52d2b5b591908",
+  "repo_url": "https://github.com/nautobot/nautobot",
+  "date": "2026-07-06T19:20:01",
+  "languages": {
+    "Python": 11280948,
+    "HTML": 954930,
+    "JavaScript": 175935,
+    "SCSS": 87399,
+    "Jinja": 30473,
+    "Gherkin": 14390,
+    "Dockerfile": 11902,
+    "Shell": 11159,
+    "CSS": 9750
+  },
+  "size": 12576886
+}

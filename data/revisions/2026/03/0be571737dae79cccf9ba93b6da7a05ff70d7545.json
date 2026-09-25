@@ -1,0 +1,11 @@
+{
+  "commit": "0be571737dae79cccf9ba93b6da7a05ff70d7545",
+  "repo_url": "https://github.com/tink-crypto/tink-java",
+  "date": "2026-03-23T19:29:57",
+  "languages": {
+    "Java": 9310116,
+    "Starlark": 1320973,
+    "Shell": 83573
+  },
+  "size": 10714662
+}

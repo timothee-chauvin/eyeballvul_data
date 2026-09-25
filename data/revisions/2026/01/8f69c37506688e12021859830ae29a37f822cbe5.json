@@ -1,0 +1,15 @@
+{
+  "commit": "8f69c37506688e12021859830ae29a37f822cbe5",
+  "repo_url": "https://github.com/ph7software/ph7-social-dating-cms",
+  "date": "2026-01-01T08:11:07",
+  "languages": {
+    "PHP": 2966434,
+    "Smarty": 449200,
+    "JavaScript": 131131,
+    "CSS": 96065,
+    "Shell": 16948,
+    "HTML": 3113,
+    "Dockerfile": 2039
+  },
+  "size": 3664930
+}

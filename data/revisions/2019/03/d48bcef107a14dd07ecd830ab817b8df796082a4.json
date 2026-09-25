@@ -1,0 +1,15 @@
+{
+  "commit": "d48bcef107a14dd07ecd830ab817b8df796082a4",
+  "repo_url": "https://github.com/apache/jspwiki",
+  "date": "2019-03-04T21:39:04",
+  "languages": {
+    "Java": 4412320,
+    "JavaScript": 713888,
+    "Less": 375034,
+    "HTML": 246804,
+    "CSS": 166823,
+    "Shell": 1914,
+    "Batchfile": 1182
+  },
+  "size": 5917965
+}

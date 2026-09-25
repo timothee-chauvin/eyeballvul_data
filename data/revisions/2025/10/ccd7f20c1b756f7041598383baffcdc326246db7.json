@@ -1,0 +1,11 @@
+{
+  "commit": "ccd7f20c1b756f7041598383baffcdc326246db7",
+  "repo_url": "https://github.com/nanomsg/nanomsg",
+  "date": "2025-10-05T16:42:08",
+  "languages": {
+    "C": 1240902,
+    "C++": 148137,
+    "CMake": 31083
+  },
+  "size": 1420122
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "eed9899cf1ce12efa05079c4a245e9126d3a8dc8",
+  "repo_url": "https://github.com/orval-labs/orval",
+  "date": "2026-09-03T23:01:41",
+  "languages": {
+    "TypeScript": 13634779,
+    "JavaScript": 15834,
+    "Dockerfile": 1988,
+    "SCSS": 24
+  },
+  "size": 13652625
+}

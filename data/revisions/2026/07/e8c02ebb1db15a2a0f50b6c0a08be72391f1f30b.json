@@ -1,0 +1,14 @@
+{
+  "commit": "e8c02ebb1db15a2a0f50b6c0a08be72391f1f30b",
+  "repo_url": "https://github.com/semanticmediawiki/semanticmediawiki",
+  "date": "2026-07-09T14:04:42",
+  "languages": {
+    "PHP": 9213999,
+    "JavaScript": 903665,
+    "CSS": 188965,
+    "Less": 64529,
+    "Mustache": 25925,
+    "Makefile": 596
+  },
+  "size": 10397679
+}

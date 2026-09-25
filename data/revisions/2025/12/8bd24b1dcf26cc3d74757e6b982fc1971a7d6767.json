@@ -1,0 +1,27 @@
+{
+  "commit": "8bd24b1dcf26cc3d74757e6b982fc1971a7d6767",
+  "repo_url": "https://github.com/openequella/openequella",
+  "date": "2025-12-17T05:15:35",
+  "languages": {
+    "Java": 25768211,
+    "TypeScript": 3109288,
+    "JavaScript": 1699066,
+    "Scala": 1608185,
+    "CSS": 1268009,
+    "HTML": 705936,
+    "XSLT": 382369,
+    "FreeMarker": 368068,
+    "SCSS": 112854,
+    "Python": 79871,
+    "Shell": 52861,
+    "Batchfile": 19924,
+    "StringTemplate": 4426,
+    "Dockerfile": 3984,
+    "Roff": 3266,
+    "TSQL": 1363,
+    "PHP": 821,
+    "Smalltalk": 681,
+    "Awk": 402
+  },
+  "size": 35189585
+}

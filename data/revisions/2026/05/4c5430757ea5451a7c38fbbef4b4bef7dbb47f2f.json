@@ -1,0 +1,14 @@
+{
+  "commit": "4c5430757ea5451a7c38fbbef4b4bef7dbb47f2f",
+  "repo_url": "https://github.com/drogonframework/drogon",
+  "date": "2026-05-06T10:55:46",
+  "languages": {
+    "C++": 2845658,
+    "CMake": 85394,
+    "HTML": 21220,
+    "Shell": 11689,
+    "Dockerfile": 2627,
+    "C": 1822
+  },
+  "size": 2968410
+}

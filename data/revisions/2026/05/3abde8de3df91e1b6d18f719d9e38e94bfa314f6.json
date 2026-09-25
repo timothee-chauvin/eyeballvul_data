@@ -1,0 +1,12 @@
+{
+  "commit": "3abde8de3df91e1b6d18f719d9e38e94bfa314f6",
+  "repo_url": "https://github.com/deepstreamio/deepstream.io",
+  "date": "2026-05-26T15:01:21",
+  "languages": {
+    "TypeScript": 920145,
+    "Shell": 21828,
+    "JavaScript": 10090,
+    "Dockerfile": 712
+  },
+  "size": 952775
+}

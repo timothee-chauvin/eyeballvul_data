@@ -1,0 +1,14 @@
+{
+  "commit": "d5f645a33134d372d4ffd11f1e03f18a4ad5309c",
+  "repo_url": "https://github.com/fuomag9/caddy-proxy-manager",
+  "date": "2026-06-04T11:14:20",
+  "languages": {
+    "TypeScript": 2353828,
+    "HTML": 14377,
+    "CSS": 10793,
+    "Shell": 8768,
+    "Dockerfile": 5294,
+    "JavaScript": 2312
+  },
+  "size": 2395372
+}

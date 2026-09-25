@@ -1,0 +1,17 @@
+{
+  "commit": "fa2008cd5c1dfd9edafcd2718e3e7b1b30d7b70e",
+  "repo_url": "https://github.com/1panel-dev/cordyscrm",
+  "date": "2026-07-03T08:25:46",
+  "languages": {
+    "Java": 4987084,
+    "Vue": 2993602,
+    "TypeScript": 1743901,
+    "CSS": 113624,
+    "Less": 31505,
+    "JavaScript": 17395,
+    "Shell": 12124,
+    "Dockerfile": 1635,
+    "HTML": 1104
+  },
+  "size": 9901974
+}

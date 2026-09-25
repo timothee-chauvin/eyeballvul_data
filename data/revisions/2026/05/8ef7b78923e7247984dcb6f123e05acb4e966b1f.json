@@ -1,0 +1,19 @@
+{
+  "commit": "8ef7b78923e7247984dcb6f123e05acb4e966b1f",
+  "repo_url": "https://github.com/eclipse-iceoryx/iceoryx2",
+  "date": "2026-05-18T21:14:59",
+  "languages": {
+    "Rust": 7749866,
+    "C++": 2508437,
+    "Python": 232320,
+    "Shell": 126699,
+    "Starlark": 112034,
+    "CMake": 77706,
+    "Gnuplot": 5171,
+    "C": 3397,
+    "Just": 2439,
+    "PowerShell": 705,
+    "Dockerfile": 460
+  },
+  "size": 10819234
+}

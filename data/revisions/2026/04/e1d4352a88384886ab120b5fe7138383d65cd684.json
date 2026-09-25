@@ -1,0 +1,27 @@
+{
+  "commit": "e1d4352a88384886ab120b5fe7138383d65cd684",
+  "repo_url": "https://github.com/netdata/netdata",
+  "date": "2026-04-09T11:53:45",
+  "languages": {
+    "C": 25020834,
+    "Go": 10772142,
+    "Rust": 1464951,
+    "JavaScript": 1084071,
+    "Shell": 1035306,
+    "Python": 850210,
+    "Jupyter Notebook": 826673,
+    "C++": 589744,
+    "HTML": 269507,
+    "CMake": 260837,
+    "CSS": 86498,
+    "Batchfile": 12577,
+    "PowerShell": 9190,
+    "Yacc": 7186,
+    "Rich Text Format": 6985,
+    "POV-Ray SDL": 6860,
+    "Dockerfile": 5582,
+    "Makefile": 3014,
+    "TSQL": 2310
+  },
+  "size": 42314477
+}

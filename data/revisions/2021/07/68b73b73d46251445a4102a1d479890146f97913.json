@@ -1,0 +1,19 @@
+{
+  "commit": "68b73b73d46251445a4102a1d479890146f97913",
+  "repo_url": "https://github.com/scadabr/scadabr",
+  "date": "2021-07-15T22:26:47",
+  "languages": {
+    "Java": 5877279,
+    "HTML": 3423375,
+    "JavaScript": 2780357,
+    "PLSQL": 157080,
+    "CSS": 97101,
+    "FreeMarker": 56447,
+    "PHP": 36217,
+    "ActionScript": 11581,
+    "XSLT": 4497,
+    "Python": 3501,
+    "Shell": 2544
+  },
+  "size": 12449979
+}

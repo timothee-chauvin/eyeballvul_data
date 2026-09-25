@@ -1,0 +1,13 @@
+{
+  "commit": "0bebba4c1f7f0be342591d11c62b7a13fbe3608e",
+  "repo_url": "https://github.com/temporalio/tchannel-go",
+  "date": "2021-08-17T16:45:00",
+  "languages": {
+    "Go": 1386910,
+    "Makefile": 7205,
+    "Thrift": 6369,
+    "Shell": 428,
+    "Dockerfile": 64
+  },
+  "size": 1400976
+}

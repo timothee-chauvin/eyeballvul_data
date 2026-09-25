@@ -1,0 +1,16 @@
+{
+  "commit": "56e3504f99a80aa5d60507f36fc8e2458d93a917",
+  "repo_url": "https://github.com/hubzero/hubzero-cms",
+  "date": "2026-08-27T02:13:45",
+  "languages": {
+    "PHP": 29341088,
+    "JavaScript": 13041971,
+    "CSS": 2663952,
+    "HTML": 1307111,
+    "Less": 475477,
+    "ActionScript": 172889,
+    "SCSS": 77652,
+    "Shell": 2819
+  },
+  "size": 47082959
+}

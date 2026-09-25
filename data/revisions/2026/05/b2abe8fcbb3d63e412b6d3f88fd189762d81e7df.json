@@ -1,0 +1,18 @@
+{
+  "commit": "b2abe8fcbb3d63e412b6d3f88fd189762d81e7df",
+  "repo_url": "https://github.com/webrecorder/browsertrix",
+  "date": "2026-05-13T17:52:45",
+  "languages": {
+    "TypeScript": 2427699,
+    "Python": 1566489,
+    "JavaScript": 69688,
+    "CSS": 48489,
+    "MDX": 27175,
+    "Shell": 13947,
+    "EJS": 3256,
+    "HTML": 2769,
+    "Dockerfile": 2449,
+    "Jinja": 2353
+  },
+  "size": 4164314
+}

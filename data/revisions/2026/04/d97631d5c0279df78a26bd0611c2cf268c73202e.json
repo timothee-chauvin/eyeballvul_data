@@ -1,0 +1,16 @@
+{
+  "commit": "d97631d5c0279df78a26bd0611c2cf268c73202e",
+  "repo_url": "https://gitlab.com/scripta/escriptorium",
+  "date": "2026-04-16T07:34:47",
+  "languages": {
+    "Vue": 1035386,
+    "Python": 1012218,
+    "JavaScript": 571776,
+    "HTML": 199652,
+    "CSS": 180631,
+    "MDX": 4500,
+    "Shell": 2816,
+    "Dockerfile": 2399
+  },
+  "size": 3009378
+}

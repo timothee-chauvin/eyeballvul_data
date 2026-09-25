@@ -1,0 +1,20 @@
+{
+  "commit": "fb885547538dc6572a12722dd2991b553e082e0e",
+  "repo_url": "https://github.com/edwardkim/rhwp",
+  "date": "2026-06-04T15:37:03",
+  "languages": {
+    "Rust": 13410453,
+    "TypeScript": 2000699,
+    "JavaScript": 1148773,
+    "HTML": 202144,
+    "CSS": 123123,
+    "Python": 50398,
+    "Shell": 27950,
+    "Swift": 15208,
+    "PowerShell": 6773,
+    "C#": 2085,
+    "Dockerfile": 752,
+    "C": 390
+  },
+  "size": 16988748
+}

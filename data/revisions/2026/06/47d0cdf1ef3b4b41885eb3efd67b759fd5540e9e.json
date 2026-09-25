@@ -1,0 +1,17 @@
+{
+  "commit": "47d0cdf1ef3b4b41885eb3efd67b759fd5540e9e",
+  "repo_url": "https://github.com/superradcompany/microsandbox",
+  "date": "2026-06-21T23:54:27",
+  "languages": {
+    "Rust": 5897786,
+    "Go": 557570,
+    "TypeScript": 250155,
+    "Python": 112526,
+    "JavaScript": 37933,
+    "C": 29842,
+    "Shell": 26002,
+    "Just": 8892,
+    "Dockerfile": 538
+  },
+  "size": 6921244
+}

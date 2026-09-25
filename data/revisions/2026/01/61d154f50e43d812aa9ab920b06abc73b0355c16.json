@@ -1,0 +1,17 @@
+{
+  "commit": "61d154f50e43d812aa9ab920b06abc73b0355c16",
+  "repo_url": "https://github.com/leslieleung/glean",
+  "date": "2026-01-29T13:20:04",
+  "languages": {
+    "TypeScript": 853966,
+    "Python": 759393,
+    "CSS": 65710,
+    "Makefile": 8026,
+    "JavaScript": 6004,
+    "Shell": 4387,
+    "Dockerfile": 2406,
+    "HTML": 1214,
+    "Mako": 635
+  },
+  "size": 1701741
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "ea7a54c9efc6aca8843e8309271d47c204b876a7",
+  "repo_url": "https://github.com/frain-dev/convoy",
+  "date": "2026-07-23T15:48:39",
+  "languages": {
+    "Go": 5710080,
+    "TypeScript": 1079477,
+    "HTML": 858846,
+    "Shell": 66620,
+    "SCSS": 47601,
+    "PLpgSQL": 22783,
+    "JavaScript": 15699,
+    "Makefile": 6834,
+    "MDX": 5426,
+    "Dockerfile": 666
+  },
+  "size": 7814032
+}

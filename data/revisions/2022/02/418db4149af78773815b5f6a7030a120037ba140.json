@@ -1,0 +1,23 @@
+{
+  "commit": "418db4149af78773815b5f6a7030a120037ba140",
+  "repo_url": "https://github.com/makesoftwaresafe/gpac",
+  "date": "2022-02-22T15:21:46",
+  "languages": {
+    "C": 32679629,
+    "C++": 2658396,
+    "JavaScript": 956118,
+    "Roff": 465182,
+    "Java": 189631,
+    "Python": 162615,
+    "Makefile": 112147,
+    "GLSL": 90260,
+    "Objective-C": 21465,
+    "Shell": 21243,
+    "NSIS": 18698,
+    "Rez": 13704,
+    "HTML": 7436,
+    "Batchfile": 6672,
+    "CSS": 4998
+  },
+  "size": 37408194
+}

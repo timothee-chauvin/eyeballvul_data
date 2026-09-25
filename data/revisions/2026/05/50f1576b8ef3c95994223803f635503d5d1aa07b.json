@@ -1,0 +1,15 @@
+{
+  "commit": "50f1576b8ef3c95994223803f635503d5d1aa07b",
+  "repo_url": "https://github.com/conda/conda",
+  "date": "2026-05-26T20:49:02",
+  "languages": {
+    "Python": 4043217,
+    "Shell": 22262,
+    "Batchfile": 19851,
+    "PowerShell": 9847,
+    "Xonsh": 8292,
+    "HTML": 3686,
+    "Makefile": 3413
+  },
+  "size": 4110568
+}

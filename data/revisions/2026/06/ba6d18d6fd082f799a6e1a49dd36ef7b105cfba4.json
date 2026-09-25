@@ -1,0 +1,16 @@
+{
+  "commit": "ba6d18d6fd082f799a6e1a49dd36ef7b105cfba4",
+  "repo_url": "https://github.com/web-infra-dev/rsdoctor",
+  "date": "2026-06-17T09:35:46",
+  "languages": {
+    "TypeScript": 1744792,
+    "MDX": 417845,
+    "SCSS": 36246,
+    "JavaScript": 16099,
+    "AppleScript": 2691,
+    "CSS": 1684,
+    "Shell": 1113,
+    "Less": 25
+  },
+  "size": 2220495
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "eee169940fe25b67d3ccf98d3e78e871d32d321c",
+  "repo_url": "https://github.com/bittersecurity/decepticon",
+  "date": "2026-06-21T11:48:17",
+  "languages": {
+    "Python": 5344329,
+    "Cypher": 3864697,
+    "TypeScript": 634348,
+    "Go": 386938,
+    "Shell": 37237,
+    "Dockerfile": 30474,
+    "Makefile": 18253,
+    "JavaScript": 14357,
+    "PowerShell": 10532,
+    "CSS": 9372
+  },
+  "size": 10350537
+}

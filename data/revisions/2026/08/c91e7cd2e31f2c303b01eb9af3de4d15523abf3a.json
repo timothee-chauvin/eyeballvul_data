@@ -1,0 +1,15 @@
+{
+  "commit": "c91e7cd2e31f2c303b01eb9af3de4d15523abf3a",
+  "repo_url": "https://github.com/0215andrewfeng/ace-mcp",
+  "date": "2026-08-14T15:26:43",
+  "languages": {
+    "TypeScript": 1404983,
+    "JavaScript": 255647,
+    "HTML": 52250,
+    "CSS": 32575,
+    "Shell": 4221,
+    "PowerShell": 559,
+    "Batchfile": 279
+  },
+  "size": 1750514
+}

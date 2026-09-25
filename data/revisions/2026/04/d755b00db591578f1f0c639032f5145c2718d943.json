@@ -1,0 +1,19 @@
+{
+  "commit": "d755b00db591578f1f0c639032f5145c2718d943",
+  "repo_url": "https://github.com/virtio-win/kvm-guest-drivers-windows",
+  "date": "2026-04-16T08:54:26",
+  "languages": {
+    "C": 2089278,
+    "C++": 1609213,
+    "Batchfile": 75211,
+    "PowerShell": 52774,
+    "JavaScript": 9251,
+    "Ruby": 8689,
+    "Shell": 6587,
+    "VBScript": 1167,
+    "Makefile": 1149,
+    "Python": 747,
+    "Visual Basic 6.0": 264
+  },
+  "size": 3854330
+}

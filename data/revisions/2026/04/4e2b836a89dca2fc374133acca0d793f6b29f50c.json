@@ -1,0 +1,13 @@
+{
+  "commit": "4e2b836a89dca2fc374133acca0d793f6b29f50c",
+  "repo_url": "https://github.com/sooperset/mcp-atlassian",
+  "date": "2026-04-10T07:29:33",
+  "languages": {
+    "Python": 3133076,
+    "Shell": 14639,
+    "Dockerfile": 2071,
+    "Smarty": 1668,
+    "Jinja": 935
+  },
+  "size": 3152389
+}

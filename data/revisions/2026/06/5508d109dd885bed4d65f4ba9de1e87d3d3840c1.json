@@ -1,0 +1,15 @@
+{
+  "commit": "5508d109dd885bed4d65f4ba9de1e87d3d3840c1",
+  "repo_url": "https://github.com/sveltycms/sveltycms",
+  "date": "2026-06-08T18:44:40",
+  "languages": {
+    "TypeScript": 5807430,
+    "Svelte": 2864576,
+    "MDX": 249862,
+    "CSS": 21387,
+    "Shell": 2334,
+    "JavaScript": 2270,
+    "HTML": 1624
+  },
+  "size": 8949483
+}

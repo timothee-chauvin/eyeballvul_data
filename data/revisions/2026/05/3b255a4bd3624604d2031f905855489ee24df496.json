@@ -1,0 +1,12 @@
+{
+  "commit": "3b255a4bd3624604d2031f905855489ee24df496",
+  "repo_url": "https://github.com/robur-coop/albatross",
+  "date": "2026-05-05T15:28:05",
+  "languages": {
+    "OCaml": 384128,
+    "Shell": 12344,
+    "C": 11919,
+    "Nix": 6755
+  },
+  "size": 415146
+}

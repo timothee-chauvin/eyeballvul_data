@@ -1,0 +1,16 @@
+{
+  "commit": "5f863b662eb9aed8a3f57e9fc01bc5e8bf497005",
+  "repo_url": "https://github.com/forget-c/jellyfish",
+  "date": "2026-04-17T09:19:39",
+  "languages": {
+    "Python": 1409734,
+    "TypeScript": 1361362,
+    "CSS": 21258,
+    "PLpgSQL": 14648,
+    "HTML": 12622,
+    "JavaScript": 9553,
+    "Shell": 1889,
+    "Dockerfile": 1491
+  },
+  "size": 2832557
+}

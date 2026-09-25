@@ -1,0 +1,16 @@
+{
+  "commit": "940867fb83319813d4a676bf94ef42973e46f622",
+  "repo_url": "https://github.com/mythicalltd/mythicaldash",
+  "date": "2026-02-16T20:52:29",
+  "languages": {
+    "PHP": 2250940,
+    "Vue": 2141620,
+    "TypeScript": 227648,
+    "Shell": 173061,
+    "CSS": 34798,
+    "HTML": 33976,
+    "Makefile": 12167,
+    "Dockerfile": 3892
+  },
+  "size": 4878102
+}

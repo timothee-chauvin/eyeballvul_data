@@ -1,0 +1,21 @@
+{
+  "commit": "a312b43325e3383c865a87bb1d26cb52e3292641",
+  "repo_url": "https://github.com/libssh2/libssh2",
+  "date": "2024-10-16T08:03:11",
+  "languages": {
+    "C": 2099187,
+    "M4": 86633,
+    "CMake": 66907,
+    "Shell": 59175,
+    "RPGLE": 43134,
+    "Perl": 39489,
+    "Clean": 22715,
+    "Makefile": 11602,
+    "C++": 4253,
+    "Dockerfile": 2192,
+    "Emacs Lisp": 2140,
+    "PowerShell": 1211,
+    "Awk": 849
+  },
+  "size": 2439487
+}

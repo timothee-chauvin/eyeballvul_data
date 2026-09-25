@@ -1,0 +1,16 @@
+{
+  "commit": "d8d451d209a75845f7e1c71ea8b4af2547edecab",
+  "repo_url": "https://github.com/ixofoundation/ixo-blockchain",
+  "date": "2026-06-01T03:16:57",
+  "languages": {
+    "Go": 2487778,
+    "HTML": 746001,
+    "Shell": 85896,
+    "Python": 54364,
+    "Makefile": 26489,
+    "Jupyter Notebook": 3790,
+    "Dockerfile": 3312,
+    "JavaScript": 887
+  },
+  "size": 3408517
+}

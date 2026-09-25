@@ -1,0 +1,14 @@
+{
+  "commit": "716bedb3969522a8120aa97cb0dc633aca0ad9dd",
+  "repo_url": "https://github.com/imzbf/md-editor-v3",
+  "date": "2026-06-23T01:22:40",
+  "languages": {
+    "TypeScript": 411978,
+    "SCSS": 25937,
+    "JavaScript": 5358,
+    "Vue": 3149,
+    "CSS": 2706,
+    "HTML": 1234
+  },
+  "size": 450362
+}

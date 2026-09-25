@@ -1,0 +1,12 @@
+{
+  "commit": "6ff3dd6d4445a6af2a75f02df373cd27dc9c95d1",
+  "repo_url": "https://github.com/mongodb/laravel-mongodb",
+  "date": "2026-09-02T09:38:30",
+  "languages": {
+    "PHP": 1006601,
+    "Shell": 1950,
+    "Blade": 766,
+    "Dockerfile": 520
+  },
+  "size": 1009837
+}

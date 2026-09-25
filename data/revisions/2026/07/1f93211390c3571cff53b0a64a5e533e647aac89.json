@@ -1,0 +1,31 @@
+{
+  "commit": "1f93211390c3571cff53b0a64a5e533e647aac89",
+  "repo_url": "https://github.com/ente/ente",
+  "date": "2026-07-03T13:27:04",
+  "languages": {
+    "Dart": 11462457,
+    "TypeScript": 6899239,
+    "Go": 2196520,
+    "Rust": 1496277,
+    "Swift": 644843,
+    "Kotlin": 580459,
+    "HTML": 202082,
+    "Python": 189857,
+    "JavaScript": 135928,
+    "Shell": 93907,
+    "Jupyter Notebook": 78825,
+    "CSS": 76923,
+    "C++": 73431,
+    "CMake": 52381,
+    "PLpgSQL": 31039,
+    "Ruby": 27290,
+    "PowerShell": 8969,
+    "Dockerfile": 5180,
+    "Batchfile": 4882,
+    "Inno Setup": 4330,
+    "C": 3794,
+    "Java": 2243,
+    "Objective-C": 151
+  },
+  "size": 24271007
+}

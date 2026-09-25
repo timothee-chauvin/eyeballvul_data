@@ -1,0 +1,13 @@
+{
+  "commit": "9bff18ccf8387434a80c8550c96a523a9da10433",
+  "repo_url": "https://github.com/imagingdatacommons/libdicom",
+  "date": "2023-10-09T15:19:08",
+  "languages": {
+    "C": 545558,
+    "Meson": 5920,
+    "Roff": 1249,
+    "Dockerfile": 884,
+    "Python": 435
+  },
+  "size": 554046
+}

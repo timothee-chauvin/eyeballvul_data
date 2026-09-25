@@ -1,0 +1,15 @@
+{
+  "commit": "30833de07bb3d8b2fa7b3dc09bf2a0d25449958a",
+  "repo_url": "https://github.com/fulgur-rs/fulgur",
+  "date": "2026-06-14T08:35:35",
+  "languages": {
+    "Rust": 2812930,
+    "HTML": 49853,
+    "Python": 25744,
+    "Ruby": 21514,
+    "CSS": 2027,
+    "JavaScript": 1836,
+    "Shell": 1489
+  },
+  "size": 2915393
+}

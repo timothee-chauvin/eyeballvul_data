@@ -1,0 +1,13 @@
+{
+  "commit": "c18324a46e2a4b094547db90db90deb3e1599e4b",
+  "repo_url": "https://github.com/intel/transfer-learning",
+  "date": "2024-04-22T23:54:39",
+  "languages": {
+    "Python": 1101054,
+    "Jupyter Notebook": 522451,
+    "Dockerfile": 9422,
+    "Shell": 9092,
+    "Makefile": 8219
+  },
+  "size": 1650238
+}
