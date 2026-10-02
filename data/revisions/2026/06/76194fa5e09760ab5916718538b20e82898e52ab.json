@@ -1,0 +1,14 @@
+{
+  "commit": "76194fa5e09760ab5916718538b20e82898e52ab",
+  "repo_url": "https://github.com/mongodb/mongo-odbc-driver",
+  "date": "2026-06-01T18:57:07",
+  "languages": {
+    "Rust": 1344818,
+    "HTML": 64936,
+    "Shell": 10064,
+    "PowerShell": 2883,
+    "Rich Text Format": 534,
+    "Python": 366
+  },
+  "size": 1423601
+}

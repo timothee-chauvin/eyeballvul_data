@@ -1,0 +1,24 @@
+{
+  "commit": "ee5995f361a24ef0e67adf4f0cdc1929ceab140e",
+  "repo_url": "https://gitlab.com/progressiverobot/hmailserver",
+  "date": "2026-09-14T22:34:34",
+  "languages": {
+    "C++": 12231503,
+    "C#": 8419800,
+    "C": 1747850,
+    "JavaScript": 639637,
+    "PowerShell": 284906,
+    "HTML": 227035,
+    "Python": 190733,
+    "Rich Text Format": 171632,
+    "Shell": 97906,
+    "TSQL": 87695,
+    "Inno Setup": 68089,
+    "PLpgSQL": 45308,
+    "CMake": 23667,
+    "VBScript": 12912,
+    "Dockerfile": 5707,
+    "Batchfile": 3983
+  },
+  "size": 24258363
+}

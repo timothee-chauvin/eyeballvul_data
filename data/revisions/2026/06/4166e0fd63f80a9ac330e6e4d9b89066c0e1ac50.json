@@ -1,0 +1,13 @@
+{
+  "commit": "4166e0fd63f80a9ac330e6e4d9b89066c0e1ac50",
+  "repo_url": "https://github.com/openclaw/openclaw-windows-node",
+  "date": "2026-06-30T19:06:27",
+  "languages": {
+    "C#": 8432816,
+    "PowerShell": 300649,
+    "Python": 152733,
+    "Inno Setup": 10271,
+    "Shell": 367
+  },
+  "size": 8896836
+}

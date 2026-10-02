@@ -1,0 +1,12 @@
+{
+  "commit": "4045f9513fa2d19ad9dbee25b39acb55a018c58e",
+  "repo_url": "https://github.com/pardus/pardus-parental-control",
+  "date": "2026-06-05T08:42:03",
+  "languages": {
+    "Python": 95457,
+    "Meson": 1445,
+    "Shell": 786,
+    "CSS": 381
+  },
+  "size": 98069
+}

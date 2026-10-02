@@ -1,0 +1,16 @@
+{
+  "commit": "494c348a1cd95a3fb447a408d561a57ad15be9c2",
+  "repo_url": "https://github.com/openclaw/clawhub",
+  "date": "2026-09-09T05:19:03",
+  "languages": {
+    "TypeScript": 17200229,
+    "Python": 747195,
+    "CSS": 738620,
+    "Shell": 443335,
+    "JavaScript": 383295,
+    "jq": 8078,
+    "Jinja": 2387,
+    "PowerShell": 1008
+  },
+  "size": 19524147
+}

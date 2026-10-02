@@ -1,0 +1,15 @@
+{
+  "commit": "c0f80460716f7bebf4f5fd6a02eeec84e78a025f",
+  "repo_url": "https://github.com/olegkhorev/php-spa-cart",
+  "date": "2026-09-24T09:41:22",
+  "languages": {
+    "PHP": 1938892,
+    "JavaScript": 714953,
+    "HTML": 380011,
+    "CSS": 273612,
+    "Hack": 74113,
+    "Dockerfile": 336,
+    "Procfile": 41
+  },
+  "size": 3381958
+}

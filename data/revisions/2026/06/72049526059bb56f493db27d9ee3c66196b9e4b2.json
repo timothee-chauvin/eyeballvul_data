@@ -1,0 +1,12 @@
+{
+  "commit": "72049526059bb56f493db27d9ee3c66196b9e4b2",
+  "repo_url": "https://github.com/mbailey/voicemode",
+  "date": "2026-06-25T09:29:47",
+  "languages": {
+    "Python": 2440317,
+    "Shell": 61310,
+    "Makefile": 27766,
+    "Nix": 9820
+  },
+  "size": 2539213
+}

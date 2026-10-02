@@ -1,0 +1,14 @@
+{
+  "commit": "b724f0afb06709bb78997060a3bbf89b5a9bfe95",
+  "repo_url": "https://github.com/mongodb/mongo-go-driver",
+  "date": "2026-07-09T18:48:08",
+  "languages": {
+    "Go": 5771453,
+    "Shell": 41039,
+    "C": 16679,
+    "Perl": 14538,
+    "Dockerfile": 1469,
+    "Makefile": 297
+  },
+  "size": 5845475
+}

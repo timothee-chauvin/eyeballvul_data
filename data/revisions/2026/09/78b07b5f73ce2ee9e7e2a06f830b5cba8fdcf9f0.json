@@ -1,0 +1,12 @@
+{
+  "commit": "78b07b5f73ce2ee9e7e2a06f830b5cba8fdcf9f0",
+  "repo_url": "https://github.com/rancher/fleet",
+  "date": "2026-09-14T11:55:02",
+  "languages": {
+    "Go": 4068554,
+    "Shell": 25442,
+    "Smarty": 2594,
+    "Dockerfile": 737
+  },
+  "size": 4097327
+}

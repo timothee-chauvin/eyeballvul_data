@@ -1,0 +1,15 @@
+{
+  "commit": "3c347c854c4c55456785ff026a703422d8f02f62",
+  "repo_url": "https://github.com/pawelmalak/flame",
+  "date": "2023-07-23T12:51:23",
+  "languages": {
+    "TypeScript": 196220,
+    "JavaScript": 61347,
+    "CSS": 14413,
+    "Python": 4223,
+    "HTML": 1651,
+    "Dockerfile": 481,
+    "Shell": 395
+  },
+  "size": 278730
+}

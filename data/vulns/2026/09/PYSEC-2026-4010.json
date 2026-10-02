@@ -1,0 +1,18 @@
+{
+  "id": "PYSEC-2026-4010",
+  "published": "2026-09-05T07:44:09",
+  "modified": "2026-09-30T16:46:03.260834",
+  "details": "The `/v1/chat/agents/{agent_id}/edit` endpoint in local-operator versions before 0.47.5 resolves the caller-supplied `file_path` with `expanduser().resolve()` and reads it without checking that it lies inside the agent's workspace. An unauthenticated client with network access to the API can supply an absolute path or a path containing traversal sequences and obtain the contents of any file readable by the server process, which are placed in the model prompt and returned in the response.\n\nVersion 0.47.5 resolves server-side reads within the agent's configured workspace and rejects canonical paths outside it (including symlink and junction escapes) before any model call, adds an optional `file_content` request field so clients can submit a buffer without host path resolution, and binds `lop serve` to 127.0.0.1 by default.\n\n",
+  "summary": "Arbitrary file read via workspace confinement bypass in local-operator /v1/chat/agents/{id}/edit",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/damianvtran/local-operator",
+  "cwes": [],
+  "commits": [
+    "17b6b673f9fe6ff7de58d8c886df0e5eae8cb16c"
+  ]
+}

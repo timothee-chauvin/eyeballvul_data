@@ -1,0 +1,15 @@
+{
+  "commit": "c1876c7920bea010e4a742062a97c3ad0e9b293e",
+  "repo_url": "https://github.com/octobercms/october",
+  "date": "2026-08-02T02:58:12",
+  "languages": {
+    "PHP": 6413863,
+    "JavaScript": 3519627,
+    "CSS": 526876,
+    "Less": 294039,
+    "HTML": 107360,
+    "Hack": 32047,
+    "Shell": 2764
+  },
+  "size": 10896576
+}

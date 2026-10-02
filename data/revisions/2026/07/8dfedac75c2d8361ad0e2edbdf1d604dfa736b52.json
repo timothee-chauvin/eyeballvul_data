@@ -1,0 +1,13 @@
+{
+  "commit": "8dfedac75c2d8361ad0e2edbdf1d604dfa736b52",
+  "repo_url": "https://github.com/awslabs/gluonts",
+  "date": "2026-07-22T11:55:30",
+  "languages": {
+    "Python": 5324078,
+    "Jupyter Notebook": 752509,
+    "R": 12042,
+    "Shell": 5018,
+    "Just": 1838
+  },
+  "size": 6095485
+}

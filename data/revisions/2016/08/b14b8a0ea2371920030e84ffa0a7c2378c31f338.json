@@ -1,0 +1,13 @@
+{
+  "commit": "b14b8a0ea2371920030e84ffa0a7c2378c31f338",
+  "repo_url": "https://github.com/libmtp/libmtp",
+  "date": "2016-08-12T11:20:27",
+  "languages": {
+    "C": 1307351,
+    "HTML": 297176,
+    "M4": 50412,
+    "Shell": 10123,
+    "Makefile": 3874
+  },
+  "size": 1668936
+}

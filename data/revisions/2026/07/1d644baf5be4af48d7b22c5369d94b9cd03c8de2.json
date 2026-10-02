@@ -1,0 +1,22 @@
+{
+  "commit": "1d644baf5be4af48d7b22c5369d94b9cd03c8de2",
+  "repo_url": "https://github.com/apache/camel-quarkus",
+  "date": "2026-07-08T12:01:25",
+  "languages": {
+    "Java": 10830562,
+    "JavaScript": 59504,
+    "Mustache": 48686,
+    "Groovy": 39846,
+    "Shell": 28042,
+    "XSLT": 25549,
+    "Python": 6479,
+    "Tcl": 5013,
+    "Rust": 3839,
+    "HTML": 2760,
+    "FreeMarker": 2706,
+    "PLpgSQL": 2094,
+    "XQuery": 271,
+    "Ruby": 88
+  },
+  "size": 11055439
+}

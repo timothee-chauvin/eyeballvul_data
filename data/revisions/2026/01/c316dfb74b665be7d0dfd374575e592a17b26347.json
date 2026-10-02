@@ -1,0 +1,11 @@
+{
+  "commit": "c316dfb74b665be7d0dfd374575e592a17b26347",
+  "repo_url": "https://github.com/pollen-robotics/reachy-mini-os",
+  "date": "2026-01-14T23:17:32",
+  "languages": {
+    "Shell": 46563,
+    "Dockerfile": 524,
+    "sed": 284
+  },
+  "size": 47371
+}

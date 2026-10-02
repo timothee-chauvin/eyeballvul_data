@@ -1,0 +1,11 @@
+{
+  "commit": "f2ebadf96ed09f15a812bc797f0b437608a95a57",
+  "repo_url": "https://github.com/vllm-project/vllm-gaudi",
+  "date": "2026-05-08T11:58:17",
+  "languages": {
+    "Python": 1989353,
+    "Shell": 100925,
+    "Jinja": 1543
+  },
+  "size": 2091821
+}

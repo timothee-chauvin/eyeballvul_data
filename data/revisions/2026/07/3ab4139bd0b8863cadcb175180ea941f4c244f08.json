@@ -1,0 +1,16 @@
+{
+  "commit": "3ab4139bd0b8863cadcb175180ea941f4c244f08",
+  "repo_url": "https://github.com/ionic-team/capacitor",
+  "date": "2026-07-31T15:46:24",
+  "languages": {
+    "TypeScript": 471443,
+    "Java": 405554,
+    "Swift": 320445,
+    "JavaScript": 115321,
+    "Objective-C": 105080,
+    "C": 4519,
+    "Ruby": 3535,
+    "Shell": 2182
+  },
+  "size": 1428079
+}

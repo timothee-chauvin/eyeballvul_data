@@ -1,0 +1,16 @@
+{
+  "commit": "6e7ecaa0124e6918f400580ac5835f1d608ce759",
+  "repo_url": "https://github.com/pgpointcloud/pointcloud",
+  "date": "2022-09-26T08:49:24",
+  "languages": {
+    "PLpgSQL": 3727336,
+    "C": 423633,
+    "M4": 13005,
+    "Perl": 9196,
+    "C++": 8801,
+    "Makefile": 5394,
+    "Shell": 2548,
+    "Dockerfile": 1476
+  },
+  "size": 4191389
+}

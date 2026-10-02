@@ -1,0 +1,15 @@
+{
+  "commit": "7e5889dc6fc907a0dd218d94623378cc53417cb2",
+  "repo_url": "https://github.com/input-leap/input-leap",
+  "date": "2024-10-12T23:18:55",
+  "languages": {
+    "C++": 2637692,
+    "Objective-C++": 70121,
+    "CMake": 51458,
+    "C": 21196,
+    "Objective-C": 5368,
+    "PowerShell": 2922,
+    "Shell": 2147
+  },
+  "size": 2790904
+}

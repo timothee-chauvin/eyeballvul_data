@@ -1,0 +1,13 @@
+{
+  "commit": "c0ff0125a0d34652f728d2225a5b850d498c18ee",
+  "repo_url": "https://github.com/metatool-ai/metamcp",
+  "date": "2025-12-07T03:42:35",
+  "languages": {
+    "TypeScript": 1230747,
+    "CSS": 9862,
+    "JavaScript": 6325,
+    "Shell": 5107,
+    "Dockerfile": 3987
+  },
+  "size": 1256028
+}

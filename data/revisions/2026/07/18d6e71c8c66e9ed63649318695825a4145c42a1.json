@@ -1,0 +1,15 @@
+{
+  "commit": "18d6e71c8c66e9ed63649318695825a4145c42a1",
+  "repo_url": "https://github.com/jknack/handlebars.java",
+  "date": "2026-07-29T15:53:12",
+  "languages": {
+    "Java": 1103209,
+    "JavaScript": 334543,
+    "HTML": 37634,
+    "ANTLR": 9076,
+    "CSS": 6537,
+    "Handlebars": 2119,
+    "Shell": 663
+  },
+  "size": 1493781
+}

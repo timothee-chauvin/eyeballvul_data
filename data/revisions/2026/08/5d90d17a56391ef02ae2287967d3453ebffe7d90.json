@@ -1,0 +1,17 @@
+{
+  "commit": "5d90d17a56391ef02ae2287967d3453ebffe7d90",
+  "repo_url": "https://github.com/david-crty/databasement",
+  "date": "2026-08-01T18:13:15",
+  "languages": {
+    "PHP": 2005748,
+    "Blade": 426827,
+    "Shell": 9205,
+    "Dockerfile": 7091,
+    "Makefile": 5830,
+    "Smarty": 4268,
+    "CSS": 3148,
+    "JavaScript": 2876,
+    "TSQL": 1077
+  },
+  "size": 2466070
+}

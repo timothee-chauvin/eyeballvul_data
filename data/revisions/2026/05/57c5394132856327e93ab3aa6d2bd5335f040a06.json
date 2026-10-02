@@ -1,0 +1,22 @@
+{
+  "commit": "57c5394132856327e93ab3aa6d2bd5335f040a06",
+  "repo_url": "https://github.com/taskcluster/taskcluster",
+  "date": "2026-05-28T13:06:27",
+  "languages": {
+    "JavaScript": 5758105,
+    "Go": 1833413,
+    "MDX": 489102,
+    "Python": 200953,
+    "Rust": 151461,
+    "Shell": 32922,
+    "PLpgSQL": 23348,
+    "Dockerfile": 9192,
+    "Pug": 6829,
+    "CSS": 5993,
+    "EJS": 3320,
+    "Batchfile": 1262,
+    "Makefile": 918,
+    "HTML": 273
+  },
+  "size": 8517091
+}

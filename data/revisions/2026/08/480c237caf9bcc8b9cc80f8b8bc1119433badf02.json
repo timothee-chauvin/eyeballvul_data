@@ -1,0 +1,21 @@
+{
+  "commit": "480c237caf9bcc8b9cc80f8b8bc1119433badf02",
+  "repo_url": "https://github.com/internet2/grouper",
+  "date": "2026-08-31T06:04:24",
+  "languages": {
+    "Java": 77175750,
+    "HTML": 14002934,
+    "PLpgSQL": 1738067,
+    "JavaScript": 368480,
+    "Groovy": 207809,
+    "PLSQL": 156215,
+    "CSS": 100349,
+    "Shell": 79530,
+    "Python": 67579,
+    "GSC": 40725,
+    "Batchfile": 11772,
+    "Dockerfile": 5878,
+    "Perl": 4856
+  },
+  "size": 93959944
+}

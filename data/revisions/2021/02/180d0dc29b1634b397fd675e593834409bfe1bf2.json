@@ -1,0 +1,15 @@
+{
+  "commit": "180d0dc29b1634b397fd675e593834409bfe1bf2",
+  "repo_url": "https://github.com/yii-starter-kit/yii2-starter-kit",
+  "date": "2021-02-24T12:58:14",
+  "languages": {
+    "PHP": 740415,
+    "JavaScript": 7374,
+    "Less": 3704,
+    "Batchfile": 2072,
+    "Dockerfile": 771,
+    "Shell": 512,
+    "Procfile": 68
+  },
+  "size": 754916
+}

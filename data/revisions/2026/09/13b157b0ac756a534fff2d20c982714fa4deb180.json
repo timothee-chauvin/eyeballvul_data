@@ -1,0 +1,16 @@
+{
+  "commit": "13b157b0ac756a534fff2d20c982714fa4deb180",
+  "repo_url": "https://github.com/eclipse-basyx/basyx-aas-web-ui",
+  "date": "2026-09-10T17:40:25",
+  "languages": {
+    "JavaScript": 3490008,
+    "Vue": 2115481,
+    "TypeScript": 2005754,
+    "Shell": 16787,
+    "Dockerfile": 2555,
+    "CSS": 1946,
+    "HTML": 341,
+    "SCSS": 207
+  },
+  "size": 7633079
+}

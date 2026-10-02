@@ -1,0 +1,16 @@
+{
+  "commit": "009cdb85e2cafd1efff6dce100300f7c7b7f283b",
+  "repo_url": "https://github.com/canonical/ubuntu-pro-for-wsl",
+  "date": "2026-08-26T19:25:25",
+  "languages": {
+    "Go": 1092380,
+    "Dart": 300596,
+    "C++": 107887,
+    "CMake": 34137,
+    "PowerShell": 18418,
+    "Makefile": 2997,
+    "C": 2577,
+    "Shell": 2331
+  },
+  "size": 1561323
+}

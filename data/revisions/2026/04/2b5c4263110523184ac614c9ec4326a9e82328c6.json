@@ -1,0 +1,11 @@
+{
+  "commit": "2b5c4263110523184ac614c9ec4326a9e82328c6",
+  "repo_url": "https://github.com/dannymcc/bluehood",
+  "date": "2026-04-12T15:42:19",
+  "languages": {
+    "Python": 287771,
+    "Dockerfile": 1302,
+    "Shell": 794
+  },
+  "size": 289867
+}

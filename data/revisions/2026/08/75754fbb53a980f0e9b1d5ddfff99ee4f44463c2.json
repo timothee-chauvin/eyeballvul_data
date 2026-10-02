@@ -1,0 +1,13 @@
+{
+  "commit": "75754fbb53a980f0e9b1d5ddfff99ee4f44463c2",
+  "repo_url": "https://github.com/mongodb/mongo-php-library",
+  "date": "2026-08-27T15:08:04",
+  "languages": {
+    "PHP": 2515866,
+    "Python": 44811,
+    "Shell": 9820,
+    "JavaScript": 7696,
+    "HTML": 4652
+  },
+  "size": 2582845
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "8d096b971cb8cf84f940ac15e25532964a98eba0",
+  "repo_url": "https://github.com/crivion/laranode",
+  "date": "2026-09-17T21:06:18",
+  "languages": {
+    "PHP": 289408,
+    "JavaScript": 284394,
+    "Shell": 56947,
+    "Dockerfile": 5009,
+    "CSS": 4567,
+    "Blade": 956
+  },
+  "size": 641281
+}

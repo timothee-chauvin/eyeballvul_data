@@ -1,0 +1,11 @@
+{
+  "commit": "f05039476d24b7dc95fa9969375080d518944d49",
+  "repo_url": "https://github.com/spaceship-prompt/spaceship-prompt",
+  "date": "2026-06-24T12:52:17",
+  "languages": {
+    "Shell": 298437,
+    "Makefile": 566,
+    "Dockerfile": 378
+  },
+  "size": 299381
+}

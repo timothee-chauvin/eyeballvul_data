@@ -1,0 +1,12 @@
+{
+  "commit": "049b718a2d47ff4916b6b9e18cc7ec0fbe3cb42c",
+  "repo_url": "https://github.com/mongodb/mongo-ruby-driver",
+  "date": "2026-07-22T17:39:52",
+  "languages": {
+    "Ruby": 5369486,
+    "HTML": 52124,
+    "Shell": 45886,
+    "Dockerfile": 589
+  },
+  "size": 5468085
+}

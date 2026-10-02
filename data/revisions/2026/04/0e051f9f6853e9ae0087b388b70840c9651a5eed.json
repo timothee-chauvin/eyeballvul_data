@@ -1,0 +1,19 @@
+{
+  "commit": "0e051f9f6853e9ae0087b388b70840c9651a5eed",
+  "repo_url": "https://github.com/networkupstools/nut",
+  "date": "2026-04-07T09:40:11",
+  "languages": {
+    "C": 7188572,
+    "Shell": 782453,
+    "M4": 677984,
+    "C++": 660308,
+    "Makefile": 296561,
+    "Groovy": 80374,
+    "Perl": 47441,
+    "Augeas": 7655,
+    "Smarty": 2199,
+    "Batchfile": 1337,
+    "HTML": 689
+  },
+  "size": 9745573
+}

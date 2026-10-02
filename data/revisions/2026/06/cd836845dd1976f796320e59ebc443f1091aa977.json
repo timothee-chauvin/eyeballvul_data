@@ -1,0 +1,13 @@
+{
+  "commit": "cd836845dd1976f796320e59ebc443f1091aa977",
+  "repo_url": "https://github.com/langchain4j/langchain4j",
+  "date": "2026-06-05T15:46:56",
+  "languages": {
+    "Java": 14337851,
+    "Kotlin": 70391,
+    "Shell": 17474,
+    "Makefile": 420,
+    "Python": 54
+  },
+  "size": 14426190
+}

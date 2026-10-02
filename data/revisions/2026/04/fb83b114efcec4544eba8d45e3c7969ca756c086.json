@@ -1,0 +1,19 @@
+{
+  "commit": "fb83b114efcec4544eba8d45e3c7969ca756c086",
+  "repo_url": "https://github.com/simdjson/simdjson",
+  "date": "2026-04-03T19:26:12",
+  "languages": {
+    "C++": 13626826,
+    "HTML": 182835,
+    "C": 119443,
+    "CMake": 81369,
+    "Shell": 52852,
+    "Python": 50140,
+    "Rust": 12678,
+    "Dockerfile": 2392,
+    "Ruby": 666,
+    "JavaScript": 502,
+    "Makefile": 301
+  },
+  "size": 14130004
+}

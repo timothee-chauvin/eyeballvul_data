@@ -1,0 +1,14 @@
+{
+  "commit": "aae81f053aa541b4fe29700578462421c536d3c8",
+  "repo_url": "https://github.com/definetlynotai/logicytics",
+  "date": "2024-09-24T10:12:00",
+  "languages": {
+    "Python": 79792,
+    "HTML": 29545,
+    "CSS": 4727,
+    "PowerShell": 4646,
+    "Batchfile": 332,
+    "Dockerfile": 264
+  },
+  "size": 119306
+}

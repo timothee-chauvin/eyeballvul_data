@@ -1,0 +1,15 @@
+{
+  "commit": "7a840ff97e1f685f778210818933e6da0dac22c2",
+  "repo_url": "https://github.com/bsv-blockchain/ts-stack",
+  "date": "2026-07-04T03:40:29",
+  "languages": {
+    "HTML": 14167455,
+    "TypeScript": 14067161,
+    "JavaScript": 270874,
+    "CSS": 23234,
+    "Shell": 11613,
+    "Dockerfile": 10547,
+    "EJS": 4282
+  },
+  "size": 28555166
+}

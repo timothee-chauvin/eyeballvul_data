@@ -1,0 +1,15 @@
+{
+  "commit": "2e18e589f847b71c7dc17d987e3be4096249f59c",
+  "repo_url": "https://github.com/mineadmin/mineadmin",
+  "date": "2025-09-24T03:10:28",
+  "languages": {
+    "PHP": 379695,
+    "TypeScript": 299445,
+    "Vue": 288496,
+    "SCSS": 30218,
+    "JavaScript": 5059,
+    "HTML": 3686,
+    "Dockerfile": 2847
+  },
+  "size": 1009446
+}

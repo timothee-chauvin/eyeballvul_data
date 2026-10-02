@@ -1,0 +1,18 @@
+{
+  "commit": "17b6b673f9fe6ff7de58d8c886df0e5eae8cb16c",
+  "repo_url": "https://github.com/damianvtran/local-operator",
+  "date": "2026-09-05T06:50:33",
+  "languages": {
+    "Python": 25355278,
+    "TypeScript": 592658,
+    "JavaScript": 138566,
+    "CSS": 54577,
+    "Shell": 31544,
+    "HTML": 10294,
+    "Makefile": 6595,
+    "Objective-C": 5830,
+    "Dockerfile": 1260,
+    "Nix": 583
+  },
+  "size": 26197185
+}

@@ -1,0 +1,33 @@
+{
+  "commit": "ab0fd795a98a34615b44365673fb87498a05daa5",
+  "repo_url": "https://github.com/shrec/ultrafastsecp256k1",
+  "date": "2026-06-10T14:26:19",
+  "languages": {
+    "C++": 34038897,
+    "Python": 2645223,
+    "Cuda": 1528021,
+    "C": 1031393,
+    "CMake": 569429,
+    "Shell": 331175,
+    "Objective-C++": 186636,
+    "PowerShell": 103864,
+    "Rust": 100598,
+    "C#": 97906,
+    "JavaScript": 97659,
+    "Assembly": 85328,
+    "Dart": 82314,
+    "Metal": 70818,
+    "Java": 61483,
+    "Swift": 60985,
+    "PHP": 58122,
+    "Ruby": 47940,
+    "Go": 45802,
+    "Objective-C": 42049,
+    "Kotlin": 8489,
+    "Lean": 7505,
+    "Dockerfile": 2419,
+    "Batchfile": 2237,
+    "Makefile": 467
+  },
+  "size": 41306759
+}

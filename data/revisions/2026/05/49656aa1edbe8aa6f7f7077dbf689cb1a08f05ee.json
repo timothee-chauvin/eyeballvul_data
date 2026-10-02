@@ -1,0 +1,14 @@
+{
+  "commit": "49656aa1edbe8aa6f7f7077dbf689cb1a08f05ee",
+  "repo_url": "https://github.com/coollabsio/coolify",
+  "date": "2026-05-18T08:59:37",
+  "languages": {
+    "PHP": 7153124,
+    "Blade": 1679952,
+    "Shell": 126406,
+    "JavaScript": 64333,
+    "CSS": 19453,
+    "Dockerfile": 18445
+  },
+  "size": 9061713
+}

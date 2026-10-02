@@ -1,0 +1,17 @@
+{
+  "commit": "8aa274c71a59170381fcf2ddef9d5907f3076e11",
+  "repo_url": "https://github.com/mobilitydb/mobilitydb",
+  "date": "2026-05-01T15:08:36",
+  "languages": {
+    "C": 9728245,
+    "PLSQL": 859828,
+    "PLpgSQL": 781316,
+    "CMake": 106731,
+    "Yacc": 20482,
+    "Makefile": 5587,
+    "Lex": 3428,
+    "Shell": 3336,
+    "Dockerfile": 1846
+  },
+  "size": 11510799
+}

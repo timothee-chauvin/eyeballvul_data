@@ -1,0 +1,18 @@
+{
+  "id": "PYSEC-2026-4009",
+  "published": "2026-09-05T07:43:59",
+  "modified": "2026-09-30T16:46:03.260718",
+  "details": "The `/v1/agents/import` endpoint and `AgentRegistry.import_agent()` in local-operator versions before 0.47.5 trust the `id` field inside `agent.yml` of an uploaded agent profile archive when constructing the destination directory. A crafted `id` containing directory traversal sequences makes `shutil.rmtree` and `shutil.copy2` operate outside the agent registry, allowing an unauthenticated client with network access to the API to recursively delete arbitrary directories and write files with the privileges of the server process. Even without traversal, an imported archive could overwrite or delete existing local agent profiles.\n\nVersion 0.47.5 assigns a fresh server-generated identifier to every imported profile, never derives a filesystem path from archive metadata, creates destination directories exclusively, and binds `lop serve` to 127.0.0.1 by default.\n\n",
+  "summary": "Path traversal and arbitrary directory deletion/overwrite via agent profile import in local-operator",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:H"
+    }
+  ],
+  "repo_url": "https://github.com/damianvtran/local-operator",
+  "cwes": [],
+  "commits": [
+    "17b6b673f9fe6ff7de58d8c886df0e5eae8cb16c"
+  ]
+}

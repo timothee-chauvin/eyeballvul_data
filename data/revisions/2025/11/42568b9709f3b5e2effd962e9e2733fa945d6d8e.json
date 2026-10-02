@@ -1,0 +1,13 @@
+{
+  "commit": "42568b9709f3b5e2effd962e9e2733fa945d6d8e",
+  "repo_url": "https://github.com/rojo-rbx/rojo",
+  "date": "2025-11-27T20:10:57",
+  "languages": {
+    "Rust": 565421,
+    "CSS": 2710,
+    "Shell": 190,
+    "Emacs Lisp": 116,
+    "MoonScript": 21
+  },
+  "size": 568458
+}

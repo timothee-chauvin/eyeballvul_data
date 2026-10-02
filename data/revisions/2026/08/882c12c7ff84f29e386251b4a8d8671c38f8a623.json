@@ -1,0 +1,17 @@
+{
+  "commit": "882c12c7ff84f29e386251b4a8d8671c38f8a623",
+  "repo_url": "https://github.com/tobychui/zoraxy",
+  "date": "2026-08-06T04:34:46",
+  "languages": {
+    "HTML": 3054841,
+    "Go": 1844273,
+    "CSS": 1754767,
+    "JavaScript": 1553398,
+    "Shell": 5644,
+    "Python": 3429,
+    "Dockerfile": 2236,
+    "Makefile": 1803,
+    "Nix": 1654
+  },
+  "size": 8222045
+}

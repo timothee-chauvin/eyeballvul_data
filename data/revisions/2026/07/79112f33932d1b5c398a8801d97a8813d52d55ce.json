@@ -1,0 +1,15 @@
+{
+  "commit": "79112f33932d1b5c398a8801d97a8813d52d55ce",
+  "repo_url": "https://github.com/foundation50/classroom50",
+  "date": "2026-07-20T17:29:00",
+  "languages": {
+    "TypeScript": 3449713,
+    "Go": 1690602,
+    "Python": 734337,
+    "JavaScript": 20704,
+    "CSS": 9598,
+    "HTML": 1059,
+    "C": 89
+  },
+  "size": 5906102
+}

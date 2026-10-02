@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-1125",
+  "published": "2026-08-08T00:10:15.290101",
+  "modified": "2026-08-08T00:10:15.290401",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=543352138\n\n```\nCrash type: Segv on unknown address\nCrash state:\nmatch_many_CHARACTER_REV\ncount_one\nbasic_match\n```\n",
+  "summary": "Segv on unknown address in match_many_CHARACTER_REV",
+  "repo_url": "https://github.com/mrabarnett/mrab-regex",
+  "cwes": [],
+  "commits": [
+    "85e568c0e0be620b4ebe50c98ea92415f5995ffc"
+  ]
+}

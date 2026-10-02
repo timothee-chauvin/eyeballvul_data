@@ -1,0 +1,13 @@
+{
+  "commit": "1935d6dcb8975f2d7a51aaafe61538d157224623",
+  "repo_url": "https://github.com/arkq/bluez-alsa",
+  "date": "2026-08-27T04:46:51",
+  "languages": {
+    "C": 1624141,
+    "M4": 22356,
+    "Shell": 15590,
+    "Makefile": 14121,
+    "Python": 11709
+  },
+  "size": 1687917
+}

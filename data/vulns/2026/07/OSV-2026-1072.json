@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-1072",
+  "published": "2026-07-28T07:18:10.533835",
+  "modified": "2026-07-28T07:18:10.534084",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=539159630\n\n```\nCrash type: UNKNOWN READ\nCrash state:\n_regex.cpython-311-x86_64-linux-gnu.so\n_regex.cpython-311-x86_64-linux-gnu.so\n_regex.cpython-311-x86_64-linux-gnu.so\n```\n",
+  "summary": "UNKNOWN READ in _regex.cpython-311-x86_64-linux-gnu.so",
+  "repo_url": "https://github.com/mrabarnett/mrab-regex",
+  "cwes": [],
+  "commits": [
+    "85e568c0e0be620b4ebe50c98ea92415f5995ffc"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "430c9729e18ac2593d9b085a537a664147e5786f",
+  "repo_url": "https://github.com/denisidoro/navi",
+  "date": "2023-12-10T09:37:30",
+  "languages": {
+    "Rust": 103880,
+    "Shell": 16791,
+    "Elvish": 704,
+    "Makefile": 181
+  },
+  "size": 121556
+}

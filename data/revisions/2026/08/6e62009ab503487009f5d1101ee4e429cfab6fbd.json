@@ -1,0 +1,20 @@
+{
+  "commit": "6e62009ab503487009f5d1101ee4e429cfab6fbd",
+  "repo_url": "https://github.com/datadrivenconstruction/openconstructionerp",
+  "date": "2026-08-12T16:18:01",
+  "languages": {
+    "TypeScript": 179544188,
+    "Python": 55587097,
+    "JavaScript": 444894,
+    "HTML": 392430,
+    "CSS": 58199,
+    "Rust": 53358,
+    "Shell": 22485,
+    "PowerShell": 21207,
+    "Makefile": 10446,
+    "HCL": 4876,
+    "NSIS": 1920,
+    "Mako": 635
+  },
+  "size": 236141735
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "5d6b03c8d25062fbc2d171181fe7fa48d19ccb0d",
+  "repo_url": "https://github.com/facebookexperimental/moxygen",
+  "date": "2025-08-20T19:58:44",
+  "languages": {
+    "C++": 1228998,
+    "Python": 373126,
+    "CMake": 116606,
+    "JavaScript": 55611,
+    "Shell": 18232,
+    "CSS": 11147,
+    "HTML": 4014,
+    "C": 3286,
+    "Dockerfile": 1714
+  },
+  "size": 1812734
+}

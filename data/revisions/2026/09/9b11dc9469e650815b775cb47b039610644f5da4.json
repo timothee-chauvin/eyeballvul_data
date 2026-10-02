@@ -1,0 +1,13 @@
+{
+  "commit": "9b11dc9469e650815b775cb47b039610644f5da4",
+  "repo_url": "https://github.com/pgsty/silo",
+  "date": "2026-09-03T12:54:40",
+  "languages": {
+    "Go": 9633970,
+    "Shell": 127467,
+    "Makefile": 11116,
+    "Mustache": 6577,
+    "Smarty": 872
+  },
+  "size": 9780002
+}

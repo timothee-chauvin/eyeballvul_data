@@ -1,0 +1,15 @@
+{
+  "commit": "dc49c0187ac54f42a994578d38b1bb8d0708a337",
+  "repo_url": "https://github.com/mongodb/mongo-php-driver",
+  "date": "2026-01-28T09:00:19",
+  "languages": {
+    "PHP": 1788487,
+    "C": 909727,
+    "M4": 114471,
+    "JavaScript": 19625,
+    "Shell": 9461,
+    "Makefile": 5256,
+    "GDB": 190
+  },
+  "size": 2847217
+}

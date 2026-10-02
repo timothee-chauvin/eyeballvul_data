@@ -1,0 +1,27 @@
+{
+  "commit": "bd397139d3725147eb199189e48e0d6d23a15cf7",
+  "repo_url": "https://github.com/pypy/pypy",
+  "date": "2011-04-29T15:42:40",
+  "languages": {
+    "Python": 45245828,
+    "C": 764372,
+    "Assembly": 137165,
+    "HTML": 112964,
+    "C#": 83706,
+    "Java": 74911,
+    "CSS": 37146,
+    "PLSQL": 22886,
+    "Roff": 11837,
+    "Objective-C": 11523,
+    "Standard ML": 8488,
+    "Shell": 3818,
+    "Makefile": 3778,
+    "Batchfile": 3738,
+    "Emacs Lisp": 2461,
+    "C++": 1791,
+    "Vim Script": 1004,
+    "VBScript": 481,
+    "HCL": 155
+  },
+  "size": 46528052
+}

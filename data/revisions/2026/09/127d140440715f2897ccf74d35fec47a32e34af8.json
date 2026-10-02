@@ -1,0 +1,13 @@
+{
+  "commit": "127d140440715f2897ccf74d35fec47a32e34af8",
+  "repo_url": "https://github.com/mongodb/mongo-python-driver",
+  "date": "2026-09-10T14:17:18",
+  "languages": {
+    "Python": 6672025,
+    "C": 202104,
+    "Shell": 36423,
+    "Just": 3945,
+    "Makefile": 103
+  },
+  "size": 6914600
+}

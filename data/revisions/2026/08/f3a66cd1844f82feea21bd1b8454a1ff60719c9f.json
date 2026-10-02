@@ -1,0 +1,20 @@
+{
+  "commit": "f3a66cd1844f82feea21bd1b8454a1ff60719c9f",
+  "repo_url": "https://github.com/unslothai/unsloth",
+  "date": "2026-08-20T16:55:02",
+  "languages": {
+    "Python": 46556691,
+    "TypeScript": 14486258,
+    "PowerShell": 1120797,
+    "Shell": 1090907,
+    "Rust": 1074218,
+    "CSS": 166421,
+    "JavaScript": 43675,
+    "Jinja": 38581,
+    "NSIS": 36224,
+    "HTML": 13834,
+    "Jupyter Notebook": 6657,
+    "Batchfile": 218
+  },
+  "size": 64634481
+}

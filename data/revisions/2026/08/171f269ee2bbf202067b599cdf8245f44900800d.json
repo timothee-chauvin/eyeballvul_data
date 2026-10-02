@@ -1,0 +1,20 @@
+{
+  "commit": "171f269ee2bbf202067b599cdf8245f44900800d",
+  "repo_url": "https://github.com/gimanh/taskview-community",
+  "date": "2026-08-27T18:42:36",
+  "languages": {
+    "TypeScript": 3072389,
+    "Vue": 1029461,
+    "HTML": 369015,
+    "PLpgSQL": 131077,
+    "Swift": 25494,
+    "SCSS": 18111,
+    "Java": 12586,
+    "JavaScript": 12450,
+    "Shell": 6012,
+    "CSS": 3979,
+    "Ruby": 1744,
+    "Dockerfile": 899
+  },
+  "size": 4683217
+}

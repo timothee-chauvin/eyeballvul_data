@@ -1,0 +1,13 @@
+{
+  "commit": "355ee2a1ca85acccce494478991983b54f794f4e",
+  "repo_url": "https://github.com/trusteddomainproject/openarc",
+  "date": "2018-09-21T15:51:23",
+  "languages": {
+    "C": 372846,
+    "M4": 37337,
+    "Roff": 12957,
+    "Shell": 6872,
+    "Makefile": 4692
+  },
+  "size": 434704
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "bc092a8bd435f2048e48aad0bbf187a8b4e9dcaf",
+  "repo_url": "https://github.com/esengine/deepseek-reasonix",
+  "date": "2026-09-27T16:28:15",
+  "languages": {
+    "Go": 23302077,
+    "TypeScript": 3050371,
+    "HTML": 1277332,
+    "JavaScript": 804895,
+    "Python": 517754,
+    "CSS": 496319,
+    "Shell": 165415,
+    "C++": 84708,
+    "Swift": 50902,
+    "PowerShell": 33700,
+    "Batchfile": 19666,
+    "Makefile": 4474,
+    "NSIS": 4350
+  },
+  "size": 29811963
+}

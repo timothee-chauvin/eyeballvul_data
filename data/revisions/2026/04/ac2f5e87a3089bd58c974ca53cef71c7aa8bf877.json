@@ -1,0 +1,12 @@
+{
+  "commit": "ac2f5e87a3089bd58c974ca53cef71c7aa8bf877",
+  "repo_url": "https://github.com/klauspost/compress",
+  "date": "2026-04-30T15:57:39",
+  "languages": {
+    "Go": 2194947,
+    "Assembly": 677675,
+    "Shell": 6508,
+    "Batchfile": 982
+  },
+  "size": 2880112
+}

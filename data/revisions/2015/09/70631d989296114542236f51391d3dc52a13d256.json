@@ -1,0 +1,12 @@
+{
+  "commit": "70631d989296114542236f51391d3dc52a13d256",
+  "repo_url": "https://github.com/openstack-archive/murano",
+  "date": "2015-09-24T07:09:34",
+  "languages": {
+    "Python": 1105678,
+    "Shell": 26452,
+    "PowerShell": 8634,
+    "Mako": 1013
+  },
+  "size": 1141777
+}

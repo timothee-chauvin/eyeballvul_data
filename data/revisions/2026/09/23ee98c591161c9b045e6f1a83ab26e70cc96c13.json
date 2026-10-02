@@ -1,0 +1,16 @@
+{
+  "commit": "23ee98c591161c9b045e6f1a83ab26e70cc96c13",
+  "repo_url": "https://github.com/liberusoftware/crm-laravel",
+  "date": "2026-09-01T05:51:35",
+  "languages": {
+    "PHP": 4820102,
+    "Blade": 337662,
+    "Roff": 235951,
+    "Shell": 44430,
+    "Python": 40333,
+    "CSS": 21611,
+    "Dockerfile": 6235,
+    "JavaScript": 6227
+  },
+  "size": 5512551
+}

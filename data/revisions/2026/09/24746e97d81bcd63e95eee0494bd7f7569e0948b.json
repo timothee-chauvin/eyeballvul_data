@@ -1,0 +1,19 @@
+{
+  "commit": "24746e97d81bcd63e95eee0494bd7f7569e0948b",
+  "repo_url": "https://github.com/getfider/fider",
+  "date": "2026-09-23T18:37:12",
+  "languages": {
+    "Go": 1300858,
+    "TypeScript": 564220,
+    "SCSS": 87293,
+    "HTML": 15011,
+    "JavaScript": 12053,
+    "PLpgSQL": 4880,
+    "Makefile": 4307,
+    "Gherkin": 3312,
+    "Dockerfile": 1702,
+    "Shell": 218,
+    "Procfile": 39
+  },
+  "size": 1993893
+}

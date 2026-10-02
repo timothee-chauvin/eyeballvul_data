@@ -1,0 +1,15 @@
+{
+  "commit": "54a546cec4262f9770d4674a0bfb4ac3c4f05698",
+  "repo_url": "https://github.com/opennmt/ctranslate2",
+  "date": "2026-06-06T18:14:06",
+  "languages": {
+    "C++": 2468050,
+    "Python": 464688,
+    "Cuda": 244115,
+    "CMake": 31593,
+    "Shell": 19850,
+    "Dockerfile": 9032,
+    "C": 1736
+  },
+  "size": 3239064
+}

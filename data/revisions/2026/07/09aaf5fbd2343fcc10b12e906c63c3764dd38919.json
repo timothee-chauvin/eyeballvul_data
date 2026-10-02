@@ -1,0 +1,21 @@
+{
+  "commit": "09aaf5fbd2343fcc10b12e906c63c3764dd38919",
+  "repo_url": "https://github.com/tombursch/kitchenowl",
+  "date": "2026-07-26T18:11:46",
+  "languages": {
+    "Dart": 1223643,
+    "Python": 452715,
+    "C++": 25850,
+    "CMake": 19653,
+    "Dockerfile": 7311,
+    "Ruby": 5739,
+    "Shell": 4784,
+    "HTML": 2719,
+    "Swift": 1912,
+    "C": 1425,
+    "Mako": 494,
+    "Kotlin": 125,
+    "Objective-C": 38
+  },
+  "size": 1746408
+}

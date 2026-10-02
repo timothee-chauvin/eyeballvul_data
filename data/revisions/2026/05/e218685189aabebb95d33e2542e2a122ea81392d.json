@@ -1,0 +1,13 @@
+{
+  "commit": "e218685189aabebb95d33e2542e2a122ea81392d",
+  "repo_url": "https://github.com/google/fuse-archive",
+  "date": "2026-05-24T05:07:13",
+  "languages": {
+    "C++": 177909,
+    "Python": 139203,
+    "Roff": 25580,
+    "Makefile": 6536,
+    "Shell": 1915
+  },
+  "size": 351143
+}
