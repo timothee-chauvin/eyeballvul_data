@@ -1,0 +1,19 @@
+{
+  "commit": "89cd26c4c56e4218c72c46db29f77e616219d453",
+  "repo_url": "https://github.com/utmstack/utmstack",
+  "date": "2026-09-29T22:34:40",
+  "languages": {
+    "TypeScript": 3121158,
+    "Java": 2896853,
+    "HTML": 1935302,
+    "Go": 1783110,
+    "CSS": 552358,
+    "SCSS": 251780,
+    "PLpgSQL": 99474,
+    "Dockerfile": 5614,
+    "Python": 3292,
+    "Shell": 3063,
+    "JavaScript": 1778
+  },
+  "size": 10653782
+}

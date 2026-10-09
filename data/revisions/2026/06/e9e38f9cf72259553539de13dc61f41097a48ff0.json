@@ -1,0 +1,13 @@
+{
+  "commit": "e9e38f9cf72259553539de13dc61f41097a48ff0",
+  "repo_url": "https://github.com/trilbymedia/grav-plugin-flex-objects",
+  "date": "2026-06-23T23:06:39",
+  "languages": {
+    "PHP": 174096,
+    "Twig": 32141,
+    "JavaScript": 12289,
+    "SCSS": 1007,
+    "Shell": 482
+  },
+  "size": 220015
+}

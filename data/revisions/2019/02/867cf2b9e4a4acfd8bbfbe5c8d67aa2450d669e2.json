@@ -1,0 +1,12 @@
+{
+  "commit": "867cf2b9e4a4acfd8bbfbe5c8d67aa2450d669e2",
+  "repo_url": "https://github.com/cjbassi/gotop",
+  "date": "2019-02-22T19:53:36",
+  "languages": {
+    "Go": 59818,
+    "C": 24136,
+    "Shell": 2116,
+    "Makefile": 797
+  },
+  "size": 86867
+}

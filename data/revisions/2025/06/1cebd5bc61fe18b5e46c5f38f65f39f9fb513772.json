@@ -1,0 +1,16 @@
+{
+  "commit": "1cebd5bc61fe18b5e46c5f38f65f39f9fb513772",
+  "repo_url": "https://github.com/julep-ai/julep",
+  "date": "2025-06-07T07:25:28",
+  "languages": {
+    "Python": 1961146,
+    "Jupyter Notebook": 558782,
+    "PLpgSQL": 169329,
+    "Shell": 5646,
+    "Dockerfile": 2910,
+    "HTML": 2299,
+    "HCL": 1530,
+    "jq": 571
+  },
+  "size": 2702213
+}

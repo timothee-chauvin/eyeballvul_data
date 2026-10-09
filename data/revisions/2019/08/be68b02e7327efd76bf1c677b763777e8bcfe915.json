@@ -1,0 +1,17 @@
+{
+  "commit": "be68b02e7327efd76bf1c677b763777e8bcfe915",
+  "repo_url": "https://github.com/gatsbyjs/gatsby",
+  "date": "2019-08-26T16:16:22",
+  "languages": {
+    "JavaScript": 3497500,
+    "CSS": 84356,
+    "TypeScript": 61549,
+    "HTML": 61393,
+    "MDX": 8279,
+    "Shell": 7693,
+    "Handlebars": 2201,
+    "EJS": 532,
+    "Vim Snippet": 89
+  },
+  "size": 3723592
+}

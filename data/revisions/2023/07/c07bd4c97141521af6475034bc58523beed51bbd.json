@@ -1,0 +1,16 @@
+{
+  "commit": "c07bd4c97141521af6475034bc58523beed51bbd",
+  "repo_url": "https://github.com/changeweder/crm",
+  "date": "2023-07-21T09:27:13",
+  "languages": {
+    "HTML": 4368105,
+    "JavaScript": 913633,
+    "Java": 194486,
+    "FreeMarker": 113198,
+    "Less": 98833,
+    "CSS": 92190,
+    "SCSS": 79489,
+    "PHP": 1415
+  },
+  "size": 5861349
+}

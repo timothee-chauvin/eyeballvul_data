@@ -1,0 +1,16 @@
+{
+  "commit": "1b2da68b2800f94674dd96f4a986cde30ac88280",
+  "repo_url": "https://github.com/retspen/webvirtcloud",
+  "date": "2026-04-20T08:59:16",
+  "languages": {
+    "JavaScript": 1620588,
+    "Python": 616755,
+    "HTML": 509423,
+    "SCSS": 468477,
+    "CSS": 100789,
+    "Shell": 54320,
+    "Dockerfile": 1779,
+    "Makefile": 871
+  },
+  "size": 3373002
+}

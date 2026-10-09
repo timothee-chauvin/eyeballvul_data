@@ -1,0 +1,15 @@
+{
+  "commit": "737899bf36ed62bc774027f6d14e93028f120bca",
+  "repo_url": "https://github.com/rajnandan1/kener",
+  "date": "2026-09-06T14:12:38",
+  "languages": {
+    "TypeScript": 1312209,
+    "Svelte": 1242456,
+    "CSS": 44787,
+    "JavaScript": 27213,
+    "Dockerfile": 6701,
+    "Shell": 3878,
+    "HTML": 2188
+  },
+  "size": 2639432
+}

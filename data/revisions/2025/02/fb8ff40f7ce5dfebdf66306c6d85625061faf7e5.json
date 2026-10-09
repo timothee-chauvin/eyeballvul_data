@@ -1,0 +1,12 @@
+{
+  "commit": "fb8ff40f7ce5dfebdf66306c6d85625061faf7e5",
+  "repo_url": "https://github.com/pandaxgo/pandax",
+  "date": "2025-02-20T11:09:39",
+  "languages": {
+    "Go": 568289,
+    "Shell": 846,
+    "Dockerfile": 485,
+    "Batchfile": 55
+  },
+  "size": 569675
+}

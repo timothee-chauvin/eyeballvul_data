@@ -1,0 +1,11 @@
+{
+  "commit": "f2632c6d9ed25272987471cdb8b70395c2460bdb",
+  "repo_url": "https://github.com/kokke/tiny-regex-c",
+  "date": "2024-10-25T15:15:40",
+  "languages": {
+    "C": 227390,
+    "Python": 20782,
+    "Makefile": 5460
+  },
+  "size": 253632
+}

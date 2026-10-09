@@ -1,0 +1,16 @@
+{
+  "commit": "d943e75bc0fc8e3b27141979300cd8cbcd1e890d",
+  "repo_url": "https://github.com/0717376/cowork_bench",
+  "date": "2026-08-08T12:40:33",
+  "languages": {
+    "Python": 11398897,
+    "TypeScript": 1181190,
+    "JavaScript": 392750,
+    "HTML": 265199,
+    "Shell": 68919,
+    "Dockerfile": 23368,
+    "TeX": 13790,
+    "CSS": 3052
+  },
+  "size": 13347165
+}

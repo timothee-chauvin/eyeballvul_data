@@ -1,0 +1,16 @@
+{
+  "commit": "7f5cae7f400fa3e64488e3ed4aa48105b246d18b",
+  "repo_url": "https://github.com/hashicorp/boundary",
+  "date": "2024-11-19T00:36:03",
+  "languages": {
+    "Go": 14753806,
+    "PLpgSQL": 1626482,
+    "MDX": 1350247,
+    "HCL": 285659,
+    "Shell": 159127,
+    "Makefile": 28034,
+    "JavaScript": 8141,
+    "Dockerfile": 6483
+  },
+  "size": 18217979
+}

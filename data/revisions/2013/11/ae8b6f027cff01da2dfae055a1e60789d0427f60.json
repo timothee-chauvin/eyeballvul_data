@@ -1,0 +1,15 @@
+{
+  "commit": "ae8b6f027cff01da2dfae055a1e60789d0427f60",
+  "repo_url": "https://github.com/slims/slims7_cendana",
+  "date": "2013-11-21T17:03:56",
+  "languages": {
+    "PHP": 3201035,
+    "JavaScript": 1718283,
+    "CSS": 221507,
+    "Java": 162642,
+    "HTML": 44227,
+    "Hack": 10596,
+    "Makefile": 843
+  },
+  "size": 5359133
+}

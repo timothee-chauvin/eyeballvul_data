@@ -1,0 +1,19 @@
+{
+  "commit": "a4121e53e571d8dc4c4f7bcef723f9f045f2ac60",
+  "repo_url": "https://github.com/chainguard-dev/edu",
+  "date": "2026-04-30T12:09:50",
+  "languages": {
+    "SCSS": 153662,
+    "HTML": 149787,
+    "Python": 79386,
+    "JavaScript": 56378,
+    "Go": 54730,
+    "PHP": 22119,
+    "Shell": 10559,
+    "HCL": 6976,
+    "Makefile": 1104,
+    "Dockerfile": 527,
+    "CSS": 315
+  },
+  "size": 535543
+}

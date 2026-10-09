@@ -1,0 +1,12 @@
+{
+  "commit": "52e764a7d66eac1726fce02ca7bb5a638571801a",
+  "repo_url": "https://github.com/0xshariq/github-mcp-server",
+  "date": "2026-03-25T17:42:47",
+  "languages": {
+    "JavaScript": 345772,
+    "TypeScript": 73496,
+    "Shell": 24413,
+    "Dockerfile": 2870
+  },
+  "size": 446551
+}

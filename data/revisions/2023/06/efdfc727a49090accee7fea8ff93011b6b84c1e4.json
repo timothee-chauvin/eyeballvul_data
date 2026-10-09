@@ -1,0 +1,12 @@
+{
+  "commit": "efdfc727a49090accee7fea8ff93011b6b84c1e4",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-js-contrib",
+  "date": "2023-06-12T19:05:33",
+  "languages": {
+    "TypeScript": 2053023,
+    "JavaScript": 38871,
+    "Shell": 1873,
+    "HTML": 188
+  },
+  "size": 2093955
+}

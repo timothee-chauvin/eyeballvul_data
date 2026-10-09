@@ -1,0 +1,18 @@
+{
+  "commit": "385ba27af7d78ac6ef5d8d096ec7fcfdb59acfa6",
+  "repo_url": "https://github.com/sipcapture/homer",
+  "date": "2026-06-24T13:29:15",
+  "languages": {
+    "Go": 2668803,
+    "TypeScript": 1206277,
+    "JavaScript": 278198,
+    "Shell": 65435,
+    "CSS": 22482,
+    "Lua": 11319,
+    "HTML": 7270,
+    "Makefile": 5061,
+    "Python": 3630,
+    "Dockerfile": 1124
+  },
+  "size": 4269599
+}

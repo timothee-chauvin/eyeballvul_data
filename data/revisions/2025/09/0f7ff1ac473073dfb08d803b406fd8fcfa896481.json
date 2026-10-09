@@ -1,0 +1,16 @@
+{
+  "commit": "0f7ff1ac473073dfb08d803b406fd8fcfa896481",
+  "repo_url": "https://github.com/microsoft/simplechat",
+  "date": "2025-09-12T19:09:07",
+  "languages": {
+    "JavaScript": 1975140,
+    "Python": 1908676,
+    "HTML": 681366,
+    "CSS": 403658,
+    "PowerShell": 71997,
+    "HCL": 33582,
+    "Bicep": 25227,
+    "Dockerfile": 781
+  },
+  "size": 5100427
+}

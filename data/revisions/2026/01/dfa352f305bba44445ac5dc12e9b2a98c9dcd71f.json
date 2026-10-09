@@ -1,0 +1,12 @@
+{
+  "commit": "dfa352f305bba44445ac5dc12e9b2a98c9dcd71f",
+  "repo_url": "https://github.com/manjurulhoque/django-job-portal",
+  "date": "2026-01-01T12:39:17",
+  "languages": {
+    "Python": 6962737,
+    "Dockerfile": 673,
+    "Makefile": 261,
+    "Procfile": 36
+  },
+  "size": 6963707
+}

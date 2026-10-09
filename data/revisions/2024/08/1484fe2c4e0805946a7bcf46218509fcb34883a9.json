@@ -1,0 +1,13 @@
+{
+  "commit": "1484fe2c4e0805946a7bcf46218509fcb34883a9",
+  "repo_url": "https://github.com/erjemin/roll_cms",
+  "date": "2024-08-31T12:53:31",
+  "languages": {
+    "Python": 294733,
+    "Jinja": 39447,
+    "HTML": 25249,
+    "CSS": 10601,
+    "JavaScript": 8609
+  },
+  "size": 378639
+}

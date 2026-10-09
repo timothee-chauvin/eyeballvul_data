@@ -1,0 +1,19 @@
+{
+  "commit": "e6b7f31feadc9dd25db8e3b2dc139efba953bf02",
+  "repo_url": "https://github.com/twentyhq/twenty",
+  "date": "2026-05-18T22:40:37",
+  "languages": {
+    "TypeScript": 58192259,
+    "MDX": 14009511,
+    "JavaScript": 2305990,
+    "Python": 194079,
+    "CSS": 174489,
+    "HTML": 30266,
+    "Shell": 28557,
+    "HCL": 19327,
+    "Dockerfile": 16942,
+    "Smarty": 7607,
+    "Makefile": 3428
+  },
+  "size": 74982455
+}

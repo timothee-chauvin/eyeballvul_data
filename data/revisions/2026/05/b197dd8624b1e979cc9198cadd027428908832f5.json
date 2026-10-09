@@ -1,0 +1,16 @@
+{
+  "commit": "b197dd8624b1e979cc9198cadd027428908832f5",
+  "repo_url": "https://github.com/shaarli/shaarli",
+  "date": "2026-05-28T19:48:40",
+  "languages": {
+    "PHP": 1565686,
+    "HTML": 171690,
+    "JavaScript": 90125,
+    "CSS": 28735,
+    "SCSS": 28110,
+    "Makefile": 6953,
+    "Dockerfile": 4929,
+    "Shell": 20
+  },
+  "size": 1896248
+}

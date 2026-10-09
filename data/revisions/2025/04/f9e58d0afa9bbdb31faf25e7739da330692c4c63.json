@@ -1,0 +1,11 @@
+{
+  "commit": "f9e58d0afa9bbdb31faf25e7739da330692c4c63",
+  "repo_url": "http://github.com/kone-net/go-chat",
+  "date": "2025-04-30T14:11:07",
+  "languages": {
+    "Go": 45815,
+    "Makefile": 1455,
+    "Dockerfile": 270
+  },
+  "size": 47540
+}

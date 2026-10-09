@@ -1,0 +1,18 @@
+{
+  "commit": "0b86b09d5e5adf0433acd43c975951224613a1a6",
+  "repo_url": "https://github.com/ghantakiran/splunk-mcp-integration",
+  "date": "2025-08-04T11:33:54",
+  "languages": {
+    "Python": 8631184,
+    "Shell": 246940,
+    "TypeScript": 143974,
+    "PLpgSQL": 130372,
+    "HCL": 44329,
+    "Dockerfile": 34137,
+    "HTML": 20357,
+    "Makefile": 18912,
+    "Mako": 579,
+    "Smarty": 562
+  },
+  "size": 9271346
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "81faa3a22714d87122663de4ad2f134d59977368",
+  "repo_url": "https://github.com/winsiderss/systeminformer",
+  "date": "2025-05-14T19:22:10",
+  "languages": {
+    "C": 20822651,
+    "C++": 1445671,
+    "C#": 329585,
+    "CMake": 145674,
+    "Batchfile": 16406,
+    "PowerShell": 2923,
+    "Assembly": 560
+  },
+  "size": 22763470
+}

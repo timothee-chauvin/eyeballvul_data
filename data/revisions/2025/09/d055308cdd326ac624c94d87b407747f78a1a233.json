@@ -1,0 +1,11 @@
+{
+  "commit": "d055308cdd326ac624c94d87b407747f78a1a233",
+  "repo_url": "https://github.com/timescale/tiger-gh-mcp-server",
+  "date": "2025-09-18T22:16:59",
+  "languages": {
+    "TypeScript": 18248,
+    "JavaScript": 1079,
+    "Dockerfile": 480
+  },
+  "size": 19807
+}

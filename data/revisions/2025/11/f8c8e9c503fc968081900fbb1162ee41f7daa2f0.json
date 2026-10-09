@@ -1,0 +1,14 @@
+{
+  "commit": "f8c8e9c503fc968081900fbb1162ee41f7daa2f0",
+  "repo_url": "https://github.com/timescale/tiger-slack",
+  "date": "2025-11-18T19:45:50",
+  "languages": {
+    "Python": 44565,
+    "TypeScript": 35089,
+    "Shell": 8849,
+    "JavaScript": 2275,
+    "Just": 1842,
+    "Dockerfile": 1147
+  },
+  "size": 93767
+}

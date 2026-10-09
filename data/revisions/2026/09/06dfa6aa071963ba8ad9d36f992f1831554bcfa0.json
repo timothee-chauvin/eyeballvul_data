@@ -1,0 +1,17 @@
+{
+  "commit": "06dfa6aa071963ba8ad9d36f992f1831554bcfa0",
+  "repo_url": "https://gitlab.com/gitlab-org/modelops/applied-ml/code-suggestions/ai-assist",
+  "date": "2026-09-17T13:52:14",
+  "languages": {
+    "Python": 11642527,
+    "Jinja": 573463,
+    "TypeScript": 236023,
+    "Shell": 57215,
+    "JavaScript": 27001,
+    "Makefile": 11953,
+    "Ruby": 10473,
+    "Dockerfile": 7816,
+    "Smarty": 154
+  },
+  "size": 12566625
+}

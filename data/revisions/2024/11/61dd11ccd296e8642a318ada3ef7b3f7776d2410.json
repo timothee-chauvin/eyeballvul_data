@@ -1,0 +1,16 @@
+{
+  "commit": "61dd11ccd296e8642a318ada3ef7b3f7776d2410",
+  "repo_url": "https://github.com/szluyu99/gin-vue-blog",
+  "date": "2024-11-30T13:58:42",
+  "languages": {
+    "Go": 294035,
+    "Vue": 269049,
+    "JavaScript": 73374,
+    "Smarty": 11595,
+    "CSS": 5024,
+    "Shell": 2848,
+    "Dockerfile": 2820,
+    "HTML": 2579
+  },
+  "size": 661324
+}

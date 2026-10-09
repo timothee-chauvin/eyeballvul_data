@@ -1,0 +1,11 @@
+{
+  "commit": "215f0cc4ed0c21ce028246c19ebfa32f5b3f7848",
+  "repo_url": "https://github.com/simon-ami/win-cli-mcp-server",
+  "date": "2025-06-25T13:54:59",
+  "languages": {
+    "JavaScript": 30134,
+    "TypeScript": 29033,
+    "Dockerfile": 858
+  },
+  "size": 60025
+}

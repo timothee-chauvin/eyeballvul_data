@@ -1,0 +1,14 @@
+{
+  "commit": "f72cf46f601efb2a0618c3814cc2f61380b38930",
+  "repo_url": "https://github.com/light0011/cms",
+  "date": "2015-06-13T01:15:27",
+  "languages": {
+    "JavaScript": 1583632,
+    "PHP": 1392353,
+    "CSS": 118814,
+    "Smarty": 94605,
+    "HTML": 87762,
+    "Hack": 1732
+  },
+  "size": 3278898
+}

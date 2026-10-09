@@ -1,0 +1,11 @@
+{
+  "commit": "0754f129bb3907262835f83186d0f651e1b2ea23",
+  "repo_url": "https://github.com/kubev2v/assisted-migration-agent",
+  "date": "2026-03-30T10:46:54",
+  "languages": {
+    "Go": 1052922,
+    "Makefile": 14239,
+    "Dockerfile": 4991
+  },
+  "size": 1072152
+}

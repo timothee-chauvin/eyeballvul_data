@@ -1,0 +1,15 @@
+{
+  "commit": "2b50299708105c45ea9a6acc9b83d68377b76f55",
+  "repo_url": "https://github.com/burst-statistics/burst-statistics",
+  "date": "2026-09-17T07:58:54",
+  "languages": {
+    "PHP": 2406515,
+    "JavaScript": 1393633,
+    "TypeScript": 1152375,
+    "CSS": 150799,
+    "HTML": 32754,
+    "Shell": 10967,
+    "SCSS": 10425
+  },
+  "size": 5157468
+}

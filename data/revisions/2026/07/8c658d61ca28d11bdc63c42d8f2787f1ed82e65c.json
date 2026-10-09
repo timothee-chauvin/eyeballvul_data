@@ -1,0 +1,14 @@
+{
+  "commit": "8c658d61ca28d11bdc63c42d8f2787f1ed82e65c",
+  "repo_url": "https://github.com/awslabs/loom",
+  "date": "2026-07-10T03:12:18",
+  "languages": {
+    "Python": 1588140,
+    "TypeScript": 1161728,
+    "Makefile": 27823,
+    "CSS": 11780,
+    "Dockerfile": 1711,
+    "HTML": 364
+  },
+  "size": 2791546
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "6315dfde7df0a15aaf743f88d91347115e09ba23",
+  "repo_url": "https://github.com/aerostackdev/aerostack-mcp",
+  "date": "2026-05-12T01:45:22",
+  "languages": {
+    "TypeScript": 7832551,
+    "JavaScript": 100389,
+    "Python": 5918,
+    "Shell": 3056
+  },
+  "size": 7941914
+}

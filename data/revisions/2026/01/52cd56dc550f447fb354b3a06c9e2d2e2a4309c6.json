@@ -1,0 +1,14 @@
+{
+  "commit": "52cd56dc550f447fb354b3a06c9e2d2e2a4309c6",
+  "repo_url": "https://github.com/discord/libdave",
+  "date": "2026-01-30T00:16:17",
+  "languages": {
+    "C++": 259613,
+    "C": 62410,
+    "CMake": 15240,
+    "TypeScript": 7685,
+    "Makefile": 4327,
+    "JavaScript": 881
+  },
+  "size": 350156
+}

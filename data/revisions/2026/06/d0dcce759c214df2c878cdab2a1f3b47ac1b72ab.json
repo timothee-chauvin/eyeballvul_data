@@ -1,0 +1,15 @@
+{
+  "commit": "d0dcce759c214df2c878cdab2a1f3b47ac1b72ab",
+  "repo_url": "https://github.com/canonical/maas",
+  "date": "2026-06-29T14:38:29",
+  "languages": {
+    "Python": 18814299,
+    "PLpgSQL": 547268,
+    "Go": 113463,
+    "Shell": 105318,
+    "Makefile": 17879,
+    "HTML": 3754,
+    "Dockerfile": 1040
+  },
+  "size": 19603021
+}

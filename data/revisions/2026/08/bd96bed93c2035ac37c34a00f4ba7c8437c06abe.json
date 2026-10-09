@@ -1,0 +1,18 @@
+{
+  "commit": "bd96bed93c2035ac37c34a00f4ba7c8437c06abe",
+  "repo_url": "https://github.com/microsoft/msquic",
+  "date": "2026-08-26T19:52:12",
+  "languages": {
+    "C": 5653771,
+    "C++": 2466397,
+    "Rust": 721083,
+    "C#": 503167,
+    "PowerShell": 401269,
+    "CMake": 173164,
+    "Roff": 167753,
+    "Batchfile": 30778,
+    "Shell": 23544,
+    "Dockerfile": 14074
+  },
+  "size": 10155000
+}

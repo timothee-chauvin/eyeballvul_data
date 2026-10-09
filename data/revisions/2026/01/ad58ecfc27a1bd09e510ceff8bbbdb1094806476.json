@@ -1,0 +1,17 @@
+{
+  "commit": "ad58ecfc27a1bd09e510ceff8bbbdb1094806476",
+  "repo_url": "https://github.com/libsdl-org/sdl_image",
+  "date": "2026-01-21T21:58:31",
+  "languages": {
+    "C": 8840119,
+    "C++": 735976,
+    "Perl": 154175,
+    "CMake": 145006,
+    "Python": 108659,
+    "Objective-C": 19440,
+    "Shell": 7759,
+    "Makefile": 6341,
+    "Assembly": 2358
+  },
+  "size": 10019833
+}

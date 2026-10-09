@@ -1,0 +1,16 @@
+{
+  "commit": "ac94df78493ee6fede286620d94f724e46b4d238",
+  "repo_url": "https://github.com/samsung/escargot",
+  "date": "2026-08-24T08:35:10",
+  "languages": {
+    "C++": 7959119,
+    "Python": 402523,
+    "JavaScript": 198501,
+    "Java": 136648,
+    "CMake": 114237,
+    "C": 11031,
+    "Shell": 9978,
+    "Batchfile": 1828
+  },
+  "size": 8833865
+}

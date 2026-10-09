@@ -1,0 +1,14 @@
+{
+  "commit": "0ecb9c48edbf98dc7e934b54fbac43869e64b4cf",
+  "repo_url": "https://github.com/kagisearch/smallweb",
+  "date": "2026-08-03T14:05:19",
+  "languages": {
+    "Python": 104189,
+    "JavaScript": 91248,
+    "HTML": 87799,
+    "CSS": 57369,
+    "Shell": 8702,
+    "Dockerfile": 895
+  },
+  "size": 350202
+}

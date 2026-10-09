@@ -1,0 +1,12 @@
+{
+  "commit": "5e3298aa7d92ecc7bfe054e19a7d94af25dcce30",
+  "repo_url": "https://github.com/habanaai/gaudi-container-runtime",
+  "date": "2026-01-14T15:02:17",
+  "languages": {
+    "Go": 184949,
+    "Makefile": 6119,
+    "Dockerfile": 2588,
+    "Shell": 286
+  },
+  "size": 193942
+}

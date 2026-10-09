@@ -1,0 +1,18 @@
+{
+  "commit": "e6a9f504e639936308523bbdf5fbb1f705c6f577",
+  "repo_url": "https://github.com/edx/configuration",
+  "date": "2018-07-03T14:15:26",
+  "languages": {
+    "Python": 382356,
+    "Jinja": 299307,
+    "Shell": 106216,
+    "Dockerfile": 47753,
+    "Groovy": 7165,
+    "Makefile": 7018,
+    "Vim Script": 1123,
+    "C": 1034,
+    "SCSS": 279,
+    "JavaScript": 42
+  },
+  "size": 852293
+}

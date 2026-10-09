@@ -1,0 +1,20 @@
+{
+  "commit": "2ca2fc1d5cf5db11a6b8c18f31f51bb9ee8469d5",
+  "repo_url": "https://github.com/eclipse-ditto/ditto",
+  "date": "2026-07-28T18:14:58",
+  "languages": {
+    "Java": 31621730,
+    "TypeScript": 461964,
+    "HTML": 118641,
+    "JavaScript": 66372,
+    "Scala": 48242,
+    "Smarty": 19369,
+    "Shell": 12909,
+    "SCSS": 7308,
+    "Groovy": 3322,
+    "Mustache": 2261,
+    "Dockerfile": 1592,
+    "FreeMarker": 1419
+  },
+  "size": 32365129
+}

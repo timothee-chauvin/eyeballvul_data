@@ -1,0 +1,14 @@
+{
+  "commit": "2aa6d0d770546fb36dd8714801c373060e4dd912",
+  "repo_url": "https://github.com/ilya-zlobintsev/lact",
+  "date": "2026-08-12T06:50:26",
+  "languages": {
+    "Rust": 1061975,
+    "Fluent": 347182,
+    "CSS": 37336,
+    "Shell": 7339,
+    "Makefile": 2327,
+    "Dockerfile": 1395
+  },
+  "size": 1457554
+}

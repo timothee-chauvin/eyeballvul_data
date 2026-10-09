@@ -1,0 +1,25 @@
+{
+  "commit": "b8817c14065c23159dcf52849f0bdcd12516c43e",
+  "repo_url": "https://github.com/posthog/posthog",
+  "date": "2024-09-19T19:35:59",
+  "languages": {
+    "Python": 17769075,
+    "TypeScript": 14016690,
+    "Rust": 900076,
+    "C++": 660780,
+    "SCSS": 269210,
+    "HTML": 94653,
+    "JavaScript": 88320,
+    "Shell": 75616,
+    "Go": 37808,
+    "Perl": 35898,
+    "MDX": 29772,
+    "ANTLR": 23107,
+    "Dockerfile": 12947,
+    "PLpgSQL": 9521,
+    "EJS": 4579,
+    "Smarty": 1517,
+    "C": 285
+  },
+  "size": 34029854
+}

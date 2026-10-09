@@ -1,0 +1,20 @@
+{
+  "commit": "f617f6c76a035a1b2a83cc19cb2bc2802a68f0a6",
+  "repo_url": "https://github.com/uptrace/uptrace",
+  "date": "2026-06-14T05:49:11",
+  "languages": {
+    "Go": 1326130,
+    "Vue": 850037,
+    "TypeScript": 212856,
+    "HTML": 44566,
+    "Python": 9350,
+    "Shell": 5941,
+    "JavaScript": 4765,
+    "SCSS": 4465,
+    "Makefile": 3055,
+    "Ragel": 2749,
+    "Ruby": 2438,
+    "Dockerfile": 914
+  },
+  "size": 2467266
+}

@@ -1,0 +1,25 @@
+{
+  "commit": "84daed541609cb7b46854cc6672a275d1007e295",
+  "repo_url": "https://github.com/uyanki/board-stm32f103rc-berial",
+  "date": "2023-11-27T14:36:34",
+  "languages": {
+    "C": 96632597,
+    "GLSL": 5626991,
+    "Assembly": 4063077,
+    "C++": 3201099,
+    "Jupyter Notebook": 1991353,
+    "HTML": 1174440,
+    "Python": 399300,
+    "Pascal": 61102,
+    "Verilog": 14995,
+    "MATLAB": 9450,
+    "Processing": 7287,
+    "CSS": 6464,
+    "Roff": 6111,
+    "Makefile": 4033,
+    "Batchfile": 3293,
+    "Stata": 359,
+    "Shell": 70
+  },
+  "size": 113202021
+}

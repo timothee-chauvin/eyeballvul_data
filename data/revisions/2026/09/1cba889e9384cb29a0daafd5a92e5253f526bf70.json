@@ -1,0 +1,16 @@
+{
+  "commit": "1cba889e9384cb29a0daafd5a92e5253f526bf70",
+  "repo_url": "https://github.com/crocoblock/jetformbuilder",
+  "date": "2026-09-22T13:55:39",
+  "languages": {
+    "PHP": 3771951,
+    "JavaScript": 2429083,
+    "Vue": 269351,
+    "CSS": 64775,
+    "SCSS": 45486,
+    "Hack": 33769,
+    "HTML": 7496,
+    "Shell": 728
+  },
+  "size": 6622639
+}

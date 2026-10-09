@@ -1,0 +1,11 @@
+{
+  "commit": "1802525be27d33e19a9a83c163e331a1d13b1892",
+  "repo_url": "https://github.com/liftoff-sr/cipster",
+  "date": "2025-01-03T17:00:54",
+  "languages": {
+    "C++": 559490,
+    "C": 19721,
+    "CMake": 16390
+  },
+  "size": 595601
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "8c2d24c2ff654451a9c8728e15a7608537f32bea",
+  "repo_url": "https://github.com/lybbn/django-vue-lyadmin",
+  "date": "2024-06-14T05:43:15",
+  "languages": {
+    "JavaScript": 9542201,
+    "Vue": 1431884,
+    "Python": 705199,
+    "CSS": 607280,
+    "SCSS": 16118,
+    "HTML": 14711,
+    "Dockerfile": 469,
+    "Shell": 170
+  },
+  "size": 12318032
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "c4f8b7c3158983d1020af432be1b417b28686736",
+  "repo_url": "https://github.com/hobbesosr/kitten",
+  "date": "2023-05-19T00:40:50",
+  "languages": {
+    "C": 24326553,
+    "Assembly": 278042,
+    "C++": 195905,
+    "Makefile": 119621,
+    "Roff": 34236,
+    "Python": 28726,
+    "Yacc": 14195,
+    "Shell": 8450,
+    "Lex": 6225,
+    "Emacs Lisp": 240
+  },
+  "size": 25012193
+}

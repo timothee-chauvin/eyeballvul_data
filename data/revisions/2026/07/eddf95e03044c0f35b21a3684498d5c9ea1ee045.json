@@ -1,0 +1,12 @@
+{
+  "commit": "eddf95e03044c0f35b21a3684498d5c9ea1ee045",
+  "repo_url": "https://github.com/canonical/postgresql-operator",
+  "date": "2026-07-14T16:43:13",
+  "languages": {
+    "Python": 1712648,
+    "Jinja": 11956,
+    "HCL": 2526,
+    "Shell": 104
+  },
+  "size": 1727234
+}

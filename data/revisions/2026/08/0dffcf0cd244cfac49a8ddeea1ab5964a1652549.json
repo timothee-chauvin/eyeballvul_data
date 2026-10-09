@@ -1,0 +1,13 @@
+{
+  "commit": "0dffcf0cd244cfac49a8ddeea1ab5964a1652549",
+  "repo_url": "https://gitlab.com/ecp-ci/jacamar-ci",
+  "date": "2026-08-18T14:39:57",
+  "languages": {
+    "Go": 1090792,
+    "Makefile": 26561,
+    "Shell": 19337,
+    "Dockerfile": 11350,
+    "Python": 11112
+  },
+  "size": 1159152
+}

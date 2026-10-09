@@ -1,0 +1,14 @@
+{
+  "commit": "589d64b9b7ea6ab4c32ecab41ba6b74f26907940",
+  "repo_url": "https://github.com/zcashfoundation/zebra",
+  "date": "2026-05-01T21:36:00",
+  "languages": {
+    "Rust": 7524520,
+    "Shell": 27148,
+    "Dockerfile": 8279,
+    "HTML": 792,
+    "CSS": 320,
+    "JavaScript": 40
+  },
+  "size": 7561099
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "417b45984267ac9e5a370cc2ad61eb3497cf498f",
+  "repo_url": "https://github.com/crossplane/crossplane-runtime",
+  "date": "2026-05-21T05:35:43",
+  "languages": {
+    "Go": 1025948,
+    "Nix": 9827,
+    "Shell": 6191
+  },
+  "size": 1041966
+}

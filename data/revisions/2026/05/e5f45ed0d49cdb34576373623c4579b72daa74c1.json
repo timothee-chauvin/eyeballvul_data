@@ -1,0 +1,17 @@
+{
+  "commit": "e5f45ed0d49cdb34576373623c4579b72daa74c1",
+  "repo_url": "https://github.com/midday-ai/midday",
+  "date": "2026-05-07T12:53:29",
+  "languages": {
+    "TypeScript": 10695212,
+    "MDX": 343029,
+    "Rust": 29003,
+    "CSS": 24419,
+    "Dockerfile": 6234,
+    "HTML": 2251,
+    "PLpgSQL": 1091,
+    "Shell": 403,
+    "JavaScript": 375
+  },
+  "size": 11102017
+}

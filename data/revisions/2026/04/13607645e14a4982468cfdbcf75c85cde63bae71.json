@@ -1,0 +1,15 @@
+{
+  "commit": "13607645e14a4982468cfdbcf75c85cde63bae71",
+  "repo_url": "https://github.com/datavane/datavines",
+  "date": "2026-04-06T08:50:26",
+  "languages": {
+    "Java": 2718981,
+    "TypeScript": 736042,
+    "Less": 19498,
+    "JavaScript": 19483,
+    "Shell": 6568,
+    "HTML": 2026,
+    "Dockerfile": 1427
+  },
+  "size": 3504025
+}

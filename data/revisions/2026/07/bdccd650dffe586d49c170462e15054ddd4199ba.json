@@ -1,0 +1,17 @@
+{
+  "commit": "bdccd650dffe586d49c170462e15054ddd4199ba",
+  "repo_url": "https://github.com/kunstmaan/kunstmaanbundlescms",
+  "date": "2026-07-27T18:58:38",
+  "languages": {
+    "PHP": 3527521,
+    "JavaScript": 788742,
+    "Twig": 486424,
+    "SCSS": 272662,
+    "CSS": 25520,
+    "Gherkin": 22178,
+    "HTML": 17762,
+    "Shell": 806,
+    "Hack": 792
+  },
+  "size": 5142407
+}

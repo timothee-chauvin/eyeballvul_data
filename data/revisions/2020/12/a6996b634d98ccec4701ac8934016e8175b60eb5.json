@@ -1,0 +1,16 @@
+{
+  "commit": "a6996b634d98ccec4701ac8934016e8175b60eb5",
+  "repo_url": "https://github.com/jcharis/machine-learning-web-apps",
+  "date": "2020-12-12T10:58:52",
+  "languages": {
+    "Jupyter Notebook": 2015020,
+    "HTML": 110949,
+    "Python": 49973,
+    "CSS": 5810,
+    "JavaScript": 2692,
+    "EJS": 2663,
+    "HCL": 663,
+    "Dockerfile": 328
+  },
+  "size": 2188098
+}

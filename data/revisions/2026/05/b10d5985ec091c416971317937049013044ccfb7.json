@@ -1,0 +1,17 @@
+{
+  "commit": "b10d5985ec091c416971317937049013044ccfb7",
+  "repo_url": "https://github.com/kvcache-ai/mooncake",
+  "date": "2026-05-28T05:39:03",
+  "languages": {
+    "C++": 9000414,
+    "Python": 1121739,
+    "C": 159920,
+    "Shell": 155866,
+    "CMake": 138329,
+    "Go": 126484,
+    "Cuda": 97616,
+    "Rust": 78240,
+    "Dockerfile": 8918
+  },
+  "size": 10887526
+}

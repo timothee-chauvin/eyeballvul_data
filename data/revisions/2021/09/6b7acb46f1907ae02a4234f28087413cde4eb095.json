@@ -1,0 +1,15 @@
+{
+  "commit": "6b7acb46f1907ae02a4234f28087413cde4eb095",
+  "repo_url": "https://github.com/quasarframework/quasar",
+  "date": "2021-09-15T13:50:12",
+  "languages": {
+    "JavaScript": 1927061,
+    "CSS": 1429205,
+    "Vue": 1334477,
+    "Sass": 206406,
+    "HTML": 12647,
+    "Shell": 6153,
+    "TypeScript": 3268
+  },
+  "size": 4919217
+}

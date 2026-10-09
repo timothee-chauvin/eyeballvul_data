@@ -1,0 +1,13 @@
+{
+  "commit": "23635f7f7d6eaebd5f40bfa1f5a286fae38c4562",
+  "repo_url": "https://github.com/opendatahub-io/models-as-a-service",
+  "date": "2025-11-24T14:00:16",
+  "languages": {
+    "Shell": 145530,
+    "Go": 66358,
+    "Python": 48021,
+    "Makefile": 4501,
+    "Dockerfile": 604
+  },
+  "size": 265014
+}

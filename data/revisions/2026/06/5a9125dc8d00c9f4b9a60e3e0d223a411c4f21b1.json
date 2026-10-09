@@ -1,0 +1,11 @@
+{
+  "commit": "5a9125dc8d00c9f4b9a60e3e0d223a411c4f21b1",
+  "repo_url": "https://github.com/amazon-ion/ion-python",
+  "date": "2026-06-26T21:54:10",
+  "languages": {
+    "Python": 713223,
+    "C": 62462,
+    "CMake": 932
+  },
+  "size": 776617
+}

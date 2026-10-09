@@ -1,0 +1,13 @@
+{
+  "commit": "f2be89390106129e7ef32a053972bb1fdc5fc1a3",
+  "repo_url": "https://github.com/uniget-org/cli",
+  "date": "2023-10-13T10:15:32",
+  "languages": {
+    "Go": 94781,
+    "Shell": 6861,
+    "Makefile": 3754,
+    "Dockerfile": 2835,
+    "HCL": 257
+  },
+  "size": 108488
+}

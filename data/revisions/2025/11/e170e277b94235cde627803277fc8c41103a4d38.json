@@ -1,0 +1,12 @@
+{
+  "commit": "e170e277b94235cde627803277fc8c41103a4d38",
+  "repo_url": "https://github.com/helloggx/shadcn-vue-mcp",
+  "date": "2025-11-12T11:37:09",
+  "languages": {
+    "TypeScript": 89017,
+    "HTML": 23868,
+    "JavaScript": 2248,
+    "Dockerfile": 870
+  },
+  "size": 116003
+}

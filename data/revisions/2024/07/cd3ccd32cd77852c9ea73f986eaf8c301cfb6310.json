@@ -1,0 +1,13 @@
+{
+  "commit": "cd3ccd32cd77852c9ea73f986eaf8c301cfb6310",
+  "repo_url": "https://github.com/go-tribe/gotribe",
+  "date": "2024-07-10T04:08:24",
+  "languages": {
+    "Go": 157355,
+    "Makefile": 15467,
+    "Shell": 5504,
+    "Dockerfile": 580,
+    "Awk": 314
+  },
+  "size": 179220
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "5cfd2382778837b9f6399080956eee670d00452c",
+  "repo_url": "https://github.com/aaronsb/memory-graph",
+  "date": "2025-12-20T00:16:04",
+  "languages": {
+    "TypeScript": 199665,
+    "JavaScript": 60155,
+    "Shell": 4071,
+    "Dockerfile": 1208
+  },
+  "size": 265099
+}

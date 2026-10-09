@@ -1,0 +1,11 @@
+{
+  "commit": "957c377cb691a4f617db9aba5cc46d90425071e2",
+  "repo_url": "https://github.com/symisc/unqlite",
+  "date": "2024-05-25T05:05:25",
+  "languages": {
+    "C": 4005131,
+    "Python": 4621,
+    "CMake": 1964
+  },
+  "size": 4011716
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "71d3d71fb1ebb8b6420608803e98549cff9e1b8a",
+  "repo_url": "https://github.com/amir20/dozzle",
+  "date": "2026-09-20T21:21:31",
+  "languages": {
+    "Go": 1625827,
+    "Vue": 650033,
+    "TypeScript": 546692,
+    "CSS": 15772,
+    "Shell": 12987,
+    "JavaScript": 9736,
+    "Makefile": 2706,
+    "Dockerfile": 2268,
+    "HTML": 2037
+  },
+  "size": 2868058
+}

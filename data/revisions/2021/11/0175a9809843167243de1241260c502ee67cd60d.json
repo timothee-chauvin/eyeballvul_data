@@ -1,0 +1,15 @@
+{
+  "commit": "0175a9809843167243de1241260c502ee67cd60d",
+  "repo_url": "https://github.com/google/nearby",
+  "date": "2021-11-15T14:34:02",
+  "languages": {
+    "C++": 61845657,
+    "C": 148772,
+    "Objective-C++": 112819,
+    "Objective-C": 94343,
+    "Starlark": 84273,
+    "CMake": 2345,
+    "Python": 1043
+  },
+  "size": 62289252
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "acd8423257a4fe4c84dd8ff51584534bc8170100",
+  "repo_url": "https://github.com/stumpapp/stump",
+  "date": "2026-09-19T22:53:48",
+  "languages": {
+    "TypeScript": 4510211,
+    "Rust": 2535957,
+    "Kotlin": 128006,
+    "Swift": 110558,
+    "CSS": 51896,
+    "JavaScript": 18307,
+    "Shell": 9506,
+    "HTML": 6763,
+    "Dockerfile": 4520,
+    "Nix": 3229,
+    "Ruby": 3186,
+    "PowerShell": 510
+  },
+  "size": 7382649
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "d26d57e952cc61554ea9c54bd676c8f40ed0d84d",
+  "repo_url": "https://github.com/rabbitmq/amqp091-go",
+  "date": "2026-07-21T06:16:44",
+  "languages": {
+    "Go": 705411,
+    "PowerShell": 7282,
+    "Shell": 3257,
+    "Makefile": 2264
+  },
+  "size": 718214
+}

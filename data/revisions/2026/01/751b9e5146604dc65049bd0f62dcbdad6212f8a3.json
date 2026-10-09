@@ -1,0 +1,13 @@
+{
+  "commit": "751b9e5146604dc65049bd0f62dcbdad6212f8a3",
+  "repo_url": "https://github.com/dv0x/creative-ad-agent",
+  "date": "2026-01-25T09:06:45",
+  "languages": {
+    "TypeScript": 215847,
+    "CSS": 4914,
+    "Dockerfile": 1669,
+    "Shell": 722,
+    "HTML": 355
+  },
+  "size": 223507
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "bc7a4a6ad63213880d81a7c44340f81780fab8e9",
+  "repo_url": "https://github.com/olell/uuru",
+  "date": "2025-08-03T18:30:51",
+  "languages": {
+    "JavaScript": 253115,
+    "Python": 92232,
+    "HTML": 32950,
+    "Dockerfile": 2400,
+    "Shell": 311,
+    "CSS": 68
+  },
+  "size": 381076
+}

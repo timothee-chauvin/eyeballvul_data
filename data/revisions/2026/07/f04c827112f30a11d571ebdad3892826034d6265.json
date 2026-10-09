@@ -1,0 +1,16 @@
+{
+  "commit": "f04c827112f30a11d571ebdad3892826034d6265",
+  "repo_url": "https://github.com/openstatushq/openstatus",
+  "date": "2026-07-11T11:55:05",
+  "languages": {
+    "TypeScript": 7783421,
+    "MDX": 1425827,
+    "Go": 254196,
+    "Dockerfile": 22703,
+    "CSS": 15413,
+    "JavaScript": 7381,
+    "Just": 1296,
+    "Shell": 1275
+  },
+  "size": 9511512
+}

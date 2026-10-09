@@ -1,0 +1,15 @@
+{
+  "commit": "90532cdcdd8ae61726c460ff7fc1a248482ef992",
+  "repo_url": "https://github.com/chaterm/chaterm",
+  "date": "2026-06-11T09:46:48",
+  "languages": {
+    "TypeScript": 7605832,
+    "Vue": 2488421,
+    "Less": 74278,
+    "JavaScript": 51642,
+    "CSS": 4318,
+    "Shell": 2913,
+    "HTML": 870
+  },
+  "size": 10228274
+}

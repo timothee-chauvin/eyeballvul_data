@@ -1,0 +1,16 @@
+{
+  "commit": "cc73ca61b113d48ee130d837a7a8b145e41de5ce",
+  "repo_url": "https://github.com/thakeenathees/pocketlang",
+  "date": "2026-01-03T10:43:23",
+  "languages": {
+    "C": 643107,
+    "Python": 26828,
+    "Batchfile": 5568,
+    "Lua": 3373,
+    "Makefile": 2469,
+    "JavaScript": 1940,
+    "Wren": 1297,
+    "Ruby": 1080
+  },
+  "size": 685662
+}

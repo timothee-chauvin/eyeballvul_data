@@ -1,0 +1,14 @@
+{
+  "commit": "ff2e46440699af1324eb25655b622c4a131265bb",
+  "repo_url": "https://github.com/xlang-ai/openagents",
+  "date": "2024-11-18T09:39:28",
+  "languages": {
+    "Python": 771132,
+    "TypeScript": 510576,
+    "Dockerfile": 7080,
+    "CSS": 3224,
+    "JavaScript": 2733,
+    "Shell": 2340
+  },
+  "size": 1297085
+}

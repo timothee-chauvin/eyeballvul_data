@@ -1,0 +1,18 @@
+{
+  "commit": "c247d6a1c55d51178a528708f0cf654a94c93590",
+  "repo_url": "https://github.com/openrundev/openrun",
+  "date": "2026-06-02T01:34:44",
+  "languages": {
+    "Go": 1885472,
+    "CSS": 68164,
+    "HCL": 61825,
+    "JavaScript": 22957,
+    "Shell": 18927,
+    "HTML": 18619,
+    "Starlark": 4858,
+    "Makefile": 4273,
+    "Python": 3792,
+    "Dockerfile": 485
+  },
+  "size": 2089372
+}

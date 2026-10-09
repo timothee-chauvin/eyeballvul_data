@@ -1,0 +1,12 @@
+{
+  "commit": "a132640d0c51e6af899e6abf04d5a793c21ac89d",
+  "repo_url": "https://github.com/expressgateway/express-gateway",
+  "date": "2019-12-01T10:50:08",
+  "languages": {
+    "JavaScript": 661724,
+    "EJS": 1396,
+    "CSS": 982,
+    "Dockerfile": 592
+  },
+  "size": 664694
+}

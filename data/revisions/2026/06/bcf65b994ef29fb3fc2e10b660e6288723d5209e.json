@@ -1,0 +1,14 @@
+{
+  "commit": "bcf65b994ef29fb3fc2e10b660e6288723d5209e",
+  "repo_url": "https://github.com/allegro/ralph",
+  "date": "2026-06-09T08:10:31",
+  "languages": {
+    "Python": 3064047,
+    "HTML": 140629,
+    "SCSS": 77896,
+    "JavaScript": 48465,
+    "Shell": 15534,
+    "Makefile": 4416
+  },
+  "size": 3350987
+}

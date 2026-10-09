@@ -1,0 +1,14 @@
+{
+  "commit": "1ba86b63617e424393769a7f7fa452a871a268dc",
+  "repo_url": "https://github.com/jonssonyan/h-ui",
+  "date": "2026-07-20T10:12:18",
+  "languages": {
+    "Go": 261488,
+    "Vue": 200573,
+    "Shell": 19420,
+    "JavaScript": 4118,
+    "Batchfile": 1423,
+    "Dockerfile": 484
+  },
+  "size": 487506
+}

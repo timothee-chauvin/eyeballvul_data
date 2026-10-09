@@ -1,0 +1,10 @@
+{
+  "commit": "8d586cf5490e12265732e106e0832c3b945cf5f7",
+  "repo_url": "https://github.com/moby/sys",
+  "date": "2026-06-05T13:48:32",
+  "languages": {
+    "Go": 328838,
+    "Makefile": 2423
+  },
+  "size": 331261
+}

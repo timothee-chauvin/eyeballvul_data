@@ -1,0 +1,13 @@
+{
+  "commit": "549f494a9e363f40530149de324b8097de424230",
+  "repo_url": "https://github.com/abdullah1854/mcpgateway",
+  "date": "2026-06-25T13:14:00",
+  "languages": {
+    "TypeScript": 889116,
+    "Python": 37433,
+    "JavaScript": 12346,
+    "Shell": 6420,
+    "Dockerfile": 1355
+  },
+  "size": 946670
+}

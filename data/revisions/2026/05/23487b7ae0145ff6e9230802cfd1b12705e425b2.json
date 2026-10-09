@@ -1,0 +1,13 @@
+{
+  "commit": "23487b7ae0145ff6e9230802cfd1b12705e425b2",
+  "repo_url": "https://github.com/jxxghp/moviepilot",
+  "date": "2026-05-21T23:25:19",
+  "languages": {
+    "Python": 6906531,
+    "Shell": 64708,
+    "JavaScript": 13893,
+    "Dockerfile": 5384,
+    "Mako": 510
+  },
+  "size": 6991026
+}

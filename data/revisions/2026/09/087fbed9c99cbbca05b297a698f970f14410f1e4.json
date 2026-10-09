@@ -1,0 +1,12 @@
+{
+  "commit": "087fbed9c99cbbca05b297a698f970f14410f1e4",
+  "repo_url": "https://github.com/aio-libs/multidict",
+  "date": "2026-09-18T10:49:19",
+  "languages": {
+    "Python": 387508,
+    "C": 256528,
+    "C++": 74115,
+    "Makefile": 1553
+  },
+  "size": 719704
+}

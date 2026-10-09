@@ -1,0 +1,13 @@
+{
+  "commit": "6ec3f89fc4182a87eac7cdaa6d0896d1ca3e8b82",
+  "repo_url": "https://github.com/1hive/gardens-v2",
+  "date": "2024-10-15T08:03:37",
+  "languages": {
+    "JavaScript": 1220512,
+    "TypeScript": 709669,
+    "Solidity": 545550,
+    "Makefile": 12497,
+    "CSS": 3802
+  },
+  "size": 2492030
+}

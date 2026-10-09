@@ -1,0 +1,13 @@
+{
+  "commit": "02fe66a3eefb7ac206da7e467a9c8825e89b52af",
+  "repo_url": "https://github.com/internetarchive/infogami",
+  "date": "2009-02-20T04:52:18",
+  "languages": {
+    "Python": 340881,
+    "JavaScript": 105904,
+    "HTML": 30030,
+    "CSS": 4060,
+    "PLpgSQL": 3002
+  },
+  "size": 483877
+}

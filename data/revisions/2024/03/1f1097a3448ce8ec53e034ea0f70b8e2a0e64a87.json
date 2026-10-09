@@ -1,0 +1,15 @@
+{
+  "commit": "1f1097a3448ce8ec53e034ea0f70b8e2a0e64a87",
+  "repo_url": "https://github.com/kirilkirkov/ecommerce-laravel-bootstrap",
+  "date": "2024-03-03T06:53:41",
+  "languages": {
+    "JavaScript": 5634340,
+    "HTML": 519422,
+    "SCSS": 181381,
+    "PHP": 174001,
+    "Blade": 105695,
+    "CSS": 53273,
+    "Vue": 563
+  },
+  "size": 6668675
+}

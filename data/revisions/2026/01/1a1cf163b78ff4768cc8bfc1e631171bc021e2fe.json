@@ -1,0 +1,17 @@
+{
+  "commit": "1a1cf163b78ff4768cc8bfc1e631171bc021e2fe",
+  "repo_url": "https://github.com/sssd/sssd",
+  "date": "2026-01-14T15:01:42",
+  "languages": {
+    "C": 14201110,
+    "Python": 2385618,
+    "Makefile": 213014,
+    "Smarty": 73378,
+    "M4": 57671,
+    "Shell": 40868,
+    "PowerShell": 4936,
+    "DTrace": 3095,
+    "C++": 506
+  },
+  "size": 16980196
+}

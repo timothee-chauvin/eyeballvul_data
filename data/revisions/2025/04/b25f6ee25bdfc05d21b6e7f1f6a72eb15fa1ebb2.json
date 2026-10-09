@@ -1,0 +1,22 @@
+{
+  "commit": "b25f6ee25bdfc05d21b6e7f1f6a72eb15fa1ebb2",
+  "repo_url": "https://github.com/sezero/mikmod",
+  "date": "2025-04-20T01:55:04",
+  "languages": {
+    "C": 1715712,
+    "M4": 95221,
+    "CMake": 48323,
+    "Makefile": 42771,
+    "TypeScript": 29665,
+    "C++": 16439,
+    "Roff": 15598,
+    "HTML": 11546,
+    "Shell": 6822,
+    "Rez": 6387,
+    "Batchfile": 5514,
+    "Perl": 4625,
+    "AppleScript": 1783,
+    "JavaScript": 916
+  },
+  "size": 2001322
+}

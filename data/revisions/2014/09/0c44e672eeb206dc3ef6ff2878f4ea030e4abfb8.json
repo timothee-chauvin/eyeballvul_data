@@ -1,0 +1,13 @@
+{
+  "commit": "0c44e672eeb206dc3ef6ff2878f4ea030e4abfb8",
+  "repo_url": "https://github.com/jhipster/generator-jhipster",
+  "date": "2014-09-01T10:10:12",
+  "languages": {
+    "Java": 211003,
+    "JavaScript": 132651,
+    "HTML": 73057,
+    "CSS": 1978,
+    "SCSS": 1584
+  },
+  "size": 420273
+}

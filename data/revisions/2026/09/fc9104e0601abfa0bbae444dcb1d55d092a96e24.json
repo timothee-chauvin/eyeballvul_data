@@ -1,0 +1,19 @@
+{
+  "commit": "fc9104e0601abfa0bbae444dcb1d55d092a96e24",
+  "repo_url": "https://github.com/mongodb/mongodb-kubernetes",
+  "date": "2026-09-04T15:05:09",
+  "languages": {
+    "Go": 6637525,
+    "Python": 4356957,
+    "Shell": 608158,
+    "Dockerfile": 490869,
+    "HTML": 51465,
+    "Makefile": 18791,
+    "CSS": 15563,
+    "JavaScript": 6894,
+    "HCL": 1748,
+    "Mustache": 424,
+    "Smarty": 80
+  },
+  "size": 12188474
+}

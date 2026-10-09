@@ -1,0 +1,23 @@
+{
+  "commit": "c002da3bb81f4e87d338d11bf7f6d9bc92409234",
+  "repo_url": "https://github.com/processone/ejabberd",
+  "date": "2026-04-14T14:15:06",
+  "languages": {
+    "Erlang": 5781725,
+    "Shell": 100966,
+    "Elixir": 58283,
+    "TSQL": 56418,
+    "Perl": 30819,
+    "HTML": 26188,
+    "Makefile": 22061,
+    "M4": 20739,
+    "PLpgSQL": 13727,
+    "CSS": 11824,
+    "JavaScript": 7115,
+    "Python": 1585,
+    "Lua": 557,
+    "Batchfile": 303,
+    "Dockerfile": 44
+  },
+  "size": 6132354
+}

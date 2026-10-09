@@ -1,0 +1,17 @@
+{
+  "commit": "587aa1322e0b555525b264071d1a0ff6bb32f2d7",
+  "repo_url": "https://github.com/walinejs/waline",
+  "date": "2022-02-01T12:45:20",
+  "languages": {
+    "JavaScript": 186577,
+    "TypeScript": 79754,
+    "CSS": 53804,
+    "Vue": 25861,
+    "SCSS": 19774,
+    "PLpgSQL": 1720,
+    "Nunjucks": 550,
+    "Dockerfile": 396,
+    "Shell": 125
+  },
+  "size": 368561
+}
