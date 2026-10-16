@@ -1,0 +1,16 @@
+{
+  "commit": "b538b1e1077ff2782cac14f60a75365186696b6a",
+  "repo_url": "https://github.com/razorpay/ifsc",
+  "date": "2026-07-15T09:09:38",
+  "languages": {
+    "HTML": 862772,
+    "PHP": 69890,
+    "Go": 63549,
+    "Ruby": 61169,
+    "JavaScript": 28096,
+    "Shell": 2616,
+    "Smarty": 1969,
+    "Makefile": 424
+  },
+  "size": 1090485
+}

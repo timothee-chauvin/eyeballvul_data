@@ -1,0 +1,20 @@
+{
+  "commit": "64f5176840eeafb4696c84f1928056f1d6dd6519",
+  "repo_url": "https://github.com/kubeflow/hub",
+  "date": "2026-07-10T14:52:57",
+  "languages": {
+    "Go": 4435646,
+    "TypeScript": 2179580,
+    "Python": 796644,
+    "Shell": 68866,
+    "Mustache": 67760,
+    "Makefile": 54130,
+    "JavaScript": 33784,
+    "Dockerfile": 5677,
+    "CSS": 2841,
+    "Starlark": 2674,
+    "SCSS": 1393,
+    "HTML": 1177
+  },
+  "size": 7650172
+}

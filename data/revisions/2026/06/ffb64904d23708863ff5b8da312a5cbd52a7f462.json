@@ -1,0 +1,19 @@
+{
+  "commit": "ffb64904d23708863ff5b8da312a5cbd52a7f462",
+  "repo_url": "https://github.com/paddlepaddle/paddlex",
+  "date": "2026-06-25T04:39:51",
+  "languages": {
+    "Python": 7297889,
+    "C++": 2765864,
+    "CMake": 155824,
+    "XSLT": 151707,
+    "Cuda": 125527,
+    "Shell": 29644,
+    "Batchfile": 9312,
+    "C": 8962,
+    "Dockerfile": 7856,
+    "HTML": 7091,
+    "Jinja": 4420
+  },
+  "size": 10564096
+}

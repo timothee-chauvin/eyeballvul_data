@@ -1,0 +1,13 @@
+{
+  "commit": "93905f057e74d87be7c7d29de40ef917b758db8e",
+  "repo_url": "https://github.com/tensorlayer/tensorlayer",
+  "date": "2021-01-06T02:15:37",
+  "languages": {
+    "Python": 1419118,
+    "Shell": 2421,
+    "Dockerfile": 2044,
+    "Makefile": 715,
+    "Batchfile": 121
+  },
+  "size": 1424419
+}

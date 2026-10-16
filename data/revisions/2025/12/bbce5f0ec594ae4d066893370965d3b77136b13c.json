@@ -1,0 +1,18 @@
+{
+  "commit": "bbce5f0ec594ae4d066893370965d3b77136b13c",
+  "repo_url": "https://github.com/cgns/cgns",
+  "date": "2025-12-31T23:13:35",
+  "languages": {
+    "C": 5192401,
+    "Fortran": 1552676,
+    "Tcl": 482848,
+    "CMake": 79970,
+    "Makefile": 67021,
+    "M4": 58390,
+    "Shell": 42281,
+    "Gnuplot": 9022,
+    "Pascal": 8517,
+    "Batchfile": 6497
+  },
+  "size": 7499623
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "56d8e841e49e1a2263bfb8bb769e8f3769737019",
+  "repo_url": "https://github.com/xhtml2pdf/xhtml2pdf",
+  "date": "2025-02-23T22:53:47",
+  "languages": {
+    "Python": 564427,
+    "HTML": 490473,
+    "CSS": 23028,
+    "Makefile": 1493,
+    "Dockerfile": 601
+  },
+  "size": 1080022
+}

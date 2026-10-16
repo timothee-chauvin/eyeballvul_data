@@ -1,0 +1,17 @@
+{
+  "commit": "d381f219e4fe8800b43c42475971e6385e268ec5",
+  "repo_url": "https://github.com/lowcoder-org/lowcoder",
+  "date": "2024-10-11T10:28:08",
+  "languages": {
+    "TypeScript": 7258375,
+    "HTML": 4138251,
+    "JavaScript": 2342643,
+    "Java": 2210723,
+    "Dockerfile": 12417,
+    "Shell": 8762,
+    "Smarty": 4079,
+    "Less": 3412,
+    "CSS": 358
+  },
+  "size": 15979020
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "d7dbefa58195a8bd249d398906fb09d7c2418b70",
+  "repo_url": "https://github.com/connectbot/cbssh",
+  "date": "2026-05-23T06:00:50",
+  "languages": {
+    "Kotlin": 1369971,
+    "Kaitai Struct": 67890,
+    "Dockerfile": 5307,
+    "Python": 4143,
+    "Shell": 49
+  },
+  "size": 1447360
+}

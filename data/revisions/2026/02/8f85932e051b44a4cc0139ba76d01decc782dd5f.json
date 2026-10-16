@@ -1,0 +1,14 @@
+{
+  "commit": "8f85932e051b44a4cc0139ba76d01decc782dd5f",
+  "repo_url": "https://github.com/risesoft-y9/workflow-engine",
+  "date": "2026-02-03T09:26:17",
+  "languages": {
+    "Java": 25919424,
+    "TypeScript": 275408,
+    "SCSS": 180940,
+    "FreeMarker": 124430,
+    "Dockerfile": 1450,
+    "HTML": 1447
+  },
+  "size": 26503099
+}

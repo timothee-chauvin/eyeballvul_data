@@ -1,0 +1,18 @@
+{
+  "commit": "08872019262282a1fb0cbd817ac8133218aec30d",
+  "repo_url": "https://github.com/opendocman/opendocman",
+  "date": "2026-08-20T05:25:56",
+  "languages": {
+    "PHP": 2111318,
+    "HTML": 1133769,
+    "Shell": 94203,
+    "Roff": 93867,
+    "JavaScript": 88338,
+    "Smarty": 78972,
+    "TypeScript": 39753,
+    "Makefile": 23016,
+    "CSS": 16212,
+    "Dockerfile": 1664
+  },
+  "size": 3681112
+}

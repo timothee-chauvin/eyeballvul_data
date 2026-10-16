@@ -1,0 +1,17 @@
+{
+  "commit": "198b1b10380022617afb2b15fd0c33211b3f0c20",
+  "repo_url": "https://github.com/thclaws/thclaws",
+  "date": "2026-10-06T10:57:17",
+  "languages": {
+    "Rust": 9778008,
+    "TypeScript": 1046777,
+    "JavaScript": 125018,
+    "CSS": 77353,
+    "HTML": 63686,
+    "Dockerfile": 5494,
+    "PowerShell": 4214,
+    "Shell": 4042,
+    "Smarty": 2056
+  },
+  "size": 11106648
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "af5436c9c1c436b1a80f7a23db948bb66128b36e",
+  "repo_url": "https://github.com/hyper-mcp-rs/hyper-mcp",
+  "date": "2026-06-15T14:41:41",
+  "languages": {
+    "Rust": 483678,
+    "HCL": 3005,
+    "Dockerfile": 1027,
+    "Just": 691
+  },
+  "size": 488401
+}

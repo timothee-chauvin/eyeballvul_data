@@ -1,0 +1,11 @@
+{
+  "commit": "2b1a22c5d71755163472d83f7cf1be0ccd6139cd",
+  "repo_url": "https://github.com/eclipse-vertx/vertx-http-proxy",
+  "date": "2026-09-18T08:47:05",
+  "languages": {
+    "Java": 286718,
+    "JavaScript": 6755,
+    "Dockerfile": 434
+  },
+  "size": 293907
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "ea70cdc54d71948c5b8f6bf761980a15ef9f70fe",
+  "repo_url": "https://github.com/paulboersma/praat",
+  "date": "2023-08-23T10:36:53",
+  "languages": {
+    "C": 27254127,
+    "C++": 12548995,
+    "HTML": 632398,
+    "Praat": 436573,
+    "Objective-C": 41497,
+    "Makefile": 18428,
+    "R": 1369
+  },
+  "size": 40933387
+}

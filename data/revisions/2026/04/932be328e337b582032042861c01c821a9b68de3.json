@@ -1,0 +1,12 @@
+{
+  "commit": "932be328e337b582032042861c01c821a9b68de3",
+  "repo_url": "https://github.com/qexo/qexo",
+  "date": "2026-04-05T02:08:17",
+  "languages": {
+    "Python": 591498,
+    "HTML": 553806,
+    "Dockerfile": 1126,
+    "Shell": 627
+  },
+  "size": 1147057
+}

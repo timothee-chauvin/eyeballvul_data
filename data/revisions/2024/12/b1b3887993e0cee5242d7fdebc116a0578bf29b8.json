@@ -1,0 +1,13 @@
+{
+  "commit": "b1b3887993e0cee5242d7fdebc116a0578bf29b8",
+  "repo_url": "https://github.com/sahlberg/libsmb2",
+  "date": "2024-12-16T10:07:42",
+  "languages": {
+    "C": 1315494,
+    "CMake": 26651,
+    "Shell": 7679,
+    "M4": 4762,
+    "Makefile": 3328
+  },
+  "size": 1357914
+}

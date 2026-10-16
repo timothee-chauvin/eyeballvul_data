@@ -1,0 +1,15 @@
+{
+  "commit": "7ff29f2cd35604ad146dadb7466d7c7c83c43e63",
+  "repo_url": "https://github.com/libusb/libusb",
+  "date": "2026-02-22T20:27:50",
+  "languages": {
+    "C": 1236588,
+    "C++": 62171,
+    "M4": 17079,
+    "Makefile": 14288,
+    "Shell": 8111,
+    "PowerShell": 706,
+    "JavaScript": 462
+  },
+  "size": 1339405
+}

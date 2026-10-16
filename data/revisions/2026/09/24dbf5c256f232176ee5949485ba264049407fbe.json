@@ -1,0 +1,24 @@
+{
+  "commit": "24dbf5c256f232176ee5949485ba264049407fbe",
+  "repo_url": "https://github.com/ericlbuehler/mistral.rs",
+  "date": "2026-09-07T22:44:06",
+  "languages": {
+    "Rust": 18177762,
+    "Cuda": 2322801,
+    "Python": 963385,
+    "Metal": 568970,
+    "C++": 222603,
+    "Svelte": 120152,
+    "TypeScript": 48726,
+    "Shell": 36973,
+    "Jinja": 28774,
+    "PowerShell": 22718,
+    "JavaScript": 22182,
+    "CSS": 16827,
+    "C": 9141,
+    "HTML": 4897,
+    "Dockerfile": 1042,
+    "Makefile": 769
+  },
+  "size": 22567722
+}

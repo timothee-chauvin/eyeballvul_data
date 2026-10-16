@@ -1,0 +1,23 @@
+{
+  "commit": "9a9907b557a9e74cb0f7f1afd1ce1396eee59503",
+  "repo_url": "https://github.com/cyrusimap/cyrus-sasl",
+  "date": "2012-10-18T10:45:48",
+  "languages": {
+    "C": 2925165,
+    "Shell": 486032,
+    "Makefile": 67943,
+    "Java": 51624,
+    "Roff": 38659,
+    "HTML": 37979,
+    "Perl": 32560,
+    "Tcl": 13483,
+    "M4": 10332,
+    "XS": 4319,
+    "Rez": 2671,
+    "Raku": 2404,
+    "DIGITAL Command Language": 2311,
+    "Python": 2305,
+    "Clarion": 735
+  },
+  "size": 3678522
+}

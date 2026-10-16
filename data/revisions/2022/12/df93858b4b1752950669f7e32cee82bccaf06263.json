@@ -1,0 +1,15 @@
+{
+  "commit": "df93858b4b1752950669f7e32cee82bccaf06263",
+  "repo_url": "https://github.com/dbt-labs/dbt",
+  "date": "2022-12-15T14:55:23",
+  "languages": {
+    "Python": 3406319,
+    "HTML": 1494302,
+    "Rust": 43990,
+    "Shell": 6205,
+    "Makefile": 4465,
+    "Dockerfile": 3563,
+    "Batchfile": 804
+  },
+  "size": 4959648
+}

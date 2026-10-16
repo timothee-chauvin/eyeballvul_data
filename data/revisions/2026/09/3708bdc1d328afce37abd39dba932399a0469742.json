@@ -1,0 +1,14 @@
+{
+  "commit": "3708bdc1d328afce37abd39dba932399a0469742",
+  "repo_url": "https://github.com/eclipse-vertx/vertx-sql-client",
+  "date": "2026-09-18T08:47:05",
+  "languages": {
+    "Java": 3885739,
+    "PLpgSQL": 22210,
+    "TSQL": 14371,
+    "PLSQL": 6511,
+    "Shell": 3067,
+    "Dockerfile": 509
+  },
+  "size": 3932407
+}

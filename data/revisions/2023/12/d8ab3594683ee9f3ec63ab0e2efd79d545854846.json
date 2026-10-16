@@ -1,0 +1,17 @@
+{
+  "commit": "d8ab3594683ee9f3ec63ab0e2efd79d545854846",
+  "repo_url": "https://github.com/libyal/libpff",
+  "date": "2023-12-05T06:34:03",
+  "languages": {
+    "C": 3954375,
+    "M4": 253748,
+    "Shell": 85676,
+    "Makefile": 38103,
+    "PowerShell": 30145,
+    "Roff": 25799,
+    "Python": 23484,
+    "C++": 7989,
+    "Java": 3436
+  },
+  "size": 4422755
+}

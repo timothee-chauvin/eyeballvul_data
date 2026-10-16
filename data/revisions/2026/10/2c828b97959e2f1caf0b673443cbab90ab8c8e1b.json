@@ -1,0 +1,14 @@
+{
+  "commit": "2c828b97959e2f1caf0b673443cbab90ab8c8e1b",
+  "repo_url": "https://github.com/54yyyu/zotero-mcp",
+  "date": "2026-10-07T21:37:33",
+  "languages": {
+    "Python": 4280833,
+    "TypeScript": 947452,
+    "JavaScript": 372966,
+    "Dockerfile": 1861,
+    "HTML": 942,
+    "Shell": 279
+  },
+  "size": 5604333
+}

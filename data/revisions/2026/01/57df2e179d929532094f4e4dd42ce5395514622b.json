@@ -1,0 +1,18 @@
+{
+  "commit": "57df2e179d929532094f4e4dd42ce5395514622b",
+  "repo_url": "https://github.com/vgmstream/vgmstream",
+  "date": "2026-01-25T16:20:56",
+  "languages": {
+    "C": 12104725,
+    "C++": 164536,
+    "CMake": 87510,
+    "Python": 69802,
+    "Roff": 26526,
+    "Makefile": 13702,
+    "PowerShell": 13080,
+    "Shell": 12710,
+    "M4": 2657,
+    "Batchfile": 2325
+  },
+  "size": 12497573
+}

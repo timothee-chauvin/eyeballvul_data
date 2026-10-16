@@ -1,0 +1,21 @@
+{
+  "commit": "b08e2ebf7204e28c94eb3fdcaf285891bab002a2",
+  "repo_url": "https://github.com/genspark-ai/genoffice",
+  "date": "2026-10-08T08:17:04",
+  "languages": {
+    "TypeScript": 40681869,
+    "CSS": 1059061,
+    "Rust": 961631,
+    "JavaScript": 401549,
+    "Python": 61904,
+    "HTML": 18516,
+    "C#": 12176,
+    "Shell": 9634,
+    "Swift": 4112,
+    "Nix": 3607,
+    "NSIS": 3396,
+    "Dockerfile": 3206,
+    "Batchfile": 197
+  },
+  "size": 43220858
+}

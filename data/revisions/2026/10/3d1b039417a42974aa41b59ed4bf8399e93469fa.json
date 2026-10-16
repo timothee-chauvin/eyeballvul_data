@@ -1,0 +1,12 @@
+{
+  "commit": "3d1b039417a42974aa41b59ed4bf8399e93469fa",
+  "repo_url": "https://github.com/xorbitsai/xoscar",
+  "date": "2026-10-02T13:45:40",
+  "languages": {
+    "Python": 988286,
+    "C++": 169363,
+    "Cython": 98990,
+    "CMake": 4870
+  },
+  "size": 1261509
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "e8b386bcebc8e67c6ada7ec6eff0a5ab1591d7ec",
+  "repo_url": "https://github.com/privasys/ra-tls-clients",
+  "date": "2026-07-09T14:04:39",
+  "languages": {
+    "Rust": 121003,
+    "Go": 100094,
+    "C#": 38651,
+    "TypeScript": 38018,
+    "Python": 36053,
+    "Shell": 6744,
+    "C": 4629
+  },
+  "size": 345192
+}

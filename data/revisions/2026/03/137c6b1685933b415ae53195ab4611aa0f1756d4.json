@@ -1,0 +1,16 @@
+{
+  "commit": "137c6b1685933b415ae53195ab4611aa0f1756d4",
+  "repo_url": "https://github.com/holoviz/panel",
+  "date": "2026-03-26T09:23:16",
+  "languages": {
+    "Python": 3576297,
+    "TypeScript": 542707,
+    "HTML": 93531,
+    "CSS": 86704,
+    "JavaScript": 31675,
+    "Less": 25853,
+    "Jupyter Notebook": 6534,
+    "Shell": 1434
+  },
+  "size": 4364735
+}

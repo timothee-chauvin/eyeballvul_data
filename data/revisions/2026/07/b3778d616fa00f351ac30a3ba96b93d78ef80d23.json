@@ -1,0 +1,16 @@
+{
+  "commit": "b3778d616fa00f351ac30a3ba96b93d78ef80d23",
+  "repo_url": "https://github.com/peazip/peazip",
+  "date": "2026-07-12T09:09:05",
+  "languages": {
+    "Pascal": 7968723,
+    "Inno Setup": 464899,
+    "Batchfile": 139052,
+    "C++": 34872,
+    "Shell": 8469,
+    "C": 6360,
+    "HCL": 2968,
+    "Assembly": 1701
+  },
+  "size": 8627044
+}

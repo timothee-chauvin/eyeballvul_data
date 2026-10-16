@@ -1,0 +1,12 @@
+{
+  "commit": "4f16c26fbd0ca3a36fdb9be065e3eb8c1600ff90",
+  "repo_url": "https://github.com/ludwig-ai/ludwig",
+  "date": "2026-07-04T18:54:32",
+  "languages": {
+    "Python": 6083894,
+    "Jupyter Notebook": 15696,
+    "Dockerfile": 4793,
+    "Shell": 1890
+  },
+  "size": 6106273
+}

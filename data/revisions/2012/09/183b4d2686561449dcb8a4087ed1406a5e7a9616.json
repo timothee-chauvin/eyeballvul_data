@@ -1,0 +1,22 @@
+{
+  "commit": "183b4d2686561449dcb8a4087ed1406a5e7a9616",
+  "repo_url": "https://github.com/gstreamer/gst-plugins-good",
+  "date": "2012-09-24T13:06:42",
+  "languages": {
+    "C": 10027158,
+    "M4": 130605,
+    "Makefile": 100863,
+    "C++": 94363,
+    "Assembly": 58201,
+    "Yacc": 51677,
+    "Objective-C": 49194,
+    "Shell": 26942,
+    "Python": 7465,
+    "Csound": 6054,
+    "Lex": 4234,
+    "Pawn": 1952,
+    "SourcePawn": 774,
+    "POV-Ray SDL": 626
+  },
+  "size": 10560108
+}

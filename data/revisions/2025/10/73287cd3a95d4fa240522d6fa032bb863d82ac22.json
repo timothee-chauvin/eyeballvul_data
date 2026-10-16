@@ -1,0 +1,20 @@
+{
+  "commit": "73287cd3a95d4fa240522d6fa032bb863d82ac22",
+  "repo_url": "https://github.com/vearch/vearch",
+  "date": "2025-10-28T13:21:01",
+  "languages": {
+    "Go": 1088950,
+    "C++": 876909,
+    "Python": 724183,
+    "Rust": 101519,
+    "Java": 92675,
+    "CMake": 28141,
+    "Jupyter Notebook": 23675,
+    "Shell": 12790,
+    "SWIG": 11733,
+    "C": 6220,
+    "Dockerfile": 1329,
+    "Makefile": 726
+  },
+  "size": 2968850
+}

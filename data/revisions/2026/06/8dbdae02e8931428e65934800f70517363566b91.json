@@ -1,0 +1,17 @@
+{
+  "commit": "8dbdae02e8931428e65934800f70517363566b91",
+  "repo_url": "https://github.com/crestalnetwork/intentkit",
+  "date": "2026-06-14T10:56:18",
+  "languages": {
+    "Python": 4397714,
+    "TypeScript": 425166,
+    "Go": 203113,
+    "Shell": 5660,
+    "HTML": 4962,
+    "CSS": 3645,
+    "Dockerfile": 2479,
+    "JavaScript": 235,
+    "Makefile": 120
+  },
+  "size": 5043094
+}

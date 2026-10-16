@@ -1,0 +1,12 @@
+{
+  "commit": "cd72400e9db792bb2707b432f0cda24d3a54437f",
+  "repo_url": "https://github.com/tatsh/bincookie",
+  "date": "2026-05-02T21:05:14",
+  "languages": {
+    "C": 15776,
+    "Kaitai Struct": 2753,
+    "CMake": 1807,
+    "Jsonnet": 1415
+  },
+  "size": 21751
+}

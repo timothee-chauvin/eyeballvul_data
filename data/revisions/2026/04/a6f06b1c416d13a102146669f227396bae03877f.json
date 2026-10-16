@@ -1,0 +1,15 @@
+{
+  "commit": "a6f06b1c416d13a102146669f227396bae03877f",
+  "repo_url": "https://github.com/apache/camel-karavan",
+  "date": "2026-04-03T19:08:15",
+  "languages": {
+    "TypeScript": 6849585,
+    "Java": 618239,
+    "CSS": 328012,
+    "Shell": 7105,
+    "JavaScript": 5508,
+    "Dockerfile": 3588,
+    "HTML": 502
+  },
+  "size": 7812539
+}

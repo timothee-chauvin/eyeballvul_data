@@ -1,0 +1,11 @@
+{
+  "commit": "0667defed30f4bb5f93f282124dc6819266e5344",
+  "repo_url": "https://github.com/codefori/vscode-ibmi",
+  "date": "2025-11-21T10:51:47",
+  "languages": {
+    "TypeScript": 916418,
+    "JavaScript": 2960,
+    "C": 279
+  },
+  "size": 919657
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "e5a3953b0f57c9978c352452fe610920b64bd815",
+  "repo_url": "https://github.com/aorimn/dislocker",
+  "date": "2020-11-17T17:47:37",
+  "languages": {
+    "C": 402717,
+    "CMake": 45648,
+    "Ruby": 8480,
+    "Makefile": 2913,
+    "BitBake": 1146,
+    "Shell": 414
+  },
+  "size": 461318
+}

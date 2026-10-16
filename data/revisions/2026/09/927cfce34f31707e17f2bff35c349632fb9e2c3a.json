@@ -1,0 +1,28 @@
+{
+  "commit": "927cfce34f31707e17f2bff35c349632fb9e2c3a",
+  "repo_url": "https://github.com/ggml-org/whisper.cpp",
+  "date": "2026-09-10T18:00:34",
+  "languages": {
+    "C++": 11575036,
+    "C": 6146846,
+    "Cuda": 2008799,
+    "Metal": 563706,
+    "GLSL": 352396,
+    "CMake": 245754,
+    "WGSL": 224537,
+    "Shell": 217567,
+    "Python": 178625,
+    "Objective-C": 157399,
+    "Ruby": 80950,
+    "Go": 65773,
+    "Java": 61409,
+    "Makefile": 10796,
+    "Dockerfile": 8321,
+    "Batchfile": 6322,
+    "PowerShell": 6293,
+    "Objective-C++": 2224,
+    "JavaScript": 1645,
+    "Assembly": 396
+  },
+  "size": 21914794
+}

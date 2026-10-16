@@ -1,0 +1,15 @@
+{
+  "commit": "f0020448ca87329199de7cb12f2015ebc4a3e5e7",
+  "repo_url": "https://github.com/omacom/omarchy",
+  "date": "2026-08-14T14:57:59",
+  "languages": {
+    "Shell": 1943038,
+    "QML": 1242658,
+    "JavaScript": 157210,
+    "Python": 115993,
+    "Smarty": 98720,
+    "Lua": 59849,
+    "CSS": 2136
+  },
+  "size": 3619604
+}

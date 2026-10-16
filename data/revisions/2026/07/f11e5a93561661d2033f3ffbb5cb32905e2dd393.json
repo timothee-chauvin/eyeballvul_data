@@ -1,0 +1,21 @@
+{
+  "commit": "f11e5a93561661d2033f3ffbb5cb32905e2dd393",
+  "repo_url": "https://github.com/civiform/civiform",
+  "date": "2026-07-06T15:37:57",
+  "languages": {
+    "Java": 8779407,
+    "TypeScript": 2039268,
+    "HTML": 453010,
+    "Python": 163606,
+    "Ruby": 116922,
+    "Shell": 92080,
+    "SCSS": 45553,
+    "Scala": 20315,
+    "JavaScript": 17021,
+    "PLpgSQL": 10024,
+    "Dockerfile": 9622,
+    "CSS": 5443,
+    "Jinja": 1938
+  },
+  "size": 11754209
+}

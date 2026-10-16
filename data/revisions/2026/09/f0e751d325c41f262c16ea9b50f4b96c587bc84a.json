@@ -1,0 +1,14 @@
+{
+  "commit": "f0e751d325c41f262c16ea9b50f4b96c587bc84a",
+  "repo_url": "https://github.com/tanstack/router",
+  "date": "2026-09-27T14:03:11",
+  "languages": {
+    "TypeScript": 17271003,
+    "JavaScript": 235842,
+    "CSS": 69949,
+    "Vue": 19648,
+    "HTML": 19061,
+    "SCSS": 1608
+  },
+  "size": 17617111
+}

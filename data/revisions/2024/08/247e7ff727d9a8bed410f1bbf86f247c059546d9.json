@@ -1,0 +1,15 @@
+{
+  "commit": "247e7ff727d9a8bed410f1bbf86f247c059546d9",
+  "repo_url": "https://github.com/folkertvanheusden/multitail",
+  "date": "2024-08-13T10:49:48",
+  "languages": {
+    "C": 447258,
+    "Roff": 13157,
+    "HTML": 12651,
+    "Makefile": 6961,
+    "CMake": 6406,
+    "Perl": 529,
+    "Shell": 94
+  },
+  "size": 487056
+}

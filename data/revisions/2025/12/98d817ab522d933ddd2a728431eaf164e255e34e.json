@@ -1,0 +1,22 @@
+{
+  "commit": "98d817ab522d933ddd2a728431eaf164e255e34e",
+  "repo_url": "https://github.com/lablup/backend.ai",
+  "date": "2025-12-12T14:15:54",
+  "languages": {
+    "Python": 12713795,
+    "HTML": 138927,
+    "Shell": 106724,
+    "Starlark": 41052,
+    "CSS": 18764,
+    "JavaScript": 12460,
+    "Jinja": 8716,
+    "Roff": 6286,
+    "C": 4242,
+    "Go": 2122,
+    "Java": 1987,
+    "Mako": 1626,
+    "Dockerfile": 961,
+    "Vim Script": 501
+  },
+  "size": 13058163
+}

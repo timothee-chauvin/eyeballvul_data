@@ -1,0 +1,16 @@
+{
+  "commit": "1330ee27d7956889cb4f7d073fb9cf265d81022f",
+  "repo_url": "https://github.com/usekaneo/kaneo",
+  "date": "2025-12-16T16:29:07",
+  "languages": {
+    "TypeScript": 1142306,
+    "MDX": 70589,
+    "CSS": 25597,
+    "Dockerfile": 4852,
+    "Smarty": 2872,
+    "HTML": 2645,
+    "Shell": 1216,
+    "JavaScript": 604
+  },
+  "size": 1250681
+}

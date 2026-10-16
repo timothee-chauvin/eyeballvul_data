@@ -1,0 +1,19 @@
+{
+  "commit": "85304a7a4bdb2719583ad53ae04130a8273dba6a",
+  "repo_url": "https://github.com/meetecho/janus-gateway",
+  "date": "2026-04-20T08:03:41",
+  "languages": {
+    "C": 4936172,
+    "JavaScript": 703112,
+    "HTML": 156649,
+    "Lua": 62821,
+    "M4": 43478,
+    "Makefile": 23397,
+    "Roff": 17084,
+    "Shell": 11849,
+    "Python": 10474,
+    "CSS": 1892,
+    "Emacs Lisp": 574
+  },
+  "size": 5967502
+}

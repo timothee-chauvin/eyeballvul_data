@@ -1,0 +1,13 @@
+{
+  "commit": "1ab671e42ff1f086e29d5b7e300a5026e7b8d69b",
+  "repo_url": "https://github.com/laszip/laszip",
+  "date": "2019-11-11T20:28:41",
+  "languages": {
+    "C++": 1195068,
+    "C": 36002,
+    "CMake": 24837,
+    "Shell": 3888,
+    "Batchfile": 960
+  },
+  "size": 1260755
+}

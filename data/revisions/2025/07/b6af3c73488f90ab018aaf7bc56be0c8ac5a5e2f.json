@@ -1,0 +1,17 @@
+{
+  "commit": "b6af3c73488f90ab018aaf7bc56be0c8ac5a5e2f",
+  "repo_url": "https://github.com/papermerge/papermerge-core",
+  "date": "2025-07-23T04:43:11",
+  "languages": {
+    "TypeScript": 823316,
+    "Python": 643734,
+    "CSS": 10917,
+    "Dockerfile": 5453,
+    "JavaScript": 5108,
+    "Shell": 4955,
+    "SCSS": 2842,
+    "HTML": 1826,
+    "Mako": 635
+  },
+  "size": 1498786
+}

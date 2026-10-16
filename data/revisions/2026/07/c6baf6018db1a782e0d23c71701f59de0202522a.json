@@ -1,0 +1,17 @@
+{
+  "commit": "c6baf6018db1a782e0d23c71701f59de0202522a",
+  "repo_url": "https://github.com/snapotter-hq/snapotter",
+  "date": "2026-07-10T13:55:46",
+  "languages": {
+    "TypeScript": 16746746,
+    "Python": 327081,
+    "Astro": 222110,
+    "JavaScript": 123171,
+    "Shell": 112781,
+    "Dockerfile": 30564,
+    "CSS": 20809,
+    "Vue": 14357,
+    "HTML": 2198
+  },
+  "size": 17599817
+}

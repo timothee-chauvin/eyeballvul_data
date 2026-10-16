@@ -1,0 +1,14 @@
+{
+  "commit": "71db0994da31fd99d3101cb4de22d15b0f40daa8",
+  "repo_url": "https://github.com/arp242/goatcounter",
+  "date": "2025-06-08T19:35:53",
+  "languages": {
+    "Go": 754662,
+    "JavaScript": 159544,
+    "CSS": 46075,
+    "HTML": 13559,
+    "Dockerfile": 886,
+    "PLpgSQL": 337
+  },
+  "size": 975063
+}

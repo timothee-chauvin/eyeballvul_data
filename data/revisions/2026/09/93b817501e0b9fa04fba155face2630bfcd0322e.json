@@ -1,0 +1,15 @@
+{
+  "commit": "93b817501e0b9fa04fba155face2630bfcd0322e",
+  "repo_url": "https://github.com/ifuryst/open-codex-computer-use",
+  "date": "2026-09-29T03:46:48",
+  "languages": {
+    "Swift": 817710,
+    "Go": 167083,
+    "JavaScript": 137933,
+    "Python": 125576,
+    "Shell": 81412,
+    "PowerShell": 38531,
+    "Makefile": 1288
+  },
+  "size": 1369533
+}

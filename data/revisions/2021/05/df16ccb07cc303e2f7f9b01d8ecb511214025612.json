@@ -1,0 +1,13 @@
+{
+  "commit": "df16ccb07cc303e2f7f9b01d8ecb511214025612",
+  "repo_url": "https://github.com/aws/aws-iot-device-sdk-cpp-v2",
+  "date": "2021-05-14T21:51:21",
+  "languages": {
+    "C++": 350405,
+    "CMake": 29300,
+    "C": 5961,
+    "Python": 1119,
+    "Shell": 549
+  },
+  "size": 387334
+}

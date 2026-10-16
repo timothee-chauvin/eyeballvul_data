@@ -1,0 +1,13 @@
+{
+  "commit": "dacee038337676f1ab59d5183bd2beb3b8016b00",
+  "repo_url": "https://github.com/jetlinks/jetlinks-community",
+  "date": "2023-08-07T01:21:58",
+  "languages": {
+    "Java": 3037718,
+    "Shell": 5410,
+    "JavaScript": 4314,
+    "HTML": 2755,
+    "Dockerfile": 598
+  },
+  "size": 3050795
+}

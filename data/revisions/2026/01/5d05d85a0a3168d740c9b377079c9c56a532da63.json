@@ -1,0 +1,16 @@
+{
+  "commit": "5d05d85a0a3168d740c9b377079c9c56a532da63",
+  "repo_url": "https://github.com/1024-lab/smart-admin",
+  "date": "2026-01-22T12:23:09",
+  "languages": {
+    "Java": 2424351,
+    "Vue": 2173325,
+    "JavaScript": 689159,
+    "TypeScript": 559243,
+    "Less": 39464,
+    "SCSS": 32412,
+    "CSS": 16316,
+    "HTML": 1758
+  },
+  "size": 5936028
+}

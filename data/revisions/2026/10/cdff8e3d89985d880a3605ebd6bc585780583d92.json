@@ -1,0 +1,13 @@
+{
+  "commit": "cdff8e3d89985d880a3605ebd6bc585780583d92",
+  "repo_url": "https://github.com/thelia/thelia",
+  "date": "2026-10-02T13:32:06",
+  "languages": {
+    "PHP": 12172451,
+    "Smarty": 249343,
+    "TypeScript": 205567,
+    "Twig": 2623,
+    "HTML": 199
+  },
+  "size": 12630183
+}

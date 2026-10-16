@@ -1,0 +1,14 @@
+{
+  "commit": "9e756312d5f42bfc7cfdc1e07033ff3fbfa1de87",
+  "repo_url": "https://github.com/icculus/physfs",
+  "date": "2017-09-27T15:54:25",
+  "languages": {
+    "C": 856794,
+    "CMake": 10494,
+    "Shell": 9239,
+    "Perl": 8028,
+    "C++": 5884,
+    "Objective-C": 5405
+  },
+  "size": 895844
+}

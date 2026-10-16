@@ -1,0 +1,26 @@
+{
+  "commit": "1184c91b73a32bab488d0353d0e5e8cac113aae6",
+  "repo_url": "https://github.com/ag-ui-protocol/ag-ui",
+  "date": "2026-10-09T10:14:24",
+  "languages": {
+    "TypeScript": 9932881,
+    "Python": 9241692,
+    "C#": 2452540,
+    "Kotlin": 1147336,
+    "Dart": 864565,
+    "Go": 701029,
+    "C++": 453420,
+    "Java": 436493,
+    "Ruby": 261422,
+    "Rust": 143963,
+    "Shell": 108983,
+    "JavaScript": 95397,
+    "CSS": 51225,
+    "Swift": 37315,
+    "CMake": 9165,
+    "PowerShell": 6853,
+    "Dockerfile": 2932,
+    "Batchfile": 541
+  },
+  "size": 25947752
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "cf12bad626c53e3b8e54c7726d11a5827de2886f",
+  "repo_url": "https://github.com/heliumedu/platform",
+  "date": "2026-06-09T23:29:42",
+  "languages": {
+    "Python": 2009213,
+    "HTML": 18744,
+    "CSS": 9092,
+    "Makefile": 6696,
+    "Shell": 6441,
+    "Dockerfile": 3474,
+    "Handlebars": 1049
+  },
+  "size": 2054709
+}

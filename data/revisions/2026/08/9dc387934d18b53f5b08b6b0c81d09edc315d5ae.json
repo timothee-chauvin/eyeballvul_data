@@ -1,0 +1,15 @@
+{
+  "commit": "9dc387934d18b53f5b08b6b0c81d09edc315d5ae",
+  "repo_url": "https://github.com/stonewuu/ai-fusion-video",
+  "date": "2026-08-06T15:13:24",
+  "languages": {
+    "Java": 3584465,
+    "TypeScript": 2087932,
+    "CSS": 12747,
+    "Python": 11489,
+    "Dockerfile": 3958,
+    "JavaScript": 1841,
+    "Shell": 86
+  },
+  "size": 5702518
+}

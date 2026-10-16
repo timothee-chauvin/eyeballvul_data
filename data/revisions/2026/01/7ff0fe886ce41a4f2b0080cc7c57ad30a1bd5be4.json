@@ -1,0 +1,24 @@
+{
+  "commit": "7ff0fe886ce41a4f2b0080cc7c57ad30a1bd5be4",
+  "repo_url": "https://github.com/iflytek/astron-rpa",
+  "date": "2026-01-29T08:37:23",
+  "languages": {
+    "Java": 2908694,
+    "Python": 2817947,
+    "Vue": 1470121,
+    "TypeScript": 1299168,
+    "HCL": 143239,
+    "JavaScript": 66525,
+    "Lua": 55796,
+    "Makefile": 47000,
+    "SCSS": 33854,
+    "Batchfile": 11381,
+    "Dockerfile": 5540,
+    "CSS": 2913,
+    "Smarty": 2384,
+    "NSIS": 1313,
+    "HTML": 1043,
+    "Shell": 631
+  },
+  "size": 8867549
+}

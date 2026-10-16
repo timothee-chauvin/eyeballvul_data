@@ -1,0 +1,17 @@
+{
+  "commit": "3372da2ac4dd5bcded34c288b4218f40c4fbdb5d",
+  "repo_url": "https://github.com/hotspotbilling/phpnuxbill",
+  "date": "2025-03-13T10:04:07",
+  "languages": {
+    "PHP": 2012685,
+    "Smarty": 940494,
+    "JavaScript": 436085,
+    "CSS": 46322,
+    "HTML": 27771,
+    "Hack": 7647,
+    "Dockerfile": 668,
+    "Shell": 25,
+    "Batchfile": 21
+  },
+  "size": 3471718
+}

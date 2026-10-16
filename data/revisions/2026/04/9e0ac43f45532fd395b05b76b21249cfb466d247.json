@@ -1,0 +1,16 @@
+{
+  "commit": "9e0ac43f45532fd395b05b76b21249cfb466d247",
+  "repo_url": "https://github.com/logicaldoc/community",
+  "date": "2026-04-15T13:31:57",
+  "languages": {
+    "Java": 10107132,
+    "JavaScript": 3214626,
+    "Fluent": 1483580,
+    "HTML": 649402,
+    "CSS": 499815,
+    "Shell": 14332,
+    "FreeMarker": 11152,
+    "Batchfile": 899
+  },
+  "size": 15980938
+}

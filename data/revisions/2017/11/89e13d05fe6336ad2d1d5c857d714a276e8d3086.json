@@ -1,0 +1,12 @@
+{
+  "commit": "89e13d05fe6336ad2d1d5c857d714a276e8d3086",
+  "repo_url": "https://github.com/renovatebot/renovate",
+  "date": "2017-11-08T08:59:32",
+  "languages": {
+    "JavaScript": 464873,
+    "Handlebars": 9947,
+    "Shell": 262,
+    "Procfile": 49
+  },
+  "size": 475131
+}

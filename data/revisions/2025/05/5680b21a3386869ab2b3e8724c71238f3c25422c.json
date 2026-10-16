@@ -1,0 +1,16 @@
+{
+  "commit": "5680b21a3386869ab2b3e8724c71238f3c25422c",
+  "repo_url": "https://github.com/containerd/runwasi",
+  "date": "2025-05-20T17:44:36",
+  "languages": {
+    "Rust": 335796,
+    "Makefile": 16843,
+    "Shell": 7013,
+    "WebAssembly": 3505,
+    "Python": 1876,
+    "Dockerfile": 738,
+    "Gnuplot": 287,
+    "jq": 195
+  },
+  "size": 366253
+}

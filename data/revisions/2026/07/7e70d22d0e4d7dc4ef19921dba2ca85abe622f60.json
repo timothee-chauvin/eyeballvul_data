@@ -1,0 +1,14 @@
+{
+  "commit": "7e70d22d0e4d7dc4ef19921dba2ca85abe622f60",
+  "repo_url": "https://github.com/jhaals/yopass",
+  "date": "2026-07-25T19:20:58",
+  "languages": {
+    "Go": 534512,
+    "TypeScript": 473996,
+    "CSS": 8388,
+    "JavaScript": 6434,
+    "Dockerfile": 563,
+    "HTML": 403
+  },
+  "size": 1024296
+}

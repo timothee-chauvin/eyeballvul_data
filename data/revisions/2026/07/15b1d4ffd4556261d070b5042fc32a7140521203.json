@@ -1,0 +1,20 @@
+{
+  "commit": "15b1d4ffd4556261d070b5042fc32a7140521203",
+  "repo_url": "https://github.com/privasys/go",
+  "date": "2026-07-09T17:31:26",
+  "languages": {
+    "Go": 52578597,
+    "Assembly": 3151358,
+    "HTML": 2621355,
+    "C": 127755,
+    "Shell": 66505,
+    "Perl": 31837,
+    "Python": 20780,
+    "JavaScript": 20759,
+    "Batchfile": 6101,
+    "Dockerfile": 3563,
+    "Makefile": 1854,
+    "Awk": 450
+  },
+  "size": 58630914
+}

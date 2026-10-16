@@ -1,0 +1,12 @@
+{
+  "commit": "2a7936690cf831ccc9fe0ad4adfcf21a695a3104",
+  "repo_url": "https://github.com/luskaner/agelanserver",
+  "date": "2026-08-09T19:14:27",
+  "languages": {
+    "Go": 822123,
+    "Shell": 4179,
+    "Dockerfile": 3956,
+    "Batchfile": 2837
+  },
+  "size": 833095
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "dc914dde66cddc7530533d5d7b1219e7c89a6c65",
+  "repo_url": "https://github.com/formio/formio",
+  "date": "2025-05-14T15:37:36",
+  "languages": {
+    "HTML": 2480286,
+    "JavaScript": 1928586,
+    "CSS": 5394,
+    "Dockerfile": 1218
+  },
+  "size": 4415484
+}

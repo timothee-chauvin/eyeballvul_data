@@ -1,0 +1,12 @@
+{
+  "commit": "aff27489a3c87644eeb8f6009e4a824e83c66c05",
+  "repo_url": "https://github.com/deeppavlov/deeppavlov",
+  "date": "2024-08-12T17:08:04",
+  "languages": {
+    "Python": 1169233,
+    "HTML": 3604,
+    "Dockerfile": 1535,
+    "Shell": 355
+  },
+  "size": 1174727
+}

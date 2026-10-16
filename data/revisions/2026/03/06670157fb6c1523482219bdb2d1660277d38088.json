@@ -1,0 +1,15 @@
+{
+  "commit": "06670157fb6c1523482219bdb2d1660277d38088",
+  "repo_url": "https://github.com/huggingface/text-embeddings-inference",
+  "date": "2026-03-23T08:28:49",
+  "languages": {
+    "Rust": 997298,
+    "Python": 120717,
+    "JavaScript": 12658,
+    "Dockerfile": 4787,
+    "Shell": 2386,
+    "Makefile": 1352,
+    "Nix": 912
+  },
+  "size": 1140110
+}

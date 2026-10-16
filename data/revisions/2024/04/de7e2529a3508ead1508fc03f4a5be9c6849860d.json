@@ -1,0 +1,21 @@
+{
+  "commit": "de7e2529a3508ead1508fc03f4a5be9c6849860d",
+  "repo_url": "https://github.com/kerwincui/fastbee",
+  "date": "2024-04-10T09:43:48",
+  "languages": {
+    "C": 9413838,
+    "Java": 2023118,
+    "Vue": 1100750,
+    "HTML": 1027983,
+    "JavaScript": 209047,
+    "Lua": 150449,
+    "C++": 99307,
+    "SCSS": 38277,
+    "Python": 19967,
+    "Assembly": 7879,
+    "Batchfile": 3495,
+    "Shell": 1683,
+    "CSS": 1386
+  },
+  "size": 14097179
+}

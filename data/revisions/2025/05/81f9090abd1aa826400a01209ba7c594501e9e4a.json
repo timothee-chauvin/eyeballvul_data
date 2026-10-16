@@ -1,0 +1,14 @@
+{
+  "commit": "81f9090abd1aa826400a01209ba7c594501e9e4a",
+  "repo_url": "https://github.com/tinacms/tinacms",
+  "date": "2025-05-26T23:52:54",
+  "languages": {
+    "TypeScript": 2346987,
+    "JavaScript": 51896,
+    "CSS": 15028,
+    "Shell": 3270,
+    "MDX": 2362,
+    "HTML": 2182
+  },
+  "size": 2421725
+}

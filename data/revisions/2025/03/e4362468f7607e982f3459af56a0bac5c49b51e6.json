@@ -1,0 +1,13 @@
+{
+  "commit": "e4362468f7607e982f3459af56a0bac5c49b51e6",
+  "repo_url": "https://github.com/marcopiovanello/yt-dlp-web-ui",
+  "date": "2025-03-15T10:08:08",
+  "languages": {
+    "Go": 125350,
+    "TypeScript": 23738,
+    "Nix": 11171,
+    "Dockerfile": 1209,
+    "Makefile": 625
+  },
+  "size": 162093
+}

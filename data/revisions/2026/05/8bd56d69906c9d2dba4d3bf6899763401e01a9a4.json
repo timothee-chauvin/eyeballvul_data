@@ -1,0 +1,29 @@
+{
+  "commit": "8bd56d69906c9d2dba4d3bf6899763401e01a9a4",
+  "repo_url": "https://github.com/tiiny-ai/powerinfer",
+  "date": "2026-05-11T06:48:06",
+  "languages": {
+    "C++": 10079108,
+    "C": 2879550,
+    "Python": 1574704,
+    "Cuda": 1245590,
+    "Objective-C": 406491,
+    "Metal": 399900,
+    "Shell": 307398,
+    "CMake": 236990,
+    "HTML": 165429,
+    "TypeScript": 139919,
+    "JavaScript": 100120,
+    "Jinja": 83756,
+    "CSS": 77045,
+    "Makefile": 51980,
+    "Swift": 44924,
+    "Vim Script": 27190,
+    "Kotlin": 23411,
+    "Nix": 13226,
+    "Zig": 6287,
+    "Dockerfile": 4120,
+    "SCSS": 1347
+  },
+  "size": 17868485
+}

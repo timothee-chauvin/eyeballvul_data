@@ -1,0 +1,12 @@
+{
+  "commit": "c36f949dc6371b4277dd812554d9afc4fa25d73b",
+  "repo_url": "https://github.com/rancher/steve",
+  "date": "2025-04-04T16:45:12",
+  "languages": {
+    "Go": 1251093,
+    "Shell": 708,
+    "Dockerfile": 680,
+    "Makefile": 442
+  },
+  "size": 1252923
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "1c1708201abb7a18c83075e1bf933e7a92cbeb9f",
+  "repo_url": "https://github.com/cfdude/mac-shell-mcp",
+  "date": "2025-07-25T17:21:54",
+  "languages": {
+    "JavaScript": 20917,
+    "TypeScript": 12951,
+    "Dockerfile": 2048,
+    "Shell": 231
+  },
+  "size": 36147
+}

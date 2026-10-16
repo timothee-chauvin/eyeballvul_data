@@ -1,0 +1,18 @@
+{
+  "commit": "eac9de6e820ebd51203ac8a3fdb8e3bfe57b155d",
+  "repo_url": "https://github.com/llama-farm/llamafarm",
+  "date": "2026-05-14T19:11:52",
+  "languages": {
+    "Python": 6651464,
+    "TypeScript": 3247517,
+    "Go": 1028055,
+    "Shell": 257790,
+    "JavaScript": 22818,
+    "Dockerfile": 13470,
+    "HTML": 7860,
+    "CSS": 5088,
+    "Makefile": 1795,
+    "Batchfile": 446
+  },
+  "size": 11236303
+}

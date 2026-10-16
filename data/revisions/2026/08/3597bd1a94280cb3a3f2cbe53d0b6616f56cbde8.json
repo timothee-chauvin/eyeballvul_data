@@ -1,0 +1,15 @@
+{
+  "commit": "3597bd1a94280cb3a3f2cbe53d0b6616f56cbde8",
+  "repo_url": "https://github.com/mher/flower",
+  "date": "2026-08-16T07:41:13",
+  "languages": {
+    "Python": 266555,
+    "HTML": 41805,
+    "JavaScript": 37906,
+    "CSS": 19894,
+    "Shell": 1470,
+    "Dockerfile": 1077,
+    "SCSS": 599
+  },
+  "size": 369306
+}

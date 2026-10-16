@@ -1,0 +1,14 @@
+{
+  "commit": "37a3c12aa06c1923bba4d0cb0b490c6434d7366e",
+  "repo_url": "https://github.com/jexactyl/jexactyl",
+  "date": "2026-07-28T16:02:38",
+  "languages": {
+    "PHP": 1876115,
+    "TypeScript": 1663550,
+    "CSS": 9507,
+    "Dockerfile": 6210,
+    "JavaScript": 3644,
+    "Blade": 3333
+  },
+  "size": 3562359
+}

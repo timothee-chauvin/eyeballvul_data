@@ -1,0 +1,14 @@
+{
+  "commit": "4119be6e8601ac9360de03bf32be2a8383113384",
+  "repo_url": "https://github.com/studio-saelix/sencho",
+  "date": "2026-08-09T04:25:42",
+  "languages": {
+    "TypeScript": 14924741,
+    "JavaScript": 66297,
+    "CSS": 36915,
+    "Dockerfile": 17263,
+    "Shell": 3286,
+    "HTML": 1116
+  },
+  "size": 15049618
+}

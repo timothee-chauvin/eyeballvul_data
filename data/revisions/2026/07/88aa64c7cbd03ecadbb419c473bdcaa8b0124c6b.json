@@ -1,0 +1,11 @@
+{
+  "commit": "88aa64c7cbd03ecadbb419c473bdcaa8b0124c6b",
+  "repo_url": "https://github.com/getkin/kin-openapi",
+  "date": "2026-07-25T12:43:34",
+  "languages": {
+    "Go": 1627928,
+    "Shell": 7059,
+    "Makefile": 547
+  },
+  "size": 1635534
+}

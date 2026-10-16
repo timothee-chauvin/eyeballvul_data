@@ -1,0 +1,15 @@
+{
+  "commit": "32c2919f052b9e2c4631b92c06eb45ba83278dc1",
+  "repo_url": "https://github.com/finsys/dockhand",
+  "date": "2026-02-16T15:19:55",
+  "languages": {
+    "Svelte": 2254161,
+    "TypeScript": 1691274,
+    "Shell": 58291,
+    "CSS": 48454,
+    "Dockerfile": 9854,
+    "HTML": 574,
+    "JavaScript": 321
+  },
+  "size": 4062929
+}

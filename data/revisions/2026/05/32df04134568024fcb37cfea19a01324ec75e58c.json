@@ -1,0 +1,18 @@
+{
+  "commit": "32df04134568024fcb37cfea19a01324ec75e58c",
+  "repo_url": "https://github.com/radius-project/radius",
+  "date": "2026-05-19T23:30:05",
+  "languages": {
+    "Go": 8270073,
+    "Shell": 153525,
+    "TypeScript": 91139,
+    "Bicep": 89118,
+    "Makefile": 81960,
+    "PowerShell": 79654,
+    "HCL": 7382,
+    "Dockerfile": 4445,
+    "Smarty": 4180,
+    "JavaScript": 2960
+  },
+  "size": 8784436
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "003c36aea896ce6fa98567329588baa582e41f9c",
+  "repo_url": "https://github.com/katanemo/plano",
+  "date": "2026-08-19T19:28:26",
+  "languages": {
+    "Rust": 1974668,
+    "Python": 419900,
+    "TypeScript": 242177,
+    "JavaScript": 15789,
+    "Shell": 9903,
+    "CSS": 7179,
+    "Dockerfile": 4684
+  },
+  "size": 2674300
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "489c3330274c553cb8fb166297d640bd470b5d3a",
+  "repo_url": "https://github.com/cockpit-hq/cockpit",
+  "date": "2026-08-26T20:47:43",
+  "languages": {
+    "PHP": 2194712,
+    "JavaScript": 589513,
+    "CSS": 176216,
+    "Dockerfile": 919
+  },
+  "size": 2961360
+}

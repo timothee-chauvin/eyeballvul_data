@@ -1,0 +1,18 @@
+{
+  "commit": "be351dcb99e5e6149a71e832a0aae851d5b80dad",
+  "repo_url": "https://github.com/siderolabs/talos",
+  "date": "2022-08-10T19:03:53",
+  "languages": {
+    "Go": 4409042,
+    "JavaScript": 86226,
+    "HTML": 82411,
+    "Jinja": 46360,
+    "Shell": 45941,
+    "SCSS": 42309,
+    "Dockerfile": 35970,
+    "Jsonnet": 26012,
+    "Makefile": 18035,
+    "CSS": 5762
+  },
+  "size": 4798068
+}

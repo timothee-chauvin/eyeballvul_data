@@ -1,0 +1,20 @@
+{
+  "commit": "f786e94c7b2f943e24e65d7d74deb539b827fc84",
+  "repo_url": "https://github.com/moonlight-stream/moonlight-qt",
+  "date": "2024-09-17T02:59:17",
+  "languages": {
+    "C++": 1134751,
+    "QML": 147416,
+    "Objective-C++": 62959,
+    "QMake": 27751,
+    "Shell": 22297,
+    "Batchfile": 12704,
+    "C": 10286,
+    "HLSL": 3375,
+    "Metal": 2119,
+    "GLSL": 1488,
+    "PowerShell": 1288,
+    "Objective-C": 504
+  },
+  "size": 1426938
+}

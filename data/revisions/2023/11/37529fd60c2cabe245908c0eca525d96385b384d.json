@@ -1,0 +1,17 @@
+{
+  "commit": "37529fd60c2cabe245908c0eca525d96385b384d",
+  "repo_url": "https://github.com/coreunion/coreshop",
+  "date": "2023-11-18T08:08:12",
+  "languages": {
+    "C#": 5124266,
+    "HTML": 2816086,
+    "JavaScript": 2166446,
+    "Vue": 1751348,
+    "CSS": 311964,
+    "SCSS": 149891,
+    "Smarty": 86062,
+    "Less": 45187,
+    "Dockerfile": 525
+  },
+  "size": 12451775
+}

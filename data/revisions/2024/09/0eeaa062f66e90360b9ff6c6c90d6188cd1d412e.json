@@ -1,0 +1,14 @@
+{
+  "commit": "0eeaa062f66e90360b9ff6c6c90d6188cd1d412e",
+  "repo_url": "https://github.com/seldonio/mlserver",
+  "date": "2024-09-10T15:09:42",
+  "languages": {
+    "Python": 1032320,
+    "Shell": 8203,
+    "JavaScript": 5578,
+    "Dockerfile": 4697,
+    "Makefile": 3067,
+    "Jinja": 1730
+  },
+  "size": 1055595
+}

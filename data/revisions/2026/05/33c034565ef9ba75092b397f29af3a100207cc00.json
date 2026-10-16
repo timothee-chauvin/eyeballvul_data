@@ -1,0 +1,17 @@
+{
+  "commit": "33c034565ef9ba75092b397f29af3a100207cc00",
+  "repo_url": "https://github.com/th0rgal/orb",
+  "date": "2026-05-16T08:02:54",
+  "languages": {
+    "Rust": 4710477,
+    "TypeScript": 2263117,
+    "Swift": 680981,
+    "CSS": 51428,
+    "MDX": 51134,
+    "Python": 43183,
+    "Shell": 38657,
+    "Dockerfile": 7165,
+    "JavaScript": 1598
+  },
+  "size": 7847740
+}

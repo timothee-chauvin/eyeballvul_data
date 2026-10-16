@@ -1,0 +1,13 @@
+{
+  "commit": "8cedc45e8e23f4e04ebbe69ee8dc741b0cd4c41d",
+  "repo_url": "https://github.com/multivendorx/multivendorx",
+  "date": "2026-09-28T10:34:47",
+  "languages": {
+    "PHP": 2242024,
+    "TypeScript": 1809244,
+    "JavaScript": 181765,
+    "SCSS": 181735,
+    "HTML": 6597
+  },
+  "size": 4421365
+}

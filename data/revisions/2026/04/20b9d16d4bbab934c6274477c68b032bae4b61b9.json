@@ -1,0 +1,18 @@
+{
+  "commit": "20b9d16d4bbab934c6274477c68b032bae4b61b9",
+  "repo_url": "https://github.com/moghtech/komodo",
+  "date": "2026-04-10T18:32:17",
+  "languages": {
+    "Rust": 2728348,
+    "TypeScript": 1652613,
+    "JavaScript": 70072,
+    "MDX": 23196,
+    "Dockerfile": 16453,
+    "Python": 9184,
+    "CSS": 7085,
+    "SCSS": 4513,
+    "Shell": 1586,
+    "HTML": 1130
+  },
+  "size": 4514180
+}

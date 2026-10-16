@@ -1,0 +1,14 @@
+{
+  "commit": "99c1e91d297e39fbec7357af4d0f1259161de81f",
+  "repo_url": "https://github.com/sap/app-studio-toolkit",
+  "date": "2026-06-21T14:25:09",
+  "languages": {
+    "TypeScript": 851720,
+    "JavaScript": 282753,
+    "Vue": 57662,
+    "CSS": 8117,
+    "HTML": 3293,
+    "Shell": 152
+  },
+  "size": 1203697
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "3844badc0a4bf861f2e2f7f7004a6aa2f301e6bf",
+  "repo_url": "https://github.com/zarestia-dev/rclone-manager",
+  "date": "2026-05-19T18:50:14",
+  "languages": {
+    "TypeScript": 1379270,
+    "Rust": 1093601,
+    "HTML": 581598,
+    "SCSS": 380052,
+    "JavaScript": 25528,
+    "Shell": 19446,
+    "Dockerfile": 6049
+  },
+  "size": 3485544
+}

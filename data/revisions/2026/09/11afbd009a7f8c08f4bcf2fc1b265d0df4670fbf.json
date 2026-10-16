@@ -1,0 +1,29 @@
+{
+  "commit": "11afbd009a7f8c08f4bcf2fc1b265d0df4670fbf",
+  "repo_url": "https://github.com/k2-fsa/sherpa-onnx",
+  "date": "2026-09-10T13:52:45",
+  "languages": {
+    "C++": 5058436,
+    "Python": 2198127,
+    "Dart": 1043747,
+    "Shell": 813229,
+    "JavaScript": 684470,
+    "Rust": 546350,
+    "CMake": 474123,
+    "Kotlin": 467063,
+    "C": 412590,
+    "Java": 387135,
+    "Pascal": 355087,
+    "C#": 310337,
+    "Swift": 265786,
+    "Go": 192021,
+    "HTML": 69626,
+    "CSS": 13791,
+    "Ruby": 5602,
+    "TypeScript": 3042,
+    "Makefile": 2871,
+    "Jinja": 681,
+    "Objective-C": 651
+  },
+  "size": 13304765
+}

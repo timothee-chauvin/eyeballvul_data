@@ -1,0 +1,13 @@
+{
+  "commit": "935f0d85a95b38087a95d264ca528c0fd326c3fa",
+  "repo_url": "https://github.com/venturedrake/laravel-crm",
+  "date": "2026-05-16T14:37:35",
+  "languages": {
+    "PHP": 2168690,
+    "Blade": 1599870,
+    "JavaScript": 19120,
+    "SCSS": 7238,
+    "CSS": 2995
+  },
+  "size": 3797913
+}

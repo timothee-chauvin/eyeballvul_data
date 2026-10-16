@@ -1,0 +1,12 @@
+{
+  "commit": "74c28a6b57603c0f2b6d9aed1138af57758caf00",
+  "repo_url": "https://github.com/containers/gvisor-tap-vsock",
+  "date": "2026-02-04T15:38:50",
+  "languages": {
+    "Go": 232303,
+    "Makefile": 3727,
+    "Shell": 3390,
+    "Dockerfile": 255
+  },
+  "size": 239675
+}

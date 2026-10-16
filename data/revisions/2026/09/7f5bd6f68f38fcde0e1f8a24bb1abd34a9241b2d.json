@@ -1,0 +1,17 @@
+{
+  "commit": "7f5bd6f68f38fcde0e1f8a24bb1abd34a9241b2d",
+  "repo_url": "https://github.com/postgresql-interfaces/psqlodbc",
+  "date": "2026-09-14T10:03:02",
+  "languages": {
+    "C": 1862805,
+    "PowerShell": 64395,
+    "C++": 51036,
+    "Rich Text Format": 47684,
+    "Makefile": 18218,
+    "M4": 15249,
+    "Shell": 3507,
+    "PLpgSQL": 3067,
+    "Batchfile": 1366
+  },
+  "size": 2067327
+}

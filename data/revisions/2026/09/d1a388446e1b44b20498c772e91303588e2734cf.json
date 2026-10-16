@@ -1,0 +1,16 @@
+{
+  "commit": "d1a388446e1b44b20498c772e91303588e2734cf",
+  "repo_url": "https://github.com/agno-agi/agno",
+  "date": "2026-09-04T13:06:10",
+  "languages": {
+    "Python": 42220789,
+    "Shell": 52417,
+    "HTML": 28031,
+    "Batchfile": 25556,
+    "TypeScript": 11761,
+    "PowerShell": 5503,
+    "TeX": 3111,
+    "CSS": 810
+  },
+  "size": 42347978
+}

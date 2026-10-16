@@ -1,0 +1,19 @@
+{
+  "commit": "e03f989d8f01b5a3e4b43856605d5f3b30a7d838",
+  "repo_url": "https://github.com/predibase/lorax",
+  "date": "2024-11-06T01:37:07",
+  "languages": {
+    "Python": 1619843,
+    "Rust": 455981,
+    "Cuda": 203728,
+    "C++": 36289,
+    "Dockerfile": 9136,
+    "Shell": 7671,
+    "Makefile": 3320,
+    "JavaScript": 2001,
+    "C": 1001,
+    "Pawn": 445,
+    "Smarty": 94
+  },
+  "size": 2339509
+}

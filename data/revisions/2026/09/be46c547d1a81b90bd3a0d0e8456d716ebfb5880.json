@@ -1,0 +1,21 @@
+{
+  "commit": "be46c547d1a81b90bd3a0d0e8456d716ebfb5880",
+  "repo_url": "https://github.com/iflytek/skillhub",
+  "date": "2026-09-19T12:09:51",
+  "languages": {
+    "Java": 5047343,
+    "TypeScript": 2705851,
+    "HTML": 571039,
+    "Shell": 260067,
+    "Python": 144503,
+    "CSS": 40916,
+    "JavaScript": 17885,
+    "Makefile": 15821,
+    "Smarty": 8839,
+    "YARA": 4989,
+    "Dockerfile": 4164,
+    "PLpgSQL": 3517,
+    "Lua": 679
+  },
+  "size": 8825613
+}

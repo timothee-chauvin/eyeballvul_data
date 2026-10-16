@@ -1,0 +1,16 @@
+{
+  "commit": "95e9b86bff996954420133d5acfd53cd3b7c00cc",
+  "repo_url": "https://github.com/modeltc/lightx2v",
+  "date": "2026-09-09T17:53:19",
+  "languages": {
+    "Python": 10447732,
+    "C++": 933930,
+    "Shell": 538152,
+    "Cuda": 144320,
+    "Batchfile": 33328,
+    "CMake": 28093,
+    "Dockerfile": 4933,
+    "C": 2776
+  },
+  "size": 12133264
+}

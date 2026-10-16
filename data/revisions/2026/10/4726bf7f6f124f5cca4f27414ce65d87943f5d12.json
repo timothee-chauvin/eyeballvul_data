@@ -1,0 +1,16 @@
+{
+  "commit": "4726bf7f6f124f5cca4f27414ce65d87943f5d12",
+  "repo_url": "https://github.com/himovo/movo",
+  "date": "2026-10-08T04:53:48",
+  "languages": {
+    "Python": 9057715,
+    "Vue": 2291331,
+    "TypeScript": 1263872,
+    "JavaScript": 293418,
+    "CSS": 90816,
+    "Shell": 80665,
+    "Dockerfile": 12368,
+    "HTML": 731
+  },
+  "size": 13090916
+}

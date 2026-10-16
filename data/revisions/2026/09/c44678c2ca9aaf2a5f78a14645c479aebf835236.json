@@ -1,0 +1,12 @@
+{
+  "commit": "c44678c2ca9aaf2a5f78a14645c479aebf835236",
+  "repo_url": "https://github.com/haproxytech/dataplaneapi",
+  "date": "2026-09-03T14:43:13",
+  "languages": {
+    "Go": 1031844,
+    "Shell": 530429,
+    "Makefile": 2462,
+    "Dockerfile": 576
+  },
+  "size": 1565311
+}

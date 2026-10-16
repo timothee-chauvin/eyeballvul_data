@@ -1,0 +1,18 @@
+{
+  "commit": "9938c66638666ca5d3bcb850350faa82e510924b",
+  "repo_url": "https://github.com/openlit/openlit",
+  "date": "2026-09-10T09:57:16",
+  "languages": {
+    "TypeScript": 9369867,
+    "Python": 3527573,
+    "Go": 1959548,
+    "Shell": 62678,
+    "C": 36767,
+    "JavaScript": 30444,
+    "Dockerfile": 12939,
+    "PowerShell": 8863,
+    "Makefile": 5656,
+    "CSS": 2685
+  },
+  "size": 15017020
+}

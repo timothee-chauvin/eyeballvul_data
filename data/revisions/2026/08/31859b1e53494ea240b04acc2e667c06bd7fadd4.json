@@ -1,0 +1,16 @@
+{
+  "commit": "31859b1e53494ea240b04acc2e667c06bd7fadd4",
+  "repo_url": "https://github.com/tbphp/gpt-load",
+  "date": "2026-08-27T05:00:58",
+  "languages": {
+    "Go": 453713,
+    "Vue": 330272,
+    "TypeScript": 118698,
+    "CSS": 9677,
+    "JavaScript": 3470,
+    "Makefile": 1566,
+    "Dockerfile": 762,
+    "HTML": 366
+  },
+  "size": 918524
+}

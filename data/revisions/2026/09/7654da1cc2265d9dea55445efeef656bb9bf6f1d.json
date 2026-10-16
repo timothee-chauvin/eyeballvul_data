@@ -1,0 +1,14 @@
+{
+  "commit": "7654da1cc2265d9dea55445efeef656bb9bf6f1d",
+  "repo_url": "https://github.com/zofe/rapyd-admin",
+  "date": "2026-09-27T17:11:01",
+  "languages": {
+    "PHP": 552325,
+    "Blade": 190465,
+    "SCSS": 55619,
+    "Shell": 2293,
+    "Smarty": 2098,
+    "CSS": 17
+  },
+  "size": 802817
+}

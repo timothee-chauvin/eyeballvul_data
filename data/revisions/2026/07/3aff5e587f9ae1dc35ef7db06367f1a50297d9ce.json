@@ -1,0 +1,21 @@
+{
+  "commit": "3aff5e587f9ae1dc35ef7db06367f1a50297d9ce",
+  "repo_url": "https://github.com/dongdongbh/mindwtr",
+  "date": "2026-07-16T16:39:52",
+  "languages": {
+    "TypeScript": 14756850,
+    "Rust": 537679,
+    "JavaScript": 290078,
+    "Swift": 88405,
+    "Objective-C": 78783,
+    "Shell": 64984,
+    "Python": 33417,
+    "CSS": 18526,
+    "Kotlin": 14735,
+    "Dockerfile": 1524,
+    "Ruby": 1389,
+    "PowerShell": 840,
+    "HTML": 459
+  },
+  "size": 15887669
+}

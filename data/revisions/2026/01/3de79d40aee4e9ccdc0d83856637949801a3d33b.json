@@ -1,0 +1,18 @@
+{
+  "commit": "3de79d40aee4e9ccdc0d83856637949801a3d33b",
+  "repo_url": "https://github.com/gnuaspell/aspell",
+  "date": "2026-01-27T18:35:32",
+  "languages": {
+    "ReScript": 4437939,
+    "C++": 870737,
+    "Perl": 71245,
+    "C": 54464,
+    "Makefile": 40624,
+    "Shell": 33236,
+    "Roff": 22387,
+    "M4": 17668,
+    "Dockerfile": 606,
+    "CSS": 166
+  },
+  "size": 5549072
+}

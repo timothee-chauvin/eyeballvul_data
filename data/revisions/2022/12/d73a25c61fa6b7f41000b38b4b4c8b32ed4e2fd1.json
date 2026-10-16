@@ -1,0 +1,16 @@
+{
+  "commit": "d73a25c61fa6b7f41000b38b4b4c8b32ed4e2fd1",
+  "repo_url": "https://github.com/librecad/libdxfrw",
+  "date": "2022-12-09T23:15:21",
+  "languages": {
+    "C": 3371294,
+    "C++": 760246,
+    "CMake": 4234,
+    "M4": 2014,
+    "Makefile": 1941,
+    "Python": 982,
+    "Roff": 922,
+    "Shell": 95
+  },
+  "size": 4141728
+}

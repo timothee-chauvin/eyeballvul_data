@@ -1,0 +1,16 @@
+{
+  "commit": "137d8b464f53e5bcbf41dba888697066c4844970",
+  "repo_url": "https://github.com/learnhouse/learnhouse",
+  "date": "2026-03-25T19:15:41",
+  "languages": {
+    "TypeScript": 4907955,
+    "Python": 2253552,
+    "CSS": 50557,
+    "Shell": 11371,
+    "JavaScript": 10674,
+    "Dockerfile": 8128,
+    "PowerShell": 5459,
+    "Mako": 677
+  },
+  "size": 7248373
+}

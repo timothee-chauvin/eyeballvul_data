@@ -1,0 +1,13 @@
+{
+  "commit": "a73c30b1106117d817c843444086adedc0412bb4",
+  "repo_url": "https://github.com/nilfs-dev/nilfs-utils",
+  "date": "2016-09-04T00:09:44",
+  "languages": {
+    "C": 501828,
+    "Perl": 159546,
+    "M4": 5813,
+    "Makefile": 5230,
+    "Shell": 398
+  },
+  "size": 672815
+}

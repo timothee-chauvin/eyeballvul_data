@@ -1,0 +1,20 @@
+{
+  "commit": "48b090325fb2771e8a1d93ef637778f234410721",
+  "repo_url": "https://github.com/theopenco/llmgateway",
+  "date": "2026-10-04T11:06:11",
+  "languages": {
+    "TypeScript": 24622534,
+    "MDX": 953970,
+    "JavaScript": 176716,
+    "Shell": 63309,
+    "CSS": 35387,
+    "Dockerfile": 18857,
+    "Smarty": 5102,
+    "Objective-C++": 3291,
+    "PLpgSQL": 3012,
+    "Ruby": 1736,
+    "Swift": 1490,
+    "Objective-C": 108
+  },
+  "size": 25885512
+}

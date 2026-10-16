@@ -1,0 +1,16 @@
+{
+  "commit": "67cf523ee89bc232187cafa13ef234b3d0839259",
+  "repo_url": "https://github.com/kanbn/kan",
+  "date": "2026-03-19T12:20:19",
+  "languages": {
+    "TypeScript": 1787230,
+    "MDX": 19758,
+    "JavaScript": 12531,
+    "PLpgSQL": 7470,
+    "Dockerfile": 3833,
+    "CSS": 1317,
+    "Handlebars": 1003,
+    "Shell": 603
+  },
+  "size": 1833745
+}

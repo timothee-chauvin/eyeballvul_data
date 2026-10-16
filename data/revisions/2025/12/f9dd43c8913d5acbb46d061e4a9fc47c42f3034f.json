@@ -1,0 +1,11 @@
+{
+  "commit": "f9dd43c8913d5acbb46d061e4a9fc47c42f3034f",
+  "repo_url": "https://github.com/makunet/maku-boot",
+  "date": "2025-12-05T07:54:16",
+  "languages": {
+    "Java": 682964,
+    "FreeMarker": 24325,
+    "Dockerfile": 418
+  },
+  "size": 707707
+}

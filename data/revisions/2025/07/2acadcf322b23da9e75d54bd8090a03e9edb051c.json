@@ -1,0 +1,12 @@
+{
+  "commit": "2acadcf322b23da9e75d54bd8090a03e9edb051c",
+  "repo_url": "https://github.com/khronosgroup/nnef-tools",
+  "date": "2025-07-30T12:41:53",
+  "languages": {
+    "Python": 883171,
+    "C++": 460820,
+    "C": 5481,
+    "CMake": 2919
+  },
+  "size": 1352391
+}

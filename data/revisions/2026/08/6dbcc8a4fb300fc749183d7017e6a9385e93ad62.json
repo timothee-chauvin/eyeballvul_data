@@ -1,0 +1,18 @@
+{
+  "commit": "6dbcc8a4fb300fc749183d7017e6a9385e93ad62",
+  "repo_url": "https://github.com/skyhook-io/radar",
+  "date": "2026-08-26T21:04:19",
+  "languages": {
+    "Go": 13704047,
+    "TypeScript": 9218583,
+    "Shell": 306436,
+    "CSS": 36178,
+    "Makefile": 18207,
+    "JavaScript": 5466,
+    "PowerShell": 4266,
+    "Dockerfile": 4004,
+    "Smarty": 1762,
+    "HTML": 1065
+  },
+  "size": 23300014
+}

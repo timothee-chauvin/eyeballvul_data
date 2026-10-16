@@ -1,0 +1,15 @@
+{
+  "commit": "f97595f9ccdec52ece7561ecf642c0eec63fdefe",
+  "repo_url": "https://github.com/pipecat-ai/pipecat",
+  "date": "2026-07-04T16:57:54",
+  "languages": {
+    "Python": 8429193,
+    "Jinja": 122843,
+    "TypeScript": 12096,
+    "JavaScript": 8652,
+    "CSS": 3851,
+    "Shell": 2074,
+    "HTML": 1578
+  },
+  "size": 8580287
+}

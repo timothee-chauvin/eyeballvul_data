@@ -1,0 +1,18 @@
+{
+  "commit": "14486c98280afd2e0372866f8f2345e2e2b32843",
+  "repo_url": "https://github.com/fj-oms/oms-erp",
+  "date": "2022-08-25T15:21:03",
+  "languages": {
+    "Vue": 2724459,
+    "Java": 2283340,
+    "JavaScript": 676167,
+    "SCSS": 38364,
+    "Mustache": 5119,
+    "Shell": 2585,
+    "Dockerfile": 1470,
+    "HTML": 949,
+    "CSS": 825,
+    "Handlebars": 789
+  },
+  "size": 5734067
+}

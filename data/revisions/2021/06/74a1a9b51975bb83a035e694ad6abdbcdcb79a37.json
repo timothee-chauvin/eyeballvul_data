@@ -1,0 +1,21 @@
+{
+  "commit": "74a1a9b51975bb83a035e694ad6abdbcdcb79a37",
+  "repo_url": "https://github.com/gatsbyjs/gatsby",
+  "date": "2021-06-28T08:42:05",
+  "languages": {
+    "JavaScript": 4789249,
+    "TypeScript": 2090443,
+    "CSS": 120835,
+    "HTML": 62227,
+    "MDX": 45418,
+    "Shell": 10200,
+    "Handlebars": 2206,
+    "Dockerfile": 2108,
+    "EJS": 532,
+    "Python": 281,
+    "Less": 218,
+    "SCSS": 218,
+    "Stylus": 206
+  },
+  "size": 7124141
+}

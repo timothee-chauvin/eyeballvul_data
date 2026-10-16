@@ -1,0 +1,16 @@
+{
+  "commit": "5b555c3fc01937d371f39f0d353c98b28b5cc446",
+  "repo_url": "https://github.com/ikaros-dev/ikaros",
+  "date": "2026-08-21T18:19:15",
+  "languages": {
+    "Java": 2172551,
+    "TypeScript": 921142,
+    "JavaScript": 479345,
+    "Vue": 388735,
+    "HTML": 7362,
+    "Shell": 2003,
+    "SCSS": 1925,
+    "Dockerfile": 899
+  },
+  "size": 3973962
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "3e19fa9ebf43e636609e55f0b0f8b35bc9bbc454",
+  "repo_url": "https://github.com/processmaker/processmaker",
+  "date": "2026-08-31T22:50:06",
+  "languages": {
+    "PHP": 6122689,
+    "Vue": 2255312,
+    "HTML": 651509,
+    "Blade": 616260,
+    "Shell": 19334,
+    "Less": 7080,
+    "EJS": 6768,
+    "Stylus": 3534,
+    "Hack": 171,
+    "Dockerfile": 109
+  },
+  "size": 9682766
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "38630a1e9e114f990e275b23d9e69411ad47cd93",
+  "repo_url": "https://github.com/ibm/mcp-context-forge",
+  "date": "2025-07-09T02:40:43",
+  "languages": {
+    "Python": 1158438,
+    "HTML": 134021,
+    "Makefile": 132751,
+    "JavaScript": 78154,
+    "Go": 35733,
+    "Shell": 34582,
+    "HCL": 6315,
+    "Dockerfile": 3947,
+    "Smarty": 2502,
+    "Jinja": 1525,
+    "Mako": 704,
+    "CSS": 700
+  },
+  "size": 1589372
+}

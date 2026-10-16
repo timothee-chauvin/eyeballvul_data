@@ -1,0 +1,15 @@
+{
+  "commit": "400c6bde210e81572340e484f756dd89dd3eae2a",
+  "repo_url": "https://github.com/guy-hartstein/company-research-agent",
+  "date": "2026-07-04T17:09:26",
+  "languages": {
+    "Python": 120993,
+    "TypeScript": 67920,
+    "Shell": 8511,
+    "CSS": 1373,
+    "Dockerfile": 1116,
+    "JavaScript": 990,
+    "HTML": 367
+  },
+  "size": 201270
+}

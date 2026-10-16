@@ -1,0 +1,13 @@
+{
+  "commit": "b8450c199700fed3a92556ae6d899f59c178db5f",
+  "repo_url": "https://github.com/privasys/enclave-os-mini",
+  "date": "2026-07-07T00:25:42",
+  "languages": {
+    "Rust": 1274868,
+    "CMake": 20372,
+    "Python": 11323,
+    "Shell": 5856,
+    "C": 3173
+  },
+  "size": 1315592
+}

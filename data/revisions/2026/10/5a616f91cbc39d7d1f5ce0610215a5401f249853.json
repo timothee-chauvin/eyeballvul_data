@@ -1,0 +1,14 @@
+{
+  "commit": "5a616f91cbc39d7d1f5ce0610215a5401f249853",
+  "repo_url": "https://github.com/tabularisdb/tabularis",
+  "date": "2026-10-08T09:30:54",
+  "languages": {
+    "TypeScript": 6215370,
+    "Rust": 2945375,
+    "JavaScript": 35462,
+    "CSS": 21963,
+    "HTML": 19687,
+    "Shell": 831
+  },
+  "size": 9238688
+}

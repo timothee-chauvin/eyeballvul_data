@@ -1,0 +1,21 @@
+{
+  "commit": "b73701541ebda4333cdd9f83bd2e5e339d1b107a",
+  "repo_url": "https://github.com/tianma-if/edgeever",
+  "date": "2026-10-10T12:01:21",
+  "languages": {
+    "TypeScript": 7179888,
+    "JavaScript": 2923390,
+    "Swift": 820674,
+    "CSS": 237608,
+    "Astro": 188849,
+    "Rust": 186627,
+    "Shell": 56213,
+    "HTML": 34864,
+    "Python": 26073,
+    "Kotlin": 4286,
+    "Dockerfile": 2452,
+    "Ruby": 1690,
+    "NSIS": 606
+  },
+  "size": 11663220
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "460c1b4e722ecd2c07dcde7cec9eab5c4051065d",
+  "repo_url": "https://github.com/jfrog/jfrog-cli",
+  "date": "2026-10-06T13:44:20",
+  "languages": {
+    "Go": 3188334,
+    "Shell": 75211,
+    "JavaScript": 8906,
+    "Makefile": 5395,
+    "Dockerfile": 1300,
+    "Batchfile": 82
+  },
+  "size": 3279228
+}

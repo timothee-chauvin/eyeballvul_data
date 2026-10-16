@@ -1,0 +1,15 @@
+{
+  "commit": "b0ae2891eedb37f7134ce115135409dc2ae5bcbf",
+  "repo_url": "https://github.com/legacyupdate/legacyupdate",
+  "date": "2026-05-16T14:38:34",
+  "languages": {
+    "C++": 845892,
+    "C": 237237,
+    "NSIS": 129147,
+    "Makefile": 8448,
+    "HTML": 1479,
+    "Shell": 1453,
+    "Batchfile": 1253
+  },
+  "size": 1224909
+}

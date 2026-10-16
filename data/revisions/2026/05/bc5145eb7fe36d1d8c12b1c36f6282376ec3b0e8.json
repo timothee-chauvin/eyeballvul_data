@@ -1,0 +1,10 @@
+{
+  "commit": "bc5145eb7fe36d1d8c12b1c36f6282376ec3b0e8",
+  "repo_url": "https://github.com/getgrav/grav-plugin-guestbook",
+  "date": "2026-05-01T09:58:14",
+  "languages": {
+    "PHP": 11793,
+    "Twig": 9490
+  },
+  "size": 21283
+}

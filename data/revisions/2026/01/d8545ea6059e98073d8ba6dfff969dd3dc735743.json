@@ -1,0 +1,21 @@
+{
+  "commit": "d8545ea6059e98073d8ba6dfff969dd3dc735743",
+  "repo_url": "https://github.com/riot-os/riot",
+  "date": "2026-01-15T10:11:59",
+  "languages": {
+    "C": 29532745,
+    "C++": 953071,
+    "Makefile": 851663,
+    "Python": 715996,
+    "Shell": 28598,
+    "Assembly": 26461,
+    "Rust": 7024,
+    "CMake": 2817,
+    "SmPL": 2591,
+    "JavaScript": 1548,
+    "Cadence": 887,
+    "Lua": 617,
+    "Vim Snippet": 212
+  },
+  "size": 32124230
+}

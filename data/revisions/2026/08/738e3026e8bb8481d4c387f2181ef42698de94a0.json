@@ -1,0 +1,20 @@
+{
+  "commit": "738e3026e8bb8481d4c387f2181ef42698de94a0",
+  "repo_url": "https://github.com/modu-ai/moai-adk",
+  "date": "2026-08-20T08:50:52",
+  "languages": {
+    "Go": 18928287,
+    "HTML": 1549402,
+    "Shell": 589034,
+    "JavaScript": 384498,
+    "CSS": 251332,
+    "Mustache": 194308,
+    "PowerShell": 34484,
+    "Batchfile": 7888,
+    "Scheme": 6097,
+    "Makefile": 5256,
+    "TypeScript": 4788,
+    "Perl": 2534
+  },
+  "size": 21957908
+}

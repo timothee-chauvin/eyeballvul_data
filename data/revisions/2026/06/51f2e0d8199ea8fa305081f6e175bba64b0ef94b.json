@@ -1,0 +1,17 @@
+{
+  "commit": "51f2e0d8199ea8fa305081f6e175bba64b0ef94b",
+  "repo_url": "https://github.com/miniflux/v2",
+  "date": "2026-06-26T03:56:36",
+  "languages": {
+    "Go": 2340224,
+    "HTML": 192174,
+    "JavaScript": 61576,
+    "CSS": 39482,
+    "Roff": 15752,
+    "Makefile": 5291,
+    "Shell": 4926,
+    "Dockerfile": 2569,
+    "Procfile": 18
+  },
+  "size": 2662012
+}

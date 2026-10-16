@@ -1,0 +1,19 @@
+{
+  "commit": "480b58f76238f0322b12c43ea053ff0467cabd02",
+  "repo_url": "https://github.com/get-convex/convex-backend",
+  "date": "2026-08-09T13:33:25",
+  "languages": {
+    "TypeScript": 8260260,
+    "Rust": 7953054,
+    "MDX": 1312117,
+    "JavaScript": 635399,
+    "CSS": 203547,
+    "HTML": 19457,
+    "Python": 17613,
+    "Vue": 11563,
+    "Shell": 11494,
+    "Just": 7248,
+    "Svelte": 685
+  },
+  "size": 18432437
+}

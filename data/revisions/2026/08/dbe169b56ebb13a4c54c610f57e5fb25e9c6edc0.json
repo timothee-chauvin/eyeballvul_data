@@ -1,0 +1,18 @@
+{
+  "commit": "dbe169b56ebb13a4c54c610f57e5fb25e9c6edc0",
+  "repo_url": "https://github.com/znuny/znuny",
+  "date": "2026-08-19T13:13:29",
+  "languages": {
+    "Perl": 75006512,
+    "JavaScript": 2151261,
+    "CSS": 977566,
+    "PLSQL": 168894,
+    "SCSS": 45251,
+    "HTML": 36008,
+    "Shell": 14165,
+    "AGS Script": 10259,
+    "Gherkin": 3204,
+    "XSLT": 1875
+  },
+  "size": 78414995
+}
