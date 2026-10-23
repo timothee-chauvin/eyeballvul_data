@@ -1,0 +1,14 @@
+{
+  "commit": "6bdf6885808ffd5d6445e54b8488f4683ed74387",
+  "repo_url": "https://github.com/dotmesh-io/dotmesh",
+  "date": "2020-04-28T14:09:01",
+  "languages": {
+    "Go": 1205831,
+    "Shell": 53028,
+    "Dockerfile": 4458,
+    "Makefile": 2457,
+    "JavaScript": 547,
+    "Starlark": 346
+  },
+  "size": 1266667
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "14965932dcf85b19be9779662c5738ea03ccb929",
+  "repo_url": "https://github.com/chaitin/safeline",
+  "date": "2026-09-03T03:26:06",
+  "languages": {
+    "Go": 246286,
+    "C++": 127294,
+    "Perl": 66368,
+    "Python": 51971,
+    "Lua": 47065,
+    "Lex": 9377,
+    "Yacc": 9366,
+    "Vim Script": 4892,
+    "Makefile": 2986,
+    "Shell": 1171,
+    "Dockerfile": 897
+  },
+  "size": 567673
+}

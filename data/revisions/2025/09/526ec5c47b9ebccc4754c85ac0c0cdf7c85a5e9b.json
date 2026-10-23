@@ -1,0 +1,21 @@
+{
+  "commit": "526ec5c47b9ebccc4754c85ac0c0cdf7c85a5e9b",
+  "repo_url": "https://gitlab.com/freetype/freetype",
+  "date": "2025-09-11T11:16:53",
+  "languages": {
+    "C": 7572259,
+    "Makefile": 170018,
+    "Python": 144553,
+    "DIGITAL Command Language": 69818,
+    "M4": 45761,
+    "CMake": 40367,
+    "C++": 27655,
+    "Meson": 16539,
+    "Shell": 14797,
+    "Perl": 13048,
+    "HTML": 7263,
+    "Awk": 3962,
+    "sed": 99
+  },
+  "size": 8126139
+}

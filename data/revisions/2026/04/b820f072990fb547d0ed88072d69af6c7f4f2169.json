@@ -1,0 +1,15 @@
+{
+  "commit": "b820f072990fb547d0ed88072d69af6c7f4f2169",
+  "repo_url": "https://github.com/kubetail-org/kubetail",
+  "date": "2026-04-26T14:44:19",
+  "languages": {
+    "TypeScript": 729583,
+    "Go": 701484,
+    "Rust": 174064,
+    "Makefile": 7550,
+    "HTML": 6342,
+    "Starlark": 6318,
+    "CSS": 4134
+  },
+  "size": 1629475
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "e38c1c0f2567c602541c90c4c92152e99e6ead11",
+  "repo_url": "https://github.com/abilityai/trinity",
+  "date": "2026-09-17T17:09:55",
+  "languages": {
+    "Python": 24324953,
+    "JavaScript": 3417029,
+    "Vue": 3279288,
+    "TypeScript": 1002403,
+    "Shell": 260261,
+    "Dockerfile": 34454,
+    "CSS": 29530,
+    "HTML": 13118,
+    "HCL": 10207,
+    "Ruby": 3743,
+    "Mako": 509
+  },
+  "size": 32375495
+}

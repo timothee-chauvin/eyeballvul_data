@@ -1,0 +1,16 @@
+{
+  "commit": "c17e66be387e037224d8922ecf5751bd183d186e",
+  "repo_url": "https://github.com/frappe/hrms",
+  "date": "2026-04-08T13:41:45",
+  "languages": {
+    "Python": 1882740,
+    "JavaScript": 394242,
+    "Vue": 259201,
+    "HTML": 53098,
+    "SCSS": 7114,
+    "CSS": 5891,
+    "TypeScript": 1885,
+    "Shell": 1033
+  },
+  "size": 2605204
+}

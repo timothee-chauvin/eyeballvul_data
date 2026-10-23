@@ -1,0 +1,13 @@
+{
+  "commit": "8ae6cec5d60495822ecd57d736f66149da9b1830",
+  "repo_url": "https://github.com/serge1/elfio",
+  "date": "2023-06-02T14:37:37",
+  "languages": {
+    "C++": 372817,
+    "CMake": 7551,
+    "Assembly": 574,
+    "Shell": 152,
+    "C": 75
+  },
+  "size": 381169
+}

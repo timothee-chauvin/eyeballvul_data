@@ -1,0 +1,14 @@
+{
+  "commit": "fce6eb36181ed70b5b0763c391a50b806d7e3da7",
+  "repo_url": "https://github.com/alexjustesen/speedtest-tracker",
+  "date": "2026-08-21T19:12:03",
+  "languages": {
+    "PHP": 621266,
+    "Blade": 43959,
+    "Dockerfile": 3644,
+    "CSS": 2603,
+    "Shell": 961,
+    "JavaScript": 415
+  },
+  "size": 672848
+}

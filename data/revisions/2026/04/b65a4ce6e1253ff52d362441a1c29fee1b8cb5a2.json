@@ -1,0 +1,20 @@
+{
+  "commit": "b65a4ce6e1253ff52d362441a1c29fee1b8cb5a2",
+  "repo_url": "https://github.com/baserow/baserow",
+  "date": "2026-04-28T19:17:16",
+  "languages": {
+    "Python": 21988038,
+    "Vue": 3845007,
+    "JavaScript": 3840946,
+    "SCSS": 505067,
+    "HTML": 379429,
+    "Shell": 100336,
+    "TypeScript": 94519,
+    "Just": 93636,
+    "Dockerfile": 41522,
+    "Smarty": 12657,
+    "ANTLR": 9257,
+    "Makefile": 1737
+  },
+  "size": 30912151
+}

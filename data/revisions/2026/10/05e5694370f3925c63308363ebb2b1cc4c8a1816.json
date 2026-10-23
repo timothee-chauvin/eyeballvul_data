@@ -1,0 +1,16 @@
+{
+  "commit": "05e5694370f3925c63308363ebb2b1cc4c8a1816",
+  "repo_url": "https://github.com/mgdaaslab/wharttest",
+  "date": "2026-10-15T11:48:34",
+  "languages": {
+    "Python": 4515306,
+    "Vue": 3676358,
+    "TypeScript": 772560,
+    "JavaScript": 140389,
+    "CSS": 137460,
+    "Shell": 122819,
+    "Dockerfile": 17334,
+    "HTML": 357
+  },
+  "size": 9382583
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "8e533fd07acc2f8ae4cffe7f95d2c3392773e2b5",
+  "repo_url": "https://github.com/tomolt/libschrift",
+  "date": "2022-06-25T17:39:37",
+  "languages": {
+    "C": 54572,
+    "Roff": 6511,
+    "Makefile": 2034
+  },
+  "size": 63117
+}

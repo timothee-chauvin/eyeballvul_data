@@ -1,0 +1,16 @@
+{
+  "commit": "fa0ae1b00903cc55e321d5c0165746310092adf8",
+  "repo_url": "https://github.com/esri/lerc",
+  "date": "2026-03-09T18:08:17",
+  "languages": {
+    "C++": 358487,
+    "C#": 44480,
+    "Python": 43774,
+    "C": 28020,
+    "JavaScript": 25132,
+    "TypeScript": 17999,
+    "HTML": 14136,
+    "CMake": 1940
+  },
+  "size": 533968
+}

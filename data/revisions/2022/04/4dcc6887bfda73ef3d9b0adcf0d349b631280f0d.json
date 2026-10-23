@@ -1,0 +1,14 @@
+{
+  "commit": "4dcc6887bfda73ef3d9b0adcf0d349b631280f0d",
+  "repo_url": "https://github.com/yahoo/cmak",
+  "date": "2022-04-28T23:01:12",
+  "languages": {
+    "Scala": 909989,
+    "HTML": 137370,
+    "Shell": 21675,
+    "CSS": 5799,
+    "JavaScript": 4693,
+    "Less": 1379
+  },
+  "size": 1080905
+}

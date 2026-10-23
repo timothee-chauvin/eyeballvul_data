@@ -1,0 +1,12 @@
+{
+  "commit": "3422ea1196b7d2fff26774d73eee12b63af2cf23",
+  "repo_url": "https://github.com/aiven-open/myhoard",
+  "date": "2025-11-13T12:11:00",
+  "languages": {
+    "Python": 638281,
+    "Shell": 6800,
+    "Dockerfile": 3938,
+    "Makefile": 3139
+  },
+  "size": 652158
+}

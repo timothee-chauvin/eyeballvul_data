@@ -1,0 +1,11 @@
+{
+  "commit": "1e85e559951bdf97ffe2a7c744ee67ca83589fde",
+  "repo_url": "https://github.com/browserstack/browserstack-runner",
+  "date": "2021-04-21T10:36:55",
+  "languages": {
+    "JavaScript": 98655,
+    "Ruby": 2269,
+    "HTML": 454
+  },
+  "size": 101378
+}

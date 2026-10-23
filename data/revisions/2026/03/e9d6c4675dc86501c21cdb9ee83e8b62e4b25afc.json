@@ -1,0 +1,18 @@
+{
+  "commit": "e9d6c4675dc86501c21cdb9ee83e8b62e4b25afc",
+  "repo_url": "https://github.com/crmeb/crmeb",
+  "date": "2026-03-23T06:57:47",
+  "languages": {
+    "Vue": 11081080,
+    "PHP": 7857238,
+    "JavaScript": 1572121,
+    "HTML": 755931,
+    "CSS": 441676,
+    "SCSS": 212073,
+    "Smarty": 72677,
+    "Shell": 5769,
+    "Hack": 301,
+    "Batchfile": 202
+  },
+  "size": 21999068
+}

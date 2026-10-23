@@ -1,0 +1,16 @@
+{
+  "commit": "1d4b22dc1a9e43424ab86fe1871f5a04a9b2bfd0",
+  "repo_url": "https://github.com/playedu/playedu",
+  "date": "2026-10-12T06:30:45",
+  "languages": {
+    "Java": 1022021,
+    "TypeScript": 711100,
+    "SCSS": 55281,
+    "Less": 32580,
+    "CSS": 22089,
+    "JavaScript": 13038,
+    "Dockerfile": 2829,
+    "HTML": 2301
+  },
+  "size": 1861239
+}

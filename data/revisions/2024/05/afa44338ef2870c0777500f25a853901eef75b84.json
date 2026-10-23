@@ -1,0 +1,12 @@
+{
+  "commit": "afa44338ef2870c0777500f25a853901eef75b84",
+  "repo_url": "https://github.com/snowflakedb/snowpark-python",
+  "date": "2024-05-21T16:40:11",
+  "languages": {
+    "Python": 9338710,
+    "Jupyter Notebook": 311250,
+    "Shell": 4328,
+    "Dockerfile": 758
+  },
+  "size": 9655046
+}

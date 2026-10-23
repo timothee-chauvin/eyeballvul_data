@@ -1,0 +1,27 @@
+{
+  "commit": "350101abad5072de389272c9b54a428e732ffcb9",
+  "repo_url": "https://github.com/strongswan/strongswan",
+  "date": "2023-02-22T19:00:18",
+  "languages": {
+    "C": 16064777,
+    "Roff": 1499883,
+    "Shell": 674862,
+    "Java": 439179,
+    "Makefile": 244938,
+    "M4": 96631,
+    "Python": 52723,
+    "Objective-C": 35366,
+    "Perl": 23556,
+    "C#": 18707,
+    "Ruby": 18205,
+    "Yacc": 13605,
+    "Lex": 10296,
+    "Ada": 7497,
+    "CSS": 2963,
+    "Dockerfile": 2416,
+    "HTML": 1392,
+    "Rich Text Format": 1389,
+    "JavaScript": 209
+  },
+  "size": 19208594
+}

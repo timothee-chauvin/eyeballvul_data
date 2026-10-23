@@ -1,0 +1,15 @@
+{
+  "commit": "7180b529776834fee912113b23f0bd7a387a8222",
+  "repo_url": "https://github.com/dromara/ruoyi-vue-plus",
+  "date": "2026-07-30T03:02:02",
+  "languages": {
+    "Java": 2295377,
+    "TSQL": 274643,
+    "FreeMarker": 128518,
+    "PLpgSQL": 37549,
+    "Dockerfile": 3025,
+    "Shell": 1683,
+    "Batchfile": 1601
+  },
+  "size": 2742396
+}

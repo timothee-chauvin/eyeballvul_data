@@ -1,0 +1,15 @@
+{
+  "commit": "544e87be842df3098c06892d422891f13c5a2938",
+  "repo_url": "https://github.com/driftregion/iso14229",
+  "date": "2026-08-29T19:20:29",
+  "languages": {
+    "C": 624895,
+    "Starlark": 26213,
+    "Python": 14670,
+    "C++": 7561,
+    "Shell": 6098,
+    "Makefile": 740,
+    "Batchfile": 628
+  },
+  "size": 680805
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "2d8e244bd051634704ed9e69a70dd975ce166c78",
+  "repo_url": "https://github.com/mindee/doctr",
+  "date": "2026-08-19T14:01:41",
+  "languages": {
+    "Python": 1897168,
+    "Dockerfile": 1945,
+    "Makefile": 1443
+  },
+  "size": 1900556
+}

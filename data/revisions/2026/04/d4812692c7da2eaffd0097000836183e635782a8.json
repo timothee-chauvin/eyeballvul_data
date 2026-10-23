@@ -1,0 +1,17 @@
+{
+  "commit": "d4812692c7da2eaffd0097000836183e635782a8",
+  "repo_url": "https://github.com/osamu620/openhtj2k",
+  "date": "2026-04-22T21:43:55",
+  "languages": {
+    "C++": 2551460,
+    "HTML": 208106,
+    "CMake": 160010,
+    "JavaScript": 43818,
+    "Objective-C++": 26497,
+    "Metal": 5826,
+    "Python": 5168,
+    "Shell": 2434,
+    "Dockerfile": 898
+  },
+  "size": 3004217
+}

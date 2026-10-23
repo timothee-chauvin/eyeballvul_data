@@ -1,0 +1,18 @@
+{
+  "commit": "8f7036f03627054d5a54a6f965b13f4b9ff2cb63",
+  "repo_url": "https://github.com/lightgbm-org/lightgbm",
+  "date": "2026-07-18T20:10:03",
+  "languages": {
+    "C++": 2304578,
+    "Python": 1031196,
+    "R": 542624,
+    "Cuda": 383562,
+    "C": 140379,
+    "Shell": 71613,
+    "CMake": 50374,
+    "PowerShell": 26696,
+    "SWIG": 26668,
+    "M4": 5291
+  },
+  "size": 4582981
+}

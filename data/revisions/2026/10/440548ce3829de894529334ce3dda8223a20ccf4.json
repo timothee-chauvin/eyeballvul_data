@@ -1,0 +1,12 @@
+{
+  "commit": "440548ce3829de894529334ce3dda8223a20ccf4",
+  "repo_url": "https://github.com/crawlseo/crawlseo",
+  "date": "2026-10-15T19:24:51",
+  "languages": {
+    "TypeScript": 668751,
+    "JavaScript": 12703,
+    "CSS": 9283,
+    "Dockerfile": 1854
+  },
+  "size": 692591
+}

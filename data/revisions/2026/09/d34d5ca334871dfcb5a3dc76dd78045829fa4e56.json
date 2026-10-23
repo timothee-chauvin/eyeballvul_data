@@ -1,0 +1,18 @@
+{
+  "commit": "d34d5ca334871dfcb5a3dc76dd78045829fa4e56",
+  "repo_url": "https://github.com/shepherd-agents/shepherd",
+  "date": "2026-09-09T10:34:37",
+  "languages": {
+    "Python": 17217671,
+    "JavaScript": 43291,
+    "C": 39225,
+    "Makefile": 29291,
+    "Shell": 28687,
+    "CSS": 20115,
+    "Dockerfile": 5523,
+    "Jupyter Notebook": 3209,
+    "HTML": 2492,
+    "TeX": 622
+  },
+  "size": 17390126
+}

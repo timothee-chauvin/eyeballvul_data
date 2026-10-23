@@ -1,0 +1,15 @@
+{
+  "commit": "561f61244358eaef81884076f48f8a8316499db2",
+  "repo_url": "https://github.com/pfrest/pfsense-pkg-restapi",
+  "date": "2026-07-26T23:42:52",
+  "languages": {
+    "PHP": 3606214,
+    "Python": 8749,
+    "Shell": 4274,
+    "HTML": 2715,
+    "Jinja": 825,
+    "JavaScript": 364,
+    "CSS": 234
+  },
+  "size": 3623375
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "c741c803724e235d921dfb388ba2ad941d82c9e1",
+  "repo_url": "https://github.com/frappe/helpdesk",
+  "date": "2026-05-29T06:06:34",
+  "languages": {
+    "Vue": 1296845,
+    "Python": 517877,
+    "TypeScript": 179581,
+    "JavaScript": 32048,
+    "HTML": 12042,
+    "CSS": 2005,
+    "Shell": 1154
+  },
+  "size": 2041552
+}

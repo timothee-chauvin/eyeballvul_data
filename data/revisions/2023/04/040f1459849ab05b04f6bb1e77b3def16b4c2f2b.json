@@ -1,0 +1,27 @@
+{
+  "commit": "040f1459849ab05b04f6bb1e77b3def16b4c2f2b",
+  "repo_url": "https://github.com/neovim/neovim",
+  "date": "2023-04-07T11:26:29",
+  "languages": {
+    "Vim Script": 14058241,
+    "C": 9974163,
+    "Lua": 7303362,
+    "Python": 171835,
+    "CMake": 158238,
+    "Shell": 60400,
+    "Scheme": 14642,
+    "Perl": 10983,
+    "Makefile": 10650,
+    "Roff": 8986,
+    "C++": 5872,
+    "KRL": 4206,
+    "Nix": 3727,
+    "MATLAB": 1970,
+    "HTML": 1931,
+    "Tcl": 745,
+    "BitBake": 388,
+    "Batchfile": 318,
+    "Ruby": 182
+  },
+  "size": 31790839
+}

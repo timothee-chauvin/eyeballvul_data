@@ -1,12 +1,12 @@
 {
   "id": "OSV-2022-1101",
   "published": "2022-10-28T00:00:27.714849",
-  "modified": "2025-06-29T14:11:11.919343",
+  "modified": "2026-10-20T17:25:30.844659",
   "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=52740\n\n```\nCrash type: UNKNOWN READ\nCrash state:\nAPFSBtreeNodeIterator<APFSJObjBtreeNode> APFSJObjBtreeNode::find<unsigned long, \nstd::__1::pair<APFSBtreeNodeIterator<APFSJObjBtreeNode>, APFSBtreeNodeIterator<A\nAPFSJObjTree::obj\n```\n",
   "summary": "UNKNOWN READ in APFSBtreeNodeIterator<APFSJObjBtreeNode> APFSJObjBtreeNode::find<unsigned long, ",
   "repo_url": "https://github.com/sleuthkit/sleuthkit",
   "cwes": [],
   "commits": [
-    "c6efd66293546b9c95637be703c7c7823e950629"
+    "4936f765d36d523d52a1925fa2f3ed11a5fcae65"
   ]
 }

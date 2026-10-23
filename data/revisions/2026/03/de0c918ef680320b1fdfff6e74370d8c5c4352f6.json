@@ -1,0 +1,14 @@
+{
+  "commit": "de0c918ef680320b1fdfff6e74370d8c5c4352f6",
+  "repo_url": "https://github.com/swc-project/swc",
+  "date": "2026-03-02T11:37:24",
+  "languages": {
+    "Rust": 26008748,
+    "JavaScript": 494064,
+    "TypeScript": 170654,
+    "Shell": 34198,
+    "Python": 3015,
+    "SCSS": 22
+  },
+  "size": 26710701
+}

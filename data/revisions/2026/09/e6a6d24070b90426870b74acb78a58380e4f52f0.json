@@ -1,0 +1,18 @@
+{
+  "commit": "e6a6d24070b90426870b74acb78a58380e4f52f0",
+  "repo_url": "https://github.com/clickvisual/clickvisual",
+  "date": "2026-09-03T06:47:33",
+  "languages": {
+    "Go": 1839728,
+    "CSS": 311274,
+    "Less": 84115,
+    "ANTLR": 26696,
+    "Shell": 6716,
+    "JavaScript": 6124,
+    "Makefile": 2395,
+    "Smarty": 1414,
+    "Dockerfile": 1392,
+    "HTML": 1354
+  },
+  "size": 2281208
+}

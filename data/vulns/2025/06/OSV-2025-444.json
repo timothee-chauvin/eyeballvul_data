@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2025-444",
+  "published": "2025-06-07T00:09:40.471123",
+  "modified": "2026-10-20T12:15:40.066153",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=422822305\n\n```\nCrash type: Security exception\nCrash state:\ncom.drew.imaging.quicktime.QuickTimeReader.processAtoms\ncom.drew.lang.StreamReader.getByte\ncom.drew.lang.SequentialReader.getUInt32\n```\n",
+  "summary": "Security exception in com.drew.imaging.quicktime.QuickTimeReader.processAtoms",
+  "repo_url": "https://github.com/drewnoakes/metadata-extractor.git",
+  "cwes": [],
+  "commits": [
+    "6f037943c0811799a59b0ea19896cb2b07da17be"
+  ]
+}

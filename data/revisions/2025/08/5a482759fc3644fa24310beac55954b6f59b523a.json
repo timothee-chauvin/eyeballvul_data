@@ -1,0 +1,12 @@
+{
+  "commit": "5a482759fc3644fa24310beac55954b6f59b523a",
+  "repo_url": "https://github.com/roncoo/roncoo-education",
+  "date": "2025-08-27T03:02:20",
+  "languages": {
+    "Java": 2616829,
+    "FreeMarker": 63136,
+    "Shell": 5488,
+    "Dockerfile": 1025
+  },
+  "size": 2686478
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "f27da32f84ee34bad4bf39a8d887af87fc3f30fc",
+  "repo_url": "https://github.com/flexprice/flexprice",
+  "date": "2026-10-14T13:46:04",
+  "languages": {
+    "Go": 18706341,
+    "Shell": 218099,
+    "Python": 174811,
+    "TypeScript": 157075,
+    "PLpgSQL": 132166,
+    "JavaScript": 52115,
+    "Smarty": 37176,
+    "Makefile": 36061,
+    "Typst": 26962,
+    "Dockerfile": 3031,
+    "HTML": 977
+  },
+  "size": 19544814
+}

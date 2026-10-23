@@ -1,0 +1,16 @@
+{
+  "commit": "5da9650de60b2fa83dea556d7e95c70b79dabd39",
+  "repo_url": "https://github.com/killbill/killbill",
+  "date": "2026-08-12T06:30:33",
+  "languages": {
+    "Java": 13963168,
+    "JavaScript": 136386,
+    "CSS": 105855,
+    "Shell": 18406,
+    "HTML": 16358,
+    "Mustache": 15743,
+    "PLpgSQL": 14609,
+    "Ruby": 9048
+  },
+  "size": 14279573
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "913acea66708a59595351174cee9b29f37179d29",
+  "repo_url": "https://github.com/dotnet/eshop",
+  "date": "2026-10-15T20:52:28",
+  "languages": {
+    "C#": 848444,
+    "CSS": 133362,
+    "HTML": 102488,
+    "JavaScript": 44608,
+    "TypeScript": 7929,
+    "PowerShell": 3563
+  },
+  "size": 1140394
+}

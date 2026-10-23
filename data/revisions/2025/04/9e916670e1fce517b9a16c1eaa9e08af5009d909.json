@@ -1,0 +1,16 @@
+{
+  "commit": "9e916670e1fce517b9a16c1eaa9e08af5009d909",
+  "repo_url": "https://github.com/hcengineering/platform",
+  "date": "2025-04-17T02:15:07",
+  "languages": {
+    "TypeScript": 9434112,
+    "Svelte": 6760538,
+    "SCSS": 276202,
+    "JavaScript": 206349,
+    "Shell": 51929,
+    "Python": 8073,
+    "Dockerfile": 5853,
+    "EJS": 406
+  },
+  "size": 16743462
+}

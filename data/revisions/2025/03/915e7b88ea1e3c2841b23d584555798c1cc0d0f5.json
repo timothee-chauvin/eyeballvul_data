@@ -1,0 +1,17 @@
+{
+  "commit": "915e7b88ea1e3c2841b23d584555798c1cc0d0f5",
+  "repo_url": "https://github.com/intel/ai-reference-models",
+  "date": "2025-03-18T20:22:47",
+  "languages": {
+    "Python": 8086428,
+    "Shell": 982689,
+    "Jupyter Notebook": 251619,
+    "Dockerfile": 53496,
+    "C++": 34458,
+    "C": 33304,
+    "Makefile": 4361,
+    "Batchfile": 3029,
+    "CMake": 798
+  },
+  "size": 9450182
+}

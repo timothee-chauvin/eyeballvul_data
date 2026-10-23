@@ -1,0 +1,18 @@
+{
+  "commit": "68e57ec4b4fb0bdb128ddd94a2a0fc4119fa645d",
+  "repo_url": "https://github.com/nextcloud/text",
+  "date": "2026-04-28T01:56:18",
+  "languages": {
+    "JavaScript": 9452154,
+    "PHP": 297616,
+    "Vue": 233468,
+    "TypeScript": 128880,
+    "SCSS": 13546,
+    "Shell": 2124,
+    "Dockerfile": 1102,
+    "Makefile": 969,
+    "CSS": 837,
+    "HTML": 419
+  },
+  "size": 10131115
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "c809938fda0ba0a90696779539173ea8d881ad8f",
+  "repo_url": "https://github.com/biopython/biopython",
+  "date": "2025-10-28T21:15:53",
+  "languages": {
+    "Python": 23863002,
+    "C": 771686,
+    "Parrot": 454926,
+    "Roff": 130924,
+    "HTML": 75193,
+    "Visual Basic 6.0": 47938,
+    "Nu": 8928,
+    "AngelScript": 6440,
+    "Gnuplot": 5568,
+    "CAP CDS": 1551,
+    "QMake": 1526,
+    "Prolog": 401
+  },
+  "size": 25368083
+}

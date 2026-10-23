@@ -1,0 +1,15 @@
+{
+  "commit": "5963f0abccf542bfd08403cb06109798311211dd",
+  "repo_url": "https://github.com/apache/maven",
+  "date": "2026-05-19T10:02:57",
+  "languages": {
+    "Java": 13767364,
+    "Shell": 19783,
+    "Batchfile": 19632,
+    "Dockerfile": 6961,
+    "Makefile": 2938,
+    "HTML": 2379,
+    "Groovy": 991
+  },
+  "size": 13820048
+}

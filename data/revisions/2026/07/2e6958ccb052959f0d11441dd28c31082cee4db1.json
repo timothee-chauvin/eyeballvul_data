@@ -1,0 +1,12 @@
+{
+  "commit": "2e6958ccb052959f0d11441dd28c31082cee4db1",
+  "repo_url": "https://github.com/dicklesworthstone/destructive_command_guard",
+  "date": "2026-07-03T01:01:07",
+  "languages": {
+    "Rust": 6683567,
+    "Shell": 656057,
+    "PowerShell": 231515,
+    "Python": 11470
+  },
+  "size": 7582609
+}

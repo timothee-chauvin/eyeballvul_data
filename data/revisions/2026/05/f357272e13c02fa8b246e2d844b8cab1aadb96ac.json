@@ -1,0 +1,13 @@
+{
+  "commit": "f357272e13c02fa8b246e2d844b8cab1aadb96ac",
+  "repo_url": "https://github.com/eat-pray-ai/yutu",
+  "date": "2026-05-03T13:47:30",
+  "languages": {
+    "Go": 643417,
+    "Starlark": 36535,
+    "Shell": 10761,
+    "JavaScript": 1964,
+    "Dockerfile": 573
+  },
+  "size": 693250
+}

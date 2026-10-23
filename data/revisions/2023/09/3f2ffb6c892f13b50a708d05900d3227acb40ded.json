@@ -1,0 +1,18 @@
+{
+  "commit": "3f2ffb6c892f13b50a708d05900d3227acb40ded",
+  "repo_url": "https://github.com/llsourcell/doctor-dignity",
+  "date": "2023-09-21T01:07:13",
+  "languages": {
+    "Python": 1702061,
+    "C++": 120899,
+    "Jupyter Notebook": 103122,
+    "Swift": 90312,
+    "Kotlin": 52705,
+    "Objective-C++": 8472,
+    "CMake": 7810,
+    "Shell": 4593,
+    "Objective-C": 3154,
+    "Java": 2248
+  },
+  "size": 2095376
+}

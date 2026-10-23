@@ -1,0 +1,16 @@
+{
+  "commit": "986a76cf8e49102c8664271d4797c285a8a92e37",
+  "repo_url": "https://github.com/gollum/gollum",
+  "date": "2020-08-11T10:57:42",
+  "languages": {
+    "Ruby": 240293,
+    "JavaScript": 219299,
+    "SCSS": 174385,
+    "Shell": 31146,
+    "Mustache": 22927,
+    "HTML": 9738,
+    "Perl": 3327,
+    "CSS": 75
+  },
+  "size": 701190
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "e90f1c7592896cc95f6e5ee506194f533378247d",
+  "repo_url": "https://github.com/agentscope-ai/agentscope",
+  "date": "2026-08-28T02:36:04",
+  "languages": {
+    "Python": 6922179,
+    "Dockerfile": 2744,
+    "Mako": 636
+  },
+  "size": 6925559
+}

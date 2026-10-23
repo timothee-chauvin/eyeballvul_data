@@ -1,0 +1,13 @@
+{
+  "commit": "7079e49418b1ef0a55764762699140451c5a13fa",
+  "repo_url": "https://github.com/dt42/berrynet",
+  "date": "2021-02-07T03:58:14",
+  "languages": {
+    "Python": 319888,
+    "JavaScript": 38488,
+    "Shell": 16363,
+    "Dockerfile": 1137,
+    "CSS": 871
+  },
+  "size": 376747
+}

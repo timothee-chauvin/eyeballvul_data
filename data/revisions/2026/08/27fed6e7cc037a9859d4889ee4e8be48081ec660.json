@@ -1,0 +1,18 @@
+{
+  "commit": "27fed6e7cc037a9859d4889ee4e8be48081ec660",
+  "repo_url": "https://github.com/mongodb/mongo-cxx-driver",
+  "date": "2026-08-04T12:50:10",
+  "languages": {
+    "C++": 6154384,
+    "Python": 177625,
+    "CMake": 126442,
+    "Shell": 95995,
+    "Dockerfile": 12067,
+    "Batchfile": 6243,
+    "Jinja": 4461,
+    "Makefile": 4097,
+    "Perl": 3281,
+    "CSS": 87
+  },
+  "size": 6584682
+}

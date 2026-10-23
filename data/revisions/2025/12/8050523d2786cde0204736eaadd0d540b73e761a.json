@@ -1,0 +1,16 @@
+{
+  "commit": "8050523d2786cde0204736eaadd0d540b73e761a",
+  "repo_url": "https://github.com/billionmail/billionmail",
+  "date": "2025-12-11T10:18:05",
+  "languages": {
+    "Go": 2805096,
+    "Shell": 155632,
+    "HTML": 64649,
+    "JavaScript": 11166,
+    "Dockerfile": 5496,
+    "CSS": 1821,
+    "Sieve": 594,
+    "PHP": 494
+  },
+  "size": 3044948
+}

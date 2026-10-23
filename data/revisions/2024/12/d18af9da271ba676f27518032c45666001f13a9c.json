@@ -1,0 +1,12 @@
+{
+  "commit": "d18af9da271ba676f27518032c45666001f13a9c",
+  "repo_url": "https://github.com/boxyhq/saas-starter-kit",
+  "date": "2024-12-24T20:39:42",
+  "languages": {
+    "TypeScript": 492141,
+    "JavaScript": 24989,
+    "CSS": 1371,
+    "Procfile": 35
+  },
+  "size": 518536
+}

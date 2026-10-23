@@ -1,0 +1,14 @@
+{
+  "commit": "5b3cb440a7c58115ef64283a737a43299f2805a4",
+  "repo_url": "https://github.com/pulseaiclub/phi",
+  "date": "2026-10-09T16:23:39",
+  "languages": {
+    "Go": 2236844,
+    "Rust": 112457,
+    "TypeScript": 106866,
+    "Shell": 15519,
+    "PowerShell": 7432,
+    "Makefile": 2976
+  },
+  "size": 2482094
+}

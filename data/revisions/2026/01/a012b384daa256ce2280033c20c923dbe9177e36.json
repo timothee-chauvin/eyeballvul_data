@@ -1,0 +1,16 @@
+{
+  "commit": "a012b384daa256ce2280033c20c923dbe9177e36",
+  "repo_url": "https://github.com/valuecell-ai/valuecell",
+  "date": "2026-01-10T10:18:42",
+  "languages": {
+    "Python": 1895026,
+    "TypeScript": 562608,
+    "Rust": 15293,
+    "PowerShell": 11880,
+    "Shell": 8404,
+    "CSS": 5803,
+    "Makefile": 195,
+    "NSIS": 151
+  },
+  "size": 2499360
+}

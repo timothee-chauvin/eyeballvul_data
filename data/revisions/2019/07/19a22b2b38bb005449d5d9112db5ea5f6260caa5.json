@@ -1,0 +1,15 @@
+{
+  "commit": "19a22b2b38bb005449d5d9112db5ea5f6260caa5",
+  "repo_url": "https://github.com/blindkey/dedecmsv5",
+  "date": "2019-07-06T00:34:46",
+  "languages": {
+    "PHP": 3325550,
+    "HTML": 2646045,
+    "JavaScript": 2161703,
+    "CSS": 950111,
+    "Hack": 30894,
+    "POV-Ray SDL": 1104,
+    "C++": 352
+  },
+  "size": 9115759
+}

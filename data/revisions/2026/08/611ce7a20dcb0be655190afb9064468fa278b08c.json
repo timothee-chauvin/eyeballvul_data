@@ -1,0 +1,16 @@
+{
+  "commit": "611ce7a20dcb0be655190afb9064468fa278b08c",
+  "repo_url": "https://github.com/kedro-org/kedro-plugins",
+  "date": "2026-08-03T17:55:14",
+  "languages": {
+    "Python": 2192091,
+    "CSS": 18221,
+    "Gherkin": 8686,
+    "JavaScript": 8065,
+    "HTML": 7213,
+    "Makefile": 4032,
+    "Jinja": 2518,
+    "Shell": 1773
+  },
+  "size": 2242599
+}

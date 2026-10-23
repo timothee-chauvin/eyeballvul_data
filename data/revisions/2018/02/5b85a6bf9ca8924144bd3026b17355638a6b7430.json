@@ -1,0 +1,12 @@
+{
+  "commit": "5b85a6bf9ca8924144bd3026b17355638a6b7430",
+  "repo_url": "https://github.com/l-smash/l-smash",
+  "date": "2018-02-11T00:08:16",
+  "languages": {
+    "C": 2601302,
+    "C#": 3156,
+    "Makefile": 2749,
+    "Verilog": 94
+  },
+  "size": 2607301
+}

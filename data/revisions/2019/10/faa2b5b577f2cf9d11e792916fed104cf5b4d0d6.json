@@ -1,0 +1,20 @@
+{
+  "commit": "faa2b5b577f2cf9d11e792916fed104cf5b4d0d6",
+  "repo_url": "https://github.com/samsung/tizenrt",
+  "date": "2019-10-15T01:14:24",
+  "languages": {
+    "C": 48926072,
+    "C++": 784550,
+    "Makefile": 714081,
+    "Assembly": 415275,
+    "Shell": 215045,
+    "Tcl": 163693,
+    "Python": 136508,
+    "Batchfile": 42646,
+    "PowerShell": 8511,
+    "Roff": 4401,
+    "Perl": 4361,
+    "HTML": 2990
+  },
+  "size": 51418133
+}

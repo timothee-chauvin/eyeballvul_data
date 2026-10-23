@@ -1,0 +1,12 @@
+{
+  "commit": "27a79a10e25b120aa33799d0dd4c720d1c8cf631",
+  "repo_url": "https://github.com/dromara/ruoyi-cloud-plus",
+  "date": "2026-07-30T03:02:15",
+  "languages": {
+    "Java": 2356589,
+    "FreeMarker": 128446,
+    "PLpgSQL": 37549,
+    "Dockerfile": 8732
+  },
+  "size": 2531316
+}

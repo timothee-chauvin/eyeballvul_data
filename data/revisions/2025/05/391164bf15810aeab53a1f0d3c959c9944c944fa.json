@@ -1,0 +1,13 @@
+{
+  "commit": "391164bf15810aeab53a1f0d3c959c9944c944fa",
+  "repo_url": "https://github.com/balena-io/etcher",
+  "date": "2025-05-15T18:09:58",
+  "languages": {
+    "TypeScript": 433793,
+    "JavaScript": 1503,
+    "CSS": 1487,
+    "Shell": 357,
+    "HTML": 156
+  },
+  "size": 437296
+}

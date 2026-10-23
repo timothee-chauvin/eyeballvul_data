@@ -1,0 +1,12 @@
+{
+  "commit": "30c81902258e4ce72d48d0368e1e2b0318c5bdd9",
+  "repo_url": "https://github.com/kuadrant/kuadrant-operator",
+  "date": "2022-08-23T16:18:07",
+  "languages": {
+    "Go": 59644,
+    "Makefile": 18272,
+    "Dockerfile": 1772,
+    "Shell": 1465
+  },
+  "size": 81153
+}

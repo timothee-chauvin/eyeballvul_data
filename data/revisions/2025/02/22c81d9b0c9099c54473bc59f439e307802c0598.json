@@ -1,0 +1,15 @@
+{
+  "commit": "22c81d9b0c9099c54473bc59f439e307802c0598",
+  "repo_url": "https://github.com/hestiacp/hestiacp",
+  "date": "2025-02-04T01:26:42",
+  "languages": {
+    "Shell": 2389169,
+    "PHP": 1170852,
+    "Smarty": 277282,
+    "CSS": 76330,
+    "JavaScript": 72514,
+    "HTML": 31021,
+    "C++": 4681
+  },
+  "size": 4021849
+}

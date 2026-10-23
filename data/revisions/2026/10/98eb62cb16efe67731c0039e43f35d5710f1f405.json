@@ -1,0 +1,15 @@
+{
+  "commit": "98eb62cb16efe67731c0039e43f35d5710f1f405",
+  "repo_url": "https://github.com/phasehq/console",
+  "date": "2026-10-08T17:02:10",
+  "languages": {
+    "TypeScript": 3986678,
+    "Python": 3729855,
+    "HTML": 79768,
+    "JavaScript": 36431,
+    "CSS": 6169,
+    "Shell": 4215,
+    "Dockerfile": 3701
+  },
+  "size": 7846817
+}

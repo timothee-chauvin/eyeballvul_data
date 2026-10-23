@@ -1,0 +1,13 @@
+{
+  "commit": "3e87ce146f0f663d2308fc27a19bd1dde5509ad2",
+  "repo_url": "https://github.com/py-pdf/fpdf2",
+  "date": "2026-02-28T05:38:23",
+  "languages": {
+    "Python": 2231123,
+    "Jupyter Notebook": 7321,
+    "Shell": 5419,
+    "Jinja": 5079,
+    "HTML": 1067
+  },
+  "size": 2250009
+}

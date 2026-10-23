@@ -1,0 +1,16 @@
+{
+  "commit": "cf49b6d420d4a44dcd6355bc0d6b36f9f580f350",
+  "repo_url": "https://github.com/libyal/libesedb",
+  "date": "2026-07-04T07:27:48",
+  "languages": {
+    "C": 2503990,
+    "M4": 170234,
+    "Makefile": 34211,
+    "PowerShell": 27690,
+    "Shell": 26958,
+    "Roff": 26681,
+    "Python": 20678,
+    "C++": 11048
+  },
+  "size": 2821490
+}

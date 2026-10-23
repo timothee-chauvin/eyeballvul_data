@@ -1,0 +1,13 @@
+{
+  "commit": "cc0993d0b245dbeaa19e8ec30c9992ec06fa293e",
+  "repo_url": "https://github.com/alerta/alerta",
+  "date": "2018-10-14T22:30:23",
+  "languages": {
+    "Python": 496531,
+    "HTML": 4737,
+    "JavaScript": 2972,
+    "Shell": 2089,
+    "Makefile": 1140
+  },
+  "size": 507469
+}

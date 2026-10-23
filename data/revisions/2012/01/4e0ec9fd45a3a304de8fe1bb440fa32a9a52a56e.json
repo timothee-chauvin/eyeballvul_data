@@ -1,0 +1,16 @@
+{
+  "commit": "4e0ec9fd45a3a304de8fe1bb440fa32a9a52a56e",
+  "repo_url": "https://github.com/distrotech/schroedinger",
+  "date": "2012-01-23T02:06:16",
+  "languages": {
+    "C": 3252031,
+    "Cuda": 240146,
+    "Python": 181530,
+    "M4": 146692,
+    "Csound": 50832,
+    "Shell": 40832,
+    "Makefile": 18790,
+    "C++": 32
+  },
+  "size": 3930885
+}

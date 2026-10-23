@@ -1,0 +1,13 @@
+{
+  "commit": "f9678e7b14ce5eeff078e0b7f1eba9ed76658bec",
+  "repo_url": "https://github.com/growchief/growchief",
+  "date": "2025-09-05T12:30:20",
+  "languages": {
+    "TypeScript": 822717,
+    "JavaScript": 7990,
+    "CSS": 3660,
+    "Shell": 517,
+    "HTML": 506
+  },
+  "size": 835390
+}

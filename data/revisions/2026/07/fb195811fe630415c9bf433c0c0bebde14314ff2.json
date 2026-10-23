@@ -1,0 +1,14 @@
+{
+  "commit": "fb195811fe630415c9bf433c0c0bebde14314ff2",
+  "repo_url": "https://github.com/belledonnecommunications/bcg729",
+  "date": "2026-07-14T09:03:39",
+  "languages": {
+    "C": 572048,
+    "CMake": 17837,
+    "Perl": 10582,
+    "Makefile": 7128,
+    "Shell": 2799,
+    "M4": 1561
+  },
+  "size": 611955
+}

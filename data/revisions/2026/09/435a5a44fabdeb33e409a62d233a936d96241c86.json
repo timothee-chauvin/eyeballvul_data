@@ -1,0 +1,18 @@
+{
+  "commit": "435a5a44fabdeb33e409a62d233a936d96241c86",
+  "repo_url": "https://github.com/ginlix-ai/langalpha",
+  "date": "2026-09-07T13:45:42",
+  "languages": {
+    "Python": 15945788,
+    "TypeScript": 7919943,
+    "JavaScript": 620799,
+    "CSS": 258933,
+    "Jinja": 56080,
+    "HTML": 39787,
+    "Shell": 29009,
+    "Makefile": 3274,
+    "Dockerfile": 770,
+    "Mako": 635
+  },
+  "size": 24875018
+}

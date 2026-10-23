@@ -1,0 +1,13 @@
+{
+  "commit": "14161e843e7aee94c41370b0a731182e9618f796",
+  "repo_url": "https://github.com/libtom/libtommath",
+  "date": "2010-07-15T15:25:19",
+  "languages": {
+    "C": 428588,
+    "TeX": 52874,
+    "Roff": 4214,
+    "Makefile": 3766,
+    "Perl": 571
+  },
+  "size": 490013
+}

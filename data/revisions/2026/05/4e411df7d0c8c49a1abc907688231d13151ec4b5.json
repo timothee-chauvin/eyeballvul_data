@@ -1,0 +1,18 @@
+{
+  "commit": "4e411df7d0c8c49a1abc907688231d13151ec4b5",
+  "repo_url": "https://github.com/claraverse-space/claraverse",
+  "date": "2026-05-31T18:56:00",
+  "languages": {
+    "Go": 4931367,
+    "TypeScript": 3314367,
+    "CSS": 579147,
+    "Shell": 115581,
+    "HTML": 75499,
+    "Python": 63837,
+    "PowerShell": 26772,
+    "Dockerfile": 9882,
+    "JavaScript": 7842,
+    "Batchfile": 7201
+  },
+  "size": 9131495
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "b17cdfaa43c7e1300d52d2660fc9793a1fda7e21",
+  "repo_url": "https://github.com/alexpasmantier/television",
+  "date": "2026-06-14T21:14:18",
+  "languages": {
+    "Rust": 874725,
+    "Shell": 31040,
+    "TypeScript": 14966,
+    "PowerShell": 6849,
+    "CSS": 5143,
+    "Just": 4979,
+    "Nix": 4933,
+    "Python": 2522,
+    "Nushell": 1808
+  },
+  "size": 946965
+}

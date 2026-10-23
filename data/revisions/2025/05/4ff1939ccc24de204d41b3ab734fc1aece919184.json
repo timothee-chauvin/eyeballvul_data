@@ -1,0 +1,11 @@
+{
+  "commit": "4ff1939ccc24de204d41b3ab734fc1aece919184",
+  "repo_url": "https://github.com/swami/libinstpatch",
+  "date": "2025-05-20T11:35:36",
+  "languages": {
+    "C": 2577483,
+    "CMake": 39687,
+    "Python": 21362
+  },
+  "size": 2638532
+}

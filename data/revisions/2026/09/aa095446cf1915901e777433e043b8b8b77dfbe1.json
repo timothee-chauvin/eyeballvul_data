@@ -1,0 +1,19 @@
+{
+  "commit": "aa095446cf1915901e777433e043b8b8b77dfbe1",
+  "repo_url": "https://github.com/coleam00/archon",
+  "date": "2026-09-25T16:45:41",
+  "languages": {
+    "TypeScript": 16348035,
+    "JavaScript": 102558,
+    "Astro": 76380,
+    "Shell": 66898,
+    "PowerShell": 24112,
+    "CSS": 21204,
+    "Dockerfile": 15024,
+    "MDX": 10780,
+    "HTML": 3593,
+    "Ruby": 1758,
+    "Python": 295
+  },
+  "size": 16670637
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "2b94cd472d00c837275f0aa8677947de2691c6d7",
+  "repo_url": "https://github.com/prestashop/psgdpr",
+  "date": "2022-12-15T10:02:36",
+  "languages": {
+    "PHP": 620361,
+    "JavaScript": 317311,
+    "Smarty": 101437,
+    "CSS": 12794,
+    "Shell": 1030
+  },
+  "size": 1052933
+}

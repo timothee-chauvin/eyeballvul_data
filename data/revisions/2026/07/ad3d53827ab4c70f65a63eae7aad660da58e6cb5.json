@@ -1,0 +1,20 @@
+{
+  "commit": "ad3d53827ab4c70f65a63eae7aad660da58e6cb5",
+  "repo_url": "https://github.com/unidata/netcdf-c",
+  "date": "2026-07-07T22:08:43",
+  "languages": {
+    "C": 18220462,
+    "Makefile": 1816307,
+    "Shell": 753777,
+    "M4": 593346,
+    "C++": 293886,
+    "CMake": 272349,
+    "Roff": 162428,
+    "HTML": 88809,
+    "Yacc": 84266,
+    "Lex": 35858,
+    "Batchfile": 550,
+    "Awk": 31
+  },
+  "size": 22322069
+}

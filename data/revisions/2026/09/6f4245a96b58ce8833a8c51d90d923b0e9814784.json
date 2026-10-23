@@ -1,0 +1,14 @@
+{
+  "commit": "6f4245a96b58ce8833a8c51d90d923b0e9814784",
+  "repo_url": "https://github.com/sugarforever/chat-ollama",
+  "date": "2026-09-09T21:09:04",
+  "languages": {
+    "TypeScript": 1256015,
+    "Vue": 366837,
+    "SCSS": 29727,
+    "JavaScript": 23663,
+    "Shell": 4863,
+    "Dockerfile": 758
+  },
+  "size": 1681863
+}

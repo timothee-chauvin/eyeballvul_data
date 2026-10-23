@@ -1,0 +1,11 @@
+{
+  "commit": "40cd606cabdbe2b566d6f14a6b162c89206e9a1b",
+  "repo_url": "https://github.com/thu-mig/yoloe",
+  "date": "2025-06-26T03:45:33",
+  "languages": {
+    "Python": 2124038,
+    "Shell": 6422,
+    "Dockerfile": 4083
+  },
+  "size": 2134543
+}

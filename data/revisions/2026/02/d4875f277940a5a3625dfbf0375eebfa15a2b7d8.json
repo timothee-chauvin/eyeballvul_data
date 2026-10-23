@@ -1,0 +1,13 @@
+{
+  "commit": "d4875f277940a5a3625dfbf0375eebfa15a2b7d8",
+  "repo_url": "https://github.com/flintsh/flare",
+  "date": "2026-02-16T22:57:20",
+  "languages": {
+    "TypeScript": 799342,
+    "JavaScript": 5973,
+    "CSS": 3858,
+    "Dockerfile": 2286,
+    "Shell": 2176
+  },
+  "size": 813635
+}

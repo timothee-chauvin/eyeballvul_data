@@ -1,0 +1,16 @@
+{
+  "commit": "6fefe025461b168eac2546ccba3403b70eb5da16",
+  "repo_url": "https://github.com/junegunn/fzf",
+  "date": "2026-04-26T09:04:37",
+  "languages": {
+    "Go": 809417,
+    "Ruby": 268187,
+    "Shell": 98675,
+    "Vim Script": 34034,
+    "Assembly": 12754,
+    "Makefile": 5932,
+    "PowerShell": 1882,
+    "Dockerfile": 512
+  },
+  "size": 1231393
+}

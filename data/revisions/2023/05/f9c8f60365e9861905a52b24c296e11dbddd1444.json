@@ -1,0 +1,13 @@
+{
+  "commit": "f9c8f60365e9861905a52b24c296e11dbddd1444",
+  "repo_url": "https://github.com/moul/sshportal",
+  "date": "2023-05-20T09:26:37",
+  "languages": {
+    "Go": 150504,
+    "Mustache": 1867,
+    "Makefile": 1591,
+    "Dockerfile": 477,
+    "JavaScript": 200
+  },
+  "size": 154639
+}

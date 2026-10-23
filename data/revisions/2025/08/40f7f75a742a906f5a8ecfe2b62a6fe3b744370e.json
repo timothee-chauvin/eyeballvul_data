@@ -1,0 +1,15 @@
+{
+  "commit": "40f7f75a742a906f5a8ecfe2b62a6fe3b744370e",
+  "repo_url": "https://github.com/google/sentencepiece",
+  "date": "2025-08-05T15:59:22",
+  "languages": {
+    "C++": 8391274,
+    "Python": 89764,
+    "SWIG": 72647,
+    "CMake": 67191,
+    "Jupyter Notebook": 48722,
+    "Perl": 8641,
+    "Shell": 912
+  },
+  "size": 8679151
+}

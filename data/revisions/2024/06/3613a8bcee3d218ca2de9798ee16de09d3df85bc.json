@@ -1,0 +1,21 @@
+{
+  "commit": "3613a8bcee3d218ca2de9798ee16de09d3df85bc",
+  "repo_url": "https://github.com/mailu/mailu",
+  "date": "2024-06-18T08:43:03",
+  "languages": {
+    "Python": 411544,
+    "HTML": 72902,
+    "Shell": 30683,
+    "Dockerfile": 14258,
+    "HCL": 12601,
+    "JavaScript": 9338,
+    "PHP": 5926,
+    "CSS": 2121,
+    "Lua": 1347,
+    "Sieve": 1345,
+    "Mako": 412,
+    "C++": 385,
+    "Pawn": 121
+  },
+  "size": 562983
+}

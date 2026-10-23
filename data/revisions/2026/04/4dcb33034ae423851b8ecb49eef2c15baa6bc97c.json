@@ -1,0 +1,15 @@
+{
+  "commit": "4dcb33034ae423851b8ecb49eef2c15baa6bc97c",
+  "repo_url": "https://github.com/hkuds/vibe-trading",
+  "date": "2026-04-28T09:39:19",
+  "languages": {
+    "Python": 1150772,
+    "TypeScript": 177113,
+    "HTML": 9156,
+    "CSS": 8847,
+    "Jinja": 2707,
+    "Dockerfile": 1478,
+    "JavaScript": 81
+  },
+  "size": 1350154
+}

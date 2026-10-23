@@ -1,0 +1,14 @@
+{
+  "commit": "8fa72239e65c75df5e0c0f2ee2d8f14bd17805de",
+  "repo_url": "https://github.com/hypequery/hypequery",
+  "date": "2026-07-23T07:37:10",
+  "languages": {
+    "TypeScript": 4067532,
+    "MDX": 393955,
+    "JavaScript": 124747,
+    "CSS": 26487,
+    "Shell": 10043,
+    "HTML": 368
+  },
+  "size": 4623132
+}

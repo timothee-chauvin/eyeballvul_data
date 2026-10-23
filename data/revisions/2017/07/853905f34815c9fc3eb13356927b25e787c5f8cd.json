@@ -1,0 +1,13 @@
+{
+  "commit": "853905f34815c9fc3eb13356927b25e787c5f8cd",
+  "repo_url": "https://github.com/jenkinsci/github-branch-source-plugin",
+  "date": "2017-07-05T21:30:04",
+  "languages": {
+    "Java": 314392,
+    "HTML": 7068,
+    "JavaScript": 4177,
+    "Shell": 635,
+    "CSS": 288
+  },
+  "size": 326560
+}

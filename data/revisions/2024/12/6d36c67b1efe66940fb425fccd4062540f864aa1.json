@@ -1,0 +1,13 @@
+{
+  "commit": "6d36c67b1efe66940fb425fccd4062540f864aa1",
+  "repo_url": "https://github.com/johnwhitington/cpdf-source",
+  "date": "2024-12-13T16:19:23",
+  "languages": {
+    "OCaml": 2337465,
+    "TeX": 776119,
+    "Shell": 1887,
+    "Makefile": 1827,
+    "Roff": 530
+  },
+  "size": 3117828
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "f724f97590b9bbe71cb50e59ed68ce94aeb9769e",
+  "repo_url": "https://github.com/erpipe-org/mcp-odoo",
+  "date": "2026-08-19T06:38:08",
+  "languages": {
+    "Python": 1002536,
+    "HTML": 87440,
+    "Dockerfile": 1051
+  },
+  "size": 1091027
+}

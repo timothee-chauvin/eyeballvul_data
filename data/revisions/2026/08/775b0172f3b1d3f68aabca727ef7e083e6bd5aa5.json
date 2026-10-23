@@ -1,0 +1,13 @@
+{
+  "commit": "775b0172f3b1d3f68aabca727ef7e083e6bd5aa5",
+  "repo_url": "https://github.com/zfile-dev/zfile",
+  "date": "2026-08-09T12:20:27",
+  "languages": {
+    "Java": 1139312,
+    "HTML": 13100,
+    "Shell": 1510,
+    "Dockerfile": 717,
+    "Batchfile": 131
+  },
+  "size": 1154770
+}

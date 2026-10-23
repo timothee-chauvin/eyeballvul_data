@@ -1,0 +1,16 @@
+{
+  "commit": "c2eb0f5b9f100b4ddab536e21721d7b9a932658d",
+  "repo_url": "https://github.com/checkmarx/ast-cli",
+  "date": "2026-05-06T07:03:15",
+  "languages": {
+    "Go": 1959230,
+    "Python": 39954,
+    "C#": 4632,
+    "Shell": 3588,
+    "Dockerfile": 1907,
+    "HCL": 1291,
+    "Makefile": 176,
+    "JavaScript": 54
+  },
+  "size": 2010832
+}

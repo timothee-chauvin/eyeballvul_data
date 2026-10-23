@@ -1,0 +1,18 @@
+{
+  "commit": "ef96598b8e8e73a643c4b18b0179fe444d082eda",
+  "repo_url": "https://github.com/node-cube/cube",
+  "date": "2024-04-25T02:39:27",
+  "languages": {
+    "JavaScript": 450042,
+    "HTML": 303436,
+    "CoffeeScript": 5173,
+    "CSS": 4743,
+    "Less": 577,
+    "Makefile": 574,
+    "Stylus": 314,
+    "Shell": 113,
+    "EJS": 92,
+    "Pug": 47
+  },
+  "size": 765111
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "610720c2e369f7c6917b04423c416abbc07e1db9",
+  "repo_url": "https://github.com/ottermind/nubase",
+  "date": "2026-06-16T03:39:22",
+  "languages": {
+    "Java": 2970380,
+    "TypeScript": 909074,
+    "PLpgSQL": 58474,
+    "JavaScript": 20317,
+    "CSS": 12980,
+    "Shell": 12674,
+    "HTML": 9658,
+    "Dockerfile": 958
+  },
+  "size": 3994515
+}

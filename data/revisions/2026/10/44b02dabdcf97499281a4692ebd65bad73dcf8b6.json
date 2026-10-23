@@ -1,0 +1,16 @@
+{
+  "commit": "44b02dabdcf97499281a4692ebd65bad73dcf8b6",
+  "repo_url": "https://github.com/tencent/ncnn",
+  "date": "2026-10-18T13:31:56",
+  "languages": {
+    "C++": 27179250,
+    "C": 16606615,
+    "GLSL": 1944879,
+    "Python": 1754454,
+    "CMake": 337604,
+    "Shell": 12242,
+    "Batchfile": 2325,
+    "SWIG": 1837
+  },
+  "size": 47839206
+}

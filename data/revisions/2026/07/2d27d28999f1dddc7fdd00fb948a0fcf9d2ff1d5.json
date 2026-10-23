@@ -1,0 +1,19 @@
+{
+  "commit": "2d27d28999f1dddc7fdd00fb948a0fcf9d2ff1d5",
+  "repo_url": "https://github.com/iotsharp/iotsharp",
+  "date": "2026-07-01T12:45:57",
+  "languages": {
+    "C#": 3818074,
+    "Vue": 907638,
+    "TypeScript": 322831,
+    "SCSS": 52152,
+    "JavaScript": 24231,
+    "Dockerfile": 7773,
+    "HTML": 4142,
+    "CSS": 2871,
+    "PowerShell": 1351,
+    "Batchfile": 1303,
+    "Shell": 955
+  },
+  "size": 5143321
+}

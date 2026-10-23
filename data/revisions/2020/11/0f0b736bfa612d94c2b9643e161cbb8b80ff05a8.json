@@ -1,0 +1,13 @@
+{
+  "commit": "0f0b736bfa612d94c2b9643e161cbb8b80ff05a8",
+  "repo_url": "https://github.com/pkp/ojs",
+  "date": "2020-11-27T23:26:21",
+  "languages": {
+    "PHP": 1724939,
+    "Smarty": 306328,
+    "JavaScript": 105543,
+    "Less": 65391,
+    "Shell": 11531
+  },
+  "size": 2213732
+}

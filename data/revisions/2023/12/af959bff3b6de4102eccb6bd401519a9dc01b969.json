@@ -1,0 +1,30 @@
+{
+  "commit": "af959bff3b6de4102eccb6bd401519a9dc01b969",
+  "repo_url": "https://github.com/gitahead/gitahead",
+  "date": "2023-12-20T22:26:50",
+  "languages": {
+    "C++": 5515133,
+    "HTML": 1921992,
+    "C": 1821900,
+    "Lua": 584298,
+    "Makefile": 376472,
+    "Objective-C++": 268687,
+    "Python": 227985,
+    "CMake": 34059,
+    "Objective-C": 21976,
+    "Perl": 14889,
+    "QMake": 9775,
+    "Shell": 6486,
+    "Roff": 6111,
+    "CSS": 5288,
+    "Nim": 770,
+    "D": 506,
+    "Batchfile": 370,
+    "Visual Basic .NET": 292,
+    "Tcl": 178,
+    "Classic ASP": 121,
+    "PHP": 99,
+    "Ruby": 63
+  },
+  "size": 10817450
+}

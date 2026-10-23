@@ -1,0 +1,13 @@
+{
+  "commit": "cd800f2976e1e5b682fbf86a01ee4d85ae61f370",
+  "repo_url": "https://github.com/evolution-foundation/evolution-api",
+  "date": "2025-12-05T14:28:52",
+  "languages": {
+    "TypeScript": 1040573,
+    "Shell": 6137,
+    "JavaScript": 4492,
+    "Dockerfile": 1613,
+    "PLpgSQL": 1033
+  },
+  "size": 1053848
+}

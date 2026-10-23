@@ -1,0 +1,29 @@
+{
+  "commit": "994dc1cc216a39a456a31c56761729d525e37c23",
+  "repo_url": "https://github.com/qgis/qgis",
+  "date": "2013-01-26T13:16:39",
+  "languages": {
+    "C++": 15423305,
+    "C": 11916818,
+    "Python": 3329339,
+    "HTML": 1773952,
+    "CMake": 342930,
+    "Shell": 103133,
+    "QML": 81924,
+    "Perl": 38335,
+    "Batchfile": 35205,
+    "NSIS": 31995,
+    "Rich Text Format": 29040,
+    "CSS": 14388,
+    "Yacc": 14033,
+    "LLVM": 7821,
+    "XSLT": 6427,
+    "TSQL": 6363,
+    "Roff": 3583,
+    "M4": 2795,
+    "R": 1602,
+    "JavaScript": 1529,
+    "Scheme": 666
+  },
+  "size": 33165183
+}

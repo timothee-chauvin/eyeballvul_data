@@ -1,0 +1,31 @@
+{
+  "commit": "d870a30252b57abe3b0f32e81fe84595a1d3f5b8",
+  "repo_url": "https://github.com/uyuni-project/uyuni",
+  "date": "2021-08-13T11:38:36",
+  "languages": {
+    "Java": 22652269,
+    "Python": 7476137,
+    "JavaScript": 5396062,
+    "PLpgSQL": 3518035,
+    "PLSQL": 1981628,
+    "TypeScript": 1531318,
+    "Gherkin": 740047,
+    "Shell": 533985,
+    "Perl": 499667,
+    "Ruby": 387573,
+    "Less": 117458,
+    "SaltStack": 106577,
+    "Makefile": 90967,
+    "Roff": 57430,
+    "Pug": 41411,
+    "C": 16601,
+    "CSS": 16402,
+    "XSLT": 15885,
+    "HTML": 8934,
+    "Dockerfile": 5223,
+    "Genshi": 1371,
+    "Groovy": 1357,
+    "sed": 267
+  },
+  "size": 45196604
+}

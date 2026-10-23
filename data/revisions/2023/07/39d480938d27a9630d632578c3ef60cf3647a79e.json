@@ -1,0 +1,11 @@
+{
+  "commit": "39d480938d27a9630d632578c3ef60cf3647a79e",
+  "repo_url": "https://github.com/elunez/eladmin",
+  "date": "2023-07-05T06:00:29",
+  "languages": {
+    "Java": 753392,
+    "PLpgSQL": 48750,
+    "FreeMarker": 32785
+  },
+  "size": 834927
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "a7534300bb09184fec991b3b4f19a40538b8adea",
+  "repo_url": "https://github.com/adulau/ssldump",
+  "date": "2024-10-17T04:26:39",
+  "languages": {
+    "C": 376653,
+    "Roff": 20074,
+    "HTML": 19921,
+    "CMake": 11484,
+    "Makefile": 10078,
+    "Dockerfile": 812,
+    "Shell": 723
+  },
+  "size": 439745
+}

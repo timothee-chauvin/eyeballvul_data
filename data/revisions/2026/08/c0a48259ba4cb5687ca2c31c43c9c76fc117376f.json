@@ -1,0 +1,31 @@
+{
+  "commit": "c0a48259ba4cb5687ca2c31c43c9c76fc117376f",
+  "repo_url": "https://github.com/riclolsen/json-scada",
+  "date": "2026-08-28T11:58:15",
+  "languages": {
+    "C": 6197983,
+    "C#": 5998213,
+    "JavaScript": 5121668,
+    "C++": 1119849,
+    "Go": 924824,
+    "TypeScript": 761018,
+    "HTML": 581656,
+    "Vue": 379069,
+    "Java": 335763,
+    "CSS": 192463,
+    "Python": 109847,
+    "Shell": 102260,
+    "Batchfile": 86253,
+    "CMake": 78599,
+    "Makefile": 42054,
+    "NSIS": 34173,
+    "Dockerfile": 22609,
+    "SCSS": 20957,
+    "PHP": 12012,
+    "Astro": 6195,
+    "SWIG": 5423,
+    "PowerShell": 3013,
+    "Ruby": 578
+  },
+  "size": 22136479
+}

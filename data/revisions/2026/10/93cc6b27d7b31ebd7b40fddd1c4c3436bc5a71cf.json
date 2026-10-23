@@ -1,0 +1,16 @@
+{
+  "commit": "93cc6b27d7b31ebd7b40fddd1c4c3436bc5a71cf",
+  "repo_url": "https://github.com/1mcp-app/agent",
+  "date": "2026-10-09T16:08:05",
+  "languages": {
+    "TypeScript": 12191201,
+    "JavaScript": 537963,
+    "PowerShell": 67530,
+    "CSS": 24622,
+    "Python": 21592,
+    "Shell": 6686,
+    "Dockerfile": 2307,
+    "HTML": 382
+  },
+  "size": 12852283
+}

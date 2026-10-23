@@ -1,0 +1,18 @@
+{
+  "commit": "27bdc89569ab0a4a9a2042fc9d8f27bda5419ccc",
+  "repo_url": "https://github.com/53ai/53aihub",
+  "date": "2026-10-09T07:17:27",
+  "languages": {
+    "Go": 12721550,
+    "TypeScript": 10250039,
+    "JavaScript": 1484033,
+    "CSS": 443014,
+    "HTML": 302410,
+    "Vue": 3475,
+    "SCSS": 2993,
+    "Dockerfile": 1666,
+    "Makefile": 1246,
+    "Shell": 497
+  },
+  "size": 25210923
+}

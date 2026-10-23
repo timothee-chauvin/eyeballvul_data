@@ -1,0 +1,19 @@
+{
+  "commit": "3fb59a81a4e6320bc50828e23a16dcd3d8485f59",
+  "repo_url": "https://github.com/4ian/gdevelop",
+  "date": "2026-10-14T15:16:17",
+  "languages": {
+    "JavaScript": 23440678,
+    "C++": 7933922,
+    "TypeScript": 4072154,
+    "CSS": 149239,
+    "C": 77646,
+    "Python": 39161,
+    "Shell": 37857,
+    "CMake": 25573,
+    "HTML": 12998,
+    "NSIS": 4503,
+    "Batchfile": 2776
+  },
+  "size": 35796507
+}

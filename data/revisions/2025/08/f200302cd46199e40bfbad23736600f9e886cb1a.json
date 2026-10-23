@@ -1,0 +1,16 @@
+{
+  "commit": "f200302cd46199e40bfbad23736600f9e886cb1a",
+  "repo_url": "https://github.com/mjcarson/thorium",
+  "date": "2025-08-29T19:18:33",
+  "languages": {
+    "Rust": 4929783,
+    "JavaScript": 507061,
+    "TypeScript": 234729,
+    "SCSS": 65703,
+    "Shell": 12861,
+    "Python": 3383,
+    "Dockerfile": 2891,
+    "HTML": 1093
+  },
+  "size": 5757504
+}

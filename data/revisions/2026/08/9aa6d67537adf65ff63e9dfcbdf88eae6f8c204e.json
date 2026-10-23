@@ -1,0 +1,13 @@
+{
+  "commit": "9aa6d67537adf65ff63e9dfcbdf88eae6f8c204e",
+  "repo_url": "https://github.com/stalniy/casl",
+  "date": "2026-08-08T17:07:06",
+  "languages": {
+    "TypeScript": 239766,
+    "JavaScript": 111011,
+    "HTML": 7073,
+    "CSS": 1075,
+    "Shell": 56
+  },
+  "size": 358981
+}

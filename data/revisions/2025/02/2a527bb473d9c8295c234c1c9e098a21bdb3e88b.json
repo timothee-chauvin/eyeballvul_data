@@ -1,0 +1,21 @@
+{
+  "commit": "2a527bb473d9c8295c234c1c9e098a21bdb3e88b",
+  "repo_url": "https://github.com/openmined/pysyft",
+  "date": "2025-02-13T10:08:04",
+  "languages": {
+    "Python": 3453114,
+    "Jupyter Notebook": 1020110,
+    "Svelte": 150753,
+    "TypeScript": 50577,
+    "Shell": 47642,
+    "HTML": 41404,
+    "JavaScript": 31089,
+    "Just": 30976,
+    "CSS": 16371,
+    "Jinja": 12421,
+    "Dockerfile": 12342,
+    "Smarty": 6352,
+    "Cap'n Proto": 381
+  },
+  "size": 4873532
+}

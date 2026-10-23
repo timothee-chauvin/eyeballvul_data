@@ -1,0 +1,18 @@
+{
+  "commit": "06c5e1af5f6e5d1a27d9355d01265d4f09166639",
+  "repo_url": "https://github.com/gnome/evolution",
+  "date": "2018-03-12T08:34:46",
+  "languages": {
+    "C": 18912480,
+    "CMake": 208625,
+    "TeX": 50416,
+    "Makefile": 47298,
+    "Python": 36942,
+    "M4": 10471,
+    "Shell": 10339,
+    "Gherkin": 7812,
+    "CSS": 3596,
+    "Roff": 1762
+  },
+  "size": 19289741
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "bb29a7a45e516d26cf434c6f349404ff18413727",
+  "repo_url": "https://github.com/rachelos/we-mp-rss",
+  "date": "2026-08-13T07:15:56",
+  "languages": {
+    "Python": 1666496,
+    "TypeScript": 723902,
+    "Vue": 410895,
+    "JavaScript": 402881,
+    "HTML": 63759,
+    "Shell": 17996,
+    "Dockerfile": 6020,
+    "CSS": 5681,
+    "Batchfile": 4986
+  },
+  "size": 3302616
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "24f62bc0babec9260c7ce33af6fd7b14affd8d5b",
+  "repo_url": "https://github.com/alexta69/metube",
+  "date": "2026-09-28T17:11:17",
+  "languages": {
+    "Python": 582135,
+    "TypeScript": 154982,
+    "HTML": 60089,
+    "Sass": 5195,
+    "Dockerfile": 3877,
+    "Shell": 2850,
+    "JavaScript": 2328
+  },
+  "size": 811456
+}

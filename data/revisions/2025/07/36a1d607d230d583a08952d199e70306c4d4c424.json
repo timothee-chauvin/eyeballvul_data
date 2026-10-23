@@ -1,0 +1,18 @@
+{
+  "commit": "36a1d607d230d583a08952d199e70306c4d4c424",
+  "repo_url": "https://github.com/devlive-community/metaforge",
+  "date": "2025-07-28T06:21:19",
+  "languages": {
+    "Java": 2245745,
+    "Vue": 612093,
+    "Kotlin": 436435,
+    "ANTLR": 206853,
+    "TypeScript": 110521,
+    "Shell": 22413,
+    "Batchfile": 8590,
+    "HTML": 357,
+    "Dockerfile": 345,
+    "CSS": 129
+  },
+  "size": 3643481
+}

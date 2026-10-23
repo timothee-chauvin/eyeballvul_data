@@ -1,0 +1,11 @@
+{
+  "commit": "ede2a74e73ed0c26c43f3ecf5f245655e3738319",
+  "repo_url": "https://github.com/nodejs/undici",
+  "date": "2026-08-31T13:15:51",
+  "languages": {
+    "JavaScript": 3880093,
+    "TypeScript": 115725,
+    "Shell": 1194
+  },
+  "size": 3997012
+}

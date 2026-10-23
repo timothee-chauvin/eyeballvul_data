@@ -1,0 +1,17 @@
+{
+  "commit": "602f4dbc69a2c841a3fbae714398329d96f312c0",
+  "repo_url": "https://github.com/potpie-ai/potpie",
+  "date": "2026-06-17T04:50:44",
+  "languages": {
+    "Python": 9314668,
+    "Rust": 105726,
+    "Scheme": 35198,
+    "Shell": 33564,
+    "Dockerfile": 20281,
+    "Makefile": 14069,
+    "JavaScript": 2929,
+    "Mako": 635,
+    "PowerShell": 554
+  },
+  "size": 9527624
+}

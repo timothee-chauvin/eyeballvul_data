@@ -1,0 +1,12 @@
+{
+  "commit": "d1353c895380e84542ae560bcd7f13caa9730bc8",
+  "repo_url": "https://github.com/mettle/sendportal-core",
+  "date": "2026-10-12T15:00:16",
+  "languages": {
+    "PHP": 588766,
+    "Blade": 121867,
+    "SCSS": 25552,
+    "JavaScript": 532
+  },
+  "size": 736717
+}

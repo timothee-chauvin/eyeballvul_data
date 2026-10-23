@@ -1,0 +1,19 @@
+{
+  "commit": "e68ebe2b7569cc04d439a71f7f5abc1b2f48c8bb",
+  "repo_url": "https://github.com/os-autoinst/openqa",
+  "date": "2018-06-03T07:02:10",
+  "languages": {
+    "Perl": 1745054,
+    "JavaScript": 159676,
+    "SCSS": 35471,
+    "PLpgSQL": 14854,
+    "Shell": 13946,
+    "Python": 6200,
+    "Makefile": 5778,
+    "Dockerfile": 5520,
+    "CSS": 3859,
+    "Raku": 2583,
+    "Vim Script": 393
+  },
+  "size": 1993334
+}

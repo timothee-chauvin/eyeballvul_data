@@ -1,0 +1,28 @@
+{
+  "commit": "a2d9193fed0c7f93519c0c4c28b3348e0cb5759b",
+  "repo_url": "https://github.com/dentonw/devil",
+  "date": "2017-01-01T23:37:37",
+  "languages": {
+    "C++": 1752526,
+    "C": 533635,
+    "Python": 56684,
+    "Visual Basic 6.0": 32050,
+    "CMake": 31780,
+    "Pascal": 29093,
+    "Makefile": 23356,
+    "Java": 22131,
+    "M4": 16316,
+    "FreeBasic": 13286,
+    "C#": 10349,
+    "HTML": 8821,
+    "Visual Basic .NET": 8505,
+    "Shell": 6314,
+    "Batchfile": 6296,
+    "TeX": 5032,
+    "NSIS": 4683,
+    "Mathematica": 4491,
+    "SWIG": 176,
+    "Fortran": 87
+  },
+  "size": 2565611
+}

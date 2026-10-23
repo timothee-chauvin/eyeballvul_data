@@ -1,0 +1,19 @@
+{
+  "commit": "4506db899ec12317aa62deb92fbe0de3b38838ee",
+  "repo_url": "https://github.com/data-infra/cube-studio",
+  "date": "2026-10-12T12:29:18",
+  "languages": {
+    "Python": 2473060,
+    "TypeScript": 712513,
+    "Jupyter Notebook": 641934,
+    "HTML": 127682,
+    "Less": 125140,
+    "Shell": 100668,
+    "JavaScript": 86564,
+    "CSS": 39566,
+    "Dockerfile": 37610,
+    "R": 1241,
+    "Mako": 494
+  },
+  "size": 4346472
+}

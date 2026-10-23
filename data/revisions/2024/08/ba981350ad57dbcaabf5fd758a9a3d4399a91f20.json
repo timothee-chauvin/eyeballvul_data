@@ -1,0 +1,12 @@
+{
+  "commit": "ba981350ad57dbcaabf5fd758a9a3d4399a91f20",
+  "repo_url": "https://github.com/kedro-org/kedro",
+  "date": "2024-08-21T17:27:56",
+  "languages": {
+    "Python": 1244206,
+    "Gherkin": 11429,
+    "Shell": 7957,
+    "Makefile": 1858
+  },
+  "size": 1265450
+}

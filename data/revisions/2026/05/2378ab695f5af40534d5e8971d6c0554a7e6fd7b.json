@@ -1,0 +1,13 @@
+{
+  "commit": "2378ab695f5af40534d5e8971d6c0554a7e6fd7b",
+  "repo_url": "https://github.com/aws-amplify/amplify-category-api",
+  "date": "2026-05-07T16:09:56",
+  "languages": {
+    "TypeScript": 8349104,
+    "JavaScript": 114896,
+    "Shell": 51944,
+    "Python": 11691,
+    "HTML": 1721
+  },
+  "size": 8529356
+}

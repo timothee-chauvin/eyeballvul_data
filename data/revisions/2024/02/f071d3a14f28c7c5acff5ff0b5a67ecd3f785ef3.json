@@ -1,0 +1,12 @@
+{
+  "commit": "f071d3a14f28c7c5acff5ff0b5a67ecd3f785ef3",
+  "repo_url": "https://github.com/gstreamer/orc",
+  "date": "2024-02-27T13:03:20",
+  "languages": {
+    "C": 1984160,
+    "Csound": 196869,
+    "Meson": 16725,
+    "Shell": 2927
+  },
+  "size": 2200681
+}

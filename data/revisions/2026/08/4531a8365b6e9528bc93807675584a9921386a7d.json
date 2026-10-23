@@ -1,0 +1,14 @@
+{
+  "commit": "4531a8365b6e9528bc93807675584a9921386a7d",
+  "repo_url": "https://github.com/loopx-project/loopx",
+  "date": "2026-08-09T03:54:03",
+  "languages": {
+    "Python": 16469950,
+    "TypeScript": 630560,
+    "JavaScript": 121898,
+    "Shell": 95977,
+    "CSS": 68020,
+    "HTML": 29180
+  },
+  "size": 17415585
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "be50abc0767900df05782082722dc5c948fad86c",
+  "repo_url": "https://github.com/tooljet/tooljet",
+  "date": "2022-03-17T17:02:57",
+  "languages": {
+    "JavaScript": 949943,
+    "TypeScript": 635274,
+    "SCSS": 358973,
+    "EJS": 6895,
+    "Dockerfile": 6042,
+    "Shell": 4681,
+    "HCL": 1715,
+    "HTML": 702,
+    "Procfile": 162,
+    "Batchfile": 61
+  },
+  "size": 1964448
+}

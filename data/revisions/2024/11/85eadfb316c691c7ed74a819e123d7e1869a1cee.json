@@ -1,0 +1,12 @@
+{
+  "commit": "85eadfb316c691c7ed74a819e123d7e1869a1cee",
+  "repo_url": "https://github.com/aws/amazon-redshift-python-driver",
+  "date": "2024-11-21T01:19:50",
+  "languages": {
+    "Python": 1076949,
+    "Jupyter Notebook": 51544,
+    "HTML": 24177,
+    "Shell": 35
+  },
+  "size": 1152705
+}

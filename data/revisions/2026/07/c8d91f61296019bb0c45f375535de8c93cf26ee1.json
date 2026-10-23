@@ -1,0 +1,13 @@
+{
+  "commit": "c8d91f61296019bb0c45f375535de8c93cf26ee1",
+  "repo_url": "https://github.com/legcord/legcord",
+  "date": "2026-07-26T17:09:49",
+  "languages": {
+    "TypeScript": 481429,
+    "CSS": 82664,
+    "JavaScript": 10986,
+    "HTML": 10432,
+    "Shell": 176
+  },
+  "size": 585687
+}

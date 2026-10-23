@@ -1,0 +1,18 @@
+{
+  "commit": "b537bcc6219bbe937ee8159166444912e56973f0",
+  "repo_url": "https://github.com/ovidijusparsiunas/deep-chat",
+  "date": "2026-08-27T09:45:37",
+  "languages": {
+    "TypeScript": 983714,
+    "MDX": 681408,
+    "JavaScript": 318161,
+    "CSS": 113725,
+    "Java": 48484,
+    "Elixir": 36780,
+    "Go": 36332,
+    "Python": 20775,
+    "Svelte": 11672,
+    "HTML": 4510
+  },
+  "size": 2255561
+}

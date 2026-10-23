@@ -1,0 +1,13 @@
+{
+  "commit": "f0af10084978c15005339f25f226480c4e25dc83",
+  "repo_url": "https://github.com/getrebuild/rebuild",
+  "date": "2025-02-07T03:20:03",
+  "languages": {
+    "Java": 11206527,
+    "HTML": 1057566,
+    "CSS": 801620,
+    "Shell": 755,
+    "Dockerfile": 352
+  },
+  "size": 13066820
+}

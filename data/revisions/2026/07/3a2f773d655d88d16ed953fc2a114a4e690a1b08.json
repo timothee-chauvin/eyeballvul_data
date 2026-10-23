@@ -1,0 +1,17 @@
+{
+  "commit": "3a2f773d655d88d16ed953fc2a114a4e690a1b08",
+  "repo_url": "https://github.com/netbirdio/netbird",
+  "date": "2026-07-15T12:12:12",
+  "languages": {
+    "Go": 13022758,
+    "Shell": 230338,
+    "HTML": 80828,
+    "TypeScript": 36447,
+    "CSS": 5577,
+    "C": 4280,
+    "Dockerfile": 3378,
+    "Makefile": 1549,
+    "JavaScript": 616
+  },
+  "size": 13385771
+}

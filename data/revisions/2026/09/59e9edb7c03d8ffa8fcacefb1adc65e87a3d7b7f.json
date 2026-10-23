@@ -1,0 +1,18 @@
+{
+  "commit": "59e9edb7c03d8ffa8fcacefb1adc65e87a3d7b7f",
+  "repo_url": "https://github.com/stevereiner/flexible-graphrag",
+  "date": "2026-09-16T21:17:33",
+  "languages": {
+    "Python": 4203726,
+    "TypeScript": 308347,
+    "Vue": 161998,
+    "Batchfile": 61778,
+    "HTML": 48942,
+    "SCSS": 44248,
+    "Shell": 36063,
+    "Dockerfile": 10513,
+    "PowerShell": 9915,
+    "JavaScript": 1478
+  },
+  "size": 4887008
+}

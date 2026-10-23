@@ -1,0 +1,13 @@
+{
+  "commit": "608aec8a928da13c540262ed980c569448fb53ab",
+  "repo_url": "https://github.com/plastic-labs/honcho",
+  "date": "2026-10-09T16:06:50",
+  "languages": {
+    "Python": 6942779,
+    "TypeScript": 623678,
+    "Shell": 17064,
+    "Dockerfile": 2798,
+    "Mako": 683
+  },
+  "size": 7587002
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "ab21af9b199e637cd02442e6cd299c7b6e6b8ac7",
+  "repo_url": "https://github.com/nduckmink/arkon",
+  "date": "2026-06-01T15:26:27",
+  "languages": {
+    "Python": 1168113,
+    "TypeScript": 825879,
+    "CSS": 5785,
+    "Dockerfile": 1744,
+    "Mako": 617,
+    "JavaScript": 559,
+    "Shell": 217
+  },
+  "size": 2002914
+}

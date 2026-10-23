@@ -1,0 +1,16 @@
+{
+  "commit": "1a4bd856484263caa4a5e0d6ba377c3dc69150c7",
+  "repo_url": "https://github.com/libyal/libregf",
+  "date": "2026-05-26T15:38:21",
+  "languages": {
+    "C": 2092278,
+    "M4": 144111,
+    "Shell": 74504,
+    "PowerShell": 32542,
+    "Makefile": 27301,
+    "Python": 21564,
+    "Roff": 13771,
+    "C++": 8567
+  },
+  "size": 2414638
+}

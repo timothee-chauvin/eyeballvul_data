@@ -1,0 +1,13 @@
+{
+  "commit": "732fa8ec8131fc75aafc2eaea583ddcdeea2a3cc",
+  "repo_url": "https://github.com/libsidplayfp/libsidplayfp",
+  "date": "2026-08-30T14:48:13",
+  "languages": {
+    "C++": 881875,
+    "M4": 63338,
+    "Makefile": 10602,
+    "C": 9505,
+    "Shell": 641
+  },
+  "size": 965961
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "7adc7c84f61bd6cca13ff0380a811cbb3ae3c544",
+  "repo_url": "https://github.com/openbmb/staffdeck",
+  "date": "2026-09-11T10:10:52",
+  "languages": {
+    "Python": 6552415,
+    "TypeScript": 2616265,
+    "CSS": 150038,
+    "Shell": 24240,
+    "PowerShell": 12127,
+    "JavaScript": 4327,
+    "Inno Setup": 2179,
+    "HTML": 509
+  },
+  "size": 9362100
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "468652294e6a6a794bf1113f0847b93337d69fb4",
+  "repo_url": "https://github.com/build-admin/buildadmin",
+  "date": "2026-09-17T07:17:48",
+  "languages": {
+    "Vue": 897685,
+    "PHP": 791009,
+    "TypeScript": 404653,
+    "SCSS": 29496,
+    "JavaScript": 4967,
+    "HTML": 1016
+  },
+  "size": 2128826
+}

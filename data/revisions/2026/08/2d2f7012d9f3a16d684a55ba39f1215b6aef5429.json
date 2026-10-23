@@ -1,0 +1,11 @@
+{
+  "commit": "2d2f7012d9f3a16d684a55ba39f1215b6aef5429",
+  "repo_url": "https://github.com/mfontanini/libtins",
+  "date": "2026-08-05T15:46:47",
+  "languages": {
+    "C++": 1980370,
+    "CMake": 34055,
+    "C": 15802
+  },
+  "size": 2030227
+}

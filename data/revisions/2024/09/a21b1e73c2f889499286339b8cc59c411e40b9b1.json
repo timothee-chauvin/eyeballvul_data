@@ -1,0 +1,16 @@
+{
+  "commit": "a21b1e73c2f889499286339b8cc59c411e40b9b1",
+  "repo_url": "https://github.com/pinry/pinry",
+  "date": "2024-09-30T14:16:18",
+  "languages": {
+    "Python": 79651,
+    "Vue": 79160,
+    "JavaScript": 24244,
+    "Shell": 6050,
+    "SCSS": 2559,
+    "Makefile": 1340,
+    "HTML": 660,
+    "Dockerfile": 270
+  },
+  "size": 193934
+}

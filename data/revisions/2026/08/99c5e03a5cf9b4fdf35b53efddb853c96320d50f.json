@@ -1,0 +1,16 @@
+{
+  "commit": "99c5e03a5cf9b4fdf35b53efddb853c96320d50f",
+  "repo_url": "https://github.com/wohlstand/libadlmidi",
+  "date": "2026-08-29T22:26:37",
+  "languages": {
+    "C++": 3538779,
+    "C": 969341,
+    "CMake": 86214,
+    "Batchfile": 9034,
+    "Shell": 5168,
+    "Python": 4760,
+    "Makefile": 2755,
+    "QMake": 2616
+  },
+  "size": 4618667
+}

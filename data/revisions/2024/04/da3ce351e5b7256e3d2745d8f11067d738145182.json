@@ -1,0 +1,15 @@
+{
+  "commit": "da3ce351e5b7256e3d2745d8f11067d738145182",
+  "repo_url": "https://github.com/goadmingroup/go-admin",
+  "date": "2024-04-25T01:00:39",
+  "languages": {
+    "Go": 1413113,
+    "TSQL": 176758,
+    "CSS": 159589,
+    "JavaScript": 20521,
+    "PLpgSQL": 15062,
+    "Makefile": 4555,
+    "Dockerfile": 1328
+  },
+  "size": 1790926
+}

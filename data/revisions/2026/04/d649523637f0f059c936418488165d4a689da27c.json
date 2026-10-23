@@ -1,0 +1,14 @@
+{
+  "commit": "d649523637f0f059c936418488165d4a689da27c",
+  "repo_url": "https://github.com/colanode/colanode",
+  "date": "2026-04-03T09:33:46",
+  "languages": {
+    "TypeScript": 2460499,
+    "HTML": 12240,
+    "CSS": 6546,
+    "Smarty": 6445,
+    "Dockerfile": 2855,
+    "JavaScript": 1484
+  },
+  "size": 2490069
+}

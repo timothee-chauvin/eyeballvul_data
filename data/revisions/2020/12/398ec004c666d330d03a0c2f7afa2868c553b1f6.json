@@ -1,0 +1,13 @@
+{
+  "commit": "398ec004c666d330d03a0c2f7afa2868c553b1f6",
+  "repo_url": "https://github.com/ruby/json",
+  "date": "2020-12-17T05:02:37",
+  "languages": {
+    "Ruby": 150652,
+    "Java": 136053,
+    "C": 114187,
+    "Ragel": 58516,
+    "Shell": 287
+  },
+  "size": 459695
+}

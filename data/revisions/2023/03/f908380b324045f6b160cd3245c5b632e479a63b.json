@@ -1,0 +1,18 @@
+{
+  "commit": "f908380b324045f6b160cd3245c5b632e479a63b",
+  "repo_url": "https://github.com/uselotus/lotus",
+  "date": "2023-03-23T05:10:34",
+  "languages": {
+    "Python": 2336829,
+    "TypeScript": 1702141,
+    "Go": 21619,
+    "CSS": 16598,
+    "Shell": 7897,
+    "JavaScript": 5591,
+    "Dockerfile": 4562,
+    "HTML": 1649,
+    "Less": 1205,
+    "Procfile": 463
+  },
+  "size": 4098554
+}

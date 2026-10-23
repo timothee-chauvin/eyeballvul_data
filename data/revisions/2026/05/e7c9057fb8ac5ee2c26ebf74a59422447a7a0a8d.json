@@ -1,0 +1,21 @@
+{
+  "commit": "e7c9057fb8ac5ee2c26ebf74a59422447a7a0a8d",
+  "repo_url": "https://github.com/conductor-oss/conductor",
+  "date": "2026-05-05T14:23:06",
+  "languages": {
+    "Java": 8090760,
+    "TypeScript": 3748871,
+    "JavaScript": 2592155,
+    "Groovy": 936305,
+    "Shell": 21648,
+    "Python": 13627,
+    "SCSS": 9039,
+    "HTML": 7365,
+    "Dockerfile": 4178,
+    "PLpgSQL": 3833,
+    "PowerShell": 3285,
+    "CSS": 2648,
+    "Batchfile": 2642
+  },
+  "size": 15436356
+}

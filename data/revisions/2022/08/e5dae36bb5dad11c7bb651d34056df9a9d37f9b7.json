@@ -1,0 +1,22 @@
+{
+  "commit": "e5dae36bb5dad11c7bb651d34056df9a9d37f9b7",
+  "repo_url": "https://github.com/alinto/sogo",
+  "date": "2022-08-17T14:21:44",
+  "languages": {
+    "Objective-C": 4917957,
+    "JavaScript": 1053583,
+    "SCSS": 166733,
+    "C": 115871,
+    "Rich Text Format": 76362,
+    "HTML": 73484,
+    "Shell": 71299,
+    "Java": 48024,
+    "Makefile": 46533,
+    "Perl": 32089,
+    "Python": 31067,
+    "CSS": 11864,
+    "PHP": 3047,
+    "PLSQL": 1055
+  },
+  "size": 6648968
+}

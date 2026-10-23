@@ -1,0 +1,15 @@
+{
+  "commit": "affeeda09a88c9fda18e82583cc02c275e4b932d",
+  "repo_url": "https://github.com/messense/aliyundrive-webdav",
+  "date": "2023-10-02T02:12:11",
+  "languages": {
+    "Rust": 98654,
+    "HTML": 30514,
+    "Lua": 6259,
+    "Python": 5778,
+    "Shell": 3469,
+    "Makefile": 2342,
+    "Dockerfile": 817
+  },
+  "size": 147833
+}

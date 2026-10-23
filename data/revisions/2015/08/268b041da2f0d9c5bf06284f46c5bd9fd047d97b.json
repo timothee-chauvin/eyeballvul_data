@@ -1,0 +1,12 @@
+{
+  "commit": "268b041da2f0d9c5bf06284f46c5bd9fd047d97b",
+  "repo_url": "https://github.com/flarum/framework",
+  "date": "2015-08-27T12:21:36",
+  "languages": {
+    "PHP": 530756,
+    "JavaScript": 349471,
+    "Less": 88508,
+    "Blade": 13621
+  },
+  "size": 982356
+}

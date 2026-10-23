@@ -1,0 +1,18 @@
+{
+  "commit": "d6d27653740864a0483e74cff23c53e34e1dceee",
+  "repo_url": "https://github.com/heasarc/cfitsio",
+  "date": "2026-08-05T14:41:02",
+  "languages": {
+    "C": 7116283,
+    "Shell": 400204,
+    "Makefile": 249901,
+    "Yacc": 206700,
+    "Fortran": 133424,
+    "M4": 24702,
+    "Lex": 20695,
+    "CMake": 16592,
+    "Smarty": 3581,
+    "C++": 853
+  },
+  "size": 8172935
+}

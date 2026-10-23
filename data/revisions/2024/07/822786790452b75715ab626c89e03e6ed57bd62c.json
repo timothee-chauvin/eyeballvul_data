@@ -1,0 +1,14 @@
+{
+  "commit": "822786790452b75715ab626c89e03e6ed57bd62c",
+  "repo_url": "https://github.com/kubean-io/kubean",
+  "date": "2024-07-31T02:48:02",
+  "languages": {
+    "Go": 457008,
+    "Shell": 221405,
+    "Python": 23404,
+    "Dockerfile": 5125,
+    "Makefile": 4305,
+    "Smarty": 2399
+  },
+  "size": 713646
+}

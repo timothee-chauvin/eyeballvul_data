@@ -1,0 +1,14 @@
+{
+  "commit": "dcde5841b19b7ef693224207a7fdec67fce604db",
+  "repo_url": "https://github.com/bullfrogsec/bullfrog",
+  "date": "2025-05-11T10:31:47",
+  "languages": {
+    "Go": 27221,
+    "TypeScript": 17070,
+    "Shell": 7508,
+    "Makefile": 3127,
+    "JavaScript": 1178,
+    "Dockerfile": 316
+  },
+  "size": 56420
+}

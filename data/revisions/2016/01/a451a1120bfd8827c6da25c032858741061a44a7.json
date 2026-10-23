@@ -1,0 +1,21 @@
+{
+  "commit": "a451a1120bfd8827c6da25c032858741061a44a7",
+  "repo_url": "https://github.com/alinto/sogo",
+  "date": "2016-01-26T16:41:59",
+  "languages": {
+    "Objective-C": 5192915,
+    "JavaScript": 650819,
+    "Java": 453705,
+    "Python": 284200,
+    "CSS": 173559,
+    "Rich Text Format": 55938,
+    "Makefile": 54892,
+    "C": 52198,
+    "HTML": 50694,
+    "Shell": 41800,
+    "Perl": 39163,
+    "PHP": 3047,
+    "PLSQL": 1055
+  },
+  "size": 7053985
+}

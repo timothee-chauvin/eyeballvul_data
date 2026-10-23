@@ -1,0 +1,14 @@
+{
+  "commit": "5515367dc8a2a561d2d82b8352f729b1da4120d3",
+  "repo_url": "https://github.com/denisidoro/navi",
+  "date": "2025-01-29T23:18:21",
+  "languages": {
+    "Rust": 106324,
+    "Shell": 16800,
+    "PowerShell": 5069,
+    "Nushell": 1008,
+    "Elvish": 704,
+    "Makefile": 181
+  },
+  "size": 130086
+}

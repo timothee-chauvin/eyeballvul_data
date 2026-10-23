@@ -1,0 +1,13 @@
+{
+  "commit": "c7677411bfc4ab5701d343bc6ebd9e35c990e80e",
+  "repo_url": "https://github.com/smartfile/python-libarchive",
+  "date": "2022-09-27T12:40:58",
+  "languages": {
+    "C": 372345,
+    "Python": 73532,
+    "SWIG": 22958,
+    "Shell": 898,
+    "Makefile": 810
+  },
+  "size": 470543
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "3255579290acd99842fe6c1a06f407b06ed63aac",
+  "repo_url": "https://github.com/keyfactor/signserver-ce",
+  "date": "2024-11-18T10:22:29",
+  "languages": {
+    "Java": 8809226,
+    "HTML": 5001528,
+    "CSS": 501654,
+    "JavaScript": 250434,
+    "Shell": 26952,
+    "Batchfile": 6712,
+    "PowerShell": 6049,
+    "Makefile": 5036,
+    "TSQL": 607,
+    "C#": 145,
+    "C": 68
+  },
+  "size": 14608411
+}

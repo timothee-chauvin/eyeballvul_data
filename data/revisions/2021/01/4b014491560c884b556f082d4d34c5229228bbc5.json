@@ -1,0 +1,14 @@
+{
+  "commit": "4b014491560c884b556f082d4d34c5229228bbc5",
+  "repo_url": "https://github.com/utox/utox",
+  "date": "2021-01-23T03:28:34",
+  "languages": {
+    "C": 1510455,
+    "Objective-C": 97909,
+    "CMake": 40714,
+    "Shell": 28257,
+    "Python": 7296,
+    "sed": 578
+  },
+  "size": 1685209
+}

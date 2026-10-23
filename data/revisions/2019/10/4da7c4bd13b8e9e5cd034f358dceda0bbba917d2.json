@@ -1,0 +1,16 @@
+{
+  "commit": "4da7c4bd13b8e9e5cd034f358dceda0bbba917d2",
+  "repo_url": "https://github.com/sass/libsass",
+  "date": "2019-10-04T22:02:37",
+  "languages": {
+    "C++": 1316111,
+    "C": 32821,
+    "Shell": 28625,
+    "M4": 9900,
+    "Makefile": 9365,
+    "Perl": 3390,
+    "SCSS": 76,
+    "CSS": 76
+  },
+  "size": 1400364
+}

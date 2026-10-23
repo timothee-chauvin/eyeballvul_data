@@ -1,0 +1,24 @@
+{
+  "commit": "7dab735a78bf0088a3bbb90fbc99c1e459da949a",
+  "repo_url": "https://github.com/ztxz16/fastllm",
+  "date": "2026-09-06T13:21:12",
+  "languages": {
+    "C++": 11954270,
+    "Cuda": 4653010,
+    "Python": 3016911,
+    "JavaScript": 246357,
+    "HTML": 137688,
+    "CSS": 95170,
+    "Java": 90704,
+    "Shell": 89363,
+    "QML": 78494,
+    "C": 50097,
+    "CMake": 43730,
+    "TypeScript": 8192,
+    "Dockerfile": 6225,
+    "Jinja": 4352,
+    "Makefile": 327,
+    "QMake": 229
+  },
+  "size": 20475119
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "a8165fdd1767cd92bf9fe5eca95ef9997d2bc131",
+  "repo_url": "https://github.com/marsupialtail/quokka",
+  "date": "2023-06-29T06:46:27",
+  "languages": {
+    "Python": 861761,
+    "Shell": 1495,
+    "Dockerfile": 404
+  },
+  "size": 863660
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "542848dd6b9b0eaa9587bbf25b9bc67bd8a71fca",
+  "repo_url": "https://github.com/dlbeer/quirc",
+  "date": "2023-03-22T07:09:03",
+  "languages": {
+    "C": 97593,
+    "C++": 7124,
+    "Makefile": 3879
+  },
+  "size": 108596
+}

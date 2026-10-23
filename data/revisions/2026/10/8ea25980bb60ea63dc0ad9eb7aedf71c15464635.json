@@ -1,0 +1,16 @@
+{
+  "commit": "8ea25980bb60ea63dc0ad9eb7aedf71c15464635",
+  "repo_url": "https://github.com/alldatacenter/alldata",
+  "date": "2026-10-10T02:12:08",
+  "languages": {
+    "Java": 4900850,
+    "Vue": 1735968,
+    "Shell": 57748,
+    "ANTLR": 52585,
+    "SCSS": 36860,
+    "FreeMarker": 27726,
+    "Python": 3064,
+    "Batchfile": 262
+  },
+  "size": 6815063
+}

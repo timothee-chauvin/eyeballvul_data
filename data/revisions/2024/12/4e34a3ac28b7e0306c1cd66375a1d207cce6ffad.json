@@ -1,0 +1,20 @@
+{
+  "commit": "4e34a3ac28b7e0306c1cd66375a1d207cce6ffad",
+  "repo_url": "https://github.com/clerk/javascript",
+  "date": "2024-12-17T22:36:20",
+  "languages": {
+    "TypeScript": 7212667,
+    "JavaScript": 208834,
+    "Astro": 56285,
+    "MDX": 31759,
+    "CSS": 28801,
+    "HTML": 23714,
+    "Swift": 11990,
+    "Kotlin": 7629,
+    "Vue": 5092,
+    "EJS": 4113,
+    "Shell": 1905,
+    "Ruby": 837
+  },
+  "size": 7593626
+}

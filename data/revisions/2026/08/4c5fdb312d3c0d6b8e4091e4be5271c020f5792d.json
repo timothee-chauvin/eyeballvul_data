@@ -1,0 +1,22 @@
+{
+  "commit": "4c5fdb312d3c0d6b8e4091e4be5271c020f5792d",
+  "repo_url": "https://github.com/signalapp/ringrtc",
+  "date": "2026-08-19T19:24:56",
+  "languages": {
+    "Rust": 2759989,
+    "Swift": 421502,
+    "HTML": 299738,
+    "Java": 222308,
+    "TypeScript": 147280,
+    "Python": 78243,
+    "Shell": 51408,
+    "Dockerfile": 5718,
+    "Ruby": 4706,
+    "Makefile": 4594,
+    "JavaScript": 3393,
+    "Handlebars": 3377,
+    "Objective-C": 483,
+    "Smarty": 435
+  },
+  "size": 4003174
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "92a3b19f20ae3947d3219219cc0fe3b1bc735aae",
+  "repo_url": "https://github.com/aws/aws-sam-cli",
+  "date": "2024-12-10T21:42:58",
+  "languages": {
+    "Python": 8058042,
+    "Shell": 16417,
+    "Java": 5720,
+    "Ruby": 4157,
+    "PowerShell": 3851,
+    "C#": 3589,
+    "Makefile": 2919,
+    "Go": 2653,
+    "JavaScript": 1697
+  },
+  "size": 8099045
+}

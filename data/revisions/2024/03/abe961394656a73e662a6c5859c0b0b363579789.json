@@ -1,0 +1,21 @@
+{
+  "commit": "abe961394656a73e662a6c5859c0b0b363579789",
+  "repo_url": "https://github.com/tencent/libpag",
+  "date": "2024-03-21T12:19:40",
+  "languages": {
+    "C++": 2478923,
+    "TypeScript": 400483,
+    "Java": 211247,
+    "Objective-C": 186403,
+    "Objective-C++": 159859,
+    "JavaScript": 47122,
+    "C": 45177,
+    "CMake": 29442,
+    "HTML": 8288,
+    "Shell": 7066,
+    "CSS": 7047,
+    "Python": 1235,
+    "QML": 346
+  },
+  "size": 3582638
+}

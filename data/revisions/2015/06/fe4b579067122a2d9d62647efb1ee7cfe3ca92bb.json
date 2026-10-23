@@ -1,0 +1,12 @@
+{
+  "commit": "fe4b579067122a2d9d62647efb1ee7cfe3ca92bb",
+  "repo_url": "https://github.com/rsdoiel/antiword",
+  "date": "2015-06-23T15:43:29",
+  "languages": {
+    "C": 1111783,
+    "Perl": 7360,
+    "Shell": 3464,
+    "Makefile": 984
+  },
+  "size": 1123591
+}

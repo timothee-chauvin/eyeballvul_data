@@ -1,0 +1,13 @@
+{
+  "commit": "5edfed490d751bc23cfbb58171978d0b232116ca",
+  "repo_url": "https://github.com/ferdikoomen/openapi-typescript-codegen",
+  "date": "2026-06-20T19:04:58",
+  "languages": {
+    "TypeScript": 319918,
+    "Handlebars": 52973,
+    "JavaScript": 10404,
+    "HTML": 171,
+    "Dockerfile": 170
+  },
+  "size": 383636
+}

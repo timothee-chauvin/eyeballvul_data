@@ -1,0 +1,18 @@
+{
+  "commit": "79a2d6a401e08e5a08accdbf3dcd92f428649b1c",
+  "repo_url": "https://github.com/52north/wps",
+  "date": "2019-10-23T14:22:15",
+  "languages": {
+    "Java": 3766546,
+    "JavaScript": 214228,
+    "R": 72800,
+    "CSS": 43491,
+    "XSLT": 9433,
+    "HTML": 3847,
+    "FreeMarker": 1296,
+    "TeX": 1189,
+    "Python": 142,
+    "MATLAB": 44
+  },
+  "size": 4113016
+}

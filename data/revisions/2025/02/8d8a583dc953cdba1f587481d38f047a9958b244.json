@@ -1,0 +1,12 @@
+{
+  "commit": "8d8a583dc953cdba1f587481d38f047a9958b244",
+  "repo_url": "https://github.com/openhealthforall/open-health",
+  "date": "2025-02-21T08:02:17",
+  "languages": {
+    "TypeScript": 394702,
+    "CSS": 1890,
+    "JavaScript": 1840,
+    "Dockerfile": 398
+  },
+  "size": 398830
+}

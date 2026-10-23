@@ -1,0 +1,14 @@
+{
+  "commit": "25ceb9478f826bc2a3fa7487835fa56d4f6ac44c",
+  "repo_url": "https://github.com/carina-io/carina",
+  "date": "2023-12-27T01:53:21",
+  "languages": {
+    "Go": 523999,
+    "Shell": 14895,
+    "Makefile": 7373,
+    "Dockerfile": 3321,
+    "Mustache": 2693,
+    "Smarty": 1944
+  },
+  "size": 554225
+}

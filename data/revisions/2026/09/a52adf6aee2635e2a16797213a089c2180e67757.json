@@ -1,0 +1,13 @@
+{
+  "commit": "a52adf6aee2635e2a16797213a089c2180e67757",
+  "repo_url": "https://github.com/sezero/libtimidity",
+  "date": "2026-09-11T07:21:45",
+  "languages": {
+    "C": 248644,
+    "M4": 8072,
+    "C++": 5147,
+    "Makefile": 1719,
+    "Shell": 729
+  },
+  "size": 264311
+}

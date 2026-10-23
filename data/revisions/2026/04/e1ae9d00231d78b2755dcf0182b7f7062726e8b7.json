@@ -1,0 +1,12 @@
+{
+  "commit": "e1ae9d00231d78b2755dcf0182b7f7062726e8b7",
+  "repo_url": "https://github.com/alseambusher/crontab-ui",
+  "date": "2026-04-20T02:24:45",
+  "languages": {
+    "JavaScript": 42898,
+    "EJS": 14496,
+    "Dockerfile": 809,
+    "Makefile": 299
+  },
+  "size": 58502
+}

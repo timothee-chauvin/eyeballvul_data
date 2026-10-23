@@ -1,0 +1,12 @@
+{
+  "commit": "7c2e78937d1f8614339bfa88bdcc21bb406deadd",
+  "repo_url": "https://github.com/strophe/libstrophe",
+  "date": "2025-03-13T13:44:37",
+  "languages": {
+    "C": 669450,
+    "M4": 20184,
+    "Makefile": 11988,
+    "Shell": 1945
+  },
+  "size": 703567
+}

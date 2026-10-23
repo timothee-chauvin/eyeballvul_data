@@ -1,0 +1,17 @@
+{
+  "commit": "45b161d73ec087a8e003747b1aed07cd33589bca",
+  "repo_url": "https://github.com/chirlu/sox",
+  "date": "2015-02-22T20:53:59",
+  "languages": {
+    "C": 2259509,
+    "Roff": 203860,
+    "Shell": 64266,
+    "M4": 33095,
+    "Makefile": 14844,
+    "CMake": 14539,
+    "Perl": 9976,
+    "Gnuplot": 3602,
+    "Batchfile": 3058
+  },
+  "size": 2606749
+}

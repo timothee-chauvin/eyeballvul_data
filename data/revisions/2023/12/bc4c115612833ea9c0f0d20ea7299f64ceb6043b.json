@@ -1,0 +1,15 @@
+{
+  "commit": "bc4c115612833ea9c0f0d20ea7299f64ceb6043b",
+  "repo_url": "https://github.com/vrcx-team/vrcx",
+  "date": "2023-12-23T19:19:34",
+  "languages": {
+    "JavaScript": 1142602,
+    "C#": 859612,
+    "Pug": 552227,
+    "SCSS": 107861,
+    "NSIS": 6499,
+    "PowerShell": 1657,
+    "Batchfile": 1290
+  },
+  "size": 2671748
+}

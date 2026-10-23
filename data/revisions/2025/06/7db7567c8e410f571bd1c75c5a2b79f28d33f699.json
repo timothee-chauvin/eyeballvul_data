@@ -1,0 +1,18 @@
+{
+  "commit": "7db7567c8e410f571bd1c75c5a2b79f28d33f699",
+  "repo_url": "https://github.com/sonarr/sonarr",
+  "date": "2025-06-10T00:19:54",
+  "languages": {
+    "C#": 7578466,
+    "JavaScript": 1383199,
+    "TypeScript": 1156608,
+    "CSS": 151259,
+    "Shell": 25121,
+    "Inno Setup": 22377,
+    "HTML": 9725,
+    "Dockerfile": 3082,
+    "EJS": 2531,
+    "Batchfile": 165
+  },
+  "size": 10332533
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "29b2f0a71856155048d722efa6def85ceeaaa0c1",
+  "repo_url": "https://github.com/zhontai/admin.core",
+  "date": "2026-08-20T03:29:30",
+  "languages": {
+    "Vue": 1896536,
+    "C#": 1346346,
+    "TypeScript": 698401,
+    "JavaScript": 522218,
+    "CSS": 92665,
+    "SCSS": 68689,
+    "Smarty": 57234,
+    "EJS": 26459,
+    "Less": 15105,
+    "HTML": 8434,
+    "PowerShell": 1772,
+    "Dockerfile": 1171,
+    "Batchfile": 305
+  },
+  "size": 4735335
+}

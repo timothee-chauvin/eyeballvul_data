@@ -1,0 +1,11 @@
+{
+  "commit": "bb7e12fe3c396ce0f5cac87f3567f1d78d2e6063",
+  "repo_url": "https://github.com/opsre/go-ldap-admin",
+  "date": "2026-05-24T10:22:35",
+  "languages": {
+    "Go": 373596,
+    "Makefile": 2608,
+    "Dockerfile": 592
+  },
+  "size": 376796
+}

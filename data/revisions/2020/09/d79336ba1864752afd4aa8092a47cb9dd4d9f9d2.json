@@ -1,0 +1,13 @@
+{
+  "commit": "d79336ba1864752afd4aa8092a47cb9dd4d9f9d2",
+  "repo_url": "https://github.com/latchset/mod_auth_mellon",
+  "date": "2020-09-08T10:45:52",
+  "languages": {
+    "C": 435068,
+    "M4": 3697,
+    "Shell": 2701,
+    "Makefile": 1965,
+    "Emacs Lisp": 76
+  },
+  "size": 443507
+}

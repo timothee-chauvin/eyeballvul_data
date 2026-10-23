@@ -1,0 +1,12 @@
+{
+  "commit": "3ee1c1fd6fc264480c25b6fb8285edefe1702dab",
+  "repo_url": "https://github.com/sebastianbergmann/phpunit",
+  "date": "2019-12-06T05:41:38",
+  "languages": {
+    "PHP": 2058765,
+    "Smarty": 11643,
+    "Shell": 593,
+    "Dockerfile": 74
+  },
+  "size": 2071075
+}

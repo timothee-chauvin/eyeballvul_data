@@ -1,0 +1,14 @@
+{
+  "commit": "72b77e657d71f4a0b1b979d27321b7a909ff5ad7",
+  "repo_url": "https://gitlab.com/ubports/development/core/lomiri-download-manager",
+  "date": "2026-06-19T09:13:04",
+  "languages": {
+    "C++": 1276053,
+    "CMake": 45353,
+    "Python": 3000,
+    "C": 2026,
+    "QML": 2008,
+    "Shell": 763
+  },
+  "size": 1329203
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "a60450edad6e9eb7f66b9b0715b5fa25655c4e18",
+  "repo_url": "https://github.com/therealbstern/apcupsd",
+  "date": "2016-05-31T17:26:34",
+  "languages": {
+    "C": 1070658,
+    "C++": 398130,
+    "Makefile": 58692,
+    "Shell": 54222,
+    "Objective-C": 39551,
+    "NSIS": 27773,
+    "VBScript": 12092,
+    "Roff": 8666,
+    "Batchfile": 6128,
+    "Euphoria": 4078,
+    "Emacs Lisp": 744,
+    "CSS": 607,
+    "Elixir": 522
+  },
+  "size": 1681863
+}

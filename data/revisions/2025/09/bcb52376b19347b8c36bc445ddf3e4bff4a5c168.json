@@ -1,0 +1,14 @@
+{
+  "commit": "bcb52376b19347b8c36bc445ddf3e4bff4a5c168",
+  "repo_url": "https://github.com/kubero-dev/kubero",
+  "date": "2025-09-17T09:24:22",
+  "languages": {
+    "TypeScript": 998709,
+    "Vue": 534357,
+    "JavaScript": 1757,
+    "Dockerfile": 1039,
+    "HTML": 374,
+    "SCSS": 207
+  },
+  "size": 1536443
+}

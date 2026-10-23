@@ -1,0 +1,11 @@
+{
+  "commit": "aeb6f9d0c2c7d1274de8e090d2b4d82cf2e8dde1",
+  "repo_url": "https://github.com/jupyter-server/jupyter_server",
+  "date": "2023-03-16T15:22:29",
+  "languages": {
+    "Python": 964869,
+    "HTML": 10200,
+    "CSS": 1414
+  },
+  "size": 976483
+}

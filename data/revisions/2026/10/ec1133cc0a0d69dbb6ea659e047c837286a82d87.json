@@ -1,0 +1,18 @@
+{
+  "commit": "ec1133cc0a0d69dbb6ea659e047c837286a82d87",
+  "repo_url": "https://github.com/databufflabs/databuff",
+  "date": "2026-10-06T12:38:32",
+  "languages": {
+    "Java": 5071342,
+    "Vue": 3571898,
+    "TypeScript": 841962,
+    "Shell": 304710,
+    "Python": 284116,
+    "JavaScript": 190344,
+    "HTML": 74142,
+    "SCSS": 41111,
+    "CSS": 16328,
+    "Dockerfile": 973
+  },
+  "size": 10396926
+}

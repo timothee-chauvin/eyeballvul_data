@@ -1,0 +1,17 @@
+{
+  "commit": "30692affae5ee38f4804e1621e10e1f4f58d3fd3",
+  "repo_url": "https://github.com/abiword/wv",
+  "date": "2010-10-09T21:29:28",
+  "languages": {
+    "C": 1186441,
+    "HTML": 119281,
+    "Shell": 50863,
+    "Perl": 33004,
+    "Lex": 26250,
+    "C++": 22184,
+    "M4": 12015,
+    "Roff": 10803,
+    "Awk": 7050
+  },
+  "size": 1467891
+}

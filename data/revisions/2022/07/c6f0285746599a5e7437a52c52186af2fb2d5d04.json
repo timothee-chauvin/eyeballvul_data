@@ -1,0 +1,14 @@
+{
+  "commit": "c6f0285746599a5e7437a52c52186af2fb2d5d04",
+  "repo_url": "https://github.com/openspug/spug",
+  "date": "2022-07-31T16:52:33",
+  "languages": {
+    "JavaScript": 532817,
+    "Python": 323878,
+    "Less": 26708,
+    "CSS": 5695,
+    "Shell": 1888,
+    "HTML": 1700
+  },
+  "size": 892686
+}

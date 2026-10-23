@@ -1,0 +1,14 @@
+{
+  "commit": "9fd842cf020d4825a34ce4bf6aa7d678e6813e34",
+  "repo_url": "https://github.com/langchain-ai/langsmith-sdk",
+  "date": "2025-12-30T13:40:57",
+  "languages": {
+    "Python": 2100934,
+    "TypeScript": 1398765,
+    "Rust": 73290,
+    "JavaScript": 15043,
+    "Makefile": 3801,
+    "Batchfile": 760
+  },
+  "size": 3592593
+}

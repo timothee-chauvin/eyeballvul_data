@@ -1,0 +1,17 @@
+{
+  "commit": "cdd1fbc3187d2bcbf2cdf2be7d50c988959da356",
+  "repo_url": "https://github.com/wukongopensource/wukong-aicrm",
+  "date": "2026-06-10T07:16:55",
+  "languages": {
+    "Java": 722875,
+    "Vue": 527861,
+    "TypeScript": 89366,
+    "PLpgSQL": 28283,
+    "Python": 9195,
+    "CSS": 5065,
+    "JavaScript": 1241,
+    "HTML": 595,
+    "Dockerfile": 422
+  },
+  "size": 1384903
+}

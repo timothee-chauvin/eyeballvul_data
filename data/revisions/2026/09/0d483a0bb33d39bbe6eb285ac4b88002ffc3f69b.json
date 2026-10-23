@@ -1,0 +1,13 @@
+{
+  "commit": "0d483a0bb33d39bbe6eb285ac4b88002ffc3f69b",
+  "repo_url": "https://github.com/mopidy/mopidy",
+  "date": "2026-09-12T22:57:32",
+  "languages": {
+    "Python": 775544,
+    "HTML": 805,
+    "CSS": 610,
+    "Roff": 573,
+    "Shell": 556
+  },
+  "size": 778088
+}

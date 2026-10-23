@@ -1,0 +1,18 @@
+{
+  "commit": "80d5969ca1afbc7e93c37eac0d0b11f022632d44",
+  "repo_url": "https://github.com/web-infra-dev/midscene",
+  "date": "2026-07-07T02:46:33",
+  "languages": {
+    "TypeScript": 7157227,
+    "MDX": 916428,
+    "JavaScript": 245096,
+    "Less": 149157,
+    "HTML": 110316,
+    "C++": 89837,
+    "CSS": 45381,
+    "Shell": 8184,
+    "Objective-C": 4591,
+    "CMake": 2317
+  },
+  "size": 8728534
+}

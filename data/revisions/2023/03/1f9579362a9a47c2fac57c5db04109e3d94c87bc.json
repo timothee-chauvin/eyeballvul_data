@@ -1,0 +1,17 @@
+{
+  "commit": "1f9579362a9a47c2fac57c5db04109e3d94c87bc",
+  "repo_url": "https://github.com/dajobe/raptor",
+  "date": "2023-03-01T18:49:31",
+  "languages": {
+    "C": 1868436,
+    "Roff": 576140,
+    "HTML": 229128,
+    "CMake": 171639,
+    "Makefile": 122292,
+    "M4": 48660,
+    "Perl": 32611,
+    "Yacc": 30546,
+    "Shell": 13655
+  },
+  "size": 3093107
+}

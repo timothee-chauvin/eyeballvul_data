@@ -1,0 +1,16 @@
+{
+  "commit": "d76fd0bb21601e2969bc88ffdaeb861023f6a5b2",
+  "repo_url": "https://github.com/libyal/libewf",
+  "date": "2026-09-24T16:25:12",
+  "languages": {
+    "C": 7249617,
+    "M4": 250230,
+    "C++": 140946,
+    "Roff": 73940,
+    "Makefile": 70931,
+    "PowerShell": 49123,
+    "Python": 35289,
+    "Shell": 31011
+  },
+  "size": 7901087
+}

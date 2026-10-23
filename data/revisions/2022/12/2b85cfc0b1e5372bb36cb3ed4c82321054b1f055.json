@@ -1,0 +1,10 @@
+{
+  "commit": "2b85cfc0b1e5372bb36cb3ed4c82321054b1f055",
+  "repo_url": "https://github.com/libp2p/go-libp2p-kad-dht",
+  "date": "2022-12-11T21:09:51",
+  "languages": {
+    "Go": 353471,
+    "Makefile": 175
+  },
+  "size": 353646
+}

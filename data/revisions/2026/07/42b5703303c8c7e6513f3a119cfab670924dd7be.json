@@ -1,0 +1,16 @@
+{
+  "commit": "42b5703303c8c7e6513f3a119cfab670924dd7be",
+  "repo_url": "https://gitlab.com/ntpsec/ntpsec",
+  "date": "2026-07-31T04:27:11",
+  "languages": {
+    "C": 2710265,
+    "Python": 980349,
+    "Shell": 42571,
+    "Yacc": 30338,
+    "Nix": 3197,
+    "Makefile": 1498,
+    "HTML": 776,
+    "Emacs Lisp": 521
+  },
+  "size": 3769515
+}

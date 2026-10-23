@@ -1,0 +1,14 @@
+{
+  "commit": "6ea6600cda1263ae70c0aab0a70d31091a32c46b",
+  "repo_url": "https://github.com/nivocart/nivocart",
+  "date": "2026-09-01T10:51:28",
+  "languages": {
+    "PHP": 6288408,
+    "Smarty": 3254159,
+    "JavaScript": 869514,
+    "CSS": 473621,
+    "HTML": 3839,
+    "Makefile": 285
+  },
+  "size": 10889826
+}

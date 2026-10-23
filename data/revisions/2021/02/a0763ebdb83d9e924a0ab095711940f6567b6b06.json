@@ -1,0 +1,16 @@
+{
+  "commit": "a0763ebdb83d9e924a0ab095711940f6567b6b06",
+  "repo_url": "https://github.com/thomasdickey/xterm-snapshots",
+  "date": "2021-02-10T20:04:59",
+  "languages": {
+    "C": 2766924,
+    "HTML": 595128,
+    "Roff": 457975,
+    "Perl": 194577,
+    "Shell": 71899,
+    "Makefile": 33060,
+    "DIGITAL Command Language": 4813,
+    "sed": 481
+  },
+  "size": 4124857
+}

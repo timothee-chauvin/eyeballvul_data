@@ -1,0 +1,16 @@
+{
+  "commit": "306bc507b920a7beca4ff767bb87234ebad577eb",
+  "repo_url": "https://github.com/dyad-sh/dyad",
+  "date": "2026-09-18T21:57:17",
+  "languages": {
+    "TypeScript": 18520695,
+    "JavaScript": 522616,
+    "Python": 88069,
+    "Shell": 34806,
+    "CSS": 18203,
+    "C": 10038,
+    "HTML": 2495,
+    "Astro": 779
+  },
+  "size": 19197701
+}

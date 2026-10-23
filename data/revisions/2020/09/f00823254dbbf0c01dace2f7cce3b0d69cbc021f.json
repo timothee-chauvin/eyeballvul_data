@@ -1,0 +1,21 @@
+{
+  "commit": "f00823254dbbf0c01dace2f7cce3b0d69cbc021f",
+  "repo_url": "https://github.com/uselagoon/lagoon",
+  "date": "2020-09-09T07:42:20",
+  "languages": {
+    "TypeScript": 892788,
+    "JavaScript": 525578,
+    "Shell": 480676,
+    "PHP": 205688,
+    "Dockerfile": 103783,
+    "Makefile": 64854,
+    "Mustache": 43587,
+    "Go": 23294,
+    "VCL": 17111,
+    "HTML": 3302,
+    "Python": 1889,
+    "CSS": 1074,
+    "Smarty": 590
+  },
+  "size": 2364214
+}

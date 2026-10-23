@@ -1,0 +1,11 @@
+{
+  "commit": "9beb80329cf2e5bd784270f668139f0bafb48e2b",
+  "repo_url": "https://github.com/o2sh/onefetch",
+  "date": "2026-08-30T11:22:24",
+  "languages": {
+    "Rust": 178324,
+    "Makefile": 800,
+    "Ruby": 491
+  },
+  "size": 179615
+}

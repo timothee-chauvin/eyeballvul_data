@@ -1,0 +1,16 @@
+{
+  "commit": "a643428bc4d5397152164a63bcc0f8bc65fce69d",
+  "repo_url": "https://github.com/kong/kong",
+  "date": "2026-06-17T06:01:22",
+  "languages": {
+    "Lua": 9899061,
+    "Perl": 925495,
+    "Starlark": 109216,
+    "Shell": 104032,
+    "Python": 46550,
+    "Makefile": 9745,
+    "CSS": 5812,
+    "Dockerfile": 3847
+  },
+  "size": 11103758
+}

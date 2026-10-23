@@ -1,0 +1,21 @@
+{
+  "commit": "8a0b310e81a1bfe1de24760726c3c09c524258d5",
+  "repo_url": "https://github.com/serenity-is/serenity",
+  "date": "2014-10-28T20:58:36",
+  "languages": {
+    "C#": 2363732,
+    "JavaScript": 2057298,
+    "CSS": 199957,
+    "Less": 60139,
+    "CoffeeScript": 46327,
+    "Smalltalk": 24884,
+    "HTML": 17265,
+    "Roff": 11586,
+    "XSLT": 10593,
+    "SCSS": 6949,
+    "TSQL": 2819,
+    "Batchfile": 1939,
+    "Shell": 287
+  },
+  "size": 4803775
+}

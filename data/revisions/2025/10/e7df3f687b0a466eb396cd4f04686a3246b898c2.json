@@ -1,0 +1,16 @@
+{
+  "commit": "e7df3f687b0a466eb396cd4f04686a3246b898c2",
+  "repo_url": "https://github.com/coaidev/coai",
+  "date": "2025-10-23T11:28:10",
+  "languages": {
+    "TypeScript": 949775,
+    "Go": 477850,
+    "Less": 182109,
+    "JavaScript": 9377,
+    "PHP": 8074,
+    "HTML": 4291,
+    "Dockerfile": 1493,
+    "Rust": 315
+  },
+  "size": 1633284
+}

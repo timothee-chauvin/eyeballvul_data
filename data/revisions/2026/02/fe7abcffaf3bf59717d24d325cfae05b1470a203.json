@@ -1,0 +1,18 @@
+{
+  "commit": "fe7abcffaf3bf59717d24d325cfae05b1470a203",
+  "repo_url": "https://github.com/gtsteffaniak/filebrowser",
+  "date": "2026-02-19T22:05:28",
+  "languages": {
+    "Go": 1438216,
+    "Vue": 922834,
+    "JavaScript": 246438,
+    "TypeScript": 142997,
+    "CSS": 62572,
+    "Makefile": 7304,
+    "HTML": 3791,
+    "Dockerfile": 2107,
+    "Slim": 1737,
+    "Shell": 345
+  },
+  "size": 2828341
+}

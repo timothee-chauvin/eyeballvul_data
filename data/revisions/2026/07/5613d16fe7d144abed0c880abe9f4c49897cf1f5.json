@@ -1,0 +1,13 @@
+{
+  "commit": "5613d16fe7d144abed0c880abe9f4c49897cf1f5",
+  "repo_url": "https://github.com/fastschema/fastschema",
+  "date": "2026-07-11T15:58:26",
+  "languages": {
+    "Go": 2347841,
+    "HTML": 1850,
+    "Shell": 1248,
+    "Dockerfile": 609,
+    "Makefile": 243
+  },
+  "size": 2351791
+}

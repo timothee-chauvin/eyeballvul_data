@@ -1,0 +1,16 @@
+{
+  "commit": "4c7c1c21f3cfc7d35f0b34b8a47f1f1562d27bbb",
+  "repo_url": "https://github.com/libyal/libfsapfs",
+  "date": "2026-09-22T06:05:17",
+  "languages": {
+    "C": 4992261,
+    "M4": 203962,
+    "Makefile": 51321,
+    "Python": 43908,
+    "PowerShell": 37400,
+    "Shell": 29277,
+    "Roff": 24997,
+    "C++": 16170
+  },
+  "size": 5399296
+}

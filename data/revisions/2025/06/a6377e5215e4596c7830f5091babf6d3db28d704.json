@@ -1,0 +1,25 @@
+{
+  "commit": "a6377e5215e4596c7830f5091babf6d3db28d704",
+  "repo_url": "https://github.com/marlinfirmware/marlin",
+  "date": "2025-06-24T21:59:56",
+  "languages": {
+    "C++": 33234659,
+    "C": 8588150,
+    "Python": 262561,
+    "Shell": 178551,
+    "JavaScript": 64206,
+    "Makefile": 55977,
+    "HTML": 51656,
+    "Assembly": 15483,
+    "CMake": 10897,
+    "OpenSCAD": 8682,
+    "CSS": 7905,
+    "Roff": 4248,
+    "G-code": 3474,
+    "Dockerfile": 1890,
+    "GDB": 1343,
+    "NASL": 214,
+    "BitBake": 119
+  },
+  "size": 42490015
+}

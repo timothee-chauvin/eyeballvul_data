@@ -1,0 +1,12 @@
+{
+  "commit": "d6e6ad306de5b7bdde072e5a5e3d58ddcc11abd8",
+  "repo_url": "https://github.com/earthscope/libmseed",
+  "date": "2026-08-06T03:49:28",
+  "languages": {
+    "C": 1882069,
+    "C++": 70952,
+    "CMake": 12916,
+    "Makefile": 6589
+  },
+  "size": 1972526
+}

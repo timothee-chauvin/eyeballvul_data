@@ -1,0 +1,25 @@
+{
+  "commit": "3be67656b28e3902f0366ea8bab03c41e7e5bd6c",
+  "repo_url": "https://github.com/tenstorrent/tt-metal",
+  "date": "2026-10-14T19:16:39",
+  "languages": {
+    "Python": 101623942,
+    "C++": 96233616,
+    "C": 5287619,
+    "Shell": 1424866,
+    "CMake": 901752,
+    "Jupyter Notebook": 478819,
+    "Dockerfile": 97588,
+    "JavaScript": 65887,
+    "HCL": 13469,
+    "Cap'n Proto": 11040,
+    "D2": 8635,
+    "Roff": 7680,
+    "Assembly": 7610,
+    "Jinja": 4123,
+    "Perl": 1545,
+    "Makefile": 1487,
+    "Starlark": 920
+  },
+  "size": 206170598
+}

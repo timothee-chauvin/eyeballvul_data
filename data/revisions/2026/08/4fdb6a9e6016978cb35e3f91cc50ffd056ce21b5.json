@@ -1,0 +1,13 @@
+{
+  "commit": "4fdb6a9e6016978cb35e3f91cc50ffd056ce21b5",
+  "repo_url": "https://github.com/a2aproject/a2a-rs",
+  "date": "2026-08-28T08:03:20",
+  "languages": {
+    "Rust": 893516,
+    "Python": 23258,
+    "Shell": 8380,
+    "Just": 2823,
+    "Ruby": 895
+  },
+  "size": 928872
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "b9af69881e9220dcd0dc78ea78bdbef44e5e6e71",
+  "repo_url": "https://github.com/coderaiser/cloudcmd",
+  "date": "2026-09-29T05:57:08",
+  "languages": {
+    "JavaScript": 467411,
+    "CSS": 18621,
+    "Handlebars": 7478,
+    "HTML": 5022,
+    "Io": 4126,
+    "Slim": 1025,
+    "Dockerfile": 631
+  },
+  "size": 504314
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "24f209c90218187747a9205f0b84bc06b42ce775",
+  "repo_url": "https://github.com/speaches-ai/speaches",
+  "date": "2025-12-27T18:53:02",
+  "languages": {
+    "Python": 435489,
+    "Dockerfile": 3383,
+    "Nix": 2794
+  },
+  "size": 441666
+}

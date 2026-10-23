@@ -1,0 +1,13 @@
+{
+  "commit": "b83fbd3b5e215a416434b0f5dc26c155e02330f6",
+  "repo_url": "https://github.com/serverless/serverless",
+  "date": "2025-12-09T17:19:31",
+  "languages": {
+    "JavaScript": 3289757,
+    "Java": 42813,
+    "Python": 2693,
+    "Ruby": 1936,
+    "TypeScript": 1353
+  },
+  "size": 3338552
+}

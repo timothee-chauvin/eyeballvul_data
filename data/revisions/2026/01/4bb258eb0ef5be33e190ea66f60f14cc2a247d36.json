@@ -1,0 +1,15 @@
+{
+  "commit": "4bb258eb0ef5be33e190ea66f60f14cc2a247d36",
+  "repo_url": "https://github.com/runtipi/runtipi",
+  "date": "2026-01-21T20:16:08",
+  "languages": {
+    "TypeScript": 1143645,
+    "Shell": 26745,
+    "CSS": 10205,
+    "JavaScript": 7514,
+    "Mermaid": 5869,
+    "Dockerfile": 2516,
+    "HTML": 189
+  },
+  "size": 1196683
+}

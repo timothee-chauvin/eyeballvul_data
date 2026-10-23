@@ -1,0 +1,18 @@
+{
+  "commit": "d9d67dd8dd8a05b3aa8910e3aa4be5b5d0f233f3",
+  "repo_url": "https://github.com/inspec/inspec",
+  "date": "2023-08-16T13:42:50",
+  "languages": {
+    "Ruby": 2626906,
+    "HTML": 52955,
+    "Shell": 17984,
+    "PowerShell": 6632,
+    "JavaScript": 2427,
+    "CSS": 2122,
+    "Makefile": 1227,
+    "Dockerfile": 1059,
+    "Mustache": 694,
+    "Go": 99
+  },
+  "size": 2712105
+}

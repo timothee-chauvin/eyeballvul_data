@@ -1,0 +1,13 @@
+{
+  "commit": "5b18ae3eff8dafd229e0e5d349c4dac162c5bee5",
+  "repo_url": "https://github.com/nanomq/nanonng",
+  "date": "2025-09-11T10:37:39",
+  "languages": {
+    "C": 13477245,
+    "C++": 110001,
+    "CMake": 97896,
+    "Shell": 14105,
+    "Go": 13310
+  },
+  "size": 13712557
+}

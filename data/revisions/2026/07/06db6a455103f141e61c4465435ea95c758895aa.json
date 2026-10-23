@@ -1,0 +1,19 @@
+{
+  "commit": "06db6a455103f141e61c4465435ea95c758895aa",
+  "repo_url": "https://github.com/helicalinsight/helicalinsight",
+  "date": "2026-07-30T12:24:07",
+  "languages": {
+    "JavaScript": 29565191,
+    "Java": 14075209,
+    "Python": 971469,
+    "SCSS": 298638,
+    "HTML": 247833,
+    "CSS": 57434,
+    "Groovy": 55461,
+    "Shell": 27566,
+    "PowerShell": 19761,
+    "Dockerfile": 6421,
+    "MDX": 5260
+  },
+  "size": 45330243
+}

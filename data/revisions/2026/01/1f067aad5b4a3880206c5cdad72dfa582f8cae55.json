@@ -1,0 +1,17 @@
+{
+  "commit": "1f067aad5b4a3880206c5cdad72dfa582f8cae55",
+  "repo_url": "https://github.com/henrygd/beszel",
+  "date": "2026-01-12T00:05:36",
+  "languages": {
+    "Go": 1355269,
+    "TypeScript": 50274,
+    "Shell": 44965,
+    "PowerShell": 39877,
+    "CSS": 4558,
+    "Makefile": 3415,
+    "C#": 2144,
+    "Smarty": 1472,
+    "HTML": 686
+  },
+  "size": 1502660
+}

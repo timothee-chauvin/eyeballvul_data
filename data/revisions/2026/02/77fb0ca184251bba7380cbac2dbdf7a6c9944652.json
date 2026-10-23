@@ -1,0 +1,15 @@
+{
+  "commit": "77fb0ca184251bba7380cbac2dbdf7a6c9944652",
+  "repo_url": "https://github.com/refly-ai/refly",
+  "date": "2026-02-02T08:19:43",
+  "languages": {
+    "TypeScript": 10181188,
+    "JavaScript": 179053,
+    "SCSS": 140618,
+    "CSS": 47984,
+    "Shell": 39088,
+    "HTML": 12561,
+    "Dockerfile": 5082
+  },
+  "size": 10605574
+}

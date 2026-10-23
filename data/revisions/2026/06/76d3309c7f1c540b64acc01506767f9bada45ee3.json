@@ -1,0 +1,20 @@
+{
+  "commit": "76d3309c7f1c540b64acc01506767f9bada45ee3",
+  "repo_url": "https://github.com/gleam-lang/gleam",
+  "date": "2026-06-01T13:26:31",
+  "languages": {
+    "Rust": 5770357,
+    "JavaScript": 103330,
+    "Gleam": 97230,
+    "HTML": 28439,
+    "CSS": 24303,
+    "Erlang": 20316,
+    "Shell": 11789,
+    "Makefile": 5527,
+    "TypeScript": 4671,
+    "Dockerfile": 1352,
+    "Elixir": 744,
+    "PowerShell": 723
+  },
+  "size": 6068781
+}

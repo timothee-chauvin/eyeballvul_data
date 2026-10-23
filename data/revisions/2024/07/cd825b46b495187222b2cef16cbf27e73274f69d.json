@@ -1,0 +1,11 @@
+{
+  "commit": "cd825b46b495187222b2cef16cbf27e73274f69d",
+  "repo_url": "https://github.com/gwenn/lemon-rs",
+  "date": "2024-07-20T11:22:27",
+  "languages": {
+    "Rust": 208601,
+    "Yacc": 58582,
+    "CMake": 135
+  },
+  "size": 267318
+}

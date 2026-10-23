@@ -1,0 +1,19 @@
+{
+  "commit": "4fde2054792e55f6aa6d5a6a9f56e55d58d2ceb4",
+  "repo_url": "https://github.com/qiantongtech/qknow",
+  "date": "2026-09-11T09:35:21",
+  "languages": {
+    "Java": 4667778,
+    "Vue": 4302106,
+    "JavaScript": 1173730,
+    "HTML": 561590,
+    "CSS": 202686,
+    "SCSS": 84848,
+    "TypeScript": 7890,
+    "Shell": 6394,
+    "Python": 3999,
+    "Dockerfile": 706,
+    "Batchfile": 432
+  },
+  "size": 11012159
+}

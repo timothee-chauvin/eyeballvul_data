@@ -1,0 +1,13 @@
+{
+  "commit": "58542c6a0579edf1852c856730dedc8613bbff75",
+  "repo_url": "https://github.com/libp2p/js-libp2p",
+  "date": "2024-12-10T11:56:57",
+  "languages": {
+    "TypeScript": 3314835,
+    "JavaScript": 27193,
+    "Go": 2621,
+    "Makefile": 1463,
+    "Dockerfile": 433
+  },
+  "size": 3346545
+}

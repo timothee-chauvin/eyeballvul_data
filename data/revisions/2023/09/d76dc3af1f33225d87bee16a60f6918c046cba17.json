@@ -1,0 +1,14 @@
+{
+  "commit": "d76dc3af1f33225d87bee16a60f6918c046cba17",
+  "repo_url": "https://github.com/vanus-labs/vanus",
+  "date": "2023-09-07T10:37:53",
+  "languages": {
+    "Go": 2829386,
+    "Starlark": 7269,
+    "Dockerfile": 6462,
+    "Makefile": 5271,
+    "Shell": 2850,
+    "HCL": 928
+  },
+  "size": 2852166
+}

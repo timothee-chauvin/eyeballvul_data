@@ -1,0 +1,16 @@
+{
+  "commit": "b6b58db20bfb8903a5bd623a0272dda16388dbb5",
+  "repo_url": "https://github.com/apiparklab/apipark",
+  "date": "2026-09-09T05:44:46",
+  "languages": {
+    "TypeScript": 1937606,
+    "Go": 1349188,
+    "CSS": 78996,
+    "JavaScript": 36527,
+    "Shell": 27096,
+    "HTML": 1908,
+    "Smarty": 999,
+    "Dockerfile": 552
+  },
+  "size": 3432872
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "a5ecf468b0f57d4bcae121f09dbee2d65304c444",
+  "repo_url": "https://github.com/oxid-esales/oxideshop_ce",
+  "date": "2019-04-16T07:28:27",
+  "languages": {
+    "PHP": 17196542,
+    "Smarty": 1105558,
+    "HTML": 153536,
+    "JavaScript": 120624,
+    "CSS": 44535,
+    "Shell": 349
+  },
+  "size": 18621144
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "5da380b8d883165def1c0a19ec55025ef12db8a5",
+  "repo_url": "https://github.com/amoylab/unla",
+  "date": "2026-08-04T14:47:49",
+  "languages": {
+    "TypeScript": 1276514,
+    "Go": 841061,
+    "HTML": 20522,
+    "JavaScript": 17638,
+    "Dockerfile": 6130,
+    "Makefile": 6024,
+    "CSS": 1877
+  },
+  "size": 2169766
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "fc7512ac66e27e169701c020a31d102329d26915",
+  "repo_url": "https://github.com/apache/apisix-java-plugin-runner",
+  "date": "2024-01-19T06:52:21",
+  "languages": {
+    "Java": 158192,
+    "Go": 13372,
+    "Shell": 2332,
+    "Makefile": 1725
+  },
+  "size": 175621
+}

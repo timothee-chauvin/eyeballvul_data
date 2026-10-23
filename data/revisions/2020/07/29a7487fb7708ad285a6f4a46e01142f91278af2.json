@@ -1,0 +1,12 @@
+{
+  "commit": "29a7487fb7708ad285a6f4a46e01142f91278af2",
+  "repo_url": "https://github.com/rocketchat/rocket.chat.electron",
+  "date": "2020-07-21T19:02:27",
+  "languages": {
+    "JavaScript": 134302,
+    "Less": 15652,
+    "HTML": 4234,
+    "NSIS": 1635
+  },
+  "size": 155823
+}

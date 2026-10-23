@@ -1,0 +1,18 @@
+{
+  "commit": "57b1edc0f0b8b964448e2d41ef7ba98751e71d8d",
+  "repo_url": "https://github.com/mateaix/matecloud",
+  "date": "2026-06-28T12:42:30",
+  "languages": {
+    "Java": 2051434,
+    "Vue": 729824,
+    "TypeScript": 308793,
+    "CSS": 44796,
+    "Shell": 29653,
+    "Dockerfile": 6391,
+    "JavaScript": 4743,
+    "Makefile": 2923,
+    "HTML": 996,
+    "Rust": 975
+  },
+  "size": 3180528
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "156fa1938e1423c13dc02074dad1e843189855d9",
+  "repo_url": "https://github.com/nebuly-ai/optimate",
+  "date": "2023-03-27T13:41:07",
+  "languages": {
+    "Python": 906645,
+    "Jupyter Notebook": 221958,
+    "CMake": 46210,
+    "Shell": 5673,
+    "Dockerfile": 2974
+  },
+  "size": 1183460
+}

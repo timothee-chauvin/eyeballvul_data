@@ -1,0 +1,16 @@
+{
+  "commit": "f382dd973e78e324b60bfb903bd3a5dfae1e6d54",
+  "repo_url": "https://github.com/88250/solo",
+  "date": "2022-01-22T08:26:11",
+  "languages": {
+    "Java": 1124094,
+    "FreeMarker": 765208,
+    "JavaScript": 228223,
+    "HTML": 141808,
+    "Shell": 1348,
+    "Smarty": 871,
+    "Dockerfile": 529,
+    "CSS": 306
+  },
+  "size": 2262387
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "0adcc6f43c7ca6ee9fc8b71711728bcde92de106",
+  "repo_url": "https://github.com/mljar/mercury",
+  "date": "2026-07-08T09:31:20",
+  "languages": {
+    "Python": 560287,
+    "TypeScript": 196620,
+    "HTML": 45697,
+    "JavaScript": 20223,
+    "Shell": 5610,
+    "Dockerfile": 412
+  },
+  "size": 828849
+}

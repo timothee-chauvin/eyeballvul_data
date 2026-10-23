@@ -1,0 +1,14 @@
+{
+  "commit": "6093ba3ef01eb0ba5815fef63ab7108574004b10",
+  "repo_url": "https://github.com/aquaproj/aqua",
+  "date": "2026-06-14T08:59:21",
+  "languages": {
+    "Go": 1011152,
+    "JavaScript": 11896,
+    "Shell": 2127,
+    "Dockerfile": 1613,
+    "CSS": 1455,
+    "MDX": 247
+  },
+  "size": 1028490
+}

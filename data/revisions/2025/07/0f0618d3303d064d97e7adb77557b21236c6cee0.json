@@ -1,0 +1,11 @@
+{
+  "commit": "0f0618d3303d064d97e7adb77557b21236c6cee0",
+  "repo_url": "https://github.com/pdfmathtranslate/pdfmathtranslate",
+  "date": "2025-07-11T08:28:24",
+  "languages": {
+    "Python": 177824,
+    "Dockerfile": 1182,
+    "Batchfile": 896
+  },
+  "size": 179902
+}

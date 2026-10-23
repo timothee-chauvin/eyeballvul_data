@@ -1,0 +1,16 @@
+{
+  "commit": "b5e748bd9825997682745421382e42a567fa5ab9",
+  "repo_url": "https://github.com/keystonejs/keystone",
+  "date": "2020-10-25T21:52:47",
+  "languages": {
+    "JavaScript": 2426682,
+    "TypeScript": 622190,
+    "HTML": 11263,
+    "Vue": 5149,
+    "CSS": 1754,
+    "Shell": 1279,
+    "Pug": 52,
+    "Procfile": 24
+  },
+  "size": 3068393
+}

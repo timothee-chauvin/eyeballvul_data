@@ -1,0 +1,22 @@
+{
+  "commit": "51e8b152335dd654b9dc72d2b246b617297498a6",
+  "repo_url": "https://github.com/metasfresh/metasfresh",
+  "date": "2024-11-04T13:26:50",
+  "languages": {
+    "Java": 105018070,
+    "PLpgSQL": 8028357,
+    "JavaScript": 2943222,
+    "Gherkin": 2287683,
+    "TypeScript": 160032,
+    "CSS": 149588,
+    "Shell": 90987,
+    "Groovy": 74083,
+    "HTML": 50249,
+    "SCSS": 41925,
+    "FreeMarker": 29676,
+    "Dockerfile": 15204,
+    "Batchfile": 11430,
+    "MDX": 5260
+  },
+  "size": 118905766
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "7a9b7ec1ef194a01cf812119d9cb7dac9b32879b",
+  "repo_url": "https://github.com/madler/unzip",
+  "date": "2020-02-10T06:09:26",
+  "languages": {
+    "C": 2785461,
+    "C++": 232022,
+    "Makefile": 139514,
+    "Assembly": 74842,
+    "Module Management System": 55710,
+    "C#": 52558,
+    "Visual Basic 6.0": 39777,
+    "DIGITAL Command Language": 39493,
+    "WebAssembly": 16685,
+    "RUNOFF": 13531,
+    "Batchfile": 7505,
+    "Shell": 4345,
+    "Max": 2726,
+    "IDL": 409
+  },
+  "size": 3464578
+}

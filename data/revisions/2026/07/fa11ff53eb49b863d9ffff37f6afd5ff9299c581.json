@@ -1,0 +1,12 @@
+{
+  "commit": "fa11ff53eb49b863d9ffff37f6afd5ff9299c581",
+  "repo_url": "https://github.com/postgis/address_standardizer",
+  "date": "2026-07-10T17:34:52",
+  "languages": {
+    "C": 751484,
+    "Perl": 7702,
+    "Shell": 5919,
+    "Makefile": 2658
+  },
+  "size": 767763
+}

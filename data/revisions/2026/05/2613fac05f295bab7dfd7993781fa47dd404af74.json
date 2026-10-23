@@ -1,0 +1,14 @@
+{
+  "commit": "2613fac05f295bab7dfd7993781fa47dd404af74",
+  "repo_url": "https://github.com/3clyp50/agent-zero",
+  "date": "2026-05-05T17:20:56",
+  "languages": {
+    "Python": 2978192,
+    "JavaScript": 1203908,
+    "HTML": 1080851,
+    "CSS": 149554,
+    "Shell": 26009,
+    "Dockerfile": 2212
+  },
+  "size": 5440726
+}

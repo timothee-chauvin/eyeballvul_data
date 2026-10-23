@@ -1,0 +1,13 @@
+{
+  "commit": "5e08288d2ec1dfe7a142a99041b1c87be552de15",
+  "repo_url": "https://github.com/gitify-app/gitify",
+  "date": "2026-10-04T01:45:18",
+  "languages": {
+    "TypeScript": 1647868,
+    "CSS": 24949,
+    "JavaScript": 4379,
+    "Shell": 3673,
+    "HTML": 400
+  },
+  "size": 1681269
+}

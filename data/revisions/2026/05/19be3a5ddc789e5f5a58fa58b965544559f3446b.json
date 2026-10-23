@@ -1,0 +1,32 @@
+{
+  "commit": "19be3a5ddc789e5f5a58fa58b965544559f3446b",
+  "repo_url": "https://github.com/opennms/opennms",
+  "date": "2026-05-12T17:00:40",
+  "languages": {
+    "Java": 62645520,
+    "JavaScript": 3905864,
+    "TypeScript": 2319384,
+    "Vue": 969413,
+    "Shell": 412149,
+    "HTML": 362285,
+    "CSS": 134410,
+    "Python": 106625,
+    "Perl": 73094,
+    "Groovy": 61239,
+    "XSLT": 60925,
+    "SCSS": 57959,
+    "FreeMarker": 41493,
+    "M4": 31931,
+    "Makefile": 24796,
+    "Dockerfile": 15930,
+    "C++": 9187,
+    "Batchfile": 8017,
+    "PLpgSQL": 7633,
+    "Jinja": 5483,
+    "C": 4048,
+    "R": 1375,
+    "Clojure": 945,
+    "CMake": 898
+  },
+  "size": 71260603
+}

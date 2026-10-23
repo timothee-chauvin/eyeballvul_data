@@ -1,0 +1,23 @@
+{
+  "commit": "7361d979ef4e5fea60323f883d37cdc2be884d0d",
+  "repo_url": "https://github.com/oneuptime/oneuptime",
+  "date": "2026-10-03T15:18:00",
+  "languages": {
+    "TypeScript": 216486704,
+    "EJS": 5488041,
+    "JavaScript": 2215895,
+    "Shell": 1135539,
+    "Go": 353435,
+    "CSS": 275788,
+    "HCL": 194639,
+    "Smarty": 193114,
+    "Handlebars": 171551,
+    "Java": 21311,
+    "HTML": 19152,
+    "Swift": 8186,
+    "C": 7312,
+    "Objective-C": 662,
+    "Ruby": 600
+  },
+  "size": 226571929
+}

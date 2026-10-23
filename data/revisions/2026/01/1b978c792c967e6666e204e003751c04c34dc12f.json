@@ -1,0 +1,11 @@
+{
+  "commit": "1b978c792c967e6666e204e003751c04c34dc12f",
+  "repo_url": "https://github.com/cisco-ai-defense/skill-scanner",
+  "date": "2026-01-29T06:44:15",
+  "languages": {
+    "Python": 938378,
+    "YARA": 39508,
+    "Shell": 4043
+  },
+  "size": 981929
+}

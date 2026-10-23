@@ -1,0 +1,12 @@
+{
+  "commit": "6fa0fffb0dd82fe3cfaa1449ee54a5806d26ae9b",
+  "repo_url": "https://github.com/llamachinese/llama-chinese",
+  "date": "2025-04-06T09:16:55",
+  "languages": {
+    "Python": 139601,
+    "Shell": 5338,
+    "Jupyter Notebook": 1902,
+    "Dockerfile": 910
+  },
+  "size": 147751
+}

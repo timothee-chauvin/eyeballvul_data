@@ -1,0 +1,14 @@
+{
+  "commit": "5bc391ead42b8b4e1e73c1dddeaaacc7da2b6ab5",
+  "repo_url": "https://github.com/medusajs/medusa",
+  "date": "2025-12-11T13:25:42",
+  "languages": {
+    "TypeScript": 27814262,
+    "JavaScript": 4868296,
+    "Shell": 70971,
+    "Handlebars": 14730,
+    "CSS": 5899,
+    "HTML": 361
+  },
+  "size": 32774519
+}

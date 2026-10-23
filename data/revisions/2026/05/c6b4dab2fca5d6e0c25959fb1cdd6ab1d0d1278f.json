@@ -1,0 +1,16 @@
+{
+  "commit": "c6b4dab2fca5d6e0c25959fb1cdd6ab1d0d1278f",
+  "repo_url": "https://github.com/nullclaw/nullhub",
+  "date": "2026-05-29T13:18:55",
+  "languages": {
+    "Zig": 1783908,
+    "Svelte": 744865,
+    "TypeScript": 94582,
+    "Shell": 11184,
+    "CSS": 10569,
+    "JavaScript": 3304,
+    "Dockerfile": 2563,
+    "HTML": 2122
+  },
+  "size": 2653097
+}

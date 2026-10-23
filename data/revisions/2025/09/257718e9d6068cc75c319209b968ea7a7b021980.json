@@ -1,0 +1,14 @@
+{
+  "commit": "257718e9d6068cc75c319209b968ea7a7b021980",
+  "repo_url": "https://github.com/operacle/checkcle",
+  "date": "2025-09-13T14:38:38",
+  "languages": {
+    "TypeScript": 1743000,
+    "Go": 432666,
+    "Shell": 50423,
+    "JavaScript": 27136,
+    "CSS": 4611,
+    "HTML": 1209
+  },
+  "size": 2259045
+}

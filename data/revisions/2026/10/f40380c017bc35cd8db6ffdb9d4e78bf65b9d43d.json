@@ -1,0 +1,13 @@
+{
+  "commit": "f40380c017bc35cd8db6ffdb9d4e78bf65b9d43d",
+  "repo_url": "https://github.com/smrealms/smr",
+  "date": "2026-10-03T23:31:24",
+  "languages": {
+    "PHP": 2740188,
+    "JavaScript": 49495,
+    "CSS": 35282,
+    "Shell": 3301,
+    "Dockerfile": 2923
+  },
+  "size": 2831189
+}

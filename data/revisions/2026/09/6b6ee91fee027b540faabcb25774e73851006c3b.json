@@ -1,0 +1,18 @@
+{
+  "commit": "6b6ee91fee027b540faabcb25774e73851006c3b",
+  "repo_url": "https://github.com/x402-foundation/x402",
+  "date": "2026-09-29T19:01:32",
+  "languages": {
+    "TypeScript": 19778644,
+    "Python": 13404634,
+    "Go": 12044811,
+    "Solidity": 281347,
+    "JavaScript": 95209,
+    "Java": 83690,
+    "Rust": 15592,
+    "Shell": 10128,
+    "CSS": 8847,
+    "Makefile": 5034
+  },
+  "size": 45727936
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "c58307210fe995ec419db976eb234aebc71a9216",
+  "repo_url": "https://github.com/amartin755/libsmi",
+  "date": "2021-01-15T11:10:12",
+  "languages": {
+    "C": 2431058,
+    "Java": 602649,
+    "Yacc": 360746,
+    "Roff": 67855,
+    "Shell": 56593,
+    "Lex": 45542,
+    "Makefile": 35370,
+    "JavaScript": 17947,
+    "M4": 10545,
+    "Perl": 3482
+  },
+  "size": 3631787
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "577d2534356903076bb79b5b15ebd4d772994693",
+  "repo_url": "https://github.com/vyperlang/vyper",
+  "date": "2026-08-31T11:38:07",
+  "languages": {
+    "Python": 5029283,
+    "Makefile": 1906,
+    "Batchfile": 1614,
+    "Dockerfile": 1239,
+    "Vyper": 1230,
+    "Shell": 793
+  },
+  "size": 5036065
+}

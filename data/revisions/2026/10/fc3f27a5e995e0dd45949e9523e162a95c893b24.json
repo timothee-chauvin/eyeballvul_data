@@ -1,0 +1,21 @@
+{
+  "commit": "fc3f27a5e995e0dd45949e9523e162a95c893b24",
+  "repo_url": "https://github.com/atalayalabs/oxicloud",
+  "date": "2026-10-13T06:02:51",
+  "languages": {
+    "Rust": 9408660,
+    "TypeScript": 1800900,
+    "Svelte": 1307264,
+    "Shell": 583378,
+    "PLpgSQL": 266466,
+    "CSS": 201256,
+    "JavaScript": 190505,
+    "Python": 73222,
+    "Just": 21776,
+    "Nix": 19229,
+    "HTML": 12397,
+    "Dockerfile": 12369,
+    "Smarty": 1128
+  },
+  "size": 13898550
+}

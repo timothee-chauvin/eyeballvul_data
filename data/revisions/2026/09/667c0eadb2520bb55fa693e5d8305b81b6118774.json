@@ -1,0 +1,12 @@
+{
+  "commit": "667c0eadb2520bb55fa693e5d8305b81b6118774",
+  "repo_url": "https://github.com/a2aproject/a2a-java",
+  "date": "2026-09-03T18:26:48",
+  "languages": {
+    "Java": 5401736,
+    "Shell": 5566,
+    "Groovy": 1426,
+    "Dockerfile": 640
+  },
+  "size": 5409368
+}

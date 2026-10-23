@@ -1,0 +1,13 @@
+{
+  "commit": "9e23d10f9fd2a6a2f33b10912dd8dc7153258995",
+  "repo_url": "https://github.com/libgme/game-music-emu",
+  "date": "2026-04-20T19:20:21",
+  "languages": {
+    "C++": 888824,
+    "C": 110313,
+    "CMake": 26857,
+    "Makefile": 2683,
+    "Shell": 2403
+  },
+  "size": 1031080
+}

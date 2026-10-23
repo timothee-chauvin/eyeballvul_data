@@ -1,0 +1,20 @@
+{
+  "commit": "362f005924700157b390b1224142b3cfa276f426",
+  "repo_url": "https://github.com/fastapiadmin/fastapiadmin",
+  "date": "2026-05-20T16:12:34",
+  "languages": {
+    "Vue": 2630886,
+    "Python": 1162925,
+    "TypeScript": 927268,
+    "SCSS": 82580,
+    "Jinja": 66524,
+    "JavaScript": 56043,
+    "CSS": 42305,
+    "Shell": 17905,
+    "Batchfile": 11035,
+    "HTML": 1958,
+    "Mako": 635,
+    "Dockerfile": 523
+  },
+  "size": 5000587
+}

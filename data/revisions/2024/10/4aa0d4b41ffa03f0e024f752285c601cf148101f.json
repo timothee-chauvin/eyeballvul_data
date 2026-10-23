@@ -1,0 +1,16 @@
+{
+  "commit": "4aa0d4b41ffa03f0e024f752285c601cf148101f",
+  "repo_url": "https://github.com/ever-co/ever-traduora",
+  "date": "2024-10-27T19:05:56",
+  "languages": {
+    "TypeScript": 640736,
+    "HTML": 86725,
+    "Shell": 7371,
+    "CSS": 6395,
+    "JavaScript": 5360,
+    "SCSS": 3041,
+    "Dockerfile": 1576,
+    "PHP": 611
+  },
+  "size": 751815
+}

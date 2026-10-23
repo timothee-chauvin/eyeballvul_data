@@ -1,0 +1,14 @@
+{
+  "commit": "d5287015db7599422149412c0817bc76bde6ff50",
+  "repo_url": "https://github.com/brianvoe/slim-select",
+  "date": "2024-09-11T21:40:28",
+  "languages": {
+    "TypeScript": 193631,
+    "Vue": 148994,
+    "SCSS": 24928,
+    "HTML": 3347,
+    "JavaScript": 2903,
+    "Go": 188
+  },
+  "size": 373991
+}

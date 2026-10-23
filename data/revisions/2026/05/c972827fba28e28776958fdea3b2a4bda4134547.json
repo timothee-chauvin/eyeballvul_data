@@ -1,0 +1,15 @@
+{
+  "commit": "c972827fba28e28776958fdea3b2a4bda4134547",
+  "repo_url": "https://github.com/flowintel/flowintel",
+  "date": "2026-05-11T09:06:32",
+  "languages": {
+    "Python": 1781539,
+    "HTML": 1056468,
+    "JavaScript": 582349,
+    "CSS": 53715,
+    "Shell": 34736,
+    "Dockerfile": 2991,
+    "Mako": 494
+  },
+  "size": 3512292
+}

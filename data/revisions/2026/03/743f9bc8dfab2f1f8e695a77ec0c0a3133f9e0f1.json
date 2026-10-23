@@ -1,0 +1,14 @@
+{
+  "commit": "743f9bc8dfab2f1f8e695a77ec0c0a3133f9e0f1",
+  "repo_url": "https://github.com/zscaler/zscaler-mcp-server",
+  "date": "2026-03-26T01:01:27",
+  "languages": {
+    "HTML": 4659758,
+    "Python": 1320270,
+    "CSS": 80271,
+    "JavaScript": 71676,
+    "Makefile": 8366,
+    "Dockerfile": 2238
+  },
+  "size": 6142579
+}

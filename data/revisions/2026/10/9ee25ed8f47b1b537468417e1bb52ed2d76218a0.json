@@ -1,0 +1,18 @@
+{
+  "commit": "9ee25ed8f47b1b537468417e1bb52ed2d76218a0",
+  "repo_url": "https://github.com/databasus/databasus",
+  "date": "2026-10-10T19:17:56",
+  "languages": {
+    "Go": 5054066,
+    "TypeScript": 4391352,
+    "Shell": 127975,
+    "Python": 90276,
+    "Dockerfile": 11125,
+    "CSS": 9529,
+    "JavaScript": 6258,
+    "Just": 3653,
+    "Smarty": 1800,
+    "HTML": 839
+  },
+  "size": 9696873
+}

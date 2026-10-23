@@ -1,0 +1,16 @@
+{
+  "commit": "73d611b8bc2d76a74576bac1000c89033bd03964",
+  "repo_url": "https://github.com/triggerdotdev/trigger.dev",
+  "date": "2026-09-11T10:55:59",
+  "languages": {
+    "TypeScript": 34469391,
+    "JavaScript": 126583,
+    "Shell": 63536,
+    "CSS": 41139,
+    "ANTLR": 27543,
+    "Smarty": 23587,
+    "Dockerfile": 14858,
+    "PLpgSQL": 11589
+  },
+  "size": 34778226
+}

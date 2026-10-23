@@ -1,0 +1,12 @@
+{
+  "commit": "22d8f121451e049ea84a726064162b60d9b3aa69",
+  "repo_url": "https://github.com/activiti/activiti",
+  "date": "2020-02-06T11:26:54",
+  "languages": {
+    "Java": 11000829,
+    "HTML": 21868,
+    "SQLPL": 7615,
+    "Makefile": 1077
+  },
+  "size": 11031389
+}

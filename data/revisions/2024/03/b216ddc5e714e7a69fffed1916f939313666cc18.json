@@ -1,0 +1,15 @@
+{
+  "commit": "b216ddc5e714e7a69fffed1916f939313666cc18",
+  "repo_url": "https://github.com/kohler/hotcrp",
+  "date": "2024-03-14T16:43:18",
+  "languages": {
+    "PHP": 6104627,
+    "JavaScript": 676448,
+    "CSS": 109897,
+    "Perl": 61512,
+    "Shell": 47337,
+    "C++": 12182,
+    "Vim Script": 282
+  },
+  "size": 7012285
+}

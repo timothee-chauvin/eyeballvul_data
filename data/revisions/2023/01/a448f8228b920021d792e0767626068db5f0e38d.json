@@ -1,0 +1,10 @@
+{
+  "commit": "a448f8228b920021d792e0767626068db5f0e38d",
+  "repo_url": "https://github.com/sirupsen/logrus",
+  "date": "2023-01-07T22:04:39",
+  "languages": {
+    "Go": 146283,
+    "Shell": 402
+  },
+  "size": 146685
+}

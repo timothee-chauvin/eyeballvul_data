@@ -1,0 +1,17 @@
+{
+  "commit": "c28b90a5fba75f298cb1d6a49460ddf009808715",
+  "repo_url": "https://github.com/dakheera47/job-ops",
+  "date": "2026-09-17T16:54:16",
+  "languages": {
+    "TypeScript": 6330822,
+    "Python": 20550,
+    "Dockerfile": 14288,
+    "Typst": 11715,
+    "CSS": 9887,
+    "JavaScript": 9481,
+    "TeX": 2077,
+    "HTML": 1748,
+    "Shell": 365
+  },
+  "size": 6400933
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "5f81dd429107d59711ce0831add07c100e32759a",
+  "repo_url": "https://github.com/codexu/note-gen",
+  "date": "2026-10-18T02:34:40",
+  "languages": {
+    "TypeScript": 7712725,
+    "Rust": 856295,
+    "CSS": 80787,
+    "Kotlin": 27387,
+    "Swift": 19490,
+    "JavaScript": 9306,
+    "Python": 1679,
+    "Shell": 1395
+  },
+  "size": 8709064
+}

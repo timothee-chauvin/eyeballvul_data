@@ -1,0 +1,22 @@
+{
+  "commit": "36576003a929b88e0ae22247d1daef74e7c1563a",
+  "repo_url": "https://github.com/debiki/talkyard",
+  "date": "2021-11-30T08:19:18",
+  "languages": {
+    "TypeScript": 5245668,
+    "Scala": 4176165,
+    "PLpgSQL": 392470,
+    "Stylus": 255183,
+    "JavaScript": 170325,
+    "HTML": 134028,
+    "Shell": 104779,
+    "Makefile": 23910,
+    "Lua": 14972,
+    "LiveScript": 10539,
+    "Nix": 8193,
+    "Dockerfile": 4987,
+    "C": 1924,
+    "Java": 1242
+  },
+  "size": 10544385
+}

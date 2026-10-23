@@ -1,0 +1,21 @@
+{
+  "commit": "e8693ecf4c3b8b81cd005d01beec349526ea0c57",
+  "repo_url": "https://github.com/clidey/whodb",
+  "date": "2026-09-30T13:23:34",
+  "languages": {
+    "Go": 6366898,
+    "JavaScript": 3552581,
+    "TypeScript": 1531726,
+    "Python": 264895,
+    "Shell": 151710,
+    "Rust": 132766,
+    "Java": 123754,
+    "PLpgSQL": 24181,
+    "CSS": 14757,
+    "Dockerfile": 9332,
+    "Makefile": 6840,
+    "PowerShell": 4725,
+    "HTML": 3120
+  },
+  "size": 12187285
+}

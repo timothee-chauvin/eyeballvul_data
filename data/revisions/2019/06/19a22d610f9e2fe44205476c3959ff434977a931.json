@@ -1,0 +1,21 @@
+{
+  "commit": "19a22d610f9e2fe44205476c3959ff434977a931",
+  "repo_url": "https://github.com/limesurvey/limesurvey",
+  "date": "2019-06-27T13:37:37",
+  "languages": {
+    "PHP": 31005703,
+    "JavaScript": 22376822,
+    "CSS": 919619,
+    "HTML": 648217,
+    "Twig": 561571,
+    "Less": 204398,
+    "SCSS": 94264,
+    "Vue": 80812,
+    "Hack": 3439,
+    "Shell": 3402,
+    "Batchfile": 957,
+    "Makefile": 868,
+    "PowerShell": 162
+  },
+  "size": 55900234
+}

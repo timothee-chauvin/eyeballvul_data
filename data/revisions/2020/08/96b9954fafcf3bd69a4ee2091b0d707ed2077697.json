@@ -1,0 +1,15 @@
+{
+  "commit": "96b9954fafcf3bd69a4ee2091b0d707ed2077697",
+  "repo_url": "https://github.com/nifti-imaging/nifti_clib",
+  "date": "2020-08-07T13:59:58",
+  "languages": {
+    "C": 1759534,
+    "CMake": 87329,
+    "Shell": 37277,
+    "Makefile": 15741,
+    "Tcl": 1797,
+    "Dockerfile": 1580,
+    "Roff": 281
+  },
+  "size": 1903539
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "f9bb679b4a13403ed8c2c3f54cc99caa3f3a350b",
+  "repo_url": "https://github.com/liquid-co/opensave",
+  "date": "2026-09-30T10:41:42",
+  "languages": {
+    "Go": 3578475,
+    "Svelte": 521474,
+    "JavaScript": 282149,
+    "Shell": 45317,
+    "Python": 31424,
+    "TypeScript": 25492,
+    "NSIS": 21001,
+    "CSS": 18108,
+    "Roff": 15692,
+    "PowerShell": 8607,
+    "Dockerfile": 1418,
+    "HTML": 275
+  },
+  "size": 4549432
+}

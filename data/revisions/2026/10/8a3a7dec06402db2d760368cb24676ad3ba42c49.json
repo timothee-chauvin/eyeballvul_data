@@ -1,0 +1,17 @@
+{
+  "commit": "8a3a7dec06402db2d760368cb24676ad3ba42c49",
+  "repo_url": "https://github.com/ifuryst/open-computer-use",
+  "date": "2026-10-10T06:43:59",
+  "languages": {
+    "Swift": 953167,
+    "Go": 182455,
+    "JavaScript": 139894,
+    "Python": 128745,
+    "Shell": 81412,
+    "PowerShell": 41398,
+    "Objective-C": 3830,
+    "Makefile": 1288,
+    "C": 1109
+  },
+  "size": 1533298
+}

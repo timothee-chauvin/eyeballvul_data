@@ -1,0 +1,14 @@
+{
+  "commit": "f063dc216b4a8006701f3f0b4c01149198928ac0",
+  "repo_url": "https://github.com/refinedev/refine",
+  "date": "2026-01-19T16:14:02",
+  "languages": {
+    "TypeScript": 7293383,
+    "JavaScript": 127383,
+    "CSS": 15002,
+    "HTML": 5494,
+    "Handlebars": 3077,
+    "Shell": 153
+  },
+  "size": 7444492
+}

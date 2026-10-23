@@ -1,0 +1,13 @@
+{
+  "commit": "b91d635142cef8a6bcb0ca965444b5813faf1cdf",
+  "repo_url": "https://gitlab.com/francoisjacquet/rosariosis",
+  "date": "2020-07-03T15:30:18",
+  "languages": {
+    "PHP": 3341770,
+    "JavaScript": 1242737,
+    "CSS": 165021,
+    "PLpgSQL": 137949,
+    "HTML": 8444
+  },
+  "size": 4895921
+}

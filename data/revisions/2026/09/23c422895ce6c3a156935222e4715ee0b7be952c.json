@@ -1,0 +1,14 @@
+{
+  "commit": "23c422895ce6c3a156935222e4715ee0b7be952c",
+  "repo_url": "https://github.com/aous72/openjph",
+  "date": "2026-09-16T23:48:24",
+  "languages": {
+    "C++": 2297658,
+    "CMake": 37107,
+    "C": 33818,
+    "HTML": 10608,
+    "Shell": 8204,
+    "Dockerfile": 3250
+  },
+  "size": 2390645
+}

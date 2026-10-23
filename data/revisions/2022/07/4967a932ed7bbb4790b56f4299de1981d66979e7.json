@@ -1,0 +1,11 @@
+{
+  "commit": "4967a932ed7bbb4790b56f4299de1981d66979e7",
+  "repo_url": "https://github.com/yiuman/citrus",
+  "date": "2022-07-11T18:09:37",
+  "languages": {
+    "Java": 690972,
+    "Dockerfile": 1012,
+    "Shell": 156
+  },
+  "size": 692140
+}

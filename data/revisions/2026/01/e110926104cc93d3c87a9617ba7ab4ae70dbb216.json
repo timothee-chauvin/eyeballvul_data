@@ -1,0 +1,14 @@
+{
+  "commit": "e110926104cc93d3c87a9617ba7ab4ae70dbb216",
+  "repo_url": "https://github.com/webreaper/damselfly",
+  "date": "2026-01-14T13:41:22",
+  "languages": {
+    "C#": 880026,
+    "HTML": 297995,
+    "JavaScript": 157036,
+    "CSS": 73569,
+    "Shell": 6091,
+    "Dockerfile": 864
+  },
+  "size": 1415581
+}

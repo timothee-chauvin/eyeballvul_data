@@ -1,0 +1,15 @@
+{
+  "commit": "7fc0fd354cc54698a961d749eab63b53593bd2ae",
+  "repo_url": "https://github.com/rexops/rex",
+  "date": "2025-07-05T10:31:17",
+  "languages": {
+    "Perl": 1283413,
+    "Shell": 9292,
+    "Euphoria": 704,
+    "Elixir": 173,
+    "REXX": 97,
+    "Roff": 63,
+    "Smarty": 17
+  },
+  "size": 1293759
+}

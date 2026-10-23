@@ -1,0 +1,21 @@
+{
+  "commit": "eb28011249c02cafd389b2d424294c6c1b9cf422",
+  "repo_url": "https://github.com/tencentcloud/octop",
+  "date": "2026-10-04T23:47:33",
+  "languages": {
+    "Python": 8275789,
+    "TypeScript": 5597403,
+    "Less": 753495,
+    "Shell": 418540,
+    "JavaScript": 131957,
+    "Go": 80953,
+    "HTML": 75828,
+    "CSS": 50315,
+    "PowerShell": 22803,
+    "Makefile": 14890,
+    "Batchfile": 11934,
+    "Dockerfile": 10238,
+    "NSIS": 9480
+  },
+  "size": 15453625
+}

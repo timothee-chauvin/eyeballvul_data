@@ -1,0 +1,12 @@
+{
+  "commit": "973bb489bfb4d3e45b267846cea0780c9ce14dd8",
+  "repo_url": "https://github.com/marceauka/shaark",
+  "date": "2020-11-11T10:49:22",
+  "languages": {
+    "PHP": 332467,
+    "Vue": 144268,
+    "Blade": 73443,
+    "Dockerfile": 1342
+  },
+  "size": 551520
+}

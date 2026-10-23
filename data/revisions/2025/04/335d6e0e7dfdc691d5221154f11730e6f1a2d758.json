@@ -1,0 +1,14 @@
+{
+  "commit": "335d6e0e7dfdc691d5221154f11730e6f1a2d758",
+  "repo_url": "https://github.com/rocboss/paopao-ce",
+  "date": "2025-04-15T14:03:26",
+  "languages": {
+    "Go": 934899,
+    "Makefile": 4899,
+    "Shell": 4010,
+    "Rust": 2070,
+    "Dockerfile": 1903,
+    "Less": 1756
+  },
+  "size": 949537
+}

@@ -1,0 +1,20 @@
+{
+  "commit": "f30e21cca19446c3228c8f7b56025a9b22dddf95",
+  "repo_url": "https://github.com/bewelcome/rox",
+  "date": "2021-05-16T17:27:06",
+  "languages": {
+    "PHP": 5544175,
+    "JavaScript": 1566948,
+    "Twig": 581055,
+    "CSS": 292917,
+    "SCSS": 224353,
+    "Less": 37763,
+    "HTML": 35427,
+    "Gherkin": 7063,
+    "Shell": 6215,
+    "Dockerfile": 4512,
+    "Makefile": 3058,
+    "Hack": 83
+  },
+  "size": 8303569
+}

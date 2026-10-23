@@ -1,0 +1,20 @@
+{
+  "commit": "15e1fa2bd85ac3fd6da0e74e3c70494284317a64",
+  "repo_url": "https://github.com/zhimaai/chatwiki",
+  "date": "2026-10-16T08:03:54",
+  "languages": {
+    "Vue": 5937294,
+    "Go": 3516577,
+    "JavaScript": 2543509,
+    "Python": 272382,
+    "TypeScript": 185647,
+    "PHP": 129684,
+    "CSS": 126024,
+    "HTML": 113583,
+    "Less": 62021,
+    "Dockerfile": 438,
+    "Shell": 192,
+    "Batchfile": 44
+  },
+  "size": 12887395
+}

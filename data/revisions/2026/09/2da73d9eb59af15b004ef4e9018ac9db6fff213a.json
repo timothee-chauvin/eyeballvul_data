@@ -1,0 +1,17 @@
+{
+  "commit": "2da73d9eb59af15b004ef4e9018ac9db6fff213a",
+  "repo_url": "https://github.com/5rahim/seanime",
+  "date": "2026-09-20T10:56:22",
+  "languages": {
+    "Go": 7684751,
+    "TypeScript": 6470522,
+    "GLSL": 2387535,
+    "JavaScript": 233851,
+    "CSS": 33911,
+    "HTML": 16042,
+    "Batchfile": 889,
+    "Makefile": 843,
+    "Shell": 711
+  },
+  "size": 16829055
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "61c46d40eb65e7aaeaf4f2b10f6696427d1401b3",
+  "repo_url": "https://github.com/twisted/twisted",
+  "date": "2023-10-24T22:31:33",
+  "languages": {
+    "Python": 12521569,
+    "GAP": 18090,
+    "Batchfile": 3472,
+    "Shell": 3244,
+    "HTML": 1050
+  },
+  "size": 12547425
+}

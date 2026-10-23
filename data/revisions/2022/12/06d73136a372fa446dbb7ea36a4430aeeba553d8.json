@@ -1,0 +1,15 @@
+{
+  "commit": "06d73136a372fa446dbb7ea36a4430aeeba553d8",
+  "repo_url": "https://github.com/cortexproject/cortex",
+  "date": "2022-12-02T23:16:23",
+  "languages": {
+    "Go": 4738163,
+    "Makefile": 17484,
+    "Shell": 16141,
+    "HTML": 11942,
+    "Dockerfile": 5962,
+    "SCSS": 3000,
+    "PLpgSQL": 781
+  },
+  "size": 4793473
+}

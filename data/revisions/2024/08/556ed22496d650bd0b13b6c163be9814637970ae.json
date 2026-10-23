@@ -1,0 +1,18 @@
+{
+  "commit": "556ed22496d650bd0b13b6c163be9814637970ae",
+  "repo_url": "https://github.com/byvoid/opencc",
+  "date": "2024-08-03T03:45:16",
+  "languages": {
+    "C++": 225407,
+    "Python": 21819,
+    "CMake": 17320,
+    "Starlark": 15268,
+    "JavaScript": 7141,
+    "Makefile": 2712,
+    "Shell": 2460,
+    "Batchfile": 1349,
+    "TypeScript": 912,
+    "C": 731
+  },
+  "size": 295119
+}

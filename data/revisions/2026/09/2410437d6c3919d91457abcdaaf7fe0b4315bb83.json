@@ -1,0 +1,17 @@
+{
+  "commit": "2410437d6c3919d91457abcdaaf7fe0b4315bb83",
+  "repo_url": "https://github.com/purocean/yn",
+  "date": "2026-09-19T08:07:14",
+  "languages": {
+    "TypeScript": 2470851,
+    "Vue": 418113,
+    "JavaScript": 93221,
+    "CSS": 15086,
+    "SCSS": 6446,
+    "HTML": 5707,
+    "Shell": 714,
+    "MDX": 142,
+    "Lua": 116
+  },
+  "size": 3010396
+}

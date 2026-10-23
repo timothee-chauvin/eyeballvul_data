@@ -1,0 +1,12 @@
+{
+  "commit": "09ffe239a889c22f13809e9c39478e92a4c69879",
+  "repo_url": "https://github.com/webpack/webpack-dev-server",
+  "date": "2017-07-23T09:58:52",
+  "languages": {
+    "JavaScript": 71401,
+    "CSS": 892,
+    "HTML": 382,
+    "Pug": 112
+  },
+  "size": 72787
+}

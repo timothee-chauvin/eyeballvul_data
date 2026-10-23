@@ -1,0 +1,15 @@
+{
+  "commit": "18c5c73ee88bb7dc8da0d55dc95164bb77e49dc6",
+  "repo_url": "https://github.com/sahlberg/libnfs",
+  "date": "2024-12-14T08:03:11",
+  "languages": {
+    "C": 1441462,
+    "RPC": 101029,
+    "Shell": 72793,
+    "CMake": 22287,
+    "Makefile": 12544,
+    "M4": 9348,
+    "Batchfile": 6536
+  },
+  "size": 1665999
+}

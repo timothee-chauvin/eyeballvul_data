@@ -1,0 +1,18 @@
+{
+  "commit": "e6626aa0e519b335d5f0b3da4fb5767c786387fb",
+  "repo_url": "https://github.com/devtron-labs/devtron",
+  "date": "2025-10-01T09:26:47",
+  "languages": {
+    "Go": 9810638,
+    "Mustache": 184139,
+    "PLpgSQL": 114603,
+    "Shell": 22401,
+    "TSQL": 17576,
+    "Dockerfile": 9903,
+    "Python": 9231,
+    "Makefile": 5495,
+    "Smarty": 3939,
+    "HTML": 276
+  },
+  "size": 10178201
+}

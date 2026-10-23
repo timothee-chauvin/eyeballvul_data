@@ -1,0 +1,15 @@
+{
+  "commit": "8ed5066f4b2bba4476d1017ba6de2f49217a66d3",
+  "repo_url": "https://github.com/sharkord/sharkord",
+  "date": "2026-02-24T23:04:26",
+  "languages": {
+    "TypeScript": 1590274,
+    "CSS": 8848,
+    "JavaScript": 5397,
+    "Dockerfile": 519,
+    "Nix": 464,
+    "HTML": 421,
+    "Shell": 135
+  },
+  "size": 1606058
+}

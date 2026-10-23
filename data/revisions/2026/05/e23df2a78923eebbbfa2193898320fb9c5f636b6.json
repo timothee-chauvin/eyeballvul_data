@@ -1,0 +1,19 @@
+{
+  "commit": "e23df2a78923eebbbfa2193898320fb9c5f636b6",
+  "repo_url": "https://github.com/jcrodriguez-dis/moodle-mod_vpl",
+  "date": "2026-05-21T17:01:50",
+  "languages": {
+    "JavaScript": 4818062,
+    "PHP": 2213258,
+    "Shell": 203247,
+    "C++": 135392,
+    "Gherkin": 95002,
+    "CSS": 35834,
+    "Ada": 5310,
+    "C": 3112,
+    "Scheme": 2247,
+    "Java": 1323,
+    "Python": 51
+  },
+  "size": 7512838
+}

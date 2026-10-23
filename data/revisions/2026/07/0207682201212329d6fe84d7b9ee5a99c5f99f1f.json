@@ -1,0 +1,13 @@
+{
+  "commit": "0207682201212329d6fe84d7b9ee5a99c5f99f1f",
+  "repo_url": "https://github.com/cognicellai/cognition",
+  "date": "2026-07-27T06:48:14",
+  "languages": {
+    "Python": 2826896,
+    "Shell": 41066,
+    "Dockerfile": 2938,
+    "Smarty": 2127,
+    "Mako": 635
+  },
+  "size": 2873662
+}

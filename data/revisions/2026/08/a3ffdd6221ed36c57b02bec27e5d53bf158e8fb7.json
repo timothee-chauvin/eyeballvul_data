@@ -1,0 +1,11 @@
+{
+  "commit": "a3ffdd6221ed36c57b02bec27e5d53bf158e8fb7",
+  "repo_url": "https://github.com/juggleim/im-server",
+  "date": "2026-08-24T02:48:12",
+  "languages": {
+    "Go": 1931433,
+    "Shell": 30938,
+    "Dockerfile": 1544
+  },
+  "size": 1963915
+}

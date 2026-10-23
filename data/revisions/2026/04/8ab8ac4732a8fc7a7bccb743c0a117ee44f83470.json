@@ -1,0 +1,22 @@
+{
+  "commit": "8ab8ac4732a8fc7a7bccb743c0a117ee44f83470",
+  "repo_url": "https://github.com/prefecthq/prefect",
+  "date": "2026-04-20T13:22:02",
+  "languages": {
+    "Python": 21626380,
+    "TypeScript": 5581690,
+    "Vue": 123398,
+    "CSS": 70747,
+    "Jinja": 19428,
+    "Just": 19407,
+    "Dockerfile": 14422,
+    "Shell": 10964,
+    "JavaScript": 10709,
+    "Lua": 5413,
+    "HTML": 2909,
+    "MDX": 1645,
+    "Mako": 589,
+    "Brainfuck": 57
+  },
+  "size": 27487758
+}

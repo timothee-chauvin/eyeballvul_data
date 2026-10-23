@@ -1,0 +1,14 @@
+{
+  "commit": "93cfdca9857a5e2ae847469c3238a6174515c76f",
+  "repo_url": "https://github.com/blackcandy-org/blackcandy",
+  "date": "2026-08-26T07:34:16",
+  "languages": {
+    "Ruby": 250645,
+    "HTML": 75760,
+    "SCSS": 42998,
+    "JavaScript": 36686,
+    "Dockerfile": 1915,
+    "Shell": 812
+  },
+  "size": 408816
+}

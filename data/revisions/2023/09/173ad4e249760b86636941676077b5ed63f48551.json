@@ -1,0 +1,18 @@
+{
+  "commit": "173ad4e249760b86636941676077b5ed63f48551",
+  "repo_url": "https://github.com/risingwavelabs/risingwave",
+  "date": "2023-09-13T10:03:08",
+  "languages": {
+    "Rust": 14879869,
+    "Java": 570879,
+    "Python": 351644,
+    "Shell": 176218,
+    "TypeScript": 117550,
+    "JavaScript": 72745,
+    "Go": 53824,
+    "Dockerfile": 9345,
+    "CSS": 403,
+    "Roff": 64
+  },
+  "size": 16232541
+}

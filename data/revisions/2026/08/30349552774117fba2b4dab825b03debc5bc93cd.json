@@ -1,0 +1,19 @@
+{
+  "commit": "30349552774117fba2b4dab825b03debc5bc93cd",
+  "repo_url": "https://github.com/vatesfr/xen-orchestra",
+  "date": "2026-08-31T16:37:24",
+  "languages": {
+    "JavaScript": 7387328,
+    "TypeScript": 2437737,
+    "Vue": 1790805,
+    "CSS": 63945,
+    "SCSS": 30836,
+    "Handlebars": 30197,
+    "Smarty": 18779,
+    "Pug": 9262,
+    "Shell": 8366,
+    "PowerShell": 1944,
+    "HTML": 1819
+  },
+  "size": 11781018
+}

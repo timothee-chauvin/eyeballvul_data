@@ -1,0 +1,16 @@
+{
+  "commit": "5a3ecfd49bc2ed452820d656cd5b2e6cc7a6ed64",
+  "repo_url": "https://github.com/getumbrel/umbrel",
+  "date": "2024-06-20T15:24:56",
+  "languages": {
+    "TypeScript": 891821,
+    "Shell": 156192,
+    "JavaScript": 41656,
+    "HTML": 23369,
+    "Python": 14676,
+    "Dockerfile": 10897,
+    "CSS": 7202,
+    "EJS": 4655
+  },
+  "size": 1150468
+}

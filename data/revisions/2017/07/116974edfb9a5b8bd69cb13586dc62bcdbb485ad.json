@@ -1,0 +1,14 @@
+{
+  "commit": "116974edfb9a5b8bd69cb13586dc62bcdbb485ad",
+  "repo_url": "https://github.com/diem-project/diem",
+  "date": "2017-07-12T11:51:11",
+  "languages": {
+    "PHP": 2542665,
+    "JavaScript": 832562,
+    "HTML": 226344,
+    "CSS": 218417,
+    "Shell": 4582,
+    "Hack": 349
+  },
+  "size": 3824919
+}

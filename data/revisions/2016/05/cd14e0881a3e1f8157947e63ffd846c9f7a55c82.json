@@ -1,0 +1,13 @@
+{
+  "commit": "cd14e0881a3e1f8157947e63ffd846c9f7a55c82",
+  "repo_url": "https://github.com/kornelski/pngquant",
+  "date": "2016-05-08T21:53:25",
+  "languages": {
+    "C": 190693,
+    "Makefile": 3799,
+    "Roff": 3608,
+    "Shell": 2833,
+    "Objective-C": 2255
+  },
+  "size": 203188
+}

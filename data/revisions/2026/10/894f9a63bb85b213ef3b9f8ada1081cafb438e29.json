@@ -1,0 +1,13 @@
+{
+  "commit": "894f9a63bb85b213ef3b9f8ada1081cafb438e29",
+  "repo_url": "https://github.com/hoshinosuzumi/chronoframe",
+  "date": "2026-10-16T08:03:21",
+  "languages": {
+    "Vue": 730929,
+    "TypeScript": 611672,
+    "CSS": 5924,
+    "Dockerfile": 2207,
+    "JavaScript": 1916
+  },
+  "size": 1352648
+}

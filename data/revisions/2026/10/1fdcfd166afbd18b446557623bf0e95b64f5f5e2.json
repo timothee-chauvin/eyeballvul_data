@@ -1,0 +1,14 @@
+{
+  "commit": "1fdcfd166afbd18b446557623bf0e95b64f5f5e2",
+  "repo_url": "https://github.com/locustio/locust",
+  "date": "2026-10-04T10:43:20",
+  "languages": {
+    "Python": 1195999,
+    "TypeScript": 251188,
+    "HTML": 3231,
+    "JavaScript": 2304,
+    "Dockerfile": 1870,
+    "Makefile": 1242
+  },
+  "size": 1455834
+}

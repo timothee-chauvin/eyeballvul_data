@@ -1,0 +1,14 @@
+{
+  "commit": "4e8a1c20c49032fe2bc192a54760dedb48d57f0e",
+  "repo_url": "https://github.com/dynamics365ninja/d365fo-mcp-server",
+  "date": "2026-08-11T07:41:07",
+  "languages": {
+    "TypeScript": 6623954,
+    "C#": 528057,
+    "JavaScript": 32172,
+    "PowerShell": 15256,
+    "Bicep": 4793,
+    "Shell": 917
+  },
+  "size": 7205149
+}

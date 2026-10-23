@@ -1,0 +1,12 @@
+{
+  "commit": "1a012d266d3a60055efc59d994f42dce293500af",
+  "repo_url": "https://github.com/google/adk-js",
+  "date": "2026-03-09T23:06:57",
+  "languages": {
+    "TypeScript": 1016948,
+    "HTML": 50238,
+    "JavaScript": 27683,
+    "Shell": 961
+  },
+  "size": 1095830
+}

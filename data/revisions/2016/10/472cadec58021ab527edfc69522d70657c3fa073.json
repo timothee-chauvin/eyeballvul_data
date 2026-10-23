@@ -1,0 +1,15 @@
+{
+  "commit": "472cadec58021ab527edfc69522d70657c3fa073",
+  "repo_url": "https://github.com/friendsofsymfony1/symfony1",
+  "date": "2016-10-06T07:44:16",
+  "languages": {
+    "PHP": 3336477,
+    "CSS": 16872,
+    "JavaScript": 4717,
+    "Hack": 1282,
+    "Batchfile": 1151,
+    "AMPL": 1136,
+    "Shell": 710
+  },
+  "size": 3362345
+}

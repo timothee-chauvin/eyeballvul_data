@@ -1,0 +1,17 @@
+{
+  "commit": "638fac5a426319dddd232d9d11d88892b9330d0f",
+  "repo_url": "https://github.com/twisted/twisted",
+  "date": "2009-11-25T18:06:03",
+  "languages": {
+    "Python": 8666665,
+    "C": 217256,
+    "Cython": 37115,
+    "Emacs Lisp": 27174,
+    "GAP": 14130,
+    "HTML": 3832,
+    "Batchfile": 773,
+    "Smarty": 393,
+    "Shell": 321
+  },
+  "size": 8967659
+}

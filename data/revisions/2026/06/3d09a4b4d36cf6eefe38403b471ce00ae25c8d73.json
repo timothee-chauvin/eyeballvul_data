@@ -1,0 +1,22 @@
+{
+  "commit": "3d09a4b4d36cf6eefe38403b471ce00ae25c8d73",
+  "repo_url": "https://github.com/specterops/bloodhound",
+  "date": "2026-06-27T00:22:05",
+  "languages": {
+    "Go": 7149390,
+    "TypeScript": 6326369,
+    "PLpgSQL": 83941,
+    "CUE": 77075,
+    "JavaScript": 32378,
+    "SCSS": 16538,
+    "Dockerfile": 14793,
+    "MDX": 14015,
+    "Just": 13410,
+    "C#": 12071,
+    "Python": 6554,
+    "CSS": 1670,
+    "HTML": 1255,
+    "Prolog": 358
+  },
+  "size": 13749817
+}

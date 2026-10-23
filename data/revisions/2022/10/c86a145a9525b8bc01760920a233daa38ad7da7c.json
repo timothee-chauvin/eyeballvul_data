@@ -1,0 +1,9 @@
+{
+  "commit": "c86a145a9525b8bc01760920a233daa38ad7da7c",
+  "repo_url": "https://github.com/snyk/snyk-php-plugin",
+  "date": "2022-10-14T13:42:36",
+  "languages": {
+    "TypeScript": 13129
+  },
+  "size": 13129
+}

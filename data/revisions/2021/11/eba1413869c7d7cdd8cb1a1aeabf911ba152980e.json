@@ -1,0 +1,18 @@
+{
+  "commit": "eba1413869c7d7cdd8cb1a1aeabf911ba152980e",
+  "repo_url": "https://github.com/librecad/librecad",
+  "date": "2021-11-28T11:51:07",
+  "languages": {
+    "C++": 6149665,
+    "C": 3579962,
+    "QMake": 55399,
+    "NSIS": 34653,
+    "Shell": 13482,
+    "Redcode": 10861,
+    "Batchfile": 2986,
+    "HTML": 1382,
+    "Roff": 1232,
+    "CSS": 140
+  },
+  "size": 9849762
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "182f5d7c0242ef291b8615f1d3a97495b5cf8f63",
+  "repo_url": "https://github.com/masscodeio/masscode",
+  "date": "2026-08-06T07:20:24",
+  "languages": {
+    "TypeScript": 2962359,
+    "Vue": 852736,
+    "JavaScript": 29673,
+    "CSS": 15282,
+    "HTML": 4909
+  },
+  "size": 3864959
+}

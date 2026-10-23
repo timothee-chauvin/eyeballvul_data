@@ -1,0 +1,12 @@
+{
+  "commit": "026467aeb6730f34bc3a0c470cf48ad87cd4367f",
+  "repo_url": "https://github.com/pymupdf/pymupdf",
+  "date": "2025-11-04T15:15:13",
+  "languages": {
+    "Python": 2087206,
+    "SWIG": 1118890,
+    "HTML": 17227,
+    "C": 5670
+  },
+  "size": 3228993
+}

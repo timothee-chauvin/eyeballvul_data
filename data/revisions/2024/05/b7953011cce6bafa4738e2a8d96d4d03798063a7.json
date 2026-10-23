@@ -1,0 +1,16 @@
+{
+  "commit": "b7953011cce6bafa4738e2a8d96d4d03798063a7",
+  "repo_url": "https://github.com/taskingai/taskingai",
+  "date": "2024-05-31T04:00:23",
+  "languages": {
+    "Python": 1501985,
+    "TypeScript": 528702,
+    "SCSS": 209588,
+    "CSS": 86820,
+    "Shell": 4300,
+    "Dockerfile": 4256,
+    "HTML": 1088,
+    "JavaScript": 585
+  },
+  "size": 2337324
+}

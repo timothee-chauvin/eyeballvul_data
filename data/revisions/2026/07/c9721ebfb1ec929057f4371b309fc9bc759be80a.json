@@ -1,0 +1,12 @@
+{
+  "commit": "c9721ebfb1ec929057f4371b309fc9bc759be80a",
+  "repo_url": "https://github.com/tier4/nebula",
+  "date": "2026-07-30T06:10:08",
+  "languages": {
+    "C++": 1811382,
+    "CMake": 51486,
+    "Python": 50814,
+    "Shell": 4607
+  },
+  "size": 1918289
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "cda5bcdb95dbdb1e804fdfe0e5fd2e2b2f8a90e2",
+  "repo_url": "https://github.com/vincent-peugnet/wcms",
+  "date": "2026-09-20T15:31:10",
+  "languages": {
+    "PHP": 784832,
+    "CSS": 99697,
+    "HTML": 54774,
+    "JavaScript": 30789,
+    "Makefile": 5726
+  },
+  "size": 975818
+}

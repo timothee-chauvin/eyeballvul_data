@@ -1,0 +1,13 @@
+{
+  "commit": "20dd2e21272c2b726d05bcbf7aff9f6be7f3485c",
+  "repo_url": "https://github.com/jhipster/jhipster-kotlin",
+  "date": "2020-03-15T20:35:02",
+  "languages": {
+    "Kotlin": 1147423,
+    "JavaScript": 398759,
+    "EJS": 32747,
+    "Shell": 7659,
+    "Java": 5371
+  },
+  "size": 1591959
+}

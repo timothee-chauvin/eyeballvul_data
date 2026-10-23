@@ -1,0 +1,15 @@
+{
+  "commit": "ccbd1ba0da215cf6bfd8509a624e45d80cece4a1",
+  "repo_url": "https://github.com/izhaorui/zr.admin.net",
+  "date": "2022-01-19T13:37:37",
+  "languages": {
+    "C#": 613966,
+    "Vue": 530981,
+    "JavaScript": 130465,
+    "SCSS": 20062,
+    "HTML": 2577,
+    "Batchfile": 900,
+    "Dockerfile": 492
+  },
+  "size": 1299443
+}

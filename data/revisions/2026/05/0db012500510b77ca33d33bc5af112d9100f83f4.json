@@ -1,0 +1,14 @@
+{
+  "commit": "0db012500510b77ca33d33bc5af112d9100f83f4",
+  "repo_url": "https://github.com/mighty840/kitchenasty",
+  "date": "2026-05-14T13:49:43",
+  "languages": {
+    "TypeScript": 1327173,
+    "Dockerfile": 3027,
+    "JavaScript": 2965,
+    "Shell": 906,
+    "HTML": 617,
+    "CSS": 576
+  },
+  "size": 1335264
+}

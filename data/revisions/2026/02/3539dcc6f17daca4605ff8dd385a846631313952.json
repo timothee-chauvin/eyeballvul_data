@@ -1,0 +1,20 @@
+{
+  "commit": "3539dcc6f17daca4605ff8dd385a846631313952",
+  "repo_url": "https://github.com/meesho/bharatmlstack",
+  "date": "2026-02-14T13:57:50",
+  "languages": {
+    "Go": 4699999,
+    "JavaScript": 1779370,
+    "Shell": 279924,
+    "Python": 193126,
+    "Rust": 145772,
+    "Java": 109133,
+    "CSS": 24729,
+    "Jupyter Notebook": 7093,
+    "Dockerfile": 6874,
+    "SCSS": 2836,
+    "Mustache": 2157,
+    "HTML": 1721
+  },
+  "size": 7252734
+}

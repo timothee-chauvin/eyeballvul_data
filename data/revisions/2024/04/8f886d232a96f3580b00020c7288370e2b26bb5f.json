@@ -1,0 +1,13 @@
+{
+  "commit": "8f886d232a96f3580b00020c7288370e2b26bb5f",
+  "repo_url": "https://github.com/piraeusdatastore/piraeus-operator",
+  "date": "2024-04-04T14:09:00",
+  "languages": {
+    "Go": 318782,
+    "Makefile": 12309,
+    "Shell": 4018,
+    "Smarty": 2140,
+    "Dockerfile": 1270
+  },
+  "size": 338519
+}

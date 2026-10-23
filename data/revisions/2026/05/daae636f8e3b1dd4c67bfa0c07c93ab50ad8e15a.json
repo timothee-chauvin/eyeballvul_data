@@ -1,0 +1,14 @@
+{
+  "commit": "daae636f8e3b1dd4c67bfa0c07c93ab50ad8e15a",
+  "repo_url": "https://github.com/gabehf/koito",
+  "date": "2026-05-28T04:06:23",
+  "languages": {
+    "Go": 515836,
+    "TypeScript": 240102,
+    "CSS": 7326,
+    "Dockerfile": 1671,
+    "Makefile": 592,
+    "JavaScript": 568
+  },
+  "size": 766095
+}

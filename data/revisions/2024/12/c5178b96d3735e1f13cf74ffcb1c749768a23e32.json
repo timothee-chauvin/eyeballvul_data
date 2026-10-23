@@ -1,0 +1,15 @@
+{
+  "commit": "c5178b96d3735e1f13cf74ffcb1c749768a23e32",
+  "repo_url": "https://github.com/docusealco/docuseal",
+  "date": "2024-12-02T12:30:33",
+  "languages": {
+    "Ruby": 641684,
+    "HTML": 381345,
+    "Vue": 356901,
+    "JavaScript": 148822,
+    "SCSS": 3633,
+    "Dockerfile": 3280,
+    "Procfile": 39
+  },
+  "size": 1535704
+}

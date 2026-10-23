@@ -1,0 +1,24 @@
+{
+  "commit": "42f46cf96e8140680d4786a9feb7391be8475ad1",
+  "repo_url": "https://github.com/iflytek/astron-agent",
+  "date": "2026-05-15T08:25:43",
+  "languages": {
+    "Java": 5483243,
+    "TypeScript": 4509754,
+    "Python": 4116805,
+    "JavaScript": 1488418,
+    "SCSS": 447780,
+    "Go": 281139,
+    "HCL": 143239,
+    "Makefile": 75513,
+    "Lua": 55796,
+    "Shell": 41275,
+    "C": 13024,
+    "Dockerfile": 7706,
+    "CSS": 6813,
+    "Smarty": 4303,
+    "HTML": 2536,
+    "Mako": 1935
+  },
+  "size": 16679279
+}

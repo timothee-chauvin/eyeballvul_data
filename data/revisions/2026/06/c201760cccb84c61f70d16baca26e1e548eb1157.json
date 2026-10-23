@@ -1,0 +1,12 @@
+{
+  "commit": "c201760cccb84c61f70d16baca26e1e548eb1157",
+  "repo_url": "https://github.com/shlinkio/shlink",
+  "date": "2026-06-22T14:45:00",
+  "languages": {
+    "PHP": 1633775,
+    "Dockerfile": 8335,
+    "Shell": 4550,
+    "HTML": 2916
+  },
+  "size": 1649576
+}

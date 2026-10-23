@@ -1,0 +1,23 @@
+{
+  "commit": "53bf5bba71249806e3fe4dec04be6db3a15355b0",
+  "repo_url": "https://github.com/iterate-ch/cyberduck",
+  "date": "2025-06-18T11:43:10",
+  "languages": {
+    "Java": 22486633,
+    "Roff": 4505226,
+    "C#": 1767773,
+    "Rich Text Format": 258019,
+    "Objective-C": 110973,
+    "HTML": 66148,
+    "Shell": 12159,
+    "C": 11881,
+    "Ruby": 3372,
+    "C++": 3262,
+    "Python": 2676,
+    "JavaScript": 1366,
+    "PowerShell": 1217,
+    "Dockerfile": 933,
+    "Makefile": 191
+  },
+  "size": 29231829
+}

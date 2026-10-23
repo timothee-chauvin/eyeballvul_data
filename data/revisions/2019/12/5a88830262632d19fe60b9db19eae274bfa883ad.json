@@ -1,0 +1,18 @@
+{
+  "commit": "5a88830262632d19fe60b9db19eae274bfa883ad",
+  "repo_url": "https://github.com/arendst/tasmota",
+  "date": "2019-12-06T11:04:13",
+  "languages": {
+    "C++": 7542381,
+    "C": 5148602,
+    "Python": 315826,
+    "Processing": 62997,
+    "Makefile": 46474,
+    "Shell": 6310,
+    "HTML": 4509,
+    "JavaScript": 3112,
+    "PHP": 433,
+    "Batchfile": 256
+  },
+  "size": 13130900
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "d80880eccfa7519d2d119a6c919a0637ae51205f",
+  "repo_url": "https://github.com/gz-yami/mall4cloud",
+  "date": "2026-03-19T03:10:11",
+  "languages": {
+    "JavaScript": 1264198,
+    "Java": 1134949,
+    "Vue": 1016792,
+    "SCSS": 149673,
+    "CSS": 6742,
+    "HTML": 1641,
+    "Dockerfile": 281
+  },
+  "size": 3574276
+}

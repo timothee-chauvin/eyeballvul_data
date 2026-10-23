@@ -1,0 +1,15 @@
+{
+  "commit": "07e1ba2d12f34d273acd4055039907f10f1889fd",
+  "repo_url": "https://github.com/silverpeas/silverpeas-components",
+  "date": "2024-06-26T13:30:24",
+  "languages": {
+    "Java": 10287159,
+    "CSS": 231949,
+    "JavaScript": 212640,
+    "HTML": 182686,
+    "StringTemplate": 50713,
+    "Groovy": 17953,
+    "Smalltalk": 1031
+  },
+  "size": 10984131
+}

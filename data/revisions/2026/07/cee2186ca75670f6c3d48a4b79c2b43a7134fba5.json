@@ -1,0 +1,11 @@
+{
+  "commit": "cee2186ca75670f6c3d48a4b79c2b43a7134fba5",
+  "repo_url": "https://github.com/containerd/overlaybd",
+  "date": "2026-07-04T07:11:33",
+  "languages": {
+    "C++": 1369400,
+    "C": 96851,
+    "CMake": 28630
+  },
+  "size": 1494881
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "80de213dde154d3d05776eb219af381faf97f364",
+  "repo_url": "https://github.com/kata-containers/agent",
+  "date": "2020-05-06T19:11:09",
+  "languages": {
+    "Go": 366923,
+    "Shell": 5856,
+    "Makefile": 4302,
+    "Dockerfile": 1939
+  },
+  "size": 379020
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "8bf49aa4f23a71d42c6ffb065afe3a65d49aef88",
+  "repo_url": "https://github.com/upx/upx",
+  "date": "2025-02-20T15:02:44",
+  "languages": {
+    "C++": 2386792,
+    "Assembly": 1059821,
+    "C": 545304,
+    "Makefile": 121282,
+    "Python": 72385,
+    "CMake": 52175,
+    "Shell": 47946,
+    "Dockerfile": 5493,
+    "sed": 498
+  },
+  "size": 4291696
+}

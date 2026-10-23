@@ -1,0 +1,16 @@
+{
+  "commit": "215fc50b2d4acc7d92b36828f42d7d1ae212015c",
+  "repo_url": "https://github.com/operator-framework/operator-sdk",
+  "date": "2020-11-09T17:58:06",
+  "languages": {
+    "Go": 1432287,
+    "SCSS": 36351,
+    "HTML": 29042,
+    "Shell": 22834,
+    "Makefile": 11720,
+    "Dockerfile": 4615,
+    "Jinja": 1445,
+    "Python": 316
+  },
+  "size": 1538610
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "6a61ebacdcd6e865c6e8d4fc6ea74422ce87820a",
+  "repo_url": "https://github.com/open-telemetry/opentelemetry-python",
+  "date": "2022-09-26T21:27:28",
+  "languages": {
+    "Python": 1686663,
+    "Thrift": 17840,
+    "Shell": 8042,
+    "Jinja": 1683
+  },
+  "size": 1714228
+}

@@ -1,0 +1,25 @@
+{
+  "commit": "af0c60140ec4a5d7239aaf61bb3d81ac3c56e51b",
+  "repo_url": "https://github.com/safing/portmaster",
+  "date": "2026-06-11T13:07:02",
+  "languages": {
+    "Go": 5356522,
+    "C": 2755258,
+    "TypeScript": 916921,
+    "Rust": 468652,
+    "HTML": 302490,
+    "SCSS": 80834,
+    "Pascal": 71126,
+    "Shell": 48022,
+    "PowerShell": 36171,
+    "Earthly": 28056,
+    "CSS": 9960,
+    "JavaScript": 8929,
+    "C++": 8578,
+    "NSIS": 6782,
+    "VBScript": 3722,
+    "Dockerfile": 1652,
+    "Less": 168
+  },
+  "size": 10103843
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "f6694d99926926d565fdba3ee2ad0e1f79743496",
+  "repo_url": "https://github.com/memtensor/memmy-agent",
+  "date": "2026-10-12T12:36:56",
+  "languages": {
+    "TypeScript": 21959387,
+    "JavaScript": 643109,
+    "CSS": 416760,
+    "PowerShell": 219751,
+    "Shell": 179831,
+    "Python": 50302,
+    "NSIS": 45384,
+    "Swift": 31979,
+    "HTML": 800
+  },
+  "size": 23547303
+}
