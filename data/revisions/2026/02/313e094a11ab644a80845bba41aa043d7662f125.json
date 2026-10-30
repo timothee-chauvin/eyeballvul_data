@@ -1,0 +1,14 @@
+{
+  "commit": "313e094a11ab644a80845bba41aa043d7662f125",
+  "repo_url": "https://github.com/endatix/endatix",
+  "date": "2026-02-16T14:11:49",
+  "languages": {
+    "C#": 2801633,
+    "PLpgSQL": 22938,
+    "Batchfile": 4132,
+    "TSQL": 3866,
+    "Shell": 3566,
+    "Dockerfile": 477
+  },
+  "size": 2836612
+}

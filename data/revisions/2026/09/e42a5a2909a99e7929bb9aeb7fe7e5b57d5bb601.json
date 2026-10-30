@@ -1,0 +1,16 @@
+{
+  "commit": "e42a5a2909a99e7929bb9aeb7fe7e5b57d5bb601",
+  "repo_url": "https://github.com/libyal/libfvde",
+  "date": "2026-09-23T16:42:33",
+  "languages": {
+    "C": 12945409,
+    "M4": 204754,
+    "Python": 85666,
+    "PowerShell": 33695,
+    "Shell": 29108,
+    "Makefile": 28820,
+    "Roff": 20755,
+    "C++": 14784
+  },
+  "size": 13362991
+}

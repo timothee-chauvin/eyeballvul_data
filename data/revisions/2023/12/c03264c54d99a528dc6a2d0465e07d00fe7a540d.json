@@ -1,0 +1,13 @@
+{
+  "commit": "c03264c54d99a528dc6a2d0465e07d00fe7a540d",
+  "repo_url": "https://github.com/reduxjs/redux-devtools",
+  "date": "2023-12-14T01:00:31",
+  "languages": {
+    "TypeScript": 1068161,
+    "JavaScript": 368038,
+    "HTML": 9462,
+    "Pug": 4165,
+    "CSS": 2159
+  },
+  "size": 1451985
+}

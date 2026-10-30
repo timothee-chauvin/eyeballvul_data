@@ -1,0 +1,15 @@
+{
+  "commit": "7ced261d1590e4d7b667c45e92b5c4c321de3f64",
+  "repo_url": "https://github.com/kitodo/kitodo-production",
+  "date": "2026-05-07T08:37:53",
+  "languages": {
+    "Java": 6278864,
+    "HTML": 1173323,
+    "XSLT": 457321,
+    "CSS": 325498,
+    "JavaScript": 157941,
+    "Shell": 9108,
+    "Batchfile": 6742
+  },
+  "size": 8408797
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "f2c6b767ddd69f2a4dcfa431e1661bdf62495315",
+  "repo_url": "https://github.com/frappe/builder",
+  "date": "2026-10-21T17:49:30",
+  "languages": {
+    "Python": 1066807,
+    "Vue": 866708,
+    "TypeScript": 663450,
+    "JavaScript": 26538,
+    "HTML": 9615,
+    "CSS": 6578,
+    "Shell": 2097
+  },
+  "size": 2641793
+}

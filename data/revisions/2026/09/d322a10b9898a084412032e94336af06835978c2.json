@@ -1,0 +1,14 @@
+{
+  "commit": "d322a10b9898a084412032e94336af06835978c2",
+  "repo_url": "https://github.com/yunaiv/yudao-cloud",
+  "date": "2026-09-26T17:01:32",
+  "languages": {
+    "Java": 25280847,
+    "PLpgSQL": 12428534,
+    "TSQL": 2107867,
+    "Python": 35844,
+    "Dockerfile": 13919,
+    "Shell": 4852
+  },
+  "size": 39871863
+}

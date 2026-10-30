@@ -1,0 +1,16 @@
+{
+  "commit": "2a5b1b22beeedec83e30b2f5c2b22915dc5b6b06",
+  "repo_url": "https://github.com/spesmilo/electrum",
+  "date": "2026-02-26T19:50:39",
+  "languages": {
+    "Python": 6580050,
+    "QML": 614561,
+    "Shell": 144021,
+    "Dockerfile": 17456,
+    "Java": 16375,
+    "Ruby": 10196,
+    "NSIS": 9380,
+    "Makefile": 1672
+  },
+  "size": 7393711
+}

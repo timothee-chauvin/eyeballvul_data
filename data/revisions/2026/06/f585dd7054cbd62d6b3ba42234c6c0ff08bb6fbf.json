@@ -1,0 +1,13 @@
+{
+  "commit": "f585dd7054cbd62d6b3ba42234c6c0ff08bb6fbf",
+  "repo_url": "https://github.com/ankimcp/anki-mcp-server-addon",
+  "date": "2026-06-12T07:06:25",
+  "languages": {
+    "Python": 911268,
+    "HTML": 11907,
+    "Shell": 3478,
+    "Makefile": 3046,
+    "Nix": 2433
+  },
+  "size": 932132
+}

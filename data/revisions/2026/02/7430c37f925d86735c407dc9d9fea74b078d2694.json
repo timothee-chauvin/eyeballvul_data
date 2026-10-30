@@ -1,0 +1,15 @@
+{
+  "commit": "7430c37f925d86735c407dc9d9fea74b078d2694",
+  "repo_url": "https://github.com/horilla/horilla-crm",
+  "date": "2026-02-27T19:41:33",
+  "languages": {
+    "Python": 4528543,
+    "HTML": 1476276,
+    "JavaScript": 1239999,
+    "CSS": 50480,
+    "Dockerfile": 1085,
+    "Makefile": 747,
+    "Shell": 447
+  },
+  "size": 7297577
+}

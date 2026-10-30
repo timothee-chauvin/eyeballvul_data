@@ -1,0 +1,14 @@
+{
+  "commit": "44edf98ae55428d1ebbe1562b69cf90312c02d70",
+  "repo_url": "https://github.com/onearmy/community-platform",
+  "date": "2026-10-21T06:15:25",
+  "languages": {
+    "TypeScript": 3143947,
+    "PLpgSQL": 233197,
+    "CSS": 28566,
+    "JavaScript": 7058,
+    "HTML": 2324,
+    "Dockerfile": 1274
+  },
+  "size": 3416366
+}

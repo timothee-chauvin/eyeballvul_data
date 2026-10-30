@@ -1,0 +1,11 @@
+{
+  "commit": "e2f1a4be10223ec8de22dcba0c850216e8286ae8",
+  "repo_url": "https://github.com/eclipse-iofog/iofogctl",
+  "date": "2026-10-21T18:11:39",
+  "languages": {
+    "Go": 1421792,
+    "Shell": 198632,
+    "Makefile": 7153
+  },
+  "size": 1627577
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "25adceeafab4ad0c6e6eb4add5d32ee626180e61",
+  "repo_url": "https://github.com/nosduco/nforwardauth",
+  "date": "2025-06-13T01:55:35",
+  "languages": {
+    "Rust": 26097,
+    "JavaScript": 4845,
+    "HTML": 2253,
+    "Dockerfile": 2196,
+    "CSS": 1705,
+    "Just": 754
+  },
+  "size": 37850
+}

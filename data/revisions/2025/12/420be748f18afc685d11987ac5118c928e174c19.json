@@ -1,0 +1,12 @@
+{
+  "commit": "420be748f18afc685d11987ac5118c928e174c19",
+  "repo_url": "https://github.com/apple/container",
+  "date": "2025-12-08T06:00:02",
+  "languages": {
+    "Swift": 1446647,
+    "Makefile": 13115,
+    "Shell": 8719,
+    "C": 4068
+  },
+  "size": 1472549
+}

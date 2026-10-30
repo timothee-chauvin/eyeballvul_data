@@ -1,0 +1,22 @@
+{
+  "commit": "fccff887da0d83db1711379e0a3696dfc2460fdd",
+  "repo_url": "https://github.com/fallow-rs/fallow",
+  "date": "2026-10-09T20:11:14",
+  "languages": {
+    "Rust": 35408451,
+    "JavaScript": 1894098,
+    "TypeScript": 1867984,
+    "Shell": 715523,
+    "Python": 109154,
+    "jq": 107295,
+    "CSS": 72382,
+    "HTML": 2544,
+    "Dockerfile": 1652,
+    "Vue": 603,
+    "MDX": 403,
+    "Astro": 352,
+    "Svelte": 267,
+    "SCSS": 133
+  },
+  "size": 40180841
+}

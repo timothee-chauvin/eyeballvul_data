@@ -1,0 +1,13 @@
+{
+  "commit": "234a28511021dc40a7f9dfe584e4bd1c140018a0",
+  "repo_url": "https://github.com/aws/aws-sdk-pandas",
+  "date": "2025-06-18T16:37:08",
+  "languages": {
+    "Python": 2305379,
+    "Jupyter Notebook": 654206,
+    "Shell": 8287,
+    "Dockerfile": 1631,
+    "Batchfile": 437
+  },
+  "size": 2969940
+}

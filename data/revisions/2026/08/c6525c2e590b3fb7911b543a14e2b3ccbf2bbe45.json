@@ -1,0 +1,11 @@
+{
+  "commit": "c6525c2e590b3fb7911b543a14e2b3ccbf2bbe45",
+  "repo_url": "https://github.com/boneio-eu/black_debian_images",
+  "date": "2026-08-26T12:23:50",
+  "languages": {
+    "Shell": 171567,
+    "Python": 15464,
+    "JavaScript": 5552
+  },
+  "size": 192583
+}

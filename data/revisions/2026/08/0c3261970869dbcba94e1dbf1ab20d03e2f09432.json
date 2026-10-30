@@ -1,0 +1,17 @@
+{
+  "commit": "0c3261970869dbcba94e1dbf1ab20d03e2f09432",
+  "repo_url": "https://github.com/lxc/incus",
+  "date": "2026-08-27T22:54:51",
+  "languages": {
+    "Go": 11907475,
+    "Shell": 1298523,
+    "C": 228352,
+    "Makefile": 14635,
+    "Python": 13944,
+    "PowerShell": 4841,
+    "Dockerfile": 3101,
+    "Nix": 981,
+    "Emacs Lisp": 256
+  },
+  "size": 13472108
+}

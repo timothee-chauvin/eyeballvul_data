@@ -1,0 +1,11 @@
+{
+  "commit": "e35b9ca3f9fcbf1a972c831c5e79046ce56959d1",
+  "repo_url": "https://github.com/awslabs/aws-c-mqtt",
+  "date": "2026-07-30T20:01:05",
+  "languages": {
+    "C": 3315702,
+    "Python": 104984,
+    "CMake": 45758
+  },
+  "size": 3466444
+}

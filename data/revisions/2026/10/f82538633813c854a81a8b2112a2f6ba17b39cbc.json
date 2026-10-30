@@ -1,0 +1,13 @@
+{
+  "commit": "f82538633813c854a81a8b2112a2f6ba17b39cbc",
+  "repo_url": "https://github.com/jeremyckahn/chitchatter",
+  "date": "2026-10-27T13:16:23",
+  "languages": {
+    "TypeScript": 615600,
+    "JavaScript": 15972,
+    "HTML": 4753,
+    "Shell": 252,
+    "CSS": 133
+  },
+  "size": 636710
+}

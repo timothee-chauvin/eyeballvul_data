@@ -1,0 +1,12 @@
+{
+  "commit": "486655734e820366cd9aa09698889dc8d0edd141",
+  "repo_url": "https://github.com/mmitch/gbsplay",
+  "date": "2026-10-18T14:04:07",
+  "languages": {
+    "C": 286333,
+    "Shell": 19770,
+    "Makefile": 19306,
+    "Perl": 3946
+  },
+  "size": 329355
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "675247a1b05790eb25c20994e8da05771291f484",
+  "repo_url": "https://github.com/boneio-eu/app_black",
+  "date": "2026-10-12T07:01:43",
+  "languages": {
+    "Python": 5711338,
+    "TypeScript": 2923735,
+    "JavaScript": 463376,
+    "Shell": 78653,
+    "CSS": 30403,
+    "HTML": 16668,
+    "Standard ML": 3648
+  },
+  "size": 9227821
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "69edf8952a04b9872b6510fbdacd7dff8b03970b",
+  "repo_url": "https://github.com/highcharts/highcharts",
+  "date": "2026-08-27T07:12:00",
+  "languages": {
+    "TypeScript": 13296318,
+    "HTML": 1621831,
+    "JavaScript": 1169904,
+    "CSS": 247804,
+    "Handlebars": 30855,
+    "VBScript": 247,
+    "Shell": 165
+  },
+  "size": 16367124
+}

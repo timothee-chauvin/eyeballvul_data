@@ -1,0 +1,18 @@
+{
+  "commit": "5b5e2cf0adc45a1abe33d0f4ca149590d149b82d",
+  "repo_url": "https://github.com/thinkgem/jeesite5",
+  "date": "2026-10-07T13:58:37",
+  "languages": {
+    "JavaScript": 5890328,
+    "Java": 1796678,
+    "HTML": 1357682,
+    "CSS": 841840,
+    "Batchfile": 44224,
+    "Shell": 44160,
+    "SCSS": 35236,
+    "Less": 31677,
+    "TSQL": 7951,
+    "Dockerfile": 2956
+  },
+  "size": 10052732
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "3818d053270f3dddf570134693886d18a9461045",
+  "repo_url": "https://github.com/elastic/kibana",
+  "date": "2019-09-12T20:28:55",
+  "languages": {
+    "TypeScript": 112312,
+    "JavaScript": 1352,
+    "Shell": 1089,
+    "Dockerfile": 240
+  },
+  "size": 114993
+}

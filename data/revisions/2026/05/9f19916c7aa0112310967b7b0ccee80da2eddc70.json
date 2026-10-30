@@ -1,0 +1,13 @@
+{
+  "commit": "9f19916c7aa0112310967b7b0ccee80da2eddc70",
+  "repo_url": "https://github.com/alexandre-daubois/ember",
+  "date": "2026-05-25T14:48:32",
+  "languages": {
+    "Go": 1152307,
+    "Shell": 5297,
+    "Makefile": 4300,
+    "Dockerfile": 393,
+    "PHP": 167
+  },
+  "size": 1162464
+}

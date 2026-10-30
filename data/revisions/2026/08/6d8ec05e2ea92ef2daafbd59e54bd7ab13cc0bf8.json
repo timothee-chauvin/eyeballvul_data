@@ -1,0 +1,13 @@
+{
+  "commit": "6d8ec05e2ea92ef2daafbd59e54bd7ab13cc0bf8",
+  "repo_url": "https://github.com/netty/netty-tcnative",
+  "date": "2026-08-29T05:47:37",
+  "languages": {
+    "C": 361028,
+    "Java": 168760,
+    "M4": 52882,
+    "Shell": 23761,
+    "Ruby": 125
+  },
+  "size": 606556
+}

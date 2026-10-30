@@ -1,0 +1,11 @@
+{
+  "commit": "6f63f819719105979f3916032e139f779d835ad5",
+  "repo_url": "https://github.com/akka/akka-management",
+  "date": "2024-10-24T07:55:05",
+  "languages": {
+    "Scala": 593464,
+    "Shell": 22643,
+    "Java": 18693
+  },
+  "size": 634800
+}

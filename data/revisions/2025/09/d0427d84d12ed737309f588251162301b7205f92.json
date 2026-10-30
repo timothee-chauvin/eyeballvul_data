@@ -1,0 +1,14 @@
+{
+  "commit": "d0427d84d12ed737309f588251162301b7205f92",
+  "repo_url": "https://github.com/jeromedevome/grr",
+  "date": "2025-09-23T18:39:01",
+  "languages": {
+    "PHP": 2048440,
+    "Twig": 683835,
+    "CSS": 198813,
+    "HTML": 52915,
+    "JavaScript": 21929,
+    "Hack": 1650
+  },
+  "size": 3007582
+}

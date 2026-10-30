@@ -1,0 +1,15 @@
+{
+  "commit": "dc2a57e91697cf5b540f900e51d74505dff612d1",
+  "repo_url": "https://github.com/docat-org/docat",
+  "date": "2026-03-11T14:45:29",
+  "languages": {
+    "TypeScript": 90895,
+    "Python": 79475,
+    "CSS": 33894,
+    "Dockerfile": 1337,
+    "JavaScript": 1033,
+    "HTML": 518,
+    "Makefile": 168
+  },
+  "size": 207320
+}

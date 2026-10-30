@@ -1,0 +1,11 @@
+{
+  "commit": "e1a3634476faf35d04aeadaed21a359a46a88508",
+  "repo_url": "https://github.com/giskard-ai/giskard-agents",
+  "date": "2026-01-20T01:49:18",
+  "languages": {
+    "Python": 129006,
+    "Makefile": 2252,
+    "Jinja": 411
+  },
+  "size": 131669
+}

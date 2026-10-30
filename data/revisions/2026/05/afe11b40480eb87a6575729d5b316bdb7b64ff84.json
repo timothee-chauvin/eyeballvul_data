@@ -1,0 +1,15 @@
+{
+  "commit": "afe11b40480eb87a6575729d5b316bdb7b64ff84",
+  "repo_url": "https://github.com/padok-team/burrito",
+  "date": "2026-05-22T15:24:01",
+  "languages": {
+    "Go": 696627,
+    "TypeScript": 217509,
+    "Makefile": 13946,
+    "Dockerfile": 4037,
+    "CSS": 2531,
+    "JavaScript": 617,
+    "HTML": 547
+  },
+  "size": 935814
+}

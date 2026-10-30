@@ -1,0 +1,17 @@
+{
+  "commit": "67c8a98a9ea95d5bc864cd1ac7b5fa503e9e210e",
+  "repo_url": "https://github.com/drhelius/gearboy",
+  "date": "2026-05-31T20:16:28",
+  "languages": {
+    "C++": 7226163,
+    "C": 2636938,
+    "GLSL": 96863,
+    "Makefile": 17228,
+    "Shell": 14806,
+    "Objective-C++": 3393,
+    "Dockerfile": 1599,
+    "Roff": 398,
+    "Perl": 38
+  },
+  "size": 9997426
+}

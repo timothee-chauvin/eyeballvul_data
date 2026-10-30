@@ -1,0 +1,18 @@
+{
+  "commit": "d96e29d4d2dcd407ca6e0ece973bb66c8a115855",
+  "repo_url": "https://github.com/modsetter/surfsense",
+  "date": "2026-08-07T15:49:05",
+  "languages": {
+    "Python": 11428571,
+    "TypeScript": 4758382,
+    "MDX": 276432,
+    "Shell": 51644,
+    "PowerShell": 43212,
+    "JavaScript": 25019,
+    "CSS": 15535,
+    "Dockerfile": 13546,
+    "HTML": 10398,
+    "Mako": 689
+  },
+  "size": 16623428
+}

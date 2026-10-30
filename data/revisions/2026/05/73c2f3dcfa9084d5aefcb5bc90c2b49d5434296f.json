@@ -1,0 +1,17 @@
+{
+  "commit": "73c2f3dcfa9084d5aefcb5bc90c2b49d5434296f",
+  "repo_url": "https://github.com/yosemitecrew/yosemite-crew",
+  "date": "2026-05-09T14:58:17",
+  "languages": {
+    "TypeScript": 16195953,
+    "HTML": 1770306,
+    "CSS": 224668,
+    "JavaScript": 40410,
+    "Swift": 3309,
+    "Kotlin": 3215,
+    "Ruby": 2601,
+    "Dockerfile": 479,
+    "Shell": 87
+  },
+  "size": 18241028
+}

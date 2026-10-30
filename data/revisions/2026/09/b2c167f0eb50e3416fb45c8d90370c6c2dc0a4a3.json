@@ -1,0 +1,16 @@
+{
+  "commit": "b2c167f0eb50e3416fb45c8d90370c6c2dc0a4a3",
+  "repo_url": "https://github.com/the-40-thieves/obsidian-tc",
+  "date": "2026-09-21T04:32:16",
+  "languages": {
+    "TypeScript": 9651458,
+    "JavaScript": 667298,
+    "Python": 85945,
+    "Rust": 31583,
+    "Shell": 17382,
+    "Just": 7732,
+    "Dockerfile": 2455,
+    "CSS": 768
+  },
+  "size": 10464621
+}

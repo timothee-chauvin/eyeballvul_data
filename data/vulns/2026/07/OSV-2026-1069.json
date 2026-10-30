@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-1069",
+  "published": "2026-07-28T07:16:02.263026",
+  "modified": "2026-10-23T12:15:03.197018",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=539180630\n\n```\nCrash type: Segv on unknown address\nCrash state:\nglslang::TPpContext::tokenPaste\nglslang::TPpContext::tokenize\nglslang::TShader::preprocess\n```\n",
+  "summary": "Segv on unknown address in glslang::TPpContext::tokenPaste",
+  "repo_url": "https://github.com/google/shaderc",
+  "cwes": [],
+  "commits": [
+    "b64fd42c4a2a9d501c47aca5d3571f7673a5e9cc"
+  ]
+}

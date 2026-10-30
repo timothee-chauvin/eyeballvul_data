@@ -1,0 +1,13 @@
+{
+  "commit": "0089410de325ffe34e3604cb782d0d6c745c376e",
+  "repo_url": "https://github.com/jordanburke/functype",
+  "date": "2026-06-16T16:45:52",
+  "languages": {
+    "TypeScript": 2011885,
+    "JavaScript": 48395,
+    "Astro": 43083,
+    "Shell": 7150,
+    "CSS": 23
+  },
+  "size": 2110536
+}

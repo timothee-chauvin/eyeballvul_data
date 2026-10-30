@@ -1,0 +1,14 @@
+{
+  "commit": "0a16dea493ac62083c6c2d875de2398391f0f4a3",
+  "repo_url": "https://github.com/haotian-liu/llava",
+  "date": "2024-01-31T06:04:23",
+  "languages": {
+    "Python": 308385,
+    "Shell": 30471,
+    "JavaScript": 9991,
+    "HTML": 7669,
+    "CSS": 1822,
+    "Dockerfile": 1566
+  },
+  "size": 359904
+}

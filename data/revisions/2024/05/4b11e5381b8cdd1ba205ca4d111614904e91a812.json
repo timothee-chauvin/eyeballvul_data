@@ -1,0 +1,13 @@
+{
+  "commit": "4b11e5381b8cdd1ba205ca4d111614904e91a812",
+  "repo_url": "https://github.com/nasirkhan/laravel-starter",
+  "date": "2024-05-16T07:46:49",
+  "languages": {
+    "PHP": 467445,
+    "Blade": 418792,
+    "JavaScript": 10390,
+    "SCSS": 271,
+    "CSS": 232
+  },
+  "size": 897130
+}

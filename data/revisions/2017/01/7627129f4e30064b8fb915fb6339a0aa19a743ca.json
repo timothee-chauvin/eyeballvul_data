@@ -1,0 +1,12 @@
+{
+  "commit": "7627129f4e30064b8fb915fb6339a0aa19a743ca",
+  "repo_url": "https://github.com/kisli/vmime",
+  "date": "2017-01-03T20:00:08",
+  "languages": {
+    "C++": 2635660,
+    "CMake": 66762,
+    "C": 14278,
+    "Shell": 505
+  },
+  "size": 2717205
+}

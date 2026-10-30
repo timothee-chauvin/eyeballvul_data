@@ -1,0 +1,20 @@
+{
+  "commit": "01c3ddc97361a7b6000343422342aa182c39c37e",
+  "repo_url": "https://github.com/rotki/rotki",
+  "date": "2026-10-02T10:33:59",
+  "languages": {
+    "Python": 20235131,
+    "TypeScript": 10529963,
+    "Vue": 3006312,
+    "Rust": 871814,
+    "JavaScript": 83082,
+    "PowerShell": 23926,
+    "HTML": 23677,
+    "Dockerfile": 9524,
+    "Shell": 6526,
+    "CSS": 1746,
+    "Makefile": 1448,
+    "Perl": 988
+  },
+  "size": 34794137
+}

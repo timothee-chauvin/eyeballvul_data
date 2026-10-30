@@ -1,0 +1,17 @@
+{
+  "commit": "a955aa5d3188d4b0a44ad7eb4e5c4bba6e6238d9",
+  "repo_url": "https://github.com/openhands/software-agent-sdk",
+  "date": "2026-10-03T07:37:16",
+  "languages": {
+    "Python": 13787766,
+    "TypeScript": 1477592,
+    "JavaScript": 105216,
+    "HTML": 40449,
+    "CSS": 32556,
+    "Dockerfile": 29397,
+    "Shell": 14989,
+    "Makefile": 4523,
+    "Jinja": 2715
+  },
+  "size": 15495203
+}

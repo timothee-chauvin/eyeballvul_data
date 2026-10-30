@@ -1,0 +1,17 @@
+{
+  "commit": "1bf21404bd618d61bc336d0618f82de4872d6d74",
+  "repo_url": "https://github.com/artalkjs/artalk",
+  "date": "2026-07-24T06:24:00",
+  "languages": {
+    "Go": 607407,
+    "TypeScript": 528432,
+    "Vue": 102841,
+    "SCSS": 59888,
+    "HTML": 24779,
+    "JavaScript": 12524,
+    "Shell": 9634,
+    "Makefile": 2171,
+    "Dockerfile": 1644
+  },
+  "size": 1349320
+}

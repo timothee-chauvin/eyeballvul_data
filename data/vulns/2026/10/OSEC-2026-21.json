@@ -1,0 +1,21 @@
+{
+  "id": "OSEC-2026-21",
+  "published": "2026-10-23T21:30:00",
+  "modified": "2026-10-26T15:30:03.290417",
+  "details": "ANT-2026-KKC4QS4S Str partial-match stale capture registers underflow \n\n`Str.string_partial_match` records the beginning and end of a captured group.\nThere was an implicit assumption that `beginning <= end`.\nHowever if it reached the end of the matched string but not the end of the regexp, it was possible for the beginning of the group to be matched at iteration N of the star operator, and the end of the group to be matched at iteration N-1, resulting in `beginning > end`.\n`Str.matched_group` is safe, it fails with an `Invalid_argument` on groups with `beginning > end`, but `Str.replace_matched` can crash, trying to memcpy `end - beginning` bytes.\n\nThe example in the ANT is `ab` partially matched against `\\(\\(a\\)b\\)+`. Group 2 has `beginning = 2` and `end = 1`.\n\n## Fix\n\nThe fix is to record groups with `beginning > end` as not matched.\n\n## Am I affected?\n\nAll of the following conditions are necessary:\n  * you need to use `Str.string_partial_match`\n    * if you don't use this function you are not affected\n  * you need to use one of `Str.{replace_matched,global_replace,replace_first}` on the same regexp after a call to `Str.string_partial_match`.\n    * If you use `Str.group_beginning` and `Str.group_end` and do your own string manipulation that is safe, because the String module would raise on out of bounds accesses. Similarly `Str.matched_group` is safe (uses `String` functions in its OCaml implementation)\n  * the match replacement must reference a group > 0\n    * if the replacement string argument is fixed, and doesn't reference any groups, or references only group 0, then you are not affected\n  * the referenced replacement group must be under a repetition operator in the original regexp\n    * if there is no repetition operator in the regexp, or there are no groups under the repetition operator then you are not affected\n\nFor example `{|\\(\\(a\\)b\\)+|}` as the regular expression in a call to `Str.string_partial_match`, followed by a reference to `\\2` in the argument of `Str.replace_matched` could be affected.\n\n## Timeline\n\n- 2026-08-24: vulnerability was found\n- 2026-08-27: forwarded report to security@ocaml.org\n- 2026-09-29: fix merged to trunk",
+  "summary": "Str partial-match stale capture registers underflow",
+  "severity": [
+    {
+      "type": "CVSS_V4",
+      "score": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:H/SC:N/SI:N/SA:N/E:P/AU:Y/R:U"
+    }
+  ],
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "cwes": [],
+  "commits": [
+    "0d68080b95016f747b7cb63dd36ccdd42d40016e",
+    "16aab59a09dc5ecf61e47fc8091d1994cbba33bc",
+    "7de17eaeccfe555eb2629af7e1048b0e5d492f01",
+    "bee55c46e931fb987f9ecae60c891939e8208506"
+  ]
+}

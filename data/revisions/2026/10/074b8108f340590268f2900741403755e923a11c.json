@@ -1,0 +1,13 @@
+{
+  "commit": "074b8108f340590268f2900741403755e923a11c",
+  "repo_url": "https://github.com/modelcontextprotocol/inspector",
+  "date": "2026-10-14T04:24:06",
+  "languages": {
+    "TypeScript": 13195078,
+    "JavaScript": 1646379,
+    "CSS": 28408,
+    "HTML": 19125,
+    "Dockerfile": 3893
+  },
+  "size": 14892883
+}

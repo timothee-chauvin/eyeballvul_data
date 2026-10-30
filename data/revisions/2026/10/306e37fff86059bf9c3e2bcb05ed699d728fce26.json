@@ -1,0 +1,15 @@
+{
+  "commit": "306e37fff86059bf9c3e2bcb05ed699d728fce26",
+  "repo_url": "https://github.com/datadog/dd-trace-js",
+  "date": "2026-10-06T18:32:39",
+  "languages": {
+    "JavaScript": 21765486,
+    "TypeScript": 192723,
+    "Shell": 27488,
+    "Gherkin": 8576,
+    "HTML": 7697,
+    "Dockerfile": 4057,
+    "EJS": 118
+  },
+  "size": 22006145
+}

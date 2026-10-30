@@ -1,0 +1,17 @@
+{
+  "commit": "bb69b283bfa02b757ef20472b622dc0f12f2c3d7",
+  "repo_url": "https://github.com/event-catalog/eventcatalog",
+  "date": "2026-10-07T09:16:37",
+  "languages": {
+    "TypeScript": 7460495,
+    "MDX": 628020,
+    "Astro": 609566,
+    "JavaScript": 184446,
+    "CSS": 99406,
+    "XSLT": 77555,
+    "Python": 18125,
+    "Dockerfile": 3688,
+    "Shell": 462
+  },
+  "size": 9081763
+}

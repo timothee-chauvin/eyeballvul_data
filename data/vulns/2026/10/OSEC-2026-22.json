@@ -1,0 +1,21 @@
+{
+  "id": "OSEC-2026-22",
+  "published": "2026-10-23T21:30:00",
+  "modified": "2026-10-23T22:15:04.873103",
+  "details": "ANT-2026-6W9NPC2Q mmap dimension product integer overflow\n\n\n## Fix\n\nUse `caml_umul_overflow` instead of `*` when multiplying bigarray dimensions, which detects integer overflows and raise `Failure`.\nNegative positions are also rejected by raising `Invalid_argument`.\n\n## Am I affected?\n\nIf either the dimensions or the file size in a call to `Unix.map_file` from your code is user controllable then you are potentially affected.\n\n## Score notes\n\nThe vulnerability is in a library, and the CVSS score is calculated [under worst case assumptions](https://www.first.org/cvss/v4.0/user-guide#Assessing-Vulnerabilities-in-Software-Libraries-and-Similar). For an actual application the score will depend on how much an attacker can control the input to this function (if at all).\n\n\n## Timeline\n\n- 2026-08-24: vulnerability was found\n- 2026-08-27: forwarded report to security@ocaml.org\n- 2026-09-29: fix merged to trunk",
+  "summary": "Integer overflow in Unix.map_file",
+  "severity": [
+    {
+      "type": "CVSS_V4",
+      "score": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N/E:P"
+    }
+  ],
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "cwes": [],
+  "commits": [
+    "0d68080b95016f747b7cb63dd36ccdd42d40016e",
+    "16aab59a09dc5ecf61e47fc8091d1994cbba33bc",
+    "7de17eaeccfe555eb2629af7e1048b0e5d492f01",
+    "bee55c46e931fb987f9ecae60c891939e8208506"
+  ]
+}

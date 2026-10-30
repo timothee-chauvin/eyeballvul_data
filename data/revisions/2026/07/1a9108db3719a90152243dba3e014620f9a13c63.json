@@ -1,0 +1,16 @@
+{
+  "commit": "1a9108db3719a90152243dba3e014620f9a13c63",
+  "repo_url": "https://github.com/aleksey-hoffman/sigma-file-manager",
+  "date": "2026-07-21T14:19:54",
+  "languages": {
+    "TypeScript": 2305009,
+    "Vue": 1573732,
+    "Rust": 1070139,
+    "HTML": 53808,
+    "JavaScript": 52206,
+    "CSS": 21107,
+    "PowerShell": 4122,
+    "Shell": 2483
+  },
+  "size": 5082606
+}

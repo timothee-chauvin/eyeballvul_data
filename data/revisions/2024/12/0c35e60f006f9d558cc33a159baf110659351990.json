@@ -1,0 +1,16 @@
+{
+  "commit": "0c35e60f006f9d558cc33a159baf110659351990",
+  "repo_url": "https://github.com/pgyer/codefever",
+  "date": "2024-12-10T04:08:21",
+  "languages": {
+    "PHP": 2074630,
+    "JavaScript": 1070497,
+    "Shell": 18830,
+    "CSS": 14482,
+    "HTML": 12623,
+    "Go": 9989,
+    "Dockerfile": 2645,
+    "Stylus": 955
+  },
+  "size": 3204651
+}

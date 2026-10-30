@@ -1,0 +1,11 @@
+{
+  "commit": "273db4f348d4676f554c5319a902e7b836153192",
+  "repo_url": "https://github.com/openresty/lua-resty-dns",
+  "date": "2023-08-06T23:59:00",
+  "languages": {
+    "Lua": 25575,
+    "Perl": 7573,
+    "Makefile": 432
+  },
+  "size": 33580
+}

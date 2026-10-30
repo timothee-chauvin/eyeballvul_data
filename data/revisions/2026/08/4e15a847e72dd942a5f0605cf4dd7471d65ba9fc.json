@@ -1,0 +1,10 @@
+{
+  "commit": "4e15a847e72dd942a5f0605cf4dd7471d65ba9fc",
+  "repo_url": "https://github.com/zip-rs/zip2",
+  "date": "2026-08-10T23:27:00",
+  "languages": {
+    "Rust": 755680,
+    "Dockerfile": 765
+  },
+  "size": 756445
+}

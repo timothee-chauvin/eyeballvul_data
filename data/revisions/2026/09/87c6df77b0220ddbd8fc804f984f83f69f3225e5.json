@@ -1,0 +1,19 @@
+{
+  "commit": "87c6df77b0220ddbd8fc804f984f83f69f3225e5",
+  "repo_url": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
+  "date": "2026-09-29T02:03:47",
+  "languages": {
+    "JavaScript": 2778858,
+    "Java": 1340307,
+    "Vue": 1321373,
+    "Python": 1152860,
+    "TypeScript": 284129,
+    "HTML": 103712,
+    "CSS": 29279,
+    "Shell": 15385,
+    "SCSS": 5887,
+    "Makefile": 629,
+    "Lua": 373
+  },
+  "size": 7032792
+}

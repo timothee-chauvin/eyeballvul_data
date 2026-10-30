@@ -1,0 +1,15 @@
+{
+  "commit": "baa2fd230aa80a11b1f99c8a7e2f893843ac491f",
+  "repo_url": "https://github.com/osmocom/libosmo-sigtran",
+  "date": "2025-12-04T18:00:06",
+  "languages": {
+    "C": 1043026,
+    "HTML": 362881,
+    "Makefile": 10768,
+    "Shell": 9223,
+    "M4": 7748,
+    "Python": 7108,
+    "Smarty": 636
+  },
+  "size": 1441390
+}

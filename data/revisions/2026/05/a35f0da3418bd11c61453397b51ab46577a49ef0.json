@@ -1,0 +1,16 @@
+{
+  "commit": "a35f0da3418bd11c61453397b51ab46577a49ef0",
+  "repo_url": "https://github.com/libyal/libmsiecf",
+  "date": "2026-05-25T19:09:31",
+  "languages": {
+    "C": 1120102,
+    "M4": 133978,
+    "Shell": 75240,
+    "PowerShell": 29847,
+    "Python": 24773,
+    "Makefile": 23973,
+    "Roff": 15184,
+    "C++": 4870
+  },
+  "size": 1427967
+}

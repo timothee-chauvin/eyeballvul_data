@@ -1,0 +1,10 @@
+{
+  "commit": "fb14119ac9262e6a240679477300567487296a47",
+  "repo_url": "https://github.com/nxp-mcuxpresso/mcuxsdk-middleware-usb",
+  "date": "2022-07-29T03:01:14",
+  "languages": {
+    "C": 3074004,
+    "CMake": 62177
+  },
+  "size": 3136181
+}

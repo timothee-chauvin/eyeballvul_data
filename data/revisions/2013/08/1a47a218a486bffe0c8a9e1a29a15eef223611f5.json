@@ -1,0 +1,12 @@
+{
+  "commit": "1a47a218a486bffe0c8a9e1a29a15eef223611f5",
+  "repo_url": "https://github.com/mbed-ce/mbed-os",
+  "date": "2013-08-12T09:31:05",
+  "languages": {
+    "C": 10304812,
+    "C++": 1549723,
+    "Assembly": 391631,
+    "Python": 299737
+  },
+  "size": 12545903
+}

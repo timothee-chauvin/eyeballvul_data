@@ -1,0 +1,13 @@
+{
+  "commit": "58c3cecc2f414db0fec1713c1beadb93697b5e6c",
+  "repo_url": "https://github.com/osmocom/osmo-msc",
+  "date": "2025-12-03T18:36:23",
+  "languages": {
+    "C": 1900263,
+    "Python": 25126,
+    "Makefile": 20141,
+    "M4": 9057,
+    "Shell": 7791
+  },
+  "size": 1962378
+}

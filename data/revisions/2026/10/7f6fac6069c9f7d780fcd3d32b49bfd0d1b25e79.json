@@ -1,0 +1,15 @@
+{
+  "commit": "7f6fac6069c9f7d780fcd3d32b49bfd0d1b25e79",
+  "repo_url": "https://github.com/cert-manager/aws-privateca-issuer",
+  "date": "2026-10-06T17:04:28",
+  "languages": {
+    "Go": 175793,
+    "Shell": 17231,
+    "Makefile": 13727,
+    "Gherkin": 11828,
+    "Smarty": 1912,
+    "Dockerfile": 1778,
+    "JavaScript": 578
+  },
+  "size": 222847
+}

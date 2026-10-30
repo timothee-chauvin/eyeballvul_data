@@ -1,0 +1,15 @@
+{
+  "commit": "fa5fbd10aeddfe97cd7aa87faee39628e5e9c18a",
+  "repo_url": "https://github.com/kakao/khaiii",
+  "date": "2019-06-17T09:17:45",
+  "languages": {
+    "Python": 262092,
+    "C++": 118186,
+    "CMake": 39292,
+    "Shell": 4741,
+    "C": 3793,
+    "Makefile": 1913,
+    "Dockerfile": 449
+  },
+  "size": 430466
+}

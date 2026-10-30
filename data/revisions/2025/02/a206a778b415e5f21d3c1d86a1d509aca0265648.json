@@ -1,0 +1,17 @@
+{
+  "commit": "a206a778b415e5f21d3c1d86a1d509aca0265648",
+  "repo_url": "https://github.com/fltk/fltk",
+  "date": "2025-02-23T11:34:18",
+  "languages": {
+    "C++": 7703830,
+    "C": 6042529,
+    "Objective-C++": 280508,
+    "Roff": 273147,
+    "CMake": 194915,
+    "Shell": 100651,
+    "Makefile": 92506,
+    "Objective-C": 18230,
+    "HTML": 14932
+  },
+  "size": 14721248
+}

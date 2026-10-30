@@ -1,0 +1,15 @@
+{
+  "commit": "1ccf68c39d0e6702cb794363bd52df1c01a7711d",
+  "repo_url": "https://github.com/anyant/rssant",
+  "date": "2024-08-27T08:14:40",
+  "languages": {
+    "Python": 761063,
+    "CSS": 16608,
+    "Shell": 9088,
+    "Mako": 8581,
+    "HTML": 7223,
+    "Dockerfile": 4282,
+    "JavaScript": 4105
+  },
+  "size": 810950
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "073b10acc4695212da21aa1c3b3e7eda76e8a4ec",
+  "repo_url": "https://github.com/kameleo-io/kameleo",
+  "date": "2026-07-15T09:58:43",
+  "languages": {
+    "C#": 938883,
+    "Python": 720993,
+    "TypeScript": 330174,
+    "Mustache": 112712,
+    "JavaScript": 48296
+  },
+  "size": 2151058
+}

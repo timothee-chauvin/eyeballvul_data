@@ -1,0 +1,11 @@
+{
+  "commit": "215e2243735c2e2465fcf8629c29af5ba22d4d33",
+  "repo_url": "https://github.com/nasa/cfe",
+  "date": "2026-01-22T22:31:43",
+  "languages": {
+    "C": 5146784,
+    "CMake": 227887,
+    "Makefile": 18811
+  },
+  "size": 5393482
+}

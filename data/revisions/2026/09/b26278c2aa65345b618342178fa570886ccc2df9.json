@@ -1,0 +1,15 @@
+{
+  "commit": "b26278c2aa65345b618342178fa570886ccc2df9",
+  "repo_url": "https://github.com/ffxiv-teamcraft/ffxiv-teamcraft",
+  "date": "2026-09-08T15:53:26",
+  "languages": {
+    "TypeScript": 4639388,
+    "HTML": 1348590,
+    "Less": 141358,
+    "JavaScript": 58758,
+    "NSIS": 771,
+    "Dockerfile": 713,
+    "Shell": 656
+  },
+  "size": 6190234
+}

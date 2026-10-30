@@ -1,0 +1,22 @@
+{
+  "commit": "04985091706cb77d5e2f73bbf8b906966e9d97c7",
+  "repo_url": "https://github.com/blackbelttechnology/pi-agent-dashboard",
+  "date": "2026-08-26T12:12:42",
+  "languages": {
+    "TypeScript": 22172426,
+    "HTML": 2616964,
+    "JavaScript": 1312200,
+    "Python": 663176,
+    "Shell": 402745,
+    "CSS": 228900,
+    "Astro": 104610,
+    "PowerShell": 76987,
+    "Dockerfile": 15038,
+    "HCL": 14680,
+    "Makefile": 8084,
+    "NSIS": 3791,
+    "Batchfile": 1749,
+    "EJS": 555
+  },
+  "size": 27621905
+}

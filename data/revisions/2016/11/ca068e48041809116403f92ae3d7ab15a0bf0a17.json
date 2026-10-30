@@ -1,0 +1,11 @@
+{
+  "commit": "ca068e48041809116403f92ae3d7ab15a0bf0a17",
+  "repo_url": "https://github.com/apollographql/apollo-client",
+  "date": "2016-11-11T04:18:44",
+  "languages": {
+    "TypeScript": 535945,
+    "JavaScript": 1973,
+    "Shell": 1276
+  },
+  "size": 539194
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "12e7075d679d59e36599764987461443cc7abe1a",
+  "repo_url": "https://github.com/nextcloud/flow",
+  "date": "2025-12-08T08:24:31",
+  "languages": {
+    "Python": 30944,
+    "JavaScript": 9785,
+    "Dockerfile": 9022,
+    "Shell": 8609,
+    "Makefile": 4068,
+    "Vue": 2462
+  },
+  "size": 64890
+}

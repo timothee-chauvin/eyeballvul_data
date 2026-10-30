@@ -1,0 +1,17 @@
+{
+  "commit": "a9ea438f2d3ee85167bc7ec90ae3c010e47ded92",
+  "repo_url": "https://github.com/osmocom/libosmocore",
+  "date": "2026-07-22T09:30:56",
+  "languages": {
+    "C": 5727763,
+    "Python": 81970,
+    "M4": 67996,
+    "Makefile": 66994,
+    "Shell": 26972,
+    "Smarty": 6004,
+    "C++": 4048,
+    "HTML": 2044,
+    "DTrace": 108
+  },
+  "size": 5983899
+}

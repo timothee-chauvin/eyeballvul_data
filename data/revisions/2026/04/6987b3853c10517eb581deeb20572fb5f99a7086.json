@@ -1,0 +1,26 @@
+{
+  "commit": "6987b3853c10517eb581deeb20572fb5f99a7086",
+  "repo_url": "https://github.com/gnome/gimp",
+  "date": "2026-04-17T08:37:38",
+  "languages": {
+    "C": 42944347,
+    "Scheme": 727837,
+    "Python": 580856,
+    "C++": 311894,
+    "Meson": 306520,
+    "Perl": 180295,
+    "Shell": 108662,
+    "Inno Setup": 99893,
+    "PowerShell": 52451,
+    "CSS": 36197,
+    "Yacc": 16385,
+    "XSLT": 10044,
+    "Lua": 9813,
+    "JavaScript": 8153,
+    "Lex": 6561,
+    "Vala": 6067,
+    "Vim Script": 1017,
+    "Emacs Lisp": 151
+  },
+  "size": 45407143
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "962991d9d4b32006a67be46afb14bf790e297397",
+  "repo_url": "https://github.com/eventschedule/eventschedule",
+  "date": "2025-02-19T13:53:10",
+  "languages": {
+    "PHP": 626985,
+    "Blade": 419513,
+    "CSS": 13691,
+    "JavaScript": 2184,
+    "Shell": 652
+  },
+  "size": 1063025
+}

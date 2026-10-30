@@ -1,0 +1,17 @@
+{
+  "commit": "2f945936b5be75d1a8bbb8a7dbb2f6585ac76e8e",
+  "repo_url": "https://github.com/smg-project/smg",
+  "date": "2026-08-27T22:39:51",
+  "languages": {
+    "Rust": 12817368,
+    "Python": 1893150,
+    "Shell": 220333,
+    "Go": 128877,
+    "Makefile": 21189,
+    "Smarty": 12555,
+    "Dockerfile": 11334,
+    "C++": 3434,
+    "PLSQL": 1964
+  },
+  "size": 15110204
+}

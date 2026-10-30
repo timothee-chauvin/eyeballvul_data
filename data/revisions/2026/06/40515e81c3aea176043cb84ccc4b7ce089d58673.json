@@ -1,0 +1,14 @@
+{
+  "commit": "40515e81c3aea176043cb84ccc4b7ce089d58673",
+  "repo_url": "https://github.com/maykinmedia/open-object",
+  "date": "2026-06-17T07:17:03",
+  "languages": {
+    "Python": 684423,
+    "HTML": 25790,
+    "JavaScript": 21412,
+    "SCSS": 19251,
+    "Shell": 11277,
+    "Dockerfile": 2843
+  },
+  "size": 764996
+}

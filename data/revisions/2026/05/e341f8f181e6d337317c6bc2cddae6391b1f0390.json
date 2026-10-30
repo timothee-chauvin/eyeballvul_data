@@ -1,0 +1,14 @@
+{
+  "commit": "e341f8f181e6d337317c6bc2cddae6391b1f0390",
+  "repo_url": "https://github.com/internscience/internagent",
+  "date": "2026-05-07T07:13:45",
+  "languages": {
+    "Python": 11540850,
+    "Shell": 330320,
+    "JavaScript": 12613,
+    "Roff": 6648,
+    "Makefile": 1204,
+    "Dockerfile": 253
+  },
+  "size": 11891888
+}

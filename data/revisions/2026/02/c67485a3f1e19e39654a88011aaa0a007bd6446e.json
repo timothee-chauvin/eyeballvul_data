@@ -1,0 +1,16 @@
+{
+  "commit": "c67485a3f1e19e39654a88011aaa0a007bd6446e",
+  "repo_url": "https://github.com/ubiquitouslearning/mllm",
+  "date": "2026-02-16T09:02:37",
+  "languages": {
+    "C++": 5644095,
+    "Python": 343830,
+    "CMake": 105607,
+    "C": 65646,
+    "Go": 32348,
+    "Makefile": 19564,
+    "Cuda": 7205,
+    "Shell": 5266
+  },
+  "size": 6223561
+}

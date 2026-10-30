@@ -1,0 +1,13 @@
+{
+  "commit": "4c48a60cd0f33d67b81c07b0ac1c0bf61ac6a796",
+  "repo_url": "https://github.com/pdfme/pdfme",
+  "date": "2026-10-14T08:16:21",
+  "languages": {
+    "TypeScript": 3860195,
+    "JavaScript": 50484,
+    "Shell": 15431,
+    "CSS": 762,
+    "HTML": 421
+  },
+  "size": 3927293
+}

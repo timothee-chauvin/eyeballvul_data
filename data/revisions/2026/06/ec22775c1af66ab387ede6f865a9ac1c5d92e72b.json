@@ -1,0 +1,17 @@
+{
+  "commit": "ec22775c1af66ab387ede6f865a9ac1c5d92e72b",
+  "repo_url": "https://github.com/mongodb/libmongocrypt",
+  "date": "2026-06-04T11:13:06",
+  "languages": {
+    "C": 4003099,
+    "Python": 327493,
+    "Shell": 134335,
+    "CMake": 72208,
+    "C++": 31030,
+    "Earthly": 20068,
+    "PowerShell": 9286,
+    "Makefile": 1648,
+    "Awk": 524
+  },
+  "size": 4599691
+}

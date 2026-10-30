@@ -1,0 +1,16 @@
+{
+  "commit": "f305ae049ccc2b5d3586b5ec89a64a0fdb527597",
+  "repo_url": "https://github.com/jitsucom/jitsu",
+  "date": "2026-02-26T09:03:30",
+  "languages": {
+    "TypeScript": 2699781,
+    "Go": 2119870,
+    "Shell": 35369,
+    "Dockerfile": 21011,
+    "JavaScript": 16734,
+    "CSS": 16185,
+    "HTML": 8795,
+    "Smarty": 2143
+  },
+  "size": 4919888
+}

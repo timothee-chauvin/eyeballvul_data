@@ -1,0 +1,13 @@
+{
+  "commit": "703f1247b2fabd5dc685ba80bc26ccfa263c79ae",
+  "repo_url": "https://github.com/netsurf-browser/libcss",
+  "date": "2023-12-27T14:20:15",
+  "languages": {
+    "C": 1563291,
+    "CSS": 1183722,
+    "Python": 39143,
+    "Makefile": 7297,
+    "Perl": 2997
+  },
+  "size": 2796450
+}

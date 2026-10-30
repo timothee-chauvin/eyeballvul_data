@@ -1,0 +1,14 @@
+{
+  "commit": "9916c5b21b0f0618f878d4ba4b625ae124d1fae7",
+  "repo_url": "https://github.com/cmb2/cmb2",
+  "date": "2026-10-08T15:38:53",
+  "languages": {
+    "PHP": 821126,
+    "CSS": 154679,
+    "JavaScript": 145397,
+    "Latte": 47632,
+    "Shell": 41372,
+    "SCSS": 27899
+  },
+  "size": 1238105
+}

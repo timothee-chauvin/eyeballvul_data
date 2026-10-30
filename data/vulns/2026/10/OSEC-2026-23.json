@@ -1,0 +1,21 @@
+{
+  "id": "OSEC-2026-23",
+  "published": "2026-10-23T21:30:00",
+  "modified": "2026-10-23T22:25:37.904340",
+  "details": "Several issues have been discovered in the Marshal module:\n\nANT-2026-K7NTK0FT Stale obj_counter across unmarshal calls enables null/freed intern_obj_table indexing\n\nANT-2026-2NJYQWEX Custom block size wraparound in CODE_CUSTOM_LEN allocation \n\nANT-2026-PJC00M7X Unmarshaler accepts forged Closure_tag metadata without validation\n\nThis is a followup for [OSEC-2026-01](https://osv.dev/vulnerability/OSEC-2026-01)\n\nCorrupted or malicious marshaled data that causes undefined behaviour in the runtime system when unmarshaled. input_value should either fail cleanly or produce a well-formed OCaml object, without corrupting the runtime system.\n\nConsequently, this excludes well-formed marshaled data that produces an OCaml object that is not of the type expected by the OCaml code and causes the Ocaml code to crash or misbehave.\n\n\n## Am I affected?\n\nIf you use one of the affected bindings `Marshal.from_channel`, `Marshal.from_bytes`, `Marshal.from_string`, `Stdlib.input_value` (or a wrapper in a library, such as `Lwt_io.read_value`).\n\nPlease note that Marshal is not type safe, and you have to be careful if you use the deserialization on untrusted input (due to type confusion, and remote code execution by design - you can use Marshal for code).\n\nIt is recommended to use Marshal only for communication between trusted processes.\n\n## Timeline\n\n- 2026-08-24: vulnerability was found\n- 2026-08-27: forwarded report to security@ocaml.org\n- 2026-09-29: fix merged to trunk",
+  "summary": "Multiple issues in Marshal",
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N"
+    }
+  ],
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "cwes": [],
+  "commits": [
+    "0d68080b95016f747b7cb63dd36ccdd42d40016e",
+    "16aab59a09dc5ecf61e47fc8091d1994cbba33bc",
+    "7de17eaeccfe555eb2629af7e1048b0e5d492f01",
+    "bee55c46e931fb987f9ecae60c891939e8208506"
+  ]
+}

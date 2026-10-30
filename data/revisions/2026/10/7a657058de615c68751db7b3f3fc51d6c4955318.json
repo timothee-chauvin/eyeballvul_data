@@ -1,0 +1,13 @@
+{
+  "commit": "7a657058de615c68751db7b3f3fc51d6c4955318",
+  "repo_url": "https://github.com/eclipse-iofog/iofog-operator",
+  "date": "2026-10-21T16:11:31",
+  "languages": {
+    "Go": 277832,
+    "Shell": 37990,
+    "Makefile": 13959,
+    "Smarty": 3809,
+    "Dockerfile": 2202
+  },
+  "size": 335792
+}

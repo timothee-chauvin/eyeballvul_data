@@ -1,0 +1,21 @@
+{
+  "id": "OSEC-2026-24",
+  "published": "2026-10-23T21:30:00",
+  "modified": "2026-10-23T22:25:39.341091",
+  "details": "ANT-2026-R7FKP7RG Win32 quote_cmd_filename misses pipe/redirect metacharacters\n\nANT-2026-SRZZ62SD Windows batch-file argument injection via maybe_quote/make_cmdline\n\nANT-2026-JPEWMPAB Win32 argument quoting leaves embedded CR/LF unescaped\n\nAlso includes the fix for [OSEC-2026-05](https://osv.dev/vulnerability/OSEC-2026-05)\n\n`Filename.quote_command` returns a quoted command line, suitable for use as an argument to `Sys.command`, `Unix.system`, and the `Unix.open_process` functions.\nHowever on Windows certain characters weren't properly escaped.\n\n`Unix.create_process` can invoke `.bat` or `.cmd` programs on Windows, and certain characters were accepted that cannot be quoted safely.\n\n## Fix\n\n`Filename.quote_command` has been updated to correctly quote arguments.\n`Unix.create_process*` has been updated to reject arguments that cannot be safely quoted by raising `Failure`:\n>  if the program [prog] is a [.bat] or [.cmd]\n>  script and either [prog] or [args] contain characters that cannot be\n>  securely passed to a script, such as [\" | & , ; < = > ^ % \"].\n>  If you really need to pass these characters to a script, consider\n>  using {!Unix.system} instead.\n\n## Am I affected?\n\nIf you use `Filename.quote_command` on Windows with user supplied arguments.\nIf you use `Unix.create_process*` or `Unix.open_process*` on Windows with `.bat` or `.cmd` programs, and user supplied arguments.\n\n## Timeline\n\n- 2026-08-24: vulnerability was found\n- 2026-08-27: forwarded report to security@ocaml.org\n- 2029-09-05: fix merged to trunk",
+  "summary": "Multiple issues in command quoting on Windows",
+  "severity": [
+    {
+      "type": "CVSS_V4",
+      "score": "CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:P"
+    }
+  ],
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "cwes": [],
+  "commits": [
+    "0d68080b95016f747b7cb63dd36ccdd42d40016e",
+    "16aab59a09dc5ecf61e47fc8091d1994cbba33bc",
+    "7de17eaeccfe555eb2629af7e1048b0e5d492f01",
+    "bee55c46e931fb987f9ecae60c891939e8208506"
+  ]
+}

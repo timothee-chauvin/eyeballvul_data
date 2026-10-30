@@ -1,0 +1,12 @@
+{
+  "commit": "c66cae4b621664b68546587da9fafd80b791e643",
+  "repo_url": "https://github.com/timescale/pgvectorscale",
+  "date": "2025-11-04T16:27:36",
+  "languages": {
+    "Rust": 447621,
+    "Python": 21834,
+    "Shell": 5834,
+    "Makefile": 3553
+  },
+  "size": 478842
+}

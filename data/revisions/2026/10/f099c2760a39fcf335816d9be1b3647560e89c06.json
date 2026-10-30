@@ -1,0 +1,22 @@
+{
+  "commit": "f099c2760a39fcf335816d9be1b3647560e89c06",
+  "repo_url": "https://github.com/karingx/clashmi",
+  "date": "2026-10-27T08:35:26",
+  "languages": {
+    "Dart": 1708914,
+    "Swift": 32044,
+    "C++": 30990,
+    "CMake": 22306,
+    "Shell": 16970,
+    "Kotlin": 9770,
+    "Inno Setup": 9615,
+    "Java": 6592,
+    "Ruby": 3299,
+    "HTML": 1530,
+    "C": 1469,
+    "Batchfile": 1018,
+    "JavaScript": 79,
+    "Objective-C": 38
+  },
+  "size": 1844634
+}

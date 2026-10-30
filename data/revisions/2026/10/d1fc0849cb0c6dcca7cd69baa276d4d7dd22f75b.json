@@ -1,0 +1,20 @@
+{
+  "commit": "d1fc0849cb0c6dcca7cd69baa276d4d7dd22f75b",
+  "repo_url": "https://github.com/ananthakumaran/paisa",
+  "date": "2026-10-18T05:48:42",
+  "languages": {
+    "TypeScript": 322239,
+    "Go": 289716,
+    "Svelte": 281575,
+    "SCSS": 38509,
+    "JavaScript": 13460,
+    "NSIS": 9915,
+    "HTML": 6029,
+    "Handlebars": 5654,
+    "Makefile": 3839,
+    "Nix": 3249,
+    "Ruby": 3065,
+    "Dockerfile": 549
+  },
+  "size": 977799
+}

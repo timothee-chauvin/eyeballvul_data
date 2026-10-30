@@ -1,0 +1,17 @@
+{
+  "commit": "10608395259dec392f2a211eb42dc67c69e1441b",
+  "repo_url": "https://github.com/ai-sdlc-framework/ai-sdlc",
+  "date": "2026-10-23T17:35:41",
+  "languages": {
+    "TypeScript": 22624450,
+    "JavaScript": 3119681,
+    "Python": 550924,
+    "Go": 335006,
+    "Shell": 286151,
+    "Makefile": 1516,
+    "Dockerfile": 1415,
+    "CSS": 1091,
+    "Smarty": 951
+  },
+  "size": 26921185
+}

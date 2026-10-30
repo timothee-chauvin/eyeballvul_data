@@ -1,0 +1,12 @@
+{
+  "commit": "efeda6e550e1bd887d1e69226953874dbcc129ee",
+  "repo_url": "https://github.com/delskayn/rquickjs",
+  "date": "2023-12-08T14:57:01",
+  "languages": {
+    "Rust": 1626336,
+    "Makefile": 840,
+    "C": 342,
+    "JavaScript": 40
+  },
+  "size": 1627558
+}

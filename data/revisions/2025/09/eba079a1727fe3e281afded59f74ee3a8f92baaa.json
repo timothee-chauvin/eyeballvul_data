@@ -1,0 +1,14 @@
+{
+  "commit": "eba079a1727fe3e281afded59f74ee3a8f92baaa",
+  "repo_url": "https://github.com/gnome/yelp",
+  "date": "2025-09-13T19:38:45",
+  "languages": {
+    "JavaScript": 1093212,
+    "C": 746236,
+    "Meson": 14432,
+    "Shell": 3630,
+    "HTML": 2295,
+    "CSS": 268
+  },
+  "size": 1860073
+}

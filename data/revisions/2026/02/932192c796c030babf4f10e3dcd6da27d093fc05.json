@@ -1,0 +1,11 @@
+{
+  "commit": "932192c796c030babf4f10e3dcd6da27d093fc05",
+  "repo_url": "https://github.com/dexmal/dexbotic",
+  "date": "2026-02-09T16:25:26",
+  "languages": {
+    "Python": 1156541,
+    "Ragel": 2822,
+    "Dockerfile": 1962
+  },
+  "size": 1161325
+}

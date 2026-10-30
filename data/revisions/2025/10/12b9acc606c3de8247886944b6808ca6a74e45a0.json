@@ -1,0 +1,14 @@
+{
+  "commit": "12b9acc606c3de8247886944b6808ca6a74e45a0",
+  "repo_url": "https://github.com/maotoumao/musicfreedesktop",
+  "date": "2025-10-24T15:39:42",
+  "languages": {
+    "TypeScript": 826235,
+    "SCSS": 92660,
+    "JavaScript": 19687,
+    "Inno Setup": 2081,
+    "HTML": 879,
+    "Shell": 73
+  },
+  "size": 941615
+}

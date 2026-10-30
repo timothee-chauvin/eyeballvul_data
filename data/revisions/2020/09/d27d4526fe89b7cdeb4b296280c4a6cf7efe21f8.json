@@ -1,0 +1,22 @@
+{
+  "commit": "d27d4526fe89b7cdeb4b296280c4a6cf7efe21f8",
+  "repo_url": "https://github.com/monero-project/monero",
+  "date": "2020-09-16T00:59:36",
+  "languages": {
+    "C++": 10454277,
+    "C": 1550004,
+    "Python": 338204,
+    "CMake": 251019,
+    "Makefile": 86091,
+    "Assembly": 51493,
+    "Shell": 24144,
+    "Dockerfile": 18796,
+    "q": 11168,
+    "Perl": 9033,
+    "Raku": 3110,
+    "Awk": 2899,
+    "Batchfile": 2627,
+    "Ruby": 717
+  },
+  "size": 12803582
+}

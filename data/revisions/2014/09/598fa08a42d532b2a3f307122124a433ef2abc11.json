@@ -1,0 +1,12 @@
+{
+  "commit": "598fa08a42d532b2a3f307122124a433ef2abc11",
+  "repo_url": "https://github.com/cherryframework/cherry-plugin",
+  "date": "2014-09-09T14:15:47",
+  "languages": {
+    "PHP": 441780,
+    "JavaScript": 96261,
+    "CSS": 86965,
+    "Less": 55954
+  },
+  "size": 680960
+}

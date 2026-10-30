@@ -1,0 +1,14 @@
+{
+  "commit": "6a9ee939f5419262d7d0ce720572805f5f64569b",
+  "repo_url": "https://github.com/gnome/nautilus",
+  "date": "2022-05-27T13:38:19",
+  "languages": {
+    "C": 4656764,
+    "Meson": 31560,
+    "Python": 14297,
+    "CSS": 7273,
+    "Shell": 4938,
+    "Dockerfile": 375
+  },
+  "size": 4715207
+}

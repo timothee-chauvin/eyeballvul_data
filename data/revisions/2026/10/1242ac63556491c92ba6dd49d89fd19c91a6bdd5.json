@@ -1,0 +1,19 @@
+{
+  "commit": "1242ac63556491c92ba6dd49d89fd19c91a6bdd5",
+  "repo_url": "https://github.com/ekkolearnai/ekko-studio",
+  "date": "2026-10-15T12:33:39",
+  "languages": {
+    "TypeScript": 20456948,
+    "Vue": 3176603,
+    "JavaScript": 550978,
+    "Python": 534012,
+    "C++": 495207,
+    "SCSS": 44607,
+    "Shell": 10534,
+    "NSIS": 8460,
+    "HTML": 4387,
+    "Dockerfile": 1781,
+    "CSS": 1381
+  },
+  "size": 25284898
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "71ea75d0830520d3209d7bb58b86f578d1da173e",
+  "repo_url": "https://github.com/openwisp/openwisp-controller",
+  "date": "2026-10-15T18:50:42",
+  "languages": {
+    "Python": 2115688,
+    "JavaScript": 1283953,
+    "CSS": 54958,
+    "HTML": 21761,
+    "Shell": 2411,
+    "Dockerfile": 858
+  },
+  "size": 3479629
+}

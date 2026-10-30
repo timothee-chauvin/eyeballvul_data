@@ -1,0 +1,10 @@
+{
+  "commit": "716da6181c6f2c9554d85a6aebfad337409129c1",
+  "repo_url": "https://github.com/netboxlabs/netbox-mcp-server",
+  "date": "2026-05-26T18:30:26",
+  "languages": {
+    "Python": 109536,
+    "Dockerfile": 1471
+  },
+  "size": 111007
+}

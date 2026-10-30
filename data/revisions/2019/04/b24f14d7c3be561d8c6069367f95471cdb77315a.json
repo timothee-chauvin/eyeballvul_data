@@ -1,0 +1,12 @@
+{
+  "commit": "b24f14d7c3be561d8c6069367f95471cdb77315a",
+  "repo_url": "https://github.com/facebook/wangle",
+  "date": "2019-04-13T10:25:08",
+  "languages": {
+    "C++": 935311,
+    "Python": 51740,
+    "CMake": 29703,
+    "Shell": 9465
+  },
+  "size": 1026219
+}

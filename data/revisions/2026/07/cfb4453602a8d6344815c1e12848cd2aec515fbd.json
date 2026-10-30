@@ -1,0 +1,15 @@
+{
+  "commit": "cfb4453602a8d6344815c1e12848cd2aec515fbd",
+  "repo_url": "https://github.com/maz1987in/3dviewer-nextcloud",
+  "date": "2026-07-27T10:32:39",
+  "languages": {
+    "JavaScript": 831711,
+    "Vue": 557165,
+    "PHP": 299150,
+    "TypeScript": 35689,
+    "CSS": 16808,
+    "Makefile": 2843,
+    "Shell": 1855
+  },
+  "size": 1745221
+}

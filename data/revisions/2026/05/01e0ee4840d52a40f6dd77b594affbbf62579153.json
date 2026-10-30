@@ -1,0 +1,17 @@
+{
+  "commit": "01e0ee4840d52a40f6dd77b594affbbf62579153",
+  "repo_url": "https://github.com/identrail/identrail",
+  "date": "2026-05-23T11:09:00",
+  "languages": {
+    "Go": 4367046,
+    "TypeScript": 893801,
+    "CSS": 531832,
+    "HCL": 62854,
+    "Shell": 56031,
+    "PLpgSQL": 13071,
+    "Makefile": 3061,
+    "Smarty": 2143,
+    "HTML": 1971
+  },
+  "size": 5931810
+}

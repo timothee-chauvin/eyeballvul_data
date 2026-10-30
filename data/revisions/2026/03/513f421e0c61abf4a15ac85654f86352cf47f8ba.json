@@ -1,0 +1,13 @@
+{
+  "commit": "513f421e0c61abf4a15ac85654f86352cf47f8ba",
+  "repo_url": "https://github.com/nipy/nibabel",
+  "date": "2026-03-11T13:13:56",
+  "languages": {
+    "Python": 2390521,
+    "Makefile": 6984,
+    "Shell": 4745,
+    "PowerShell": 2988,
+    "MATLAB": 2702
+  },
+  "size": 2407940
+}

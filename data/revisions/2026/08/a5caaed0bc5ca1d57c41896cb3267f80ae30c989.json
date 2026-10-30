@@ -1,0 +1,14 @@
+{
+  "commit": "a5caaed0bc5ca1d57c41896cb3267f80ae30c989",
+  "repo_url": "https://github.com/vaadin/flow-components",
+  "date": "2026-08-07T15:18:56",
+  "languages": {
+    "Java": 15936034,
+    "JavaScript": 334319,
+    "TypeScript": 152311,
+    "Shell": 10150,
+    "CSS": 6932,
+    "HTML": 1119
+  },
+  "size": 16440865
+}

@@ -1,0 +1,25 @@
+{
+  "commit": "a8042692500503cca8f3d4aed3c38da398c22f9d",
+  "repo_url": "https://github.com/elastic/kibana",
+  "date": "2025-09-16T18:47:22",
+  "languages": {
+    "TypeScript": 258092329,
+    "JavaScript": 8651679,
+    "MDX": 2680358,
+    "Shell": 434252,
+    "CSS": 206170,
+    "SCSS": 147403,
+    "Nunjucks": 118640,
+    "ANTLR": 41534,
+    "Handlebars": 36639,
+    "HTML": 19095,
+    "Dockerfile": 15257,
+    "EJS": 12706,
+    "Perl": 12381,
+    "Python": 7624,
+    "Makefile": 5205,
+    "Batchfile": 5169,
+    "Standard ML": 3033
+  },
+  "size": 270489474
+}

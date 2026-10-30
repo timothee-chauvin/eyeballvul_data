@@ -1,0 +1,12 @@
+{
+  "commit": "355e6f818e996f3142ea2a8264f27003621c74ea",
+  "repo_url": "https://github.com/graphql-hive/graphql-scalars",
+  "date": "2026-08-20T09:35:56",
+  "languages": {
+    "TypeScript": 523360,
+    "MDX": 39064,
+    "JavaScript": 21526,
+    "Shell": 40
+  },
+  "size": 583990
+}

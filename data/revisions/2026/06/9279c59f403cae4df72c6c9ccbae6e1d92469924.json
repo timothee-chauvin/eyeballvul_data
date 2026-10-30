@@ -1,0 +1,12 @@
+{
+  "commit": "9279c59f403cae4df72c6c9ccbae6e1d92469924",
+  "repo_url": "https://github.com/entireio/cli",
+  "date": "2026-06-18T07:23:51",
+  "languages": {
+    "Go": 9418400,
+    "Shell": 112257,
+    "TypeScript": 24468,
+    "Dockerfile": 676
+  },
+  "size": 9555801
+}

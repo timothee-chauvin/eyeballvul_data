@@ -1,0 +1,15 @@
+{
+  "commit": "984709ad8f23f310cc96172621b3995b9a2baffe",
+  "repo_url": "https://github.com/getnora-io/nora",
+  "date": "2026-06-13T14:19:23",
+  "languages": {
+    "Rust": 2241865,
+    "Shell": 129324,
+    "TypeScript": 52354,
+    "Dockerfile": 5874,
+    "JavaScript": 4549,
+    "Makefile": 1647,
+    "C#": 567
+  },
+  "size": 2436180
+}

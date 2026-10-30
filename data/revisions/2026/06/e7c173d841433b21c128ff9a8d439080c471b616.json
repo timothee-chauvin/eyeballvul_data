@@ -1,0 +1,11 @@
+{
+  "commit": "e7c173d841433b21c128ff9a8d439080c471b616",
+  "repo_url": "https://github.com/gdatasoftwareag/motornet",
+  "date": "2026-06-09T11:59:55",
+  "languages": {
+    "C#": 576815,
+    "Dockerfile": 742,
+    "Shell": 59
+  },
+  "size": 577616
+}

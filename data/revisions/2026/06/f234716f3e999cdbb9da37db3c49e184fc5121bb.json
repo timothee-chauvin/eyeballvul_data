@@ -1,0 +1,23 @@
+{
+  "commit": "f234716f3e999cdbb9da37db3c49e184fc5121bb",
+  "repo_url": "https://github.com/transmission/transmission",
+  "date": "2026-06-01T23:08:53",
+  "languages": {
+    "C++": 4054826,
+    "Objective-C++": 837835,
+    "JavaScript": 216905,
+    "CMake": 130001,
+    "Objective-C": 102667,
+    "HTML": 46666,
+    "SCSS": 35655,
+    "PowerShell": 33077,
+    "Roff": 33074,
+    "Shell": 10349,
+    "CSS": 7854,
+    "Python": 7702,
+    "Rich Text Format": 7032,
+    "C": 2843,
+    "Batchfile": 958
+  },
+  "size": 5527444
+}

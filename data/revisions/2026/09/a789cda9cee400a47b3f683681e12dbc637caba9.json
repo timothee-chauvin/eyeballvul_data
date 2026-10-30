@@ -1,0 +1,12 @@
+{
+  "commit": "a789cda9cee400a47b3f683681e12dbc637caba9",
+  "repo_url": "https://github.com/hallowelt/docker-bluespice-wiki",
+  "date": "2026-09-24T14:06:28",
+  "languages": {
+    "PHP": 24410,
+    "Shell": 22624,
+    "Dockerfile": 6593,
+    "HTML": 2281
+  },
+  "size": 55908
+}

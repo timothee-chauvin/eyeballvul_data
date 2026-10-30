@@ -1,0 +1,22 @@
+{
+  "commit": "6fccb4ad680732644be61955acadd8cd2e834d93",
+  "repo_url": "https://github.com/simulationcraft/simc",
+  "date": "2020-01-27T19:39:31",
+  "languages": {
+    "C++": 7806878,
+    "Python": 448203,
+    "POV-Ray SDL": 168082,
+    "CSS": 66802,
+    "HTML": 63005,
+    "C": 52836,
+    "Batchfile": 22009,
+    "QMake": 16844,
+    "Inno Setup": 15474,
+    "Shell": 9295,
+    "JavaScript": 9291,
+    "Makefile": 7073,
+    "CMake": 3897,
+    "Objective-C++": 958
+  },
+  "size": 8690647
+}

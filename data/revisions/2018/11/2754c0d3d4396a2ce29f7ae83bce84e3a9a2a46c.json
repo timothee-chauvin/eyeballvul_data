@@ -1,0 +1,12 @@
+{
+  "commit": "2754c0d3d4396a2ce29f7ae83bce84e3a9a2a46c",
+  "repo_url": "https://github.com/broadcom/credhub-release",
+  "date": "2018-11-22T00:44:50",
+  "languages": {
+    "Go": 35139,
+    "Shell": 17413,
+    "Ruby": 13400,
+    "HTML": 9207
+  },
+  "size": 75159
+}

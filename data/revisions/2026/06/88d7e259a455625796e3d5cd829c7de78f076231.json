@@ -1,0 +1,15 @@
+{
+  "commit": "88d7e259a455625796e3d5cd829c7de78f076231",
+  "repo_url": "https://github.com/zylon-ai/private-gpt",
+  "date": "2026-06-18T13:55:36",
+  "languages": {
+    "Python": 3808276,
+    "HTML": 587049,
+    "MDX": 125589,
+    "Jinja": 61442,
+    "Dockerfile": 8808,
+    "Makefile": 3834,
+    "Shell": 3462
+  },
+  "size": 4598460
+}

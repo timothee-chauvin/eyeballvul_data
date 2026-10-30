@@ -1,0 +1,11 @@
+{
+  "commit": "a38dc2f48ffd689e7fa478de3082612a0196b749",
+  "repo_url": "https://github.com/mayuresh82/gocast",
+  "date": "2022-03-09T20:28:28",
+  "languages": {
+    "Go": 38015,
+    "Dockerfile": 486,
+    "Makefile": 249
+  },
+  "size": 38750
+}

@@ -1,9 +1,0 @@
-{
-  "commit": "4a69447b3d1971fd9dc319c60e5577310ffdb7fc",
-  "repo_url": "https://github.com/snyk/snyk-gradle-plugin",
-  "date": "2024-10-01T03:52:10",
-  "languages": {
-    "TypeScript": 109629
-  },
-  "size": 109629
-}

@@ -1,0 +1,18 @@
+{
+  "commit": "6969bac37c67a57164f873b8f55099582780db6a",
+  "repo_url": "https://github.com/libyal/libphdi",
+  "date": "2026-09-02T07:56:42",
+  "languages": {
+    "C": 1336654,
+    "M4": 161062,
+    "PowerShell": 32324,
+    "Python": 28195,
+    "Shell": 27625,
+    "Makefile": 23889,
+    "Roff": 12413,
+    "Yacc": 12246,
+    "Lex": 6501,
+    "C++": 3768
+  },
+  "size": 1644677
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "4741ab834ee47c2c513c8ae90738b8a8b4d83cf9",
+  "repo_url": "https://github.com/gnome/glib-networking",
+  "date": "2020-04-14T14:53:19",
+  "languages": {
+    "C": 653171,
+    "Meson": 15466,
+    "Shell": 8213,
+    "Batchfile": 1062,
+    "Dockerfile": 446,
+    "Python": 184
+  },
+  "size": 678542
+}

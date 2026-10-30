@@ -1,0 +1,14 @@
+{
+  "commit": "7db2f606dfd720d69ad54ff896bd6e7236d9d15e",
+  "repo_url": "https://github.com/i18next/i18next-http-backend",
+  "date": "2026-09-02T21:06:19",
+  "languages": {
+    "JavaScript": 85172,
+    "HTML": 14838,
+    "TypeScript": 10928,
+    "Vue": 4362,
+    "CSS": 1467,
+    "Less": 80
+  },
+  "size": 116847
+}

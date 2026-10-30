@@ -1,0 +1,15 @@
+{
+  "commit": "b5a60c7fb37bc3f788688a3e03b8b1f9fa4c49e5",
+  "repo_url": "https://github.com/kiegroup/jbpm",
+  "date": "2016-10-18T12:56:25",
+  "languages": {
+    "Java": 11400791,
+    "TSQL": 84109,
+    "FreeMarker": 14604,
+    "SQLPL": 8793,
+    "PLSQL": 5292,
+    "HTML": 261,
+    "Shell": 98
+  },
+  "size": 11513948
+}

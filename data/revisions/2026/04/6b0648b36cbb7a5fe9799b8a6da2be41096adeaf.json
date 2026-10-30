@@ -1,0 +1,10 @@
+{
+  "commit": "6b0648b36cbb7a5fe9799b8a6da2be41096adeaf",
+  "repo_url": "https://github.com/ctfer-io/terraform-provider-ctfd",
+  "date": "2026-04-27T11:16:43",
+  "languages": {
+    "Go": 176105,
+    "Makefile": 211
+  },
+  "size": 176316
+}

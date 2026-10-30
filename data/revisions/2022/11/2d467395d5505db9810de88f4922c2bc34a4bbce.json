@@ -1,0 +1,14 @@
+{
+  "commit": "2d467395d5505db9810de88f4922c2bc34a4bbce",
+  "repo_url": "https://github.com/hashicorp/consul-k8s",
+  "date": "2022-11-17T20:25:55",
+  "languages": {
+    "Go": 3205722,
+    "Shell": 1208891,
+    "HCL": 25830,
+    "Smarty": 19810,
+    "Makefile": 9142,
+    "Dockerfile": 8547
+  },
+  "size": 4477942
+}
