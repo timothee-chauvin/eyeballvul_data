@@ -1,0 +1,11 @@
+{
+  "commit": "a952c3f6f2d542b17a7923b356c9785ce42eb80f",
+  "repo_url": "https://github.com/romkatv/gitstatus",
+  "date": "2024-03-30T08:50:33",
+  "languages": {
+    "C++": 163437,
+    "Shell": 110245,
+    "Makefile": 1693
+  },
+  "size": 275375
+}

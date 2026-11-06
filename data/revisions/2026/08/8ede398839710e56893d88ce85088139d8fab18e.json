@@ -1,0 +1,16 @@
+{
+  "commit": "8ede398839710e56893d88ce85088139d8fab18e",
+  "repo_url": "https://github.com/truenas/middleware",
+  "date": "2026-08-27T15:04:50",
+  "languages": {
+    "Python": 14400816,
+    "Mako": 143037,
+    "Shell": 45074,
+    "HTML": 28563,
+    "CSS": 3422,
+    "Makefile": 2724,
+    "C": 2394,
+    "GDB": 167
+  },
+  "size": 14626197
+}

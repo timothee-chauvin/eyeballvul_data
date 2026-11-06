@@ -1,0 +1,17 @@
+{
+  "commit": "f49b4157121acdc0150dd093d79179ecbdc2219c",
+  "repo_url": "https://github.com/arthi-chaud/meelo",
+  "date": "2026-09-30T10:59:56",
+  "languages": {
+    "TypeScript": 2276993,
+    "Python": 234731,
+    "Go": 104975,
+    "Dockerfile": 3510,
+    "PLpgSQL": 2842,
+    "JavaScript": 2614,
+    "Nix": 1838,
+    "CSS": 501,
+    "Shell": 367
+  },
+  "size": 2628371
+}

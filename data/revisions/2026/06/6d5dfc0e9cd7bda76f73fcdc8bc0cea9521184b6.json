@@ -1,0 +1,18 @@
+{
+  "commit": "6d5dfc0e9cd7bda76f73fcdc8bc0cea9521184b6",
+  "repo_url": "https://github.com/willamowius/gnugk",
+  "date": "2026-06-29T07:48:21",
+  "languages": {
+    "C++": 3060209,
+    "PHP": 103527,
+    "PLpgSQL": 71525,
+    "C": 45152,
+    "Shell": 35179,
+    "Perl": 23221,
+    "HTML": 16317,
+    "Makefile": 10837,
+    "Java": 5835,
+    "Hack": 384
+  },
+  "size": 3372186
+}

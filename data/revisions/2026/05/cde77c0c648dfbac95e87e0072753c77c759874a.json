@@ -1,0 +1,16 @@
+{
+  "commit": "cde77c0c648dfbac95e87e0072753c77c759874a",
+  "repo_url": "https://github.com/konflux-ci/konflux-ci",
+  "date": "2026-05-31T14:01:02",
+  "languages": {
+    "Go": 1638795,
+    "Shell": 170132,
+    "Makefile": 20184,
+    "JavaScript": 8520,
+    "HTML": 5315,
+    "SCSS": 4528,
+    "Smarty": 3069,
+    "Dockerfile": 2051
+  },
+  "size": 1852594
+}

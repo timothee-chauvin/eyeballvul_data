@@ -1,0 +1,14 @@
+{
+  "commit": "08bfd440a30d367ae369739d866d30f8c1d4b3af",
+  "repo_url": "https://github.com/amir1376/ab-download-manager",
+  "date": "2026-10-14T01:26:41",
+  "languages": {
+    "Kotlin": 3508908,
+    "Shell": 14994,
+    "NSIS": 7148,
+    "Batchfile": 2269,
+    "Handlebars": 1384,
+    "C": 687
+  },
+  "size": 3535390
+}

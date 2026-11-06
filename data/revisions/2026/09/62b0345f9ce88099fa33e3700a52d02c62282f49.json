@@ -1,0 +1,13 @@
+{
+  "commit": "62b0345f9ce88099fa33e3700a52d02c62282f49",
+  "repo_url": "https://github.com/jwardee/wp-mail-catcher",
+  "date": "2026-09-28T14:55:22",
+  "languages": {
+    "PHP": 141601,
+    "JavaScript": 9031,
+    "SCSS": 5687,
+    "Shell": 5427,
+    "Dockerfile": 902
+  },
+  "size": 162648
+}

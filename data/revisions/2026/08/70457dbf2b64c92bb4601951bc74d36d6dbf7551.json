@@ -1,0 +1,11 @@
+{
+  "commit": "70457dbf2b64c92bb4601951bc74d36d6dbf7551",
+  "repo_url": "https://github.com/highflame-ai/ramparts",
+  "date": "2026-08-21T05:29:16",
+  "languages": {
+    "Rust": 962981,
+    "YARA": 96655,
+    "Makefile": 24607
+  },
+  "size": 1084243
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "cd61b6187c8b20867ba4368d1ae62c5790c0269a",
+  "repo_url": "https://github.com/aws/aws-nitro-enclaves-sdk-c",
+  "date": "2026-03-31T09:26:32",
+  "languages": {
+    "C": 356709,
+    "CMake": 14446,
+    "Shell": 13714,
+    "PowerShell": 8286,
+    "Dockerfile": 335
+  },
+  "size": 393490
+}

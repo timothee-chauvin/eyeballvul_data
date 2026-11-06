@@ -1,0 +1,18 @@
+{
+  "commit": "1b2de4bdc2f25a6de2884fb2cf81f80a8ce2a567",
+  "repo_url": "https://github.com/rpm-software-management/dnf5",
+  "date": "2026-09-24T18:44:28",
+  "languages": {
+    "C++": 6095723,
+    "Gherkin": 2044124,
+    "Python": 379227,
+    "Shell": 88730,
+    "CMake": 77753,
+    "Ruby": 63380,
+    "SWIG": 63359,
+    "Perl": 57062,
+    "C": 23180,
+    "Makefile": 6080
+  },
+  "size": 8898618
+}

@@ -1,0 +1,24 @@
+{
+  "commit": "4f136bd7bba8e5eae8a58a2a6a69ae5c9589ba81",
+  "repo_url": "https://github.com/mqttsnet/thinglinks",
+  "date": "2026-03-27T02:13:59",
+  "languages": {
+    "Java": 8765730,
+    "Vue": 4069484,
+    "TypeScript": 3085437,
+    "FreeMarker": 356710,
+    "JavaScript": 264016,
+    "Less": 79887,
+    "TSQL": 79883,
+    "Dockerfile": 34518,
+    "HTML": 17609,
+    "CSS": 15258,
+    "SCSS": 14860,
+    "Shell": 5643,
+    "Groovy": 4423,
+    "GLSL": 1042,
+    "Handlebars": 429,
+    "Makefile": 427
+  },
+  "size": 16795356
+}

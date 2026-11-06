@@ -1,0 +1,15 @@
+{
+  "commit": "12fb0eaa2ddc84b1f52f4d93c973f3104ff51377",
+  "repo_url": "https://github.com/egovframework/egovframe-common-components",
+  "date": "2025-04-29T06:45:00",
+  "languages": {
+    "Java": 11955622,
+    "JavaScript": 864783,
+    "CSS": 271553,
+    "HTML": 241335,
+    "Shell": 14205,
+    "Batchfile": 4804,
+    "PHP": 793
+  },
+  "size": 13353095
+}

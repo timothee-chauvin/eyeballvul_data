@@ -1,0 +1,11 @@
+{
+  "commit": "1ead6b75309d0ca3823259d83d82bcf5d2bc1cff",
+  "repo_url": "https://github.com/kubernetes-client/java",
+  "date": "2026-03-30T17:36:03",
+  "languages": {
+    "Java": 35709574,
+    "Shell": 12986,
+    "Dockerfile": 614
+  },
+  "size": 35723174
+}

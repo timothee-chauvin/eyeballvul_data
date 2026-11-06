@@ -1,0 +1,17 @@
+{
+  "commit": "f49af6386c9c7cddaa9d00e85cfe30cfe1d6a60f",
+  "repo_url": "https://github.com/ultravideo/kvazaar",
+  "date": "2024-04-10T10:42:35",
+  "languages": {
+    "C": 2051440,
+    "M4": 41651,
+    "Python": 28255,
+    "CMake": 23500,
+    "Shell": 13525,
+    "C++": 9024,
+    "Makefile": 7439,
+    "Dockerfile": 1810,
+    "MATLAB": 208
+  },
+  "size": 2176852
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "e55bc7a74b968e9656d0fc97cb13885eb5aafc75",
+  "repo_url": "https://github.com/coolpluginsteam/extensions-for-elementor-form",
+  "date": "2026-09-28T08:57:04",
+  "languages": {
+    "PHP": 636316,
+    "JavaScript": 306293,
+    "CSS": 38460,
+    "Twig": 18034,
+    "SCSS": 15350
+  },
+  "size": 1014453
+}

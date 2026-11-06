@@ -1,0 +1,18 @@
+{
+  "commit": "d2adafaa702f4348b19185dc3769a4805d449ae8",
+  "repo_url": "https://github.com/fctr-id/okta-ai-agent",
+  "date": "2026-05-02T21:49:55",
+  "languages": {
+    "Python": 2515843,
+    "Vue": 321318,
+    "JavaScript": 140253,
+    "PowerShell": 5471,
+    "Dockerfile": 2952,
+    "HTML": 1777,
+    "CSS": 1192,
+    "SCSS": 1128,
+    "Shell": 593,
+    "Batchfile": 565
+  },
+  "size": 2991092
+}

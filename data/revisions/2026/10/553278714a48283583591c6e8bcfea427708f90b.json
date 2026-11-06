@@ -1,0 +1,17 @@
+{
+  "commit": "553278714a48283583591c6e8bcfea427708f90b",
+  "repo_url": "https://github.com/arcreel/arcreel",
+  "date": "2026-10-24T08:05:27",
+  "languages": {
+    "Python": 20956173,
+    "TypeScript": 8767762,
+    "Shell": 143768,
+    "JavaScript": 83739,
+    "CSS": 33641,
+    "Dockerfile": 2858,
+    "MDX": 2828,
+    "HTML": 1456,
+    "Mako": 704
+  },
+  "size": 29992929
+}

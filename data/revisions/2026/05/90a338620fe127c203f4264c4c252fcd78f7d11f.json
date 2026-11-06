@@ -1,0 +1,14 @@
+{
+  "commit": "90a338620fe127c203f4264c4c252fcd78f7d11f",
+  "repo_url": "https://github.com/mytinywms/mytinywms",
+  "date": "2026-05-20T11:20:54",
+  "languages": {
+    "PHP": 699420,
+    "Blade": 271231,
+    "Vue": 162135,
+    "Less": 14608,
+    "Shell": 1080,
+    "Dockerfile": 977
+  },
+  "size": 1149451
+}

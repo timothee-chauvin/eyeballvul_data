@@ -1,0 +1,15 @@
+{
+  "commit": "7fe84e777a92b9f60e2ab2e82c13c055145269b8",
+  "repo_url": "https://github.com/sassanix/warracker",
+  "date": "2026-10-18T13:02:37",
+  "languages": {
+    "JavaScript": 1069052,
+    "Python": 518618,
+    "HTML": 360637,
+    "CSS": 203323,
+    "Dockerfile": 4363,
+    "Shell": 2585,
+    "PLpgSQL": 2212
+  },
+  "size": 2160790
+}

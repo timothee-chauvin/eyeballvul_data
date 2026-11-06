@@ -1,0 +1,15 @@
+{
+  "commit": "45832742182a6c4438a0d58de95ba9c7686851f2",
+  "repo_url": "https://github.com/blueprintue/blueprintue-self-hosted-edition",
+  "date": "2026-11-01T15:16:47",
+  "languages": {
+    "PHP": 5188160,
+    "JavaScript": 105918,
+    "CSS": 50954,
+    "HTML": 19791,
+    "Shell": 3980,
+    "Dockerfile": 3948,
+    "HCL": 1316
+  },
+  "size": 5374067
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "be08c5f3fed07f3af749defcf04e590ffcb0c48d",
+  "repo_url": "https://github.com/cosin2077/easyvoice",
+  "date": "2026-10-20T02:22:55",
+  "languages": {
+    "TypeScript": 246782,
+    "Vue": 90767,
+    "JavaScript": 31741,
+    "HTML": 9553,
+    "Less": 6318,
+    "Shell": 3937,
+    "Dockerfile": 1486,
+    "Batchfile": 999
+  },
+  "size": 391583
+}

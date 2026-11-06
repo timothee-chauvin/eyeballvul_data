@@ -1,0 +1,12 @@
+{
+  "commit": "29cbeb3d37b4876f909a0354087a3531af0447f6",
+  "repo_url": "https://github.com/librespark/libretv",
+  "date": "2026-10-26T12:20:53",
+  "languages": {
+    "TypeScript": 1104356,
+    "CSS": 8012,
+    "JavaScript": 804,
+    "Dockerfile": 643
+  },
+  "size": 1113815
+}

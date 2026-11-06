@@ -1,0 +1,17 @@
+{
+  "commit": "185db386a1480e50a28311eb29e932c231254fc8",
+  "repo_url": "https://github.com/aklivity/zilla",
+  "date": "2026-10-15T16:16:15",
+  "languages": {
+    "Java": 29485435,
+    "Lua": 458756,
+    "ANTLR": 175577,
+    "Shell": 16509,
+    "Dockerfile": 4900,
+    "Smarty": 1924,
+    "HTML": 681,
+    "JavaScript": 50,
+    "CSS": 20
+  },
+  "size": 30143852
+}

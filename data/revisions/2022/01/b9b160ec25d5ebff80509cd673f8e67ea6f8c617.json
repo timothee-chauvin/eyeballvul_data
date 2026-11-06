@@ -1,0 +1,11 @@
+{
+  "commit": "b9b160ec25d5ebff80509cd673f8e67ea6f8c617",
+  "repo_url": "https://github.com/twilio-labs/netlify-okta-auth",
+  "date": "2022-01-28T17:16:13",
+  "languages": {
+    "TypeScript": 40844,
+    "JavaScript": 350,
+    "Shell": 52
+  },
+  "size": 41246
+}

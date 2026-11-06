@@ -1,0 +1,13 @@
+{
+  "commit": "9d78e88e47160eb42ee1ee8538c05e1c2c47877a",
+  "repo_url": "https://github.com/openbmb/ioa",
+  "date": "2025-10-04T17:39:55",
+  "languages": {
+    "Python": 349377,
+    "JavaScript": 12801,
+    "Dockerfile": 5664,
+    "CSS": 5330,
+    "HTML": 1721
+  },
+  "size": 374893
+}

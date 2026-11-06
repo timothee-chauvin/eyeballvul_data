@@ -1,0 +1,17 @@
+{
+  "commit": "e232ac357cbba22fe69d6d6dfc0d35512a4cd313",
+  "repo_url": "https://github.com/jarun/buku",
+  "date": "2026-01-03T06:55:24",
+  "languages": {
+    "Python": 507274,
+    "Roff": 34629,
+    "HTML": 33303,
+    "Shell": 6373,
+    "JavaScript": 4661,
+    "CSS": 2907,
+    "Dockerfile": 680,
+    "Makefile": 508,
+    "Batchfile": 63
+  },
+  "size": 590398
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "b8bb3421e1fe946cfc4f0d86e8412098738f2793",
+  "repo_url": "https://github.com/looplj/axonhub",
+  "date": "2026-10-08T04:11:26",
+  "languages": {
+    "Go": 10967380,
+    "TypeScript": 4357111,
+    "JavaScript": 220598,
+    "Shell": 157597,
+    "CSS": 59711,
+    "PowerShell": 37339,
+    "Makefile": 25284,
+    "Batchfile": 3014,
+    "Smarty": 2099,
+    "HTML": 2038,
+    "Dockerfile": 1976
+  },
+  "size": 15834147
+}

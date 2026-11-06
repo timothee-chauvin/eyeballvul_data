@@ -1,0 +1,14 @@
+{
+  "commit": "2dbf69864a597f3b1cb5530708252f337508f509",
+  "repo_url": "https://github.com/songloft-org/songloft",
+  "date": "2026-10-20T22:47:06",
+  "languages": {
+    "Go": 2723582,
+    "JavaScript": 138987,
+    "Shell": 42914,
+    "CSS": 26217,
+    "Makefile": 18465,
+    "Dockerfile": 5805
+  },
+  "size": 2955970
+}

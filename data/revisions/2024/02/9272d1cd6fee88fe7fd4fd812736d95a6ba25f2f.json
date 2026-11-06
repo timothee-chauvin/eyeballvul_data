@@ -1,0 +1,12 @@
+{
+  "commit": "9272d1cd6fee88fe7fd4fd812736d95a6ba25f2f",
+  "repo_url": "https://github.com/bakulf/libnxml",
+  "date": "2024-02-21T13:39:18",
+  "languages": {
+    "C": 113867,
+    "M4": 1310,
+    "Makefile": 1078,
+    "Shell": 91
+  },
+  "size": 116346
+}

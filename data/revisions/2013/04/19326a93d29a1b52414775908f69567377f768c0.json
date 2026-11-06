@@ -1,0 +1,11 @@
+{
+  "commit": "19326a93d29a1b52414775908f69567377f768c0",
+  "repo_url": "https://github.com/kazuho/p5-http-parser-xs",
+  "date": "2013-04-24T14:18:48",
+  "languages": {
+    "Perl": 27553,
+    "C": 13026,
+    "XS": 10217
+  },
+  "size": 50796
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "ee332f0e2058906bee445bdb52e2449ecc42fc76",
+  "repo_url": "https://github.com/aidotnet/opendeepwiki",
+  "date": "2026-08-31T06:44:39",
+  "languages": {
+    "C#": 3504004,
+    "TypeScript": 1542536,
+    "JavaScript": 30434,
+    "Batchfile": 10130,
+    "PowerShell": 8351,
+    "Makefile": 6683,
+    "CSS": 6158,
+    "Dockerfile": 2599,
+    "Shell": 1181
+  },
+  "size": 5112076
+}

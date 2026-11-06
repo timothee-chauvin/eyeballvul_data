@@ -1,0 +1,11 @@
+{
+  "commit": "2280556b785a98dcf1d6eea6d7c7c09403f791dd",
+  "repo_url": "https://github.com/bastillebsd/bastille",
+  "date": "2026-07-12T03:32:43",
+  "languages": {
+    "Shell": 531218,
+    "Roff": 89545,
+    "Makefile": 1365
+  },
+  "size": 622128
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "6db66939d5ea2da378d45122a7d94e3cdfa3dfd0",
+  "repo_url": "https://github.com/zane-ops/zane-ops",
+  "date": "2026-09-25T21:03:46",
+  "languages": {
+    "Python": 3858631,
+    "TypeScript": 3003367,
+    "Shell": 26141,
+    "Makefile": 15788,
+    "CSS": 9033,
+    "Dockerfile": 7705
+  },
+  "size": 6920665
+}

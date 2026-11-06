@@ -1,0 +1,15 @@
+{
+  "commit": "30e2c55012db49e0adc22374838fbd9387c003a1",
+  "repo_url": "https://github.com/tryghost/activitypub",
+  "date": "2026-06-04T07:24:07",
+  "languages": {
+    "TypeScript": 2166414,
+    "JavaScript": 127176,
+    "Gherkin": 37239,
+    "Shell": 18117,
+    "Dockerfile": 2168,
+    "Nix": 1333,
+    "PLpgSQL": 451
+  },
+  "size": 2352898
+}

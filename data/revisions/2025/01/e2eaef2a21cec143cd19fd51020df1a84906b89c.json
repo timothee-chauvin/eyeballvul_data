@@ -1,0 +1,11 @@
+{
+  "commit": "e2eaef2a21cec143cd19fd51020df1a84906b89c",
+  "repo_url": "https://github.com/intel/cluster-management-toolkit",
+  "date": "2025-01-31T23:33:27",
+  "languages": {
+    "Python": 4075214,
+    "Jinja": 27802,
+    "Makefile": 22699
+  },
+  "size": 4125715
+}

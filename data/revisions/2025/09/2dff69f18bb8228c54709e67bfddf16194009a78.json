@@ -1,0 +1,17 @@
+{
+  "commit": "2dff69f18bb8228c54709e67bfddf16194009a78",
+  "repo_url": "https://github.com/wrensecurity/wrensec-commons",
+  "date": "2025-09-12T11:19:22",
+  "languages": {
+    "Java": 9111007,
+    "JavaScript": 2244782,
+    "XSLT": 456691,
+    "CSS": 197709,
+    "HTML": 6709,
+    "FreeMarker": 4795,
+    "Groovy": 2621,
+    "Less": 2055,
+    "Roff": 9
+  },
+  "size": 12026378
+}

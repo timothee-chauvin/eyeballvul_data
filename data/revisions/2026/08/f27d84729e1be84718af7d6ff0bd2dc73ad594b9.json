@@ -1,0 +1,18 @@
+{
+  "commit": "f27d84729e1be84718af7d6ff0bd2dc73ad594b9",
+  "repo_url": "https://github.com/powerdns-admin/powerdns-admin",
+  "date": "2026-08-30T15:22:16",
+  "languages": {
+    "Python": 889578,
+    "HTML": 518905,
+    "JavaScript": 135945,
+    "CSS": 16219,
+    "Shell": 5741,
+    "HCL": 3207,
+    "Dockerfile": 1449,
+    "Batchfile": 531,
+    "Mako": 494,
+    "Jinja": 347
+  },
+  "size": 1572416
+}

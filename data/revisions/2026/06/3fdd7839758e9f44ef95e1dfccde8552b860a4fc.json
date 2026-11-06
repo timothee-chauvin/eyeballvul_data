@@ -1,0 +1,16 @@
+{
+  "commit": "3fdd7839758e9f44ef95e1dfccde8552b860a4fc",
+  "repo_url": "https://github.com/libyal/libvmdk",
+  "date": "2026-06-26T14:26:14",
+  "languages": {
+    "C": 1618850,
+    "M4": 156425,
+    "PowerShell": 31436,
+    "Python": 28452,
+    "Shell": 26876,
+    "Makefile": 22262,
+    "Roff": 12147,
+    "C++": 4097
+  },
+  "size": 1900545
+}

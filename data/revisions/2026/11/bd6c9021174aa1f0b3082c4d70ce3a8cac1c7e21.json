@@ -1,0 +1,20 @@
+{
+  "commit": "bd6c9021174aa1f0b3082c4d70ce3a8cac1c7e21",
+  "repo_url": "https://github.com/lightdash/lightdash",
+  "date": "2026-11-03T16:20:53",
+  "languages": {
+    "TypeScript": 102655049,
+    "HTML": 1305522,
+    "CSS": 856411,
+    "JavaScript": 290030,
+    "Shell": 230008,
+    "Python": 125791,
+    "PEG.js": 16229,
+    "HCL": 15230,
+    "Smarty": 15180,
+    "Dockerfile": 7927,
+    "Nix": 4010,
+    "MDX": 1074
+  },
+  "size": 105522461
+}

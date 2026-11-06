@@ -1,0 +1,17 @@
+{
+  "commit": "eac90d154f74cd0e7d2120e623d79d9bc7a10a65",
+  "repo_url": "https://github.com/0xdps/emailflare",
+  "date": "2026-08-13T18:07:21",
+  "languages": {
+    "TypeScript": 1061687,
+    "Astro": 285789,
+    "JavaScript": 56277,
+    "CSS": 21793,
+    "Just": 13750,
+    "Shell": 9990,
+    "Dockerfile": 5603,
+    "XSLT": 4153,
+    "HTML": 1364
+  },
+  "size": 1460406
+}

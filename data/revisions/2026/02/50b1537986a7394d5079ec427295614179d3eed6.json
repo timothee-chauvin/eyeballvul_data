@@ -1,0 +1,15 @@
+{
+  "commit": "50b1537986a7394d5079ec427295614179d3eed6",
+  "repo_url": "https://github.com/deutsches-klimarechenzentrum/libaec",
+  "date": "2026-02-24T09:19:36",
+  "languages": {
+    "C": 148458,
+    "CMake": 16667,
+    "Shell": 3181,
+    "Makefile": 2891,
+    "C++": 1713,
+    "Roff": 1092,
+    "M4": 1008
+  },
+  "size": 175010
+}

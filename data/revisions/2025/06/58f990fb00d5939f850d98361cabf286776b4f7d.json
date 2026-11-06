@@ -1,0 +1,10 @@
+{
+  "commit": "58f990fb00d5939f850d98361cabf286776b4f7d",
+  "repo_url": "https://github.com/axiom-crypto/snark-verifier",
+  "date": "2025-06-05T14:36:45",
+  "languages": {
+    "Rust": 472630,
+    "Solidity": 68195
+  },
+  "size": 540825
+}

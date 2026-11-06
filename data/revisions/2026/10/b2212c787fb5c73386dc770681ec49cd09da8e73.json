@@ -1,0 +1,14 @@
+{
+  "commit": "b2212c787fb5c73386dc770681ec49cd09da8e73",
+  "repo_url": "https://github.com/pydantic/pydantic",
+  "date": "2026-10-11T17:56:55",
+  "languages": {
+    "Python": 6285906,
+    "Rust": 1327908,
+    "Makefile": 9310,
+    "JavaScript": 3242,
+    "HTML": 2474,
+    "Shell": 2167
+  },
+  "size": 7631007
+}

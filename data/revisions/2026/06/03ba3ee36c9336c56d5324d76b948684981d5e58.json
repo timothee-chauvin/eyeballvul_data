@@ -1,0 +1,15 @@
+{
+  "commit": "03ba3ee36c9336c56d5324d76b948684981d5e58",
+  "repo_url": "https://github.com/metalama/metalama",
+  "date": "2026-06-25T09:20:43",
+  "languages": {
+    "C#": 23248281,
+    "HTML": 489172,
+    "PowerShell": 150559,
+    "Dockerfile": 10093,
+    "CSS": 3957,
+    "Shell": 403,
+    "JavaScript": 226
+  },
+  "size": 23902691
+}

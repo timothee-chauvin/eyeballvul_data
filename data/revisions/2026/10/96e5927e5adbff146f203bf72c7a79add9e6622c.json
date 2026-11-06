@@ -1,0 +1,16 @@
+{
+  "commit": "96e5927e5adbff146f203bf72c7a79add9e6622c",
+  "repo_url": "https://github.com/marketcalls/openalgo",
+  "date": "2026-10-29T14:38:36",
+  "languages": {
+    "Python": 22718373,
+    "TypeScript": 8906645,
+    "Shell": 359009,
+    "JavaScript": 258385,
+    "HTML": 110384,
+    "Batchfile": 34361,
+    "CSS": 34345,
+    "Dockerfile": 5489
+  },
+  "size": 32426991
+}

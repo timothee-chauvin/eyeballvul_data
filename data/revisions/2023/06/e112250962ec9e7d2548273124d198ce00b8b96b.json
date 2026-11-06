@@ -1,0 +1,11 @@
+{
+  "commit": "e112250962ec9e7d2548273124d198ce00b8b96b",
+  "repo_url": "https://github.com/deadtrickster/ssl_verify_fun.erl",
+  "date": "2023-06-20T21:43:01",
+  "languages": {
+    "Erlang": 33185,
+    "Elixir": 713,
+    "Makefile": 242
+  },
+  "size": 34140
+}

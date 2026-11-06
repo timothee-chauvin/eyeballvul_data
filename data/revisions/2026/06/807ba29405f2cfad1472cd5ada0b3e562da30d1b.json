@@ -1,0 +1,11 @@
+{
+  "commit": "807ba29405f2cfad1472cd5ada0b3e562da30d1b",
+  "repo_url": "https://github.com/arnodoelinger/dreamdisplays",
+  "date": "2026-06-17T15:04:50",
+  "languages": {
+    "Kotlin": 1245503,
+    "Rust": 146450,
+    "GLSL": 11482
+  },
+  "size": 1403435
+}

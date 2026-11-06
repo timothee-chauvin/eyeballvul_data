@@ -1,0 +1,15 @@
+{
+  "commit": "9a4275d94ee5d6886f1a7286d1b44e039dabc326",
+  "repo_url": "https://github.com/enspirit/elo",
+  "date": "2026-02-19T14:20:36",
+  "languages": {
+    "TypeScript": 696203,
+    "Astro": 192909,
+    "CSS": 69578,
+    "JavaScript": 17741,
+    "Shell": 11969,
+    "PLpgSQL": 7721,
+    "Makefile": 520
+  },
+  "size": 996641
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "5be28a93e783b41d1c284c1275c9b24237d0454d",
+  "repo_url": "https://github.com/cesnet/netopeer2",
+  "date": "2026-06-22T08:41:34",
+  "languages": {
+    "C": 1151898,
+    "CMake": 64478,
+    "Roff": 33272,
+    "Shell": 27513,
+    "Makefile": 744
+  },
+  "size": 1277905
+}

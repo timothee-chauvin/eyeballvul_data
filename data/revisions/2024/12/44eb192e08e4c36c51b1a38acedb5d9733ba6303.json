@@ -1,0 +1,12 @@
+{
+  "commit": "44eb192e08e4c36c51b1a38acedb5d9733ba6303",
+  "repo_url": "https://github.com/aws-amplify/maplibre-gl-js-amplify",
+  "date": "2024-12-05T20:20:13",
+  "languages": {
+    "TypeScript": 143783,
+    "CSS": 8775,
+    "JavaScript": 2506,
+    "Shell": 126
+  },
+  "size": 155190
+}

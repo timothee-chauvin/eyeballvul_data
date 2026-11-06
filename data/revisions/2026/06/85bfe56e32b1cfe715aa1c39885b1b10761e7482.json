@@ -1,0 +1,14 @@
+{
+  "commit": "85bfe56e32b1cfe715aa1c39885b1b10761e7482",
+  "repo_url": "https://github.com/biojppm/rapidyaml",
+  "date": "2026-06-08T13:31:29",
+  "languages": {
+    "C++": 3787209,
+    "CMake": 45349,
+    "SWIG": 37580,
+    "Python": 28654,
+    "Dockerfile": 602,
+    "Shell": 274
+  },
+  "size": 3899668
+}

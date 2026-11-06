@@ -1,0 +1,14 @@
+{
+  "commit": "b552162f57a4171fd66b785b9443909d0b89ea16",
+  "repo_url": "https://github.com/hdinnovations/unit3d",
+  "date": "2025-05-30T13:57:24",
+  "languages": {
+    "PHP": 10924051,
+    "Blade": 2438382,
+    "SCSS": 362370,
+    "JavaScript": 125457,
+    "Vue": 46616,
+    "Shell": 490
+  },
+  "size": 13897366
+}

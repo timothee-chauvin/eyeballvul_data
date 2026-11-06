@@ -1,0 +1,14 @@
+{
+  "commit": "32204ee044e499590aecd0e2e244c018fb8fc8a3",
+  "repo_url": "https://github.com/towfiqi/serpbear",
+  "date": "2026-03-27T03:52:09",
+  "languages": {
+    "TypeScript": 562227,
+    "CSS": 20391,
+    "JavaScript": 17808,
+    "HTML": 12397,
+    "Dockerfile": 2121,
+    "Shell": 65
+  },
+  "size": 615009
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "f68888e312c220588ddc13f8bbc4bab927b5e530",
+  "repo_url": "https://github.com/fossasia/eventyay-exhibition",
+  "date": "2026-11-04T07:01:04",
+  "languages": {
+    "Python": 950151,
+    "HTML": 254847,
+    "JavaScript": 86807,
+    "CSS": 34355,
+    "Shell": 751,
+    "Makefile": 296
+  },
+  "size": 1327207
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "15a1872d3cf1a30608a2e3adcda19f32186c72f1",
+  "repo_url": "https://github.com/sinamics/ztnet",
+  "date": "2026-04-04T18:07:18",
+  "languages": {
+    "TypeScript": 1342891,
+    "Shell": 83568,
+    "JavaScript": 37573,
+    "Go": 24069,
+    "Dockerfile": 4052,
+    "CSS": 1979
+  },
+  "size": 1494132
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "6a1e2c0888b7eae5122cac12ffe174069554c3d3",
+  "repo_url": "https://github.com/osquery/osquery",
+  "date": "2026-10-29T01:09:57",
+  "languages": {
+    "C++": 9483642,
+    "C": 2977915,
+    "CMake": 746739,
+    "Objective-C++": 277313,
+    "Python": 230809,
+    "PowerShell": 47253,
+    "Shell": 30826,
+    "Assembly": 10278,
+    "Roff": 4267,
+    "Thrift": 3263,
+    "Dockerfile": 2665,
+    "Makefile": 1106,
+    "Objective-C": 866
+  },
+  "size": 13816942
+}

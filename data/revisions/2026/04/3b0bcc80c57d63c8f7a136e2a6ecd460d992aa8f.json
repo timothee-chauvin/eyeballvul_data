@@ -1,0 +1,15 @@
+{
+  "commit": "3b0bcc80c57d63c8f7a136e2a6ecd460d992aa8f",
+  "repo_url": "https://github.com/kurrent-io/kurrentdb",
+  "date": "2026-04-29T12:58:34",
+  "languages": {
+    "C#": 14156623,
+    "HTML": 59804,
+    "JavaScript": 22739,
+    "Shell": 6954,
+    "PowerShell": 5961,
+    "Dockerfile": 3113,
+    "CSS": 852
+  },
+  "size": 14256046
+}

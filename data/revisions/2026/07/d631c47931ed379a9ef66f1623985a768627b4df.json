@@ -1,0 +1,22 @@
+{
+  "commit": "d631c47931ed379a9ef66f1623985a768627b4df",
+  "repo_url": "https://github.com/gnmyt/nexterm",
+  "date": "2026-07-19T19:09:14",
+  "languages": {
+    "JavaScript": 2337792,
+    "Sass": 410526,
+    "Dart": 359133,
+    "C": 271810,
+    "Rust": 62784,
+    "Shell": 38874,
+    "CMake": 5571,
+    "HTML": 5331,
+    "Ruby": 1366,
+    "CSS": 1215,
+    "Swift": 824,
+    "Dockerfile": 621,
+    "Kotlin": 117,
+    "Objective-C": 38
+  },
+  "size": 3496002
+}

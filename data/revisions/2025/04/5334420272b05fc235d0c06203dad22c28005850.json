@@ -1,0 +1,15 @@
+{
+  "commit": "5334420272b05fc235d0c06203dad22c28005850",
+  "repo_url": "https://github.com/cern-fts/fts-monitoring",
+  "date": "2025-04-30T12:38:01",
+  "languages": {
+    "JavaScript": 503605,
+    "Python": 146080,
+    "HTML": 89647,
+    "CSS": 7776,
+    "Makefile": 1348,
+    "Shell": 1284,
+    "Dockerfile": 1054
+  },
+  "size": 750794
+}

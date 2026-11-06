@@ -1,0 +1,15 @@
+{
+  "commit": "29e457a0cf4251d681905f0df60832988f2f7559",
+  "repo_url": "https://github.com/francescopace/espectre",
+  "date": "2026-05-21T10:53:54",
+  "languages": {
+    "Python": 996113,
+    "C++": 448563,
+    "HTML": 124858,
+    "Jupyter Notebook": 91280,
+    "C": 23285,
+    "Shell": 7885,
+    "CMake": 302
+  },
+  "size": 1692286
+}

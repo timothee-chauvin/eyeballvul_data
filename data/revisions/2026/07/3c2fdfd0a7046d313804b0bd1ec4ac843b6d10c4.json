@@ -1,0 +1,18 @@
+{
+  "commit": "3c2fdfd0a7046d313804b0bd1ec4ac843b6d10c4",
+  "repo_url": "https://github.com/xerrors/yuxi",
+  "date": "2026-07-15T12:02:40",
+  "languages": {
+    "Python": 3203611,
+    "Vue": 1685109,
+    "JavaScript": 321569,
+    "Less": 20342,
+    "CSS": 20142,
+    "Shell": 17808,
+    "PowerShell": 9789,
+    "HTML": 8607,
+    "Dockerfile": 5320,
+    "Makefile": 1441
+  },
+  "size": 5293738
+}

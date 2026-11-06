@@ -1,0 +1,14 @@
+{
+  "commit": "089dd3972fb1be2c7589d7291c2333b55302480b",
+  "repo_url": "https://github.com/hulaspark/hula-server",
+  "date": "2025-12-12T01:06:42",
+  "languages": {
+    "Java": 5000428,
+    "FreeMarker": 246052,
+    "Shell": 10468,
+    "Dockerfile": 1421,
+    "Lua": 415,
+    "Fluent": 52
+  },
+  "size": 5258836
+}

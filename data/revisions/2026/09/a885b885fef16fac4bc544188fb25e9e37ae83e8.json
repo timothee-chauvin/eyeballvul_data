@@ -1,0 +1,12 @@
+{
+  "commit": "a885b885fef16fac4bc544188fb25e9e37ae83e8",
+  "repo_url": "https://github.com/nvm-sh/nvm",
+  "date": "2026-09-21T02:23:47",
+  "languages": {
+    "Shell": 608738,
+    "Makefile": 6253,
+    "Dockerfile": 3696,
+    "JavaScript": 38
+  },
+  "size": 618725
+}

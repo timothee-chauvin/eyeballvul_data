@@ -1,0 +1,11 @@
+{
+  "commit": "451d066f9cc286d2caec2e29b217fa5927f973a1",
+  "repo_url": "https://github.com/thelia-modules/page",
+  "date": "2026-09-16T10:30:48",
+  "languages": {
+    "PHP": 111993,
+    "Twig": 49033,
+    "HTML": 42432
+  },
+  "size": 203458
+}

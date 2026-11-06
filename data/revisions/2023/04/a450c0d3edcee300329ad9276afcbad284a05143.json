@@ -1,0 +1,14 @@
+{
+  "commit": "a450c0d3edcee300329ad9276afcbad284a05143",
+  "repo_url": "https://github.com/sea-team/gofound",
+  "date": "2023-04-10T05:45:06",
+  "languages": {
+    "Go": 76864,
+    "Vue": 28873,
+    "Shell": 3795,
+    "JavaScript": 2542,
+    "HTML": 1102,
+    "Dockerfile": 488
+  },
+  "size": 113664
+}

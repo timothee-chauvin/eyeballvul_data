@@ -1,0 +1,27 @@
+{
+  "commit": "8aa95c67470a02a8ddedf03c2e52963af33065ff",
+  "repo_url": "https://github.com/immich-app/immich",
+  "date": "2026-07-27T18:20:33",
+  "languages": {
+    "TypeScript": 5579742,
+    "Dart": 3176321,
+    "Svelte": 1395282,
+    "Python": 163230,
+    "Kotlin": 153336,
+    "Swift": 116388,
+    "JavaScript": 28597,
+    "Shell": 16855,
+    "Ruby": 15757,
+    "Dockerfile": 12645,
+    "C++": 10903,
+    "C": 9037,
+    "Java": 6867,
+    "HCL": 5257,
+    "HTML": 4941,
+    "CSS": 4318,
+    "Makefile": 4078,
+    "CMake": 284,
+    "Objective-C": 38
+  },
+  "size": 10703876
+}

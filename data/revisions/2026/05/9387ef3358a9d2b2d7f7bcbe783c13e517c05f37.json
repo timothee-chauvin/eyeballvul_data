@@ -1,0 +1,11 @@
+{
+  "commit": "9387ef3358a9d2b2d7f7bcbe783c13e517c05f37",
+  "repo_url": "https://github.com/sgbett/secp256k1-native",
+  "date": "2026-05-01T02:04:58",
+  "languages": {
+    "Ruby": 96280,
+    "C": 96136,
+    "Makefile": 2124
+  },
+  "size": 194540
+}

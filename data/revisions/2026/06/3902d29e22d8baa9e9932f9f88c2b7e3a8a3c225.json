@@ -1,0 +1,15 @@
+{
+  "commit": "3902d29e22d8baa9e9932f9f88c2b7e3a8a3c225",
+  "repo_url": "https://github.com/mtzanidakis/praktor",
+  "date": "2026-06-20T15:46:07",
+  "languages": {
+    "Go": 415521,
+    "TypeScript": 256776,
+    "HTML": 6150,
+    "Dockerfile": 1677,
+    "JavaScript": 1324,
+    "Makefile": 628,
+    "Shell": 176
+  },
+  "size": 682252
+}

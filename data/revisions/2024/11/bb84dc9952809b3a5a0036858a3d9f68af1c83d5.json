@@ -1,0 +1,16 @@
+{
+  "commit": "bb84dc9952809b3a5a0036858a3d9f68af1c83d5",
+  "repo_url": "https://github.com/openppl/ppl.nn",
+  "date": "2024-11-07T08:30:30",
+  "languages": {
+    "C++": 6725420,
+    "CMake": 51481,
+    "Python": 31078,
+    "Objective-C": 27380,
+    "C": 22377,
+    "Shell": 12456,
+    "Assembly": 2160,
+    "Batchfile": 195
+  },
+  "size": 6872547
+}

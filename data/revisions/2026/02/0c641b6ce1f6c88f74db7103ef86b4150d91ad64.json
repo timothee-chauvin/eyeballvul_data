@@ -1,0 +1,13 @@
+{
+  "commit": "0c641b6ce1f6c88f74db7103ef86b4150d91ad64",
+  "repo_url": "https://github.com/awslabs/amazon-kinesis-producer",
+  "date": "2026-02-10T00:55:13",
+  "languages": {
+    "C++": 448594,
+    "Java": 290230,
+    "CMake": 10149,
+    "Shell": 8244,
+    "Python": 4143
+  },
+  "size": 761360
+}

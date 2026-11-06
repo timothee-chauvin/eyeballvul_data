@@ -1,0 +1,13 @@
+{
+  "commit": "26254ee9de7681f8825433415443e7116ff24b98",
+  "repo_url": "https://github.com/benhoyt/inih",
+  "date": "2025-09-11T20:47:04",
+  "languages": {
+    "C++": 18074,
+    "C": 15024,
+    "Meson": 7724,
+    "Shell": 2866,
+    "Batchfile": 1541
+  },
+  "size": 45229
+}

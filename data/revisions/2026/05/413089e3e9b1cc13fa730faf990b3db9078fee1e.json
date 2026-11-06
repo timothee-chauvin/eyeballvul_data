@@ -1,0 +1,12 @@
+{
+  "commit": "413089e3e9b1cc13fa730faf990b3db9078fee1e",
+  "repo_url": "https://github.com/shopify/shopify_app",
+  "date": "2026-05-22T17:17:41",
+  "languages": {
+    "Ruby": 405429,
+    "HTML": 20030,
+    "JavaScript": 4422,
+    "Shell": 184
+  },
+  "size": 430065
+}

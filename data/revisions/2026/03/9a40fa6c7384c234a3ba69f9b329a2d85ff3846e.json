@@ -1,0 +1,17 @@
+{
+  "commit": "9a40fa6c7384c234a3ba69f9b329a2d85ff3846e",
+  "repo_url": "https://github.com/roostorg/coop",
+  "date": "2026-03-20T01:42:31",
+  "languages": {
+    "TypeScript": 10856378,
+    "PLpgSQL": 146392,
+    "JavaScript": 103071,
+    "CSS": 11805,
+    "Dockerfile": 6831,
+    "Python": 6424,
+    "HTML": 3540,
+    "Shell": 2496,
+    "Smarty": 1742
+  },
+  "size": 11138679
+}

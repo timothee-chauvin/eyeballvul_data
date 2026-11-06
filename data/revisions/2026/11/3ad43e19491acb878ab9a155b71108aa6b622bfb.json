@@ -1,0 +1,17 @@
+{
+  "commit": "3ad43e19491acb878ab9a155b71108aa6b622bfb",
+  "repo_url": "https://github.com/goposta/posta",
+  "date": "2026-11-03T05:32:17",
+  "languages": {
+    "Go": 2517401,
+    "Vue": 1181025,
+    "TypeScript": 134108,
+    "JavaScript": 36012,
+    "CSS": 34854,
+    "Makefile": 2488,
+    "HTML": 2399,
+    "Dockerfile": 2251,
+    "Shell": 1119
+  },
+  "size": 3911657
+}

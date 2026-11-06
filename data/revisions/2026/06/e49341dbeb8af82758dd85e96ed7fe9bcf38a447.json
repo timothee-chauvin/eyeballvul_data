@@ -1,0 +1,15 @@
+{
+  "commit": "e49341dbeb8af82758dd85e96ed7fe9bcf38a447",
+  "repo_url": "https://github.com/awslabs/aidlc-workflows",
+  "date": "2026-06-30T15:01:19",
+  "languages": {
+    "Python": 1930772,
+    "Shell": 199340,
+    "HTML": 83897,
+    "Jinja": 23347,
+    "PowerShell": 20108,
+    "Mermaid": 7389,
+    "Dockerfile": 1988
+  },
+  "size": 2266841
+}

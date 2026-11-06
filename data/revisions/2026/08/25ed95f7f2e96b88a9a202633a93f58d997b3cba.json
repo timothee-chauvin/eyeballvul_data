@@ -1,0 +1,12 @@
+{
+  "commit": "25ed95f7f2e96b88a9a202633a93f58d997b3cba",
+  "repo_url": "https://github.com/zuke-build/zuke",
+  "date": "2026-08-27T08:26:03",
+  "languages": {
+    "TypeScript": 5097490,
+    "Shell": 7899,
+    "PowerShell": 7008,
+    "JavaScript": 452
+  },
+  "size": 5112849
+}

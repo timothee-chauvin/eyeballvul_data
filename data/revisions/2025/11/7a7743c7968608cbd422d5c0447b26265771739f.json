@@ -1,0 +1,16 @@
+{
+  "commit": "7a7743c7968608cbd422d5c0447b26265771739f",
+  "repo_url": "https://github.com/mouse07410/asn1c",
+  "date": "2025-11-27T20:33:02",
+  "languages": {
+    "C": 2457714,
+    "Yacc": 59934,
+    "Makefile": 32351,
+    "M4": 31292,
+    "Shell": 27997,
+    "Lex": 14703,
+    "Perl": 1704,
+    "C++": 308
+  },
+  "size": 2626003
+}

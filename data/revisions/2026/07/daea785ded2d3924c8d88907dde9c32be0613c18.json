@@ -1,0 +1,19 @@
+{
+  "commit": "daea785ded2d3924c8d88907dde9c32be0613c18",
+  "repo_url": "https://github.com/vitali87/code-graph-rag",
+  "date": "2026-07-14T16:53:13",
+  "languages": {
+    "Python": 8812685,
+    "JavaScript": 28468,
+    "Rust": 20646,
+    "C#": 14869,
+    "Java": 12543,
+    "Go": 9016,
+    "Shell": 7612,
+    "Scala": 4967,
+    "Makefile": 3932,
+    "Dockerfile": 1717,
+    "Scheme": 1090
+  },
+  "size": 8917545
+}

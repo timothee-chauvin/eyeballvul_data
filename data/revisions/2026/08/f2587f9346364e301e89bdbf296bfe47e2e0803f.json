@@ -1,0 +1,19 @@
+{
+  "commit": "f2587f9346364e301e89bdbf296bfe47e2e0803f",
+  "repo_url": "https://github.com/aspeer/webdyne",
+  "date": "2026-08-23T15:05:45",
+  "languages": {
+    "Perl": 1048071,
+    "HTML": 45334,
+    "CSS": 5754,
+    "NASL": 4771,
+    "Lua": 3401,
+    "Shell": 3224,
+    "BitBake": 3187,
+    "JavaScript": 2983,
+    "Raku": 998,
+    "XSLT": 728,
+    "Makefile": 323
+  },
+  "size": 1118774
+}

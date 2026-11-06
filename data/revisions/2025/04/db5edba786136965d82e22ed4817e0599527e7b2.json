@@ -1,0 +1,16 @@
+{
+  "commit": "db5edba786136965d82e22ed4817e0599527e7b2",
+  "repo_url": "https://github.com/intel/ipex-llm",
+  "date": "2025-04-16T01:18:46",
+  "languages": {
+    "Python": 7180853,
+    "Shell": 135691,
+    "Dockerfile": 28119,
+    "Lua": 20216,
+    "C++": 15514,
+    "Batchfile": 6570,
+    "PowerShell": 5778,
+    "CMake": 3080
+  },
+  "size": 7395821
+}

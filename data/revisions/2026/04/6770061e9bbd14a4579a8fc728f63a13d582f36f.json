@@ -1,0 +1,20 @@
+{
+  "commit": "6770061e9bbd14a4579a8fc728f63a13d582f36f",
+  "repo_url": "https://github.com/libriscv/libriscv",
+  "date": "2026-04-23T21:24:04",
+  "languages": {
+    "C++": 1317949,
+    "C": 801371,
+    "CMake": 47396,
+    "Shell": 20880,
+    "Assembly": 12241,
+    "Python": 4593,
+    "Zig": 4060,
+    "Go": 2538,
+    "Rust": 1484,
+    "Dockerfile": 873,
+    "Nim": 822,
+    "GDB": 187
+  },
+  "size": 2214394
+}

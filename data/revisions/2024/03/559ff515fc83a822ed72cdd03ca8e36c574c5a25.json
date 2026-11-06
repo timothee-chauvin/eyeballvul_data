@@ -1,0 +1,12 @@
+{
+  "commit": "559ff515fc83a822ed72cdd03ca8e36c574c5a25",
+  "repo_url": "https://github.com/munafio/chatify",
+  "date": "2024-03-17T14:21:38",
+  "languages": {
+    "PHP": 66236,
+    "JavaScript": 59351,
+    "CSS": 29960,
+    "Blade": 17782
+  },
+  "size": 173329
+}

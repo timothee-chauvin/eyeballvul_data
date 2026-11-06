@@ -1,0 +1,24 @@
+{
+  "commit": "20adb3518bab4ac0ab1165df17209b29328a89ce",
+  "repo_url": "https://github.com/madeofpendletonwool/pinepods",
+  "date": "2025-11-04T03:50:31",
+  "languages": {
+    "Rust": 4512164,
+    "Dart": 1604410,
+    "Python": 382781,
+    "Go": 284382,
+    "CSS": 209674,
+    "Shell": 17826,
+    "Java": 4961,
+    "JavaScript": 4760,
+    "Objective-C": 4671,
+    "HCL": 3332,
+    "Ruby": 2989,
+    "HTML": 1637,
+    "Smarty": 1398,
+    "Swift": 725,
+    "Batchfile": 121,
+    "PowerShell": 116
+  },
+  "size": 7035947
+}

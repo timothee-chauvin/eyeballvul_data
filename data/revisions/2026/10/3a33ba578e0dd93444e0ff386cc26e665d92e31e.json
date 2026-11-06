@@ -1,0 +1,10 @@
+{
+  "commit": "3a33ba578e0dd93444e0ff386cc26e665d92e31e",
+  "repo_url": "https://github.com/go-chi/chi",
+  "date": "2026-10-14T13:20:04",
+  "languages": {
+    "Go": 375074,
+    "Makefile": 490
+  },
+  "size": 375564
+}

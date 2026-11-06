@@ -1,0 +1,15 @@
+{
+  "commit": "1d2e9129d65afad72cf7fefc80fd5eb20b5671d9",
+  "repo_url": "https://github.com/padloc/padloc",
+  "date": "2023-12-10T09:16:06",
+  "languages": {
+    "JavaScript": 2413724,
+    "TypeScript": 2029511,
+    "HTML": 131784,
+    "CSS": 10059,
+    "Rust": 3424,
+    "Shell": 2366,
+    "Dockerfile": 1035
+  },
+  "size": 4591903
+}

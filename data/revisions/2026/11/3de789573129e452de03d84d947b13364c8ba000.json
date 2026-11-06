@@ -1,0 +1,11 @@
+{
+  "commit": "3de789573129e452de03d84d947b13364c8ba000",
+  "repo_url": "https://github.com/wppconnect-team/wppconnect-server",
+  "date": "2026-11-01T01:17:07",
+  "languages": {
+    "TypeScript": 486877,
+    "JavaScript": 13137,
+    "Dockerfile": 1551
+  },
+  "size": 501565
+}

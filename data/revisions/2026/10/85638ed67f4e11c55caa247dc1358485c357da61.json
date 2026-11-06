@@ -1,0 +1,17 @@
+{
+  "commit": "85638ed67f4e11c55caa247dc1358485c357da61",
+  "repo_url": "https://github.com/dreeveapp/dreeve",
+  "date": "2026-10-26T13:02:18",
+  "languages": {
+    "PHP": 2694215,
+    "Twig": 844530,
+    "CSS": 292735,
+    "JavaScript": 194216,
+    "Go": 5757,
+    "Dockerfile": 5001,
+    "Makefile": 2971,
+    "HTML": 2847,
+    "Shell": 952
+  },
+  "size": 4043224
+}

@@ -1,0 +1,28 @@
+{
+  "commit": "701f1cb88bf8a39ef590e44e996a1f754cd21b9e",
+  "repo_url": "https://github.com/neuronsimulator/nrn",
+  "date": "2026-10-02T14:08:56",
+  "languages": {
+    "C++": 8515395,
+    "Python": 2920180,
+    "C": 1326234,
+    "CMake": 571904,
+    "AMPL": 228787,
+    "Shell": 143591,
+    "Yacc": 114760,
+    "Cython": 63180,
+    "LLVM": 58472,
+    "Batchfile": 10766,
+    "Dockerfile": 8426,
+    "JavaScript": 8351,
+    "Cuda": 4644,
+    "NASL": 4422,
+    "Lex": 3875,
+    "CSS": 703,
+    "HTML": 635,
+    "AGS Script": 578,
+    "PHP": 111,
+    "sed": 88
+  },
+  "size": 13985102
+}

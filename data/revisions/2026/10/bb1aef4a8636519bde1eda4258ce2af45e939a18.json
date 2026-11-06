@@ -1,0 +1,18 @@
+{
+  "commit": "bb1aef4a8636519bde1eda4258ce2af45e939a18",
+  "repo_url": "https://github.com/redimp/otterwiki",
+  "date": "2026-10-25T13:11:40",
+  "languages": {
+    "Python": 1125296,
+    "JavaScript": 353148,
+    "Jinja": 137236,
+    "HTML": 83768,
+    "CSS": 47022,
+    "Makefile": 5901,
+    "Shell": 5187,
+    "Dockerfile": 4105,
+    "Slim": 2970,
+    "Smarty": 1496
+  },
+  "size": 1766129
+}

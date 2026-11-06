@@ -1,0 +1,16 @@
+{
+  "commit": "0bceb94f0ab726d9c396202f4d8fbedee1dc9cab",
+  "repo_url": "https://github.com/authorizerdev/authorizer",
+  "date": "2026-09-03T11:47:45",
+  "languages": {
+    "Go": 5284202,
+    "TypeScript": 1301128,
+    "Python": 52455,
+    "Makefile": 18965,
+    "Shell": 12445,
+    "JavaScript": 9986,
+    "Dockerfile": 7618,
+    "CSS": 3987
+  },
+  "size": 6690786
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "3aabfc214ab90c9224061df8a9d4f60150516cc3",
+  "repo_url": "https://github.com/oss-apps/split-pro",
+  "date": "2026-10-12T19:22:23",
+  "languages": {
+    "TypeScript": 813473,
+    "PLpgSQL": 8821,
+    "CSS": 5893,
+    "Shell": 4038,
+    "Nix": 3551,
+    "JavaScript": 2674,
+    "Dockerfile": 1534
+  },
+  "size": 839984
+}

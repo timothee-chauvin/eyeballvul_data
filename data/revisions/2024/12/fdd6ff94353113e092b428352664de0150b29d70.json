@@ -1,0 +1,16 @@
+{
+  "commit": "fdd6ff94353113e092b428352664de0150b29d70",
+  "repo_url": "https://github.com/codeskyblue/gohttpserver",
+  "date": "2024-12-04T00:57:52",
+  "languages": {
+    "JavaScript": 107201,
+    "Go": 43137,
+    "CSS": 27938,
+    "HTML": 17131,
+    "Python": 2491,
+    "Shell": 2031,
+    "Dockerfile": 432,
+    "Procfile": 71
+  },
+  "size": 200432
+}

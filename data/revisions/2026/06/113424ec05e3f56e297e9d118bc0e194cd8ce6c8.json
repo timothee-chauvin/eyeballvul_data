@@ -1,0 +1,16 @@
+{
+  "commit": "113424ec05e3f56e297e9d118bc0e194cd8ce6c8",
+  "repo_url": "https://github.com/cloeille/picsou-finance",
+  "date": "2026-06-03T22:05:56",
+  "languages": {
+    "Java": 996611,
+    "TypeScript": 884035,
+    "HTML": 539780,
+    "Python": 37661,
+    "CSS": 8004,
+    "Shell": 5491,
+    "Dockerfile": 4788,
+    "JavaScript": 1328
+  },
+  "size": 2477698
+}

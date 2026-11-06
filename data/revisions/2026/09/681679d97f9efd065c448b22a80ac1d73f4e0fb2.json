@@ -1,0 +1,17 @@
+{
+  "commit": "681679d97f9efd065c448b22a80ac1d73f4e0fb2",
+  "repo_url": "https://github.com/boldgrid/w3-total-cache",
+  "date": "2026-09-03T15:53:45",
+  "languages": {
+    "PHP": 6579604,
+    "JavaScript": 948202,
+    "CSS": 92467,
+    "Shell": 24808,
+    "Java": 14870,
+    "VCL": 1953,
+    "Open Policy Agent": 1174,
+    "Python": 521,
+    "HTML": 235
+  },
+  "size": 7663834
+}

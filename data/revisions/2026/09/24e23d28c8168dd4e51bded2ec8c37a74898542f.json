@@ -1,0 +1,14 @@
+{
+  "commit": "24e23d28c8168dd4e51bded2ec8c37a74898542f",
+  "repo_url": "https://github.com/chainguard-forks/minio",
+  "date": "2026-09-19T08:07:48",
+  "languages": {
+    "Go": 8833420,
+    "Shell": 76056,
+    "Makefile": 11589,
+    "Mustache": 6603,
+    "Dockerfile": 1155,
+    "Smarty": 872
+  },
+  "size": 8929695
+}

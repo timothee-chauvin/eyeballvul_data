@@ -1,0 +1,13 @@
+{
+  "commit": "559e3c607c23d2c72d9bd4f6481bda428255323c",
+  "repo_url": "https://github.com/umami-software/umami",
+  "date": "2026-10-23T08:07:12",
+  "languages": {
+    "TypeScript": 4733392,
+    "JavaScript": 41129,
+    "CSS": 16453,
+    "Dockerfile": 3781,
+    "Shell": 922
+  },
+  "size": 4795677
+}

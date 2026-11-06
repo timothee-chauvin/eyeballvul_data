@@ -1,0 +1,13 @@
+{
+  "commit": "4a8f457a0fd65a96463c0fa9bd0612242c081dc8",
+  "repo_url": "https://github.com/book-readers/ebook-speaker",
+  "date": "2022-02-21T00:15:24",
+  "languages": {
+    "C": 262066,
+    "M4": 199629,
+    "Shell": 128140,
+    "Makefile": 126053,
+    "sed": 370
+  },
+  "size": 716258
+}

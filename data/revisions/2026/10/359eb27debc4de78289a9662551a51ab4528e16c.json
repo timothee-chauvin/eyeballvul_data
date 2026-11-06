@@ -1,0 +1,16 @@
+{
+  "commit": "359eb27debc4de78289a9662551a51ab4528e16c",
+  "repo_url": "https://github.com/diillson/chatcli",
+  "date": "2026-10-10T18:09:51",
+  "languages": {
+    "Go": 16947152,
+    "HTML": 388352,
+    "Python": 200215,
+    "Shell": 72812,
+    "Smarty": 11643,
+    "Makefile": 3608,
+    "Dockerfile": 3364,
+    "Perl": 3003
+  },
+  "size": 17630149
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "dc37677b2e1c63e2034f94d8a5b11f265b73ba33",
+  "repo_url": "https://github.com/pypa/gh-action-pypi-publish",
+  "date": "2026-07-28T18:38:00",
+  "languages": {
+    "Python": 22904,
+    "Shell": 8213,
+    "Dockerfile": 1082
+  },
+  "size": 32199
+}

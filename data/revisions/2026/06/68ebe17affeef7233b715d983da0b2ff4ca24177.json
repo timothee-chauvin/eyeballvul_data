@@ -1,0 +1,13 @@
+{
+  "commit": "68ebe17affeef7233b715d983da0b2ff4ca24177",
+  "repo_url": "https://github.com/osac-project/osac-operator",
+  "date": "2026-06-18T23:00:10",
+  "languages": {
+    "Go": 1277809,
+    "Makefile": 18134,
+    "Python": 2249,
+    "Smarty": 1679,
+    "Dockerfile": 1379
+  },
+  "size": 1301250
+}

@@ -1,0 +1,22 @@
+{
+  "commit": "508f92cd1ea9d6e412a989a26de28d6de411227d",
+  "repo_url": "https://github.com/facebook/hermes",
+  "date": "2020-09-16T00:32:23",
+  "languages": {
+    "C++": 8401922,
+    "JavaScript": 2492425,
+    "C": 351890,
+    "Python": 237425,
+    "Java": 118022,
+    "CMake": 99335,
+    "Shell": 27950,
+    "POV-Ray SDL": 23631,
+    "CSS": 5622,
+    "NASL": 4990,
+    "Ruby": 2792,
+    "Objective-C++": 815,
+    "Objective-C": 301,
+    "D": 226
+  },
+  "size": 11767346
+}

@@ -1,0 +1,10 @@
+{
+  "commit": "d90fb51308acfb962051ef63606d683d1740d55f",
+  "repo_url": "https://github.com/bitcoinjs/bitcoinjs-lib",
+  "date": "2024-12-03T14:05:52",
+  "languages": {
+    "TypeScript": 401883,
+    "JavaScript": 201939
+  },
+  "size": 603822
+}

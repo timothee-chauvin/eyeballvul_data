@@ -1,0 +1,21 @@
+{
+  "commit": "79deb000cc0b47ae49a80c92c78167c02d8a04d8",
+  "repo_url": "https://github.com/vrpn/vrpn",
+  "date": "2025-06-28T20:47:08",
+  "languages": {
+    "C": 3353771,
+    "C++": 1569081,
+    "CMake": 387867,
+    "HTML": 306769,
+    "Java": 221085,
+    "Makefile": 84930,
+    "Perl": 80227,
+    "Shell": 23358,
+    "SWIG": 14861,
+    "Python": 10569,
+    "Lua": 1551,
+    "CSS": 1391,
+    "Batchfile": 650
+  },
+  "size": 6056110
+}

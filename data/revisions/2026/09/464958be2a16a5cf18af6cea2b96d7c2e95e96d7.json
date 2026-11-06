@@ -1,0 +1,22 @@
+{
+  "commit": "464958be2a16a5cf18af6cea2b96d7c2e95e96d7",
+  "repo_url": "https://github.com/juspay/hyperswitch",
+  "date": "2026-09-30T00:51:14",
+  "languages": {
+    "Rust": 40270967,
+    "JavaScript": 8409146,
+    "MDX": 258390,
+    "Shell": 146152,
+    "HTML": 61905,
+    "TypeScript": 46340,
+    "CSS": 34605,
+    "Python": 29940,
+    "Just": 12667,
+    "Smithy": 9106,
+    "Dockerfile": 7148,
+    "Nix": 3868,
+    "Makefile": 2335,
+    "PLpgSQL": 1145
+  },
+  "size": 49293714
+}

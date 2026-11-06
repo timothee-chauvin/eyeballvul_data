@@ -1,0 +1,14 @@
+{
+  "commit": "41d97d376d58b447dce442c0185ade714d0bccb9",
+  "repo_url": "https://github.com/rancher/rancher",
+  "date": "2026-10-28T21:56:26",
+  "languages": {
+    "Go": 14571095,
+    "Shell": 137731,
+    "Dockerfile": 31107,
+    "Mustache": 6525,
+    "Smarty": 1675,
+    "Makefile": 1434
+  },
+  "size": 14749567
+}

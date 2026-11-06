@@ -1,0 +1,16 @@
+{
+  "commit": "57e02372a2542c677bbc3b348f615b7aa9f1d67a",
+  "repo_url": "https://github.com/ag2ai/ag2",
+  "date": "2026-09-24T20:23:07",
+  "languages": {
+    "Python": 6953833,
+    "MDX": 1405134,
+    "HTML": 21117,
+    "JavaScript": 15968,
+    "CSS": 14573,
+    "Jinja": 9400,
+    "Just": 3093,
+    "Shell": 2491
+  },
+  "size": 8425609
+}

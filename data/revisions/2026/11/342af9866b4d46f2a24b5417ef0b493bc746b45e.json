@@ -1,0 +1,21 @@
+{
+  "commit": "342af9866b4d46f2a24b5417ef0b493bc746b45e",
+  "repo_url": "https://github.com/coopcycle/coopcycle-web",
+  "date": "2026-11-02T14:39:28",
+  "languages": {
+    "PHP": 7626012,
+    "JavaScript": 2226437,
+    "Gherkin": 1330518,
+    "TypeScript": 726013,
+    "Twig": 644537,
+    "SCSS": 127584,
+    "CSS": 63140,
+    "Python": 20793,
+    "Dockerfile": 6808,
+    "Makefile": 6378,
+    "Shell": 4720,
+    "HTML": 3307,
+    "Liquid": 1387
+  },
+  "size": 12787634
+}

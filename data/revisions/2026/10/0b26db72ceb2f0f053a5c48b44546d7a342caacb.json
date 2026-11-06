@@ -1,0 +1,17 @@
+{
+  "commit": "0b26db72ceb2f0f053a5c48b44546d7a342caacb",
+  "repo_url": "https://github.com/chaitin/pandawiki",
+  "date": "2026-10-21T03:49:12",
+  "languages": {
+    "TypeScript": 3009693,
+    "Go": 1343058,
+    "CSS": 76584,
+    "JavaScript": 57475,
+    "EJS": 28373,
+    "Makefile": 2994,
+    "HTML": 1960,
+    "Dockerfile": 740,
+    "Shell": 39
+  },
+  "size": 4520916
+}

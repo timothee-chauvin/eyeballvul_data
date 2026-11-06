@@ -1,0 +1,23 @@
+{
+  "commit": "d639cecff728dacdbdd1746b4439c6c9e5132228",
+  "repo_url": "https://github.com/wailsapp/wails",
+  "date": "2026-06-18T16:13:22",
+  "languages": {
+    "Go": 6519365,
+    "HTML": 3985163,
+    "CSS": 390642,
+    "TypeScript": 362987,
+    "JavaScript": 323469,
+    "Objective-C": 307996,
+    "Java": 232297,
+    "NSIS": 151572,
+    "C": 97058,
+    "Shell": 37886,
+    "Svelte": 12177,
+    "PowerShell": 9384,
+    "Vue": 8516,
+    "Batchfile": 6920,
+    "Dockerfile": 1513
+  },
+  "size": 12446945
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "3af1bec1a9161ee8dec29487831f7ac7ade9e189",
+  "repo_url": "https://github.com/hathach/tinyusb",
+  "date": "2025-11-20T02:41:11",
+  "languages": {
+    "C": 12225554,
+    "CMake": 354256,
+    "Makefile": 186057,
+    "Python": 164842,
+    "C++": 68576,
+    "Assembly": 56176,
+    "Shell": 50
+  },
+  "size": 13055511
+}

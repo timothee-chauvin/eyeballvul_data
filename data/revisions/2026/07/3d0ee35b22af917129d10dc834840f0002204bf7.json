@@ -1,0 +1,13 @@
+{
+  "commit": "3d0ee35b22af917129d10dc834840f0002204bf7",
+  "repo_url": "https://github.com/nginx/agent",
+  "date": "2026-07-01T12:02:09",
+  "languages": {
+    "Go": 1970668,
+    "Shell": 46276,
+    "Makefile": 40327,
+    "Dockerfile": 38386,
+    "HTML": 581
+  },
+  "size": 2096238
+}

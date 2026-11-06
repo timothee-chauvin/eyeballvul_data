@@ -1,0 +1,19 @@
+{
+  "commit": "e4f5a87a5570bd61605217e7ceb376636db8eddb",
+  "repo_url": "https://github.com/plausible/analytics",
+  "date": "2026-05-15T09:14:39",
+  "languages": {
+    "Elixir": 6110462,
+    "TypeScript": 555531,
+    "JavaScript": 337343,
+    "HTML": 223630,
+    "PLpgSQL": 78793,
+    "CSS": 12816,
+    "HCL": 8012,
+    "Makefile": 4808,
+    "Shell": 3777,
+    "Dockerfile": 2345,
+    "PHP": 669
+  },
+  "size": 7338186
+}

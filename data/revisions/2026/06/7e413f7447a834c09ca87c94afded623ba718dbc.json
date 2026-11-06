@@ -1,0 +1,14 @@
+{
+  "commit": "7e413f7447a834c09ca87c94afded623ba718dbc",
+  "repo_url": "https://github.com/kubewarden/policies",
+  "date": "2026-06-23T13:28:29",
+  "languages": {
+    "Rust": 847518,
+    "Go": 673818,
+    "Shell": 130288,
+    "Makefile": 10004,
+    "Open Policy Agent": 3936,
+    "Dockerfile": 525
+  },
+  "size": 1666089
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "b42b3d4b86db3a4644622b74565d89495e267277",
+  "repo_url": "https://github.com/drizzletime/foxel",
+  "date": "2026-10-29T03:47:56",
+  "languages": {
+    "Python": 1303154,
+    "TypeScript": 805802,
+    "CSS": 46529,
+    "Shell": 15683,
+    "HTML": 6571,
+    "Dockerfile": 1738,
+    "JavaScript": 1005
+  },
+  "size": 2180482
+}

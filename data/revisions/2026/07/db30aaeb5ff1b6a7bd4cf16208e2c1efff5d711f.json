@@ -1,0 +1,13 @@
+{
+  "commit": "db30aaeb5ff1b6a7bd4cf16208e2c1efff5d711f",
+  "repo_url": "https://github.com/christianhelle/refitter",
+  "date": "2026-07-05T10:19:31",
+  "languages": {
+    "C#": 2061908,
+    "PowerShell": 36518,
+    "Shell": 2277,
+    "Makefile": 429,
+    "Liquid": 35
+  },
+  "size": 2101167
+}

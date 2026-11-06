@@ -1,0 +1,13 @@
+{
+  "commit": "0b5ebfd3dbcd2d3647dc777e8de9cbe0692b7950",
+  "repo_url": "https://github.com/texlyre/texlyre",
+  "date": "2026-09-30T17:38:04",
+  "languages": {
+    "TypeScript": 4642741,
+    "JavaScript": 580122,
+    "CSS": 316904,
+    "Typst": 23079,
+    "HTML": 3663
+  },
+  "size": 5566509
+}

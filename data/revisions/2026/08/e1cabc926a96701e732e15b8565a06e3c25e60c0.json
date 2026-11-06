@@ -1,0 +1,11 @@
+{
+  "commit": "e1cabc926a96701e732e15b8565a06e3c25e60c0",
+  "repo_url": "https://github.com/thelia/core",
+  "date": "2026-08-31T18:07:27",
+  "languages": {
+    "PHP": 5540752,
+    "Twig": 2623,
+    "Smarty": 1018
+  },
+  "size": 5544393
+}

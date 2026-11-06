@@ -1,0 +1,14 @@
+{
+  "commit": "68afbf78904de5bb3ae2522153189824e02e4270",
+  "repo_url": "https://github.com/getdokan/wepos",
+  "date": "2026-09-24T11:08:43",
+  "languages": {
+    "TypeScript": 835007,
+    "PHP": 325423,
+    "Vue": 210151,
+    "JavaScript": 51296,
+    "CSS": 31134,
+    "Less": 28710
+  },
+  "size": 1481721
+}

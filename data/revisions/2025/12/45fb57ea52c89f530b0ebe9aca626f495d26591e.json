@@ -1,0 +1,24 @@
+{
+  "commit": "45fb57ea52c89f530b0ebe9aca626f495d26591e",
+  "repo_url": "https://github.com/esa/asn1scc",
+  "date": "2025-12-13T17:06:38",
+  "languages": {
+    "F#": 2350156,
+    "Ada": 907706,
+    "C": 442487,
+    "Scala": 410980,
+    "HTML": 310109,
+    "Python": 158839,
+    "C#": 139229,
+    "GAP": 39141,
+    "CSS": 32556,
+    "QMake": 30826,
+    "Shell": 29015,
+    "Makefile": 17966,
+    "CMake": 10496,
+    "Vim Script": 3336,
+    "Dockerfile": 2351,
+    "TypeScript": 2206
+  },
+  "size": 4887399
+}

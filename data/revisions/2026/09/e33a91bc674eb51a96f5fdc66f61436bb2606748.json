@@ -1,0 +1,17 @@
+{
+  "commit": "e33a91bc674eb51a96f5fdc66f61436bb2606748",
+  "repo_url": "https://github.com/presenton/presenton",
+  "date": "2026-09-21T09:35:40",
+  "languages": {
+    "TypeScript": 4173910,
+    "Python": 3088419,
+    "JavaScript": 254333,
+    "CSS": 116863,
+    "Dockerfile": 6367,
+    "Shell": 5405,
+    "Mako": 651,
+    "HTML": 380,
+    "NSIS": 161
+  },
+  "size": 7646489
+}

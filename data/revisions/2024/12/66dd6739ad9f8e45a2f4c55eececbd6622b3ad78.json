@@ -1,0 +1,15 @@
+{
+  "commit": "66dd6739ad9f8e45a2f4c55eececbd6622b3ad78",
+  "repo_url": "https://github.com/intel/intel-extension-for-tensorflow",
+  "date": "2024-12-18T04:46:53",
+  "languages": {
+    "C++": 10219473,
+    "Python": 5349452,
+    "Starlark": 228661,
+    "C": 65385,
+    "Shell": 27291,
+    "Dockerfile": 13170,
+    "Smarty": 1134
+  },
+  "size": 15904566
+}

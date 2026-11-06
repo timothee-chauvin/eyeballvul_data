@@ -1,0 +1,13 @@
+{
+  "commit": "ec5b615dc1d8a9ce490340d6efd68d2ffd273d1a",
+  "repo_url": "https://github.com/koxudaxi/fastapi-code-generator",
+  "date": "2026-06-26T15:18:40",
+  "languages": {
+    "Python": 263709,
+    "Jinja": 7639,
+    "Shell": 529,
+    "HTML": 290,
+    "Batchfile": 240
+  },
+  "size": 272407
+}

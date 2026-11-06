@@ -1,0 +1,24 @@
+{
+  "commit": "77d5f8ff550b178561f73c030252b0cc826cff8b",
+  "repo_url": "https://github.com/infonl/dimpact-zaakafhandelcomponent",
+  "date": "2026-06-15T15:00:49",
+  "languages": {
+    "Kotlin": 4546258,
+    "TypeScript": 2633486,
+    "HTML": 639308,
+    "Java": 420654,
+    "Python": 72950,
+    "Less": 63911,
+    "Open Policy Agent": 63413,
+    "JavaScript": 47686,
+    "Shell": 44594,
+    "Mustache": 15703,
+    "Gherkin": 12116,
+    "Smarty": 10721,
+    "jq": 2699,
+    "Dockerfile": 1969,
+    "Batchfile": 1792,
+    "Rich Text Format": 137
+  },
+  "size": 8577397
+}

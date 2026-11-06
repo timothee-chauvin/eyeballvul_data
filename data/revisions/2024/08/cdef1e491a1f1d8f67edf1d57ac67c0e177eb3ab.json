@@ -1,0 +1,13 @@
+{
+  "commit": "cdef1e491a1f1d8f67edf1d57ac67c0e177eb3ab",
+  "repo_url": "https://github.com/intel/ai-containers",
+  "date": "2024-08-20T16:25:13",
+  "languages": {
+    "Python": 235000,
+    "Jupyter Notebook": 137918,
+    "Dockerfile": 48006,
+    "Shell": 26577,
+    "Smarty": 1812
+  },
+  "size": 449313
+}

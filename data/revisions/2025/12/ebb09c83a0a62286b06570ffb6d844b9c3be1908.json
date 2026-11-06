@@ -1,0 +1,16 @@
+{
+  "commit": "ebb09c83a0a62286b06570ffb6d844b9c3be1908",
+  "repo_url": "https://github.com/autodesk/arnold-usd",
+  "date": "2025-12-02T14:20:05",
+  "languages": {
+    "Python": 3299694,
+    "C++": 1771881,
+    "CMake": 109689,
+    "Shell": 15656,
+    "C": 15432,
+    "Batchfile": 3530,
+    "Makefile": 1091,
+    "Awk": 915
+  },
+  "size": 5217888
+}

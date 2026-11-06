@@ -1,0 +1,17 @@
+{
+  "commit": "73fdd9e19cb609573f9cd8ed195cd9abaeb24f8a",
+  "repo_url": "https://github.com/thechangelog/changelog.com",
+  "date": "2026-01-08T19:51:13",
+  "languages": {
+    "Elixir": 1170318,
+    "HTML": 714460,
+    "SCSS": 163048,
+    "JavaScript": 111539,
+    "Go": 25799,
+    "CSS": 22599,
+    "Just": 10823,
+    "Handlebars": 9016,
+    "Sass": 5283
+  },
+  "size": 2232885
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "be85e8b53dc38536bcf9f801edaf16780c857f2c",
+  "repo_url": "https://github.com/pipeshub-ai/pipeshub-ai",
+  "date": "2026-09-28T16:36:24",
+  "languages": {
+    "Python": 63082683,
+    "TypeScript": 17242683,
+    "Shell": 448154,
+    "HTML": 116783,
+    "Makefile": 51581,
+    "JavaScript": 47442,
+    "Handlebars": 38527,
+    "CSS": 35619,
+    "Dockerfile": 22391,
+    "Smarty": 18693
+  },
+  "size": 81104556
+}

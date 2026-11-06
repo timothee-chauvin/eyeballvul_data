@@ -1,0 +1,14 @@
+{
+  "commit": "d9b599a1fdf105187156b9baad1b3737c093a46a",
+  "repo_url": "https://github.com/sharpemu/sharpemu",
+  "date": "2026-08-17T21:19:31",
+  "languages": {
+    "C#": 7171434,
+    "Python": 79997,
+    "JavaScript": 24544,
+    "CSS": 22410,
+    "HTML": 12738,
+    "Shell": 4274
+  },
+  "size": 7315397
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "4f3a7cf91d6b6c86e9a603b049e3fcea648faca1",
+  "repo_url": "https://github.com/germondai/trawl",
+  "date": "2026-10-24T14:20:49",
+  "languages": {
+    "TypeScript": 1553401,
+    "Vue": 95972,
+    "Python": 17492,
+    "Dockerfile": 11361,
+    "Shell": 2694
+  },
+  "size": 1680920
+}

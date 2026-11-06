@@ -1,0 +1,15 @@
+{
+  "commit": "9ebc47a8f0e92716c3ec5bf16f793b1f9adcc4f7",
+  "repo_url": "https://github.com/basecamp/once-campfire",
+  "date": "2026-07-06T08:09:20",
+  "languages": {
+    "Ruby": 264477,
+    "HTML": 145477,
+    "JavaScript": 108076,
+    "CSS": 72513,
+    "Shell": 3178,
+    "Dockerfile": 2357,
+    "Procfile": 141
+  },
+  "size": 596219
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "69d1042ba23190cba7358dbc20cbed90dd6ec4d2",
+  "repo_url": "https://github.com/altair-graphql/altair",
+  "date": "2026-06-06T08:40:15",
+  "languages": {
+    "TypeScript": 2199952,
+    "Vue": 224416,
+    "HTML": 193527,
+    "CSS": 97602,
+    "SCSS": 84872,
+    "JavaScript": 51608,
+    "Less": 15978,
+    "Shell": 10452,
+    "Dockerfile": 2565,
+    "Rust": 2556,
+    "PowerShell": 769
+  },
+  "size": 2884297
+}

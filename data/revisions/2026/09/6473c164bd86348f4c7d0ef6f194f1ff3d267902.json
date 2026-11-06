@@ -1,0 +1,12 @@
+{
+  "commit": "6473c164bd86348f4c7d0ef6f194f1ff3d267902",
+  "repo_url": "https://github.com/thelia-templates/default-twig",
+  "date": "2026-09-16T09:42:27",
+  "languages": {
+    "PHP": 3944433,
+    "Twig": 1077343,
+    "JavaScript": 192817,
+    "SCSS": 68579
+  },
+  "size": 5283172
+}

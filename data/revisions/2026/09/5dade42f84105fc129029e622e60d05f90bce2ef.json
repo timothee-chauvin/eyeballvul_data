@@ -1,0 +1,11 @@
+{
+  "commit": "5dade42f84105fc129029e622e60d05f90bce2ef",
+  "repo_url": "https://gitlab.com/deguest/datetime-lite",
+  "date": "2026-09-08T09:32:32",
+  "languages": {
+    "Perl": 731507,
+    "C": 28560,
+    "XS": 17914
+  },
+  "size": 777981
+}

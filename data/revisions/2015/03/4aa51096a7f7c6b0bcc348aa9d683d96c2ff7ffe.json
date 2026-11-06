@@ -1,0 +1,20 @@
+{
+  "commit": "4aa51096a7f7c6b0bcc348aa9d683d96c2ff7ffe",
+  "repo_url": "https://github.com/blender/blender",
+  "date": "2015-03-11T15:49:46",
+  "languages": {
+    "C": 34983342,
+    "C++": 21762827,
+    "Python": 3236636,
+    "CMake": 605387,
+    "Shell": 137298,
+    "Objective-C++": 124452,
+    "GLSL": 87461,
+    "Roff": 78736,
+    "Objective-C": 53288,
+    "Makefile": 16376,
+    "NSIS": 8333,
+    "Cuda": 6099
+  },
+  "size": 61100235
+}

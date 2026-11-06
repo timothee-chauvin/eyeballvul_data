@@ -1,0 +1,14 @@
+{
+  "commit": "25b8b7b0984dae3f64b690750eaa8a8daf7af752",
+  "repo_url": "https://github.com/getlago/lago-api",
+  "date": "2026-10-07T15:39:09",
+  "languages": {
+    "Ruby": 20851264,
+    "Slim": 320411,
+    "Shell": 17974,
+    "HTML": 2715,
+    "Dockerfile": 2625,
+    "JavaScript": 79
+  },
+  "size": 21195068
+}

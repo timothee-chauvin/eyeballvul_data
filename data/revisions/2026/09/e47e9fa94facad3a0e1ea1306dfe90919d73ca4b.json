@@ -1,0 +1,17 @@
+{
+  "commit": "e47e9fa94facad3a0e1ea1306dfe90919d73ca4b",
+  "repo_url": "https://github.com/aozorae/edgechat",
+  "date": "2026-09-08T14:46:35",
+  "languages": {
+    "JavaScript": 661522,
+    "Kotlin": 285836,
+    "Vue": 257017,
+    "CSS": 119822,
+    "TypeScript": 46025,
+    "HTML": 22357,
+    "Java": 8643,
+    "Shell": 2652,
+    "Dockerfile": 246
+  },
+  "size": 1404120
+}

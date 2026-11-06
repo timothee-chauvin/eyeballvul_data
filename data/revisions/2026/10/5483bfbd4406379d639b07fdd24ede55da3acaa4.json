@@ -1,0 +1,11 @@
+{
+  "commit": "5483bfbd4406379d639b07fdd24ede55da3acaa4",
+  "repo_url": "https://github.com/cgohlke/imagecodecs",
+  "date": "2026-10-09T22:45:38",
+  "languages": {
+    "Cython": 1916058,
+    "Python": 921193,
+    "C": 96229
+  },
+  "size": 2933480
+}
