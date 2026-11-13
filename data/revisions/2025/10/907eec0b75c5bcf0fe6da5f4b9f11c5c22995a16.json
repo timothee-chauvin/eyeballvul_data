@@ -1,0 +1,25 @@
+{
+  "commit": "907eec0b75c5bcf0fe6da5f4b9f11c5c22995a16",
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "date": "2025-10-09T09:14:48",
+  "languages": {
+    "OCaml": 18512093,
+    "C": 2481990,
+    "Assembly": 271772,
+    "Makefile": 234497,
+    "Shell": 188037,
+    "M4": 124936,
+    "TeX": 66174,
+    "Python": 52932,
+    "SCSS": 29171,
+    "JavaScript": 14924,
+    "Awk": 14700,
+    "Batchfile": 7410,
+    "Perl": 2869,
+    "CSS": 2633,
+    "HTML": 1427,
+    "Fortran": 460,
+    "C#": 257
+  },
+  "size": 22006282
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "876b0558ce2d6faa899080814ad2e80df0da7c8d",
+  "repo_url": "https://github.com/sap/astonish",
+  "date": "2026-08-20T04:16:54",
+  "languages": {
+    "Go": 12409400,
+    "TypeScript": 2937837,
+    "CSS": 47453,
+    "Makefile": 41844,
+    "JavaScript": 29612,
+    "Dockerfile": 28453,
+    "Shell": 27383,
+    "Smarty": 9485,
+    "Scheme": 2220,
+    "HTML": 758
+  },
+  "size": 15534445
+}

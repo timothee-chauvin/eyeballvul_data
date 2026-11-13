@@ -1,0 +1,11 @@
+{
+  "commit": "67baffd56038bc1ed6b473f865cc36b32bf865a4",
+  "repo_url": "https://github.com/akaunting/akaunting",
+  "date": "2026-10-27T16:04:09",
+  "languages": {
+    "PHP": 8821567,
+    "Blade": 1345570,
+    "Vue": 668313
+  },
+  "size": 10835450
+}

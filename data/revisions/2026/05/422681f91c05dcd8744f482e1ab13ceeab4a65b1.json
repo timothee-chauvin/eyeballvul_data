@@ -1,0 +1,18 @@
+{
+  "commit": "422681f91c05dcd8744f482e1ab13ceeab4a65b1",
+  "repo_url": "https://github.com/tracecathq/tracecat",
+  "date": "2026-05-21T15:02:36",
+  "languages": {
+    "Python": 13909942,
+    "TypeScript": 6672234,
+    "HCL": 195963,
+    "SCSS": 98231,
+    "Shell": 89215,
+    "Dockerfile": 15174,
+    "JavaScript": 10979,
+    "Just": 3313,
+    "CSS": 1217,
+    "Mako": 664
+  },
+  "size": 20996932
+}

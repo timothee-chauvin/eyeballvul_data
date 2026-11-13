@@ -1,0 +1,11 @@
+{
+  "commit": "9723dafc3eea6e1593fae591ba272c863c0d275f",
+  "repo_url": "https://github.com/demerphq/data-dump-streamer",
+  "date": "2023-01-27T06:06:28",
+  "languages": {
+    "Perl": 275047,
+    "XS": 24731,
+    "Raku": 3754
+  },
+  "size": 303532
+}

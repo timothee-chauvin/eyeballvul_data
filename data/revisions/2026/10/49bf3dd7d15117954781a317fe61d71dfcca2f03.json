@@ -1,0 +1,15 @@
+{
+  "commit": "49bf3dd7d15117954781a317fe61d71dfcca2f03",
+  "repo_url": "https://github.com/asternic/wuzapi",
+  "date": "2026-10-26T14:20:30",
+  "languages": {
+    "Go": 834460,
+    "HTML": 242814,
+    "JavaScript": 208553,
+    "CSS": 91543,
+    "Svelte": 61299,
+    "Python": 3317,
+    "Dockerfile": 1263
+  },
+  "size": 1443249
+}

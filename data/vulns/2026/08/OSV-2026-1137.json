@@ -1,0 +1,12 @@
+{
+  "id": "OSV-2026-1137",
+  "published": "2026-08-11T00:24:04.849201",
+  "modified": "2026-11-10T12:30:03.282459",
+  "details": "OSS-Fuzz report: https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=544518841\n\n```\nCrash type: Invalid-free\nCrash state:\nglslang::TPpContext::~TPpContext\nglslang::TShader::preprocess\nshaderc_util::Compiler::PreprocessShader\n```\n",
+  "summary": "Invalid-free in glslang::TPpContext::~TPpContext",
+  "repo_url": "https://github.com/google/shaderc",
+  "cwes": [],
+  "commits": [
+    "b64fd42c4a2a9d501c47aca5d3571f7673a5e9cc"
+  ]
+}

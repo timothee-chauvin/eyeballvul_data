@@ -1,0 +1,17 @@
+{
+  "commit": "5e6ad8c6c4334852fc5efe24c5cd3d8f31ff592d",
+  "repo_url": "https://github.com/cilium/tetragon",
+  "date": "2026-02-20T06:47:23",
+  "languages": {
+    "C": 7439507,
+    "Go": 3588997,
+    "C++": 51471,
+    "Shell": 44469,
+    "Makefile": 40440,
+    "Smarty": 10493,
+    "Python": 9657,
+    "Dockerfile": 6704,
+    "PowerShell": 2360
+  },
+  "size": 11194098
+}

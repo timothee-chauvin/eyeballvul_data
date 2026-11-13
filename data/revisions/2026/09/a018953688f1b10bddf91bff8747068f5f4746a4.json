@@ -1,0 +1,25 @@
+{
+  "commit": "a018953688f1b10bddf91bff8747068f5f4746a4",
+  "repo_url": "https://gitlab.com/git-scm/git",
+  "date": "2026-09-28T04:20:04",
+  "languages": {
+    "C": 12188320,
+    "Shell": 9543188,
+    "Perl": 1047032,
+    "Tcl": 844021,
+    "Python": 185320,
+    "Makefile": 172577,
+    "Meson": 143373,
+    "Rust": 60680,
+    "CMake": 49960,
+    "JavaScript": 49713,
+    "M4": 38763,
+    "Roff": 26859,
+    "C++": 19633,
+    "SmPL": 17526,
+    "CSS": 11731,
+    "Batchfile": 9822,
+    "PowerShell": 2530
+  },
+  "size": 24411048
+}

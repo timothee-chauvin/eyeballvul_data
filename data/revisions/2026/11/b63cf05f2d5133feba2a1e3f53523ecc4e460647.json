@@ -1,0 +1,14 @@
+{
+  "commit": "b63cf05f2d5133feba2a1e3f53523ecc4e460647",
+  "repo_url": "https://github.com/parabolinc/parabol",
+  "date": "2026-11-10T02:33:47",
+  "languages": {
+    "TypeScript": 12379284,
+    "JavaScript": 74987,
+    "CSS": 74006,
+    "HTML": 6563,
+    "Shell": 3857,
+    "Dockerfile": 639
+  },
+  "size": 12539336
+}

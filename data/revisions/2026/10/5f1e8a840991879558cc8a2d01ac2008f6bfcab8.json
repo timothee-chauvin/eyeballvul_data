@@ -1,0 +1,14 @@
+{
+  "commit": "5f1e8a840991879558cc8a2d01ac2008f6bfcab8",
+  "repo_url": "https://github.com/harnessrouter/harnessrouter",
+  "date": "2026-10-06T19:44:04",
+  "languages": {
+    "Python": 4170904,
+    "TypeScript": 851915,
+    "CSS": 557879,
+    "JavaScript": 105806,
+    "Shell": 95515,
+    "Dockerfile": 12365
+  },
+  "size": 5794384
+}

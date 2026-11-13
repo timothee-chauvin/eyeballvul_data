@@ -1,0 +1,12 @@
+{
+  "commit": "6715f99ac106b6d4587f384a78c59fe957cfd2a3",
+  "repo_url": "https://github.com/thorvg/thorvg",
+  "date": "2026-01-27T14:46:12",
+  "languages": {
+    "C++": 7741694,
+    "C": 1393785,
+    "Meson": 36946,
+    "Python": 1355
+  },
+  "size": 9173780
+}

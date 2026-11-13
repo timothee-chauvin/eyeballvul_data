@@ -1,0 +1,15 @@
+{
+  "commit": "56c34891389e16459453d489917e7820955362ab",
+  "repo_url": "https://github.com/elixir-grpc/grpc",
+  "date": "2026-07-27T16:25:07",
+  "languages": {
+    "Elixir": 988382,
+    "Erlang": 13960,
+    "C": 1948,
+    "Makefile": 857,
+    "HTML": 681,
+    "Shell": 515,
+    "Dockerfile": 249
+  },
+  "size": 1006592
+}

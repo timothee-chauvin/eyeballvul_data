@@ -1,0 +1,13 @@
+{
+  "commit": "036e887156610728907dd3bde7c0a2052debd3db",
+  "repo_url": "https://github.com/pgedge/control-plane",
+  "date": "2025-08-19T19:33:27",
+  "languages": {
+    "Go": 980156,
+    "Makefile": 10015,
+    "HCL": 1888,
+    "Dockerfile": 1517,
+    "Shell": 536
+  },
+  "size": 994112
+}

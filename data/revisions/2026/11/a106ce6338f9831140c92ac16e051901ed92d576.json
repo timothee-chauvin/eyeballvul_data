@@ -1,0 +1,25 @@
+{
+  "commit": "a106ce6338f9831140c92ac16e051901ed92d576",
+  "repo_url": "https://github.com/trailbaseio/trailbase",
+  "date": "2026-11-03T10:16:00",
+  "languages": {
+    "Rust": 2091391,
+    "TypeScript": 1263541,
+    "C#": 75520,
+    "Dart": 60055,
+    "Kotlin": 47592,
+    "Python": 43614,
+    "Swift": 42562,
+    "Go": 40402,
+    "Astro": 27917,
+    "JavaScript": 27520,
+    "Shell": 14129,
+    "PowerShell": 13916,
+    "CSS": 13830,
+    "Makefile": 5650,
+    "PLpgSQL": 4225,
+    "Dockerfile": 4149,
+    "HTML": 2103
+  },
+  "size": 3778116
+}

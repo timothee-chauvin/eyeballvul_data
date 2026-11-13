@@ -1,0 +1,28 @@
+{
+  "commit": "c66d34ca5da905c3493953addc9a54c4ac5637ef",
+  "repo_url": "https://github.com/snowflakedb/drivers",
+  "date": "2026-11-02T09:51:07",
+  "languages": {
+    "C++": 17685831,
+    "Rust": 11338343,
+    "Python": 3930085,
+    "Java": 3221439,
+    "C": 2151886,
+    "TypeScript": 1035036,
+    "JavaScript": 643232,
+    "C#": 525124,
+    "Gherkin": 337894,
+    "Shell": 156120,
+    "CMake": 43814,
+    "PowerShell": 39151,
+    "CSS": 15157,
+    "Dockerfile": 7605,
+    "Cython": 6221,
+    "Groovy": 5123,
+    "Lua": 3589,
+    "Batchfile": 2580,
+    "Nix": 685,
+    "Go": 68
+  },
+  "size": 41148983
+}

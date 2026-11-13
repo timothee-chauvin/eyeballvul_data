@@ -1,0 +1,12 @@
+{
+  "commit": "4c84273155359ebb305accc39f74ab683eaaadf5",
+  "repo_url": "https://github.com/turboderp-org/exllamav3",
+  "date": "2026-10-14T19:51:43",
+  "languages": {
+    "Python": 5553108,
+    "Cuda": 1769191,
+    "C++": 634365,
+    "C": 2646
+  },
+  "size": 7959310
+}

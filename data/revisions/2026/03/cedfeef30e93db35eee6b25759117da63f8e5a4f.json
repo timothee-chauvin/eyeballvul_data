@@ -1,0 +1,15 @@
+{
+  "commit": "cedfeef30e93db35eee6b25759117da63f8e5a4f",
+  "repo_url": "https://github.com/libsdl-org/sdl_mixer",
+  "date": "2026-03-09T14:18:57",
+  "languages": {
+    "C": 8422611,
+    "C++": 450031,
+    "Perl": 169054,
+    "CMake": 156760,
+    "Python": 108659,
+    "Shell": 20274,
+    "Makefile": 8293
+  },
+  "size": 9335682
+}

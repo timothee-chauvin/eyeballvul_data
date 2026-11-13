@@ -1,0 +1,18 @@
+{
+  "commit": "fa7be5dcb46e0ebc61da4a8dae50b2ff003670ee",
+  "repo_url": "https://github.com/frab/frab",
+  "date": "2024-04-11T13:37:25",
+  "languages": {
+    "Ruby": 540890,
+    "Haml": 190639,
+    "HTML": 14401,
+    "CSS": 12655,
+    "SCSS": 5706,
+    "CoffeeScript": 3905,
+    "JavaScript": 3552,
+    "Dockerfile": 848,
+    "Shell": 556,
+    "Procfile": 52
+  },
+  "size": 773204
+}

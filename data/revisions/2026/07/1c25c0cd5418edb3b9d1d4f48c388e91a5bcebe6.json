@@ -1,0 +1,17 @@
+{
+  "commit": "1c25c0cd5418edb3b9d1d4f48c388e91a5bcebe6",
+  "repo_url": "https://github.com/ddev/ddev",
+  "date": "2026-07-06T19:09:52",
+  "languages": {
+    "Go": 3023919,
+    "Shell": 355273,
+    "PHP": 277428,
+    "NSIS": 101026,
+    "Dockerfile": 40192,
+    "Makefile": 34740,
+    "PowerShell": 15203,
+    "C": 2486,
+    "Batchfile": 510
+  },
+  "size": 3850777
+}

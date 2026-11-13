@@ -1,0 +1,14 @@
+{
+  "commit": "c20d5d35b1a5f4be2df4a5a33b031eb737cd89c9",
+  "repo_url": "https://github.com/ohif/viewers",
+  "date": "2026-09-03T16:53:42",
+  "languages": {
+    "TypeScript": 4455862,
+    "JavaScript": 1238659,
+    "CSS": 54790,
+    "HTML": 29686,
+    "Shell": 7972,
+    "Dockerfile": 3479
+  },
+  "size": 5790448
+}

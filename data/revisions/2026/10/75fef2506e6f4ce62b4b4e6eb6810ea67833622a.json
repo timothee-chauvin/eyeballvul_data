@@ -1,0 +1,15 @@
+{
+  "commit": "75fef2506e6f4ce62b4b4e6eb6810ea67833622a",
+  "repo_url": "https://github.com/octoprint/octoprint",
+  "date": "2026-10-07T09:17:14",
+  "languages": {
+    "Python": 3469126,
+    "JavaScript": 1905123,
+    "G-code": 1651044,
+    "Jinja": 612118,
+    "Less": 56115,
+    "HTML": 50972,
+    "CSS": 7394
+  },
+  "size": 7751892
+}

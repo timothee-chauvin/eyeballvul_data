@@ -1,0 +1,19 @@
+{
+  "commit": "44b89296d241eea40c534232b0f735395327d9cb",
+  "repo_url": "https://github.com/dbeaver/cloudbeaver",
+  "date": "2025-12-29T17:38:06",
+  "languages": {
+    "TypeScript": 5418350,
+    "Java": 2020025,
+    "CSS": 285198,
+    "SCSS": 39587,
+    "JavaScript": 21493,
+    "HTML": 14518,
+    "MDX": 11071,
+    "EJS": 10601,
+    "Shell": 5285,
+    "Batchfile": 3805,
+    "Dockerfile": 2541
+  },
+  "size": 7832474
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "6d863fecf2489bbb8e6239936849a594bef489f1",
+  "repo_url": "https://github.com/fsinfuhh/bitpoll",
+  "date": "2026-05-22T21:30:39",
+  "languages": {
+    "Python": 209542,
+    "HTML": 193813,
+    "CSS": 33107,
+    "SCSS": 28545,
+    "JavaScript": 24462,
+    "CoffeeScript": 5428,
+    "Dockerfile": 2098,
+    "Shell": 1678
+  },
+  "size": 498673
+}

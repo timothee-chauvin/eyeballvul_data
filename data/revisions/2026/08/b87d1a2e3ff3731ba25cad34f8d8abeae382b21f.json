@@ -1,0 +1,24 @@
+{
+  "commit": "b87d1a2e3ff3731ba25cad34f8d8abeae382b21f",
+  "repo_url": "https://github.com/effekseer/effekseer",
+  "date": "2026-08-07T08:01:12",
+  "languages": {
+    "C": 5824740,
+    "C++": 4553515,
+    "C#": 2038720,
+    "HLSL": 1162910,
+    "WGSL": 302742,
+    "GLSL": 229740,
+    "CMake": 132036,
+    "Python": 110108,
+    "Batchfile": 21385,
+    "Objective-C++": 17280,
+    "JavaScript": 16217,
+    "SWIG": 14716,
+    "Shell": 6550,
+    "HTML": 2753,
+    "Objective-C": 2003,
+    "Dockerfile": 1075
+  },
+  "size": 14436490
+}

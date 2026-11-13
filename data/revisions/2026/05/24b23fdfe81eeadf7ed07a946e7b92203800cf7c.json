@@ -1,0 +1,14 @@
+{
+  "commit": "24b23fdfe81eeadf7ed07a946e7b92203800cf7c",
+  "repo_url": "https://github.com/nuxt/ui",
+  "date": "2026-05-21T14:25:00",
+  "languages": {
+    "Vue": 1220342,
+    "TypeScript": 1164728,
+    "JavaScript": 19527,
+    "CSS": 11016,
+    "HTML": 1066,
+    "Shell": 627
+  },
+  "size": 2417306
+}

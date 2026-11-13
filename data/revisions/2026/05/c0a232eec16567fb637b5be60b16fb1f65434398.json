@@ -1,0 +1,16 @@
+{
+  "commit": "c0a232eec16567fb637b5be60b16fb1f65434398",
+  "repo_url": "https://github.com/eclipse-csi/otterdog",
+  "date": "2026-05-06T16:16:46",
+  "languages": {
+    "Python": 1291994,
+    "HTML": 147260,
+    "Shell": 6926,
+    "JavaScript": 5117,
+    "Jsonnet": 3851,
+    "Makefile": 3095,
+    "Dockerfile": 2036,
+    "CSS": 232
+  },
+  "size": 1460511
+}

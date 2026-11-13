@@ -1,0 +1,17 @@
+{
+  "commit": "c12e3f246eff40fcdccae521efca0824ecef2836",
+  "repo_url": "https://github.com/tjake/jlama",
+  "date": "2025-01-01T19:19:57",
+  "languages": {
+    "Java": 940612,
+    "C": 61855,
+    "JavaScript": 8246,
+    "HTML": 7288,
+    "Shell": 4917,
+    "Dockerfile": 2452,
+    "Makefile": 1472,
+    "CSS": 1194,
+    "Batchfile": 494
+  },
+  "size": 1028530
+}

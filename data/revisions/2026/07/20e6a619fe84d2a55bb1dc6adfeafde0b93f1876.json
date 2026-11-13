@@ -1,0 +1,17 @@
+{
+  "commit": "20e6a619fe84d2a55bb1dc6adfeafde0b93f1876",
+  "repo_url": "https://github.com/jaylfc/taos",
+  "date": "2026-07-04T01:28:32",
+  "languages": {
+    "Python": 9022562,
+    "TypeScript": 4908758,
+    "Shell": 579171,
+    "CSS": 115360,
+    "HTML": 105588,
+    "JavaScript": 58904,
+    "Swift": 24086,
+    "PowerShell": 13928,
+    "Dockerfile": 11372
+  },
+  "size": 14839729
+}

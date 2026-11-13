@@ -1,0 +1,12 @@
+{
+  "commit": "04a55f3c7ee3f8bb83106528a4d8ae7265f15f51",
+  "repo_url": "https://github.com/aws-deadline/deadline-cloud-worker-agent",
+  "date": "2026-08-14T23:54:35",
+  "languages": {
+    "Python": 2570257,
+    "Shell": 107428,
+    "Dockerfile": 7589,
+    "PowerShell": 788
+  },
+  "size": 2686062
+}

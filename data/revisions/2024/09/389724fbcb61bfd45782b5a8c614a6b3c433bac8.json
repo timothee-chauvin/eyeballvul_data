@@ -1,0 +1,11 @@
+{
+  "commit": "389724fbcb61bfd45782b5a8c614a6b3c433bac8",
+  "repo_url": "https://github.com/akamai/cli",
+  "date": "2024-09-05T12:33:43",
+  "languages": {
+    "Go": 376795,
+    "Shell": 19003,
+    "Makefile": 3690
+  },
+  "size": 399488
+}

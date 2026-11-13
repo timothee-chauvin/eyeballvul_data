@@ -1,0 +1,19 @@
+{
+  "commit": "481c9222e3fcedcc3ec56fb4346a36f49c966abb",
+  "repo_url": "https://github.com/jython/jython",
+  "date": "2015-04-29T02:33:54",
+  "languages": {
+    "Python": 25906747,
+    "Java": 12953159,
+    "GAP": 121051,
+    "HTML": 111577,
+    "PLSQL": 22886,
+    "Shell": 18964,
+    "C": 2514,
+    "Makefile": 2261,
+    "VBScript": 481,
+    "Batchfile": 247,
+    "Roff": 21
+  },
+  "size": 39139908
+}

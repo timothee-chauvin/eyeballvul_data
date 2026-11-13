@@ -1,0 +1,14 @@
+{
+  "commit": "76f9b6d7afa8e00f429a7a364ee386cc290c34eb",
+  "repo_url": "https://github.com/pretix/pretix-adyen",
+  "date": "2026-09-30T07:27:21",
+  "languages": {
+    "Python": 62721,
+    "HTML": 7306,
+    "JavaScript": 6307,
+    "Shell": 566,
+    "Makefile": 271,
+    "CSS": 212
+  },
+  "size": 77383
+}

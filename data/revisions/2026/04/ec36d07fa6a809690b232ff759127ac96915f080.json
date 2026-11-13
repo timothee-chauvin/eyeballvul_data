@@ -1,0 +1,12 @@
+{
+  "commit": "ec36d07fa6a809690b232ff759127ac96915f080",
+  "repo_url": "https://github.com/maplibre/geojson-vt",
+  "date": "2026-04-12T16:58:59",
+  "languages": {
+    "TypeScript": 175293,
+    "JavaScript": 34677,
+    "HTML": 3950,
+    "CSS": 2954
+  },
+  "size": 216874
+}

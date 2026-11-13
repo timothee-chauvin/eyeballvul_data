@@ -1,0 +1,17 @@
+{
+  "commit": "b632ef0994e07b5176ec45171e8cee2c127c5563",
+  "repo_url": "https://github.com/nushell/nushell",
+  "date": "2026-10-04T14:31:48",
+  "languages": {
+    "Rust": 15472586,
+    "Nushell": 408076,
+    "Nix": 8678,
+    "Python": 8421,
+    "JavaScript": 5557,
+    "Dockerfile": 4148,
+    "Shell": 3955,
+    "PowerShell": 989,
+    "Batchfile": 765
+  },
+  "size": 15913175
+}

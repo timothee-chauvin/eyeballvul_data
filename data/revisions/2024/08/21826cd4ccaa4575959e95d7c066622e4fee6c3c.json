@@ -1,0 +1,15 @@
+{
+  "commit": "21826cd4ccaa4575959e95d7c066622e4fee6c3c",
+  "repo_url": "https://github.com/jupyterlab/jupyterlab-desktop",
+  "date": "2024-08-29T23:00:53",
+  "languages": {
+    "TypeScript": 489114,
+    "JavaScript": 19048,
+    "HTML": 10906,
+    "NSIS": 10733,
+    "Python": 1357,
+    "Shell": 795,
+    "Batchfile": 33
+  },
+  "size": 531986
+}

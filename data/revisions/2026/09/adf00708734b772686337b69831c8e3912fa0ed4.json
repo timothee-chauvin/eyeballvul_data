@@ -1,0 +1,11 @@
+{
+  "commit": "adf00708734b772686337b69831c8e3912fa0ed4",
+  "repo_url": "https://github.com/tmatens/compose-lint",
+  "date": "2026-09-25T12:26:29",
+  "languages": {
+    "Python": 2094684,
+    "Shell": 24791,
+    "Dockerfile": 6597
+  },
+  "size": 2126072
+}

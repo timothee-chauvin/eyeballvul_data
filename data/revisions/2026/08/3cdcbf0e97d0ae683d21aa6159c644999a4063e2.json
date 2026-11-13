@@ -1,0 +1,12 @@
+{
+  "commit": "3cdcbf0e97d0ae683d21aa6159c644999a4063e2",
+  "repo_url": "https://gitlab.com/teuniz/edfbrowser",
+  "date": "2026-08-23T10:48:13",
+  "languages": {
+    "C++": 3053139,
+    "C": 544120,
+    "QMake": 10542,
+    "Shell": 5746
+  },
+  "size": 3613547
+}

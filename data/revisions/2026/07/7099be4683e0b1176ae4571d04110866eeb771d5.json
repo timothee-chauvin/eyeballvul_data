@@ -1,0 +1,13 @@
+{
+  "commit": "7099be4683e0b1176ae4571d04110866eeb771d5",
+  "repo_url": "https://github.com/nauelg/astro-blocks",
+  "date": "2026-07-02T15:28:41",
+  "languages": {
+    "JavaScript": 725214,
+    "TypeScript": 629589,
+    "Astro": 201575,
+    "CSS": 106902,
+    "Shell": 750
+  },
+  "size": 1664030
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "9088cf1705d8b695bb0a8b2ab1519a96d669bcdc",
+  "repo_url": "https://github.com/grobidorg/grobid",
+  "date": "2025-05-11T15:28:49",
+  "languages": {
+    "Java": 3951511,
+    "HTML": 2052584,
+    "JavaScript": 802179,
+    "Kotlin": 164091,
+    "Ruby": 113884,
+    "Roff": 74517,
+    "CSS": 57790,
+    "Python": 21316,
+    "XSLT": 18226,
+    "XQuery": 8998,
+    "Shell": 7288,
+    "SWIG": 2372,
+    "Batchfile": 226
+  },
+  "size": 7274982
+}

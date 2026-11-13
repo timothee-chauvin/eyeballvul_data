@@ -1,0 +1,13 @@
+{
+  "commit": "e2627367eb7c917a90503ce05a66872fd91da6fb",
+  "repo_url": "https://github.com/zizmorcore/zizmor",
+  "date": "2026-07-14T07:59:53",
+  "languages": {
+    "Rust": 1800004,
+    "Python": 25131,
+    "Shell": 3423,
+    "Makefile": 1733,
+    "Dockerfile": 563
+  },
+  "size": 1830854
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "18cfd388ac47a9e00978b34d6c20341f3e2cdb56",
+  "repo_url": "https://github.com/apitrace/apitrace",
+  "date": "2026-01-30T15:43:06",
+  "languages": {
+    "C++": 8176914,
+    "Python": 2101124,
+    "C": 93051,
+    "CMake": 75380,
+    "Objective-C++": 14172,
+    "Shell": 5783,
+    "PowerShell": 3801,
+    "Dockerfile": 3644,
+    "Makefile": 898,
+    "Emacs Lisp": 204
+  },
+  "size": 10474971
+}

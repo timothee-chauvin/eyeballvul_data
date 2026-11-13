@@ -1,0 +1,12 @@
+{
+  "commit": "a4ed45549bc9c7d00a88356687932b9d2ad5f3f6",
+  "repo_url": "https://github.com/monogramm/erpnext_ocr",
+  "date": "2020-05-02T13:25:53",
+  "languages": {
+    "Python": 45329,
+    "Shell": 7734,
+    "JavaScript": 4753,
+    "Dockerfile": 3223
+  },
+  "size": 61039
+}

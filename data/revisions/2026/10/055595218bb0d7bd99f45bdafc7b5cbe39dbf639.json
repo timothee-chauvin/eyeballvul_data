@@ -1,0 +1,10 @@
+{
+  "commit": "055595218bb0d7bd99f45bdafc7b5cbe39dbf639",
+  "repo_url": "https://github.com/trendyol/kafka-konsumer",
+  "date": "2026-10-01T06:00:01",
+  "languages": {
+    "Go": 208860,
+    "Makefile": 1384
+  },
+  "size": 210244
+}

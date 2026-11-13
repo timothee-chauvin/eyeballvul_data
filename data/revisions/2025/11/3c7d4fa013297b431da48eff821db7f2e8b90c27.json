@@ -1,0 +1,16 @@
+{
+  "commit": "3c7d4fa013297b431da48eff821db7f2e8b90c27",
+  "repo_url": "https://github.com/checkpoint-restore/criu",
+  "date": "2025-11-13T16:40:46",
+  "languages": {
+    "C": 4404681,
+    "Python": 316729,
+    "Java": 134478,
+    "Shell": 132513,
+    "Makefile": 104412,
+    "Assembly": 30023,
+    "Perl": 6490,
+    "Nix": 1963
+  },
+  "size": 5131289
+}

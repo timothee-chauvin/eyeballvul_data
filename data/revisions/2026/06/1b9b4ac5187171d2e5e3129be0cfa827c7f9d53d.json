@@ -1,0 +1,12 @@
+{
+  "commit": "1b9b4ac5187171d2e5e3129be0cfa827c7f9d53d",
+  "repo_url": "https://github.com/mikefarah/yq",
+  "date": "2026-06-06T10:59:47",
+  "languages": {
+    "Go": 1186622,
+    "Shell": 113769,
+    "Makefile": 3250,
+    "Dockerfile": 1169
+  },
+  "size": 1304810
+}

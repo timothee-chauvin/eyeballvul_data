@@ -1,0 +1,15 @@
+{
+  "commit": "21c32fa7915a3f7aecf726b5cd6055f6ac296bb8",
+  "repo_url": "https://github.com/southclaws/storyden",
+  "date": "2026-10-25T13:25:56",
+  "languages": {
+    "Go": 6608867,
+    "TypeScript": 6000133,
+    "JavaScript": 97835,
+    "Python": 89129,
+    "CSS": 45994,
+    "Dockerfile": 3849,
+    "Nushell": 3254
+  },
+  "size": 12849061
+}

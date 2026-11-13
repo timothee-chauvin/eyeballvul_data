@@ -1,0 +1,15 @@
+{
+  "commit": "1ad653dd61017d7966dcdb9f0d26054d92645bc8",
+  "repo_url": "https://github.com/secops-7/mikrodash",
+  "date": "2026-10-29T18:15:47",
+  "languages": {
+    "Go": 10057810,
+    "TypeScript": 3556161,
+    "HTML": 533909,
+    "CSS": 355540,
+    "RouterOS Script": 31895,
+    "Dockerfile": 8942,
+    "JavaScript": 3176
+  },
+  "size": 14547433
+}

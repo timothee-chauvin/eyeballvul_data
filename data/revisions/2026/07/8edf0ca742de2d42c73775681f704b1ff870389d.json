@@ -1,0 +1,14 @@
+{
+  "commit": "8edf0ca742de2d42c73775681f704b1ff870389d",
+  "repo_url": "https://github.com/portabase/portabase",
+  "date": "2026-07-03T09:16:44",
+  "languages": {
+    "TypeScript": 1719663,
+    "JavaScript": 8223,
+    "Shell": 6916,
+    "CSS": 5400,
+    "Dockerfile": 3284,
+    "Makefile": 2931
+  },
+  "size": 1746417
+}

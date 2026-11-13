@@ -1,0 +1,23 @@
+{
+  "commit": "227ff3884dd0b9c2804f20a2cc53964b01256ad9",
+  "repo_url": "https://github.com/apache/cloudstack",
+  "date": "2016-07-25T20:56:04",
+  "languages": {
+    "Java": 33600268,
+    "Python": 11307616,
+    "JavaScript": 5269630,
+    "C#": 2356211,
+    "Shell": 971997,
+    "CSS": 352570,
+    "Groovy": 153137,
+    "HTML": 64590,
+    "XSLT": 60062,
+    "Ruby": 43063,
+    "Rich Text Format": 30715,
+    "Puppet": 18820,
+    "Batchfile": 11926,
+    "FreeMarker": 4917,
+    "Dockerfile": 2016
+  },
+  "size": 54247538
+}

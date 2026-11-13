@@ -1,0 +1,14 @@
+{
+  "commit": "b299b562af665878964b981a459f0a9c04b11adf",
+  "repo_url": "https://github.com/nasa-gcn/gcn.nasa.gov",
+  "date": "2026-10-30T19:07:40",
+  "languages": {
+    "TypeScript": 813243,
+    "MDX": 345184,
+    "JavaScript": 40300,
+    "TeX": 23075,
+    "SCSS": 12043,
+    "Arc": 5330
+  },
+  "size": 1239175
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "279f693fe6a284290508caa9e201887472828ffe",
+  "repo_url": "https://github.com/imgproxy/imgproxy",
+  "date": "2026-09-14T19:10:23",
+  "languages": {
+    "Go": 1062987,
+    "C": 113526,
+    "Shell": 39229,
+    "HTML": 18033,
+    "Dockerfile": 2460,
+    "JavaScript": 1915
+  },
+  "size": 1238150
+}

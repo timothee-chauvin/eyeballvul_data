@@ -1,0 +1,12 @@
+{
+  "commit": "0e5f1582b8ca07916a884abaf2f8f5fd26d0142a",
+  "repo_url": "https://github.com/modelcontextprotocol/servers",
+  "date": "2026-06-04T01:19:41",
+  "languages": {
+    "TypeScript": 348820,
+    "Python": 95673,
+    "JavaScript": 52351,
+    "Dockerfile": 6012
+  },
+  "size": 502856
+}

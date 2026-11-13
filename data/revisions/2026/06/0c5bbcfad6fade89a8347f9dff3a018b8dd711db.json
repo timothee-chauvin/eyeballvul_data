@@ -1,0 +1,15 @@
+{
+  "commit": "0c5bbcfad6fade89a8347f9dff3a018b8dd711db",
+  "repo_url": "https://github.com/gethelio/helio",
+  "date": "2026-06-30T10:01:44",
+  "languages": {
+    "TypeScript": 1914192,
+    "Python": 43555,
+    "Shell": 13656,
+    "JavaScript": 4442,
+    "Dockerfile": 4062,
+    "CSS": 525,
+    "HTML": 418
+  },
+  "size": 1980850
+}

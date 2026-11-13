@@ -1,0 +1,31 @@
+{
+  "commit": "aa6a2e6bf05d43c3bb44db50566937a5f97a6580",
+  "repo_url": "https://github.com/mariadb/server",
+  "date": "2025-11-04T12:44:39",
+  "languages": {
+    "C++": 44084472,
+    "C": 28958460,
+    "Perl": 1869786,
+    "Shell": 716784,
+    "CMake": 639387,
+    "Yacc": 634405,
+    "Objective-C": 543225,
+    "Python": 80910,
+    "Java": 75362,
+    "Roff": 37513,
+    "M4": 27140,
+    "Makefile": 26547,
+    "DTrace": 17036,
+    "XS": 15909,
+    "Ruby": 13954,
+    "Lex": 13712,
+    "JavaScript": 8079,
+    "Raku": 2962,
+    "Batchfile": 2121,
+    "PowerShell": 1428,
+    "PHP": 722,
+    "Awk": 633,
+    "HTML": 542
+  },
+  "size": 77771089
+}

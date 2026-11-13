@@ -1,0 +1,16 @@
+{
+  "commit": "3eee8af397a77a2c886a3fb6784fe3ec24ec6a50",
+  "repo_url": "https://github.com/ignisda/ryot",
+  "date": "2026-07-11T19:15:44",
+  "languages": {
+    "TypeScript": 1745267,
+    "Rust": 1687894,
+    "CSS": 6378,
+    "Python": 5745,
+    "Dockerfile": 3662,
+    "Shell": 1126,
+    "JavaScript": 426,
+    "HTML": 418
+  },
+  "size": 3450916
+}

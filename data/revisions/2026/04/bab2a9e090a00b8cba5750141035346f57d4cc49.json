@@ -1,0 +1,13 @@
+{
+  "commit": "bab2a9e090a00b8cba5750141035346f57d4cc49",
+  "repo_url": "https://github.com/pgedge/pgedge-postgres-mcp",
+  "date": "2026-04-27T15:22:20",
+  "languages": {
+    "Go": 2025003,
+    "JavaScript": 418312,
+    "Shell": 37041,
+    "Makefile": 10267,
+    "HTML": 474
+  },
+  "size": 2491097
+}

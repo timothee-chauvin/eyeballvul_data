@@ -1,0 +1,16 @@
+{
+  "commit": "7a4e38f1d0c97ad72f4480f90666c96a850cca28",
+  "repo_url": "https://github.com/nexmoe/vidbee",
+  "date": "2026-08-30T11:25:05",
+  "languages": {
+    "TypeScript": 2730720,
+    "JavaScript": 97068,
+    "CSS": 44986,
+    "Shell": 9613,
+    "PowerShell": 8444,
+    "Dockerfile": 3360,
+    "Ruby": 1568,
+    "HTML": 967
+  },
+  "size": 2896726
+}

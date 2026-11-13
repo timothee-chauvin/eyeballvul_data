@@ -1,0 +1,13 @@
+{
+  "commit": "388002a825c109097b02fc3ce208ce5cfdeab817",
+  "repo_url": "https://github.com/3xpyth0n/ideon",
+  "date": "2026-06-30T22:39:58",
+  "languages": {
+    "TypeScript": 2705766,
+    "CSS": 218989,
+    "Shell": 2187,
+    "Dockerfile": 1964,
+    "JavaScript": 1879
+  },
+  "size": 2930785
+}

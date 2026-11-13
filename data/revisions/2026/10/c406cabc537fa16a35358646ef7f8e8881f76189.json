@@ -1,0 +1,13 @@
+{
+  "commit": "c406cabc537fa16a35358646ef7f8e8881f76189",
+  "repo_url": "https://github.com/mongodb/node-mongodb-native",
+  "date": "2026-10-30T16:23:39",
+  "languages": {
+    "TypeScript": 4682229,
+    "JavaScript": 314515,
+    "Shell": 40908,
+    "Python": 16425,
+    "Makefile": 2936
+  },
+  "size": 5057013
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "b4fcea2871e51cf39a8907e3415b7d786506ab92",
+  "repo_url": "https://github.com/anacrolix/torrent",
+  "date": "2026-02-05T04:42:46",
+  "languages": {
+    "Go": 1135644,
+    "Shell": 1123,
+    "Just": 1062,
+    "Dockerfile": 864
+  },
+  "size": 1138693
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "c8e0220b0694fbe246091102061fba57bf058577",
+  "repo_url": "https://github.com/dynatrace-oss/dynatrace-mcp",
+  "date": "2026-05-29T07:09:49",
+  "languages": {
+    "TypeScript": 240972,
+    "JavaScript": 87514,
+    "Shell": 1987,
+    "CSS": 981,
+    "Dockerfile": 827,
+    "HTML": 301
+  },
+  "size": 332582
+}

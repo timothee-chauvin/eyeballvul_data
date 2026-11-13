@@ -1,0 +1,11 @@
+{
+  "commit": "af4e3a6368542d4f98ef016a975774117797d03e",
+  "repo_url": "https://github.com/ckotzbauer/vulnerability-operator",
+  "date": "2026-06-30T09:27:56",
+  "languages": {
+    "Go": 65845,
+    "Makefile": 834,
+    "Dockerfile": 464
+  },
+  "size": 67143
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "04546f79327f2e5fc6682ddd87e1c8e810fe1fb7",
+  "repo_url": "https://github.com/michael-a-kuykendall/shimmy",
+  "date": "2026-08-30T22:39:55",
+  "languages": {
+    "Rust": 619044,
+    "Shell": 59446,
+    "TOML": 17152,
+    "YAML": 8354,
+    "JavaScript": 7426,
+    "Dockerfile": 5087,
+    "Batchfile": 4732,
+    "Python": 3851,
+    "PowerShell": 2821,
+    "Ruby": 931
+  },
+  "size": 728844
+}

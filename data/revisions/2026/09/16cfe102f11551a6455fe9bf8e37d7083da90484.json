@@ -1,0 +1,15 @@
+{
+  "commit": "16cfe102f11551a6455fe9bf8e37d7083da90484",
+  "repo_url": "https://github.com/kubescape/kubescape",
+  "date": "2026-09-29T05:48:59",
+  "languages": {
+    "Go": 8676026,
+    "Open Policy Agent": 77649,
+    "Shell": 12562,
+    "Python": 9369,
+    "PowerShell": 7332,
+    "Makefile": 3966,
+    "Dockerfile": 624
+  },
+  "size": 8787528
+}

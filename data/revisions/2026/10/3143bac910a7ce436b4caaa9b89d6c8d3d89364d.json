@@ -1,0 +1,16 @@
+{
+  "commit": "3143bac910a7ce436b4caaa9b89d6c8d3d89364d",
+  "repo_url": "https://github.com/mereithhh/vanblog",
+  "date": "2026-10-13T08:21:39",
+  "languages": {
+    "TypeScript": 1355656,
+    "JavaScript": 589885,
+    "Shell": 140265,
+    "CSS": 133981,
+    "HTML": 15712,
+    "Less": 8044,
+    "Dockerfile": 7107,
+    "EJS": 5917
+  },
+  "size": 2256567
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "6e90d562df54068366855f017e4ea785449f67a9",
+  "repo_url": "https://github.com/espressif/esp-protocols",
+  "date": "2026-06-09T11:07:24",
+  "languages": {
+    "C": 1346533,
+    "C++": 740461,
+    "Python": 143294,
+    "CMake": 61954,
+    "Shell": 29102,
+    "SourcePawn": 13780,
+    "Pawn": 3828,
+    "Roff": 2160
+  },
+  "size": 2341112
+}

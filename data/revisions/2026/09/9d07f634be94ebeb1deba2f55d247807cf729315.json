@@ -1,0 +1,18 @@
+{
+  "commit": "9d07f634be94ebeb1deba2f55d247807cf729315",
+  "repo_url": "https://github.com/moonshotai/kimi-code",
+  "date": "2026-09-19T12:06:44",
+  "languages": {
+    "TypeScript": 28801495,
+    "JavaScript": 655206,
+    "C": 34725,
+    "CSS": 12113,
+    "Shell": 10150,
+    "Nix": 8645,
+    "Objective-C": 4266,
+    "HTML": 3227,
+    "Dockerfile": 992,
+    "Makefile": 693
+  },
+  "size": 29531512
+}

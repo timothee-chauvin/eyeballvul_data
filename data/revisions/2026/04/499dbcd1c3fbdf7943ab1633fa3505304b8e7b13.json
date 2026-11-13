@@ -1,0 +1,11 @@
+{
+  "commit": "499dbcd1c3fbdf7943ab1633fa3505304b8e7b13",
+  "repo_url": "https://github.com/pgedge/pgedge-rag-server",
+  "date": "2026-04-04T09:08:36",
+  "languages": {
+    "Go": 291194,
+    "Dockerfile": 1343,
+    "Makefile": 816
+  },
+  "size": 293353
+}

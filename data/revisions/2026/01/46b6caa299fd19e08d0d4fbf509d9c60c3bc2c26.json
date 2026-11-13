@@ -1,0 +1,16 @@
+{
+  "commit": "46b6caa299fd19e08d0d4fbf509d9c60c3bc2c26",
+  "repo_url": "https://github.com/asciimoo/omnom",
+  "date": "2026-01-18T21:43:56",
+  "languages": {
+    "Go": 280867,
+    "JavaScript": 101122,
+    "Smarty": 75784,
+    "SCSS": 23980,
+    "HTML": 10294,
+    "Shell": 4211,
+    "CSS": 1920,
+    "Dockerfile": 1443
+  },
+  "size": 499621
+}

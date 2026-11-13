@@ -1,0 +1,21 @@
+{
+  "id": "OSEC-2026-30",
+  "published": "2026-11-06T12:30:00",
+  "modified": "2026-11-06T19:14:04.802117",
+  "details": "## Summary\n\nIn OCaml before 4.14.5, when the key of an ephemeron is a closure with `Infix_tag` (a function of a mutually recursive group that is not the first function), the mark phase does not keep the ephemeron's data alive, although the key is alive. The clean phase does treat the key as alive, so it leaves the data field filled. The sweep phase then frees the data block. After a major collection the ephemeron's data field still points to the freed block.\n\nThis looks like the part of [#7810](https://github.com/ocaml/ocaml/issues/7810) that PR [#9742](https://github.com/ocaml/ocaml/pull/9742) did not cover. PR [#9742](https://github.com/ocaml/ocaml/pull/9742) fixed the clean phase and the minor collector. It did not change `mark_ephe_aux`.\n\nPlease note that the CVSS score high is under the conditions:\n- *if* the application is using ephemerons,\n- and *if* the application is available over the network,\n- and *if* the attacker can find a way to exploit the memory safety issue in an attack chain.\n\n## Reproduction\n\n```ocaml\n[@@@alert \"-old_ephemeron_api\"]\nlet infix n = let rec f () = n and g () = f () in g\n\nlet build key n =\n  let e = Ephemeron.K1.create () in\n  let w = Weak.create 1 in\n  let d = ref n in\n  Ephemeron.K1.set_key e key;\n  Ephemeron.K1.set_data e d;\n  Weak.set w 0 (Some d);\n  (e, w)\n\nlet run key =\n  let (e, w) = build key 1 in\n  Gc.full_major ();\n  Printf.printf \"tag=%d weak=%b check_key=%b check_data=%b\\n\"\n    (Obj.tag (Obj.repr key)) (Weak.check w 0)\n    (Ephemeron.K1.check_key e) (Ephemeron.K1.check_data e);\n  ignore (Sys.opaque_identity key)\n\nlet () =\n  if Sys.argv.(1) = \"infix\" then run (infix 1) else run (ref 1)\n```\n\n`Obj` is used only to print the tag of the key. The program does not read the\ndata after the collection.\n\n## Timeline\n\n- 2026-10-04: initial report via email\n- 2026-10-09: develop and committed the fix\n- 2026-11-03: fix was reviewed and merged\n- 2026-11-06: OCaml 4.14.5 released",
+  "summary": "Ephemeron data is freed while still referenced when the key is an `Infix_tag` closure",
+  "severity": [
+    {
+      "type": "CVSS_V4",
+      "score": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N/E:P"
+    }
+  ],
+  "repo_url": "https://github.com/ocaml/ocaml",
+  "cwes": [],
+  "commits": [
+    "0d68080b95016f747b7cb63dd36ccdd42d40016e",
+    "7de17eaeccfe555eb2629af7e1048b0e5d492f01",
+    "bee55c46e931fb987f9ecae60c891939e8208506",
+    "ce529ce4255a8a057357647fe385c03b0132fdbe"
+  ]
+}

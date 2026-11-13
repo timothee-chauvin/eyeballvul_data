@@ -1,0 +1,16 @@
+{
+  "commit": "2b65d24196c2218e2d44f2b709695050d8097f52",
+  "repo_url": "https://github.com/supertokens/supertokens-core",
+  "date": "2026-02-13T16:19:36",
+  "languages": {
+    "Java": 8712225,
+    "JavaScript": 100913,
+    "TypeScript": 23525,
+    "Shell": 17226,
+    "CSS": 2340,
+    "Dockerfile": 2258,
+    "HTML": 1679,
+    "Batchfile": 534
+  },
+  "size": 8860700
+}

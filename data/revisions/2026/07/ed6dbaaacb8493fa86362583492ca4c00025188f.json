@@ -1,0 +1,15 @@
+{
+  "commit": "ed6dbaaacb8493fa86362583492ca4c00025188f",
+  "repo_url": "https://github.com/laradock/laradock",
+  "date": "2026-07-15T18:31:57",
+  "languages": {
+    "Dockerfile": 201596,
+    "Shell": 118676,
+    "TypeScript": 78180,
+    "CSS": 38295,
+    "VCL": 22868,
+    "JavaScript": 15592,
+    "Groovy": 328
+  },
+  "size": 475535
+}

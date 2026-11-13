@@ -1,0 +1,13 @@
+{
+  "commit": "cb6f3b7247569e3df2fb19ed22852628c7d453ce",
+  "repo_url": "https://github.com/adobe/usd-fileformat-plugins",
+  "date": "2025-03-11T23:08:49",
+  "languages": {
+    "C++": 1601429,
+    "CMake": 81807,
+    "Python": 19797,
+    "C": 12418,
+    "HTML": 1812
+  },
+  "size": 1717263
+}

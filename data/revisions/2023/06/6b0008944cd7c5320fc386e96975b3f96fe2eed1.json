@@ -1,0 +1,17 @@
+{
+  "commit": "6b0008944cd7c5320fc386e96975b3f96fe2eed1",
+  "repo_url": "https://github.com/ocaml/ocaml.org",
+  "date": "2023-06-05T10:03:56",
+  "languages": {
+    "HTML": 307417,
+    "OCaml": 275463,
+    "CSS": 27503,
+    "JavaScript": 3150,
+    "Makefile": 2467,
+    "Dockerfile": 1437,
+    "Shell": 647,
+    "Perl": 202,
+    "Standard ML": 33
+  },
+  "size": 618319
+}

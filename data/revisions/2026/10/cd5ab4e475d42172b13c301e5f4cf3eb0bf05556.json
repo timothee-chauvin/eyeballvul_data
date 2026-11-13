@@ -1,0 +1,14 @@
+{
+  "commit": "cd5ab4e475d42172b13c301e5f4cf3eb0bf05556",
+  "repo_url": "https://github.com/sgoudelis/ground-station",
+  "date": "2026-10-11T08:56:43",
+  "languages": {
+    "JavaScript": 7547842,
+    "Python": 4960799,
+    "Dockerfile": 21118,
+    "Shell": 8532,
+    "Mako": 635,
+    "HTML": 373
+  },
+  "size": 12539299
+}

@@ -1,0 +1,16 @@
+{
+  "commit": "649f0b2fafee977c998d7e4d674f8b88d952e3a3",
+  "repo_url": "https://github.com/fraunhoferhhi/vvdec",
+  "date": "2026-07-28T09:46:55",
+  "languages": {
+    "C++": 4094387,
+    "CMake": 73756,
+    "C": 30820,
+    "Makefile": 11318,
+    "JavaScript": 7922,
+    "Dockerfile": 3665,
+    "Python": 2602,
+    "HTML": 1064
+  },
+  "size": 4225534
+}

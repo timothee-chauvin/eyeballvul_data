@@ -1,0 +1,16 @@
+{
+  "commit": "2367607e246d21aae168dba15c01151ee0651f30",
+  "repo_url": "https://github.com/libnoname/noname",
+  "date": "2026-10-01T02:43:21",
+  "languages": {
+    "JavaScript": 22629203,
+    "TypeScript": 675403,
+    "CSS": 349622,
+    "Kotlin": 19049,
+    "Vue": 10627,
+    "HTML": 3876,
+    "Java": 1176,
+    "Dockerfile": 913
+  },
+  "size": 23689869
+}

@@ -1,0 +1,19 @@
+{
+  "commit": "35403d51f8a8a95e3687115264d45b99a9788a89",
+  "repo_url": "https://github.com/gcpaas/dataroom",
+  "date": "2026-06-22T14:50:33",
+  "languages": {
+    "Vue": 1485233,
+    "Java": 545561,
+    "TypeScript": 401067,
+    "Shell": 56505,
+    "JavaScript": 35888,
+    "PowerShell": 11941,
+    "Less": 5505,
+    "SCSS": 1598,
+    "Dockerfile": 603,
+    "Batchfile": 483,
+    "HTML": 338
+  },
+  "size": 2544722
+}

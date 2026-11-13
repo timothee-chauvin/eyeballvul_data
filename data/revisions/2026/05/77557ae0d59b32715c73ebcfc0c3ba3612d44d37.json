@@ -1,0 +1,12 @@
+{
+  "commit": "77557ae0d59b32715c73ebcfc0c3ba3612d44d37",
+  "repo_url": "https://github.com/power-components/livewire-powergrid",
+  "date": "2026-05-23T13:11:25",
+  "languages": {
+    "PHP": 706723,
+    "Blade": 225250,
+    "JavaScript": 34120,
+    "CSS": 4006
+  },
+  "size": 970099
+}

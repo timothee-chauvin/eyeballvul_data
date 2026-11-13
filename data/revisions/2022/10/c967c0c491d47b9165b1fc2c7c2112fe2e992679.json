@@ -1,0 +1,16 @@
+{
+  "commit": "c967c0c491d47b9165b1fc2c7c2112fe2e992679",
+  "repo_url": "https://github.com/aws/aws-parallelcluster",
+  "date": "2022-10-25T16:22:43",
+  "languages": {
+    "Python": 5070953,
+    "Shell": 159951,
+    "Smithy": 45837,
+    "Ruby": 31695,
+    "HTML": 8309,
+    "C": 2947,
+    "Dockerfile": 2932,
+    "Jinja": 2090
+  },
+  "size": 5324714
+}

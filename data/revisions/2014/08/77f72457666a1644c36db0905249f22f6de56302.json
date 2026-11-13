@@ -1,0 +1,15 @@
+{
+  "commit": "77f72457666a1644c36db0905249f22f6de56302",
+  "repo_url": "https://gitlab.com/mayan-edms/mayan-edms",
+  "date": "2014-08-27T05:34:08",
+  "languages": {
+    "Python": 1474810,
+    "HTML": 216968,
+    "CSS": 177036,
+    "JavaScript": 39884,
+    "Ruby": 22706,
+    "Gherkin": 4633,
+    "Shell": 1834
+  },
+  "size": 1937871
+}

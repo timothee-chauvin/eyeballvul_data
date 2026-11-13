@@ -1,0 +1,11 @@
+{
+  "commit": "fc67a8f4c01401fd4f5dd709bf898f0ec345f5d1",
+  "repo_url": "https://github.com/sap/cloud-sdk-python",
+  "date": "2026-08-21T13:55:48",
+  "languages": {
+    "Python": 3336710,
+    "Gherkin": 105640,
+    "Makefile": 460
+  },
+  "size": 3442810
+}

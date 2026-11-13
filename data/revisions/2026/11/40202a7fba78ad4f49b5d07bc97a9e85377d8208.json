@@ -1,0 +1,16 @@
+{
+  "commit": "40202a7fba78ad4f49b5d07bc97a9e85377d8208",
+  "repo_url": "https://github.com/firekylin/firekylin",
+  "date": "2026-11-09T15:21:02",
+  "languages": {
+    "JavaScript": 1136882,
+    "TypeScript": 914562,
+    "CSS": 57176,
+    "Less": 48346,
+    "PLpgSQL": 6341,
+    "Shell": 5021,
+    "HTML": 2592,
+    "Dockerfile": 1086
+  },
+  "size": 2172006
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "135de12121a1313a9c1105be577fad2c70c50e8e",
+  "repo_url": "https://github.com/rabithua/rote",
+  "date": "2026-09-29T06:57:43",
+  "languages": {
+    "TypeScript": 3401700,
+    "JavaScript": 17310,
+    "CSS": 10692,
+    "Shell": 8621,
+    "Dockerfile": 7127,
+    "HTML": 3732,
+    "PLpgSQL": 1851
+  },
+  "size": 3451033
+}

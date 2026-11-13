@@ -1,0 +1,20 @@
+{
+  "commit": "93f1fab477634f290bb535c19ed7ad8661315f04",
+  "repo_url": "https://github.com/gridaco/grida",
+  "date": "2026-11-06T08:19:00",
+  "languages": {
+    "TypeScript": 25615412,
+    "PLpgSQL": 849314,
+    "JavaScript": 827055,
+    "HTML": 712423,
+    "Rust": 551829,
+    "CSS": 152630,
+    "Python": 94153,
+    "Shell": 15754,
+    "MDX": 11729,
+    "Just": 2785,
+    "Dockerfile": 1845,
+    "Swift": 684
+  },
+  "size": 28835613
+}

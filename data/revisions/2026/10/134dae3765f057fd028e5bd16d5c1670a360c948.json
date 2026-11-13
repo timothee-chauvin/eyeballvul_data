@@ -1,0 +1,14 @@
+{
+  "commit": "134dae3765f057fd028e5bd16d5c1670a360c948",
+  "repo_url": "https://github.com/mbinorg/mbin",
+  "date": "2026-10-08T14:24:38",
+  "languages": {
+    "PHP": 6327697,
+    "Twig": 681310,
+    "SCSS": 171918,
+    "JavaScript": 109245,
+    "Shell": 9787,
+    "Dockerfile": 3977
+  },
+  "size": 7303934
+}

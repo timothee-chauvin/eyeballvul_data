@@ -1,0 +1,24 @@
+{
+  "commit": "533ac4382a7b69baa98de3a973bff90305b212dc",
+  "repo_url": "https://github.com/logseq/logseq",
+  "date": "2026-10-07T12:05:56",
+  "languages": {
+    "Clojure": 9656559,
+    "OCaml": 1575943,
+    "JavaScript": 1082267,
+    "CSS": 499755,
+    "Swift": 203837,
+    "TypeScript": 189052,
+    "Python": 128163,
+    "Kotlin": 111805,
+    "Shell": 54599,
+    "HTML": 45296,
+    "Java": 37463,
+    "Ruby": 6158,
+    "C": 1312,
+    "Dockerfile": 1110,
+    "Objective-C": 1040,
+    "Standard ML": 870
+  },
+  "size": 13595229
+}

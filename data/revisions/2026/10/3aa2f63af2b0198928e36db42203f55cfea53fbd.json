@@ -1,0 +1,21 @@
+{
+  "commit": "3aa2f63af2b0198928e36db42203f55cfea53fbd",
+  "repo_url": "https://github.com/ietf-tools/datatracker",
+  "date": "2026-10-23T02:08:10",
+  "languages": {
+    "Python": 8555784,
+    "HTML": 1625975,
+    "Shell": 1018987,
+    "JavaScript": 499789,
+    "Vue": 148614,
+    "C": 139484,
+    "SCSS": 53990,
+    "CSS": 48703,
+    "Perl": 17323,
+    "Dockerfile": 16785,
+    "Makefile": 3145,
+    "TeX": 2903,
+    "Roff": 2349
+  },
+  "size": 12133831
+}

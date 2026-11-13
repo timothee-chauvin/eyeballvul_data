@@ -1,0 +1,20 @@
+{
+  "commit": "9163d67909449684bf4261c814174bd7a10b37d9",
+  "repo_url": "https://github.com/meteroid-oss/meteroid",
+  "date": "2026-11-05T18:22:41",
+  "languages": {
+    "Rust": 19100850,
+    "TypeScript": 4733851,
+    "PLpgSQL": 186858,
+    "Fluent": 125836,
+    "Typst": 61121,
+    "Dockerfile": 18130,
+    "HTML": 15953,
+    "CSS": 15860,
+    "JavaScript": 15309,
+    "Smarty": 5024,
+    "MDX": 1921,
+    "Shell": 1028
+  },
+  "size": 24281741
+}
