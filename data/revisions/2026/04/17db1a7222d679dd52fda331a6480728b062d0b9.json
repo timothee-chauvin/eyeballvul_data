@@ -1,0 +1,12 @@
+{
+  "commit": "17db1a7222d679dd52fda331a6480728b062d0b9",
+  "repo_url": "https://github.com/datalayer/jupyter-mcp-server",
+  "date": "2026-04-27T06:07:35",
+  "languages": {
+    "Python": 494427,
+    "Jupyter Notebook": 187337,
+    "Makefile": 4686,
+    "Dockerfile": 603
+  },
+  "size": 687053
+}

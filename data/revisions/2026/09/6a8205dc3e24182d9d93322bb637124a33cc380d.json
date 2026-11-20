@@ -1,0 +1,14 @@
+{
+  "commit": "6a8205dc3e24182d9d93322bb637124a33cc380d",
+  "repo_url": "https://github.com/alexbates/tamari",
+  "date": "2026-09-14T00:05:13",
+  "languages": {
+    "Python": 490117,
+    "CSS": 410994,
+    "HTML": 298089,
+    "JavaScript": 54078,
+    "Shell": 609,
+    "Dockerfile": 497
+  },
+  "size": 1254384
+}

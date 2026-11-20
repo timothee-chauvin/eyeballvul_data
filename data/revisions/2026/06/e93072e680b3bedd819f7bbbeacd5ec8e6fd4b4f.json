@@ -1,0 +1,27 @@
+{
+  "commit": "e93072e680b3bedd819f7bbbeacd5ec8e6fd4b4f",
+  "repo_url": "https://github.com/nordic-institute/x-road",
+  "date": "2026-06-17T10:05:07",
+  "languages": {
+    "Java": 12726585,
+    "Vue": 1683929,
+    "TypeScript": 454112,
+    "Gherkin": 323223,
+    "Python": 315897,
+    "Shell": 274150,
+    "C": 72548,
+    "SCSS": 34163,
+    "Dockerfile": 28894,
+    "HTML": 13633,
+    "StringTemplate": 6301,
+    "JavaScript": 5723,
+    "Jinja": 3854,
+    "CSS": 3511,
+    "Makefile": 2811,
+    "Perl": 1376,
+    "XSLT": 1244,
+    "BitBake": 1076,
+    "Mustache": 594
+  },
+  "size": 15953624
+}

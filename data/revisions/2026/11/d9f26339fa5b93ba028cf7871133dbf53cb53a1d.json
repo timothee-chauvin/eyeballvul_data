@@ -1,0 +1,14 @@
+{
+  "commit": "d9f26339fa5b93ba028cf7871133dbf53cb53a1d",
+  "repo_url": "https://github.com/markbeep/audiobookrequest",
+  "date": "2026-11-12T20:27:02",
+  "languages": {
+    "Python": 513746,
+    "Jinja": 163701,
+    "CSS": 6196,
+    "Dockerfile": 2136,
+    "Just": 1013,
+    "Mako": 637
+  },
+  "size": 687429
+}

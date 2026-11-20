@@ -1,0 +1,21 @@
+{
+  "commit": "1be1f66dd4fdb25100091fe7ebd2a506762494e2",
+  "repo_url": "https://github.com/gridcf/gct",
+  "date": "2026-01-08T13:47:20",
+  "languages": {
+    "C": 22512479,
+    "Shell": 886008,
+    "Perl": 760327,
+    "Roff": 744140,
+    "Makefile": 391037,
+    "M4": 366373,
+    "C++": 67129,
+    "HTML": 23729,
+    "Yacc": 23583,
+    "Lex": 18165,
+    "Awk": 9313,
+    "Python": 8020,
+    "KRL": 7037
+  },
+  "size": 25817340
+}

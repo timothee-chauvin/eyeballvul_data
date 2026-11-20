@@ -1,0 +1,18 @@
+{
+  "commit": "759889d58ef38e2eed41a8c34db8032e072826f4",
+  "repo_url": "https://github.com/xiangli1999/diffusion-lm",
+  "date": "2022-08-25T22:09:55",
+  "languages": {
+    "Python": 26927272,
+    "MDX": 1258079,
+    "Jupyter Notebook": 207523,
+    "Shell": 65850,
+    "Cuda": 51931,
+    "Dockerfile": 8286,
+    "C++": 6792,
+    "C": 6021,
+    "Makefile": 3115,
+    "Jsonnet": 937
+  },
+  "size": 28535806
+}

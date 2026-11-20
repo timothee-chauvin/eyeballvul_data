@@ -1,0 +1,12 @@
+{
+  "commit": "e16881aa3034843803a1c3262f4658789d942d19",
+  "repo_url": "https://github.com/petebishwhip/laradocs",
+  "date": "2026-06-25T22:01:55",
+  "languages": {
+    "PHP": 857383,
+    "TypeScript": 66194,
+    "Blade": 52521,
+    "JavaScript": 21800
+  },
+  "size": 997898
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "7880d086c46f879fe015ca44080dd86d3c71a836",
+  "repo_url": "https://github.com/daptin/daptin",
+  "date": "2026-07-05T14:50:06",
+  "languages": {
+    "Go": 2501894,
+    "Shell": 172923,
+    "JavaScript": 43259,
+    "HTML": 12286,
+    "Makefile": 8235,
+    "CSS": 7590,
+    "Python": 6491,
+    "Dockerfile": 1019,
+    "Lua": 632,
+    "Procfile": 79
+  },
+  "size": 2754408
+}

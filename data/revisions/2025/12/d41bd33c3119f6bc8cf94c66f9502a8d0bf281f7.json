@@ -1,0 +1,12 @@
+{
+  "commit": "d41bd33c3119f6bc8cf94c66f9502a8d0bf281f7",
+  "repo_url": "https://github.com/autogluon/autogluon",
+  "date": "2025-12-19T18:46:39",
+  "languages": {
+    "Python": 7449301,
+    "Shell": 13082,
+    "Batchfile": 321,
+    "Dockerfile": 281
+  },
+  "size": 7462985
+}

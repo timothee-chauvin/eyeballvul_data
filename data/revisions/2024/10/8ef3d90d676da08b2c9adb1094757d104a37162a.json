@@ -1,0 +1,16 @@
+{
+  "commit": "8ef3d90d676da08b2c9adb1094757d104a37162a",
+  "repo_url": "https://github.com/jonashellmann/everydocs-core",
+  "date": "2024-10-22T10:31:05",
+  "languages": {
+    "Ruby": 41258,
+    "HTML": 4891,
+    "CoffeeScript": 1688,
+    "SCSS": 1603,
+    "JavaScript": 871,
+    "CSS": 686,
+    "Dockerfile": 625,
+    "Shell": 429
+  },
+  "size": 52051
+}

@@ -1,0 +1,27 @@
+{
+  "commit": "18fb9289ff0efdca53c0352ed81a0973f0a6b58c",
+  "repo_url": "https://gitlab.com/kicad/code/kicad",
+  "date": "2026-07-21T19:13:55",
+  "languages": {
+    "C++": 56167038,
+    "C": 28437070,
+    "CMake": 644239,
+    "Python": 589740,
+    "AGS Script": 498064,
+    "SWIG": 117950,
+    "Shell": 92025,
+    "GLSL": 72177,
+    "CSS": 57726,
+    "Objective-C++": 43996,
+    "Kaitai Struct": 26938,
+    "JavaScript": 14944,
+    "Awk": 7749,
+    "HTML": 2897,
+    "Dockerfile": 2499,
+    "PowerShell": 1267,
+    "Makefile": 139,
+    "Scheme": 97,
+    "AMPL": 39
+  },
+  "size": 86776594
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "60f0e1246577cbc4b96ef2a3365ac5d35d5b9a16",
+  "repo_url": "https://github.com/awcodes/filament-curator",
+  "date": "2026-06-30T16:10:47",
+  "languages": {
+    "PHP": 244873,
+    "Blade": 56382,
+    "JavaScript": 13517,
+    "CSS": 3776
+  },
+  "size": 318548
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "e27d1ef097a8502c33f8cc94271c948407c5dce3",
+  "repo_url": "https://github.com/givanz/vvveb",
+  "date": "2026-06-11T13:57:39",
+  "languages": {
+    "HTML": 31224357,
+    "PHP": 1628410,
+    "JavaScript": 1023424,
+    "Smarty": 288319,
+    "CSS": 51586,
+    "Shell": 704,
+    "Dockerfile": 622
+  },
+  "size": 34217422
+}

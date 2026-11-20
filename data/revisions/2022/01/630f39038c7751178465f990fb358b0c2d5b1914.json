@@ -1,0 +1,16 @@
+{
+  "commit": "630f39038c7751178465f990fb358b0c2d5b1914",
+  "repo_url": "https://github.com/tenseijs/tensei",
+  "date": "2022-01-06T09:46:29",
+  "languages": {
+    "TypeScript": 952608,
+    "JavaScript": 21618,
+    "CSS": 21541,
+    "HTML": 20224,
+    "Edge": 6714,
+    "EJS": 6266,
+    "Mustache": 1424,
+    "Shell": 358
+  },
+  "size": 1030753
+}

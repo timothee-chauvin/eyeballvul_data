@@ -1,0 +1,33 @@
+{
+  "commit": "f23e69ce89581343f3b7a42e06828a5331e290d5",
+  "repo_url": "https://github.com/mediaarea/mediainfolib",
+  "date": "2026-05-12T06:44:04",
+  "languages": {
+    "C++": 13554352,
+    "Java": 118079,
+    "C#": 108285,
+    "C": 107618,
+    "M4": 89144,
+    "Shell": 55773,
+    "Python": 54732,
+    "Rust": 47030,
+    "CMake": 36485,
+    "QMake": 29448,
+    "Makefile": 24880,
+    "Visual Basic .NET": 24066,
+    "Batchfile": 23148,
+    "PowerShell": 21118,
+    "NSIS": 19166,
+    "Visual Basic 6.0": 13855,
+    "Pascal": 13620,
+    "PureBasic": 13384,
+    "HTML": 12031,
+    "ASP.NET": 7723,
+    "VBA": 6262,
+    "AutoIt": 5982,
+    "JavaScript": 5140,
+    "Kotlin": 4606,
+    "VBScript": 2771
+  },
+  "size": 14398698
+}

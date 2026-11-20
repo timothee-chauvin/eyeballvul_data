@@ -1,0 +1,23 @@
+{
+  "commit": "9ac3038efcb2d9be603788bfb7e1b1ba2eb06f57",
+  "repo_url": "https://gitlab.com/nbdkit/nbdkit",
+  "date": "2026-10-17T09:40:10",
+  "languages": {
+    "C": 2817672,
+    "Shell": 1231005,
+    "Makefile": 376807,
+    "Python": 119877,
+    "Rust": 97552,
+    "M4": 96661,
+    "Go": 74219,
+    "Dockerfile": 52189,
+    "C++": 47753,
+    "OCaml": 39358,
+    "Perl": 33663,
+    "Tcl": 2569,
+    "Lua": 2564,
+    "CSS": 2469,
+    "Emacs Lisp": 208
+  },
+  "size": 4994566
+}

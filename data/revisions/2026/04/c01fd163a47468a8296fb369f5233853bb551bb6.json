@@ -1,0 +1,15 @@
+{
+  "commit": "c01fd163a47468a8296fb369f5233853bb551bb6",
+  "repo_url": "https://github.com/coreutils/coreutils",
+  "date": "2026-04-20T12:41:57",
+  "languages": {
+    "C": 2918874,
+    "Shell": 1378888,
+    "Perl": 639282,
+    "Makefile": 115570,
+    "M4": 47863,
+    "C++": 13036,
+    "Python": 1585
+  },
+  "size": 5115098
+}

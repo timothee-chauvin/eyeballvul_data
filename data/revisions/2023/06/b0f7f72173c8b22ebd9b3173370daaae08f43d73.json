@@ -1,0 +1,12 @@
+{
+  "commit": "b0f7f72173c8b22ebd9b3173370daaae08f43d73",
+  "repo_url": "https://github.com/contentlayerdev/contentlayer",
+  "date": "2023-06-29T09:14:43",
+  "languages": {
+    "TypeScript": 467874,
+    "JavaScript": 538,
+    "Nix": 472,
+    "MDX": 82
+  },
+  "size": 468966
+}

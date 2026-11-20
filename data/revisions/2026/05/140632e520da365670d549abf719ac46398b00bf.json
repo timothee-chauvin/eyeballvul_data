@@ -1,0 +1,16 @@
+{
+  "commit": "140632e520da365670d549abf719ac46398b00bf",
+  "repo_url": "https://github.com/ansibleforms/ansibleforms",
+  "date": "2026-05-26T12:48:52",
+  "languages": {
+    "JavaScript": 604339,
+    "Vue": 603025,
+    "Python": 49521,
+    "HTML": 45878,
+    "SCSS": 21328,
+    "CSS": 16549,
+    "Shell": 11687,
+    "Dockerfile": 2000
+  },
+  "size": 1354327
+}

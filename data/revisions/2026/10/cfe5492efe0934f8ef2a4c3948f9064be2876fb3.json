@@ -1,0 +1,15 @@
+{
+  "commit": "cfe5492efe0934f8ef2a4c3948f9064be2876fb3",
+  "repo_url": "https://github.com/openkermit/ckermit",
+  "date": "2026-10-01T01:46:08",
+  "languages": {
+    "C": 11044356,
+    "Python": 496072,
+    "Makefile": 415149,
+    "DIGITAL Command Language": 114935,
+    "Roff": 59716,
+    "Shell": 11175,
+    "Module Management System": 7723
+  },
+  "size": 12149126
+}

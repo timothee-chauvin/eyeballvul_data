@@ -1,0 +1,13 @@
+{
+  "commit": "fb41d0386c69e84f0cb5d3b61a6750dd94e802f8",
+  "repo_url": "https://github.com/django-tenants/django-tenants",
+  "date": "2026-10-09T13:17:23",
+  "languages": {
+    "Python": 525998,
+    "HTML": 8232,
+    "Shell": 2018,
+    "Dockerfile": 281,
+    "CSS": 166
+  },
+  "size": 536695
+}

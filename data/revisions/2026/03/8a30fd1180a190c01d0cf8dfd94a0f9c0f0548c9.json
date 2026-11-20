@@ -1,0 +1,15 @@
+{
+  "commit": "8a30fd1180a190c01d0cf8dfd94a0f9c0f0548c9",
+  "repo_url": "https://github.com/knrdl/hubleys-dashboard",
+  "date": "2026-03-17T22:42:19",
+  "languages": {
+    "TypeScript": 196171,
+    "Svelte": 105467,
+    "CSS": 3738,
+    "JavaScript": 3373,
+    "Dockerfile": 2227,
+    "Shell": 925,
+    "HTML": 438
+  },
+  "size": 312339
+}

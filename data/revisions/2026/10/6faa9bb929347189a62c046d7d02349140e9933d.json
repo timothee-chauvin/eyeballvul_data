@@ -1,0 +1,17 @@
+{
+  "commit": "6faa9bb929347189a62c046d7d02349140e9933d",
+  "repo_url": "https://github.com/sqlmapproject/sqlmap",
+  "date": "2026-10-30T16:30:50",
+  "languages": {
+    "Python": 5790554,
+    "Shell": 14473,
+    "C": 13328,
+    "Perl": 2136,
+    "C++": 1587,
+    "PLpgSQL": 536,
+    "TSQL": 466,
+    "PLSQL": 397,
+    "Dockerfile": 232
+  },
+  "size": 5823709
+}

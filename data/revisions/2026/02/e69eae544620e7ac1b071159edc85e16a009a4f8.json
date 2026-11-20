@@ -1,0 +1,13 @@
+{
+  "commit": "e69eae544620e7ac1b071159edc85e16a009a4f8",
+  "repo_url": "https://github.com/cloudflare/agents",
+  "date": "2026-02-04T01:55:29",
+  "languages": {
+    "TypeScript": 1583195,
+    "CSS": 24695,
+    "Astro": 10638,
+    "HTML": 3522,
+    "JavaScript": 339
+  },
+  "size": 1622389
+}

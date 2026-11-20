@@ -1,0 +1,16 @@
+{
+  "commit": "825cefa825b9cf50d829a99bb476e6782787e090",
+  "repo_url": "https://github.com/apache/seatunnel-web",
+  "date": "2024-10-19T10:55:47",
+  "languages": {
+    "Java": 1557167,
+    "TypeScript": 703467,
+    "SCSS": 21377,
+    "Shell": 12110,
+    "JavaScript": 5461,
+    "HTML": 1146,
+    "Dockerfile": 1104,
+    "CSS": 914
+  },
+  "size": 2302746
+}

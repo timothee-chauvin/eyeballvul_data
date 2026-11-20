@@ -1,0 +1,17 @@
+{
+  "commit": "f202b5be11fc98097d69ef460c1753cffe8300be",
+  "repo_url": "https://github.com/owntracks/recorder",
+  "date": "2026-09-08T13:26:40",
+  "languages": {
+    "C": 522720,
+    "HTML": 24137,
+    "JavaScript": 21778,
+    "Shell": 19199,
+    "CSS": 15530,
+    "Python": 13010,
+    "Makefile": 4382,
+    "Lua": 2680,
+    "XSLT": 699
+  },
+  "size": 624135
+}

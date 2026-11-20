@@ -1,0 +1,13 @@
+{
+  "commit": "1c0d6a1e88c4621ab24e6013d84a770e2cabbf2d",
+  "repo_url": "https://github.com/oak-and-sprout/sprout-track",
+  "date": "2026-05-19T14:29:36",
+  "languages": {
+    "TypeScript": 3879356,
+    "JavaScript": 307814,
+    "CSS": 234965,
+    "Shell": 54572,
+    "Dockerfile": 4072
+  },
+  "size": 4480779
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "64421d06eb05da7a4312969befe915c4b2438219",
+  "repo_url": "https://github.com/reza-gholizade/k8s-mcp-server",
+  "date": "2026-05-23T00:03:55",
+  "languages": {
+    "Go": 85308,
+    "Shell": 2008,
+    "PowerShell": 1928,
+    "Dockerfile": 1645
+  },
+  "size": 90889
+}

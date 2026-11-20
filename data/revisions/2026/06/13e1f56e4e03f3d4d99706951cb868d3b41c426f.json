@@ -1,0 +1,12 @@
+{
+  "commit": "13e1f56e4e03f3d4d99706951cb868d3b41c426f",
+  "repo_url": "https://github.com/django-cms/djangocms-moderation",
+  "date": "2026-06-12T23:17:32",
+  "languages": {
+    "Python": 473945,
+    "JavaScript": 102481,
+    "HTML": 26580,
+    "CSS": 10073
+  },
+  "size": 613079
+}

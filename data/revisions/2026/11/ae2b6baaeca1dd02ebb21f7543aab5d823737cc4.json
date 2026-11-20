@@ -1,0 +1,19 @@
+{
+  "commit": "ae2b6baaeca1dd02ebb21f7543aab5d823737cc4",
+  "repo_url": "https://github.com/a2ui-project/a2ui",
+  "date": "2026-11-09T21:09:32",
+  "languages": {
+    "TypeScript": 7706530,
+    "Python": 5563506,
+    "Dart": 4177025,
+    "Swift": 2213252,
+    "JavaScript": 584911,
+    "Kotlin": 350264,
+    "Shell": 110696,
+    "HTML": 107480,
+    "CSS": 20660,
+    "PowerShell": 8799,
+    "ANTLR": 4124
+  },
+  "size": 20847247
+}

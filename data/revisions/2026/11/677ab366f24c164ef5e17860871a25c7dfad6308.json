@@ -1,0 +1,16 @@
+{
+  "commit": "677ab366f24c164ef5e17860871a25c7dfad6308",
+  "repo_url": "https://github.com/fastcrw/crw",
+  "date": "2026-11-16T02:01:01",
+  "languages": {
+    "Rust": 6104861,
+    "Python": 382642,
+    "Shell": 120961,
+    "TypeScript": 93514,
+    "JavaScript": 63368,
+    "Dockerfile": 8442,
+    "Makefile": 2692,
+    "HTML": 814
+  },
+  "size": 6777294
+}

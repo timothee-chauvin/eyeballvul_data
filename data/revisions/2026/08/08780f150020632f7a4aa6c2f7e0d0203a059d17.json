@@ -1,0 +1,11 @@
+{
+  "commit": "08780f150020632f7a4aa6c2f7e0d0203a059d17",
+  "repo_url": "https://github.com/guard-core/guard-core",
+  "date": "2026-08-14T00:36:36",
+  "languages": {
+    "Python": 4336442,
+    "Makefile": 7532,
+    "Dockerfile": 649
+  },
+  "size": 4344623
+}

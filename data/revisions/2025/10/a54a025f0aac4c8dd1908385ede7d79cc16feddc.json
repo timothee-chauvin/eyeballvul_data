@@ -1,0 +1,11 @@
+{
+  "commit": "a54a025f0aac4c8dd1908385ede7d79cc16feddc",
+  "repo_url": "https://github.com/nrfconnect/ncs-zigbee",
+  "date": "2025-10-10T11:55:26",
+  "languages": {
+    "C": 7906761,
+    "CMake": 17770,
+    "Python": 10408
+  },
+  "size": 7934939
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "1f4a098ede98a446b1842dec6036e647de9ba4b2",
+  "repo_url": "https://github.com/arize-ai/phoenix",
+  "date": "2026-05-10T01:41:59",
+  "languages": {
+    "Python": 10766884,
+    "TypeScript": 8035176,
+    "Jupyter Notebook": 3578613,
+    "Shell": 41286,
+    "JavaScript": 34450,
+    "PLpgSQL": 25237,
+    "Makefile": 22207,
+    "CSS": 15038,
+    "HTML": 12995,
+    "Smarty": 11627,
+    "Dockerfile": 10731,
+    "Batchfile": 828,
+    "Mako": 635
+  },
+  "size": 22555707
+}

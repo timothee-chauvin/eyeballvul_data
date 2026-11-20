@@ -1,0 +1,14 @@
+{
+  "commit": "42c6244699e30109619e588b40df6e4993327349",
+  "repo_url": "https://github.com/sc2in/policypress",
+  "date": "2026-07-03T21:58:07",
+  "languages": {
+    "SCSS": 416801,
+    "Zig": 134687,
+    "HTML": 91147,
+    "JavaScript": 25898,
+    "Nix": 22848,
+    "Shell": 1273
+  },
+  "size": 692654
+}

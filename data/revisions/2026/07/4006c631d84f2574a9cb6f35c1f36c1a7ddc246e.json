@@ -1,0 +1,14 @@
+{
+  "commit": "4006c631d84f2574a9cb6f35c1f36c1a7ddc246e",
+  "repo_url": "https://github.com/apireno/domshell",
+  "date": "2026-07-01T01:37:00",
+  "languages": {
+    "TypeScript": 360948,
+    "Python": 43735,
+    "Shell": 19854,
+    "HTML": 8676,
+    "Dockerfile": 2852,
+    "JavaScript": 2233
+  },
+  "size": 438298
+}

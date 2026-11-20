@@ -1,0 +1,22 @@
+{
+  "commit": "1fa4255b2ad83c956fe5dc8838aa7b3c4e4fd3b9",
+  "repo_url": "https://github.com/scalar/scalar",
+  "date": "2026-11-05T11:03:06",
+  "languages": {
+    "TypeScript": 18050460,
+    "Vue": 7648799,
+    "C#": 578159,
+    "Java": 311742,
+    "CSS": 171294,
+    "Python": 161951,
+    "Go": 110493,
+    "JavaScript": 75780,
+    "HTML": 43883,
+    "Rust": 29991,
+    "Shell": 14054,
+    "MDX": 7405,
+    "Astro": 6242,
+    "Dockerfile": 4738
+  },
+  "size": 27214991
+}

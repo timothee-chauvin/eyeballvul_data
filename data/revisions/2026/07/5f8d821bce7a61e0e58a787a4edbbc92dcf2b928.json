@@ -1,0 +1,12 @@
+{
+  "commit": "5f8d821bce7a61e0e58a787a4edbbc92dcf2b928",
+  "repo_url": "https://github.com/netty/netty-incubator-codec-ohttp",
+  "date": "2026-07-12T05:34:57",
+  "languages": {
+    "Java": 413043,
+    "C": 30014,
+    "Shell": 1837,
+    "Ruby": 125
+  },
+  "size": 445019
+}

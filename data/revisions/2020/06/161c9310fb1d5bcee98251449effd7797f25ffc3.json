@@ -1,0 +1,15 @@
+{
+  "commit": "161c9310fb1d5bcee98251449effd7797f25ffc3",
+  "repo_url": "https://github.com/mytbk/fqterm",
+  "date": "2020-06-06T02:52:35",
+  "languages": {
+    "C++": 1503553,
+    "C": 81873,
+    "JavaScript": 35517,
+    "CMake": 25387,
+    "Python": 13701,
+    "Shell": 1140,
+    "Emacs Lisp": 173
+  },
+  "size": 1661344
+}

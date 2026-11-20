@@ -1,0 +1,17 @@
+{
+  "commit": "6fcd95f32bb633d3a62a06c383c0b3322eecc898",
+  "repo_url": "https://github.com/knadh/listmonk",
+  "date": "2026-10-20T10:21:51",
+  "languages": {
+    "Go": 743060,
+    "JavaScript": 319825,
+    "HTML": 296386,
+    "CSS": 58303,
+    "Python": 21327,
+    "Smarty": 12595,
+    "Makefile": 4509,
+    "Shell": 2926,
+    "Dockerfile": 921
+  },
+  "size": 1459852
+}

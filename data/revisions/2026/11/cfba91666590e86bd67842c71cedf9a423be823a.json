@@ -1,0 +1,10 @@
+{
+  "commit": "cfba91666590e86bd67842c71cedf9a423be823a",
+  "repo_url": "https://github.com/smartalock/wireguard-lwip",
+  "date": "2026-11-10T07:56:22",
+  "languages": {
+    "C": 176102,
+    "Assembly": 46330
+  },
+  "size": 222432
+}

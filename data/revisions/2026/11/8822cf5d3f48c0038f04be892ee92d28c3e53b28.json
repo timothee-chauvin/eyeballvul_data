@@ -1,0 +1,17 @@
+{
+  "commit": "8822cf5d3f48c0038f04be892ee92d28c3e53b28",
+  "repo_url": "https://github.com/linagora/cozy-stack",
+  "date": "2026-11-04T09:25:45",
+  "languages": {
+    "Go": 6694547,
+    "TypeScript": 900399,
+    "Shell": 179390,
+    "Ruby": 167926,
+    "HTML": 82671,
+    "JavaScript": 28873,
+    "CSS": 24602,
+    "Makefile": 23933,
+    "Dockerfile": 5682
+  },
+  "size": 8108023
+}

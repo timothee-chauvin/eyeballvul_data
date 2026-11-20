@@ -1,0 +1,15 @@
+{
+  "commit": "be4de3ab2698dc6f7354b1b453d6dae752a046ac",
+  "repo_url": "https://github.com/hefy2027/cf-manager",
+  "date": "2026-07-05T09:01:22",
+  "languages": {
+    "TypeScript": 362959,
+    "Vue": 206290,
+    "JavaScript": 5997,
+    "CSS": 5060,
+    "Shell": 1824,
+    "Dockerfile": 1779,
+    "HTML": 360
+  },
+  "size": 584269
+}

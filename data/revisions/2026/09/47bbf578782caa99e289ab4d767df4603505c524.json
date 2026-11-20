@@ -1,0 +1,14 @@
+{
+  "commit": "47bbf578782caa99e289ab4d767df4603505c524",
+  "repo_url": "https://github.com/iobroker/iobroker.lovelace",
+  "date": "2026-09-01T14:30:12",
+  "languages": {
+    "TypeScript": 1015619,
+    "JavaScript": 518362,
+    "HTML": 65491,
+    "CSS": 16856,
+    "Shell": 592,
+    "Batchfile": 227
+  },
+  "size": 1617147
+}

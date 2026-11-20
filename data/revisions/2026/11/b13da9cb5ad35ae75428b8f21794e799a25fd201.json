@@ -1,0 +1,18 @@
+{
+  "commit": "b13da9cb5ad35ae75428b8f21794e799a25fd201",
+  "repo_url": "https://github.com/samugit83/redamon",
+  "date": "2026-11-01T16:46:52",
+  "languages": {
+    "Python": 22526240,
+    "TypeScript": 16540008,
+    "Shell": 1086289,
+    "CSS": 829721,
+    "JavaScript": 175548,
+    "Dockerfile": 105647,
+    "HTML": 23148,
+    "Makefile": 14668,
+    "YARA": 2526,
+    "PHP": 368
+  },
+  "size": 41304163
+}

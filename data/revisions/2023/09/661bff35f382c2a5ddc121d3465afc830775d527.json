@@ -1,0 +1,12 @@
+{
+  "commit": "661bff35f382c2a5ddc121d3465afc830775d527",
+  "repo_url": "https://github.com/openfunction/openfunction",
+  "date": "2023-09-22T09:59:44",
+  "languages": {
+    "Go": 466650,
+    "Shell": 15556,
+    "Makefile": 7730,
+    "Dockerfile": 1524
+  },
+  "size": 491460
+}

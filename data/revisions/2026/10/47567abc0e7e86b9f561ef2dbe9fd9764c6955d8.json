@@ -1,0 +1,11 @@
+{
+  "commit": "47567abc0e7e86b9f561ef2dbe9fd9764c6955d8",
+  "repo_url": "https://github.com/meilisearch/meilisearch",
+  "date": "2026-10-26T09:01:45",
+  "languages": {
+    "Rust": 9941640,
+    "Shell": 4492,
+    "Dockerfile": 1414
+  },
+  "size": 9947546
+}

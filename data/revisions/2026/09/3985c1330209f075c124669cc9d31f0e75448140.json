@@ -1,0 +1,18 @@
+{
+  "commit": "3985c1330209f075c124669cc9d31f0e75448140",
+  "repo_url": "https://github.com/aip-pub/acps-community",
+  "date": "2026-09-03T03:06:00",
+  "languages": {
+    "Python": 10511185,
+    "Shell": 639112,
+    "JavaScript": 96898,
+    "Jinja": 68190,
+    "CSS": 21182,
+    "Dockerfile": 16087,
+    "Just": 15115,
+    "HTML": 13364,
+    "Lua": 11297,
+    "Mako": 2702
+  },
+  "size": 11395132
+}

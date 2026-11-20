@@ -1,0 +1,11 @@
+{
+  "commit": "149ed352e6ae5995ed9b6a67b60971777d527ad8",
+  "repo_url": "https://github.com/spring-projects/spring-data-neo4j",
+  "date": "2026-10-19T06:40:58",
+  "languages": {
+    "Java": 4126000,
+    "Kotlin": 86904,
+    "Cypher": 30064
+  },
+  "size": 4242968
+}

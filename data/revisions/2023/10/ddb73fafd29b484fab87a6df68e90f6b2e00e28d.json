@@ -1,0 +1,13 @@
+{
+  "commit": "ddb73fafd29b484fab87a6df68e90f6b2e00e28d",
+  "repo_url": "https://github.com/sshtools/maverick-synergy",
+  "date": "2023-10-09T17:27:52",
+  "languages": {
+    "Java": 3502910,
+    "HTML": 2569,
+    "Roff": 1750,
+    "Clojure": 520,
+    "GLSL": 400
+  },
+  "size": 3508149
+}

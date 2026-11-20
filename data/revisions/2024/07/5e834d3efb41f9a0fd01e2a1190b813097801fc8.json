@@ -1,0 +1,18 @@
+{
+  "commit": "5e834d3efb41f9a0fd01e2a1190b813097801fc8",
+  "repo_url": "https://github.com/kzalewski/openssl-1.1.1",
+  "date": "2024-07-13T14:08:11",
+  "languages": {
+    "C": 24034262,
+    "Perl": 5464489,
+    "Assembly": 191068,
+    "Shell": 77875,
+    "C++": 64955,
+    "M4": 46656,
+    "DIGITAL Command Language": 5681,
+    "eC": 5155,
+    "Python": 1363,
+    "sed": 393
+  },
+  "size": 29891897
+}

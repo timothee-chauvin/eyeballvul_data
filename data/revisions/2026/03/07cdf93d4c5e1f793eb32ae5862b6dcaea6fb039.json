@@ -1,0 +1,15 @@
+{
+  "commit": "07cdf93d4c5e1f793eb32ae5862b6dcaea6fb039",
+  "repo_url": "https://github.com/pytition/pytition",
+  "date": "2026-03-01T15:01:14",
+  "languages": {
+    "Python": 477683,
+    "HTML": 138467,
+    "JavaScript": 9517,
+    "SCSS": 6513,
+    "Shell": 5562,
+    "CSS": 5385,
+    "Dockerfile": 618
+  },
+  "size": 643745
+}

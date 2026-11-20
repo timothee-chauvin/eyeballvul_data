@@ -1,0 +1,19 @@
+{
+  "commit": "a7af66cb5edba8a2893e77484352072044f34066",
+  "repo_url": "https://github.com/zzet/gortex",
+  "date": "2026-06-27T22:22:56",
+  "languages": {
+    "Go": 19763212,
+    "Python": 178905,
+    "Shell": 47713,
+    "TypeScript": 18502,
+    "Jinja": 16634,
+    "Makefile": 10122,
+    "PowerShell": 7522,
+    "PHP": 6760,
+    "Java": 3970,
+    "Ruby": 2472,
+    "Elixir": 2012
+  },
+  "size": 20057824
+}

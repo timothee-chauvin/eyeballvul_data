@@ -1,0 +1,14 @@
+{
+  "commit": "c58b513e15f600827c65aa3839a0bd86c7ea32d4",
+  "repo_url": "https://github.com/impworks/bonsai",
+  "date": "2024-01-14T12:01:57",
+  "languages": {
+    "C#": 775356,
+    "HTML": 191680,
+    "JavaScript": 149887,
+    "SCSS": 46892,
+    "Dockerfile": 1137,
+    "Batchfile": 348
+  },
+  "size": 1165300
+}

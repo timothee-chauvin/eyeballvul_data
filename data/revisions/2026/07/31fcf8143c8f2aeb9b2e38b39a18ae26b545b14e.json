@@ -1,0 +1,12 @@
+{
+  "commit": "31fcf8143c8f2aeb9b2e38b39a18ae26b545b14e",
+  "repo_url": "https://github.com/es617/obsidian-sync-mcp",
+  "date": "2026-07-07T23:33:15",
+  "languages": {
+    "TypeScript": 138922,
+    "Shell": 10965,
+    "JavaScript": 2553,
+    "Dockerfile": 1819
+  },
+  "size": 154259
+}

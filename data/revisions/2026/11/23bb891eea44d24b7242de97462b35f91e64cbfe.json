@@ -1,0 +1,17 @@
+{
+  "commit": "23bb891eea44d24b7242de97462b35f91e64cbfe",
+  "repo_url": "https://github.com/samwafgo/samwaf",
+  "date": "2026-11-12T08:27:39",
+  "languages": {
+    "Go": 7076079,
+    "JavaScript": 160798,
+    "HTML": 138745,
+    "Roff": 43268,
+    "Shell": 23878,
+    "Batchfile": 17939,
+    "PowerShell": 3897,
+    "CSS": 1560,
+    "Dockerfile": 1454
+  },
+  "size": 7467618
+}

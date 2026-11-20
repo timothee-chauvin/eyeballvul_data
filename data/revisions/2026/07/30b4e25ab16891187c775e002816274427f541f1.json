@@ -1,0 +1,23 @@
+{
+  "commit": "30b4e25ab16891187c775e002816274427f541f1",
+  "repo_url": "https://github.com/tencentcloud/cubesandbox",
+  "date": "2026-07-03T09:23:03",
+  "languages": {
+    "Rust": 7394984,
+    "Go": 5278427,
+    "C": 4910242,
+    "Shell": 1178849,
+    "TypeScript": 516338,
+    "Python": 277721,
+    "Lua": 119642,
+    "HCL": 91751,
+    "Makefile": 48364,
+    "Dockerfile": 25335,
+    "JavaScript": 12706,
+    "Ruby": 7115,
+    "CSS": 7028,
+    "NASL": 1620,
+    "HTML": 1022
+  },
+  "size": 19871144
+}

@@ -1,0 +1,21 @@
+{
+  "commit": "2910c1a923cef5c8a22d69e87524b556192306ed",
+  "repo_url": "https://github.com/artisancloud/powerx",
+  "date": "2026-10-27T15:23:49",
+  "languages": {
+    "Go": 14753493,
+    "Vue": 2975945,
+    "TypeScript": 1329078,
+    "Shell": 231081,
+    "JavaScript": 187855,
+    "Python": 111061,
+    "Makefile": 65081,
+    "CSS": 11021,
+    "SCSS": 4967,
+    "HTML": 3539,
+    "PLpgSQL": 2684,
+    "Dockerfile": 2582,
+    "Rust": 104
+  },
+  "size": 19678491
+}

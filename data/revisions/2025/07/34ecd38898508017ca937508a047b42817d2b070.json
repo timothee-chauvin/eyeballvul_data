@@ -1,0 +1,14 @@
+{
+  "commit": "34ecd38898508017ca937508a047b42817d2b070",
+  "repo_url": "https://github.com/declare-lab/tango",
+  "date": "2025-07-29T02:13:29",
+  "languages": {
+    "Python": 8337106,
+    "Jupyter Notebook": 1156429,
+    "MDX": 702968,
+    "Dockerfile": 7390,
+    "Makefile": 2756,
+    "Shell": 1439
+  },
+  "size": 10208088
+}

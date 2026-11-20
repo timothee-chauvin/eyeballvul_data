@@ -1,0 +1,13 @@
+{
+  "commit": "e865be1f09f8eb5a46c4b9a16635de892b093d8f",
+  "repo_url": "https://github.com/axeloz/filesharing",
+  "date": "2026-11-10T11:46:58",
+  "languages": {
+    "PHP": 158577,
+    "Blade": 43951,
+    "JavaScript": 1728,
+    "Dockerfile": 1259,
+    "CSS": 554
+  },
+  "size": 206069
+}

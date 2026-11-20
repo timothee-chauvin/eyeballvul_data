@@ -1,0 +1,15 @@
+{
+  "commit": "f0312d8d251e4c6a354ef78b204f269573d94db2",
+  "repo_url": "https://github.com/linkdotnet/blog",
+  "date": "2026-11-09T14:04:31",
+  "languages": {
+    "C#": 697136,
+    "HTML": 226626,
+    "CSS": 41461,
+    "JavaScript": 17528,
+    "Dockerfile": 509,
+    "Batchfile": 305,
+    "Shell": 297
+  },
+  "size": 983862
+}

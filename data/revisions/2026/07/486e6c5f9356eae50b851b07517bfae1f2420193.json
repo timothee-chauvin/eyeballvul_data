@@ -1,0 +1,16 @@
+{
+  "commit": "486e6c5f9356eae50b851b07517bfae1f2420193",
+  "repo_url": "https://github.com/mozilla-ai/llamafile",
+  "date": "2026-07-31T13:35:17",
+  "languages": {
+    "C++": 1163207,
+    "C": 334080,
+    "Makefile": 127073,
+    "Python": 123305,
+    "Shell": 89277,
+    "Batchfile": 69314,
+    "Roff": 5295,
+    "CMake": 227
+  },
+  "size": 1911778
+}

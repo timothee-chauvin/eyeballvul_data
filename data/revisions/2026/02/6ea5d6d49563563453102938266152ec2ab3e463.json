@@ -1,0 +1,13 @@
+{
+  "commit": "6ea5d6d49563563453102938266152ec2ab3e463",
+  "repo_url": "https://github.com/django-cms/django-filer",
+  "date": "2026-02-06T20:21:38",
+  "languages": {
+    "Python": 469959,
+    "HTML": 105523,
+    "JavaScript": 104211,
+    "SCSS": 98510,
+    "CSS": 94
+  },
+  "size": 778297
+}

@@ -1,0 +1,17 @@
+{
+  "commit": "7548f8e9f8d441633cfd3aaa798bdf14be7e673c",
+  "repo_url": "https://github.com/mwielgoszewski/doorman",
+  "date": "2017-09-05T11:44:47",
+  "languages": {
+    "Python": 266936,
+    "HTML": 66539,
+    "Less": 30391,
+    "Shell": 13610,
+    "JavaScript": 8534,
+    "CSS": 1907,
+    "Dockerfile": 1719,
+    "Mako": 436,
+    "Procfile": 109
+  },
+  "size": 390181
+}

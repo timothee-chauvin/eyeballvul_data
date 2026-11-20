@@ -1,0 +1,14 @@
+{
+  "commit": "2ec87f2c7939ae3590683cfde63a723f0640b55b",
+  "repo_url": "https://github.com/defilantech/llmkube",
+  "date": "2026-07-04T02:51:19",
+  "languages": {
+    "Go": 4505123,
+    "Shell": 91526,
+    "Makefile": 25166,
+    "HCL": 21302,
+    "Smarty": 14047,
+    "Dockerfile": 2111
+  },
+  "size": 4659275
+}

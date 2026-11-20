@@ -1,0 +1,17 @@
+{
+  "commit": "96f06c7eade60ecf3e6af0313821373761d1fb85",
+  "repo_url": "https://github.com/dataease/sqlbot",
+  "date": "2026-10-28T05:23:50",
+  "languages": {
+    "JavaScript": 3059131,
+    "Python": 2612333,
+    "CSS": 517916,
+    "TypeScript": 190580,
+    "Shell": 18833,
+    "HTML": 17741,
+    "Less": 10487,
+    "Dockerfile": 3371,
+    "Mako": 523
+  },
+  "size": 6430915
+}

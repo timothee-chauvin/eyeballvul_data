@@ -1,0 +1,15 @@
+{
+  "commit": "63ad5d60d13ddf42292b5ca297e034e78538eed3",
+  "repo_url": "https://github.com/corebunch/instatic",
+  "date": "2026-07-24T19:15:46",
+  "languages": {
+    "TypeScript": 15313028,
+    "CSS": 696280,
+    "Python": 17674,
+    "HTML": 11914,
+    "JavaScript": 8432,
+    "Shell": 7348,
+    "Dockerfile": 1880
+  },
+  "size": 16056556
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "5c2f80b52679b49fa7a05283321610ff75b221bf",
+  "repo_url": "https://github.com/mapbox/node-fontnik",
+  "date": "2026-06-29T09:37:02",
+  "languages": {
+    "C++": 148492,
+    "JavaScript": 24338,
+    "CMake": 4932,
+    "Makefile": 3386,
+    "C": 1263,
+    "Shell": 271
+  },
+  "size": 182682
+}

@@ -1,0 +1,12 @@
+{
+  "commit": "4e2e116840c5718d7e8cbfa69d817ff90f707607",
+  "repo_url": "https://github.com/spartanj/soil2",
+  "date": "2026-07-24T04:45:12",
+  "languages": {
+    "C": 395341,
+    "C++": 366790,
+    "Lua": 24613,
+    "CMake": 4789
+  },
+  "size": 791533
+}

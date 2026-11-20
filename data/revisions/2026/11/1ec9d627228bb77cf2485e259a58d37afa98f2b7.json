@@ -1,0 +1,14 @@
+{
+  "commit": "1ec9d627228bb77cf2485e259a58d37afa98f2b7",
+  "repo_url": "https://github.com/gameyfin/gameyfin",
+  "date": "2026-11-08T00:38:41",
+  "languages": {
+    "Kotlin": 2998843,
+    "TypeScript": 936481,
+    "JavaScript": 29661,
+    "Shell": 14958,
+    "CSS": 4996,
+    "HTML": 653
+  },
+  "size": 3985592
+}

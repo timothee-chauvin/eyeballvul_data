@@ -1,0 +1,17 @@
+{
+  "commit": "91c52b1f4ef3cc8ba3c0638f7536539579af6a9f",
+  "repo_url": "https://github.com/vhelin/wla-dx",
+  "date": "2026-06-27T23:11:19",
+  "languages": {
+    "Assembly": 2861126,
+    "C": 2831749,
+    "Makefile": 92959,
+    "Shell": 17963,
+    "CMake": 14002,
+    "Python": 12560,
+    "Batchfile": 3041,
+    "PHP": 345,
+    "NASL": 201
+  },
+  "size": 5833946
+}

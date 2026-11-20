@@ -1,0 +1,12 @@
+{
+  "commit": "996fa4af0e95b98804d312103b57474490e9c122",
+  "repo_url": "https://github.com/emitter-io/emitter",
+  "date": "2024-02-02T19:50:10",
+  "languages": {
+    "Go": 640885,
+    "HTML": 3129,
+    "Dockerfile": 769,
+    "Batchfile": 517
+  },
+  "size": 645300
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "b65d4a55501dc3b7bb268dc925d8538a8a9f8e95",
+  "repo_url": "https://github.com/thinkmill/keystatic",
+  "date": "2026-08-26T00:22:44",
+  "languages": {
+    "TypeScript": 4601058,
+    "Roff": 334852,
+    "JavaScript": 21844,
+    "Astro": 17886,
+    "CSS": 1019
+  },
+  "size": 4976659
+}

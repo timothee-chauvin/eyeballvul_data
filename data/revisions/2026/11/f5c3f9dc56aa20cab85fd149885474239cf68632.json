@@ -1,0 +1,18 @@
+{
+  "commit": "f5c3f9dc56aa20cab85fd149885474239cf68632",
+  "repo_url": "https://github.com/aqbanking/gwenhywfar",
+  "date": "2026-11-09T22:59:19",
+  "languages": {
+    "C": 5767321,
+    "C++": 397106,
+    "M4": 183114,
+    "Objective-C++": 124958,
+    "Objective-C": 94366,
+    "Makefile": 65205,
+    "Shell": 28455,
+    "Perl": 17573,
+    "Python": 12176,
+    "CMake": 10656
+  },
+  "size": 6700930
+}

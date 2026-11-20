@@ -1,0 +1,17 @@
+{
+  "commit": "b85bc7a98145583e5d7ef85d6d4dd9a6140c5d23",
+  "repo_url": "https://github.com/clearflask/clearflask",
+  "date": "2026-10-31T13:18:24",
+  "languages": {
+    "Java": 3010072,
+    "TypeScript": 2808898,
+    "Shell": 108982,
+    "Mustache": 93819,
+    "JavaScript": 34991,
+    "Makefile": 17711,
+    "HTML": 15509,
+    "Smarty": 6581,
+    "Dockerfile": 1657
+  },
+  "size": 6098220
+}

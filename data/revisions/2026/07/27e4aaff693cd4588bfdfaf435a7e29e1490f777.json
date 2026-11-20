@@ -1,0 +1,18 @@
+{
+  "commit": "27e4aaff693cd4588bfdfaf435a7e29e1490f777",
+  "repo_url": "https://github.com/softwaremill/tapir",
+  "date": "2026-07-07T20:39:58",
+  "languages": {
+    "Scala": 4008631,
+    "Python": 16630,
+    "Shell": 16302,
+    "CSS": 922,
+    "Nix": 871,
+    "Batchfile": 802,
+    "TypeScript": 687,
+    "Makefile": 606,
+    "JavaScript": 338,
+    "HTML": 14
+  },
+  "size": 4045803
+}

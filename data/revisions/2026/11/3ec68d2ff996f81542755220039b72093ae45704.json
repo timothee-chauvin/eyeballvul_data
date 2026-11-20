@@ -1,0 +1,17 @@
+{
+  "commit": "3ec68d2ff996f81542755220039b72093ae45704",
+  "repo_url": "https://github.com/nemerald-voip/fspbx",
+  "date": "2026-11-13T19:40:55",
+  "languages": {
+    "PHP": 9665008,
+    "Vue": 5608135,
+    "Blade": 1787368,
+    "Lua": 1406502,
+    "Shell": 200333,
+    "Python": 108229,
+    "JavaScript": 19676,
+    "Smarty": 9428,
+    "Clojure": 213
+  },
+  "size": 18804892
+}

@@ -1,0 +1,13 @@
+{
+  "commit": "cb9a7469eab95c2799d190305dc2611780a29c9d",
+  "repo_url": "https://github.com/vstruhar/lara-collab",
+  "date": "2026-11-05T15:22:50",
+  "languages": {
+    "PHP": 513863,
+    "JavaScript": 411745,
+    "CSS": 24661,
+    "Blade": 626,
+    "TypeScript": 189
+  },
+  "size": 951084
+}

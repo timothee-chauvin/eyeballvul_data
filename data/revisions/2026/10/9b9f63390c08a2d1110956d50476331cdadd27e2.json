@@ -1,0 +1,16 @@
+{
+  "commit": "9b9f63390c08a2d1110956d50476331cdadd27e2",
+  "repo_url": "https://github.com/replicate/cog",
+  "date": "2026-10-19T18:42:32",
+  "languages": {
+    "Go": 2462076,
+    "Rust": 703779,
+    "HTML": 541256,
+    "Python": 227209,
+    "TypeScript": 209787,
+    "CSS": 18740,
+    "Shell": 8376,
+    "JavaScript": 508
+  },
+  "size": 4171731
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "47299c29fb0fd0887161d8318c2e276de563381e",
+  "repo_url": "https://github.com/n4ze3m/dialoqbase",
+  "date": "2024-10-15T14:23:51",
+  "languages": {
+    "TypeScript": 901010,
+    "PLpgSQL": 5536,
+    "Dockerfile": 2779,
+    "JavaScript": 2094,
+    "CSS": 1332,
+    "HTML": 786
+  },
+  "size": 913537
+}

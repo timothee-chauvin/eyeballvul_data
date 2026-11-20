@@ -1,0 +1,24 @@
+{
+  "commit": "24617284a36f34def8e5ad960f737e48ee6c0058",
+  "repo_url": "https://github.com/classicube/classicube",
+  "date": "2026-10-22T01:15:22",
+  "languages": {
+    "C": 8920343,
+    "Assembly": 166661,
+    "C++": 143970,
+    "Objective-C": 132670,
+    "Makefile": 100202,
+    "JavaScript": 54508,
+    "Java": 45237,
+    "Pawn": 41911,
+    "SWIG": 11451,
+    "CMake": 9134,
+    "GLSL": 6914,
+    "C#": 4664,
+    "Shell": 2693,
+    "Metal": 2413,
+    "Rez": 1196,
+    "HLSL": 1124
+  },
+  "size": 9645091
+}

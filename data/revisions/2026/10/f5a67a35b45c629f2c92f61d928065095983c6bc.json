@@ -1,0 +1,14 @@
+{
+  "commit": "f5a67a35b45c629f2c92f61d928065095983c6bc",
+  "repo_url": "https://github.com/greenbone/gvmd",
+  "date": "2026-10-14T10:42:24",
+  "languages": {
+    "C": 7600883,
+    "Shell": 350682,
+    "XSLT": 62115,
+    "CMake": 46638,
+    "Python": 12579,
+    "Dockerfile": 3677
+  },
+  "size": 8076574
+}

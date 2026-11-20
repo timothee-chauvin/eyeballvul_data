@@ -1,0 +1,12 @@
+{
+  "commit": "f97866f7471cc5288c0e168ab1c42ddceb0bfc57",
+  "repo_url": "https://github.com/kubeshark/kubeshark",
+  "date": "2026-05-19T09:00:17",
+  "languages": {
+    "Go": 272681,
+    "Makefile": 16482,
+    "Shell": 4120,
+    "Smarty": 2967
+  },
+  "size": 296250
+}

@@ -1,0 +1,18 @@
+{
+  "commit": "150f7788562e86a26721241e7c23646d9823528d",
+  "repo_url": "https://github.com/diaspora/diaspora",
+  "date": "2026-04-07T19:28:19",
+  "languages": {
+    "Ruby": 2354177,
+    "JavaScript": 759682,
+    "Haml": 173829,
+    "Gherkin": 147816,
+    "SCSS": 116503,
+    "Handlebars": 51394,
+    "Shell": 23337,
+    "HTML": 8482,
+    "Dockerfile": 1453,
+    "Procfile": 65
+  },
+  "size": 3636738
+}

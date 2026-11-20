@@ -1,0 +1,13 @@
+{
+  "commit": "5a9b14b4356d492d56863740c983c687d54bbfb5",
+  "repo_url": "https://github.com/fabianrolfmatthiasnoll/mymangadb",
+  "date": "2026-05-05T04:49:23",
+  "languages": {
+    "TypeScript": 324299,
+    "Python": 98610,
+    "Dockerfile": 904,
+    "JavaScript": 869,
+    "HTML": 729
+  },
+  "size": 425411
+}

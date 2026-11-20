@@ -1,0 +1,13 @@
+{
+  "commit": "0dc5cb8ba5eed1f61c970a6e8eed785ff9499e63",
+  "repo_url": "https://github.com/aoiflux/mutant",
+  "date": "2026-09-16T19:33:13",
+  "languages": {
+    "Go": 5268512,
+    "TypeScript": 34685,
+    "Shell": 22180,
+    "PowerShell": 18819,
+    "JavaScript": 11801
+  },
+  "size": 5355997
+}

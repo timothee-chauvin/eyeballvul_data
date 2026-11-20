@@ -1,0 +1,15 @@
+{
+  "commit": "5726c24b5a1c8d19c784dd51401de5054f8a52fb",
+  "repo_url": "https://github.com/bitcoinjs/tiny-secp256k1",
+  "date": "2023-06-02T17:50:35",
+  "languages": {
+    "JavaScript": 39094,
+    "C++": 36996,
+    "TypeScript": 21218,
+    "Rust": 18182,
+    "Makefile": 3849,
+    "Dockerfile": 1466,
+    "Shell": 709
+  },
+  "size": 121514
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "64fd5c9955273967b5840481aa5319e28264ca9f",
+  "repo_url": "https://github.com/spring-cloud/spring-cloud-stream",
+  "date": "2026-06-11T14:40:40",
+  "languages": {
+    "Java": 3164505,
+    "Shell": 4232,
+    "Kotlin": 1144
+  },
+  "size": 3169881
+}

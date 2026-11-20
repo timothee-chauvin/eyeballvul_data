@@ -1,0 +1,15 @@
+{
+  "commit": "3f2c11a4c9fcf79929dfd02c96cda28c1c54792e",
+  "repo_url": "https://github.com/interaapps/pastefy",
+  "date": "2026-06-01T21:13:12",
+  "languages": {
+    "Vue": 910737,
+    "Java": 308200,
+    "TypeScript": 153394,
+    "CSS": 7695,
+    "HTML": 2411,
+    "JavaScript": 1459,
+    "Dockerfile": 684
+  },
+  "size": 1384580
+}

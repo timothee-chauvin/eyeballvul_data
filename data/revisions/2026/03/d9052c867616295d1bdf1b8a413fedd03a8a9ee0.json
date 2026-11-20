@@ -1,0 +1,18 @@
+{
+  "commit": "d9052c867616295d1bdf1b8a413fedd03a8a9ee0",
+  "repo_url": "https://github.com/osgeo/shapelib",
+  "date": "2026-03-18T16:31:34",
+  "languages": {
+    "C": 541188,
+    "HTML": 68452,
+    "C++": 25212,
+    "CMake": 19819,
+    "Pascal": 9599,
+    "Makefile": 7274,
+    "CSS": 6556,
+    "Shell": 6060,
+    "M4": 1948,
+    "TeX": 67
+  },
+  "size": 686175
+}

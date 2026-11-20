@@ -1,0 +1,12 @@
+{
+  "commit": "ab6c2d57e6ff7fe02413c26bff00a2c1d515eeec",
+  "repo_url": "https://github.com/buildship-ai/rowy",
+  "date": "2023-10-25T10:24:03",
+  "languages": {
+    "TypeScript": 1830010,
+    "JavaScript": 5107,
+    "HTML": 4207,
+    "CSS": 360
+  },
+  "size": 1839684
+}

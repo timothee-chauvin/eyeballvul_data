@@ -1,0 +1,18 @@
+{
+  "commit": "7b70587c0cacb285f840a2eda9d74f9621a7f142",
+  "repo_url": "https://github.com/react-native-webview/react-native-webview",
+  "date": "2026-11-04T02:11:36",
+  "languages": {
+    "TypeScript": 174053,
+    "Java": 94259,
+    "Objective-C": 83441,
+    "C++": 61569,
+    "Kotlin": 47877,
+    "Objective-C++": 30320,
+    "JavaScript": 14585,
+    "Ruby": 1583,
+    "C": 1051,
+    "HTML": 122
+  },
+  "size": 508860
+}

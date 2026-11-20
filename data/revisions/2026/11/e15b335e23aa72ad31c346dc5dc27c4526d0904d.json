@@ -1,0 +1,18 @@
+{
+  "commit": "e15b335e23aa72ad31c346dc5dc27c4526d0904d",
+  "repo_url": "https://github.com/likaia/nginxpulse",
+  "date": "2026-11-04T08:46:46",
+  "languages": {
+    "Go": 736162,
+    "Vue": 597168,
+    "TypeScript": 134311,
+    "SCSS": 131303,
+    "Shell": 65501,
+    "Python": 14091,
+    "HTML": 9580,
+    "Dockerfile": 3072,
+    "Makefile": 1066,
+    "JavaScript": 76
+  },
+  "size": 1692330
+}

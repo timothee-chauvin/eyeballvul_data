@@ -1,0 +1,12 @@
+{
+  "commit": "91d2205eb8f2591d177b257b92e2c75f830508de",
+  "repo_url": "https://github.com/munt/munt",
+  "date": "2026-11-08T17:47:13",
+  "languages": {
+    "C++": 1502044,
+    "C": 227064,
+    "CMake": 85316,
+    "Makefile": 2658
+  },
+  "size": 1817082
+}

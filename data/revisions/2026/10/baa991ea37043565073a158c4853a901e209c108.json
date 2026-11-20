@@ -1,0 +1,17 @@
+{
+  "commit": "baa991ea37043565073a158c4853a901e209c108",
+  "repo_url": "https://github.com/appflowy-io/appflowy-web",
+  "date": "2026-10-28T23:43:13",
+  "languages": {
+    "TypeScript": 23157165,
+    "JavaScript": 715605,
+    "Gherkin": 714441,
+    "SCSS": 88289,
+    "CSS": 59424,
+    "Shell": 25158,
+    "HTML": 12087,
+    "Rust": 1653,
+    "Dockerfile": 965
+  },
+  "size": 24774787
+}

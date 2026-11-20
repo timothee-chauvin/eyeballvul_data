@@ -1,0 +1,12 @@
+{
+  "commit": "871211d77d97fc1bab2fd2cba7d662d7faa10db3",
+  "repo_url": "https://github.com/pretix/pretixscan-android",
+  "date": "2022-07-29T09:40:25",
+  "languages": {
+    "Kotlin": 189253,
+    "Java": 23039,
+    "HTML": 1893,
+    "Shell": 1649
+  },
+  "size": 215834
+}

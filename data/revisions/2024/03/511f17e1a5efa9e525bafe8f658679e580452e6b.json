@@ -1,0 +1,12 @@
+{
+  "commit": "511f17e1a5efa9e525bafe8f658679e580452e6b",
+  "repo_url": "https://github.com/diced/zipline",
+  "date": "2024-03-01T03:25:21",
+  "languages": {
+    "TypeScript": 490605,
+    "Dockerfile": 2430,
+    "JavaScript": 381,
+    "Shell": 86
+  },
+  "size": 493502
+}

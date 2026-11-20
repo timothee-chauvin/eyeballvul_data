@@ -1,0 +1,20 @@
+{
+  "commit": "45e1372fa6d8fabe26ff35ab2ec207ccc58e53bd",
+  "repo_url": "https://github.com/callstack/agent-device",
+  "date": "2026-11-11T07:07:41",
+  "languages": {
+    "TypeScript": 34372498,
+    "Swift": 1979097,
+    "Objective-C": 339728,
+    "JavaScript": 325844,
+    "Java": 129620,
+    "Astro": 94245,
+    "Kotlin": 33208,
+    "Shell": 31073,
+    "CSS": 28550,
+    "HTML": 20207,
+    "Python": 10645,
+    "AppleScript": 3466
+  },
+  "size": 37368181
+}

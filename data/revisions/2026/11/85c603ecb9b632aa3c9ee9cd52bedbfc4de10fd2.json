@@ -1,0 +1,20 @@
+{
+  "commit": "85c603ecb9b632aa3c9ee9cd52bedbfc4de10fd2",
+  "repo_url": "https://github.com/tess1o/geopulse",
+  "date": "2026-11-11T14:19:17",
+  "languages": {
+    "Java": 9483249,
+    "JavaScript": 6321330,
+    "Vue": 4004928,
+    "Shell": 145274,
+    "CSS": 134476,
+    "Go": 100464,
+    "Python": 77755,
+    "Makefile": 25803,
+    "PLpgSQL": 9245,
+    "Dockerfile": 5880,
+    "Smarty": 5871,
+    "HTML": 1274
+  },
+  "size": 20315549
+}

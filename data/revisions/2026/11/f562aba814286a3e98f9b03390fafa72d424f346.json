@@ -1,0 +1,24 @@
+{
+  "commit": "f562aba814286a3e98f9b03390fafa72d424f346",
+  "repo_url": "https://github.com/screentinker/screentinker",
+  "date": "2026-11-17T04:43:15",
+  "languages": {
+    "JavaScript": 27791945,
+    "HTML": 2677140,
+    "Kotlin": 2125727,
+    "Python": 1605090,
+    "CSS": 315603,
+    "Shell": 276687,
+    "Brightscript": 261964,
+    "QML": 69844,
+    "Swift": 42278,
+    "NSIS": 27766,
+    "GLSL": 21497,
+    "TypeScript": 20392,
+    "PowerShell": 13727,
+    "Inno Setup": 12266,
+    "Dockerfile": 8759,
+    "Batchfile": 1207
+  },
+  "size": 35271892
+}

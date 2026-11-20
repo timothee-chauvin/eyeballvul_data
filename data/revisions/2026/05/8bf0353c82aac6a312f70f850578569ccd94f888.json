@@ -1,0 +1,12 @@
+{
+  "commit": "8bf0353c82aac6a312f70f850578569ccd94f888",
+  "repo_url": "https://github.com/wpengine/wp-graphql-content-blocks",
+  "date": "2026-05-27T14:40:54",
+  "languages": {
+    "PHP": 307862,
+    "Shell": 10413,
+    "JavaScript": 5846,
+    "Dockerfile": 1154
+  },
+  "size": 325275
+}

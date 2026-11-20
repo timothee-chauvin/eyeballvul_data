@@ -1,0 +1,15 @@
+{
+  "commit": "55bd0ceba9d569bf75aab75aaf8f47cb25e21715",
+  "repo_url": "https://github.com/heygen-com/hyperframes",
+  "date": "2026-09-24T12:19:21",
+  "languages": {
+    "TypeScript": 29592325,
+    "JavaScript": 4126587,
+    "Shell": 87791,
+    "Python": 66549,
+    "CSS": 47423,
+    "HCL": 13205,
+    "Dockerfile": 10296
+  },
+  "size": 33944176
+}

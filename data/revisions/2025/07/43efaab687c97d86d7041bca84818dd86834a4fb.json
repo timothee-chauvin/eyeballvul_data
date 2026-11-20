@@ -1,0 +1,15 @@
+{
+  "commit": "43efaab687c97d86d7041bca84818dd86834a4fb",
+  "repo_url": "https://github.com/microsoft/confidential-sidecar-containers",
+  "date": "2025-07-11T17:41:55",
+  "languages": {
+    "Go": 293966,
+    "Python": 40721,
+    "C": 26029,
+    "Shell": 12438,
+    "Bicep": 8132,
+    "Makefile": 787,
+    "Dockerfile": 484
+  },
+  "size": 382557
+}

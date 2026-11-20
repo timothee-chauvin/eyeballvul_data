@@ -1,0 +1,17 @@
+{
+  "commit": "2637127b41f633bc8885bc786f05e3d39b0308a4",
+  "repo_url": "https://github.com/yakifo/amqtt",
+  "date": "2025-08-12T13:39:47",
+  "languages": {
+    "Python": 680197,
+    "TypeScript": 63334,
+    "YAML": 7995,
+    "JavaScript": 5788,
+    "CSS": 2716,
+    "Shell": 2424,
+    "Makefile": 784,
+    "Dockerfile": 608,
+    "HTML": 348
+  },
+  "size": 764194
+}

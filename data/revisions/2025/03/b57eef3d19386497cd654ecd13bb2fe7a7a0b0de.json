@@ -1,0 +1,21 @@
+{
+  "commit": "b57eef3d19386497cd654ecd13bb2fe7a7a0b0de",
+  "repo_url": "https://github.com/bzflag-dev/bzflag",
+  "date": "2025-03-16T22:11:09",
+  "languages": {
+    "C++": 6016434,
+    "C": 115650,
+    "Shell": 108180,
+    "M4": 84710,
+    "Makefile": 51641,
+    "Perl": 27712,
+    "NSIS": 18114,
+    "Lua": 12787,
+    "PHP": 12346,
+    "Objective-C": 11571,
+    "Python": 9539,
+    "Dockerfile": 1581,
+    "Batchfile": 276
+  },
+  "size": 6470541
+}

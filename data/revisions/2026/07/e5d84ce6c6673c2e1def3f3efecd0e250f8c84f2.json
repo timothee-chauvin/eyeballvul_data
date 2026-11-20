@@ -1,0 +1,17 @@
+{
+  "commit": "e5d84ce6c6673c2e1def3f3efecd0e250f8c84f2",
+  "repo_url": "https://github.com/lbr38/repomanager",
+  "date": "2026-07-22T08:55:56",
+  "languages": {
+    "PHP": 2085792,
+    "JavaScript": 541454,
+    "CSS": 92437,
+    "Python": 13409,
+    "Shell": 7852,
+    "Dockerfile": 3971,
+    "Hack": 2187,
+    "Jinja": 1958,
+    "HTML": 1076
+  },
+  "size": 2750136
+}

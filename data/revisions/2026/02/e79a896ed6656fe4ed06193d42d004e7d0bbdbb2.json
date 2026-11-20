@@ -1,0 +1,12 @@
+{
+  "commit": "e79a896ed6656fe4ed06193d42d004e7d0bbdbb2",
+  "repo_url": "https://github.com/vahe1994/aqlm",
+  "date": "2026-02-26T13:58:35",
+  "languages": {
+    "Python": 339720,
+    "Jupyter Notebook": 167889,
+    "Cuda": 26116,
+    "C++": 19284
+  },
+  "size": 553009
+}

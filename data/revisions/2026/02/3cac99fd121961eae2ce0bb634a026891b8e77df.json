@@ -1,0 +1,13 @@
+{
+  "commit": "3cac99fd121961eae2ce0bb634a026891b8e77df",
+  "repo_url": "https://github.com/tensorchord/envd",
+  "date": "2026-02-07T01:42:49",
+  "languages": {
+    "Go": 785630,
+    "Python": 37993,
+    "Shell": 26403,
+    "Makefile": 9296,
+    "Dockerfile": 404
+  },
+  "size": 859726
+}

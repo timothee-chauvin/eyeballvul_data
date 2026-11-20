@@ -1,0 +1,12 @@
+{
+  "commit": "986e9f30c46d55ff784ab7c5d175e24e23e510bb",
+  "repo_url": "https://github.com/django-cms/djangocms-versioning",
+  "date": "2026-06-30T09:11:25",
+  "languages": {
+    "Python": 675114,
+    "JavaScript": 122818,
+    "HTML": 29903,
+    "CSS": 6641
+  },
+  "size": 834476
+}

@@ -1,0 +1,11 @@
+{
+  "commit": "3a4efb45b2e3a9bf400ba0ffbe391787441959dc",
+  "repo_url": "https://github.com/kunai-project/kunai",
+  "date": "2026-03-11T08:27:32",
+  "languages": {
+    "Rust": 613740,
+    "C": 21705,
+    "Shell": 2990
+  },
+  "size": 638435
+}

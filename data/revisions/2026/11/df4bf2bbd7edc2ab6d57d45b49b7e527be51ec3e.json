@@ -1,0 +1,17 @@
+{
+  "commit": "df4bf2bbd7edc2ab6d57d45b49b7e527be51ec3e",
+  "repo_url": "https://github.com/rustrak/rustrak",
+  "date": "2026-11-06T12:27:21",
+  "languages": {
+    "Rust": 4623733,
+    "TypeScript": 3126638,
+    "MDX": 560946,
+    "CSS": 58906,
+    "JavaScript": 37721,
+    "Shell": 19661,
+    "Dockerfile": 6676,
+    "HTML": 4860,
+    "PLpgSQL": 1469
+  },
+  "size": 8440610
+}

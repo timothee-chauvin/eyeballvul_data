@@ -1,0 +1,12 @@
+{
+  "commit": "99a0b5a56bb0ae2d7dec29abcf25d29be16f2c36",
+  "repo_url": "https://github.com/qbee-io/qbee-agent",
+  "date": "2026-04-30T08:33:34",
+  "languages": {
+    "Go": 609854,
+    "Shell": 11822,
+    "Dockerfile": 3171,
+    "Makefile": 948
+  },
+  "size": 625795
+}

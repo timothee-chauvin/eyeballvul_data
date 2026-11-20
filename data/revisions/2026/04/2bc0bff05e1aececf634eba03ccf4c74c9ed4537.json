@@ -1,0 +1,11 @@
+{
+  "commit": "2bc0bff05e1aececf634eba03ccf4c74c9ed4537",
+  "repo_url": "https://github.com/hashicorp/cap",
+  "date": "2026-04-29T14:32:49",
+  "languages": {
+    "Go": 826886,
+    "Makefile": 547,
+    "Shell": 481
+  },
+  "size": 827914
+}

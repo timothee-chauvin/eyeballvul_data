@@ -1,0 +1,15 @@
+{
+  "commit": "662deaaf2d02b9f88da07e2a306b21d0fc3f8c8d",
+  "repo_url": "https://github.com/zer0tonin/mikochi",
+  "date": "2026-03-01T05:14:38",
+  "languages": {
+    "JavaScript": 40707,
+    "Go": 26949,
+    "CSS": 18194,
+    "Smarty": 1439,
+    "Dockerfile": 613,
+    "HTML": 392,
+    "Makefile": 363
+  },
+  "size": 88657
+}

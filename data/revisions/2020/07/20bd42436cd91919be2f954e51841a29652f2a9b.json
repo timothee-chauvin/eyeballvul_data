@@ -1,0 +1,16 @@
+{
+  "commit": "20bd42436cd91919be2f954e51841a29652f2a9b",
+  "repo_url": "https://github.com/kiwitcms/kiwitcms",
+  "date": "2020-07-10T09:44:10",
+  "languages": {
+    "Python": 816891,
+    "HTML": 217192,
+    "JavaScript": 149525,
+    "CSS": 84751,
+    "Shell": 10926,
+    "Makefile": 4364,
+    "Dockerfile": 2769,
+    "Ruby": 931
+  },
+  "size": 1287349
+}

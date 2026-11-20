@@ -1,0 +1,25 @@
+{
+  "commit": "f8f4ff2a0b0af8fcd5cbecbf99a4afb7d0b7c020",
+  "repo_url": "https://github.com/dromara/free-fs",
+  "date": "2026-07-27T12:20:41",
+  "languages": {
+    "Python": 17338573,
+    "XSLT": 4864134,
+    "JavaScript": 4450290,
+    "Fluent": 2304912,
+    "Java": 1037335,
+    "CSS": 289641,
+    "HTML": 188252,
+    "C": 34723,
+    "TeX": 29543,
+    "C++": 14659,
+    "Perl": 11216,
+    "Classic ASP": 9607,
+    "Pascal": 3721,
+    "AMPL": 3010,
+    "Dockerfile": 1562,
+    "Shell": 84,
+    "Batchfile": 74
+  },
+  "size": 30581336
+}

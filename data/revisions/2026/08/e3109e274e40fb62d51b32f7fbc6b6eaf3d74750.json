@@ -1,0 +1,14 @@
+{
+  "commit": "e3109e274e40fb62d51b32f7fbc6b6eaf3d74750",
+  "repo_url": "https://github.com/zyrabit-tech/zyrabit-slm",
+  "date": "2026-08-20T06:28:21",
+  "languages": {
+    "Python": 419675,
+    "JavaScript": 150849,
+    "Shell": 82603,
+    "HTML": 24200,
+    "CSS": 16658,
+    "Dockerfile": 6548
+  },
+  "size": 700533
+}

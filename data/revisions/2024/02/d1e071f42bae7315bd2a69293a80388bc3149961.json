@@ -1,0 +1,11 @@
+{
+  "commit": "d1e071f42bae7315bd2a69293a80388bc3149961",
+  "repo_url": "https://github.com/linuxmint/mintupdate",
+  "date": "2024-02-27T17:08:22",
+  "languages": {
+    "Python": 274962,
+    "Shell": 2429,
+    "Makefile": 433
+  },
+  "size": 277824
+}

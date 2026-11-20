@@ -1,0 +1,16 @@
+{
+  "commit": "d6815e481c72dc142ebfa478456f4a0e6c069097",
+  "repo_url": "https://github.com/jinnrry/pmail",
+  "date": "2026-11-07T13:00:07",
+  "languages": {
+    "Go": 471905,
+    "Vue": 99560,
+    "JavaScript": 17671,
+    "CSS": 8972,
+    "Python": 6606,
+    "Makefile": 3513,
+    "HTML": 1946,
+    "Dockerfile": 1187
+  },
+  "size": 611360
+}

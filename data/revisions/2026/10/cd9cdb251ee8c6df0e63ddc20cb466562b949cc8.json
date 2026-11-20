@@ -1,0 +1,14 @@
+{
+  "commit": "cd9cdb251ee8c6df0e63ddc20cb466562b949cc8",
+  "repo_url": "https://github.com/carlnewton/habitat",
+  "date": "2026-10-21T19:32:39",
+  "languages": {
+    "PHP": 525500,
+    "Twig": 300418,
+    "JavaScript": 85477,
+    "SCSS": 3857,
+    "Dockerfile": 2541,
+    "Shell": 2075
+  },
+  "size": 919868
+}

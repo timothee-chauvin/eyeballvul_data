@@ -1,0 +1,20 @@
+{
+  "commit": "92dd8fe5f4d5c1057489710d8a22f18fdc9d7ed0",
+  "repo_url": "https://github.com/stefanschippers/xschem",
+  "date": "2025-05-14T08:02:39",
+  "languages": {
+    "C": 2599408,
+    "Tcl": 524691,
+    "Awk": 249147,
+    "Roff": 74463,
+    "Shell": 68300,
+    "Yacc": 27405,
+    "VHDL": 13950,
+    "Makefile": 12769,
+    "Lex": 12624,
+    "Batchfile": 1240,
+    "Verilog": 965,
+    "CMake": 774
+  },
+  "size": 3585736
+}

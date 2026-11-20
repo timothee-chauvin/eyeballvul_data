@@ -1,0 +1,14 @@
+{
+  "commit": "12ce3490ef26cbca6ef9b243cb013fffbfe6a6cb",
+  "repo_url": "https://github.com/moby/swarmkit",
+  "date": "2026-04-21T18:27:38",
+  "languages": {
+    "Go": 3144868,
+    "TLA": 52148,
+    "Makefile": 9779,
+    "Dockerfile": 4247,
+    "Shell": 2777,
+    "HCL": 780
+  },
+  "size": 3214599
+}

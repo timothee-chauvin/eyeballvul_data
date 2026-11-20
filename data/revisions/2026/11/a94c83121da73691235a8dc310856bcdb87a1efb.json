@@ -1,0 +1,12 @@
+{
+  "commit": "a94c83121da73691235a8dc310856bcdb87a1efb",
+  "repo_url": "https://github.com/temporalio/temporal-proxy",
+  "date": "2026-11-13T14:00:47",
+  "languages": {
+    "Go": 1885592,
+    "Shell": 2254,
+    "Dockerfile": 483,
+    "Procfile": 223
+  },
+  "size": 1888552
+}

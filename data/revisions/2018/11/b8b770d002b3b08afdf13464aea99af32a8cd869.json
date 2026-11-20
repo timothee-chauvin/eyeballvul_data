@@ -1,0 +1,14 @@
+{
+  "commit": "b8b770d002b3b08afdf13464aea99af32a8cd869",
+  "repo_url": "https://github.com/rubycentral/cfp-app",
+  "date": "2018-11-29T20:35:23",
+  "languages": {
+    "Ruby": 506158,
+    "Haml": 179344,
+    "JavaScript": 106667,
+    "SCSS": 77211,
+    "HTML": 8324,
+    "Procfile": 39
+  },
+  "size": 877743
+}

@@ -1,0 +1,14 @@
+{
+  "commit": "fad6a4087f20437e2f7c1f57ba34ed9cc4bddb23",
+  "repo_url": "https://github.com/coder/vscode-coder",
+  "date": "2026-04-30T21:10:05",
+  "languages": {
+    "TypeScript": 1209967,
+    "CSS": 13138,
+    "JavaScript": 8226,
+    "Dockerfile": 601,
+    "Shell": 534,
+    "Nix": 434
+  },
+  "size": 1232900
+}

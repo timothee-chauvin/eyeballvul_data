@@ -1,0 +1,16 @@
+{
+  "commit": "7966b3f6a5f1dc08a844b3bfa0b22b0f8d424736",
+  "repo_url": "https://github.com/private-octopus/picoquic",
+  "date": "2026-11-04T22:58:05",
+  "languages": {
+    "C": 6724994,
+    "C++": 168634,
+    "CMake": 40694,
+    "HTML": 29030,
+    "Shell": 9076,
+    "PowerShell": 3100,
+    "Perl": 859,
+    "Dockerfile": 711
+  },
+  "size": 6977098
+}
